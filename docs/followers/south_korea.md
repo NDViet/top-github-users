@@ -10,7 +10,7 @@ description: Top GitHub Users By Followers in South Korea
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg" alt="South Korea"/>
 </a>
 
-The `number of followers` of users in South Korea on `2024/11/16 3:22 PM UTC`. This list contains users from South Korea and cities Seoul Busan Incheon Daegu Ulsan Daejeon.
+The `number of followers` of users in South Korea on `2024/11/17 12:32 AM UTC`. This list contains users from South Korea and cities Seoul Busan Incheon Daegu Ulsan Daejeon.
 
 There are `19 countries` and `130 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
@@ -133,7 +133,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>@inflearn </td>
 		<td><a target="_blank" href="https://twitter.com/jojoldu">jojoldu</a></td>
 		<td>Seoul</td>
-		<td>6520</td>
+		<td>6519</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -762,6 +762,19 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 	<tr>
 		<td>51</td>
 		<td>
+			<a target="_blank" href="https://github.com/engcang">
+				<img src="https://avatars.githubusercontent.com/u/34734707?s=72&u=466d707bbd908cd8a7612b4f422e61d4b0ba1de9&v=4" width="24" alt="Avatar of engcang"/> engcang
+			</a><br/>
+			EungchangMasonLee
+		</td>
+		<td>Kaist </td>
+		<td>No Twitter Username</td>
+		<td>Daejeon South Korea</td>
+		<td>603</td>
+	</tr>
+	<tr>
+		<td>52</td>
+		<td>
 			<a target="_blank" href="https://github.com/easylogic">
 				<img src="https://avatars.githubusercontent.com/u/591983?s=72&v=4" width="24" alt="Avatar of easylogic"/> easylogic
 			</a><br/>
@@ -771,19 +784,6 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td><a target="_blank" href="https://twitter.com/easylogic">easylogic</a></td>
 		<td>koreaseoul</td>
 		<td>603</td>
-	</tr>
-	<tr>
-		<td>52</td>
-		<td>
-			<a target="_blank" href="https://github.com/engcang">
-				<img src="https://avatars.githubusercontent.com/u/34734707?s=72&u=466d707bbd908cd8a7612b4f422e61d4b0ba1de9&v=4" width="24" alt="Avatar of engcang"/> engcang
-			</a><br/>
-			EungchangMasonLee
-		</td>
-		<td>Kaist </td>
-		<td>No Twitter Username</td>
-		<td>Daejeon South Korea</td>
-		<td>602</td>
 	</tr>
 	<tr>
 		<td>53</td>
@@ -1147,7 +1147,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>Dplanex </td>
 		<td>No Twitter Username</td>
 		<td>Seoul South Korea</td>
-		<td>477</td>
+		<td>478</td>
 	</tr>
 	<tr>
 		<td>81</td>
@@ -1758,7 +1758,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Seoul Republic of Korea</td>
-		<td>379</td>
+		<td>378</td>
 	</tr>
 	<tr>
 		<td>128</td>
@@ -3115,6 +3115,19 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 	<tr>
 		<td>232</td>
 		<td>
+			<a target="_blank" href="https://github.com/seungheondoh">
+				<img src="https://avatars.githubusercontent.com/u/24955574?s=72&u=75fb3611b82b26b411f87f45847ebb67c201dd30&v=4" width="24" alt="Avatar of seungheondoh"/> seungheondoh
+			</a><br/>
+			SeungHeon Doh
+		</td>
+		<td>Music And Audio Computing<br/>Lab<br/></td>
+		<td>No Twitter Username</td>
+		<td>Daejeon South Korea</td>
+		<td>226</td>
+	</tr>
+	<tr>
+		<td>233</td>
+		<td>
 			<a target="_blank" href="https://github.com/jungseungyeo">
 				<img src="https://avatars.githubusercontent.com/u/32052386?s=72&u=b9823d2cd310c8e3cd8271fc627befd1908ef4bd&v=4" width="24" alt="Avatar of jungseungyeo"/> jungseungyeo
 			</a><br/>
@@ -3126,7 +3139,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>226</td>
 	</tr>
 	<tr>
-		<td>233</td>
+		<td>234</td>
 		<td>
 			<a target="_blank" href="https://github.com/ghostdogpr">
 				<img src="https://avatars.githubusercontent.com/u/7413894?s=72&u=63dea832171801401441412ebfe6a1dbe00e15b4&v=4" width="24" alt="Avatar of ghostdogpr"/> ghostdogpr
@@ -3139,7 +3152,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>225</td>
 	</tr>
 	<tr>
-		<td>234</td>
+		<td>235</td>
 		<td>
 			<a target="_blank" href="https://github.com/endmoseung">
 				<img src="https://avatars.githubusercontent.com/u/103626175?s=72&u=89b8ad085d617e12a109a8ce465a67946a2521fd&v=4" width="24" alt="Avatar of endmoseung"/> endmoseung
@@ -3149,19 +3162,6 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>Hodoolabs </td>
 		<td>No Twitter Username</td>
 		<td>Seoul</td>
-		<td>225</td>
-	</tr>
-	<tr>
-		<td>235</td>
-		<td>
-			<a target="_blank" href="https://github.com/seungheondoh">
-				<img src="https://avatars.githubusercontent.com/u/24955574?s=72&u=75fb3611b82b26b411f87f45847ebb67c201dd30&v=4" width="24" alt="Avatar of seungheondoh"/> seungheondoh
-			</a><br/>
-			SeungHeon Doh
-		</td>
-		<td>Music And Audio Computing<br/>Lab<br/></td>
-		<td>No Twitter Username</td>
-		<td>Daejeon South Korea</td>
 		<td>225</td>
 	</tr>
 	<tr>
@@ -4025,19 +4025,6 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 	<tr>
 		<td>302</td>
 		<td>
-			<a target="_blank" href="https://github.com/key-del-jeeinho">
-				<img src="https://avatars.githubusercontent.com/u/77221262?s=72&u=3265b4d3af58090344ea69732a4861e63d8ee5f1&v=4" width="24" alt="Avatar of key-del-jeeinho"/> key-del-jeeinho
-			</a><br/>
-			 Raul
-		</td>
-		<td>Enhansai </td>
-		<td>No Twitter Username</td>
-		<td>KR Seoul</td>
-		<td>194</td>
-	</tr>
-	<tr>
-		<td>303</td>
-		<td>
 			<a target="_blank" href="https://github.com/Haeeul">
 				<img src="https://avatars.githubusercontent.com/u/39720852?s=72&u=838d8779896dc400bebac1404786466ec2fa3f10&v=4" width="24" alt="Avatar of Haeeul"/> Haeeul
 			</a><br/>
@@ -4049,7 +4036,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>194</td>
 	</tr>
 	<tr>
-		<td>304</td>
+		<td>303</td>
 		<td>
 			<a target="_blank" href="https://github.com/tokijh">
 				<img src="https://avatars.githubusercontent.com/u/3157900?s=72&u=b1b9409c57b3ca1fb9d02efb57f2732d1fca1bdd&v=4" width="24" alt="Avatar of tokijh"/> tokijh
@@ -4062,7 +4049,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>194</td>
 	</tr>
 	<tr>
-		<td>305</td>
+		<td>304</td>
 		<td>
 			<a target="_blank" href="https://github.com/Vallista">
 				<img src="https://avatars.githubusercontent.com/u/6455767?s=72&u=d6c3e9eb175ab438f3dde26896e669268cce4e49&v=4" width="24" alt="Avatar of Vallista"/> Vallista
@@ -4075,7 +4062,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>194</td>
 	</tr>
 	<tr>
-		<td>306</td>
+		<td>305</td>
 		<td>
 			<a target="_blank" href="https://github.com/suminb">
 				<img src="https://avatars.githubusercontent.com/u/136119?s=72&u=2f3c125b7ed930c612e3c80f15ff2f166e61a19f&v=4" width="24" alt="Avatar of suminb"/> suminb
@@ -4085,6 +4072,19 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>Naver Cloud </td>
 		<td>No Twitter Username</td>
 		<td>Seoul Korea</td>
+		<td>193</td>
+	</tr>
+	<tr>
+		<td>306</td>
+		<td>
+			<a target="_blank" href="https://github.com/key-del-jeeinho">
+				<img src="https://avatars.githubusercontent.com/u/77221262?s=72&u=3265b4d3af58090344ea69732a4861e63d8ee5f1&v=4" width="24" alt="Avatar of key-del-jeeinho"/> key-del-jeeinho
+			</a><br/>
+			 Raul
+		</td>
+		<td>Enhansai </td>
+		<td>No Twitter Username</td>
+		<td>KR Seoul</td>
 		<td>193</td>
 	</tr>
 	<tr>
@@ -4467,6 +4467,19 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 	<tr>
 		<td>336</td>
 		<td>
+			<a target="_blank" href="https://github.com/learn-programmers">
+				<img src="https://avatars.githubusercontent.com/u/44829481?s=72&u=3169994e1a1db41a6948da6c8ed9eb70147b13ee&v=4" width="24" alt="Avatar of learn-programmers"/> learn-programmers
+			</a><br/>
+			 
+		</td>
+		<td>@grepp </td>
+		<td>No Twitter Username</td>
+		<td>Seoul South Korea</td>
+		<td>180</td>
+	</tr>
+	<tr>
+		<td>337</td>
+		<td>
 			<a target="_blank" href="https://github.com/async3619">
 				<img src="https://avatars.githubusercontent.com/u/5947388?s=72&u=d4ad3c82277ec4e941ebb03b28249f57ff7ca500&v=4" width="24" alt="Avatar of async3619"/> async3619
 			</a><br/>
@@ -4478,7 +4491,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>179</td>
 	</tr>
 	<tr>
-		<td>337</td>
+		<td>338</td>
 		<td>
 			<a target="_blank" href="https://github.com/Zagoshipda">
 				<img src="https://avatars.githubusercontent.com/u/34166218?s=72&u=533446416d162330b7dcf5c6e0429889fc9570b4&v=4" width="24" alt="Avatar of Zagoshipda"/> Zagoshipda
@@ -4491,7 +4504,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>179</td>
 	</tr>
 	<tr>
-		<td>338</td>
+		<td>339</td>
 		<td>
 			<a target="_blank" href="https://github.com/lyeoni">
 				<img src="https://avatars.githubusercontent.com/u/31428634?s=72&u=e7a3121b6b187c6c922e9489a9ab5881f2378861&v=4" width="24" alt="Avatar of lyeoni"/> lyeoni
@@ -4504,7 +4517,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>179</td>
 	</tr>
 	<tr>
-		<td>339</td>
+		<td>340</td>
 		<td>
 			<a target="_blank" href="https://github.com/totuworld">
 				<img src="https://avatars.githubusercontent.com/u/3582610?s=72&u=3cbf28e0df9768b80d5e278f9e2608b0d74fe5c7&v=4" width="24" alt="Avatar of totuworld"/> totuworld
@@ -4514,19 +4527,6 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>@woowabros </td>
 		<td>No Twitter Username</td>
 		<td>Seoul Korea</td>
-		<td>179</td>
-	</tr>
-	<tr>
-		<td>340</td>
-		<td>
-			<a target="_blank" href="https://github.com/learn-programmers">
-				<img src="https://avatars.githubusercontent.com/u/44829481?s=72&u=3169994e1a1db41a6948da6c8ed9eb70147b13ee&v=4" width="24" alt="Avatar of learn-programmers"/> learn-programmers
-			</a><br/>
-			 
-		</td>
-		<td>@grepp </td>
-		<td>No Twitter Username</td>
-		<td>Seoul South Korea</td>
 		<td>179</td>
 	</tr>
 	<tr>
@@ -4961,6 +4961,19 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 	<tr>
 		<td>374</td>
 		<td>
+			<a target="_blank" href="https://github.com/curieuxjy">
+				<img src="https://avatars.githubusercontent.com/u/40867411?s=72&u=93f9806be6de994cbc88d4cd94c98bd58f171bea&v=4" width="24" alt="Avatar of curieuxjy"/> curieuxjy
+			</a><br/>
+			Jung Yeon Lee
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Seoul</td>
+		<td>169</td>
+	</tr>
+	<tr>
+		<td>375</td>
+		<td>
 			<a target="_blank" href="https://github.com/jung-han">
 				<img src="https://avatars.githubusercontent.com/u/35371660?s=72&u=961fde6983bff99f9b69093bdffbc4a3d5da0cd0&v=4" width="24" alt="Avatar of jung-han"/> jung-han
 			</a><br/>
@@ -4972,7 +4985,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>169</td>
 	</tr>
 	<tr>
-		<td>375</td>
+		<td>376</td>
 		<td>
 			<a target="_blank" href="https://github.com/ruby-kim">
 				<img src="https://avatars.githubusercontent.com/u/38516906?s=72&u=74e162390c2860c7802917d5aa5b6676fa9a8f1f&v=4" width="24" alt="Avatar of ruby-kim"/> ruby-kim
@@ -4983,19 +4996,6 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>No Twitter Username</td>
 		<td>Seoul Republic of Korea</td>
 		<td>169</td>
-	</tr>
-	<tr>
-		<td>376</td>
-		<td>
-			<a target="_blank" href="https://github.com/curieuxjy">
-				<img src="https://avatars.githubusercontent.com/u/40867411?s=72&u=93f9806be6de994cbc88d4cd94c98bd58f171bea&v=4" width="24" alt="Avatar of curieuxjy"/> curieuxjy
-			</a><br/>
-			Jung Yeon Lee
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Seoul</td>
-		<td>168</td>
 	</tr>
 	<tr>
 		<td>377</td>
@@ -5117,19 +5117,6 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 	<tr>
 		<td>386</td>
 		<td>
-			<a target="_blank" href="https://github.com/Neibce">
-				<img src="https://avatars.githubusercontent.com/u/18096595?s=72&u=478e5cec7eae3d2a3563ddde06788de389c225eb&v=4" width="24" alt="Avatar of Neibce"/> Neibce
-			</a><br/>
-			JunYoung Yang
-		</td>
-		<td>Pusan Natl University </td>
-		<td>No Twitter Username</td>
-		<td>Busan SKorea</td>
-		<td>166</td>
-	</tr>
-	<tr>
-		<td>387</td>
-		<td>
 			<a target="_blank" href="https://github.com/laco-dev">
 				<img src="https://avatars.githubusercontent.com/u/28249981?s=72&u=011f1bd5d59a07027bc892d81ae90f03c4576143&v=4" width="24" alt="Avatar of laco-dev"/> laco-dev
 			</a><br/>
@@ -5141,7 +5128,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>166</td>
 	</tr>
 	<tr>
-		<td>388</td>
+		<td>387</td>
 		<td>
 			<a target="_blank" href="https://github.com/O-O-wl">
 				<img src="https://avatars.githubusercontent.com/u/39197978?s=72&u=4222c73585ea60f2522844e2af1a158888d92537&v=4" width="24" alt="Avatar of O-O-wl"/> O-O-wl
@@ -5154,7 +5141,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>166</td>
 	</tr>
 	<tr>
-		<td>389</td>
+		<td>388</td>
 		<td>
 			<a target="_blank" href="https://github.com/delmaSong">
 				<img src="https://avatars.githubusercontent.com/u/40784518?s=72&u=7b0784c661ac53fbf39f49eb1451cc374df09616&v=4" width="24" alt="Avatar of delmaSong"/> delmaSong
@@ -5167,7 +5154,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>165</td>
 	</tr>
 	<tr>
-		<td>390</td>
+		<td>389</td>
 		<td>
 			<a target="_blank" href="https://github.com/x-0o0">
 				<img src="https://avatars.githubusercontent.com/u/53814741?s=72&u=61f328acaed80918a94ef9d4e8e2442e130fb38e&v=4" width="24" alt="Avatar of x-0o0"/> x-0o0
@@ -5177,6 +5164,19 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>Hyundai Motor Group </td>
 		<td>No Twitter Username</td>
 		<td>Seoul South Korea</td>
+		<td>165</td>
+	</tr>
+	<tr>
+		<td>390</td>
+		<td>
+			<a target="_blank" href="https://github.com/Neibce">
+				<img src="https://avatars.githubusercontent.com/u/18096595?s=72&u=478e5cec7eae3d2a3563ddde06788de389c225eb&v=4" width="24" alt="Avatar of Neibce"/> Neibce
+			</a><br/>
+			JunYoung Yang
+		</td>
+		<td>Pusan Natl University </td>
+		<td>No Twitter Username</td>
+		<td>Busan SKorea</td>
 		<td>165</td>
 	</tr>
 	<tr>
@@ -5533,19 +5533,6 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 	<tr>
 		<td>418</td>
 		<td>
-			<a target="_blank" href="https://github.com/JayFreemandev">
-				<img src="https://avatars.githubusercontent.com/u/72185011?s=72&u=ea5599960af238893c3053eaa7ecb940f33f1808&v=4" width="24" alt="Avatar of JayFreemandev"/> JayFreemandev
-			</a><br/>
-			JayFreeman
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Seoul</td>
-		<td>160</td>
-	</tr>
-	<tr>
-		<td>419</td>
-		<td>
 			<a target="_blank" href="https://github.com/rkttu">
 				<img src="https://avatars.githubusercontent.com/u/1297346?s=72&u=1dbc469b7aaa9ef601cfbc021a3e46bad0a2a67c&v=4" width="24" alt="Avatar of rkttu"/> rkttu
 			</a><br/>
@@ -5557,7 +5544,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>160</td>
 	</tr>
 	<tr>
-		<td>420</td>
+		<td>419</td>
 		<td>
 			<a target="_blank" href="https://github.com/Dalgona">
 				<img src="https://avatars.githubusercontent.com/u/2667858?s=72&u=7327f025aad0ee18e6ffd1d9829430145b813a4a&v=4" width="24" alt="Avatar of Dalgona"/> Dalgona
@@ -5568,6 +5555,19 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td><a target="_blank" href="https://twitter.com/d57_kr">d57_kr</a></td>
 		<td>Seoul South Korea</td>
 		<td>160</td>
+	</tr>
+	<tr>
+		<td>420</td>
+		<td>
+			<a target="_blank" href="https://github.com/JayFreemandev">
+				<img src="https://avatars.githubusercontent.com/u/72185011?s=72&u=ea5599960af238893c3053eaa7ecb940f33f1808&v=4" width="24" alt="Avatar of JayFreemandev"/> JayFreemandev
+			</a><br/>
+			JayFreeman
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Seoul</td>
+		<td>159</td>
 	</tr>
 	<tr>
 		<td>421</td>
@@ -5663,19 +5663,6 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 	<tr>
 		<td>428</td>
 		<td>
-			<a target="_blank" href="https://github.com/namsh1125">
-				<img src="https://avatars.githubusercontent.com/u/45845547?s=72&u=3eb489f0b13b87a1f336d29f6ca8d5eff647e15e&v=4" width="24" alt="Avatar of namsh1125"/> namsh1125
-			</a><br/>
-			SeungHyeon
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Seoul Republic of Korea</td>
-		<td>158</td>
-	</tr>
-	<tr>
-		<td>429</td>
-		<td>
 			<a target="_blank" href="https://github.com/e-sung">
 				<img src="https://avatars.githubusercontent.com/u/4796743?s=72&u=2fa8242b5fc843cf022f572d66a6897d9770c0f2&v=4" width="24" alt="Avatar of e-sung"/> e-sung
 			</a><br/>
@@ -5687,7 +5674,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>158</td>
 	</tr>
 	<tr>
-		<td>430</td>
+		<td>429</td>
 		<td>
 			<a target="_blank" href="https://github.com/jeongho1209">
 				<img src="https://avatars.githubusercontent.com/u/101508190?s=72&u=97d29e9fbf9b08cf20082d0aa9b37394067f04e7&v=4" width="24" alt="Avatar of jeongho1209"/> jeongho1209
@@ -5700,7 +5687,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>158</td>
 	</tr>
 	<tr>
-		<td>431</td>
+		<td>430</td>
 		<td>
 			<a target="_blank" href="https://github.com/insub4067">
 				<img src="https://avatars.githubusercontent.com/u/85481204?s=72&u=72bbc32cf0a815369a80828f56ed2fa5de732a21&v=4" width="24" alt="Avatar of insub4067"/> insub4067
@@ -5713,7 +5700,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>158</td>
 	</tr>
 	<tr>
-		<td>432</td>
+		<td>431</td>
 		<td>
 			<a target="_blank" href="https://github.com/Chocochip101">
 				<img src="https://avatars.githubusercontent.com/u/73146678?s=72&u=f198bcc83b62772883a99337ba4c3d5a9a6860b8&v=4" width="24" alt="Avatar of Chocochip101"/> Chocochip101
@@ -5726,7 +5713,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>158</td>
 	</tr>
 	<tr>
-		<td>433</td>
+		<td>432</td>
 		<td>
 			<a target="_blank" href="https://github.com/icepeng">
 				<img src="https://avatars.githubusercontent.com/u/12782606?s=72&u=c67f9d7e39d09d8a9fd49810274a0951172b0e19&v=4" width="24" alt="Avatar of icepeng"/> icepeng
@@ -5739,7 +5726,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>158</td>
 	</tr>
 	<tr>
-		<td>434</td>
+		<td>433</td>
 		<td>
 			<a target="_blank" href="https://github.com/jinseob2kim">
 				<img src="https://avatars.githubusercontent.com/u/33089958?s=72&u=feefa8dfb9e2e3b7c68f1d8ab0ce8f89e5c62641&v=4" width="24" alt="Avatar of jinseob2kim"/> jinseob2kim
@@ -5752,7 +5739,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>158</td>
 	</tr>
 	<tr>
-		<td>435</td>
+		<td>434</td>
 		<td>
 			<a target="_blank" href="https://github.com/Kyeongrok">
 				<img src="https://avatars.githubusercontent.com/u/1642243?s=72&u=ee103455573e7f35958b49d6c78d4087d1c79588&v=4" width="24" alt="Avatar of Kyeongrok"/> Kyeongrok
@@ -5765,7 +5752,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>158</td>
 	</tr>
 	<tr>
-		<td>436</td>
+		<td>435</td>
 		<td>
 			<a target="_blank" href="https://github.com/Junhyunny">
 				<img src="https://avatars.githubusercontent.com/u/50021245?s=72&u=d560797eab45e2203a28ddfd227fd81cd7eacb9c&v=4" width="24" alt="Avatar of Junhyunny"/> Junhyunny
@@ -5775,6 +5762,19 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>@vmwaretanzu @broadcom </td>
 		<td>No Twitter Username</td>
 		<td>Seoul Korea</td>
+		<td>157</td>
+	</tr>
+	<tr>
+		<td>436</td>
+		<td>
+			<a target="_blank" href="https://github.com/namsh1125">
+				<img src="https://avatars.githubusercontent.com/u/45845547?s=72&u=3eb489f0b13b87a1f336d29f6ca8d5eff647e15e&v=4" width="24" alt="Avatar of namsh1125"/> namsh1125
+			</a><br/>
+			SeungHyeon
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Seoul Republic of Korea</td>
 		<td>157</td>
 	</tr>
 	<tr>
@@ -6014,32 +6014,6 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 	<tr>
 		<td>455</td>
 		<td>
-			<a target="_blank" href="https://github.com/choru-k">
-				<img src="https://avatars.githubusercontent.com/u/8134523?s=72&u=41ff2bc58befc7a9f863c06a43ed60ae5916ac16&v=4" width="24" alt="Avatar of choru-k"/> choru-k
-			</a><br/>
-			Cheol Kang
-		</td>
-		<td>@sendbird </td>
-		<td>No Twitter Username</td>
-		<td>Seoul South Korea</td>
-		<td>154</td>
-	</tr>
-	<tr>
-		<td>456</td>
-		<td>
-			<a target="_blank" href="https://github.com/zerosum99">
-				<img src="https://avatars.githubusercontent.com/u/5029019?s=72&u=91ca2f237c5e2f83cd3ba91b13c5f1f49a89370d&v=4" width="24" alt="Avatar of zerosum99"/> zerosum99
-			</a><br/>
-			Moon Yong Joon
-		</td>
-		<td>Sk </td>
-		<td>No Twitter Username</td>
-		<td>Seoul Korea</td>
-		<td>154</td>
-	</tr>
-	<tr>
-		<td>457</td>
-		<td>
 			<a target="_blank" href="https://github.com/nalbam">
 				<img src="https://avatars.githubusercontent.com/u/235465?s=72&v=4" width="24" alt="Avatar of nalbam"/> nalbam
 			</a><br/>
@@ -6051,7 +6025,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>153</td>
 	</tr>
 	<tr>
-		<td>458</td>
+		<td>456</td>
 		<td>
 			<a target="_blank" href="https://github.com/pers0n4">
 				<img src="https://avatars.githubusercontent.com/u/24864600?s=72&u=f211a13a7b572cbbd7779b9c8d8cb428cc7ba07e&v=4" width="24" alt="Avatar of pers0n4"/> pers0n4
@@ -6064,7 +6038,20 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>153</td>
 	</tr>
 	<tr>
-		<td>459</td>
+		<td>457</td>
+		<td>
+			<a target="_blank" href="https://github.com/choru-k">
+				<img src="https://avatars.githubusercontent.com/u/8134523?s=72&u=41ff2bc58befc7a9f863c06a43ed60ae5916ac16&v=4" width="24" alt="Avatar of choru-k"/> choru-k
+			</a><br/>
+			Cheol Kang
+		</td>
+		<td>@sendbird </td>
+		<td>No Twitter Username</td>
+		<td>Seoul South Korea</td>
+		<td>153</td>
+	</tr>
+	<tr>
+		<td>458</td>
 		<td>
 			<a target="_blank" href="https://github.com/eouia">
 				<img src="https://avatars.githubusercontent.com/u/1720610?s=72&v=4" width="24" alt="Avatar of eouia"/> eouia
@@ -6077,7 +6064,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>153</td>
 	</tr>
 	<tr>
-		<td>460</td>
+		<td>459</td>
 		<td>
 			<a target="_blank" href="https://github.com/dn1t">
 				<img src="https://avatars.githubusercontent.com/u/45326612?s=72&u=7896e38a13fa7a45f40be013cc9005a8f0018461&v=4" width="24" alt="Avatar of dn1t"/> dn1t
@@ -6087,6 +6074,19 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>Sorabol High School <br/>@dotcute<br/></td>
 		<td>No Twitter Username</td>
 		<td>Seoul KR</td>
+		<td>153</td>
+	</tr>
+	<tr>
+		<td>460</td>
+		<td>
+			<a target="_blank" href="https://github.com/zerosum99">
+				<img src="https://avatars.githubusercontent.com/u/5029019?s=72&u=91ca2f237c5e2f83cd3ba91b13c5f1f49a89370d&v=4" width="24" alt="Avatar of zerosum99"/> zerosum99
+			</a><br/>
+			Moon Yong Joon
+		</td>
+		<td>Sk </td>
+		<td>No Twitter Username</td>
+		<td>Seoul Korea</td>
 		<td>153</td>
 	</tr>
 	<tr>
@@ -7124,7 +7124,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 			</a><br/>
 			Jeongjin Oh
 		</td>
-		<td>Seoul National University Of<br/>Science<br/>And<br/>Technology<br/></td>
+		<td>Localhost5173 </td>
 		<td><a target="_blank" href="https://twitter.com/ojj991123">ojj991123</a></td>
 		<td>Seoul Korea</td>
 		<td>140</td>
@@ -9043,18 +9043,31 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 	<tr>
 		<td>688</td>
 		<td>
-			<a target="_blank" href="https://github.com/Scanf-s">
-				<img src="https://avatars.githubusercontent.com/u/105439069?s=72&u=3e44e8277581dc6b0bccebdc93297c59c402f1e9&v=4" width="24" alt="Avatar of Scanf-s"/> Scanf-s
+			<a target="_blank" href="https://github.com/marshallku">
+				<img src="https://avatars.githubusercontent.com/u/33550065?s=72&u=6a8c38fb5f589a27274806fea9fbf44d63d0a304&v=4" width="24" alt="Avatar of marshallku"/> marshallku
 			</a><br/>
-			SULLUNG
+			Marshall Ku  
 		</td>
-		<td>Soongsil Univ Cse </td>
+		<td>@seegene </td>
 		<td>No Twitter Username</td>
-		<td>Seoul South Korea</td>
+		<td>Seoul Republic of Korea</td>
 		<td>121</td>
 	</tr>
 	<tr>
 		<td>689</td>
+		<td>
+			<a target="_blank" href="https://github.com/hermet">
+				<img src="https://avatars.githubusercontent.com/u/3711518?s=72&u=5d21864cd3a99f50ae57a8e5f517b2e45eef8b0b&v=4" width="24" alt="Avatar of hermet"/> hermet
+			</a><br/>
+			Hermet Park
+		</td>
+		<td>@lottiefiles </td>
+		<td><a target="_blank" href="https://twitter.com/HermetPark">HermetPark</a></td>
+		<td>Seoul South Korea</td>
+		<td>121</td>
+	</tr>
+	<tr>
+		<td>690</td>
 		<td>
 			<a target="_blank" href="https://github.com/kangju2000">
 				<img src="https://avatars.githubusercontent.com/u/23312485?s=72&u=56d44be9f5705224b1914bf365a1d7c6f022e2bf&v=4" width="24" alt="Avatar of kangju2000"/> kangju2000
@@ -9067,7 +9080,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>121</td>
 	</tr>
 	<tr>
-		<td>690</td>
+		<td>691</td>
 		<td>
 			<a target="_blank" href="https://github.com/GHooN99">
 				<img src="https://avatars.githubusercontent.com/u/53388557?s=72&u=025bdd97f35e7de5e32603a985d9cd5c66f5d7b0&v=4" width="24" alt="Avatar of GHooN99"/> GHooN99
@@ -9080,7 +9093,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>121</td>
 	</tr>
 	<tr>
-		<td>691</td>
+		<td>692</td>
 		<td>
 			<a target="_blank" href="https://github.com/buddman1208">
 				<img src="https://avatars.githubusercontent.com/u/9213292?s=72&u=5bf9865f016abda3eb9fab9d52face05770e0d79&v=4" width="24" alt="Avatar of buddman1208"/> buddman1208
@@ -9093,7 +9106,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>121</td>
 	</tr>
 	<tr>
-		<td>692</td>
+		<td>693</td>
 		<td>
 			<a target="_blank" href="https://github.com/hanameee">
 				<img src="https://avatars.githubusercontent.com/u/25149664?s=72&u=262a20f0e0f1a07baaeae890cd332aede4c38378&v=4" width="24" alt="Avatar of hanameee"/> hanameee
@@ -9106,7 +9119,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>121</td>
 	</tr>
 	<tr>
-		<td>693</td>
+		<td>694</td>
 		<td>
 			<a target="_blank" href="https://github.com/seoul-opengov">
 				<img src="https://avatars.githubusercontent.com/u/18656879?s=72&u=9562d6e65841be9cbac2aaddb8b165ef5284ae57&v=4" width="24" alt="Avatar of seoul-opengov"/> seoul-opengov
@@ -9119,7 +9132,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>121</td>
 	</tr>
 	<tr>
-		<td>694</td>
+		<td>695</td>
 		<td>
 			<a target="_blank" href="https://github.com/uyeong">
 				<img src="https://avatars.githubusercontent.com/u/1321707?s=72&u=cf364553a5132c7faf4376aeb80040889d65ffab&v=4" width="24" alt="Avatar of uyeong"/> uyeong
@@ -9132,7 +9145,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>121</td>
 	</tr>
 	<tr>
-		<td>695</td>
+		<td>696</td>
 		<td>
 			<a target="_blank" href="https://github.com/kkung">
 				<img src="https://avatars.githubusercontent.com/u/4880?s=72&v=4" width="24" alt="Avatar of kkung"/> kkung
@@ -9145,7 +9158,20 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>121</td>
 	</tr>
 	<tr>
-		<td>696</td>
+		<td>697</td>
+		<td>
+			<a target="_blank" href="https://github.com/mudin">
+				<img src="https://avatars.githubusercontent.com/u/33612405?s=72&u=0dbb122d3d6057383ac28032a5c25d5136cde59e&v=4" width="24" alt="Avatar of mudin"/> mudin
+			</a><br/>
+			Mudin Ibrahim
+		</td>
+		<td>Nvidia </td>
+		<td>No Twitter Username</td>
+		<td>Seoul Korea</td>
+		<td>121</td>
+	</tr>
+	<tr>
+		<td>698</td>
 		<td>
 			<a target="_blank" href="https://github.com/ChanghyeonYoon">
 				<img src="https://avatars.githubusercontent.com/u/71636292?s=72&u=e843ffe04c20c9d2fa904fdc483bbd50b9edc02a&v=4" width="24" alt="Avatar of ChanghyeonYoon"/> ChanghyeonYoon
@@ -9158,33 +9184,20 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>120</td>
 	</tr>
 	<tr>
-		<td>697</td>
+		<td>699</td>
 		<td>
-			<a target="_blank" href="https://github.com/marshallku">
-				<img src="https://avatars.githubusercontent.com/u/33550065?s=72&u=6a8c38fb5f589a27274806fea9fbf44d63d0a304&v=4" width="24" alt="Avatar of marshallku"/> marshallku
+			<a target="_blank" href="https://github.com/Scanf-s">
+				<img src="https://avatars.githubusercontent.com/u/105439069?s=72&u=3e44e8277581dc6b0bccebdc93297c59c402f1e9&v=4" width="24" alt="Avatar of Scanf-s"/> Scanf-s
 			</a><br/>
-			Marshall Ku  
+			SULLUNG
 		</td>
-		<td>@seegene </td>
+		<td>Soongsil Univ Cse </td>
 		<td>No Twitter Username</td>
-		<td>Seoul Republic of Korea</td>
-		<td>120</td>
-	</tr>
-	<tr>
-		<td>698</td>
-		<td>
-			<a target="_blank" href="https://github.com/hermet">
-				<img src="https://avatars.githubusercontent.com/u/3711518?s=72&u=5d21864cd3a99f50ae57a8e5f517b2e45eef8b0b&v=4" width="24" alt="Avatar of hermet"/> hermet
-			</a><br/>
-			Hermet Park
-		</td>
-		<td>@lottiefiles </td>
-		<td><a target="_blank" href="https://twitter.com/HermetPark">HermetPark</a></td>
 		<td>Seoul South Korea</td>
 		<td>120</td>
 	</tr>
 	<tr>
-		<td>699</td>
+		<td>700</td>
 		<td>
 			<a target="_blank" href="https://github.com/yansfil">
 				<img src="https://avatars.githubusercontent.com/u/14955500?s=72&u=9adfd3d55f65d6ab4111afe56e635d8019914470&v=4" width="24" alt="Avatar of yansfil"/> yansfil
@@ -9197,7 +9210,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>120</td>
 	</tr>
 	<tr>
-		<td>700</td>
+		<td>701</td>
 		<td>
 			<a target="_blank" href="https://github.com/custardcream98">
 				<img src="https://avatars.githubusercontent.com/u/87423085?s=72&u=d2517daa834e8e82ae7ee38dfbd626acc5663cde&v=4" width="24" alt="Avatar of custardcream98"/> custardcream98
@@ -9210,7 +9223,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>120</td>
 	</tr>
 	<tr>
-		<td>701</td>
+		<td>702</td>
 		<td>
 			<a target="_blank" href="https://github.com/leejoonhun">
 				<img src="https://avatars.githubusercontent.com/u/61962637?s=72&u=dcccfab8f1ee8d03632fe0ae3a865dc0752a768a&v=4" width="24" alt="Avatar of leejoonhun"/> leejoonhun
@@ -9223,7 +9236,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>120</td>
 	</tr>
 	<tr>
-		<td>702</td>
+		<td>703</td>
 		<td>
 			<a target="_blank" href="https://github.com/kongnayeon">
 				<img src="https://avatars.githubusercontent.com/u/103591752?s=72&u=84a09d3bd3e86695fd1d94fc82094d40e9e61898&v=4" width="24" alt="Avatar of kongnayeon"/> kongnayeon
@@ -9236,7 +9249,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>120</td>
 	</tr>
 	<tr>
-		<td>703</td>
+		<td>704</td>
 		<td>
 			<a target="_blank" href="https://github.com/ops-jaeha">
 				<img src="https://avatars.githubusercontent.com/u/63505712?s=72&u=afa3783f44ccae79dc454874d306a9204e555ebc&v=4" width="24" alt="Avatar of ops-jaeha"/> ops-jaeha
@@ -9249,7 +9262,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>120</td>
 	</tr>
 	<tr>
-		<td>704</td>
+		<td>705</td>
 		<td>
 			<a target="_blank" href="https://github.com/DWL21">
 				<img src="https://avatars.githubusercontent.com/u/76774809?s=72&u=500474a192c7c0a4e2ef1716fefe54d9a4cdb34b&v=4" width="24" alt="Avatar of DWL21"/> DWL21
@@ -9262,7 +9275,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>120</td>
 	</tr>
 	<tr>
-		<td>705</td>
+		<td>706</td>
 		<td>
 			<a target="_blank" href="https://github.com/jcrescent61">
 				<img src="https://avatars.githubusercontent.com/u/80380535?s=72&u=4cecb6479fbc24167388f3f7190b920cb5d42e26&v=4" width="24" alt="Avatar of jcrescent61"/> jcrescent61
@@ -9275,7 +9288,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>120</td>
 	</tr>
 	<tr>
-		<td>706</td>
+		<td>707</td>
 		<td>
 			<a target="_blank" href="https://github.com/hyena0608">
 				<img src="https://avatars.githubusercontent.com/u/82203978?s=72&u=17259eec1fadfa1ed161d690732f3205d7c61aca&v=4" width="24" alt="Avatar of hyena0608"/> hyena0608
@@ -9288,7 +9301,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>120</td>
 	</tr>
 	<tr>
-		<td>707</td>
+		<td>708</td>
 		<td>
 			<a target="_blank" href="https://github.com/chayeoi">
 				<img src="https://avatars.githubusercontent.com/u/17597549?s=72&u=6023b69086f791c6c2c0a0dc055998ea2b296ddb&v=4" width="24" alt="Avatar of chayeoi"/> chayeoi
@@ -9301,7 +9314,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>120</td>
 	</tr>
 	<tr>
-		<td>708</td>
+		<td>709</td>
 		<td>
 			<a target="_blank" href="https://github.com/chickenbestlover">
 				<img src="https://avatars.githubusercontent.com/u/10328020?s=72&u=e09c2aecf9bedf4e4fb09b50a32fced571062f35&v=4" width="24" alt="Avatar of chickenbestlover"/> chickenbestlover
@@ -9314,7 +9327,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>120</td>
 	</tr>
 	<tr>
-		<td>709</td>
+		<td>710</td>
 		<td>
 			<a target="_blank" href="https://github.com/innocarpe">
 				<img src="https://avatars.githubusercontent.com/u/2222333?s=72&v=4" width="24" alt="Avatar of innocarpe"/> innocarpe
@@ -9322,19 +9335,6 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 			Wooseong Kim
 		</td>
 		<td>@29cm  </td>
-		<td>No Twitter Username</td>
-		<td>Seoul Korea</td>
-		<td>120</td>
-	</tr>
-	<tr>
-		<td>710</td>
-		<td>
-			<a target="_blank" href="https://github.com/mudin">
-				<img src="https://avatars.githubusercontent.com/u/33612405?s=72&u=0dbb122d3d6057383ac28032a5c25d5136cde59e&v=4" width="24" alt="Avatar of mudin"/> mudin
-			</a><br/>
-			Mudin Ibrahim
-		</td>
-		<td>Nvidia </td>
 		<td>No Twitter Username</td>
 		<td>Seoul Korea</td>
 		<td>120</td>
@@ -10551,6 +10551,19 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 	<tr>
 		<td>804</td>
 		<td>
+			<a target="_blank" href="https://github.com/YoungriKIM">
+				<img src="https://avatars.githubusercontent.com/u/76423415?s=72&u=8fad1b66514a6c0e767fbe15ab06f76804f08fd1&v=4" width="24" alt="Avatar of YoungriKIM"/> YoungriKIM
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Seoul</td>
+		<td>111</td>
+	</tr>
+	<tr>
+		<td>805</td>
+		<td>
 			<a target="_blank" href="https://github.com/eunmin">
 				<img src="https://avatars.githubusercontent.com/u/1837478?s=72&u=f16304c5ff197c86cd5ff8f144c408e189e8df78&v=4" width="24" alt="Avatar of eunmin"/> eunmin
 			</a><br/>
@@ -10562,7 +10575,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>111</td>
 	</tr>
 	<tr>
-		<td>805</td>
+		<td>806</td>
 		<td>
 			<a target="_blank" href="https://github.com/dohlee">
 				<img src="https://avatars.githubusercontent.com/u/30403812?s=72&u=f8f39ffc004d8a886960704d0f6f9fa885ab05f8&v=4" width="24" alt="Avatar of dohlee"/> dohlee
@@ -10575,7 +10588,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>111</td>
 	</tr>
 	<tr>
-		<td>806</td>
+		<td>807</td>
 		<td>
 			<a target="_blank" href="https://github.com/qkrwjdan">
 				<img src="https://avatars.githubusercontent.com/u/44994031?s=72&u=9029587a53fef2027ce702a2cd2bdbd7ee820ca2&v=4" width="24" alt="Avatar of qkrwjdan"/> qkrwjdan
@@ -10588,7 +10601,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>111</td>
 	</tr>
 	<tr>
-		<td>807</td>
+		<td>808</td>
 		<td>
 			<a target="_blank" href="https://github.com/MartinYounghoonKim">
 				<img src="https://avatars.githubusercontent.com/u/20066452?s=72&u=58a1a4aabc756c332ea468566ba8b626f959b3e3&v=4" width="24" alt="Avatar of MartinYounghoonKim"/> MartinYounghoonKim
@@ -10601,7 +10614,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>111</td>
 	</tr>
 	<tr>
-		<td>808</td>
+		<td>809</td>
 		<td>
 			<a target="_blank" href="https://github.com/dogemos">
 				<img src="https://avatars.githubusercontent.com/u/42988601?s=72&u=29f053a31378003186eee7ec53d11dc8dd30099b&v=4" width="24" alt="Avatar of dogemos"/> dogemos
@@ -10614,7 +10627,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>111</td>
 	</tr>
 	<tr>
-		<td>809</td>
+		<td>810</td>
 		<td>
 			<a target="_blank" href="https://github.com/Kroisse">
 				<img src="https://avatars.githubusercontent.com/u/543661?s=72&u=72aee6ba6463c6299d27e46ebb069534869cddd7&v=4" width="24" alt="Avatar of Kroisse"/> Kroisse
@@ -10627,7 +10640,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>111</td>
 	</tr>
 	<tr>
-		<td>810</td>
+		<td>811</td>
 		<td>
 			<a target="_blank" href="https://github.com/myungsub">
 				<img src="https://avatars.githubusercontent.com/u/7778428?s=72&v=4" width="24" alt="Avatar of myungsub"/> myungsub
@@ -10640,7 +10653,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>111</td>
 	</tr>
 	<tr>
-		<td>811</td>
+		<td>812</td>
 		<td>
 			<a target="_blank" href="https://github.com/codej99">
 				<img src="https://avatars.githubusercontent.com/u/3994082?s=72&v=4" width="24" alt="Avatar of codej99"/> codej99
@@ -10653,7 +10666,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>111</td>
 	</tr>
 	<tr>
-		<td>812</td>
+		<td>813</td>
 		<td>
 			<a target="_blank" href="https://github.com/inddoni">
 				<img src="https://avatars.githubusercontent.com/u/46644241?s=72&u=46c915d61b93b8a84c18df114b7579341bbcfbdd&v=4" width="24" alt="Avatar of inddoni"/> inddoni
@@ -10666,7 +10679,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>110</td>
 	</tr>
 	<tr>
-		<td>813</td>
+		<td>814</td>
 		<td>
 			<a target="_blank" href="https://github.com/doong-jo">
 				<img src="https://avatars.githubusercontent.com/u/22005861?s=72&u=5a3638eca5f72cfcb79b74b2ad76cd59f0e4810d&v=4" width="24" alt="Avatar of doong-jo"/> doong-jo
@@ -10679,7 +10692,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>110</td>
 	</tr>
 	<tr>
-		<td>814</td>
+		<td>815</td>
 		<td>
 			<a target="_blank" href="https://github.com/char-yb">
 				<img src="https://avatars.githubusercontent.com/u/68099546?s=72&u=487c50b1a66568970b9a9db3f6c6a07cd37566e8&v=4" width="24" alt="Avatar of char-yb"/> char-yb
@@ -10692,7 +10705,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>110</td>
 	</tr>
 	<tr>
-		<td>815</td>
+		<td>816</td>
 		<td>
 			<a target="_blank" href="https://github.com/mango906">
 				<img src="https://avatars.githubusercontent.com/u/38802280?s=72&u=5edc462df32f8d23dec20b51d4bcbd3829680f04&v=4" width="24" alt="Avatar of mango906"/> mango906
@@ -10705,7 +10718,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>110</td>
 	</tr>
 	<tr>
-		<td>816</td>
+		<td>817</td>
 		<td>
 			<a target="_blank" href="https://github.com/loinsir">
 				<img src="https://avatars.githubusercontent.com/u/46420281?s=72&u=610c39c6e980867be8426b08afbab46d67fc22bd&v=4" width="24" alt="Avatar of loinsir"/> loinsir
@@ -10718,7 +10731,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>110</td>
 	</tr>
 	<tr>
-		<td>817</td>
+		<td>818</td>
 		<td>
 			<a target="_blank" href="https://github.com/seongmin221">
 				<img src="https://avatars.githubusercontent.com/u/72431640?s=72&u=4b597212b67a89460c8339f9a7470bc38e8a41a0&v=4" width="24" alt="Avatar of seongmin221"/> seongmin221
@@ -10731,7 +10744,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>110</td>
 	</tr>
 	<tr>
-		<td>818</td>
+		<td>819</td>
 		<td>
 			<a target="_blank" href="https://github.com/TooTouch">
 				<img src="https://avatars.githubusercontent.com/u/37654013?s=72&u=10eae681a3b5a0ec8a6537e8f24a509af79acc8e&v=4" width="24" alt="Avatar of TooTouch"/> TooTouch
@@ -10744,7 +10757,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>110</td>
 	</tr>
 	<tr>
-		<td>819</td>
+		<td>820</td>
 		<td>
 			<a target="_blank" href="https://github.com/kairos-hk">
 				<img src="https://avatars.githubusercontent.com/u/83718994?s=72&u=13c99f801ffa956105c9aa5d5b507cca2a4f8871&v=4" width="24" alt="Avatar of kairos-hk"/> kairos-hk
@@ -10757,7 +10770,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>110</td>
 	</tr>
 	<tr>
-		<td>820</td>
+		<td>821</td>
 		<td>
 			<a target="_blank" href="https://github.com/Puterism">
 				<img src="https://avatars.githubusercontent.com/u/2542730?s=72&u=153f507001f94776cdc8d685386832fa682c4101&v=4" width="24" alt="Avatar of Puterism"/> Puterism
@@ -10767,19 +10780,6 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>@woowabros </td>
 		<td>No Twitter Username</td>
 		<td>Seoul Korea</td>
-		<td>110</td>
-	</tr>
-	<tr>
-		<td>821</td>
-		<td>
-			<a target="_blank" href="https://github.com/YoungriKIM">
-				<img src="https://avatars.githubusercontent.com/u/76423415?s=72&u=8fad1b66514a6c0e767fbe15ab06f76804f08fd1&v=4" width="24" alt="Avatar of YoungriKIM"/> YoungriKIM
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Seoul</td>
 		<td>110</td>
 	</tr>
 	<tr>
@@ -10811,6 +10811,19 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 	<tr>
 		<td>824</td>
 		<td>
+			<a target="_blank" href="https://github.com/risingcurve">
+				<img src="https://avatars.githubusercontent.com/u/107753509?s=72&u=802c436a00446c8516b4a37d1e962db3e8a31123&v=4" width="24" alt="Avatar of risingcurve"/> risingcurve
+			</a><br/>
+			WJ Han
+		</td>
+		<td>Ssafy8th </td>
+		<td>No Twitter Username</td>
+		<td>Seoul South Korea</td>
+		<td>110</td>
+	</tr>
+	<tr>
+		<td>825</td>
+		<td>
 			<a target="_blank" href="https://github.com/YoungHaKim7">
 				<img src="https://avatars.githubusercontent.com/u/67513038?s=72&u=aa05c2bb4234bba94e33f27fe72a14558fc25b4f&v=4" width="24" alt="Avatar of YoungHaKim7"/> YoungHaKim7
 			</a><br/>
@@ -10822,7 +10835,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>109</td>
 	</tr>
 	<tr>
-		<td>825</td>
+		<td>826</td>
 		<td>
 			<a target="_blank" href="https://github.com/beygee">
 				<img src="https://avatars.githubusercontent.com/u/7090906?s=72&u=ce0aaf4c2f66c7cca904908f8217f9e6ed7fff2f&v=4" width="24" alt="Avatar of beygee"/> beygee
@@ -10835,7 +10848,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>109</td>
 	</tr>
 	<tr>
-		<td>826</td>
+		<td>827</td>
 		<td>
 			<a target="_blank" href="https://github.com/Axect">
 				<img src="https://avatars.githubusercontent.com/u/17744450?s=72&u=63351da0238a35c62e9989d03b1a9d2a604b22ad&v=4" width="24" alt="Avatar of Axect"/> Axect
@@ -10848,7 +10861,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>109</td>
 	</tr>
 	<tr>
-		<td>827</td>
+		<td>828</td>
 		<td>
 			<a target="_blank" href="https://github.com/jinsunee">
 				<img src="https://avatars.githubusercontent.com/u/31176502?s=72&u=6768a8f75bd196ccb909de9f89383297185c6d9c&v=4" width="24" alt="Avatar of jinsunee"/> jinsunee
@@ -10861,7 +10874,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>109</td>
 	</tr>
 	<tr>
-		<td>828</td>
+		<td>829</td>
 		<td>
 			<a target="_blank" href="https://github.com/devleejb">
 				<img src="https://avatars.githubusercontent.com/u/52884648?s=72&u=72c345cadeda1a60c3e6a321cc879a169adb3907&v=4" width="24" alt="Avatar of devleejb"/> devleejb
@@ -10874,7 +10887,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>109</td>
 	</tr>
 	<tr>
-		<td>829</td>
+		<td>830</td>
 		<td>
 			<a target="_blank" href="https://github.com/wanbok">
 				<img src="https://avatars.githubusercontent.com/u/68603?s=72&u=32121becee6669188786dad8b8f53ccbeefb41bd&v=4" width="24" alt="Avatar of wanbok"/> wanbok
@@ -10887,7 +10900,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>109</td>
 	</tr>
 	<tr>
-		<td>830</td>
+		<td>831</td>
 		<td>
 			<a target="_blank" href="https://github.com/kez-lab">
 				<img src="https://avatars.githubusercontent.com/u/93872496?s=72&u=6e9a645114ce4cf3de9d26b74f83d5a16474393a&v=4" width="24" alt="Avatar of kez-lab"/> kez-lab
@@ -10900,7 +10913,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>109</td>
 	</tr>
 	<tr>
-		<td>831</td>
+		<td>832</td>
 		<td>
 			<a target="_blank" href="https://github.com/jjongwa">
 				<img src="https://avatars.githubusercontent.com/u/77482065?s=72&u=142f8d0b114364a483dd1e075ca7e5ad4c42d4ef&v=4" width="24" alt="Avatar of jjongwa"/> jjongwa
@@ -10913,7 +10926,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>109</td>
 	</tr>
 	<tr>
-		<td>832</td>
+		<td>833</td>
 		<td>
 			<a target="_blank" href="https://github.com/useonglee">
 				<img src="https://avatars.githubusercontent.com/u/75570915?s=72&u=3981335cc624055ce743a3a084125d8b7b0aeea7&v=4" width="24" alt="Avatar of useonglee"/> useonglee
@@ -10926,7 +10939,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>109</td>
 	</tr>
 	<tr>
-		<td>833</td>
+		<td>834</td>
 		<td>
 			<a target="_blank" href="https://github.com/hannal">
 				<img src="https://avatars.githubusercontent.com/u/4952?s=72&u=b3e298e150600f08c99c21e98db91930e7a2599a&v=4" width="24" alt="Avatar of hannal"/> hannal
@@ -10939,7 +10952,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>109</td>
 	</tr>
 	<tr>
-		<td>834</td>
+		<td>835</td>
 		<td>
 			<a target="_blank" href="https://github.com/Azderica">
 				<img src="https://avatars.githubusercontent.com/u/42582516?s=72&u=a05f03d5496de09023317122b0f57a904a9d859a&v=4" width="24" alt="Avatar of Azderica"/> Azderica
@@ -10947,19 +10960,6 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 			Myeonghun Park
 		</td>
 		<td>@ebay </td>
-		<td>No Twitter Username</td>
-		<td>Seoul South Korea</td>
-		<td>109</td>
-	</tr>
-	<tr>
-		<td>835</td>
-		<td>
-			<a target="_blank" href="https://github.com/risingcurve">
-				<img src="https://avatars.githubusercontent.com/u/107753509?s=72&u=802c436a00446c8516b4a37d1e962db3e8a31123&v=4" width="24" alt="Avatar of risingcurve"/> risingcurve
-			</a><br/>
-			WJ Han
-		</td>
-		<td>Ssafy8th </td>
 		<td>No Twitter Username</td>
 		<td>Seoul South Korea</td>
 		<td>109</td>
@@ -12046,6 +12046,19 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 	<tr>
 		<td>919</td>
 		<td>
+			<a target="_blank" href="https://github.com/bonghyunyang">
+				<img src="https://avatars.githubusercontent.com/u/60928021?s=72&u=261f2e0d4b877b7f480b7aa1d5152afb702f3f03&v=4" width="24" alt="Avatar of bonghyunyang"/> bonghyunyang
+			</a><br/>
+			Bonghyun Yang
+		</td>
+		<td>Hyperlink </td>
+		<td>No Twitter Username</td>
+		<td>Seoul Korea</td>
+		<td>103</td>
+	</tr>
+	<tr>
+		<td>920</td>
+		<td>
 			<a target="_blank" href="https://github.com/haje01">
 				<img src="https://avatars.githubusercontent.com/u/865631?s=72&v=4" width="24" alt="Avatar of haje01"/> haje01
 			</a><br/>
@@ -12057,7 +12070,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>103</td>
 	</tr>
 	<tr>
-		<td>920</td>
+		<td>921</td>
 		<td>
 			<a target="_blank" href="https://github.com/jwlee-ml">
 				<img src="https://avatars.githubusercontent.com/u/25281219?s=72&u=024613b75fbde2cf7130ada8de64d55c0bf932ac&v=4" width="24" alt="Avatar of jwlee-ml"/> jwlee-ml
@@ -12070,7 +12083,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>103</td>
 	</tr>
 	<tr>
-		<td>921</td>
+		<td>922</td>
 		<td>
 			<a target="_blank" href="https://github.com/kweonwooj">
 				<img src="https://avatars.githubusercontent.com/u/7529838?s=72&u=de46d67e4153b3b75cbd6127df9480366f88f34b&v=4" width="24" alt="Avatar of kweonwooj"/> kweonwooj
@@ -12083,7 +12096,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>103</td>
 	</tr>
 	<tr>
-		<td>922</td>
+		<td>923</td>
 		<td>
 			<a target="_blank" href="https://github.com/dhlee347">
 				<img src="https://avatars.githubusercontent.com/u/32828768?s=72&u=bc0009817c15aa618897b41517e525e9e025355a&v=4" width="24" alt="Avatar of dhlee347"/> dhlee347
@@ -12096,7 +12109,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>103</td>
 	</tr>
 	<tr>
-		<td>923</td>
+		<td>924</td>
 		<td>
 			<a target="_blank" href="https://github.com/xncbf">
 				<img src="https://avatars.githubusercontent.com/u/9462045?s=72&u=a80a7bb349555b277645632ed66639ff43400614&v=4" width="24" alt="Avatar of xncbf"/> xncbf
@@ -12109,7 +12122,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>102</td>
 	</tr>
 	<tr>
-		<td>924</td>
+		<td>925</td>
 		<td>
 			<a target="_blank" href="https://github.com/ha-anna">
 				<img src="https://avatars.githubusercontent.com/u/83631167?s=72&u=cafe570334b3b2a39e766f76c77aa7a46ad67f0d&v=4" width="24" alt="Avatar of ha-anna"/> ha-anna
@@ -12122,7 +12135,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>102</td>
 	</tr>
 	<tr>
-		<td>925</td>
+		<td>926</td>
 		<td>
 			<a target="_blank" href="https://github.com/saehun">
 				<img src="https://avatars.githubusercontent.com/u/16033316?s=72&u=1bd40301a1ac8ea6eee154d10898d9dcc1ca8d87&v=4" width="24" alt="Avatar of saehun"/> saehun
@@ -12135,7 +12148,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>102</td>
 	</tr>
 	<tr>
-		<td>926</td>
+		<td>927</td>
 		<td>
 			<a target="_blank" href="https://github.com/Najeong-Kim">
 				<img src="https://avatars.githubusercontent.com/u/73640737?s=72&u=62ee3d6cbd6704747b077d444eaedbe4892c3db1&v=4" width="24" alt="Avatar of Najeong-Kim"/> Najeong-Kim
@@ -12148,7 +12161,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>102</td>
 	</tr>
 	<tr>
-		<td>927</td>
+		<td>928</td>
 		<td>
 			<a target="_blank" href="https://github.com/TaeMinY">
 				<img src="https://avatars.githubusercontent.com/u/48385263?s=72&u=b2a361249d3c76e8add7e2c655389b8ebd6fb004&v=4" width="24" alt="Avatar of TaeMinY"/> TaeMinY
@@ -12161,7 +12174,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>102</td>
 	</tr>
 	<tr>
-		<td>928</td>
+		<td>929</td>
 		<td>
 			<a target="_blank" href="https://github.com/amorfati0310">
 				<img src="https://avatars.githubusercontent.com/u/25189066?s=72&u=38ffd9b2b3a74f66f5f3bbe02ea2c73ea6fcc1ac&v=4" width="24" alt="Avatar of amorfati0310"/> amorfati0310
@@ -12174,7 +12187,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>102</td>
 	</tr>
 	<tr>
-		<td>929</td>
+		<td>930</td>
 		<td>
 			<a target="_blank" href="https://github.com/LouiMinister">
 				<img src="https://avatars.githubusercontent.com/u/33686751?s=72&u=3149f23f59631814a244b3be1059e3ed8a0785be&v=4" width="24" alt="Avatar of LouiMinister"/> LouiMinister
@@ -12187,7 +12200,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>102</td>
 	</tr>
 	<tr>
-		<td>930</td>
+		<td>931</td>
 		<td>
 			<a target="_blank" href="https://github.com/integraldx">
 				<img src="https://avatars.githubusercontent.com/u/37678790?s=72&u=2d4883127128864b869ddf7586d04e279dcfec9b&v=4" width="24" alt="Avatar of integraldx"/> integraldx
@@ -12200,7 +12213,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>102</td>
 	</tr>
 	<tr>
-		<td>931</td>
+		<td>932</td>
 		<td>
 			<a target="_blank" href="https://github.com/Chynmn">
 				<img src="https://avatars.githubusercontent.com/u/100783766?s=72&u=0e5991a7fa74afb5e313bed512d00b07769ad52e&v=4" width="24" alt="Avatar of Chynmn"/> Chynmn
@@ -12213,7 +12226,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>102</td>
 	</tr>
 	<tr>
-		<td>932</td>
+		<td>933</td>
 		<td>
 			<a target="_blank" href="https://github.com/ding-co">
 				<img src="https://avatars.githubusercontent.com/u/80014673?s=72&u=368f38c65362b7188fc2e18dee6807325ac96255&v=4" width="24" alt="Avatar of ding-co"/> ding-co
@@ -12226,7 +12239,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>102</td>
 	</tr>
 	<tr>
-		<td>933</td>
+		<td>934</td>
 		<td>
 			<a target="_blank" href="https://github.com/stuartasiimwe7">
 				<img src="https://avatars.githubusercontent.com/u/12202351?s=72&u=c1018e991ca659302895256295822eaabf98ad47&v=4" width="24" alt="Avatar of stuartasiimwe7"/> stuartasiimwe7
@@ -12239,7 +12252,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>102</td>
 	</tr>
 	<tr>
-		<td>934</td>
+		<td>935</td>
 		<td>
 			<a target="_blank" href="https://github.com/Rok93">
 				<img src="https://avatars.githubusercontent.com/u/47850258?s=72&u=14260118c0f3687d3dc9bbad2b9cab26dae7b7c5&v=4" width="24" alt="Avatar of Rok93"/> Rok93
@@ -12252,7 +12265,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>102</td>
 	</tr>
 	<tr>
-		<td>935</td>
+		<td>936</td>
 		<td>
 			<a target="_blank" href="https://github.com/OrigamiDream">
 				<img src="https://avatars.githubusercontent.com/u/5837620?s=72&u=6973eef3f4a7b11db40cab1e4a75d56421b8bb6a&v=4" width="24" alt="Avatar of OrigamiDream"/> OrigamiDream
@@ -12265,7 +12278,7 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 		<td>102</td>
 	</tr>
 	<tr>
-		<td>936</td>
+		<td>937</td>
 		<td>
 			<a target="_blank" href="https://github.com/pikachu987">
 				<img src="https://avatars.githubusercontent.com/u/16880502?s=72&u=972b054add9726d4c70edd28cde141a04b6f0007&v=4" width="24" alt="Avatar of pikachu987"/> pikachu987
@@ -12273,19 +12286,6 @@ There are `983 users`  in South Korea. You need at least `98 followers` to be on
 			Gwanho Kim
 		</td>
 		<td>@naver </td>
-		<td>No Twitter Username</td>
-		<td>Seoul Korea</td>
-		<td>102</td>
-	</tr>
-	<tr>
-		<td>937</td>
-		<td>
-			<a target="_blank" href="https://github.com/bonghyunyang">
-				<img src="https://avatars.githubusercontent.com/u/60928021?s=72&u=261f2e0d4b877b7f480b7aa1d5152afb702f3f03&v=4" width="24" alt="Avatar of bonghyunyang"/> bonghyunyang
-			</a><br/>
-			Bonghyun Yang
-		</td>
-		<td>Hyperlink </td>
 		<td>No Twitter Username</td>
 		<td>Seoul Korea</td>
 		<td>102</td>
