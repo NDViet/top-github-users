@@ -10,7 +10,7 @@ description: Top GitHub Users By Public Contributions in Germany
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" alt="Germany"/>
 </a>
 
-The `public contributions` by users in Germany on `2024/11/28 10:48 PM UTC`. This list contains users from Germany and cities Berlin Munich Hamburg Cologne Hamburg Dsseldorf Stuttgart Dresden.
+The `public contributions` by users in Germany on `2024/11/29 8:07 AM UTC`. This list contains users from Germany and cities Berlin Munich Hamburg Cologne Hamburg Dsseldorf Stuttgart Dresden.
 
 There are `19 countries` and `130 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
@@ -120,7 +120,7 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/horsicq">horsicq</a></td>
 		<td>Germany</td>
-		<td>83771</td>
+		<td>83908</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -133,7 +133,7 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>@buzzrland </td>
 		<td><a target="_blank" href="https://twitter.com/BinaryBlazer">BinaryBlazer</a></td>
 		<td>Rudolstadt Germany</td>
-		<td>64421</td>
+		<td>64475</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -198,7 +198,7 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>@sapcc </td>
 		<td><a target="_blank" href="https://twitter.com/SuperSandro2000">SuperSandro2000</a></td>
 		<td>Germany</td>
-		<td>13520</td>
+		<td>13528</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -224,7 +224,7 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>Propensive </td>
 		<td><a target="_blank" href="https://twitter.com/propensive">propensive</a></td>
 		<td>Germany</td>
-		<td>12106</td>
+		<td>12115</td>
 	</tr>
 	<tr>
 		<td>10</td>
@@ -237,7 +237,7 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/mattsse_">mattsse_</a></td>
 		<td>Munich Germany</td>
-		<td>11448</td>
+		<td>11465</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -250,7 +250,7 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>@quantco  </td>
 		<td><a target="_blank" href="https://twitter.com/xhochy">xhochy</a></td>
 		<td>Karlsruhe Germany</td>
-		<td>8017</td>
+		<td>8018</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -289,7 +289,7 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>@materializeinc </td>
 		<td>No Twitter Username</td>
 		<td>Heidelberg Germany</td>
-		<td>6236</td>
+		<td>6245</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -315,7 +315,7 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/coder">coder</a></td>
 		<td>Germany</td>
-		<td>5078</td>
+		<td>5079</td>
 	</tr>
 	<tr>
 		<td>17</td>
@@ -328,7 +328,7 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/ndom91">ndom91</a></td>
 		<td>Berlin</td>
-		<td>5023</td>
+		<td>5024</td>
 	</tr>
 	<tr>
 		<td>18</td>
@@ -341,7 +341,7 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>@shopware  </td>
 		<td><a target="_blank" href="https://twitter.com/shyim97">shyim97</a></td>
 		<td>Germany</td>
-		<td>5011</td>
+		<td>5017</td>
 	</tr>
 	<tr>
 		<td>19</td>
@@ -380,7 +380,7 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>Ceo  Cto Of<br/>@doubleopenproject<br/></td>
 		<td>No Twitter Username</td>
 		<td>Berlin Germany</td>
-		<td>4291</td>
+		<td>4294</td>
 	</tr>
 	<tr>
 		<td>22</td>
@@ -445,7 +445,7 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>Amazon Web Services </td>
 		<td><a target="_blank" href="https://twitter.com/shipilev">shipilev</a></td>
 		<td>Potsdam Germany</td>
-		<td>3746</td>
+		<td>3747</td>
 	</tr>
 	<tr>
 		<td>27</td>
@@ -484,7 +484,7 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/ledermann">ledermann</a></td>
 		<td>Jlich Germany</td>
-		<td>3405</td>
+		<td>3407</td>
 	</tr>
 	<tr>
 		<td>30</td>
@@ -536,7 +536,7 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/theelbasian">theelbasian</a></td>
 		<td>Berlin</td>
-		<td>3144</td>
+		<td>3145</td>
 	</tr>
 	<tr>
 		<td>34</td>
@@ -614,7 +614,7 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/sebsilbermann">sebsilbermann</a></td>
 		<td>Berlin Germany</td>
-		<td>2776</td>
+		<td>2777</td>
 	</tr>
 	<tr>
 		<td>40</td>
@@ -627,7 +627,7 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>@withastro </td>
 		<td>No Twitter Username</td>
 		<td>Berlin Germany</td>
-		<td>2747</td>
+		<td>2748</td>
 	</tr>
 	<tr>
 		<td>41</td>
@@ -640,7 +640,7 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Germany</td>
-		<td>2739</td>
+		<td>2740</td>
 	</tr>
 	<tr>
 		<td>42</td>
@@ -653,7 +653,7 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/markusstaab">markusstaab</a></td>
 		<td>Germany</td>
-		<td>2729</td>
+		<td>2730</td>
 	</tr>
 	<tr>
 		<td>43</td>
@@ -666,7 +666,7 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Germany Berlin</td>
-		<td>2708</td>
+		<td>2709</td>
 	</tr>
 	<tr>
 		<td>44</td>
@@ -679,7 +679,7 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>@mastodon </td>
 		<td>No Twitter Username</td>
 		<td>Germany</td>
-		<td>2695</td>
+		<td>2696</td>
 	</tr>
 	<tr>
 		<td>45</td>
@@ -731,7 +731,7 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Berlin Germany</td>
-		<td>2655</td>
+		<td>2658</td>
 	</tr>
 	<tr>
 		<td>49</td>
@@ -744,7 +744,7 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/evcc_io">evcc_io</a></td>
 		<td>Germany</td>
-		<td>2625</td>
+		<td>2626</td>
 	</tr>
 	<tr>
 		<td>50</td>
@@ -770,7 +770,7 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/tiangolo">tiangolo</a></td>
 		<td>Berlin Germany</td>
-		<td>2529</td>
+		<td>2531</td>
 	</tr>
 	<tr>
 		<td>52</td>
@@ -796,7 +796,7 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>Research Associate @webisde </td>
 		<td><a target="_blank" href="https://twitter.com/H1iReimer">H1iReimer</a></td>
 		<td>Braunschweig Germany</td>
-		<td>2401</td>
+		<td>2413</td>
 	</tr>
 	<tr>
 		<td>54</td>
@@ -822,7 +822,7 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>@nextcloud </td>
 		<td>No Twitter Username</td>
 		<td>Germany</td>
-		<td>2323</td>
+		<td>2324</td>
 	</tr>
 	<tr>
 		<td>56</td>
@@ -939,7 +939,7 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>@kestraio  </td>
 		<td><a target="_blank" href="https://twitter.com/anna__geller">anna__geller</a></td>
 		<td>Berlin Germany</td>
-		<td>2267</td>
+		<td>2268</td>
 	</tr>
 	<tr>
 		<td>65</td>
@@ -952,7 +952,7 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Berlin</td>
-		<td>2215</td>
+		<td>2224</td>
 	</tr>
 	<tr>
 		<td>66</td>
@@ -1082,7 +1082,7 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>Available As Cakephp Expert<br/></td>
 		<td><a target="_blank" href="https://twitter.com/dereuromark">dereuromark</a></td>
 		<td>Berlin</td>
-		<td>2080</td>
+		<td>2087</td>
 	</tr>
 	<tr>
 		<td>76</td>
@@ -1134,7 +1134,7 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Berlin</td>
-		<td>2023</td>
+		<td>2028</td>
 	</tr>
 	<tr>
 		<td>80</td>
@@ -1199,7 +1199,7 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>@internetarchive @ubleipzig </td>
 		<td>No Twitter Username</td>
 		<td>Leipzig Germany</td>
-		<td>1913</td>
+		<td>1914</td>
 	</tr>
 	<tr>
 		<td>85</td>
@@ -1238,7 +1238,7 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>@spikinglabs </td>
 		<td>No Twitter Username</td>
 		<td>Germany</td>
-		<td>1859</td>
+		<td>1860</td>
 	</tr>
 	<tr>
 		<td>88</td>
@@ -1264,7 +1264,7 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Heidelberg Germany</td>
-		<td>1838</td>
+		<td>1839</td>
 	</tr>
 	<tr>
 		<td>90</td>
@@ -1308,6 +1308,19 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 	<tr>
 		<td>93</td>
 		<td>
+			<a target="_blank" href="https://github.com/oSumAtrIX">
+				<img src="https://avatars.githubusercontent.com/u/13122796?s=72&u=35de388ce2add4df55a95c692fc513a07f33eb11&v=4" width="24" alt="Avatar of oSumAtrIX"/> oSumAtrIX
+			</a><br/>
+			No Name
+		</td>
+		<td>@revanced </td>
+		<td><a target="_blank" href="https://twitter.com/oSumAtrIX">oSumAtrIX</a></td>
+		<td>Germany</td>
+		<td>1786</td>
+	</tr>
+	<tr>
+		<td>94</td>
+		<td>
 			<a target="_blank" href="https://github.com/LefterisJP">
 				<img src="https://avatars.githubusercontent.com/u/1658405?s=72&v=4" width="24" alt="Avatar of LefterisJP"/> LefterisJP
 			</a><br/>
@@ -1317,19 +1330,6 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Berlin Germany</td>
 		<td>1785</td>
-	</tr>
-	<tr>
-		<td>94</td>
-		<td>
-			<a target="_blank" href="https://github.com/oSumAtrIX">
-				<img src="https://avatars.githubusercontent.com/u/13122796?s=72&u=35de388ce2add4df55a95c692fc513a07f33eb11&v=4" width="24" alt="Avatar of oSumAtrIX"/> oSumAtrIX
-			</a><br/>
-			No Name
-		</td>
-		<td>@revanced </td>
-		<td><a target="_blank" href="https://twitter.com/oSumAtrIX">oSumAtrIX</a></td>
-		<td>Germany</td>
-		<td>1784</td>
 	</tr>
 	<tr>
 		<td>95</td>
@@ -1472,7 +1472,7 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>Wolt  Pymc Labs<br/></td>
 		<td>No Twitter Username</td>
 		<td>Berlin</td>
-		<td>1575</td>
+		<td>1576</td>
 	</tr>
 	<tr>
 		<td>106</td>
@@ -1485,7 +1485,7 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>Neuland  Bro Fr<br/>Informatik<br/></td>
 		<td>No Twitter Username</td>
 		<td>Osnabrck Germany</td>
-		<td>1560</td>
+		<td>1561</td>
 	</tr>
 	<tr>
 		<td>107</td>
@@ -1615,7 +1615,7 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>@zedindustries  </td>
 		<td><a target="_blank" href="https://twitter.com/thorstenball">thorstenball</a></td>
 		<td>Bavaria Germany</td>
-		<td>1372</td>
+		<td>1375</td>
 	</tr>
 	<tr>
 		<td>117</td>
@@ -1641,7 +1641,7 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>Variomedia Ag </td>
 		<td><a target="_blank" href="https://twitter.com/hynek">hynek</a></td>
 		<td>Berlin</td>
-		<td>1363</td>
+		<td>1364</td>
 	</tr>
 	<tr>
 		<td>119</td>
@@ -1680,7 +1680,7 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>@d4rkenorg  </td>
 		<td><a target="_blank" href="https://twitter.com/d4rken">d4rken</a></td>
 		<td>Germany</td>
-		<td>1321</td>
+		<td>1323</td>
 	</tr>
 	<tr>
 		<td>122</td>
@@ -1763,6 +1763,19 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 	<tr>
 		<td>128</td>
 		<td>
+			<a target="_blank" href="https://github.com/minad">
+				<img src="https://avatars.githubusercontent.com/u/50754?s=72&v=4" width="24" alt="Avatar of minad"/> minad
+			</a><br/>
+			Daniel Mendler
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Germany</td>
+		<td>1267</td>
+	</tr>
+	<tr>
+		<td>129</td>
+		<td>
 			<a target="_blank" href="https://github.com/nathanlesage">
 				<img src="https://avatars.githubusercontent.com/u/17251683?s=72&u=eaab6d2597f12e8f585530ef089567aedb1d32a0&v=4" width="24" alt="Avatar of nathanlesage"/> nathanlesage
 			</a><br/>
@@ -1772,19 +1785,6 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td><a target="_blank" href="https://twitter.com/sahiralsaid">sahiralsaid</a></td>
 		<td>Germany</td>
 		<td>1267</td>
-	</tr>
-	<tr>
-		<td>129</td>
-		<td>
-			<a target="_blank" href="https://github.com/minad">
-				<img src="https://avatars.githubusercontent.com/u/50754?s=72&v=4" width="24" alt="Avatar of minad"/> minad
-			</a><br/>
-			Daniel Mendler
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Germany</td>
-		<td>1266</td>
 	</tr>
 	<tr>
 		<td>130</td>
@@ -1823,7 +1823,7 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>@neo4j  </td>
 		<td><a target="_blank" href="https://twitter.com/rotnroll666">rotnroll666</a></td>
 		<td>Aachen Germany</td>
-		<td>1252</td>
+		<td>1256</td>
 	</tr>
 	<tr>
 		<td>133</td>
@@ -1914,7 +1914,7 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>Alex Otts Consulting </td>
 		<td><a target="_blank" href="https://twitter.com/alexott_en">alexott_en</a></td>
 		<td>Paderborn Germany</td>
-		<td>1193</td>
+		<td>1194</td>
 	</tr>
 	<tr>
 		<td>140</td>
@@ -2057,7 +2057,7 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Germany</td>
-		<td>1141</td>
+		<td>1142</td>
 	</tr>
 	<tr>
 		<td>151</td>
@@ -2096,7 +2096,7 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>Freelancer </td>
 		<td>No Twitter Username</td>
 		<td>Hamburg Germany Earth Sol</td>
-		<td>1129</td>
+		<td>1131</td>
 	</tr>
 	<tr>
 		<td>154</td>
@@ -2127,6 +2127,19 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 	<tr>
 		<td>156</td>
 		<td>
+			<a target="_blank" href="https://github.com/marijnh">
+				<img src="https://avatars.githubusercontent.com/u/144427?s=72&u=a436bcccf762fe8955142810578b13db63e3173d&v=4" width="24" alt="Avatar of marijnh"/> marijnh
+			</a><br/>
+			Marijn Haverbeke
+		</td>
+		<td>Not Interested In Recruiter<br/>Mail<br/></td>
+		<td>No Twitter Username</td>
+		<td>Berlin</td>
+		<td>1081</td>
+	</tr>
+	<tr>
+		<td>157</td>
+		<td>
 			<a target="_blank" href="https://github.com/FlorianRappl">
 				<img src="https://avatars.githubusercontent.com/u/1766191?s=72&u=a0381bc84048579599923da6ebcb7793a0a7bb91&v=4" width="24" alt="Avatar of FlorianRappl"/> FlorianRappl
 			</a><br/>
@@ -2136,19 +2149,6 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td><a target="_blank" href="https://twitter.com/FlorianRappl">FlorianRappl</a></td>
 		<td>Munich Germany</td>
 		<td>1081</td>
-	</tr>
-	<tr>
-		<td>157</td>
-		<td>
-			<a target="_blank" href="https://github.com/marijnh">
-				<img src="https://avatars.githubusercontent.com/u/144427?s=72&u=a436bcccf762fe8955142810578b13db63e3173d&v=4" width="24" alt="Avatar of marijnh"/> marijnh
-			</a><br/>
-			Marijn Haverbeke
-		</td>
-		<td>Not Interested In Recruiter<br/>Mail<br/></td>
-		<td>No Twitter Username</td>
-		<td>Berlin</td>
-		<td>1079</td>
 	</tr>
 	<tr>
 		<td>158</td>
@@ -2213,7 +2213,7 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>@fermyon  </td>
 		<td><a target="_blank" href="https://twitter.com/ThorstenHans">ThorstenHans</a></td>
 		<td>Germany</td>
-		<td>1041</td>
+		<td>1042</td>
 	</tr>
 	<tr>
 		<td>163</td>
@@ -2226,7 +2226,7 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>Nordvpn </td>
 		<td><a target="_blank" href="https://twitter.com/ShahriyarRzayev">ShahriyarRzayev</a></td>
 		<td>Germany</td>
-		<td>1040</td>
+		<td>1041</td>
 	</tr>
 	<tr>
 		<td>164</td>
@@ -2304,7 +2304,7 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>@grafana  </td>
 		<td>No Twitter Username</td>
 		<td>Berlin</td>
-		<td>1023</td>
+		<td>1025</td>
 	</tr>
 	<tr>
 		<td>170</td>
@@ -2356,7 +2356,7 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/matthiasnehlsen">matthiasnehlsen</a></td>
 		<td>Hamburg  Berlin Germany</td>
-		<td>1015</td>
+		<td>1017</td>
 	</tr>
 	<tr>
 		<td>174</td>
@@ -2434,7 +2434,7 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/kkakkoyun">kkakkoyun</a></td>
 		<td>Berlin</td>
-		<td>955</td>
+		<td>956</td>
 	</tr>
 	<tr>
 		<td>180</td>
@@ -2491,6 +2491,19 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 	<tr>
 		<td>184</td>
 		<td>
+			<a target="_blank" href="https://github.com/johnjohndoe">
+				<img src="https://avatars.githubusercontent.com/u/144518?s=72&v=4" width="24" alt="Avatar of johnjohndoe"/> johnjohndoe
+			</a><br/>
+			Tobias Preuss
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Berlin Germany</td>
+		<td>917</td>
+	</tr>
+	<tr>
+		<td>185</td>
+		<td>
 			<a target="_blank" href="https://github.com/edzer">
 				<img src="https://avatars.githubusercontent.com/u/520851?s=72&u=9bc892c3523be428dc211f2ccbcf04e8e0e564ff&v=4" width="24" alt="Avatar of edzer"/> edzer
 			</a><br/>
@@ -2502,7 +2515,7 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>913</td>
 	</tr>
 	<tr>
-		<td>185</td>
+		<td>186</td>
 		<td>
 			<a target="_blank" href="https://github.com/Skn0tt">
 				<img src="https://avatars.githubusercontent.com/u/14912729?s=72&u=2997309b4cece94a0202986b59a3f3de5636f55f&v=4" width="24" alt="Avatar of Skn0tt"/> Skn0tt
@@ -2512,19 +2525,6 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>@microsoft </td>
 		<td><a target="_blank" href="https://twitter.com/skn0tt">skn0tt</a></td>
 		<td>Berlin</td>
-		<td>913</td>
-	</tr>
-	<tr>
-		<td>186</td>
-		<td>
-			<a target="_blank" href="https://github.com/johnjohndoe">
-				<img src="https://avatars.githubusercontent.com/u/144518?s=72&v=4" width="24" alt="Avatar of johnjohndoe"/> johnjohndoe
-			</a><br/>
-			Tobias Preuss
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Berlin Germany</td>
 		<td>913</td>
 	</tr>
 	<tr>
@@ -2681,7 +2681,7 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>Zf And Udemy </td>
 		<td>No Twitter Username</td>
 		<td>Bochum Germany</td>
-		<td>876</td>
+		<td>877</td>
 	</tr>
 	<tr>
 		<td>199</td>
@@ -2850,7 +2850,7 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>@unobvioustechnology  @brandedcode <br/></td>
 		<td>No Twitter Username</td>
 		<td>Berlin Germany</td>
-		<td>814</td>
+		<td>815</td>
 	</tr>
 	<tr>
 		<td>212</td>
@@ -2998,19 +2998,6 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 	<tr>
 		<td>223</td>
 		<td>
-			<a target="_blank" href="https://github.com/rwieruch">
-				<img src="https://avatars.githubusercontent.com/u/2479967?s=72&u=cba76c8678af8e63ee2dd32853a4e262b35f9ac0&v=4" width="24" alt="Avatar of rwieruch"/> rwieruch
-			</a><br/>
-			Robin Wieruch
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/rwieruch">rwieruch</a></td>
-		<td>BerlinRemote</td>
-		<td>756</td>
-	</tr>
-	<tr>
-		<td>224</td>
-		<td>
 			<a target="_blank" href="https://github.com/SaschaWillems">
 				<img src="https://avatars.githubusercontent.com/u/10283127?s=72&u=40532c639243da23cf6f2eb25b5e3e8b6a622b73&v=4" width="24" alt="Avatar of SaschaWillems"/> SaschaWillems
 			</a><br/>
@@ -3019,6 +3006,19 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/SaschaWillems2">SaschaWillems2</a></td>
 		<td>Germany</td>
+		<td>757</td>
+	</tr>
+	<tr>
+		<td>224</td>
+		<td>
+			<a target="_blank" href="https://github.com/rwieruch">
+				<img src="https://avatars.githubusercontent.com/u/2479967?s=72&u=cba76c8678af8e63ee2dd32853a4e262b35f9ac0&v=4" width="24" alt="Avatar of rwieruch"/> rwieruch
+			</a><br/>
+			Robin Wieruch
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/rwieruch">rwieruch</a></td>
+		<td>BerlinRemote</td>
 		<td>756</td>
 	</tr>
 	<tr>
@@ -3032,7 +3032,7 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>@firedancerio  </td>
 		<td><a target="_blank" href="https://twitter.com/fd_ripatel">fd_ripatel</a></td>
 		<td>Augsburg Germany</td>
-		<td>742</td>
+		<td>743</td>
 	</tr>
 	<tr>
 		<td>226</td>
@@ -3344,7 +3344,7 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Germany</td>
-		<td>623</td>
+		<td>624</td>
 	</tr>
 	<tr>
 		<td>250</td>
@@ -3583,6 +3583,19 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 	<tr>
 		<td>268</td>
 		<td>
+			<a target="_blank" href="https://github.com/ovflowd">
+				<img src="https://avatars.githubusercontent.com/u/12037269?s=72&u=a063cc6b37efab7323f181d260b61ceb834e3e1f&v=4" width="24" alt="Avatar of ovflowd"/> ovflowd
+			</a><br/>
+			Claudio W
+		</td>
+		<td>@hubspot </td>
+		<td><a target="_blank" href="https://twitter.com/wunderacle">wunderacle</a></td>
+		<td>Germany</td>
+		<td>561</td>
+	</tr>
+	<tr>
+		<td>269</td>
+		<td>
 			<a target="_blank" href="https://github.com/lstrojny">
 				<img src="https://avatars.githubusercontent.com/u/79707?s=72&u=124b33f4b5b91bf1f1db9e158c716a7a65cc66c9&v=4" width="24" alt="Avatar of lstrojny"/> lstrojny
 			</a><br/>
@@ -3594,7 +3607,7 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>559</td>
 	</tr>
 	<tr>
-		<td>269</td>
+		<td>270</td>
 		<td>
 			<a target="_blank" href="https://github.com/xeroc">
 				<img src="https://avatars.githubusercontent.com/u/117800?s=72&u=b9b59047c6cd62528cc2baff43bb950f2adb4953&v=4" width="24" alt="Avatar of xeroc"/> xeroc
@@ -3605,19 +3618,6 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Germany</td>
 		<td>559</td>
-	</tr>
-	<tr>
-		<td>270</td>
-		<td>
-			<a target="_blank" href="https://github.com/ovflowd">
-				<img src="https://avatars.githubusercontent.com/u/12037269?s=72&u=a063cc6b37efab7323f181d260b61ceb834e3e1f&v=4" width="24" alt="Avatar of ovflowd"/> ovflowd
-			</a><br/>
-			Claudio W
-		</td>
-		<td>@hubspot </td>
-		<td><a target="_blank" href="https://twitter.com/wunderacle">wunderacle</a></td>
-		<td>Germany</td>
-		<td>558</td>
 	</tr>
 	<tr>
 		<td>271</td>
@@ -3648,19 +3648,6 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 	<tr>
 		<td>273</td>
 		<td>
-			<a target="_blank" href="https://github.com/svenstaro">
-				<img src="https://avatars.githubusercontent.com/u/1664?s=72&u=79d054c26a2b487173c52d342cd822884251bea7&v=4" width="24" alt="Avatar of svenstaro"/> svenstaro
-			</a><br/>
-			SvenHendrik Haase
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Germany Hamburg</td>
-		<td>554</td>
-	</tr>
-	<tr>
-		<td>274</td>
-		<td>
 			<a target="_blank" href="https://github.com/TimPietrusky">
 				<img src="https://avatars.githubusercontent.com/u/492378?s=72&u=172cf435c7fbfbbef4bf923aade5c9145b653311&v=4" width="24" alt="Avatar of TimPietrusky"/> TimPietrusky
 			</a><br/>
@@ -3669,6 +3656,19 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>@runpod </td>
 		<td><a target="_blank" href="https://twitter.com/NERDDISCO">NERDDISCO</a></td>
 		<td>Hchst Odenwald Germany</td>
+		<td>557</td>
+	</tr>
+	<tr>
+		<td>274</td>
+		<td>
+			<a target="_blank" href="https://github.com/svenstaro">
+				<img src="https://avatars.githubusercontent.com/u/1664?s=72&u=79d054c26a2b487173c52d342cd822884251bea7&v=4" width="24" alt="Avatar of svenstaro"/> svenstaro
+			</a><br/>
+			SvenHendrik Haase
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Germany Hamburg</td>
 		<td>554</td>
 	</tr>
 	<tr>
@@ -3695,7 +3695,7 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>Agentejo </td>
 		<td>No Twitter Username</td>
 		<td>Hamburg Germany</td>
-		<td>551</td>
+		<td>552</td>
 	</tr>
 	<tr>
 		<td>277</td>
@@ -3882,6 +3882,19 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 	<tr>
 		<td>291</td>
 		<td>
+			<a target="_blank" href="https://github.com/vogella">
+				<img src="https://avatars.githubusercontent.com/u/139910?s=72&u=a18b79be9cc72adf0e83b6fffe870938858e9dcf&v=4" width="24" alt="Avatar of vogella"/> vogella
+			</a><br/>
+			Lars Vogel
+		</td>
+		<td>Vogella Gmbh </td>
+		<td><a target="_blank" href="https://twitter.com/vogella">vogella</a></td>
+		<td>Hamburg</td>
+		<td>523</td>
+	</tr>
+	<tr>
+		<td>292</td>
+		<td>
 			<a target="_blank" href="https://github.com/grahampugh">
 				<img src="https://avatars.githubusercontent.com/u/5802725?s=72&u=3e71c938adae19c96b3ab487bddb427343e62ff4&v=4" width="24" alt="Avatar of grahampugh"/> grahampugh
 			</a><br/>
@@ -3893,7 +3906,7 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>523</td>
 	</tr>
 	<tr>
-		<td>292</td>
+		<td>293</td>
 		<td>
 			<a target="_blank" href="https://github.com/esc">
 				<img src="https://avatars.githubusercontent.com/u/41563?s=72&u=81697b37f0efd3654bbee617c719c58434e7941a&v=4" width="24" alt="Avatar of esc"/> esc
@@ -3904,19 +3917,6 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td><a target="_blank" href="https://twitter.com/esc___">esc___</a></td>
 		<td>Berlin Germany</td>
 		<td>521</td>
-	</tr>
-	<tr>
-		<td>293</td>
-		<td>
-			<a target="_blank" href="https://github.com/vogella">
-				<img src="https://avatars.githubusercontent.com/u/139910?s=72&u=a18b79be9cc72adf0e83b6fffe870938858e9dcf&v=4" width="24" alt="Avatar of vogella"/> vogella
-			</a><br/>
-			Lars Vogel
-		</td>
-		<td>Vogella Gmbh </td>
-		<td><a target="_blank" href="https://twitter.com/vogella">vogella</a></td>
-		<td>Hamburg</td>
-		<td>519</td>
 	</tr>
 	<tr>
 		<td>294</td>
@@ -4007,7 +4007,7 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/turian">turian</a></td>
 		<td>Berlin  New York</td>
-		<td>503</td>
+		<td>504</td>
 	</tr>
 	<tr>
 		<td>301</td>
@@ -4142,6 +4142,19 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 	<tr>
 		<td>311</td>
 		<td>
+			<a target="_blank" href="https://github.com/thomasdarimont">
+				<img src="https://avatars.githubusercontent.com/u/314690?s=72&u=8a8aa2edf3fcc55b2fcb7daf88a77b666204c46a&v=4" width="24" alt="Avatar of thomasdarimont"/> thomasdarimont
+			</a><br/>
+			Thomas Darimont
+		</td>
+		<td>@identity Tailor Gmbh </td>
+		<td><a target="_blank" href="https://twitter.com/thomasdarimont">thomasdarimont</a></td>
+		<td>Saarland  Germany</td>
+		<td>480</td>
+	</tr>
+	<tr>
+		<td>312</td>
+		<td>
 			<a target="_blank" href="https://github.com/muety">
 				<img src="https://avatars.githubusercontent.com/u/8978843?s=72&u=916b8b4c6d8b5ce3546782db37570c946269c605&v=4" width="24" alt="Avatar of muety"/> muety
 			</a><br/>
@@ -4151,19 +4164,6 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Karlsruhe Germany</td>
 		<td>480</td>
-	</tr>
-	<tr>
-		<td>312</td>
-		<td>
-			<a target="_blank" href="https://github.com/thomasdarimont">
-				<img src="https://avatars.githubusercontent.com/u/314690?s=72&u=8a8aa2edf3fcc55b2fcb7daf88a77b666204c46a&v=4" width="24" alt="Avatar of thomasdarimont"/> thomasdarimont
-			</a><br/>
-			Thomas Darimont
-		</td>
-		<td>@identity Tailor Gmbh </td>
-		<td><a target="_blank" href="https://twitter.com/thomasdarimont">thomasdarimont</a></td>
-		<td>Saarland  Germany</td>
-		<td>478</td>
 	</tr>
 	<tr>
 		<td>313</td>
@@ -4246,6 +4246,19 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 	<tr>
 		<td>319</td>
 		<td>
+			<a target="_blank" href="https://github.com/Araq">
+				<img src="https://avatars.githubusercontent.com/u/287816?s=72&v=4" width="24" alt="Avatar of Araq"/> Araq
+			</a><br/>
+			Andreas Rumpf
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Germany</td>
+		<td>463</td>
+	</tr>
+	<tr>
+		<td>320</td>
+		<td>
 			<a target="_blank" href="https://github.com/ClemensElflein">
 				<img src="https://avatars.githubusercontent.com/u/2864655?s=72&u=2591ac55224d26b785305baa47b3b89c5dab7a21&v=4" width="24" alt="Avatar of ClemensElflein"/> ClemensElflein
 			</a><br/>
@@ -4257,7 +4270,7 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>462</td>
 	</tr>
 	<tr>
-		<td>320</td>
+		<td>321</td>
 		<td>
 			<a target="_blank" href="https://github.com/missinglink">
 				<img src="https://avatars.githubusercontent.com/u/738069?s=72&u=e2eeee127bf44666194d70d08fb81d45409a5e5d&v=4" width="24" alt="Avatar of missinglink"/> missinglink
@@ -4268,19 +4281,6 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td><a target="_blank" href="https://twitter.com/insertcoffee">insertcoffee</a></td>
 		<td>Berlin</td>
 		<td>462</td>
-	</tr>
-	<tr>
-		<td>321</td>
-		<td>
-			<a target="_blank" href="https://github.com/Araq">
-				<img src="https://avatars.githubusercontent.com/u/287816?s=72&v=4" width="24" alt="Avatar of Araq"/> Araq
-			</a><br/>
-			Andreas Rumpf
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Germany</td>
-		<td>461</td>
 	</tr>
 	<tr>
 		<td>322</td>
@@ -4298,6 +4298,19 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 	<tr>
 		<td>323</td>
 		<td>
+			<a target="_blank" href="https://github.com/petere">
+				<img src="https://avatars.githubusercontent.com/u/105543?s=72&v=4" width="24" alt="Avatar of petere"/> petere
+			</a><br/>
+			Peter Eisentraut
+		</td>
+		<td>@enterprisedb </td>
+		<td>No Twitter Username</td>
+		<td>Dresden</td>
+		<td>458</td>
+	</tr>
+	<tr>
+		<td>324</td>
+		<td>
 			<a target="_blank" href="https://github.com/clemensv">
 				<img src="https://avatars.githubusercontent.com/u/542030?s=72&u=5ca8afa9614e28d89f4ab3b24a3b7987979a81f0&v=4" width="24" alt="Avatar of clemensv"/> clemensv
 			</a><br/>
@@ -4309,7 +4322,7 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>458</td>
 	</tr>
 	<tr>
-		<td>324</td>
+		<td>325</td>
 		<td>
 			<a target="_blank" href="https://github.com/olikraus">
 				<img src="https://avatars.githubusercontent.com/u/1084992?s=72&v=4" width="24" alt="Avatar of olikraus"/> olikraus
@@ -4319,19 +4332,6 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Germany</td>
-		<td>456</td>
-	</tr>
-	<tr>
-		<td>325</td>
-		<td>
-			<a target="_blank" href="https://github.com/petere">
-				<img src="https://avatars.githubusercontent.com/u/105543?s=72&v=4" width="24" alt="Avatar of petere"/> petere
-			</a><br/>
-			Peter Eisentraut
-		</td>
-		<td>@enterprisedb </td>
-		<td>No Twitter Username</td>
-		<td>Dresden</td>
 		<td>456</td>
 	</tr>
 	<tr>
@@ -4501,7 +4501,7 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/jklingenberg_">jklingenberg_</a></td>
 		<td>Hamburg</td>
-		<td>411</td>
+		<td>412</td>
 	</tr>
 	<tr>
 		<td>339</td>
@@ -4670,7 +4670,7 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Germany</td>
-		<td>384</td>
+		<td>385</td>
 	</tr>
 	<tr>
 		<td>352</td>
@@ -4761,10 +4761,23 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>Jexp  @neo4j </td>
 		<td><a target="_blank" href="https://twitter.com/mesirii">mesirii</a></td>
 		<td>Dresden Germany</td>
-		<td>359</td>
+		<td>360</td>
 	</tr>
 	<tr>
 		<td>359</td>
+		<td>
+			<a target="_blank" href="https://github.com/aregtech">
+				<img src="https://avatars.githubusercontent.com/u/49253642?s=72&u=d99d7979637c45292d6132a08f4d8fb4c64ffb95&v=4" width="24" alt="Avatar of aregtech"/> aregtech
+			</a><br/>
+			Aregtech
+		</td>
+		<td>Aregtech </td>
+		<td><a target="_blank" href="https://twitter.com/aregtech">aregtech</a></td>
+		<td>Munich Germany</td>
+		<td>358</td>
+	</tr>
+	<tr>
+		<td>360</td>
 		<td>
 			<a target="_blank" href="https://github.com/thheller">
 				<img src="https://avatars.githubusercontent.com/u/144930?s=72&u=c707178efc168411e66ce8d2e853bf24fe96eb47&v=4" width="24" alt="Avatar of thheller"/> thheller
@@ -4777,7 +4790,7 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>358</td>
 	</tr>
 	<tr>
-		<td>360</td>
+		<td>361</td>
 		<td>
 			<a target="_blank" href="https://github.com/nisrulz">
 				<img src="https://avatars.githubusercontent.com/u/2096087?s=72&u=9772a7130ec94b29dd8ee6e8e23b9f73edcc8232&v=4" width="24" alt="Avatar of nisrulz"/> nisrulz
@@ -4787,19 +4800,6 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>@scout24 </td>
 		<td>No Twitter Username</td>
 		<td>Berlin Germany</td>
-		<td>357</td>
-	</tr>
-	<tr>
-		<td>361</td>
-		<td>
-			<a target="_blank" href="https://github.com/aregtech">
-				<img src="https://avatars.githubusercontent.com/u/49253642?s=72&u=d99d7979637c45292d6132a08f4d8fb4c64ffb95&v=4" width="24" alt="Avatar of aregtech"/> aregtech
-			</a><br/>
-			Aregtech
-		</td>
-		<td>Aregtech </td>
-		<td><a target="_blank" href="https://twitter.com/aregtech">aregtech</a></td>
-		<td>Munich Germany</td>
 		<td>357</td>
 	</tr>
 	<tr>
@@ -5299,6 +5299,19 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 	<tr>
 		<td>400</td>
 		<td>
+			<a target="_blank" href="https://github.com/drogus">
+				<img src="https://avatars.githubusercontent.com/u/5004?s=72&u=63d8a330e9d372ddb66bda4794c21df7fd557a58&v=4" width="24" alt="Avatar of drogus"/> drogus
+			</a><br/>
+			Piotr Sarnacki
+		</td>
+		<td>Clockwork Labs </td>
+		<td><a target="_blank" href="https://twitter.com/drogus">drogus</a></td>
+		<td>Berlin</td>
+		<td>292</td>
+	</tr>
+	<tr>
+		<td>401</td>
+		<td>
 			<a target="_blank" href="https://github.com/ulope">
 				<img src="https://avatars.githubusercontent.com/u/55078?s=72&u=93b2d0ff06d852c241ed12d6ca2da20d12fb4482&v=4" width="24" alt="Avatar of ulope"/> ulope
 			</a><br/>
@@ -5308,19 +5321,6 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td><a target="_blank" href="https://twitter.com/ulope">ulope</a></td>
 		<td>Mainz Germany</td>
 		<td>292</td>
-	</tr>
-	<tr>
-		<td>401</td>
-		<td>
-			<a target="_blank" href="https://github.com/drogus">
-				<img src="https://avatars.githubusercontent.com/u/5004?s=72&u=63d8a330e9d372ddb66bda4794c21df7fd557a58&v=4" width="24" alt="Avatar of drogus"/> drogus
-			</a><br/>
-			Piotr Sarnacki
-		</td>
-		<td>Clockwork Labs </td>
-		<td><a target="_blank" href="https://twitter.com/drogus">drogus</a></td>
-		<td>Berlin</td>
-		<td>291</td>
 	</tr>
 	<tr>
 		<td>402</td>
@@ -5728,6 +5728,19 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 	<tr>
 		<td>433</td>
 		<td>
+			<a target="_blank" href="https://github.com/plu">
+				<img src="https://avatars.githubusercontent.com/u/31597?s=72&u=2d69164ac393e1d2841de1e3ea86de1c26f4fa64&v=4" width="24" alt="Avatar of plu"/> plu
+			</a><br/>
+			Johannes Plunien
+		</td>
+		<td>Kleinanzeigen </td>
+		<td>No Twitter Username</td>
+		<td>Germany</td>
+		<td>241</td>
+	</tr>
+	<tr>
+		<td>434</td>
+		<td>
 			<a target="_blank" href="https://github.com/jasineri">
 				<img src="https://avatars.githubusercontent.com/u/17604010?s=72&u=ad4335997d1afc96665495de69e919f655176f8f&v=4" width="24" alt="Avatar of jasineri"/> jasineri
 			</a><br/>
@@ -5737,19 +5750,6 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>No Twitter Username</td>
 		<td>Germany</td>
 		<td>240</td>
-	</tr>
-	<tr>
-		<td>434</td>
-		<td>
-			<a target="_blank" href="https://github.com/plu">
-				<img src="https://avatars.githubusercontent.com/u/31597?s=72&u=2d69164ac393e1d2841de1e3ea86de1c26f4fa64&v=4" width="24" alt="Avatar of plu"/> plu
-			</a><br/>
-			Johannes Plunien
-		</td>
-		<td>Kleinanzeigen </td>
-		<td>No Twitter Username</td>
-		<td>Germany</td>
-		<td>239</td>
 	</tr>
 	<tr>
 		<td>435</td>
@@ -6027,6 +6027,19 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 	<tr>
 		<td>456</td>
 		<td>
+			<a target="_blank" href="https://github.com/carhartl">
+				<img src="https://avatars.githubusercontent.com/u/21918?s=72&v=4" width="24" alt="Avatar of carhartl"/> carhartl
+			</a><br/>
+			Klaus Hartl
+		</td>
+		<td>@contentful </td>
+		<td>No Twitter Username</td>
+		<td>Germany</td>
+		<td>217</td>
+	</tr>
+	<tr>
+		<td>457</td>
+		<td>
 			<a target="_blank" href="https://github.com/abdulfatir">
 				<img src="https://avatars.githubusercontent.com/u/4028948?s=72&u=34d2e190f8352b8c32bc5f8e21f6509815453ccd&v=4" width="24" alt="Avatar of abdulfatir"/> abdulfatir
 			</a><br/>
@@ -6036,19 +6049,6 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td><a target="_blank" href="https://twitter.com/solitarypenman">solitarypenman</a></td>
 		<td>Berlin</td>
 		<td>217</td>
-	</tr>
-	<tr>
-		<td>457</td>
-		<td>
-			<a target="_blank" href="https://github.com/carhartl">
-				<img src="https://avatars.githubusercontent.com/u/21918?s=72&v=4" width="24" alt="Avatar of carhartl"/> carhartl
-			</a><br/>
-			Klaus Hartl
-		</td>
-		<td>@contentful </td>
-		<td>No Twitter Username</td>
-		<td>Germany</td>
-		<td>214</td>
 	</tr>
 	<tr>
 		<td>458</td>
@@ -6074,7 +6074,7 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/joshtriedcoding">joshtriedcoding</a></td>
 		<td>Germany</td>
-		<td>211</td>
+		<td>212</td>
 	</tr>
 	<tr>
 		<td>460</td>
@@ -8398,7 +8398,7 @@ There are `924 users`  in Germany. You need at least `305 followers` to be on th
 			</a><br/>
 			Oliver Eilhard
 		</td>
-		<td>Meplato Gmbh </td>
+		<td>Alt F4 </td>
 		<td>No Twitter Username</td>
 		<td>Munich Germany</td>
 		<td>43</td>
