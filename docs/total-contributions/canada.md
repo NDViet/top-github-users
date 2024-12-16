@@ -10,7 +10,7 @@ description: Top GitHub Users By Total Contributions in Canada
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Canada_%28Pantone%29.svg" alt="Canada"/>
 </a>
 
-The `public contributions` and `private contributions` by users in Canada on `2024/12/15 11:24 PM UTC`. This list contains users from Canada and cities Toronto Montreal Vancouver Calgary Edmonton Quebeccity Winnipeg Saskatoon Regina.
+The `public contributions` and `private contributions` by users in Canada on `2024/12/16 9:27 AM UTC`. This list contains users from Canada and cities Toronto Montreal Vancouver Calgary Edmonton Quebeccity Winnipeg Saskatoon Regina.
 
 There are `19 countries` and `130 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
@@ -114,21 +114,21 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>1</td>
 		<td>
 			<a target="_blank" href="https://github.com/baywet">
-				<img src="https://private-avatars.githubusercontent.com/u/7905502?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1MjAsIm5iZiI6MTczNDMwNDMyMCwicGF0aCI6Ii91Lzc5MDU1MDIifQ.nackAV4aDoKei3msjdokRmbJbHwEP2KBw3o-AMmIpAs&s=72&u=ee392030bc8e8e024c71be1f22ce7731c3e393c5&v=4" width="24" alt="Avatar of baywet"/> baywet
+				<img src="https://private-avatars.githubusercontent.com/u/7905502?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1MjAsIm5iZiI6MTczNDM0MDMyMCwicGF0aCI6Ii91Lzc5MDU1MDIifQ.Ew15sziZuc_LJrjfZRxxB7ZDjVfJlfEIg_rftJK6tDg&s=72&u=ee392030bc8e8e024c71be1f22ce7731c3e393c5&v=4" width="24" alt="Avatar of baywet"/> baywet
 			</a><br/>
 			Vincent Biret
 		</td>
 		<td>@microsoft </td>
 		<td>No Twitter Username</td>
 		<td>Montreal QC Canada</td>
-		<td>11651</td>
-		<td>12314</td>
+		<td>11896</td>
+		<td>12289</td>
 	</tr>
 	<tr>
 		<td>2</td>
 		<td>
 			<a target="_blank" href="https://github.com/fire">
-				<img src="https://private-avatars.githubusercontent.com/u/32321?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0MDAsIm5iZiI6MTczNDMwNDIwMCwicGF0aCI6Ii91LzMyMzIxIn0.3Q-2Q4QRM_3J-7YUGwSp93Ho3o92B7MVH9CS9LezeqU&s=72&u=c2e06a3d2b49a467aa907e54aa259516440267cc&v=4" width="24" alt="Avatar of fire"/> fire
+				<img src="https://private-avatars.githubusercontent.com/u/32321?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0MDAsIm5iZiI6MTczNDM0MDIwMCwicGF0aCI6Ii91LzMyMzIxIn0.B_l7cmJlP55E40XSg15_k1T_SUZ5FK1K6hA_TMfoBzs&s=72&u=c2e06a3d2b49a467aa907e54aa259516440267cc&v=4" width="24" alt="Avatar of fire"/> fire
 			</a><br/>
 			K S Ernest iFire Lee
 		</td>
@@ -142,7 +142,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>3</td>
 		<td>
 			<a target="_blank" href="https://github.com/itsdevbear">
-				<img src="https://private-avatars.githubusercontent.com/u/93690142?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4MjAsIm5iZiI6MTczNDMwNDYyMCwicGF0aCI6Ii91LzkzNjkwMTQyIn0.LZjAPd5oRwhXLgWkkRzo3k8aFFPQFHzHT7tbBa5D3kA&s=72&u=8d9831e8ae1059ea616ba566ffc5cd07df68fe51&v=4" width="24" alt="Avatar of itsdevbear"/> itsdevbear
+				<img src="https://private-avatars.githubusercontent.com/u/93690142?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4MjAsIm5iZiI6MTczNDM0MDYyMCwicGF0aCI6Ii91LzkzNjkwMTQyIn0.9oD3eD5KNUkMAAzCUCvIOGrrEaPXH3WNctVl-vC87A4&s=72&u=8d9831e8ae1059ea616ba566ffc5cd07df68fe51&v=4" width="24" alt="Avatar of itsdevbear"/> itsdevbear
 			</a><br/>
 			Devon
 		</td>
@@ -156,21 +156,21 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>4</td>
 		<td>
 			<a target="_blank" href="https://github.com/jeromelaban">
-				<img src="https://private-avatars.githubusercontent.com/u/5839577?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0NjAsIm5iZiI6MTczNDMwNDI2MCwicGF0aCI6Ii91LzU4Mzk1NzcifQ.SExSy7QXuavO2ipdWH-ERcTQET5A4iIniUxkvLcECfY&s=72&u=ab060f09c0f04e6352cc44ae546d0a4905cd4ffe&v=4" width="24" alt="Avatar of jeromelaban"/> jeromelaban
+				<img src="https://private-avatars.githubusercontent.com/u/5839577?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0NjAsIm5iZiI6MTczNDM0MDI2MCwicGF0aCI6Ii91LzU4Mzk1NzcifQ.trrKty8Tx990Tv-WlZ8ruLxZyVfKzBAsGuztJ5pUEYc&s=72&u=ab060f09c0f04e6352cc44ae546d0a4905cd4ffe&v=4" width="24" alt="Avatar of jeromelaban"/> jeromelaban
 			</a><br/>
 			Jrme Laban
 		</td>
 		<td>@unoplatform </td>
 		<td><a target="_blank" href="https://twitter.com/jlaban">jlaban</a></td>
 		<td>Montreal Canada</td>
-		<td>5820</td>
-		<td>8537</td>
+		<td>5822</td>
+		<td>8550</td>
 	</tr>
 	<tr>
 		<td>5</td>
 		<td>
 			<a target="_blank" href="https://github.com/meabed">
-				<img src="https://private-avatars.githubusercontent.com/u/45731?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3MDAsIm5iZiI6MTczNDMwNDUwMCwicGF0aCI6Ii91LzQ1NzMxIn0.v3AlqwTPAtKotG-vjV4YDMH5saYe4WAWlgbzmBernyc&s=72&u=0f02e5317e7681901099834f0c7d547ff2d7ea50&v=4" width="24" alt="Avatar of meabed"/> meabed
+				<img src="https://private-avatars.githubusercontent.com/u/45731?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3MDAsIm5iZiI6MTczNDM0MDUwMCwicGF0aCI6Ii91LzQ1NzMxIn0.NiU7AC6F20D-U4mYuKy4n-M-kFBupQ0QC3bD9rgdY84&s=72&u=0f02e5317e7681901099834f0c7d547ff2d7ea50&v=4" width="24" alt="Avatar of meabed"/> meabed
 			</a><br/>
 			Mohamed Meabed
 		</td>
@@ -178,27 +178,27 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td><a target="_blank" href="https://twitter.com/meabed">meabed</a></td>
 		<td>Canada</td>
 		<td>439</td>
-		<td>7287</td>
+		<td>7289</td>
 	</tr>
 	<tr>
 		<td>6</td>
 		<td>
 			<a target="_blank" href="https://github.com/michaelklishin">
-				<img src="https://private-avatars.githubusercontent.com/u/1090?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ2ODAsIm5iZiI6MTczNDMwMzQ4MCwicGF0aCI6Ii91LzEwOTAifQ.3rLMWX7fJtlI42uqwWwluhY-65I0G2POBl3dWo-f2YY&s=72&u=5a39ce34a2163cf39d7524da94554db91cbcda50&v=4" width="24" alt="Avatar of michaelklishin"/> michaelklishin
+				<img src="https://private-avatars.githubusercontent.com/u/1090?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1ODAsIm5iZiI6MTczNDM0MDM4MCwicGF0aCI6Ii91LzEwOTAifQ.3yU-RzgFFaj70dr7SGv_lCb4UZIY9VpGjQN9ndOea4k&s=72&u=5a39ce34a2163cf39d7524da94554db91cbcda50&v=4" width="24" alt="Avatar of michaelklishin"/> michaelklishin
 			</a><br/>
 			Michael Klishin
 		</td>
 		<td>@rabbitmq At @vmware By<br/>@broadcom<br/></td>
 		<td>No Twitter Username</td>
 		<td>Toronto Ontario Canada</td>
-		<td>4000</td>
-		<td>6635</td>
+		<td>4008</td>
+		<td>6647</td>
 	</tr>
 	<tr>
 		<td>7</td>
 		<td>
 			<a target="_blank" href="https://github.com/jpmckinney">
-				<img src="https://private-avatars.githubusercontent.com/u/26463?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0MDAsIm5iZiI6MTczNDMwNDIwMCwicGF0aCI6Ii91LzI2NDYzIn0.9TRly6hYyQ9oCt0YvWkkWAteZuDaehrJvPJdZREe1eI&s=72&u=cab6fe7ae027bb08110b700677306d13e4d04613&v=4" width="24" alt="Avatar of jpmckinney"/> jpmckinney
+				<img src="https://private-avatars.githubusercontent.com/u/26463?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0MDAsIm5iZiI6MTczNDM0MDIwMCwicGF0aCI6Ii91LzI2NDYzIn0.FbkvH_rhyn1jAj2K6F80zxKH4DWnNjmaZcWrMemnCpg&s=72&u=cab6fe7ae027bb08110b700677306d13e4d04613&v=4" width="24" alt="Avatar of jpmckinney"/> jpmckinney
 			</a><br/>
 			James McKinney
 		</td>
@@ -212,7 +212,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>8</td>
 		<td>
 			<a target="_blank" href="https://github.com/etimberg">
-				<img src="https://private-avatars.githubusercontent.com/u/6757853?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0NjAsIm5iZiI6MTczNDMwNDI2MCwicGF0aCI6Ii91LzY3NTc4NTMifQ.nnD7vuSctgsZaV2e79Irgrxm4oQFoCYPFsjBHcX-1EU&s=72&u=beb19f1c39097de816f45b45f8f6c1c77206bf22&v=4" width="24" alt="Avatar of etimberg"/> etimberg
+				<img src="https://private-avatars.githubusercontent.com/u/6757853?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0NjAsIm5iZiI6MTczNDM0MDI2MCwicGF0aCI6Ii91LzY3NTc4NTMifQ.IGX5Y62NstIcDwPl36V2xSXJiGQ_TbY6t81rrp0RpqI&s=72&u=beb19f1c39097de816f45b45f8f6c1c77206bf22&v=4" width="24" alt="Avatar of etimberg"/> etimberg
 			</a><br/>
 			Evert Timberg
 		</td>
@@ -226,7 +226,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>9</td>
 		<td>
 			<a target="_blank" href="https://github.com/isrugeek">
-				<img src="https://private-avatars.githubusercontent.com/u/25211725?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3NjAsIm5iZiI6MTczNDMwNDU2MCwicGF0aCI6Ii91LzI1MjExNzI1In0.x6MD2lGLzdBjIIdlcS6zkOmA1dhYJbGl8xo8LnZOpkE&s=72&v=4" width="24" alt="Avatar of isrugeek"/> isrugeek
+				<img src="https://private-avatars.githubusercontent.com/u/25211725?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3NjAsIm5iZiI6MTczNDM0MDU2MCwicGF0aCI6Ii91LzI1MjExNzI1In0.gPaNUhCrGxbR4UuMosfz-2uA86AWXMUiWp4agkrz3E0&s=72&v=4" width="24" alt="Avatar of isrugeek"/> isrugeek
 			</a><br/>
 			Israel Goytom
 		</td>
@@ -240,7 +240,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>10</td>
 		<td>
 			<a target="_blank" href="https://github.com/turbolent">
-				<img src="https://private-avatars.githubusercontent.com/u/51661?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4ODAsIm5iZiI6MTczNDMwNDY4MCwicGF0aCI6Ii91LzUxNjYxIn0.x0jleTg38vkYirRYHiiasj_MWyFMqvUTf0GPi_GKSxA&s=72&u=8625491e7c7978888cbfef174454648241d2cc08&v=4" width="24" alt="Avatar of turbolent"/> turbolent
+				<img src="https://private-avatars.githubusercontent.com/u/51661?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4ODAsIm5iZiI6MTczNDM0MDY4MCwicGF0aCI6Ii91LzUxNjYxIn0.bMeJrJ7OZy8cu_sGT-Co5yoSXAXHAnWwiMR0uJLePpY&s=72&u=8625491e7c7978888cbfef174454648241d2cc08&v=4" width="24" alt="Avatar of turbolent"/> turbolent
 			</a><br/>
 			Bastian Mller
 		</td>
@@ -254,7 +254,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>11</td>
 		<td>
 			<a target="_blank" href="https://github.com/ujihisa">
-				<img src="https://private-avatars.githubusercontent.com/u/11504?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyODAsIm5iZiI6MTczNDMwNDA4MCwicGF0aCI6Ii91LzExNTA0In0.ALT5v-TeF3kq_L2dEBWK4C59xWri8EXkySg_ZocZS6U&s=72&v=4" width="24" alt="Avatar of ujihisa"/> ujihisa
+				<img src="https://private-avatars.githubusercontent.com/u/11504?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyODAsIm5iZiI6MTczNDM0MDA4MCwicGF0aCI6Ii91LzExNTA0In0.d7Y_bgqupXueUxmyT0fquDRECWkHN_UzBmuRgVWWYCQ&s=72&v=4" width="24" alt="Avatar of ujihisa"/> ujihisa
 			</a><br/>
 			ujihisa
 		</td>
@@ -262,27 +262,27 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Vancouver Canada</td>
 		<td>526</td>
-		<td>5632</td>
+		<td>5650</td>
 	</tr>
 	<tr>
 		<td>12</td>
 		<td>
 			<a target="_blank" href="https://github.com/dsherret">
-				<img src="https://private-avatars.githubusercontent.com/u/1609021?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxMDAsIm5iZiI6MTczNDMwMzkwMCwicGF0aCI6Ii91LzE2MDkwMjEifQ.Rj5yPQGYRiPA_Do0yP-5HkoVB9aXW7XwzY9ak8XSytk&s=72&u=fc6a1ec363bb6ae9665efbb6138f8beb615be38b&v=4" width="24" alt="Avatar of dsherret"/> dsherret
+				<img src="https://private-avatars.githubusercontent.com/u/1609021?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDExMDAsIm5iZiI6MTczNDMzOTkwMCwicGF0aCI6Ii91LzE2MDkwMjEifQ.md1_vSWN_PtdsUxyt5ePBo17ETnG-eOTCh5jf6czPH0&s=72&u=fc6a1ec363bb6ae9665efbb6138f8beb615be38b&v=4" width="24" alt="Avatar of dsherret"/> dsherret
 			</a><br/>
 			David Sherret
 		</td>
 		<td>@denoland </td>
 		<td><a target="_blank" href="https://twitter.com/DavidSherret">DavidSherret</a></td>
 		<td>Toronto Canada</td>
-		<td>4939</td>
-		<td>5618</td>
+		<td>4940</td>
+		<td>5619</td>
 	</tr>
 	<tr>
 		<td>13</td>
 		<td>
 			<a target="_blank" href="https://github.com/markstory">
-				<img src="https://private-avatars.githubusercontent.com/u/24086?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ4NjAsIm5iZiI6MTczNDMwMzY2MCwicGF0aCI6Ii91LzI0MDg2In0.0N5tobznT0eW7aVp_MYFVnrwxq1jEsXsakjgJa1a9-g&s=72&v=4" width="24" alt="Avatar of markstory"/> markstory
+				<img src="https://private-avatars.githubusercontent.com/u/24086?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3NjAsIm5iZiI6MTczNDM0MDU2MCwicGF0aCI6Ii91LzI0MDg2In0.AouSajwNah0-etqswy6BgNfVyUDCSGGBTYp1_JCI3Qo&s=72&v=4" width="24" alt="Avatar of markstory"/> markstory
 			</a><br/>
 			Mark Story
 		</td>
@@ -290,13 +290,13 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Toronto Ontario</td>
 		<td>3426</td>
-		<td>5215</td>
+		<td>5217</td>
 	</tr>
 	<tr>
 		<td>14</td>
 		<td>
 			<a target="_blank" href="https://github.com/srid">
-				<img src="https://private-avatars.githubusercontent.com/u/3998?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyMjAsIm5iZiI6MTczNDMwNDAyMCwicGF0aCI6Ii91LzM5OTgifQ.2H8LGTWesAA6F8ioTyWrMeQbrO4s18m_HpnfTymmOqo&s=72&u=fe40773da0b7b0e3fdb1f5540b9d136347fd409d&v=4" width="24" alt="Avatar of srid"/> srid
+				<img src="https://private-avatars.githubusercontent.com/u/3998?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyMjAsIm5iZiI6MTczNDM0MDAyMCwicGF0aCI6Ii91LzM5OTgifQ.xQhlypQLLjV9GcJZ8tFs53VwDOhWzZzGvpiVL_6BGLo&s=72&u=fe40773da0b7b0e3fdb1f5540b9d136347fd409d&v=4" width="24" alt="Avatar of srid"/> srid
 			</a><br/>
 			Sridhar Ratnakumar
 		</td>
@@ -310,21 +310,21 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>15</td>
 		<td>
 			<a target="_blank" href="https://github.com/stevebauman">
-				<img src="https://private-avatars.githubusercontent.com/u/6421846?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ5MjAsIm5iZiI6MTczNDMwMzcyMCwicGF0aCI6Ii91LzY0MjE4NDYifQ.gpNft0oT3eYatrOWjRd1FjnTTMLD4axkJtmvy034opo&s=72&u=85c3f4a3155272ae5cb07e2f477434af6380f8b0&v=4" width="24" alt="Avatar of stevebauman"/> stevebauman
+				<img src="https://private-avatars.githubusercontent.com/u/6421846?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4MjAsIm5iZiI6MTczNDM0MDYyMCwicGF0aCI6Ii91LzY0MjE4NDYifQ.3MWhzx5q1avA83HXXFViU07BdFJpleHibt8tcgpLcm0&s=72&u=85c3f4a3155272ae5cb07e2f477434af6380f8b0&v=4" width="24" alt="Avatar of stevebauman"/> stevebauman
 			</a><br/>
 			Steve Bauman
 		</td>
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/ste_bau">ste_bau</a></td>
 		<td>Sarnia Ontario Canada</td>
-		<td>1057</td>
-		<td>5074</td>
+		<td>1065</td>
+		<td>5082</td>
 	</tr>
 	<tr>
 		<td>16</td>
 		<td>
 			<a target="_blank" href="https://github.com/jdufresne">
-				<img src="https://private-avatars.githubusercontent.com/u/347634?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4ODAsIm5iZiI6MTczNDMwNDY4MCwicGF0aCI6Ii91LzM0NzYzNCJ9.JuujFc5SFBSDzpcopyHlUulUSU6eHLs_5UzJMybg8e8&s=72&u=8fac9ccfaca4841463c2e688e3f8e6e3301f089d&v=4" width="24" alt="Avatar of jdufresne"/> jdufresne
+				<img src="https://private-avatars.githubusercontent.com/u/347634?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4ODAsIm5iZiI6MTczNDM0MDY4MCwicGF0aCI6Ii91LzM0NzYzNCJ9.SFrR_NvU1eMBL9vyXVPT2uIYIcEyjvAKTP9wyRwSG_4&s=72&u=8fac9ccfaca4841463c2e688e3f8e6e3301f089d&v=4" width="24" alt="Avatar of jdufresne"/> jdufresne
 			</a><br/>
 			Jon Dufresne
 		</td>
@@ -338,7 +338,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>17</td>
 		<td>
 			<a target="_blank" href="https://github.com/shiftkey">
-				<img src="https://private-avatars.githubusercontent.com/u/359239?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ5MjAsIm5iZiI6MTczNDMwMzcyMCwicGF0aCI6Ii91LzM1OTIzOSJ9.EqzdqBSUfZx3fR4cWL768C6N7IlRHf9YfTQ3AVlCblw&s=72&u=8cf5f84ab5b916b3304e1d9f8805a2a90b14f2de&v=4" width="24" alt="Avatar of shiftkey"/> shiftkey
+				<img src="https://private-avatars.githubusercontent.com/u/359239?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDA5MjAsIm5iZiI6MTczNDMzOTcyMCwicGF0aCI6Ii91LzM1OTIzOSJ9.tjckEJawAeIZOOZkqVD7n3vkN4p0O5Dp52h9rWeir6Q&s=72&u=8cf5f84ab5b916b3304e1d9f8805a2a90b14f2de&v=4" width="24" alt="Avatar of shiftkey"/> shiftkey
 			</a><br/>
 			Brendan Forster
 		</td>
@@ -352,21 +352,21 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>18</td>
 		<td>
 			<a target="_blank" href="https://github.com/huchenlei">
-				<img src="https://private-avatars.githubusercontent.com/u/20929282?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ4NjAsIm5iZiI6MTczNDMwMzY2MCwicGF0aCI6Ii91LzIwOTI5MjgyIn0.WkanWw0cz4Lo4FzTEH_meD4v-uO5F5l4F17bH1_OUyI&s=72&u=b5f9b482cc55c583cd99add92c4235b57e6e6d1f&v=4" width="24" alt="Avatar of huchenlei"/> huchenlei
+				<img src="https://private-avatars.githubusercontent.com/u/20929282?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3NjAsIm5iZiI6MTczNDM0MDU2MCwicGF0aCI6Ii91LzIwOTI5MjgyIn0.SgiKM1i0_5Xr5j9kM32Tuih1x_cJuG-J2a-1_KGLcEw&s=72&u=b5f9b482cc55c583cd99add92c4235b57e6e6d1f&v=4" width="24" alt="Avatar of huchenlei"/> huchenlei
 			</a><br/>
 			Chenlei Hu
 		</td>
 		<td>@comfyorg </td>
 		<td><a target="_blank" href="https://twitter.com/HclHno3">HclHno3</a></td>
 		<td>Canada</td>
-		<td>4773</td>
-		<td>4840</td>
+		<td>4776</td>
+		<td>4843</td>
 	</tr>
 	<tr>
 		<td>19</td>
 		<td>
 			<a target="_blank" href="https://github.com/paleolimbot">
-				<img src="https://private-avatars.githubusercontent.com/u/10995762?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91LzEwOTk1NzYyIn0.KPu34r4NasS4sLgg8TrIQ2zp6JyFaA2akzhzXOyDUSs&s=72&u=964d5dc69b45b5f96975903f08c42457b3b6f8bb&v=4" width="24" alt="Avatar of paleolimbot"/> paleolimbot
+				<img src="https://private-avatars.githubusercontent.com/u/10995762?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEzNDAsIm5iZiI6MTczNDM0MDE0MCwicGF0aCI6Ii91LzEwOTk1NzYyIn0.4wEb4NFCcVBFoJOgystIfQVILb9Yo4jDsxjdPYS0raM&s=72&u=964d5dc69b45b5f96975903f08c42457b3b6f8bb&v=4" width="24" alt="Avatar of paleolimbot"/> paleolimbot
 			</a><br/>
 			Dewey Dunnington
 		</td>
@@ -374,13 +374,13 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td><a target="_blank" href="https://twitter.com/paleolimbot">paleolimbot</a></td>
 		<td>Nova Scotia Canada</td>
 		<td>1216</td>
-		<td>4580</td>
+		<td>4581</td>
 	</tr>
 	<tr>
 		<td>20</td>
 		<td>
 			<a target="_blank" href="https://github.com/Remi-Gau">
-				<img src="https://private-avatars.githubusercontent.com/u/6961185?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1MjAsIm5iZiI6MTczNDMwNDMyMCwicGF0aCI6Ii91LzY5NjExODUifQ.T13AMCCNx-i8t4KRG0hvcZPRpB6R_TsXQYs5WV_uXO8&s=72&u=52aef81722a11b6512facf23be04ad48665165f3&v=4" width="24" alt="Avatar of Remi-Gau"/> Remi-Gau
+				<img src="https://private-avatars.githubusercontent.com/u/6961185?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDI0MjAsIm5iZiI6MTczNDM0MTIyMCwicGF0aCI6Ii91LzY5NjExODUifQ.DD96J1gLpeeALDD0_et2uXSOgURdFF-dYMxhyOrmNgw&s=72&u=52aef81722a11b6512facf23be04ad48665165f3&v=4" width="24" alt="Avatar of Remi-Gau"/> Remi-Gau
 			</a><br/>
 			Remi Gau
 		</td>
@@ -394,7 +394,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>21</td>
 		<td>
 			<a target="_blank" href="https://github.com/nickmccullum">
-				<img src="https://private-avatars.githubusercontent.com/u/16008406?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxNjAsIm5iZiI6MTczNDMwMzk2MCwicGF0aCI6Ii91LzE2MDA4NDA2In0.2eaVTnC9i_XG1gYq8HtzuySQQlHRyAqwWTIO2Sb7ILI&s=72&u=dd38d32e6adaf99014566294ed977eee72c22a8d&v=4" width="24" alt="Avatar of nickmccullum"/> nickmccullum
+				<img src="https://private-avatars.githubusercontent.com/u/16008406?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDExNjAsIm5iZiI6MTczNDMzOTk2MCwicGF0aCI6Ii91LzE2MDA4NDA2In0.DvFU7BSgWuHukKSndmnvEeOgcoc_kOTHR4P0o0A_SOg&s=72&u=dd38d32e6adaf99014566294ed977eee72c22a8d&v=4" width="24" alt="Avatar of nickmccullum"/> nickmccullum
 			</a><br/>
 			Nick McCullum
 		</td>
@@ -402,27 +402,27 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td><a target="_blank" href="https://twitter.com/NickJMcCullum">NickJMcCullum</a></td>
 		<td>Canada</td>
 		<td>7</td>
-		<td>4388</td>
+		<td>4391</td>
 	</tr>
 	<tr>
 		<td>22</td>
 		<td>
 			<a target="_blank" href="https://github.com/stgraber">
-				<img src="https://private-avatars.githubusercontent.com/u/2230599?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ5MjAsIm5iZiI6MTczNDMwMzcyMCwicGF0aCI6Ii91LzIyMzA1OTkifQ.hIJmCfrJq5eHCO6SCMOyL8jAvosTNZ8L6zi8ElYuCps&s=72&u=abdde5daa22966908b40348decd496d8324f95af&v=4" width="24" alt="Avatar of stgraber"/> stgraber
+				<img src="https://private-avatars.githubusercontent.com/u/2230599?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4MjAsIm5iZiI6MTczNDM0MDYyMCwicGF0aCI6Ii91LzIyMzA1OTkifQ.i99ZTHixp2TER0pf4OKNsjhHqpb7T_0p032m4sFZT0k&s=72&u=abdde5daa22966908b40348decd496d8324f95af&v=4" width="24" alt="Avatar of stgraber"/> stgraber
 			</a><br/>
 			Stphane Graber
 		</td>
 		<td>@zabbly </td>
 		<td><a target="_blank" href="https://twitter.com/stgraber">stgraber</a></td>
 		<td>Shefford QC Canada</td>
-		<td>4186</td>
-		<td>4248</td>
+		<td>4192</td>
+		<td>4254</td>
 	</tr>
 	<tr>
 		<td>23</td>
 		<td>
 			<a target="_blank" href="https://github.com/wolever">
-				<img src="https://private-avatars.githubusercontent.com/u/59575?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3NjAsIm5iZiI6MTczNDMwNDU2MCwicGF0aCI6Ii91LzU5NTc1In0.-TJ99gHs-qLfV4Zlt6n4HoVxcXWdXJVrCDuU1L7t_wY&s=72&u=f1d15acfc7804f1fa8677f7a992ad2ca848e9629&v=4" width="24" alt="Avatar of wolever"/> wolever
+				<img src="https://private-avatars.githubusercontent.com/u/59575?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3NjAsIm5iZiI6MTczNDM0MDU2MCwicGF0aCI6Ii91LzU5NTc1In0.eY8BG7JZg4LMeoVRAPvQ29amxHp4QCcMK5kSxrOpfRw&s=72&u=f1d15acfc7804f1fa8677f7a992ad2ca848e9629&v=4" width="24" alt="Avatar of wolever"/> wolever
 			</a><br/>
 			David Wolever
 		</td>
@@ -430,13 +430,13 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td><a target="_blank" href="https://twitter.com/wolever">wolever</a></td>
 		<td>Toronto ON</td>
 		<td>18</td>
-		<td>4208</td>
+		<td>4209</td>
 	</tr>
 	<tr>
 		<td>24</td>
 		<td>
 			<a target="_blank" href="https://github.com/bhouston">
-				<img src="https://private-avatars.githubusercontent.com/u/588541?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0MDAsIm5iZiI6MTczNDMwNDIwMCwicGF0aCI6Ii91LzU4ODU0MSJ9.FaPHwOzTbOJ1bYw3g6MQqBetnKFflixuHnnHaTHzt-4&s=72&u=112db5ddf8ee6c5c19f56b035b9dbeddaae1897a&v=4" width="24" alt="Avatar of bhouston"/> bhouston
+				<img src="https://private-avatars.githubusercontent.com/u/588541?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0MDAsIm5iZiI6MTczNDM0MDIwMCwicGF0aCI6Ii91LzU4ODU0MSJ9.N_BbDMD_RGY1CKwqj791-pTPHtfTyrab7saF_BFYAEw&s=72&u=112db5ddf8ee6c5c19f56b035b9dbeddaae1897a&v=4" width="24" alt="Avatar of bhouston"/> bhouston
 			</a><br/>
 			Ben Houston
 		</td>
@@ -450,21 +450,35 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>25</td>
 		<td>
 			<a target="_blank" href="https://github.com/nickytonline">
-				<img src="https://private-avatars.githubusercontent.com/u/833231?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyMjAsIm5iZiI6MTczNDMwNDAyMCwicGF0aCI6Ii91LzgzMzIzMSJ9.tTneCgKJOkl9aH7e06yt5WebGV_j6hTpFYdPCVP_t2g&s=72&u=c462621b379f11fb265d8f85b8c75016ad33d243&v=4" width="24" alt="Avatar of nickytonline"/> nickytonline
+				<img src="https://private-avatars.githubusercontent.com/u/833231?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyMjAsIm5iZiI6MTczNDM0MDAyMCwicGF0aCI6Ii91LzgzMzIzMSJ9.oGadh9WpZTVZuVZoi6UzLTXyDiRzinLsUvc4TEpLYIE&s=72&u=c462621b379f11fb265d8f85b8c75016ad33d243&v=4" width="24" alt="Avatar of nickytonline"/> nickytonline
 			</a><br/>
 			Nick Taylor
 		</td>
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/nickytonline">nickytonline</a></td>
 		<td>Montreal Canada</td>
-		<td>3551</td>
-		<td>4125</td>
+		<td>3560</td>
+		<td>4134</td>
 	</tr>
 	<tr>
 		<td>26</td>
 		<td>
+			<a target="_blank" href="https://github.com/millette">
+				<img src="https://private-avatars.githubusercontent.com/u/50741?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1ODAsIm5iZiI6MTczNDM0MDM4MCwicGF0aCI6Ii91LzUwNzQxIn0.4xygNqDJ5dJjUSj1uNaT7vIYB6VQesvv3uVveGCQQGI&s=72&v=4" width="24" alt="Avatar of millette"/> millette
+			</a><br/>
+			Robin Millette
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/Robin_Millette">Robin_Millette</a></td>
+		<td>Beloeil Qubec Canada</td>
+		<td>972</td>
+		<td>4092</td>
+	</tr>
+	<tr>
+		<td>27</td>
+		<td>
 			<a target="_blank" href="https://github.com/aminya">
-				<img src="https://private-avatars.githubusercontent.com/u/16418197?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91LzE2NDE4MTk3In0.MCDUZQzdpIZdnuOJ5Ew6PwOH5OIa5sfDylSEoR5jXHw&s=72&u=8b103a6ec08d5a43d06fab6e2a0ae521cf1efdad&v=4" width="24" alt="Avatar of aminya"/> aminya
+				<img src="https://private-avatars.githubusercontent.com/u/16418197?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIyNDAsIm5iZiI6MTczNDM0MTA0MCwicGF0aCI6Ii91LzE2NDE4MTk3In0.AkZo-G5X2wFXVd7-y2ajZ3XrNw8W-Kf3iXpOCV8NTOY&s=72&u=8b103a6ec08d5a43d06fab6e2a0ae521cf1efdad&v=4" width="24" alt="Avatar of aminya"/> aminya
 			</a><br/>
 			Amin Yahyaabadi
 		</td>
@@ -472,55 +486,41 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Vancouver Canada</td>
 		<td>1517</td>
-		<td>4072</td>
+		<td>4075</td>
 	</tr>
 	<tr>
-		<td>27</td>
+		<td>28</td>
 		<td>
 			<a target="_blank" href="https://github.com/mistydemeo">
-				<img src="https://private-avatars.githubusercontent.com/u/780485?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxMDAsIm5iZiI6MTczNDMwMzkwMCwicGF0aCI6Ii91Lzc4MDQ4NSJ9.EeMCGyJLOXcK38xGyAHC2Ouf_UbknnOZ1k_sVH0RLME&s=72&u=6215bde8043ae09b1756bc65d5a0fbbdea03888a&v=4" width="24" alt="Avatar of mistydemeo"/> mistydemeo
+				<img src="https://private-avatars.githubusercontent.com/u/780485?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDExMDAsIm5iZiI6MTczNDMzOTkwMCwicGF0aCI6Ii91Lzc4MDQ4NSJ9.TN6oD1W6PK18TeUDC0Z2fQhwcwjlu07kFg4nG4HwsFU&s=72&u=6215bde8043ae09b1756bc65d5a0fbbdea03888a&v=4" width="24" alt="Avatar of mistydemeo"/> mistydemeo
 			</a><br/>
 			Misty De Mo
 		</td>
 		<td>@axodotdev  </td>
 		<td>No Twitter Username</td>
 		<td>Vancouver BC</td>
-		<td>3765</td>
-		<td>4071</td>
-	</tr>
-	<tr>
-		<td>28</td>
-		<td>
-			<a target="_blank" href="https://github.com/millette">
-				<img src="https://private-avatars.githubusercontent.com/u/50741?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1ODAsIm5iZiI6MTczNDMwNDM4MCwicGF0aCI6Ii91LzUwNzQxIn0.dPP2RJilVFgi0fQENQzp3KDqdmkTYDIs6NWpdOAlhmc&s=72&v=4" width="24" alt="Avatar of millette"/> millette
-			</a><br/>
-			Robin Millette
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/Robin_Millette">Robin_Millette</a></td>
-		<td>Beloeil Qubec Canada</td>
-		<td>971</td>
-		<td>4060</td>
+		<td>3766</td>
+		<td>4072</td>
 	</tr>
 	<tr>
 		<td>29</td>
 		<td>
 			<a target="_blank" href="https://github.com/rich-iannone">
-				<img src="https://private-avatars.githubusercontent.com/u/5612024?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUwNDAsIm5iZiI6MTczNDMwMzg0MCwicGF0aCI6Ii91LzU2MTIwMjQifQ.kXSX8rQDQ9gtFMO65HVnMUL2eXznvPIVpMlQNLyg4ds&s=72&u=9a0fe49a5f3648af258b2871ded57e281c44c695&v=4" width="24" alt="Avatar of rich-iannone"/> rich-iannone
+				<img src="https://private-avatars.githubusercontent.com/u/5612024?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEwNDAsIm5iZiI6MTczNDMzOTg0MCwicGF0aCI6Ii91LzU2MTIwMjQifQ.Oqw29lA1-l8G-JUOxTxJ9QizAeZygOjHxzRHEg7rB1k&s=72&u=9a0fe49a5f3648af258b2871ded57e281c44c695&v=4" width="24" alt="Avatar of rich-iannone"/> rich-iannone
 			</a><br/>
 			Richard Iannone
 		</td>
 		<td>@positdev  </td>
 		<td><a target="_blank" href="https://twitter.com/riannone">riannone</a></td>
 		<td>Toronto Canada</td>
-		<td>3880</td>
-		<td>3922</td>
+		<td>3881</td>
+		<td>3923</td>
 	</tr>
 	<tr>
 		<td>30</td>
 		<td>
 			<a target="_blank" href="https://github.com/james-gates-0212">
-				<img src="https://private-avatars.githubusercontent.com/u/157581830?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyODAsIm5iZiI6MTczNDMwNDA4MCwicGF0aCI6Ii91LzE1NzU4MTgzMCJ9.nnewHACuQeTP4Mj6xhxMKPLnFgG2QvMwQxVXHqAOQVk&s=72&u=6d54d0a58b036ef37a292654b4ab5645aaeb058b&v=4" width="24" alt="Avatar of james-gates-0212"/> james-gates-0212
+				<img src="https://private-avatars.githubusercontent.com/u/157581830?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyODAsIm5iZiI6MTczNDM0MDA4MCwicGF0aCI6Ii91LzE1NzU4MTgzMCJ9.XPmXex-M4kjGw0h_a_JQxXVIvicjuH9RQ2kZGkA7w94&s=72&u=6d54d0a58b036ef37a292654b4ab5645aaeb058b&v=4" width="24" alt="Avatar of james-gates-0212"/> james-gates-0212
 			</a><br/>
 			James Gates
 		</td>
@@ -534,7 +534,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>31</td>
 		<td>
 			<a target="_blank" href="https://github.com/jsoref">
-				<img src="https://private-avatars.githubusercontent.com/u/2119212?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyODAsIm5iZiI6MTczNDMwNDA4MCwicGF0aCI6Ii91LzIxMTkyMTIifQ.jFMCJH83SKQeybcGhYsbz-5kZv9SIEw8IrUM-sB9kew&s=72&u=104dafbbcf9a6b26da789e6513f15d5ca5ba41c9&v=4" width="24" alt="Avatar of jsoref"/> jsoref
+				<img src="https://private-avatars.githubusercontent.com/u/2119212?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyODAsIm5iZiI6MTczNDM0MDA4MCwicGF0aCI6Ii91LzIxMTkyMTIifQ.L3hz9djbrHsnHKS54PfxcPHhxWF3SUy9-9vNKQQ8voU&s=72&u=104dafbbcf9a6b26da789e6513f15d5ca5ba41c9&v=4" width="24" alt="Avatar of jsoref"/> jsoref
 			</a><br/>
 			Josh Soref
 		</td>
@@ -548,7 +548,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>32</td>
 		<td>
 			<a target="_blank" href="https://github.com/mykeels">
-				<img src="https://private-avatars.githubusercontent.com/u/11996508?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxNjAsIm5iZiI6MTczNDMwMzk2MCwicGF0aCI6Ii91LzExOTk2NTA4In0.gseSSLVNZtCDP0OC35ylNqJvFmWlTUFIUy1JYe2NF6U&s=72&u=6df3efca334d759582ee7694d5b0e8f8e6216979&v=4" width="24" alt="Avatar of mykeels"/> mykeels
+				<img src="https://private-avatars.githubusercontent.com/u/11996508?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDExNjAsIm5iZiI6MTczNDMzOTk2MCwicGF0aCI6Ii91LzExOTk2NTA4In0.gpsL-ZPXc_r7ATLWHfv6wtaljuxcAGQtLk1z7F77Wo4&s=72&u=6df3efca334d759582ee7694d5b0e8f8e6216979&v=4" width="24" alt="Avatar of mykeels"/> mykeels
 			</a><br/>
 			Michael Ikechi
 		</td>
@@ -562,21 +562,21 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>33</td>
 		<td>
 			<a target="_blank" href="https://github.com/logan-markewich">
-				<img src="https://private-avatars.githubusercontent.com/u/22285038?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ5ODAsIm5iZiI6MTczNDMwMzc4MCwicGF0aCI6Ii91LzIyMjg1MDM4In0.z8_PoGZIo4w_7btsGmTabyZ62J2Ip1hVwoM4sk6s6b0&s=72&u=405d94fb557db61c47b26ecd53af9ff8bb75dc9f&v=4" width="24" alt="Avatar of logan-markewich"/> logan-markewich
+				<img src="https://private-avatars.githubusercontent.com/u/22285038?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4ODAsIm5iZiI6MTczNDM0MDY4MCwicGF0aCI6Ii91LzIyMjg1MDM4In0.t-2f6jPziMmYn9TA-JkbIGdSphY0Z9D4_1xJWTWNQ_g&s=72&u=405d94fb557db61c47b26ecd53af9ff8bb75dc9f&v=4" width="24" alt="Avatar of logan-markewich"/> logan-markewich
 			</a><br/>
 			Logan
 		</td>
 		<td>Llamaindex </td>
 		<td><a target="_blank" href="https://twitter.com/LoganMarkewich">LoganMarkewich</a></td>
 		<td>Saskatoon Saskatchewan</td>
-		<td>3520</td>
-		<td>3800</td>
+		<td>3527</td>
+		<td>3809</td>
 	</tr>
 	<tr>
 		<td>34</td>
 		<td>
 			<a target="_blank" href="https://github.com/ksylvest">
-				<img src="https://private-avatars.githubusercontent.com/u/73432?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0NjAsIm5iZiI6MTczNDMwNDI2MCwicGF0aCI6Ii91LzczNDMyIn0.zGk5V2wBR8kB0qEGR4sVfNvEmjQfLujKbxg5cQj59is&s=72&u=d0419c8baefb84d7d00b372b065bdfb3120960a6&v=4" width="24" alt="Avatar of ksylvest"/> ksylvest
+				<img src="https://private-avatars.githubusercontent.com/u/73432?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIzNjAsIm5iZiI6MTczNDM0MTE2MCwicGF0aCI6Ii91LzczNDMyIn0.1b6BQar-p6L4r8pB3jySxzDMLxb4IiN_Ykji9G529VQ&s=72&u=d0419c8baefb84d7d00b372b065bdfb3120960a6&v=4" width="24" alt="Avatar of ksylvest"/> ksylvest
 			</a><br/>
 			Kevin Sylvestre
 		</td>
@@ -590,7 +590,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>35</td>
 		<td>
 			<a target="_blank" href="https://github.com/Corb3nik">
-				<img src="https://private-avatars.githubusercontent.com/u/6225588?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91LzYyMjU1ODgifQ.tgqQEDM9RTMjOJ8OMcfqW7ZRdLB1DxIiBlnWG18yeIw&s=72&u=83742ffc86a13a6b1602b76a7ca9cbdc359801c3&v=4" width="24" alt="Avatar of Corb3nik"/> Corb3nik
+				<img src="https://private-avatars.githubusercontent.com/u/6225588?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEzNDAsIm5iZiI6MTczNDM0MDE0MCwicGF0aCI6Ii91LzYyMjU1ODgifQ.cyObuu4-nHLgHCvpCDbkvbFjFaqo2-2DaPop6gtXcs0&s=72&u=83742ffc86a13a6b1602b76a7ca9cbdc359801c3&v=4" width="24" alt="Avatar of Corb3nik"/> Corb3nik
 			</a><br/>
 			Ian Bouchard
 		</td>
@@ -604,7 +604,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>36</td>
 		<td>
 			<a target="_blank" href="https://github.com/carolandrade1">
-				<img src="https://private-avatars.githubusercontent.com/u/65976843?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU5NDAsIm5iZiI6MTczNDMwNDc0MCwicGF0aCI6Ii91LzY1OTc2ODQzIn0.JmVSPrGZaDNcrtHdUVHYZ8n1lB2kdBFeLUQIqBZhn24&s=72&u=5448536d096771bf27c2fc971882c02aeccf2a2f&v=4" width="24" alt="Avatar of carolandrade1"/> carolandrade1
+				<img src="https://private-avatars.githubusercontent.com/u/65976843?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE5NDAsIm5iZiI6MTczNDM0MDc0MCwicGF0aCI6Ii91LzY1OTc2ODQzIn0.-NGmy-3pzM4mDLbvgEMpqVclUDgUo7ISE_MdfdhXhZ4&s=72&u=5448536d096771bf27c2fc971882c02aeccf2a2f&v=4" width="24" alt="Avatar of carolandrade1"/> carolandrade1
 			</a><br/>
 			Carol Andrade
 		</td>
@@ -618,7 +618,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>37</td>
 		<td>
 			<a target="_blank" href="https://github.com/gvwilson">
-				<img src="https://private-avatars.githubusercontent.com/u/911566?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyODAsIm5iZiI6MTczNDMwNDA4MCwicGF0aCI6Ii91LzkxMTU2NiJ9.IhaEz7gY7iD2P5YL-YsxF-tfKbqLhO-alBKHqraslB0&s=72&u=305c539a3f80337f930e442275597ad139f7d860&v=4" width="24" alt="Avatar of gvwilson"/> gvwilson
+				<img src="https://private-avatars.githubusercontent.com/u/911566?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyODAsIm5iZiI6MTczNDM0MDA4MCwicGF0aCI6Ii91LzkxMTU2NiJ9.qKiT3QPFNPg79Pgfzy0E-4NC57lLElvwiQq3SJwuR38&s=72&u=305c539a3f80337f930e442275597ad139f7d860&v=4" width="24" alt="Avatar of gvwilson"/> gvwilson
 			</a><br/>
 			Greg Wilson
 		</td>
@@ -632,7 +632,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>38</td>
 		<td>
 			<a target="_blank" href="https://github.com/Gaohaoyang">
-				<img src="https://private-avatars.githubusercontent.com/u/7655995?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ5MjAsIm5iZiI6MTczNDMwMzcyMCwicGF0aCI6Ii91Lzc2NTU5OTUifQ.xAejQWs1zg4oyeGHXNzX7mYslIVqn1pBVBB8LhIqMEw&s=72&u=1b716477f0d35a27ecdd0cfe836945a36b7c73bb&v=4" width="24" alt="Avatar of Gaohaoyang"/> Gaohaoyang
+				<img src="https://private-avatars.githubusercontent.com/u/7655995?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDA5MjAsIm5iZiI6MTczNDMzOTcyMCwicGF0aCI6Ii91Lzc2NTU5OTUifQ.241w_avZtNfGfbUjqBlRuLrJa5V7gSStt2pzqpXqB6g&s=72&u=1b716477f0d35a27ecdd0cfe836945a36b7c73bb&v=4" width="24" alt="Avatar of Gaohaoyang"/> Gaohaoyang
 			</a><br/>
 			Haoyang
 		</td>
@@ -646,7 +646,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>39</td>
 		<td>
 			<a target="_blank" href="https://github.com/kdheepak">
-				<img src="https://private-avatars.githubusercontent.com/u/1813121?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1MjAsIm5iZiI6MTczNDMwNDMyMCwicGF0aCI6Ii91LzE4MTMxMjEifQ.4TeZ0q8Kb6BP-mxToQmai-vu8hZP98_mAzkf0dajJQ8&s=72&v=4" width="24" alt="Avatar of kdheepak"/> kdheepak
+				<img src="https://private-avatars.githubusercontent.com/u/1813121?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDI0MjAsIm5iZiI6MTczNDM0MTIyMCwicGF0aCI6Ii91LzE4MTMxMjEifQ.sdzREYeHjfGhBewEp4NrSI_i6cT7_ohJ083yTKAI9ss&s=72&v=4" width="24" alt="Avatar of kdheepak"/> kdheepak
 			</a><br/>
 			Dheepak Krishnamurthy
 		</td>
@@ -654,13 +654,13 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Canada</td>
 		<td>1653</td>
-		<td>3306</td>
+		<td>3310</td>
 	</tr>
 	<tr>
 		<td>40</td>
 		<td>
 			<a target="_blank" href="https://github.com/vincentarelbundock">
-				<img src="https://private-avatars.githubusercontent.com/u/987057?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ4NjAsIm5iZiI6MTczNDMwMzY2MCwicGF0aCI6Ii91Lzk4NzA1NyJ9.Mbey9QDQp_CunmYhZnuSuJ8z4qIcxnwaSmsUnnxzFhw&s=72&v=4" width="24" alt="Avatar of vincentarelbundock"/> vincentarelbundock
+				<img src="https://private-avatars.githubusercontent.com/u/987057?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3NjAsIm5iZiI6MTczNDM0MDU2MCwicGF0aCI6Ii91Lzk4NzA1NyJ9.tSQam0Y4eWH2jCMfCmqmum5p6IAjVF_TO_e4hhbkeYY&s=72&v=4" width="24" alt="Avatar of vincentarelbundock"/> vincentarelbundock
 			</a><br/>
 			Vincent ArelBundock
 		</td>
@@ -674,7 +674,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>41</td>
 		<td>
 			<a target="_blank" href="https://github.com/dansup">
-				<img src="https://private-avatars.githubusercontent.com/u/877217?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyODAsIm5iZiI6MTczNDMwNDA4MCwicGF0aCI6Ii91Lzg3NzIxNyJ9.1_H7SNxcuSzvDxB-uhYlkjVMZ-ZK-3vNTAzG4A3BIB8&s=72&u=ec3d26a34ced69617fd5df1b923feb9ea91c956f&v=4" width="24" alt="Avatar of dansup"/> dansup
+				<img src="https://private-avatars.githubusercontent.com/u/877217?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyODAsIm5iZiI6MTczNDM0MDA4MCwicGF0aCI6Ii91Lzg3NzIxNyJ9.Z1lBymeD-jpZ-hFZJx5RXbxN0noUUOUEuxPg7lw4NTw&s=72&u=ec3d26a34ced69617fd5df1b923feb9ea91c956f&v=4" width="24" alt="Avatar of dansup"/> dansup
 			</a><br/>
 			daniel
 		</td>
@@ -688,7 +688,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>42</td>
 		<td>
 			<a target="_blank" href="https://github.com/ldionne">
-				<img src="https://private-avatars.githubusercontent.com/u/700834?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1ODAsIm5iZiI6MTczNDMwNDM4MCwicGF0aCI6Ii91LzcwMDgzNCJ9.ehbc-dJRERI0T2-hIOWnkz-WjgZDHbZrsjB8NLCDMKQ&s=72&u=3d2dd80d43f96e6fd22219498790622944a25f19&v=4" width="24" alt="Avatar of ldionne"/> ldionne
+				<img src="https://private-avatars.githubusercontent.com/u/700834?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1ODAsIm5iZiI6MTczNDM0MDM4MCwicGF0aCI6Ii91LzcwMDgzNCJ9.1_PSSOeOnPskCGWOecIrW3IdtM_gU1ZlymTNkPQlE4c&s=72&u=3d2dd80d43f96e6fd22219498790622944a25f19&v=4" width="24" alt="Avatar of ldionne"/> ldionne
 			</a><br/>
 			Louis Dionne
 		</td>
@@ -702,35 +702,35 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>43</td>
 		<td>
 			<a target="_blank" href="https://github.com/aarnphm">
-				<img src="https://private-avatars.githubusercontent.com/u/29749331?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyODAsIm5iZiI6MTczNDMwNDA4MCwicGF0aCI6Ii91LzI5NzQ5MzMxIn0.obrmMtyzGC4M2O5rEIcQymizfq1nME3Khk5VX3itenQ&s=72&u=a7f4d7db2faa6af42af8d43b2737b5547d36154d&v=4" width="24" alt="Avatar of aarnphm"/> aarnphm
+				<img src="https://private-avatars.githubusercontent.com/u/29749331?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyODAsIm5iZiI6MTczNDM0MDA4MCwicGF0aCI6Ii91LzI5NzQ5MzMxIn0.5p0YJdN2pfNu-snyPVi_WhWU-tKB6wjbRS5hy_fDW4o&s=72&u=a7f4d7db2faa6af42af8d43b2737b5547d36154d&v=4" width="24" alt="Avatar of aarnphm"/> aarnphm
 			</a><br/>
 			Aaron Pham
 		</td>
 		<td>@bentoml  </td>
 		<td><a target="_blank" href="https://twitter.com/aarnphm_">aarnphm_</a></td>
 		<td>toronto ca</td>
-		<td>3144</td>
-		<td>3271</td>
+		<td>3146</td>
+		<td>3273</td>
 	</tr>
 	<tr>
 		<td>44</td>
 		<td>
 			<a target="_blank" href="https://github.com/RobLoach">
-				<img src="https://private-avatars.githubusercontent.com/u/25086?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ5MjAsIm5iZiI6MTczNDMwMzcyMCwicGF0aCI6Ii91LzI1MDg2In0.rovhggZ2aFfD910-n4C9ctb09iDuK0neWdYfx5Ezgm4&s=72&v=4" width="24" alt="Avatar of RobLoach"/> RobLoach
+				<img src="https://private-avatars.githubusercontent.com/u/25086?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4MjAsIm5iZiI6MTczNDM0MDYyMCwicGF0aCI6Ii91LzI1MDg2In0.g55LPJZld4Xrg7W53DDjFRA5DGaL6tUbptFvz6wUw4U&s=72&v=4" width="24" alt="Avatar of RobLoach"/> RobLoach
 			</a><br/>
 			Rob Loach
 		</td>
 		<td>@kalamuna  </td>
 		<td>No Twitter Username</td>
 		<td>Canada</td>
-		<td>2550</td>
-		<td>3222</td>
+		<td>2551</td>
+		<td>3223</td>
 	</tr>
 	<tr>
 		<td>45</td>
 		<td>
 			<a target="_blank" href="https://github.com/davepagurek">
-				<img src="https://private-avatars.githubusercontent.com/u/5315059?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91LzUzMTUwNTkifQ.lou7OBsSyZjVT7o1SqB7pVtYh7_ol1FKzvXDsBYIYCw&s=72&u=59dd1097bdb387414b0c5e08afade98e67223ff3&v=4" width="24" alt="Avatar of davepagurek"/> davepagurek
+				<img src="https://private-avatars.githubusercontent.com/u/5315059?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEzNDAsIm5iZiI6MTczNDM0MDE0MCwicGF0aCI6Ii91LzUzMTUwNTkifQ.0GRm-sNcKQtDIZrtziRHmruzQnDWnWOyx8FVWEf0mmE&s=72&u=59dd1097bdb387414b0c5e08afade98e67223ff3&v=4" width="24" alt="Avatar of davepagurek"/> davepagurek
 			</a><br/>
 			Dave Pagurek
 		</td>
@@ -744,7 +744,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>46</td>
 		<td>
 			<a target="_blank" href="https://github.com/gschier">
-				<img src="https://private-avatars.githubusercontent.com/u/587576?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxMDAsIm5iZiI6MTczNDMwMzkwMCwicGF0aCI6Ii91LzU4NzU3NiJ9.S3awaVO7mEG6JkCTLigII2i_wkigJnSbWuahablEo2U&s=72&v=4" width="24" alt="Avatar of gschier"/> gschier
+				<img src="https://private-avatars.githubusercontent.com/u/587576?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDExMDAsIm5iZiI6MTczNDMzOTkwMCwicGF0aCI6Ii91LzU4NzU3NiJ9.DgN7xXM4sgSyIyoeHZ6zgEOPpdqu6B0oTchVGl61ra4&s=72&v=4" width="24" alt="Avatar of gschier"/> gschier
 			</a><br/>
 			Gregory Schier
 		</td>
@@ -758,7 +758,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>47</td>
 		<td>
 			<a target="_blank" href="https://github.com/kingthorin">
-				<img src="https://private-avatars.githubusercontent.com/u/7570458?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3NjAsIm5iZiI6MTczNDMwNDU2MCwicGF0aCI6Ii91Lzc1NzA0NTgifQ.I5H0xXkHEXCBH7PJgQMUrdGJLAKvmu7laVXPaZ-UIP4&s=72&u=99aab88b4dbb4e090e347810ccdb8b6c11e4d65a&v=4" width="24" alt="Avatar of kingthorin"/> kingthorin
+				<img src="https://private-avatars.githubusercontent.com/u/7570458?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3NjAsIm5iZiI6MTczNDM0MDU2MCwicGF0aCI6Ii91Lzc1NzA0NTgifQ.iTfI6Q6vz1Z7_eMQwe9fo4Az5db-5_yO6oJN1e6zSgU&s=72&u=99aab88b4dbb4e090e347810ccdb8b6c11e4d65a&v=4" width="24" alt="Avatar of kingthorin"/> kingthorin
 			</a><br/>
 			Rick M
 		</td>
@@ -772,7 +772,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>48</td>
 		<td>
 			<a target="_blank" href="https://github.com/dashed">
-				<img src="https://private-avatars.githubusercontent.com/u/139499?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDYwNjAsIm5iZiI6MTczNDMwNDg2MCwicGF0aCI6Ii91LzEzOTQ5OSJ9.6FwtvIWpVULf6b90Zv_-lHTFA5X2RJDRPuevQ1UvUX8&s=72&u=0def2440da065cdd14912555be33761e46be5156&v=4" width="24" alt="Avatar of dashed"/> dashed
+				<img src="https://private-avatars.githubusercontent.com/u/139499?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIwNjAsIm5iZiI6MTczNDM0MDg2MCwicGF0aCI6Ii91LzEzOTQ5OSJ9.kmhY9qw_sdGQDF-n7T_apUJlI4lBvWuCo7XuehfU2TU&s=72&u=0def2440da065cdd14912555be33761e46be5156&v=4" width="24" alt="Avatar of dashed"/> dashed
 			</a><br/>
 			Alberto Leal
 		</td>
@@ -786,7 +786,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>49</td>
 		<td>
 			<a target="_blank" href="https://github.com/sarah11918">
-				<img src="https://private-avatars.githubusercontent.com/u/5098874?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyODAsIm5iZiI6MTczNDMwNDA4MCwicGF0aCI6Ii91LzUwOTg4NzQifQ.GH42ZfHtfXHZNG4AApTy5iHtKEDfQOe6nmB9wRZdrb8&s=72&u=ccca39db686ffcaaaf629ccfcc4bc0ed5b9bfdf8&v=4" width="24" alt="Avatar of sarah11918"/> sarah11918
+				<img src="https://private-avatars.githubusercontent.com/u/5098874?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIxODAsIm5iZiI6MTczNDM0MDk4MCwicGF0aCI6Ii91LzUwOTg4NzQifQ.aNhDS0Lv5RdryA19w2zbd9DjvdEDqt9wRE7lrh8ueYo&s=72&u=ccca39db686ffcaaaf629ccfcc4bc0ed5b9bfdf8&v=4" width="24" alt="Avatar of sarah11918"/> sarah11918
 			</a><br/>
 			Sarah Rainsberger
 		</td>
@@ -800,7 +800,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>50</td>
 		<td>
 			<a target="_blank" href="https://github.com/hpssjellis">
-				<img src="https://private-avatars.githubusercontent.com/u/5605614?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1ODAsIm5iZiI6MTczNDMwNDM4MCwicGF0aCI6Ii91LzU2MDU2MTQifQ.51ekPrL393hXH48CmrD2UNuHDINkDtcvz2dM4RVGCYw&s=72&u=b31d070471c7913cb040b9765bcb7c8577e9804a&v=4" width="24" alt="Avatar of hpssjellis"/> hpssjellis
+				<img src="https://private-avatars.githubusercontent.com/u/5605614?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1ODAsIm5iZiI6MTczNDM0MDM4MCwicGF0aCI6Ii91LzU2MDU2MTQifQ.BZx5KULjBJnWQC2mLXqVY44_87k-iUpJY_ZtiUy14xs&s=72&u=b31d070471c7913cb040b9765bcb7c8577e9804a&v=4" width="24" alt="Avatar of hpssjellis"/> hpssjellis
 			</a><br/>
 			Jeremy Ellis
 		</td>
@@ -814,21 +814,21 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>51</td>
 		<td>
 			<a target="_blank" href="https://github.com/luanpotter">
-				<img src="https://private-avatars.githubusercontent.com/u/882703?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUwNDAsIm5iZiI6MTczNDMwMzg0MCwicGF0aCI6Ii91Lzg4MjcwMyJ9.UZpfZDKxDBGbpUj7dosFcSbVvAR_99ABFBjzoN6lgpI&s=72&u=5f17d150ad96b1d68809eec5ac459fc5a1206d0c&v=4" width="24" alt="Avatar of luanpotter"/> luanpotter
+				<img src="https://private-avatars.githubusercontent.com/u/882703?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEwNDAsIm5iZiI6MTczNDMzOTg0MCwicGF0aCI6Ii91Lzg4MjcwMyJ9.8uSmdBxyP6KxBrkknGe1UnhBGQSCUCFz5mYMytk1qpo&s=72&u=5f17d150ad96b1d68809eec5ac459fc5a1206d0c&v=4" width="24" alt="Avatar of luanpotter"/> luanpotter
 			</a><br/>
 			Luan Nico
 		</td>
 		<td>@faire </td>
 		<td>No Twitter Username</td>
 		<td>Canada</td>
-		<td>563</td>
-		<td>2984</td>
+		<td>566</td>
+		<td>2987</td>
 	</tr>
 	<tr>
 		<td>52</td>
 		<td>
 			<a target="_blank" href="https://github.com/hairyhenderson">
-				<img src="https://private-avatars.githubusercontent.com/u/2037086?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0MDAsIm5iZiI6MTczNDMwNDIwMCwicGF0aCI6Ii91LzIwMzcwODYifQ.9B4sbSdUMLAhm52JjRF5kVk11dHNl_QiasPeldLQBUg&s=72&u=ae42cd2e5c82a63126ddfb8220ab04ca9e21e79e&v=4" width="24" alt="Avatar of hairyhenderson"/> hairyhenderson
+				<img src="https://private-avatars.githubusercontent.com/u/2037086?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0MDAsIm5iZiI6MTczNDM0MDIwMCwicGF0aCI6Ii91LzIwMzcwODYifQ._PPe2qm432jL-I3MHjxCjZIXyeCX5wNm16c_qjOhGwU&s=72&u=ae42cd2e5c82a63126ddfb8220ab04ca9e21e79e&v=4" width="24" alt="Avatar of hairyhenderson"/> hairyhenderson
 			</a><br/>
 			Dave Henderson
 		</td>
@@ -842,7 +842,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>53</td>
 		<td>
 			<a target="_blank" href="https://github.com/marclave">
-				<img src="https://private-avatars.githubusercontent.com/u/6176314?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4MjAsIm5iZiI6MTczNDMwNDYyMCwicGF0aCI6Ii91LzYxNzYzMTQifQ.ZQ6D0igJfXTg-B3-8qqtpjdXjDE7MOlkEFGdL4937fU&s=72&u=1e0b0d83145a58bd85be4a1e949d31131638d1b4&v=4" width="24" alt="Avatar of marclave"/> marclave
+				<img src="https://private-avatars.githubusercontent.com/u/6176314?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4MjAsIm5iZiI6MTczNDM0MDYyMCwicGF0aCI6Ii91LzYxNzYzMTQifQ.ifzKr_dpX3VAUL-wjgUwLzTYe752j0BKbz5_k2_C-bM&s=72&u=1e0b0d83145a58bd85be4a1e949d31131638d1b4&v=4" width="24" alt="Avatar of marclave"/> marclave
 			</a><br/>
 			Marc Laventure
 		</td>
@@ -856,7 +856,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>54</td>
 		<td>
 			<a target="_blank" href="https://github.com/saket">
-				<img src="https://private-avatars.githubusercontent.com/u/2387680?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0MDAsIm5iZiI6MTczNDMwNDIwMCwicGF0aCI6Ii91LzIzODc2ODAifQ.ZcHc8Ud4cIeRzEKL-gJUDT5InFmPQbraEUt2pgsAEMI&s=72&u=b7776a4198f63e8950a948574c1560431e8c4b78&v=4" width="24" alt="Avatar of saket"/> saket
+				<img src="https://private-avatars.githubusercontent.com/u/2387680?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0MDAsIm5iZiI6MTczNDM0MDIwMCwicGF0aCI6Ii91LzIzODc2ODAifQ.JXAmhuQ2zuie8cLQuuYo-GGzuva0fz8TH1fBY0MIkQc&s=72&u=b7776a4198f63e8950a948574c1560431e8c4b78&v=4" width="24" alt="Avatar of saket"/> saket
 			</a><br/>
 			Saket Narayan
 		</td>
@@ -864,55 +864,55 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Waterloo Ontario Canada</td>
 		<td>856</td>
-		<td>2906</td>
+		<td>2929</td>
 	</tr>
 	<tr>
 		<td>55</td>
 		<td>
 			<a target="_blank" href="https://github.com/tomkralidis">
-				<img src="https://private-avatars.githubusercontent.com/u/910430?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91LzkxMDQzMCJ9.BrXc9g2MYl1GY1qInv6OjzCjI9LT-zS0v8PDY-ui4q0&s=72&u=2b8e9acdb4343e64b5a4bbc45cf1681f6d53c394&v=4" width="24" alt="Avatar of tomkralidis"/> tomkralidis
+				<img src="https://private-avatars.githubusercontent.com/u/910430?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIyNDAsIm5iZiI6MTczNDM0MTA0MCwicGF0aCI6Ii91LzkxMDQzMCJ9.Paz8NGuHpk6v3_7XB5qXQXCTRa68IhuU11HV8W7wZ18&s=72&u=2b8e9acdb4343e64b5a4bbc45cf1681f6d53c394&v=4" width="24" alt="Avatar of tomkralidis"/> tomkralidis
 			</a><br/>
 			Tom Kralidis
 		</td>
 		<td>@geopython @opengeospatial @wmoim <br/></td>
 		<td><a target="_blank" href="https://twitter.com/tomkralidis">tomkralidis</a></td>
 		<td>Toronto Ontario Canada</td>
-		<td>2852</td>
-		<td>2886</td>
+		<td>2854</td>
+		<td>2888</td>
 	</tr>
 	<tr>
 		<td>56</td>
 		<td>
 			<a target="_blank" href="https://github.com/cboden">
-				<img src="https://private-avatars.githubusercontent.com/u/617694?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxNjAsIm5iZiI6MTczNDMwMzk2MCwicGF0aCI6Ii91LzYxNzY5NCJ9.j8JaEIA30_wCpv7JEqIwmLr5AskdlC-Q3PGWJN_sHrI&s=72&u=f525c848c5ba122e2e69feda76e844bb7bfbde4f&v=4" width="24" alt="Avatar of cboden"/> cboden
+				<img src="https://private-avatars.githubusercontent.com/u/617694?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDExNjAsIm5iZiI6MTczNDMzOTk2MCwicGF0aCI6Ii91LzYxNzY5NCJ9.KfMmdvMXF494_V_VUBP907Wo-AVRGKy-FDUUd6hw9ko&s=72&u=f525c848c5ba122e2e69feda76e844bb7bfbde4f&v=4" width="24" alt="Avatar of cboden"/> cboden
 			</a><br/>
 			Chris Boden
 		</td>
 		<td>Supercom </td>
 		<td>No Twitter Username</td>
 		<td>London Canada</td>
-		<td>2857</td>
-		<td>2857</td>
+		<td>2858</td>
+		<td>2858</td>
 	</tr>
 	<tr>
 		<td>57</td>
 		<td>
 			<a target="_blank" href="https://github.com/lemire">
-				<img src="https://private-avatars.githubusercontent.com/u/391987?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ2ODAsIm5iZiI6MTczNDMwMzQ4MCwicGF0aCI6Ii91LzM5MTk4NyJ9.AtYcAzArZEpPpiYc-rIXRoCZ_VWXcLFkuFn9aEiUZgc&s=72&u=7cb0ae14730ed720e1e8cd269f17cdd1638f38e4&v=4" width="24" alt="Avatar of lemire"/> lemire
+				<img src="https://private-avatars.githubusercontent.com/u/391987?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1ODAsIm5iZiI6MTczNDM0MDM4MCwicGF0aCI6Ii91LzM5MTk4NyJ9.S94jKsk4XcgdZlr7sRCflUh7aPETT5tibU86ncGqwEk&s=72&u=7cb0ae14730ed720e1e8cd269f17cdd1638f38e4&v=4" width="24" alt="Avatar of lemire"/> lemire
 			</a><br/>
 			Daniel Lemire
 		</td>
 		<td>Universit Du Qubec Teluq<br/></td>
 		<td><a target="_blank" href="https://twitter.com/lemire">lemire</a></td>
 		<td>Montreal Canada</td>
-		<td>2403</td>
-		<td>2767</td>
+		<td>2404</td>
+		<td>2768</td>
 	</tr>
 	<tr>
 		<td>58</td>
 		<td>
 			<a target="_blank" href="https://github.com/tiredofit">
-				<img src="https://private-avatars.githubusercontent.com/u/23528985?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91LzIzNTI4OTg1In0.Wcaws0_f9TG9apmkMw80wLe-Kps0PNNBiKd7zm0guEE&s=72&v=4" width="24" alt="Avatar of tiredofit"/> tiredofit
+				<img src="https://private-avatars.githubusercontent.com/u/23528985?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEzNDAsIm5iZiI6MTczNDM0MDE0MCwicGF0aCI6Ii91LzIzNTI4OTg1In0.TnBAvjwkPNkI34nJxIHPADHPJsTguWX2DtEgh5aYJNU&s=72&v=4" width="24" alt="Avatar of tiredofit"/> tiredofit
 			</a><br/>
 			Dave Conroy
 		</td>
@@ -926,7 +926,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>59</td>
 		<td>
 			<a target="_blank" href="https://github.com/ggreer">
-				<img src="https://private-avatars.githubusercontent.com/u/200121?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ3NDAsIm5iZiI6MTczNDMwMzU0MCwicGF0aCI6Ii91LzIwMDEyMSJ9.acs5u-Zf2YALug3VmV2ql1rROr72UDhK4fCXchrCzlM&s=72&u=d6d1da21bce2510b2f7474f7d08c2d1f3a26b037&v=4" width="24" alt="Avatar of ggreer"/> ggreer
+				<img src="https://private-avatars.githubusercontent.com/u/200121?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE2NDAsIm5iZiI6MTczNDM0MDQ0MCwicGF0aCI6Ii91LzIwMDEyMSJ9.7I_ZfsBx94BIo4pydwlJ1E8W0WuL2bzb-gndKgFoaII&s=72&u=d6d1da21bce2510b2f7474f7d08c2d1f3a26b037&v=4" width="24" alt="Avatar of ggreer"/> ggreer
 			</a><br/>
 			Geoff Greer
 		</td>
@@ -940,7 +940,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>60</td>
 		<td>
 			<a target="_blank" href="https://github.com/ryanwinchester">
-				<img src="https://private-avatars.githubusercontent.com/u/2897340?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUwNDAsIm5iZiI6MTczNDMwMzg0MCwicGF0aCI6Ii91LzI4OTczNDAifQ.M5ULyXIguXv8ROBJ4mcdqR25z5AO6HHMok_6FvVZA0Y&s=72&u=438de06e32045bd97a592ac6bb53606cb5a6ce2b&v=4" width="24" alt="Avatar of ryanwinchester"/> ryanwinchester
+				<img src="https://private-avatars.githubusercontent.com/u/2897340?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE5NDAsIm5iZiI6MTczNDM0MDc0MCwicGF0aCI6Ii91LzI4OTczNDAifQ.CTT1RmFiZGdiagNouTmiAfvkf7b65w-xnNr63uhWqKA&s=72&u=438de06e32045bd97a592ac6bb53606cb5a6ce2b&v=4" width="24" alt="Avatar of ryanwinchester"/> ryanwinchester
 			</a><br/>
 			Ryan Winchester
 		</td>
@@ -954,21 +954,21 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>61</td>
 		<td>
 			<a target="_blank" href="https://github.com/Furkanzmc">
-				<img src="https://private-avatars.githubusercontent.com/u/932717?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDYwNjAsIm5iZiI6MTczNDMwNDg2MCwicGF0aCI6Ii91LzkzMjcxNyJ9.CGnfB_RduNxWLSiKmv94zifes8PHHiNT84pBZtavH0g&s=72&u=b639332aebd8b2621f648cb34847f050c0f4da29&v=4" width="24" alt="Avatar of Furkanzmc"/> Furkanzmc
+				<img src="https://private-avatars.githubusercontent.com/u/932717?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIwNjAsIm5iZiI6MTczNDM0MDg2MCwicGF0aCI6Ii91LzkzMjcxNyJ9.JwYlLhzuCJvXogf7bR0e2BcsTj6A9YyyajrOAzCC4gg&s=72&u=b639332aebd8b2621f648cb34847f050c0f4da29&v=4" width="24" alt="Avatar of Furkanzmc"/> Furkanzmc
 			</a><br/>
 			Furkan zmc
 		</td>
 		<td>@edmoware @zerronlabs @autodesk </td>
 		<td><a target="_blank" href="https://twitter.com/Furkanzmc">Furkanzmc</a></td>
 		<td>Toronto Canada</td>
-		<td>277</td>
-		<td>2694</td>
+		<td>278</td>
+		<td>2695</td>
 	</tr>
 	<tr>
 		<td>62</td>
 		<td>
 			<a target="_blank" href="https://github.com/ninjamuffin99">
-				<img src="https://private-avatars.githubusercontent.com/u/22229331?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1MjAsIm5iZiI6MTczNDMwNDMyMCwicGF0aCI6Ii91LzIyMjI5MzMxIn0.0itEWU_2EmPVu2Ja_04acSJQJKA_wH4WV22cyB3m0Vo&s=72&v=4" width="24" alt="Avatar of ninjamuffin99"/> ninjamuffin99
+				<img src="https://private-avatars.githubusercontent.com/u/22229331?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1MjAsIm5iZiI6MTczNDM0MDMyMCwicGF0aCI6Ii91LzIyMjI5MzMxIn0.fnqjsMgeWjh77N2NdGVYhn6V956vbfU9tKo43I7cvu4&s=72&v=4" width="24" alt="Avatar of ninjamuffin99"/> ninjamuffin99
 			</a><br/>
 			Cameron Taylor
 		</td>
@@ -982,7 +982,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>63</td>
 		<td>
 			<a target="_blank" href="https://github.com/alex000kim">
-				<img src="https://private-avatars.githubusercontent.com/u/17241029?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ4NjAsIm5iZiI6MTczNDMwMzY2MCwicGF0aCI6Ii91LzE3MjQxMDI5In0.lDd5IAXPeTidL6lxw5SI9TxsbOG0eO5zt6_2DPk0U8s&s=72&u=2a231f41868f97bd5a523ea445165df81d0988f2&v=4" width="24" alt="Avatar of alex000kim"/> alex000kim
+				<img src="https://private-avatars.githubusercontent.com/u/17241029?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3NjAsIm5iZiI6MTczNDM0MDU2MCwicGF0aCI6Ii91LzE3MjQxMDI5In0.pz_FINxwjTu-x6Xlrcsr8yQVQ5PK0n_NXqRchcVg1F4&s=72&u=2a231f41868f97bd5a523ea445165df81d0988f2&v=4" width="24" alt="Avatar of alex000kim"/> alex000kim
 			</a><br/>
 			Alex Kim
 		</td>
@@ -996,7 +996,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>64</td>
 		<td>
 			<a target="_blank" href="https://github.com/michaelshimeles">
-				<img src="https://private-avatars.githubusercontent.com/u/69605071?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3MDAsIm5iZiI6MTczNDMwNDUwMCwicGF0aCI6Ii91LzY5NjA1MDcxIn0.X6eZ2q1gxxta4ncuEM8pZWA_AAwzjkX7YaPXjep4_gg&s=72&u=b03212daf0e750da5957eceee73f848acb700785&v=4" width="24" alt="Avatar of michaelshimeles"/> michaelshimeles
+				<img src="https://private-avatars.githubusercontent.com/u/69605071?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3MDAsIm5iZiI6MTczNDM0MDUwMCwicGF0aCI6Ii91LzY5NjA1MDcxIn0.3JE2O8gsTLviut60PFU7dvV0Hln6c5QaoImb7C0Mk7Y&s=72&u=b03212daf0e750da5957eceee73f848acb700785&v=4" width="24" alt="Avatar of michaelshimeles"/> michaelshimeles
 			</a><br/>
 			Michael Shimeles
 		</td>
@@ -1004,13 +1004,13 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td><a target="_blank" href="https://twitter.com/rasmickyy">rasmickyy</a></td>
 		<td>Toronto</td>
 		<td>800</td>
-		<td>2602</td>
+		<td>2603</td>
 	</tr>
 	<tr>
 		<td>65</td>
 		<td>
 			<a target="_blank" href="https://github.com/atesgoral">
-				<img src="https://private-avatars.githubusercontent.com/u/50832?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU5NDAsIm5iZiI6MTczNDMwNDc0MCwicGF0aCI6Ii91LzUwODMyIn0.XtVFgXy_7NySaoC55a1Hm1NjbN6HM4W_8ykpmfm09ZI&s=72&u=a2f94801f36874864d64978dc224e54500a43a09&v=4" width="24" alt="Avatar of atesgoral"/> atesgoral
+				<img src="https://private-avatars.githubusercontent.com/u/50832?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE5NDAsIm5iZiI6MTczNDM0MDc0MCwicGF0aCI6Ii91LzUwODMyIn0.d8TsCH5o-Ilb48nZoc1pSQCgLCFKSjIMl_xdsZNAgHc&s=72&u=a2f94801f36874864d64978dc224e54500a43a09&v=4" width="24" alt="Avatar of atesgoral"/> atesgoral
 			</a><br/>
 			Ate Gral
 		</td>
@@ -1024,7 +1024,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>66</td>
 		<td>
 			<a target="_blank" href="https://github.com/rgrinberg">
-				<img src="https://private-avatars.githubusercontent.com/u/139003?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1ODAsIm5iZiI6MTczNDMwNDM4MCwicGF0aCI6Ii91LzEzOTAwMyJ9.-ZNT8NZ2QQEwfEi-5TrhFJH3vU12gg9DTeI3vNMWykI&s=72&u=586c2c3601619c34d7a6e683d6b6e92d130feb51&v=4" width="24" alt="Avatar of rgrinberg"/> rgrinberg
+				<img src="https://private-avatars.githubusercontent.com/u/139003?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1ODAsIm5iZiI6MTczNDM0MDM4MCwicGF0aCI6Ii91LzEzOTAwMyJ9.HnGWdxDzeMiuwx_2r7JlYeJiNS-ovSvGZeXe-MmIAEw&s=72&u=586c2c3601619c34d7a6e683d6b6e92d130feb51&v=4" width="24" alt="Avatar of rgrinberg"/> rgrinberg
 			</a><br/>
 			Rudi Grinberg
 		</td>
@@ -1038,7 +1038,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>67</td>
 		<td>
 			<a target="_blank" href="https://github.com/jhawthorn">
-				<img src="https://private-avatars.githubusercontent.com/u/131752?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyMjAsIm5iZiI6MTczNDMwNDAyMCwicGF0aCI6Ii91LzEzMTc1MiJ9.tmcKG9IuRBLD0zdf_aQd7AZUU3BqUudH4o64EbIfN3c&s=72&u=32ddf1119b1d189c9bd241a721b36ea01c29f61e&v=4" width="24" alt="Avatar of jhawthorn"/> jhawthorn
+				<img src="https://private-avatars.githubusercontent.com/u/131752?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyMjAsIm5iZiI6MTczNDM0MDAyMCwicGF0aCI6Ii91LzEzMTc1MiJ9.QEgbAhncAQ97KTtzatffgTgF-CXTwSJ1xj0UXnqLMn8&s=72&u=32ddf1119b1d189c9bd241a721b36ea01c29f61e&v=4" width="24" alt="Avatar of jhawthorn"/> jhawthorn
 			</a><br/>
 			John Hawthorn
 		</td>
@@ -1052,7 +1052,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>68</td>
 		<td>
 			<a target="_blank" href="https://github.com/DaleSeo">
-				<img src="https://private-avatars.githubusercontent.com/u/5466341?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxMDAsIm5iZiI6MTczNDMwMzkwMCwicGF0aCI6Ii91LzU0NjYzNDEifQ.sC05zmqCcEyehfkcKfZu8fGNRrJ73bffMXLcQmS7r1g&s=72&u=47101f5c5dbae216a099c9afdc2dde6bc84ee405&v=4" width="24" alt="Avatar of DaleSeo"/> DaleSeo
+				<img src="https://private-avatars.githubusercontent.com/u/5466341?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIwMDAsIm5iZiI6MTczNDM0MDgwMCwicGF0aCI6Ii91LzU0NjYzNDEifQ.i-rJNR0XezP05PmwAHcCgVghBSQuPB5WnoRRcRTCSrQ&s=72&u=47101f5c5dbae216a099c9afdc2dde6bc84ee405&v=4" width="24" alt="Avatar of DaleSeo"/> DaleSeo
 			</a><br/>
 			Dale Seo
 		</td>
@@ -1066,21 +1066,21 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>69</td>
 		<td>
 			<a target="_blank" href="https://github.com/Leask">
-				<img src="https://private-avatars.githubusercontent.com/u/233022?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxNjAsIm5iZiI6MTczNDMwMzk2MCwicGF0aCI6Ii91LzIzMzAyMiJ9.ewSAo06XMKamDrtfSZLj2PgaAMleV087M4UQ1cH85eE&s=72&u=7dd1d704e737f3ba6f02888ce71ecd1688ad2eac&v=4" width="24" alt="Avatar of Leask"/> Leask
+				<img src="https://private-avatars.githubusercontent.com/u/233022?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDExNjAsIm5iZiI6MTczNDMzOTk2MCwicGF0aCI6Ii91LzIzMzAyMiJ9.f33ClbFrLVgQdOqMgHDBr9Rry0M62ePQHir5d0bX7hQ&s=72&u=7dd1d704e737f3ba6f02888ce71ecd1688ad2eac&v=4" width="24" alt="Avatar of Leask"/> Leask
 			</a><br/>
 			Sixia Leask Huang
 		</td>
-		<td>@schellingai </td>
+		<td>@intelligentinternet </td>
 		<td><a target="_blank" href="https://twitter.com/LeaskH">LeaskH</a></td>
 		<td>Ottawa Ontario Canada</td>
 		<td>1080</td>
-		<td>2489</td>
+		<td>2496</td>
 	</tr>
 	<tr>
 		<td>70</td>
 		<td>
 			<a target="_blank" href="https://github.com/steveluscher">
-				<img src="https://private-avatars.githubusercontent.com/u/13243?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91LzEzMjQzIn0.mYXTdDZyGb1_kQH90zM5-HnYKH5ZbLS1rauJoN1Kz38&s=72&u=9300b396e2e3af2771b3e17a6f72adc9a70204e4&v=4" width="24" alt="Avatar of steveluscher"/> steveluscher
+				<img src="https://private-avatars.githubusercontent.com/u/13243?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEzNDAsIm5iZiI6MTczNDM0MDE0MCwicGF0aCI6Ii91LzEzMjQzIn0.PhNfe4B0vQb2KGhCeerob2jJsSTPvH4zXnh3NaUMYDk&s=72&u=9300b396e2e3af2771b3e17a6f72adc9a70204e4&v=4" width="24" alt="Avatar of steveluscher"/> steveluscher
 			</a><br/>
 			Steven Luscher
 		</td>
@@ -1094,21 +1094,21 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>71</td>
 		<td>
 			<a target="_blank" href="https://github.com/oalders">
-				<img src="https://private-avatars.githubusercontent.com/u/96205?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDYwNjAsIm5iZiI6MTczNDMwNDg2MCwicGF0aCI6Ii91Lzk2MjA1In0.EJJ8XPVkpBylvXIt1ednBfRuO-wTFuJTDRxgh30HPlg&s=72&v=4" width="24" alt="Avatar of oalders"/> oalders
+				<img src="https://private-avatars.githubusercontent.com/u/96205?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIwNjAsIm5iZiI6MTczNDM0MDg2MCwicGF0aCI6Ii91Lzk2MjA1In0.-GsPKFf9YhtVQrlkhj9dqv-zCToWxNlHI7CxvvtSsY8&s=72&v=4" width="24" alt="Avatar of oalders"/> oalders
 			</a><br/>
 			Olaf Alders
 		</td>
 		<td>Wundersolutionscom </td>
 		<td>No Twitter Username</td>
 		<td>Toronto ON CA</td>
-		<td>2450</td>
-		<td>2450</td>
+		<td>2458</td>
+		<td>2458</td>
 	</tr>
 	<tr>
 		<td>72</td>
 		<td>
 			<a target="_blank" href="https://github.com/bacongobbler">
-				<img src="https://private-avatars.githubusercontent.com/u/1360539?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUwNDAsIm5iZiI6MTczNDMwMzg0MCwicGF0aCI6Ii91LzEzNjA1MzkifQ.UBCEeWc7a6W5dQA0EsaG3cOeABuoWP5dahV3AaFkJTg&s=72&u=313052cf65160501d07067fb1fa75ecc65adebb4&v=4" width="24" alt="Avatar of bacongobbler"/> bacongobbler
+				<img src="https://private-avatars.githubusercontent.com/u/1360539?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE5NDAsIm5iZiI6MTczNDM0MDc0MCwicGF0aCI6Ii91LzEzNjA1MzkifQ.bsa1mLynFPwbVIAblpQlrAof7mqJlJmBOdr8RyOkQbk&s=72&u=313052cf65160501d07067fb1fa75ecc65adebb4&v=4" width="24" alt="Avatar of bacongobbler"/> bacongobbler
 			</a><br/>
 			Matthew Fisher
 		</td>
@@ -1122,7 +1122,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>73</td>
 		<td>
 			<a target="_blank" href="https://github.com/cuducos">
-				<img src="https://private-avatars.githubusercontent.com/u/4732915?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ4MDAsIm5iZiI6MTczNDMwMzYwMCwicGF0aCI6Ii91LzQ3MzI5MTUifQ.LRA7ruIU3cUz2Xj6WEJbNovBOS4ixXmm0b60VtqkqU4&s=72&u=1c450d08568122185f4201f7f9a2c0338c570f8e&v=4" width="24" alt="Avatar of cuducos"/> cuducos
+				<img src="https://private-avatars.githubusercontent.com/u/4732915?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3MDAsIm5iZiI6MTczNDM0MDUwMCwicGF0aCI6Ii91LzQ3MzI5MTUifQ.IBaaAGRbnYOYF8icCT4rbhUU6sFjkbZNVv8rKCvLAH0&s=72&u=1c450d08568122185f4201f7f9a2c0338c570f8e&v=4" width="24" alt="Avatar of cuducos"/> cuducos
 			</a><br/>
 			Eduardo Cuducos
 		</td>
@@ -1136,21 +1136,21 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>74</td>
 		<td>
 			<a target="_blank" href="https://github.com/isadorasophia">
-				<img src="https://private-avatars.githubusercontent.com/u/7958854?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyODAsIm5iZiI6MTczNDMwNDA4MCwicGF0aCI6Ii91Lzc5NTg4NTQifQ.YUee40Awtafnan7dhTRy4D2op8_GnSPIX2nfxTWbbZs&s=72&u=788405834158d4cec458cff17fe68df443892f9a&v=4" width="24" alt="Avatar of isadorasophia"/> isadorasophia
+				<img src="https://private-avatars.githubusercontent.com/u/7958854?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyODAsIm5iZiI6MTczNDM0MDA4MCwicGF0aCI6Ii91Lzc5NTg4NTQifQ.zm4Kh4L9daARvs1yfMltB1z4bd5txmorgTvLw5DXeiU&s=72&u=788405834158d4cec458cff17fe68df443892f9a&v=4" width="24" alt="Avatar of isadorasophia"/> isadorasophia
 			</a><br/>
 			Isadora
 		</td>
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/isainstars">isainstars</a></td>
 		<td>Canada</td>
-		<td>611</td>
-		<td>2358</td>
+		<td>612</td>
+		<td>2364</td>
 	</tr>
 	<tr>
 		<td>75</td>
 		<td>
 			<a target="_blank" href="https://github.com/huitseeker">
-				<img src="https://private-avatars.githubusercontent.com/u/4142?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1MjAsIm5iZiI6MTczNDMwNDMyMCwicGF0aCI6Ii91LzQxNDIifQ.KtBs8-woOn6WAZ490OjOTYtG7fW2Mg8YFp1rNq80hF4&s=72&v=4" width="24" alt="Avatar of huitseeker"/> huitseeker
+				<img src="https://private-avatars.githubusercontent.com/u/4142?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1MjAsIm5iZiI6MTczNDM0MDMyMCwicGF0aCI6Ii91LzQxNDIifQ.IEN2lpcUq02PyliyJEFFNuYoUnPI58vVVW4cn-VQAp0&s=72&v=4" width="24" alt="Avatar of huitseeker"/> huitseeker
 			</a><br/>
 			Franois Garillot
 		</td>
@@ -1158,13 +1158,13 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td><a target="_blank" href="https://twitter.com/huitseeker">huitseeker</a></td>
 		<td>Montreal Qubec Canada</td>
 		<td>1310</td>
-		<td>2357</td>
+		<td>2358</td>
 	</tr>
 	<tr>
 		<td>76</td>
 		<td>
 			<a target="_blank" href="https://github.com/joshl26">
-				<img src="https://private-avatars.githubusercontent.com/u/100108069?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDYxODAsIm5iZiI6MTczNDMwNDk4MCwicGF0aCI6Ii91LzEwMDEwODA2OSJ9.zRS8jFX5m1Tq1-IumxclbAXKUT_VE8dC30fgykF59oE&s=72&u=99d812a868eaa91d1c89f2a815635b661c0c4576&v=4" width="24" alt="Avatar of joshl26"/> joshl26
+				<img src="https://private-avatars.githubusercontent.com/u/100108069?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIxODAsIm5iZiI6MTczNDM0MDk4MCwicGF0aCI6Ii91LzEwMDEwODA2OSJ9.Ter2jW5J5N-mHa2-QCBdc2wwgQp9WuS9PKCsSJ4JobQ&s=72&u=99d812a868eaa91d1c89f2a815635b661c0c4576&v=4" width="24" alt="Avatar of joshl26"/> joshl26
 			</a><br/>
 			Joshua Lehman
 		</td>
@@ -1178,7 +1178,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>77</td>
 		<td>
 			<a target="_blank" href="https://github.com/JasonEtco">
-				<img src="https://private-avatars.githubusercontent.com/u/10660468?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ3NDAsIm5iZiI6MTczNDMwMzU0MCwicGF0aCI6Ii91LzEwNjYwNDY4In0.Ol8qD5RdpzlvHAfpTiTKPkfYT8rHP5HbgKeLSzOKgG4&s=72&u=b2a4cb6919cf2a48d3a57d88597ae60dbaf81e1a&v=4" width="24" alt="Avatar of JasonEtco"/> JasonEtco
+				<img src="https://private-avatars.githubusercontent.com/u/10660468?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE2NDAsIm5iZiI6MTczNDM0MDQ0MCwicGF0aCI6Ii91LzEwNjYwNDY4In0.o-xGf_kNdeU3sGXqZlNQK4WBJNerLBiga_TVfGnzmMY&s=72&u=b2a4cb6919cf2a48d3a57d88597ae60dbaf81e1a&v=4" width="24" alt="Avatar of JasonEtco"/> JasonEtco
 			</a><br/>
 			Jason Etcovitch
 		</td>
@@ -1192,7 +1192,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>78</td>
 		<td>
 			<a target="_blank" href="https://github.com/imranhsayed">
-				<img src="https://private-avatars.githubusercontent.com/u/11497423?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ5ODAsIm5iZiI6MTczNDMwMzc4MCwicGF0aCI6Ii91LzExNDk3NDIzIn0.10WFknxfjdKNHXTPhR_6QfPXiWjRgxarl-ZmOxNrcus&s=72&v=4" width="24" alt="Avatar of imranhsayed"/> imranhsayed
+				<img src="https://private-avatars.githubusercontent.com/u/11497423?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDA5ODAsIm5iZiI6MTczNDMzOTc4MCwicGF0aCI6Ii91LzExNDk3NDIzIn0.KTtoZMuQmxVIzevYhg_0_K59B7tljWEGKY6fS8P96qI&s=72&v=4" width="24" alt="Avatar of imranhsayed"/> imranhsayed
 			</a><br/>
 			Imran Sayed
 		</td>
@@ -1200,27 +1200,27 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td><a target="_blank" href="https://twitter.com/imranhsayed">imranhsayed</a></td>
 		<td>Canada</td>
 		<td>268</td>
-		<td>2307</td>
+		<td>2314</td>
 	</tr>
 	<tr>
 		<td>79</td>
 		<td>
 			<a target="_blank" href="https://github.com/steveseguin">
-				<img src="https://private-avatars.githubusercontent.com/u/2575698?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUwNDAsIm5iZiI6MTczNDMwMzg0MCwicGF0aCI6Ii91LzI1NzU2OTgifQ.IM7L4qBnFCqML-W3YwNB1vHWnpNC6KPraB_PCjiPvv0&s=72&v=4" width="24" alt="Avatar of steveseguin"/> steveseguin
+				<img src="https://private-avatars.githubusercontent.com/u/2575698?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEwNDAsIm5iZiI6MTczNDMzOTg0MCwicGF0aCI6Ii91LzI1NzU2OTgifQ.vuKq7f7FOsi-qFMwDTyhM46Rz1JpvdVoOG_bpO2ebIU&s=72&v=4" width="24" alt="Avatar of steveseguin"/> steveseguin
 			</a><br/>
 			Steve Seguin
 		</td>
 		<td>Be Awesome Corp </td>
 		<td><a target="_blank" href="https://twitter.com/xyster">xyster</a></td>
 		<td>Toronto Canada</td>
-		<td>2044</td>
-		<td>2281</td>
+		<td>2047</td>
+		<td>2284</td>
 	</tr>
 	<tr>
 		<td>80</td>
 		<td>
 			<a target="_blank" href="https://github.com/ShMcK">
-				<img src="https://private-avatars.githubusercontent.com/u/4660659?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyODAsIm5iZiI6MTczNDMwNDA4MCwicGF0aCI6Ii91LzQ2NjA2NTkifQ.SEHl01X2ibn9y88vC_RtnURZGgW4kqZZkjOzgFGIa3M&s=72&u=83dde4dfb71b2336110271f5359f754b42c87981&v=4" width="24" alt="Avatar of ShMcK"/> ShMcK
+				<img src="https://private-avatars.githubusercontent.com/u/4660659?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyODAsIm5iZiI6MTczNDM0MDA4MCwicGF0aCI6Ii91LzQ2NjA2NTkifQ.15KMbvslL-VPBHBDy5OqtDN8CPW9oZPM1o8lqdFK_Fo&s=72&u=83dde4dfb71b2336110271f5359f754b42c87981&v=4" width="24" alt="Avatar of ShMcK"/> ShMcK
 			</a><br/>
 			Shawn McKay
 		</td>
@@ -1234,63 +1234,49 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>81</td>
 		<td>
 			<a target="_blank" href="https://github.com/STRRL">
-				<img src="https://private-avatars.githubusercontent.com/u/20221408?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU2NDAsIm5iZiI6MTczNDMwNDQ0MCwicGF0aCI6Ii91LzIwMjIxNDA4In0.fd7Q6fBSopIVtAnY_PubhZr6R17X9VSg8dgwLOKF01o&s=72&u=6ba6413e865019ca18f4422e4c53fcb046ef0a8c&v=4" width="24" alt="Avatar of STRRL"/> STRRL
+				<img src="https://private-avatars.githubusercontent.com/u/20221408?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE2NDAsIm5iZiI6MTczNDM0MDQ0MCwicGF0aCI6Ii91LzIwMjIxNDA4In0.K54AShAjp8ns987p9JxHzdra0hmfK9fk5hk71wEf2aU&s=72&u=6ba6413e865019ca18f4422e4c53fcb046ef0a8c&v=4" width="24" alt="Avatar of STRRL"/> STRRL
 			</a><br/>
 			Zhiqiang ZHOU
 		</td>
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/strrl_the_dev">strrl_the_dev</a></td>
 		<td>Great Vancouver Canada</td>
-		<td>336</td>
-		<td>2228</td>
+		<td>337</td>
+		<td>2230</td>
 	</tr>
 	<tr>
 		<td>82</td>
 		<td>
-			<a target="_blank" href="https://github.com/FaisalAbid">
-				<img src="https://private-avatars.githubusercontent.com/u/253700?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1MjAsIm5iZiI6MTczNDMwNDMyMCwicGF0aCI6Ii91LzI1MzcwMCJ9.AKv7xoIlGQJYNC5UAmDqYKLibldLL4F5x4ThG-7SqWk&s=72&u=0b7e8f16b3b1b08dcb669e6602120ad2e76aab33&v=4" width="24" alt="Avatar of FaisalAbid"/> FaisalAbid
-			</a><br/>
-			Faisal Abid
-		</td>
-		<td>@eirenecremations </td>
-		<td><a target="_blank" href="https://twitter.com/FaisalAbid">FaisalAbid</a></td>
-		<td>Toronto</td>
-		<td>31</td>
-		<td>2198</td>
-	</tr>
-	<tr>
-		<td>83</td>
-		<td>
 			<a target="_blank" href="https://github.com/yrashk">
-				<img src="https://private-avatars.githubusercontent.com/u/452?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyODAsIm5iZiI6MTczNDMwNDA4MCwicGF0aCI6Ii91LzQ1MiJ9.OP2I1Ox4P8ZWFen4ulXoK-taKW--6ViWQtxT_P_fi68&s=72&u=d4cfa6443362f32a66cac1cd2dfb39469c483ae1&v=4" width="24" alt="Avatar of yrashk"/> yrashk
+				<img src="https://private-avatars.githubusercontent.com/u/452?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyODAsIm5iZiI6MTczNDM0MDA4MCwicGF0aCI6Ii91LzQ1MiJ9.MDJ_NuRsd-f0boGlycyYfL3mxt3AAJe47_dfN67yXzI&s=72&u=d4cfa6443362f32a66cac1cd2dfb39469c483ae1&v=4" width="24" alt="Avatar of yrashk"/> yrashk
 			</a><br/>
 			Yurii Rashkovskii
 		</td>
 		<td>@omnigres  </td>
 		<td><a target="_blank" href="https://twitter.com/yrashk">yrashk</a></td>
 		<td>Comox BC Canada</td>
-		<td>1174</td>
-		<td>2181</td>
+		<td>1186</td>
+		<td>2199</td>
 	</tr>
 	<tr>
-		<td>84</td>
+		<td>83</td>
 		<td>
 			<a target="_blank" href="https://github.com/jennybc">
-				<img src="https://private-avatars.githubusercontent.com/u/599454?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyMjAsIm5iZiI6MTczNDMwNDAyMCwicGF0aCI6Ii91LzU5OTQ1NCJ9.YrZHN166a3sgVvAhAuyqXKKnToSH2bWbzNeUkwpQoVQ&s=72&u=e6582e446f17b4282fa6ebe5e55070f2c5c52c44&v=4" width="24" alt="Avatar of jennybc"/> jennybc
+				<img src="https://private-avatars.githubusercontent.com/u/599454?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyMjAsIm5iZiI6MTczNDM0MDAyMCwicGF0aCI6Ii91LzU5OTQ1NCJ9.otXCihCse9ogRyDfeZJV7tJrBTuVqUgpiRwEj6LZggQ&s=72&u=e6582e446f17b4282fa6ebe5e55070f2c5c52c44&v=4" width="24" alt="Avatar of jennybc"/> jennybc
 			</a><br/>
 			Jennifer Jenny Bryan
 		</td>
 		<td>@positpbc </td>
 		<td><a target="_blank" href="https://twitter.com/jennybryan">jennybryan</a></td>
 		<td>Vancouver BC Canada</td>
-		<td>2039</td>
-		<td>2164</td>
+		<td>2040</td>
+		<td>2165</td>
 	</tr>
 	<tr>
-		<td>85</td>
+		<td>84</td>
 		<td>
 			<a target="_blank" href="https://github.com/wiseodd">
-				<img src="https://private-avatars.githubusercontent.com/u/2296722?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91LzIyOTY3MjIifQ.i5kTDhPd62ieB1J8kUfI2NIssTOFJ7wAtuaa0G7Vbxs&s=72&u=dd9f63061d326c0e8d9244dd53dd555b9464223f&v=4" width="24" alt="Avatar of wiseodd"/> wiseodd
+				<img src="https://private-avatars.githubusercontent.com/u/2296722?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEzNDAsIm5iZiI6MTczNDM0MDE0MCwicGF0aCI6Ii91LzIyOTY3MjIifQ.uIOXc0XmtnYU_uZkuZTJSMDSZoQqzRT_3iCTrBMucdE&s=72&u=dd9f63061d326c0e8d9244dd53dd555b9464223f&v=4" width="24" alt="Avatar of wiseodd"/> wiseodd
 			</a><br/>
 			Agustinus Kristiadi
 		</td>
@@ -1301,10 +1287,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>2151</td>
 	</tr>
 	<tr>
-		<td>86</td>
+		<td>85</td>
 		<td>
 			<a target="_blank" href="https://github.com/lukasc-ubc">
-				<img src="https://private-avatars.githubusercontent.com/u/15843200?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDYwMDAsIm5iZiI6MTczNDMwNDgwMCwicGF0aCI6Ii91LzE1ODQzMjAwIn0.v3If0RbpGUWMMJCsbpBShA3HPP5MLPOqPTjtCk2mOTQ&s=72&u=b4731ac7b0f5d2dffcbf2792c7a39360a6f5cffa&v=4" width="24" alt="Avatar of lukasc-ubc"/> lukasc-ubc
+				<img src="https://private-avatars.githubusercontent.com/u/15843200?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIwMDAsIm5iZiI6MTczNDM0MDgwMCwicGF0aCI6Ii91LzE1ODQzMjAwIn0.-SL99rncC3Noe38g_xBCa1fMMUqEl-Vcl7A10XH46AY&s=72&u=b4731ac7b0f5d2dffcbf2792c7a39360a6f5cffa&v=4" width="24" alt="Avatar of lukasc-ubc"/> lukasc-ubc
 			</a><br/>
 			Lukas Chrostowski
 		</td>
@@ -1315,10 +1301,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>2139</td>
 	</tr>
 	<tr>
-		<td>87</td>
+		<td>86</td>
 		<td>
 			<a target="_blank" href="https://github.com/DenisCarriere">
-				<img src="https://private-avatars.githubusercontent.com/u/550895?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1MjAsIm5iZiI6MTczNDMwNDMyMCwicGF0aCI6Ii91LzU1MDg5NSJ9.zNu2MdQIQA_CwoZ_ZDtX9G6sDmLi0oOOSr6vqoko4Rw&s=72&u=c8d3b1ef2709d29da00e1fbcf966b0fd02cbf095&v=4" width="24" alt="Avatar of DenisCarriere"/> DenisCarriere
+				<img src="https://private-avatars.githubusercontent.com/u/550895?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1MjAsIm5iZiI6MTczNDM0MDMyMCwicGF0aCI6Ii91LzU1MDg5NSJ9.bo4GkUUN09S0nMR4_H_s9rq_e5K52A5vVL7gVxLDOpc&s=72&u=c8d3b1ef2709d29da00e1fbcf966b0fd02cbf095&v=4" width="24" alt="Avatar of DenisCarriere"/> DenisCarriere
 			</a><br/>
 			Denis
 		</td>
@@ -1329,24 +1315,38 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>2135</td>
 	</tr>
 	<tr>
+		<td>87</td>
+		<td>
+			<a target="_blank" href="https://github.com/FaisalAbid">
+				<img src="https://private-avatars.githubusercontent.com/u/253700?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1MjAsIm5iZiI6MTczNDM0MDMyMCwicGF0aCI6Ii91LzI1MzcwMCJ9.beHWI_iIklD0c9s5yrOc4BAwrtd-gIUClYfuJGIzpPE&s=72&u=0b7e8f16b3b1b08dcb669e6602120ad2e76aab33&v=4" width="24" alt="Avatar of FaisalAbid"/> FaisalAbid
+			</a><br/>
+			Faisal Abid
+		</td>
+		<td>@eirenecremations </td>
+		<td><a target="_blank" href="https://twitter.com/FaisalAbid">FaisalAbid</a></td>
+		<td>Toronto</td>
+		<td>31</td>
+		<td>2125</td>
+	</tr>
+	<tr>
 		<td>88</td>
 		<td>
 			<a target="_blank" href="https://github.com/GabLeRoux">
-				<img src="https://private-avatars.githubusercontent.com/u/1264761?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3MDAsIm5iZiI6MTczNDMwNDUwMCwicGF0aCI6Ii91LzEyNjQ3NjEifQ.P0NGgNPCuznbE4qYXY0P0PkwIRfuQPzM32J66m_dQlo&s=72&v=4" width="24" alt="Avatar of GabLeRoux"/> GabLeRoux
+				<img src="https://private-avatars.githubusercontent.com/u/1264761?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3MDAsIm5iZiI6MTczNDM0MDUwMCwicGF0aCI6Ii91LzEyNjQ3NjEifQ.WDFjCE4WC9Jla_u1v30_WtY4HVVRbwMKj_SoIt_GdFo&s=72&v=4" width="24" alt="Avatar of GabLeRoux"/> GabLeRoux
 			</a><br/>
 			Gabriel Le Breton
 		</td>
 		<td>Totema Studio  Tlm<br/></td>
 		<td><a target="_blank" href="https://twitter.com/gableroux">gableroux</a></td>
 		<td>Chicoutimi Qubec Canada</td>
-		<td>325</td>
-		<td>2110</td>
+		<td>327</td>
+		<td>2112</td>
 	</tr>
 	<tr>
 		<td>89</td>
 		<td>
 			<a target="_blank" href="https://github.com/lemonmade">
-				<img src="https://private-avatars.githubusercontent.com/u/3012583?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1MjAsIm5iZiI6MTczNDMwNDMyMCwicGF0aCI6Ii91LzMwMTI1ODMifQ.NExs0w5eXbDEpIZ1yYuoviBdCOGkCjcKVYVGlah9XSk&s=72&u=44daab1c22303248437163512158fe4972259cb8&v=4" width="24" alt="Avatar of lemonmade"/> lemonmade
+				<img src="https://private-avatars.githubusercontent.com/u/3012583?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1MjAsIm5iZiI6MTczNDM0MDMyMCwicGF0aCI6Ii91LzMwMTI1ODMifQ.Elgd28Fmk9qXAgpnzfwbS00Gaap7BIFZjlBMwkib6qw&s=72&u=44daab1c22303248437163512158fe4972259cb8&v=4" width="24" alt="Avatar of lemonmade"/> lemonmade
 			</a><br/>
 			Chris Sauve
 		</td>
@@ -1360,7 +1360,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>90</td>
 		<td>
 			<a target="_blank" href="https://github.com/henrytao-me">
-				<img src="https://private-avatars.githubusercontent.com/u/5274722?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4ODAsIm5iZiI6MTczNDMwNDY4MCwicGF0aCI6Ii91LzUyNzQ3MjIifQ.JVhwTBej1BN4IsLJD1LBfNjqyHF8d_y0mLkwQGsNYzc&s=72&u=4c9ad974403c349f9ac04cb96d59e52b1a3d1b66&v=4" width="24" alt="Avatar of henrytao-me"/> henrytao-me
+				<img src="https://private-avatars.githubusercontent.com/u/5274722?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4ODAsIm5iZiI6MTczNDM0MDY4MCwicGF0aCI6Ii91LzUyNzQ3MjIifQ.VsW-Qok-z2si5u22pm_uuy_-59OhshukQfqkTr96u7s&s=72&u=4c9ad974403c349f9ac04cb96d59e52b1a3d1b66&v=4" width="24" alt="Avatar of henrytao-me"/> henrytao-me
 			</a><br/>
 			Henry Tao
 		</td>
@@ -1374,7 +1374,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>91</td>
 		<td>
 			<a target="_blank" href="https://github.com/sgbaird">
-				<img src="https://private-avatars.githubusercontent.com/u/45469701?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1ODAsIm5iZiI6MTczNDMwNDM4MCwicGF0aCI6Ii91LzQ1NDY5NzAxIn0.42w7HZhdwdIQswYYoZonNziNiLH-UCdu7V_3X_1WsX4&s=72&u=ab65e519709791f38a49a44fc03588058407be63&v=4" width="24" alt="Avatar of sgbaird"/> sgbaird
+				<img src="https://private-avatars.githubusercontent.com/u/45469701?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1ODAsIm5iZiI6MTczNDM0MDM4MCwicGF0aCI6Ii91LzQ1NDY5NzAxIn0.5rgCLXFyMKLnNRvroYWLuUlG-JSwFzuD8OV74THcils&s=72&u=ab65e519709791f38a49a44fc03588058407be63&v=4" width="24" alt="Avatar of sgbaird"/> sgbaird
 			</a><br/>
 			Sterling G Baird
 		</td>
@@ -1388,7 +1388,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>92</td>
 		<td>
 			<a target="_blank" href="https://github.com/pojntfx">
-				<img src="https://private-avatars.githubusercontent.com/u/28832235?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ5ODAsIm5iZiI6MTczNDMwMzc4MCwicGF0aCI6Ii91LzI4ODMyMjM1In0.j1n2tgc_6UnU1s8yRus-x22bmf3myjyRy5zw2Szw6xw&s=72&u=502d0cf50d4f8cd0495074984422bdcff1259103&v=4" width="24" alt="Avatar of pojntfx"/> pojntfx
+				<img src="https://private-avatars.githubusercontent.com/u/28832235?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4ODAsIm5iZiI6MTczNDM0MDY4MCwicGF0aCI6Ii91LzI4ODMyMjM1In0.6uCb_QukXCghQGmGzhZO39VCoBH6-BZcdePVUMxZER4&s=72&u=502d0cf50d4f8cd0495074984422bdcff1259103&v=4" width="24" alt="Avatar of pojntfx"/> pojntfx
 			</a><br/>
 			Felicitas Pojtinger
 		</td>
@@ -1402,7 +1402,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>93</td>
 		<td>
 			<a target="_blank" href="https://github.com/Taiga74164">
-				<img src="https://private-avatars.githubusercontent.com/u/67109235?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxNjAsIm5iZiI6MTczNDMwMzk2MCwicGF0aCI6Ii91LzY3MTA5MjM1In0.DpRay73pYDHoHs6Qro8No0_gFkes7YNeug_SSGudGjE&s=72&u=d460d31bbc23792b642859eb7cbd92b179bc8a1e&v=4" width="24" alt="Avatar of Taiga74164"/> Taiga74164
+				<img src="https://private-avatars.githubusercontent.com/u/67109235?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDExNjAsIm5iZiI6MTczNDMzOTk2MCwicGF0aCI6Ii91LzY3MTA5MjM1In0.72oZ-gv8OA1e9i_KgbkkXHmMu5j4Pgy25K6LgZSEJg4&s=72&u=d460d31bbc23792b642859eb7cbd92b179bc8a1e&v=4" width="24" alt="Avatar of Taiga74164"/> Taiga74164
 			</a><br/>
 			Joaquin
 		</td>
@@ -1416,7 +1416,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>94</td>
 		<td>
 			<a target="_blank" href="https://github.com/mosabua">
-				<img src="https://private-avatars.githubusercontent.com/u/145658?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUwNDAsIm5iZiI6MTczNDMwMzg0MCwicGF0aCI6Ii91LzE0NTY1OCJ9._a5u-ZqPxIljJ9UwRHdQDV8N5Rsd4RuSSYZv5wQ8X5w&s=72&v=4" width="24" alt="Avatar of mosabua"/> mosabua
+				<img src="https://private-avatars.githubusercontent.com/u/145658?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEwNDAsIm5iZiI6MTczNDMzOTg0MCwicGF0aCI6Ii91LzE0NTY1OCJ9.SY-g4eJ33gb6tU84PlPzyqsh6llB73zugtS5NOTqEhc&s=72&v=4" width="24" alt="Avatar of mosabua"/> mosabua
 			</a><br/>
 			Manfred Moser
 		</td>
@@ -1430,7 +1430,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>95</td>
 		<td>
 			<a target="_blank" href="https://github.com/jaysoo">
-				<img src="https://private-avatars.githubusercontent.com/u/53559?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyMjAsIm5iZiI6MTczNDMwNDAyMCwicGF0aCI6Ii91LzUzNTU5In0.2X_B7jiAeI0V3Np9NshrBg1A9gqT6hvE0kLC2TRoVG4&s=72&v=4" width="24" alt="Avatar of jaysoo"/> jaysoo
+				<img src="https://private-avatars.githubusercontent.com/u/53559?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyMjAsIm5iZiI6MTczNDM0MDAyMCwicGF0aCI6Ii91LzUzNTU5In0.m-MrQrv01zGaXeVNlIiE7nlmWJksn4i-GnK4GOB7hmQ&s=72&v=4" width="24" alt="Avatar of jaysoo"/> jaysoo
 			</a><br/>
 			Jack Hsu
 		</td>
@@ -1444,7 +1444,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>96</td>
 		<td>
 			<a target="_blank" href="https://github.com/n8han">
-				<img src="https://private-avatars.githubusercontent.com/u/102698?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxNjAsIm5iZiI6MTczNDMwMzk2MCwicGF0aCI6Ii91LzEwMjY5OCJ9.au7WZoWKkroaqaTYh2q2CUuZddQejqkkyWZqcusB3Vg&s=72&u=7804a595f9c5534bb283024044cc42621a65474e&v=4" width="24" alt="Avatar of n8han"/> n8han
+				<img src="https://private-avatars.githubusercontent.com/u/102698?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIwNjAsIm5iZiI6MTczNDM0MDg2MCwicGF0aCI6Ii91LzEwMjY5OCJ9.4gx8mNDg8NmANBlTxQTS9qMzRLc17HUPgFIIVkgEsHo&s=72&u=7804a595f9c5534bb283024044cc42621a65474e&v=4" width="24" alt="Avatar of n8han"/> n8han
 			</a><br/>
 			Nathan
 		</td>
@@ -1458,21 +1458,21 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>97</td>
 		<td>
 			<a target="_blank" href="https://github.com/joelhooks">
-				<img src="https://private-avatars.githubusercontent.com/u/86834?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ5ODAsIm5iZiI6MTczNDMwMzc4MCwicGF0aCI6Ii91Lzg2ODM0In0.VRZgUbDvbpztFzYyD6a4NlbWg2VQObzwLJvzFaNMlNI&s=72&u=78a4760d6ed9f19f33f7191719a6dd0faf8738d6&v=4" width="24" alt="Avatar of joelhooks"/> joelhooks
+				<img src="https://private-avatars.githubusercontent.com/u/86834?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDA5ODAsIm5iZiI6MTczNDMzOTc4MCwicGF0aCI6Ii91Lzg2ODM0In0.Gd5AditcZ8uqJ2opnOp-kPgjmZA1q6A5Tm181i_K1xw&s=72&u=78a4760d6ed9f19f33f7191719a6dd0faf8738d6&v=4" width="24" alt="Avatar of joelhooks"/> joelhooks
 			</a><br/>
 			Joel Hooks
 		</td>
 		<td>Eggheadio </td>
 		<td><a target="_blank" href="https://twitter.com/jhooks">jhooks</a></td>
 		<td>Vancouver WA</td>
-		<td>1896</td>
-		<td>1991</td>
+		<td>1898</td>
+		<td>1993</td>
 	</tr>
 	<tr>
 		<td>98</td>
 		<td>
 			<a target="_blank" href="https://github.com/fwang">
-				<img src="https://private-avatars.githubusercontent.com/u/83515?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3NjAsIm5iZiI6MTczNDMwNDU2MCwicGF0aCI6Ii91LzgzNTE1In0.DwOhmioAc4_6rahY-cA4I2YFBLEw-OxURpAUtDKJy3M&s=72&u=20d8817b3c1f666f5207b2e955f0b2771fb87ad0&v=4" width="24" alt="Avatar of fwang"/> fwang
+				<img src="https://private-avatars.githubusercontent.com/u/83515?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3NjAsIm5iZiI6MTczNDM0MDU2MCwicGF0aCI6Ii91LzgzNTE1In0.whVoKpomy8-EOZukYVaUU0uYlelhgpFsaBsHmr_mxoo&s=72&u=20d8817b3c1f666f5207b2e955f0b2771fb87ad0&v=4" width="24" alt="Avatar of fwang"/> fwang
 			</a><br/>
 			Frank
 		</td>
@@ -1486,7 +1486,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>99</td>
 		<td>
 			<a target="_blank" href="https://github.com/micaelomota">
-				<img src="https://private-avatars.githubusercontent.com/u/12684971?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91LzEyNjg0OTcxIn0.daZpy0IcBf3kuvJYVswdx4PG4pcMTJo9QPSibkYb0NY&s=72&u=d9c6388f3bc9b8feed94af9b6cd9bc85ec562563&v=4" width="24" alt="Avatar of micaelomota"/> micaelomota
+				<img src="https://private-avatars.githubusercontent.com/u/12684971?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEzNDAsIm5iZiI6MTczNDM0MDE0MCwicGF0aCI6Ii91LzEyNjg0OTcxIn0.E-Cl4B1apVAqdxvjxsk1lT6hMeNZWzm96cAEG7SwMKM&s=72&u=d9c6388f3bc9b8feed94af9b6cd9bc85ec562563&v=4" width="24" alt="Avatar of micaelomota"/> micaelomota
 			</a><br/>
 			Micael Mota
 		</td>
@@ -1500,7 +1500,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>100</td>
 		<td>
 			<a target="_blank" href="https://github.com/cenkalti">
-				<img src="https://private-avatars.githubusercontent.com/u/661618?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyMjAsIm5iZiI6MTczNDMwNDAyMCwicGF0aCI6Ii91LzY2MTYxOCJ9.6HTgOx5ohiS63S4dX8xFUAu8E5HgjFnF0V1pTrPXBPE&s=72&u=55810a5a4c53c22c6e1ac2dd8327f5a5e421b0bc&v=4" width="24" alt="Avatar of cenkalti"/> cenkalti
+				<img src="https://private-avatars.githubusercontent.com/u/661618?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyMjAsIm5iZiI6MTczNDM0MDAyMCwicGF0aCI6Ii91LzY2MTYxOCJ9.krbkK847bAatAHRNn0YpxjfL18ll1O17tslKB5yiJZM&s=72&u=55810a5a4c53c22c6e1ac2dd8327f5a5e421b0bc&v=4" width="24" alt="Avatar of cenkalti"/> cenkalti
 			</a><br/>
 			Cenk Alt
 		</td>
@@ -1514,7 +1514,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>101</td>
 		<td>
 			<a target="_blank" href="https://github.com/nathantannar4">
-				<img src="https://private-avatars.githubusercontent.com/u/15272998?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0MDAsIm5iZiI6MTczNDMwNDIwMCwicGF0aCI6Ii91LzE1MjcyOTk4In0.vpiI_TdmiuypA3mBwtxH9geUGQgG_E3ZeLIpPd8LOo0&s=72&u=3410e2452bfa29992d874b28750dac1f20c4b17b&v=4" width="24" alt="Avatar of nathantannar4"/> nathantannar4
+				<img src="https://private-avatars.githubusercontent.com/u/15272998?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0MDAsIm5iZiI6MTczNDM0MDIwMCwicGF0aCI6Ii91LzE1MjcyOTk4In0.wYsCZfmTIliRbzKBaCx5_9pYlt6XeakMarefyWCzVrI&s=72&u=3410e2452bfa29992d874b28750dac1f20c4b17b&v=4" width="24" alt="Avatar of nathantannar4"/> nathantannar4
 			</a><br/>
 			Nathan Tannar
 		</td>
@@ -1528,7 +1528,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>102</td>
 		<td>
 			<a target="_blank" href="https://github.com/maruel">
-				<img src="https://private-avatars.githubusercontent.com/u/75011?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3MDAsIm5iZiI6MTczNDMwNDUwMCwicGF0aCI6Ii91Lzc1MDExIn0.gvChPBCj4FTXL6XC8Q0WzAmJU8n1mm6RLYXDP3uh3Ww&s=72&u=7ba0dfadb070cc614a69d5d12b7d0b8b19de5215&v=4" width="24" alt="Avatar of maruel"/> maruel
+				<img src="https://private-avatars.githubusercontent.com/u/75011?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3MDAsIm5iZiI6MTczNDM0MDUwMCwicGF0aCI6Ii91Lzc1MDExIn0.V8ZjNRwlbU-Xwaoo0kvRWK8W-UwFOQpsMCQ-rrxZsZk&s=72&u=7ba0dfadb070cc614a69d5d12b7d0b8b19de5215&v=4" width="24" alt="Avatar of maruel"/> maruel
 			</a><br/>
 			MA
 		</td>
@@ -1542,7 +1542,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>103</td>
 		<td>
 			<a target="_blank" href="https://github.com/qhwa">
-				<img src="https://private-avatars.githubusercontent.com/u/43009?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDYwMDAsIm5iZiI6MTczNDMwNDgwMCwicGF0aCI6Ii91LzQzMDA5In0.SmCaC8RpqC0sDoN1E_NgQkkfASR6ENuSlzmKGmCuJqA&s=72&v=4" width="24" alt="Avatar of qhwa"/> qhwa
+				<img src="https://private-avatars.githubusercontent.com/u/43009?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIwMDAsIm5iZiI6MTczNDM0MDgwMCwicGF0aCI6Ii91LzQzMDA5In0.h23Pn4YIqT2YeAvX-lFMvdvEssChXmZNJgWM9TeJt1I&s=72&v=4" width="24" alt="Avatar of qhwa"/> qhwa
 			</a><br/>
 			Qiu Hua
 		</td>
@@ -1556,7 +1556,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>104</td>
 		<td>
 			<a target="_blank" href="https://github.com/scastiel">
-				<img src="https://private-avatars.githubusercontent.com/u/301948?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0MDAsIm5iZiI6MTczNDMwNDIwMCwicGF0aCI6Ii91LzMwMTk0OCJ9.AK5ZI4cd4sxmssLZLjLXzYnpF46uh_VM9PHp2lmbOxo&s=72&u=c43ceb8b3ba37c74033cd80f8937a65eb984b61b&v=4" width="24" alt="Avatar of scastiel"/> scastiel
+				<img src="https://private-avatars.githubusercontent.com/u/301948?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIzMDAsIm5iZiI6MTczNDM0MTEwMCwicGF0aCI6Ii91LzMwMTk0OCJ9.gFIHxVKjoki3W90xvnwVezEShfGxCFunnrmQ4Jn2vPU&s=72&u=c43ceb8b3ba37c74033cd80f8937a65eb984b61b&v=4" width="24" alt="Avatar of scastiel"/> scastiel
 			</a><br/>
 			Sebastien Castiel
 		</td>
@@ -1570,7 +1570,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>105</td>
 		<td>
 			<a target="_blank" href="https://github.com/dkubb">
-				<img src="https://private-avatars.githubusercontent.com/u/133?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxNjAsIm5iZiI6MTczNDMwMzk2MCwicGF0aCI6Ii91LzEzMyJ9.b3wT_LuoIY85eW2n6KsU9HFPKqew6onHVLPlF_MhAkI&s=72&v=4" width="24" alt="Avatar of dkubb"/> dkubb
+				<img src="https://private-avatars.githubusercontent.com/u/133?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDExNjAsIm5iZiI6MTczNDMzOTk2MCwicGF0aCI6Ii91LzEzMyJ9.Og2A-2qcwrJKVw_6dLxcFRFwByA_Z4Jd0kZe0Dh9Ows&s=72&v=4" width="24" alt="Avatar of dkubb"/> dkubb
 			</a><br/>
 			Dan Kubb
 		</td>
@@ -1584,7 +1584,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>106</td>
 		<td>
 			<a target="_blank" href="https://github.com/dusty-phillips">
-				<img src="https://private-avatars.githubusercontent.com/u/86920?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1MjAsIm5iZiI6MTczNDMwNDMyMCwicGF0aCI6Ii91Lzg2OTIwIn0.jYY9hVI5QTFRPiBkqheCcdGZkspb86zD0VBQ-rRhm7k&s=72&u=e92ed2c2d352b869cddd5fb66a4b9bc1494cc1fb&v=4" width="24" alt="Avatar of dusty-phillips"/> dusty-phillips
+				<img src="https://private-avatars.githubusercontent.com/u/86920?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1MjAsIm5iZiI6MTczNDM0MDMyMCwicGF0aCI6Ii91Lzg2OTIwIn0.noyPKOZRnJmGsGZjZrxDS1gj-vMZq1Z5-kUiIf7nFQ8&s=72&u=e92ed2c2d352b869cddd5fb66a4b9bc1494cc1fb&v=4" width="24" alt="Avatar of dusty-phillips"/> dusty-phillips
 			</a><br/>
 			Dusty Phillips
 		</td>
@@ -1598,21 +1598,21 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>107</td>
 		<td>
 			<a target="_blank" href="https://github.com/Pathoschild">
-				<img src="https://private-avatars.githubusercontent.com/u/230581?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUwNDAsIm5iZiI6MTczNDMwMzg0MCwicGF0aCI6Ii91LzIzMDU4MSJ9.f4zVPJrmRJtX7Jkjp6_XGEXvMffid87vRSEPhMzZDs4&s=72&u=e668de27b9e0cd2d92b0ea16c4729bc73ce5ad6f&v=4" width="24" alt="Avatar of Pathoschild"/> Pathoschild
+				<img src="https://private-avatars.githubusercontent.com/u/230581?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE5NDAsIm5iZiI6MTczNDM0MDc0MCwicGF0aCI6Ii91LzIzMDU4MSJ9.dC3_DEx4pldWhtulekjpEf6Ik-WK5Q9gT4nMXUBA3N4&s=72&u=e668de27b9e0cd2d92b0ea16c4729bc73ce5ad6f&v=4" width="24" alt="Avatar of Pathoschild"/> Pathoschild
 			</a><br/>
 			Jesse PlamondonWillard
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Montral Canada</td>
-		<td>1836</td>
-		<td>1918</td>
+		<td>1837</td>
+		<td>1919</td>
 	</tr>
 	<tr>
 		<td>108</td>
 		<td>
 			<a target="_blank" href="https://github.com/isovector">
-				<img src="https://private-avatars.githubusercontent.com/u/307223?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ4NjAsIm5iZiI6MTczNDMwMzY2MCwicGF0aCI6Ii91LzMwNzIyMyJ9.NwB9R1HIqgrGA2MGFAVz5ScFmpVkVOtoMzQb1TmIyhY&s=72&u=d5b2df03e7798a42d94a0ff461d6b2689d33d3ca&v=4" width="24" alt="Avatar of isovector"/> isovector
+				<img src="https://private-avatars.githubusercontent.com/u/307223?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3NjAsIm5iZiI6MTczNDM0MDU2MCwicGF0aCI6Ii91LzMwNzIyMyJ9.PqiLTKAgmNuQpR6be2CTS2UfDpaPlXNIyflP28DgvFg&s=72&u=d5b2df03e7798a42d94a0ff461d6b2689d33d3ca&v=4" width="24" alt="Avatar of isovector"/> isovector
 			</a><br/>
 			Sandy Maguire
 		</td>
@@ -1620,13 +1620,13 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Vancouver BC</td>
 		<td>259</td>
-		<td>1915</td>
+		<td>1916</td>
 	</tr>
 	<tr>
 		<td>109</td>
 		<td>
 			<a target="_blank" href="https://github.com/packagethief">
-				<img src="https://private-avatars.githubusercontent.com/u/10987?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91LzEwOTg3In0.xroe-PXh0P1VP9Lf_GNLvdSXhudj-DYf_RkcocFFKMg&s=72&u=ea711bdc616f488d18dfb088bd527a3e5b0c892c&v=4" width="24" alt="Avatar of packagethief"/> packagethief
+				<img src="https://private-avatars.githubusercontent.com/u/10987?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIyNDAsIm5iZiI6MTczNDM0MTA0MCwicGF0aCI6Ii91LzEwOTg3In0.kJLZLpj5WYeONCY7CyVno-lKv80orJ4mPzPKHOZ4QRg&s=72&u=ea711bdc616f488d18dfb088bd527a3e5b0c892c&v=4" width="24" alt="Avatar of packagethief"/> packagethief
 			</a><br/>
 			Jeffrey Hardy
 		</td>
@@ -1640,21 +1640,21 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>110</td>
 		<td>
 			<a target="_blank" href="https://github.com/cmyr">
-				<img src="https://private-avatars.githubusercontent.com/u/3330916?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3NjAsIm5iZiI6MTczNDMwNDU2MCwicGF0aCI6Ii91LzMzMzA5MTYifQ.rb6rL03-cLQW6XwNhNeUK-F1EHJ3sKtLSoj1-8AsB0g&s=72&u=a6b6e431ffe56dc82ab524a3576dd9648d5543ce&v=4" width="24" alt="Avatar of cmyr"/> cmyr
+				<img src="https://private-avatars.githubusercontent.com/u/3330916?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3NjAsIm5iZiI6MTczNDM0MDU2MCwicGF0aCI6Ii91LzMzMzA5MTYifQ.3LSvgSeJTRcb324wj4f6xr2piR-Pm5KE-o3yW3cgiYM&s=72&u=a6b6e431ffe56dc82ab524a3576dd9648d5543ce&v=4" width="24" alt="Avatar of cmyr"/> cmyr
 			</a><br/>
 			Colin Rofls
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Montreal</td>
-		<td>1861</td>
-		<td>1898</td>
+		<td>1871</td>
+		<td>1908</td>
 	</tr>
 	<tr>
 		<td>111</td>
 		<td>
 			<a target="_blank" href="https://github.com/jb55">
-				<img src="https://private-avatars.githubusercontent.com/u/45598?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0NjAsIm5iZiI6MTczNDMwNDI2MCwicGF0aCI6Ii91LzQ1NTk4In0.0We7EMkSBoUXLaYLOG4xqKySI140pwQmhHAlI1Eb9nI&s=72&u=2ba2cccaa0fd357b363507ce5694ce3cf5e56220&v=4" width="24" alt="Avatar of jb55"/> jb55
+				<img src="https://private-avatars.githubusercontent.com/u/45598?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0NjAsIm5iZiI6MTczNDM0MDI2MCwicGF0aCI6Ii91LzQ1NTk4In0.SxgtEok18k8qeAEMvsNc7DphZtjf4tP6x_s-bmOobMo&s=72&u=2ba2cccaa0fd357b363507ce5694ce3cf5e56220&v=4" width="24" alt="Avatar of jb55"/> jb55
 			</a><br/>
 			William Casarin
 		</td>
@@ -1668,7 +1668,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>112</td>
 		<td>
 			<a target="_blank" href="https://github.com/hugoabernier">
-				<img src="https://private-avatars.githubusercontent.com/u/13972467?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3NjAsIm5iZiI6MTczNDMwNDU2MCwicGF0aCI6Ii91LzEzOTcyNDY3In0.eguhnpTyZGqSk_cHxVJ3XjH48JlPkGJkxg_JybJQlQs&s=72&u=c2aa972ef5246fe4998740fb800c20b68d0cd1cd&v=4" width="24" alt="Avatar of hugoabernier"/> hugoabernier
+				<img src="https://private-avatars.githubusercontent.com/u/13972467?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3NjAsIm5iZiI6MTczNDM0MDU2MCwicGF0aCI6Ii91LzEzOTcyNDY3In0.vXo7VocCT1LzxEC4AsYAkcnifS8ziL5yd6lJUbB63mo&s=72&u=c2aa972ef5246fe4998740fb800c20b68d0cd1cd&v=4" width="24" alt="Avatar of hugoabernier"/> hugoabernier
 			</a><br/>
 			Hugo Bernier
 		</td>
@@ -1682,7 +1682,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>113</td>
 		<td>
 			<a target="_blank" href="https://github.com/kbond">
-				<img src="https://private-avatars.githubusercontent.com/u/127811?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91LzEyNzgxMSJ9.ERd7UNe-FR5mzB0XmjIESfqXH1M9eLT5z6CYrj_Pr0o&s=72&u=ab979e397cdffb424621cd75b8b2f25b92e314d1&v=4" width="24" alt="Avatar of kbond"/> kbond
+				<img src="https://private-avatars.githubusercontent.com/u/127811?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIyNDAsIm5iZiI6MTczNDM0MTA0MCwicGF0aCI6Ii91LzEyNzgxMSJ9.tatXu08up1Dw8-1_Iam5feD3WBPx5_J_H9nlbGL0q_Y&s=72&u=ab979e397cdffb424621cd75b8b2f25b92e314d1&v=4" width="24" alt="Avatar of kbond"/> kbond
 			</a><br/>
 			Kevin Bond
 		</td>
@@ -1696,7 +1696,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>114</td>
 		<td>
 			<a target="_blank" href="https://github.com/ahmedfgad">
-				<img src="https://private-avatars.githubusercontent.com/u/16560492?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1MjAsIm5iZiI6MTczNDMwNDMyMCwicGF0aCI6Ii91LzE2NTYwNDkyIn0.JpwCYYlQuSJGKl5-gsm_pAAfrxPgZJyBLdsnCavPh3k&s=72&u=33349af2d2515c3059934a704dabbe68d062e5fb&v=4" width="24" alt="Avatar of ahmedfgad"/> ahmedfgad
+				<img src="https://private-avatars.githubusercontent.com/u/16560492?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1MjAsIm5iZiI6MTczNDM0MDMyMCwicGF0aCI6Ii91LzE2NTYwNDkyIn0.GEbggS4Ga4UPb_BDNGCW3jpurXvn62ehopEdZW7m8ZY&s=72&u=33349af2d2515c3059934a704dabbe68d062e5fb&v=4" width="24" alt="Avatar of ahmedfgad"/> ahmedfgad
 			</a><br/>
 			Ahmed Gad
 		</td>
@@ -1704,13 +1704,27 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td><a target="_blank" href="https://twitter.com/ahmedfgad">ahmedfgad</a></td>
 		<td>Ottawa ON Canada</td>
 		<td>100</td>
-		<td>1864</td>
+		<td>1865</td>
 	</tr>
 	<tr>
 		<td>115</td>
 		<td>
+			<a target="_blank" href="https://github.com/NGPixel">
+				<img src="https://private-avatars.githubusercontent.com/u/15522395?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEzNDAsIm5iZiI6MTczNDM0MDE0MCwicGF0aCI6Ii91LzE1NTIyMzk1In0.H3L4GaIbsL1I1Gy-3d-XKGRiVGDmvR47-vUK57zEmNs&s=72&u=b6f9816a89982b9fa0ec2341d8b08c24812185e4&v=4" width="24" alt="Avatar of NGPixel"/> NGPixel
+			</a><br/>
+			Nicolas Giard
+		</td>
+		<td>@ietf @ietftools @ietfllc @requarks<br/></td>
+		<td><a target="_blank" href="https://twitter.com/requarks">requarks</a></td>
+		<td>Montreal Canada</td>
+		<td>836</td>
+		<td>1842</td>
+	</tr>
+	<tr>
+		<td>116</td>
+		<td>
 			<a target="_blank" href="https://github.com/MarshallOfSound">
-				<img src="https://private-avatars.githubusercontent.com/u/6634592?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ4NjAsIm5iZiI6MTczNDMwMzY2MCwicGF0aCI6Ii91LzY2MzQ1OTIifQ.9n9yG6ptJl7NX6OSVF8VF2BSeuwYdWY4KdUyw8bn5rs&s=72&u=f7a1038535fa196b4d85d0ba324f3e379738d45c&v=4" width="24" alt="Avatar of MarshallOfSound"/> MarshallOfSound
+				<img src="https://private-avatars.githubusercontent.com/u/6634592?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDA4NjAsIm5iZiI6MTczNDMzOTY2MCwicGF0aCI6Ii91LzY2MzQ1OTIifQ.cR5PU5d3VIL8WI42Bwp_SJ1HCgbP75ug224L7RogKic&s=72&u=f7a1038535fa196b4d85d0ba324f3e379738d45c&v=4" width="24" alt="Avatar of MarshallOfSound"/> MarshallOfSound
 			</a><br/>
 			Samuel Attard
 		</td>
@@ -1721,24 +1735,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>1839</td>
 	</tr>
 	<tr>
-		<td>116</td>
-		<td>
-			<a target="_blank" href="https://github.com/NGPixel">
-				<img src="https://private-avatars.githubusercontent.com/u/15522395?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91LzE1NTIyMzk1In0.0mszvIeZLdJVa0627j53QmT2_QZbtDzjUd879OE_3Hk&s=72&u=b6f9816a89982b9fa0ec2341d8b08c24812185e4&v=4" width="24" alt="Avatar of NGPixel"/> NGPixel
-			</a><br/>
-			Nicolas Giard
-		</td>
-		<td>@ietf @ietftools @ietfllc @requarks<br/></td>
-		<td><a target="_blank" href="https://twitter.com/requarks">requarks</a></td>
-		<td>Montreal Canada</td>
-		<td>836</td>
-		<td>1838</td>
-	</tr>
-	<tr>
 		<td>117</td>
 		<td>
 			<a target="_blank" href="https://github.com/StevenBlack">
-				<img src="https://private-avatars.githubusercontent.com/u/80144?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyODAsIm5iZiI6MTczNDMwNDA4MCwicGF0aCI6Ii91LzgwMTQ0In0.Hxa6pF0tiKCHBI7tEZxf5KUiWvX1H02D8a9_z3vCaZU&s=72&u=115ad569cf1e49f64172984ac813e16f45976ed1&v=4" width="24" alt="Avatar of StevenBlack"/> StevenBlack
+				<img src="https://private-avatars.githubusercontent.com/u/80144?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyODAsIm5iZiI6MTczNDM0MDA4MCwicGF0aCI6Ii91LzgwMTQ0In0.7yhlRbVDqObNHtpNW9Mr1RCS-wBD-mUkI7bODLD-Q7U&s=72&u=115ad569cf1e49f64172984ac813e16f45976ed1&v=4" width="24" alt="Avatar of StevenBlack"/> StevenBlack
 			</a><br/>
 			Steven Black
 		</td>
@@ -1752,7 +1752,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>118</td>
 		<td>
 			<a target="_blank" href="https://github.com/swalkinshaw">
-				<img src="https://private-avatars.githubusercontent.com/u/295605?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4MjAsIm5iZiI6MTczNDMwNDYyMCwicGF0aCI6Ii91LzI5NTYwNSJ9.GJjtO67G18b9BaLW1oRvc4zl50cwEfxpzJ9HQVvL328&s=72&v=4" width="24" alt="Avatar of swalkinshaw"/> swalkinshaw
+				<img src="https://private-avatars.githubusercontent.com/u/295605?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4MjAsIm5iZiI6MTczNDM0MDYyMCwicGF0aCI6Ii91LzI5NTYwNSJ9.xg8XAA02wvEV8MCOWiqUg2smzCUouFfp3PSsiRTwGJ4&s=72&v=4" width="24" alt="Avatar of swalkinshaw"/> swalkinshaw
 			</a><br/>
 			Scott Walkinshaw
 		</td>
@@ -1766,7 +1766,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>119</td>
 		<td>
 			<a target="_blank" href="https://github.com/tbakerx">
-				<img src="https://private-avatars.githubusercontent.com/u/22460757?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyMjAsIm5iZiI6MTczNDMwNDAyMCwicGF0aCI6Ii91LzIyNDYwNzU3In0.3g8aEDFOsXZNYE2RgaLnqQwqKc9-uUDBeF2blvhM-8s&s=72&u=e484dce77f75c6182b448d29511a83a4818c49ae&v=4" width="24" alt="Avatar of tbakerx"/> tbakerx
+				<img src="https://private-avatars.githubusercontent.com/u/22460757?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyMjAsIm5iZiI6MTczNDM0MDAyMCwicGF0aCI6Ii91LzIyNDYwNzU3In0.RKocYKDkAcY2t2EhTYSkkw8Bzl5P7UBuy0S0gGxlvkE&s=72&u=e484dce77f75c6182b448d29511a83a4818c49ae&v=4" width="24" alt="Avatar of tbakerx"/> tbakerx
 			</a><br/>
 			Tim Baker
 		</td>
@@ -1780,7 +1780,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>120</td>
 		<td>
 			<a target="_blank" href="https://github.com/tdhock">
-				<img src="https://private-avatars.githubusercontent.com/u/932850?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxMDAsIm5iZiI6MTczNDMwMzkwMCwicGF0aCI6Ii91LzkzMjg1MCJ9.IL-r3wqNCOpOskTPmNhERx0z3wuyps2LE8cJy7eD6Fo&s=72&u=7bc9737cadf2fb8529ff1f0a00102ed26f53537c&v=4" width="24" alt="Avatar of tdhock"/> tdhock
+				<img src="https://private-avatars.githubusercontent.com/u/932850?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIwMDAsIm5iZiI6MTczNDM0MDgwMCwicGF0aCI6Ii91LzkzMjg1MCJ9.KMj-Oz0on72qi5oj28lG2o8iRslT8ptx5b4gcHv8_cw&s=72&u=7bc9737cadf2fb8529ff1f0a00102ed26f53537c&v=4" width="24" alt="Avatar of tdhock"/> tdhock
 			</a><br/>
 			Toby Dylan Hocking
 		</td>
@@ -1794,7 +1794,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>121</td>
 		<td>
 			<a target="_blank" href="https://github.com/chris1111">
-				<img src="https://private-avatars.githubusercontent.com/u/6248794?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1MjAsIm5iZiI6MTczNDMwNDMyMCwicGF0aCI6Ii91LzYyNDg3OTQifQ.o5mi85Z_CpyJktrVGbIjbmObfJE2Lad-9ZWaJHIAL4Q&s=72&u=d4241abb102341c71f431c8568ecbd6a9478b4d9&v=4" width="24" alt="Avatar of chris1111"/> chris1111
+				<img src="https://private-avatars.githubusercontent.com/u/6248794?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1MjAsIm5iZiI6MTczNDM0MDMyMCwicGF0aCI6Ii91LzYyNDg3OTQifQ.hM5pjkt1l5MZKNOwHWGoLySdEDLGbNpPUn36dPjNQE0&s=72&u=d4241abb102341c71f431c8568ecbd6a9478b4d9&v=4" width="24" alt="Avatar of chris1111"/> chris1111
 			</a><br/>
 			chris1111
 		</td>
@@ -1808,21 +1808,21 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>122</td>
 		<td>
 			<a target="_blank" href="https://github.com/jasonkuhrt">
-				<img src="https://private-avatars.githubusercontent.com/u/284476?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4ODAsIm5iZiI6MTczNDMwNDY4MCwicGF0aCI6Ii91LzI4NDQ3NiJ9.dDlfHKXxZ4TxKHVGMLlwsiOxhhpUzekQUK3lxFiZVX0&s=72&u=1b5758a2e8cd0c4120ae40794d7c10cf90821c4b&v=4" width="24" alt="Avatar of jasonkuhrt"/> jasonkuhrt
+				<img src="https://private-avatars.githubusercontent.com/u/284476?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4ODAsIm5iZiI6MTczNDM0MDY4MCwicGF0aCI6Ii91LzI4NDQ3NiJ9.BRFq6DzFca12_kbcZFS28AN-_SdRbHc9XFMlf-6-gFs&s=72&u=1b5758a2e8cd0c4120ae40794d7c10cf90821c4b&v=4" width="24" alt="Avatar of jasonkuhrt"/> jasonkuhrt
 			</a><br/>
 			Jason Kuhrt
 		</td>
 		<td>@theguildorg </td>
 		<td><a target="_blank" href="https://twitter.com/JasonKuhrt">JasonKuhrt</a></td>
 		<td>Montreal</td>
-		<td>852</td>
-		<td>1789</td>
+		<td>853</td>
+		<td>1790</td>
 	</tr>
 	<tr>
 		<td>123</td>
 		<td>
 			<a target="_blank" href="https://github.com/Mossaka">
-				<img src="https://private-avatars.githubusercontent.com/u/5447827?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4MjAsIm5iZiI6MTczNDMwNDYyMCwicGF0aCI6Ii91LzU0NDc4MjcifQ.O_0xW7UBqg3r-uo4-jwiWEghhcWjogKAnYEWnHx95xA&s=72&u=72548ec44aab2e20f15d58cbe852676aad8d9331&v=4" width="24" alt="Avatar of Mossaka"/> Mossaka
+				<img src="https://private-avatars.githubusercontent.com/u/5447827?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4MjAsIm5iZiI6MTczNDM0MDYyMCwicGF0aCI6Ii91LzU0NDc4MjcifQ.QEQtD_A02mnaLWnXRebHeHong3HRYFBg3Y_7IKJyW6g&s=72&u=72548ec44aab2e20f15d58cbe852676aad8d9331&v=4" width="24" alt="Avatar of Mossaka"/> Mossaka
 			</a><br/>
 			Jiaxiao Zhou
 		</td>
@@ -1836,7 +1836,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>124</td>
 		<td>
 			<a target="_blank" href="https://github.com/shadeemerhi">
-				<img src="https://private-avatars.githubusercontent.com/u/65373763?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDYwNjAsIm5iZiI6MTczNDMwNDg2MCwicGF0aCI6Ii91LzY1MzczNzYzIn0.HgruP5VnxsFzsCA0bKrnZ3cZ8HCRjCXHIuVhJhOBvp8&s=72&u=10dac095588cfa5c8d4dcfc3f6ecac209c537565&v=4" width="24" alt="Avatar of shadeemerhi"/> shadeemerhi
+				<img src="https://private-avatars.githubusercontent.com/u/65373763?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIwNjAsIm5iZiI6MTczNDM0MDg2MCwicGF0aCI6Ii91LzY1MzczNzYzIn0.hRRRnf34tmIsXqLMdP4i2mBsD32MVG15OhAquLY4MhE&s=72&u=10dac095588cfa5c8d4dcfc3f6ecac209c537565&v=4" width="24" alt="Avatar of shadeemerhi"/> shadeemerhi
 			</a><br/>
 			Shadee Merhi
 		</td>
@@ -1850,7 +1850,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>125</td>
 		<td>
 			<a target="_blank" href="https://github.com/johanbrandhorst">
-				<img src="https://private-avatars.githubusercontent.com/u/6604151?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUwNDAsIm5iZiI6MTczNDMwMzg0MCwicGF0aCI6Ii91LzY2MDQxNTEifQ.ObQGv7RHl3L98-qB8BXJlq1SgG92wJLR8khQf4PXj3k&s=72&u=e6a6ad4017e0722b2db498bbc80a55078d8f77f5&v=4" width="24" alt="Avatar of johanbrandhorst"/> johanbrandhorst
+				<img src="https://private-avatars.githubusercontent.com/u/6604151?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEwNDAsIm5iZiI6MTczNDMzOTg0MCwicGF0aCI6Ii91LzY2MDQxNTEifQ.4_WYDaOjUA5SJm2UlqgR_pzBqj6WR-5bk38b9Fe1ilQ&s=72&u=e6a6ad4017e0722b2db498bbc80a55078d8f77f5&v=4" width="24" alt="Avatar of johanbrandhorst"/> johanbrandhorst
 			</a><br/>
 			Johan BrandhorstSatzkorn
 		</td>
@@ -1864,7 +1864,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>126</td>
 		<td>
 			<a target="_blank" href="https://github.com/brentvatne">
-				<img src="https://private-avatars.githubusercontent.com/u/90494?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1MjAsIm5iZiI6MTczNDMwNDMyMCwicGF0aCI6Ii91LzkwNDk0In0.fk0dz9DwrRo0gAEJdCyuoUWyKXmkC66N3PBXHVn5WvY&s=72&u=a7ad2e06021c9547dcf8638a6a38ccc93a76b6fe&v=4" width="24" alt="Avatar of brentvatne"/> brentvatne
+				<img src="https://private-avatars.githubusercontent.com/u/90494?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1MjAsIm5iZiI6MTczNDM0MDMyMCwicGF0aCI6Ii91LzkwNDk0In0.fd-p0E4Nz9NhdYPIDBuyUxgqYXzlldbJPAshLMjsG9o&s=72&u=a7ad2e06021c9547dcf8638a6a38ccc93a76b6fe&v=4" width="24" alt="Avatar of brentvatne"/> brentvatne
 			</a><br/>
 			Brent Vatne
 		</td>
@@ -1878,7 +1878,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>127</td>
 		<td>
 			<a target="_blank" href="https://github.com/TylerBarnes">
-				<img src="https://private-avatars.githubusercontent.com/u/14190743?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyODAsIm5iZiI6MTczNDMwNDA4MCwicGF0aCI6Ii91LzE0MTkwNzQzIn0.xvp5Ng-IWVjFuL5XboM2lHt4t-TD3VilKuoyU_CAsUs&s=72&u=ae435bcf9332c361caec8dc2883e9b32451e6419&v=4" width="24" alt="Avatar of TylerBarnes"/> TylerBarnes
+				<img src="https://private-avatars.githubusercontent.com/u/14190743?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIxODAsIm5iZiI6MTczNDM0MDk4MCwicGF0aCI6Ii91LzE0MTkwNzQzIn0.a1LsOYGbfiBCphPjE5IK2Af2bjGfz4ZBfGDLj2n6cQA&s=72&u=ae435bcf9332c361caec8dc2883e9b32451e6419&v=4" width="24" alt="Avatar of TylerBarnes"/> TylerBarnes
 			</a><br/>
 			Tyler Barnes
 		</td>
@@ -1892,7 +1892,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>128</td>
 		<td>
 			<a target="_blank" href="https://github.com/xhluca">
-				<img src="https://private-avatars.githubusercontent.com/u/21180505?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU2NDAsIm5iZiI6MTczNDMwNDQ0MCwicGF0aCI6Ii91LzIxMTgwNTA1In0.Q20Lnd2eBaWSGKQ4hqYAcCBqUFpBCYgt1TGmsxGoskg&s=72&u=e4820b2077cf9349c1543d7b642f13cc28572a25&v=4" width="24" alt="Avatar of xhluca"/> xhluca
+				<img src="https://private-avatars.githubusercontent.com/u/21180505?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE2NDAsIm5iZiI6MTczNDM0MDQ0MCwicGF0aCI6Ii91LzIxMTgwNTA1In0.ZBxvUopJcVI1TATCMbY4ALOH60dIgDSNnMKdFBqxmYY&s=72&u=e4820b2077cf9349c1543d7b642f13cc28572a25&v=4" width="24" alt="Avatar of xhluca"/> xhluca
 			</a><br/>
 			Xing Han Lu
 		</td>
@@ -1906,7 +1906,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>129</td>
 		<td>
 			<a target="_blank" href="https://github.com/swankjesse">
-				<img src="https://private-avatars.githubusercontent.com/u/133019?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0NjAsIm5iZiI6MTczNDMwNDI2MCwicGF0aCI6Ii91LzEzMzAxOSJ9.YsEwvQ4DrRyrXlRcWbQy78h1uNvso67MzcQI-4C5P20&s=72&u=e74de21cd4a2948b635fcc48cf7b2f4957263915&v=4" width="24" alt="Avatar of swankjesse"/> swankjesse
+				<img src="https://private-avatars.githubusercontent.com/u/133019?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0NjAsIm5iZiI6MTczNDM0MDI2MCwicGF0aCI6Ii91LzEzMzAxOSJ9.Jh0T-A46ZX6jc84kzRtlbyr3RBNBuRZ83ffeS74JzBY&s=72&u=e74de21cd4a2948b635fcc48cf7b2f4957263915&v=4" width="24" alt="Avatar of swankjesse"/> swankjesse
 			</a><br/>
 			Jesse Wilson
 		</td>
@@ -1920,7 +1920,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>130</td>
 		<td>
 			<a target="_blank" href="https://github.com/DylanVann">
-				<img src="https://private-avatars.githubusercontent.com/u/1537615?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUwNDAsIm5iZiI6MTczNDMwMzg0MCwicGF0aCI6Ii91LzE1Mzc2MTUifQ.5ux4ScJ_V5KGGklx6Jq2YPB4XB3adeIglEl0fLXjTtc&s=72&u=9f590e560da039c8b04218a65351ea0c9082a665&v=4" width="24" alt="Avatar of DylanVann"/> DylanVann
+				<img src="https://private-avatars.githubusercontent.com/u/1537615?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE5NDAsIm5iZiI6MTczNDM0MDc0MCwicGF0aCI6Ii91LzE1Mzc2MTUifQ.sW6CZ8zYtvf9bFqBQfaXfiLYnptR3Vqd0wlYWwj70QM&s=72&u=9f590e560da039c8b04218a65351ea0c9082a665&v=4" width="24" alt="Avatar of DylanVann"/> DylanVann
 			</a><br/>
 			Dylan Vann
 		</td>
@@ -1934,21 +1934,21 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>131</td>
 		<td>
 			<a target="_blank" href="https://github.com/seananderson">
-				<img src="https://private-avatars.githubusercontent.com/u/19349?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1MjAsIm5iZiI6MTczNDMwNDMyMCwicGF0aCI6Ii91LzE5MzQ5In0.Q2lzl8Sqf-XSEXi2paeXUtQsacHyc-2mWOlKTf8wJdE&s=72&u=221569efae84b1c78619c1e3fabb07f41eee2eae&v=4" width="24" alt="Avatar of seananderson"/> seananderson
+				<img src="https://private-avatars.githubusercontent.com/u/19349?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1MjAsIm5iZiI6MTczNDM0MDMyMCwicGF0aCI6Ii91LzE5MzQ5In0.zM1eP4jYHcTVYiRXYe9uFDcn8R4zdKBaXCjFqIlvFL4&s=72&u=221569efae84b1c78619c1e3fabb07f41eee2eae&v=4" width="24" alt="Avatar of seananderson"/> seananderson
 			</a><br/>
 			Sean Anderson
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Nanaimo BC Canada</td>
-		<td>1490</td>
-		<td>1694</td>
+		<td>1492</td>
+		<td>1696</td>
 	</tr>
 	<tr>
 		<td>132</td>
 		<td>
 			<a target="_blank" href="https://github.com/ruby0x1">
-				<img src="https://private-avatars.githubusercontent.com/u/236374?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxNjAsIm5iZiI6MTczNDMwMzk2MCwicGF0aCI6Ii91LzIzNjM3NCJ9.Kadul0zRu2kaItp0slxPO_B-M2sQLPbEyHNAm0jNqYQ&s=72&u=bfa60f0fd2397ddd1a845b665328125e995bc8f3&v=4" width="24" alt="Avatar of ruby0x1"/> ruby0x1
+				<img src="https://private-avatars.githubusercontent.com/u/236374?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDExNjAsIm5iZiI6MTczNDMzOTk2MCwicGF0aCI6Ii91LzIzNjM3NCJ9.5a_wtQfpuLW5fVm389NLON_Zz484i7yV0Ax3qONvyzo&s=72&u=bfa60f0fd2397ddd1a845b665328125e995bc8f3&v=4" width="24" alt="Avatar of ruby0x1"/> ruby0x1
 			</a><br/>
 			ruby
 		</td>
@@ -1956,13 +1956,13 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td><a target="_blank" href="https://twitter.com/ruby0x1">ruby0x1</a></td>
 		<td>Vancouver Canada</td>
 		<td>1</td>
-		<td>1690</td>
+		<td>1692</td>
 	</tr>
 	<tr>
 		<td>133</td>
 		<td>
 			<a target="_blank" href="https://github.com/bonedaddy">
-				<img src="https://private-avatars.githubusercontent.com/u/17089485?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3NjAsIm5iZiI6MTczNDMwNDU2MCwicGF0aCI6Ii91LzE3MDg5NDg1In0.qXAwzv5ouzYA0kFqab4PSDjQKLFLZYpXFOV2GpShCKU&s=72&u=653af3e5c6aaa38a9618ed5fd6001bed6b42598f&v=4" width="24" alt="Avatar of bonedaddy"/> bonedaddy
+				<img src="https://private-avatars.githubusercontent.com/u/17089485?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3NjAsIm5iZiI6MTczNDM0MDU2MCwicGF0aCI6Ii91LzE3MDg5NDg1In0.iyY6tXa6wQjpAA1fp0hlfPzs9lD8JOnYFoJoI9XES8c&s=72&u=653af3e5c6aaa38a9618ed5fd6001bed6b42598f&v=4" width="24" alt="Avatar of bonedaddy"/> bonedaddy
 			</a><br/>
 			bonedaddy
 		</td>
@@ -1970,27 +1970,27 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td><a target="_blank" href="https://twitter.com/bonehead127">bonehead127</a></td>
 		<td>Canada</td>
 		<td>439</td>
-		<td>1674</td>
+		<td>1676</td>
 	</tr>
 	<tr>
 		<td>134</td>
 		<td>
 			<a target="_blank" href="https://github.com/hannorein">
-				<img src="https://private-avatars.githubusercontent.com/u/53376?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1ODAsIm5iZiI6MTczNDMwNDM4MCwicGF0aCI6Ii91LzUzMzc2In0.MaW68YEcDjSOsSk2OoDO7zHs6dmxH5-hplI15eURbng&s=72&u=55da8c0f916e67d7705874f1aec82327b6f9092c&v=4" width="24" alt="Avatar of hannorein"/> hannorein
+				<img src="https://private-avatars.githubusercontent.com/u/53376?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1ODAsIm5iZiI6MTczNDM0MDM4MCwicGF0aCI6Ii91LzUzMzc2In0.vm89-v3OLu-iKht3zbgHfEKJunSRMX2gJUwrzgnoOMM&s=72&u=55da8c0f916e67d7705874f1aec82327b6f9092c&v=4" width="24" alt="Avatar of hannorein"/> hannorein
 			</a><br/>
 			Hanno Rein
 		</td>
 		<td>University Of Toronto </td>
 		<td>No Twitter Username</td>
 		<td>Toronto</td>
-		<td>1669</td>
-		<td>1669</td>
+		<td>1673</td>
+		<td>1673</td>
 	</tr>
 	<tr>
 		<td>135</td>
 		<td>
 			<a target="_blank" href="https://github.com/scottschiller">
-				<img src="https://private-avatars.githubusercontent.com/u/174437?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyODAsIm5iZiI6MTczNDMwNDA4MCwicGF0aCI6Ii91LzE3NDQzNyJ9.xcg00JJ4LzpD9tCjT-_jeYd2wUX_BfgaxEfKousQR-o&s=72&v=4" width="24" alt="Avatar of scottschiller"/> scottschiller
+				<img src="https://private-avatars.githubusercontent.com/u/174437?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyODAsIm5iZiI6MTczNDM0MDA4MCwicGF0aCI6Ii91LzE3NDQzNyJ9.fZlUMEMAicniIuTqVnxoqQ_Xl7JvfX8avzgyMk0QOW0&s=72&v=4" width="24" alt="Avatar of scottschiller"/> scottschiller
 			</a><br/>
 			Scott Schiller
 		</td>
@@ -2004,7 +2004,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>136</td>
 		<td>
 			<a target="_blank" href="https://github.com/reunono">
-				<img src="https://private-avatars.githubusercontent.com/u/2212831?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU2NDAsIm5iZiI6MTczNDMwNDQ0MCwicGF0aCI6Ii91LzIyMTI4MzEifQ._46ztRh1cCQaGmMlWxbdosktvvqRPCQwl53JFl6ZU8Q&s=72&u=df0f0d5df7470ebe85a29cc67e4a0ca98e6ac587&v=4" width="24" alt="Avatar of reunono"/> reunono
+				<img src="https://private-avatars.githubusercontent.com/u/2212831?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE2NDAsIm5iZiI6MTczNDM0MDQ0MCwicGF0aCI6Ii91LzIyMTI4MzEifQ.XjLB9bqqiq29i24Oxj5UUZXUcXUF8ssL0ebSTq9ZelI&s=72&u=df0f0d5df7470ebe85a29cc67e4a0ca98e6ac587&v=4" width="24" alt="Avatar of reunono"/> reunono
 			</a><br/>
 			Renaud Foresti
 		</td>
@@ -2018,7 +2018,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>137</td>
 		<td>
 			<a target="_blank" href="https://github.com/eni4sure">
-				<img src="https://private-avatars.githubusercontent.com/u/52782730?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1ODAsIm5iZiI6MTczNDMwNDM4MCwicGF0aCI6Ii91LzUyNzgyNzMwIn0.PluUGQ7f6yJd66_8qXi8RI7azZeD-BYTcaadhLq1Ym0&s=72&u=6f6ed8a1c7307b7ee44f7ec698681a4837afbd25&v=4" width="24" alt="Avatar of eni4sure"/> eni4sure
+				<img src="https://private-avatars.githubusercontent.com/u/52782730?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1ODAsIm5iZiI6MTczNDM0MDM4MCwicGF0aCI6Ii91LzUyNzgyNzMwIn0.hAVluaOCbdwkyB3vyg5nxaa3NfnTFnD_vDj8Ut4ngr0&s=72&u=6f6ed8a1c7307b7ee44f7ec698681a4837afbd25&v=4" width="24" alt="Avatar of eni4sure"/> eni4sure
 			</a><br/>
 			Eniola Osabiya
 		</td>
@@ -2031,8 +2031,22 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 	<tr>
 		<td>138</td>
 		<td>
+			<a target="_blank" href="https://github.com/codereport">
+				<img src="https://private-avatars.githubusercontent.com/u/36027403?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0MDAsIm5iZiI6MTczNDM0MDIwMCwicGF0aCI6Ii91LzM2MDI3NDAzIn0.HxVeE7VPnJ0FGFYnRDPK8gQLW7-WMEcavDoJ2muc7Ec&s=72&u=a16ca26c1fd8e11c1f61013954248b15204d1835&v=4" width="24" alt="Avatar of codereport"/> codereport
+			</a><br/>
+			Conor Hoekstra
+		</td>
+		<td>Nvidia </td>
+		<td><a target="_blank" href="https://twitter.com/code_report">code_report</a></td>
+		<td>Toronto ON</td>
+		<td>1636</td>
+		<td>1636</td>
+	</tr>
+	<tr>
+		<td>139</td>
+		<td>
 			<a target="_blank" href="https://github.com/tpoisot">
-				<img src="https://private-avatars.githubusercontent.com/u/579329?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyMjAsIm5iZiI6MTczNDMwNDAyMCwicGF0aCI6Ii91LzU3OTMyOSJ9.nRRQesVPW4IbdwCVabsLkv7_-l17FakyXdq09MLukrw&s=72&u=388caa1836ba17dcc4f731e8190faadbaae00dd1&v=4" width="24" alt="Avatar of tpoisot"/> tpoisot
+				<img src="https://private-avatars.githubusercontent.com/u/579329?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIxMjAsIm5iZiI6MTczNDM0MDkyMCwicGF0aCI6Ii91LzU3OTMyOSJ9.60wKtwBaGgPN2EaCxOtVAxBWNKd8AUexY0VkgZkUU8c&s=72&u=388caa1836ba17dcc4f731e8190faadbaae00dd1&v=4" width="24" alt="Avatar of tpoisot"/> tpoisot
 			</a><br/>
 			Timothe Poisot
 		</td>
@@ -2043,24 +2057,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>1636</td>
 	</tr>
 	<tr>
-		<td>139</td>
-		<td>
-			<a target="_blank" href="https://github.com/codereport">
-				<img src="https://private-avatars.githubusercontent.com/u/36027403?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0MDAsIm5iZiI6MTczNDMwNDIwMCwicGF0aCI6Ii91LzM2MDI3NDAzIn0.fBMpoWLRh8BWvrNaxkXwvDaA6JIQhUjTiLLAINWz6jU&s=72&u=a16ca26c1fd8e11c1f61013954248b15204d1835&v=4" width="24" alt="Avatar of codereport"/> codereport
-			</a><br/>
-			Conor Hoekstra
-		</td>
-		<td>Nvidia </td>
-		<td><a target="_blank" href="https://twitter.com/code_report">code_report</a></td>
-		<td>Toronto ON</td>
-		<td>1631</td>
-		<td>1631</td>
-	</tr>
-	<tr>
 		<td>140</td>
 		<td>
 			<a target="_blank" href="https://github.com/abetlen">
-				<img src="https://private-avatars.githubusercontent.com/u/6826477?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyODAsIm5iZiI6MTczNDMwNDA4MCwicGF0aCI6Ii91LzY4MjY0NzcifQ.9C2wOfP2KdlujxbWNlHiBjg3ThhXo2ukR8zms1vgnwA&s=72&u=cecf8f810524b371676600ef132284e6d97bacd8&v=4" width="24" alt="Avatar of abetlen"/> abetlen
+				<img src="https://private-avatars.githubusercontent.com/u/6826477?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyODAsIm5iZiI6MTczNDM0MDA4MCwicGF0aCI6Ii91LzY4MjY0NzcifQ.YNcqQbQ91cTiDgcaKD9Lbb-pGhIyeHYmonwfEdUptmI&s=72&u=cecf8f810524b371676600ef132284e6d97bacd8&v=4" width="24" alt="Avatar of abetlen"/> abetlen
 			</a><br/>
 			Andrei
 		</td>
@@ -2068,27 +2068,41 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td><a target="_blank" href="https://twitter.com/abetlen">abetlen</a></td>
 		<td>Toronto Canada</td>
 		<td>1058</td>
-		<td>1610</td>
+		<td>1612</td>
 	</tr>
 	<tr>
 		<td>141</td>
 		<td>
 			<a target="_blank" href="https://github.com/evanp">
-				<img src="https://private-avatars.githubusercontent.com/u/6770?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4MjAsIm5iZiI6MTczNDMwNDYyMCwicGF0aCI6Ii91LzY3NzAifQ.obxRMbOAdMgbWmEdN0jzDFTVfAvF_lJ0M50X2VYX7lE&s=72&u=85e683e6edf44982a2d847e6bb28c63a53fbc43e&v=4" width="24" alt="Avatar of evanp"/> evanp
+				<img src="https://private-avatars.githubusercontent.com/u/6770?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4MjAsIm5iZiI6MTczNDM0MDYyMCwicGF0aCI6Ii91LzY3NzAifQ.WcEotb52I9ikkfOvcM3rbRQfHul2roelLLJSxv6TWAo&s=72&u=85e683e6edf44982a2d847e6bb28c63a53fbc43e&v=4" width="24" alt="Avatar of evanp"/> evanp
 			</a><br/>
 			Evan Prodromou
 		</td>
 		<td>@openearthfoundation  </td>
 		<td>No Twitter Username</td>
 		<td>Montreal Quebec Canada</td>
-		<td>1560</td>
-		<td>1588</td>
+		<td>1561</td>
+		<td>1589</td>
 	</tr>
 	<tr>
 		<td>142</td>
 		<td>
+			<a target="_blank" href="https://github.com/aritchie">
+				<img src="https://private-avatars.githubusercontent.com/u/1431555?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDExMDAsIm5iZiI6MTczNDMzOTkwMCwicGF0aCI6Ii91LzE0MzE1NTUifQ.pGrDZhjboozD10oN1SeqrOORoha5wxwgszwpMkmtye4&s=72&u=24af37c5a91006cb9bd1767149eca521a3d12f30&v=4" width="24" alt="Avatar of aritchie"/> aritchie
+			</a><br/>
+			Allan Ritchie
+		</td>
+		<td>Acr Software </td>
+		<td><a target="_blank" href="https://twitter.com/allanritchie911">allanritchie911</a></td>
+		<td>Toronto Canada</td>
+		<td>1384</td>
+		<td>1585</td>
+	</tr>
+	<tr>
+		<td>143</td>
+		<td>
 			<a target="_blank" href="https://github.com/Idnan">
-				<img src="https://private-avatars.githubusercontent.com/u/6161794?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxNjAsIm5iZiI6MTczNDMwMzk2MCwicGF0aCI6Ii91LzYxNjE3OTQifQ.euqkr2DBti37VduLYx_Dn-Ftj8M4advUZ5VizGHcxGk&s=72&u=d27ad573389e23ff38e2cbdd39b99e95e6b7dc29&v=4" width="24" alt="Avatar of Idnan"/> Idnan
+				<img src="https://private-avatars.githubusercontent.com/u/6161794?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDExNjAsIm5iZiI6MTczNDMzOTk2MCwicGF0aCI6Ii91LzYxNjE3OTQifQ.eZNepqp_KOaTO4L5IpkzEZ0fjQQSkCTB-LmmFFsFyMk&s=72&u=d27ad573389e23ff38e2cbdd39b99e95e6b7dc29&v=4" width="24" alt="Avatar of Idnan"/> Idnan
 			</a><br/>
 			Adnan Ahmed
 		</td>
@@ -2099,10 +2113,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>1580</td>
 	</tr>
 	<tr>
-		<td>143</td>
+		<td>144</td>
 		<td>
 			<a target="_blank" href="https://github.com/humphd">
-				<img src="https://private-avatars.githubusercontent.com/u/427398?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ4NjAsIm5iZiI6MTczNDMwMzY2MCwicGF0aCI6Ii91LzQyNzM5OCJ9.wzkWGvsV6bXhqEFv3WSQv1fEZctURJ9OVWY04q4_SF8&s=72&u=faca4e4a8e16d7f7fc61fc9fd185df1671cb9adf&v=4" width="24" alt="Avatar of humphd"/> humphd
+				<img src="https://private-avatars.githubusercontent.com/u/427398?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3NjAsIm5iZiI6MTczNDM0MDU2MCwicGF0aCI6Ii91LzQyNzM5OCJ9.hj_OWTN-BD8ZDONHSf6oAdBVLc2ubu4fSQjsShUJ9Jc&s=72&u=faca4e4a8e16d7f7fc61fc9fd185df1671cb9adf&v=4" width="24" alt="Avatar of humphd"/> humphd
 			</a><br/>
 			David Humphrey
 		</td>
@@ -2113,24 +2127,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>1577</td>
 	</tr>
 	<tr>
-		<td>144</td>
-		<td>
-			<a target="_blank" href="https://github.com/aritchie">
-				<img src="https://private-avatars.githubusercontent.com/u/1431555?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxMDAsIm5iZiI6MTczNDMwMzkwMCwicGF0aCI6Ii91LzE0MzE1NTUifQ.4BZ-FkiRE-X167Lw2laalFtXuaTQ5tTMk4jYeChYbts&s=72&u=24af37c5a91006cb9bd1767149eca521a3d12f30&v=4" width="24" alt="Avatar of aritchie"/> aritchie
-			</a><br/>
-			Allan Ritchie
-		</td>
-		<td>Acr Software </td>
-		<td><a target="_blank" href="https://twitter.com/allanritchie911">allanritchie911</a></td>
-		<td>Toronto Canada</td>
-		<td>1375</td>
-		<td>1574</td>
-	</tr>
-	<tr>
 		<td>145</td>
 		<td>
 			<a target="_blank" href="https://github.com/trentm">
-				<img src="https://private-avatars.githubusercontent.com/u/46866?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3MDAsIm5iZiI6MTczNDMwNDUwMCwicGF0aCI6Ii91LzQ2ODY2In0.yNFE8pEx61TC3tdMwEkmrRlc4IDTgcNHxfHPkCKQ9HM&s=72&u=afeb25761d6ea39f9c7b27b44a4b9f6d74fdeadc&v=4" width="24" alt="Avatar of trentm"/> trentm
+				<img src="https://private-avatars.githubusercontent.com/u/46866?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3MDAsIm5iZiI6MTczNDM0MDUwMCwicGF0aCI6Ii91LzQ2ODY2In0.xI6OwtkVGpa405-Gs2Kx3iWfPGMKL-HEk3Cwky5Z8e8&s=72&u=afeb25761d6ea39f9c7b27b44a4b9f6d74fdeadc&v=4" width="24" alt="Avatar of trentm"/> trentm
 			</a><br/>
 			Trent Mick
 		</td>
@@ -2144,7 +2144,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>146</td>
 		<td>
 			<a target="_blank" href="https://github.com/dimitriwalters">
-				<img src="https://private-avatars.githubusercontent.com/u/1796249?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3NjAsIm5iZiI6MTczNDMwNDU2MCwicGF0aCI6Ii91LzE3OTYyNDkifQ.xtTu1suedpFBZWTUkYPn3V--pkNEC5Ap661sIuwgEbo&s=72&u=34d21a07a4286e2473d3943329e55e33857f1377&v=4" width="24" alt="Avatar of dimitriwalters"/> dimitriwalters
+				<img src="https://private-avatars.githubusercontent.com/u/1796249?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3NjAsIm5iZiI6MTczNDM0MDU2MCwicGF0aCI6Ii91LzE3OTYyNDkifQ.9kk8ZQGpi2oU8ExB3LVZLZkWq1sqpEKoXukELpecH8o&s=72&u=34d21a07a4286e2473d3943329e55e33857f1377&v=4" width="24" alt="Avatar of dimitriwalters"/> dimitriwalters
 			</a><br/>
 			Dimitri Walters
 		</td>
@@ -2158,21 +2158,21 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>147</td>
 		<td>
 			<a target="_blank" href="https://github.com/abhineet123">
-				<img src="https://private-avatars.githubusercontent.com/u/8259742?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4ODAsIm5iZiI6MTczNDMwNDY4MCwicGF0aCI6Ii91LzgyNTk3NDIifQ.4FfoY9hago5EAiOdBsNCqg_BeFtGlr57dmu5J3UVAmo&s=72&u=8edea2f3b5b302bdd11efa0e2b3001cb302d140a&v=4" width="24" alt="Avatar of abhineet123"/> abhineet123
+				<img src="https://private-avatars.githubusercontent.com/u/8259742?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4ODAsIm5iZiI6MTczNDM0MDY4MCwicGF0aCI6Ii91LzgyNTk3NDIifQ.IL2WQY37fTsHexMBXo6XTvohrUB_DyA8uBZJzbXWpB8&s=72&u=8edea2f3b5b302bdd11efa0e2b3001cb302d140a&v=4" width="24" alt="Avatar of abhineet123"/> abhineet123
 			</a><br/>
 			Abhineet Singh
 		</td>
 		<td>University Of Alberta </td>
 		<td>No Twitter Username</td>
 		<td>Edmonton</td>
-		<td>1251</td>
-		<td>1559</td>
+		<td>1252</td>
+		<td>1560</td>
 	</tr>
 	<tr>
 		<td>148</td>
 		<td>
 			<a target="_blank" href="https://github.com/marcospereira">
-				<img src="https://private-avatars.githubusercontent.com/u/4576?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0NjAsIm5iZiI6MTczNDMwNDI2MCwicGF0aCI6Ii91LzQ1NzYifQ.1bpWVvcy2oJAbHCrZzvIDEjc2_GM1fVjn4pcrdnQEAw&s=72&u=aed4410f0ca17049de01d84cb2636524993f86f6&v=4" width="24" alt="Avatar of marcospereira"/> marcospereira
+				<img src="https://private-avatars.githubusercontent.com/u/4576?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIzNjAsIm5iZiI6MTczNDM0MTE2MCwicGF0aCI6Ii91LzQ1NzYifQ.v2h-5OnJgU71MPrsRaOzsllszmFXt3BOHaJYvWTZq6I&s=72&u=aed4410f0ca17049de01d84cb2636524993f86f6&v=4" width="24" alt="Avatar of marcospereira"/> marcospereira
 			</a><br/>
 			Marcos Pereira
 		</td>
@@ -2186,7 +2186,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>149</td>
 		<td>
 			<a target="_blank" href="https://github.com/huyphams">
-				<img src="https://private-avatars.githubusercontent.com/u/3654622?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1MjAsIm5iZiI6MTczNDMwNDMyMCwicGF0aCI6Ii91LzM2NTQ2MjIifQ.E7zq5AD_-9ANQQFkQh_FubQy4c4GWYUYCs6cnCf44rE&s=72&u=a22414d0b988b8215f03b353b084854ff0cd7c59&v=4" width="24" alt="Avatar of huyphams"/> huyphams
+				<img src="https://private-avatars.githubusercontent.com/u/3654622?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1MjAsIm5iZiI6MTczNDM0MDMyMCwicGF0aCI6Ii91LzM2NTQ2MjIifQ.lV3X1yH5qngnVsgsZ8x7GG_2GG_rESgdTQPbDw28gDg&s=72&u=a22414d0b988b8215f03b353b084854ff0cd7c59&v=4" width="24" alt="Avatar of huyphams"/> huyphams
 			</a><br/>
 			Henry Pham
 		</td>
@@ -2200,7 +2200,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>150</td>
 		<td>
 			<a target="_blank" href="https://github.com/ehsanmok">
-				<img src="https://private-avatars.githubusercontent.com/u/6980212?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4MjAsIm5iZiI6MTczNDMwNDYyMCwicGF0aCI6Ii91LzY5ODAyMTIifQ.iH5nN8f3HOLKZz1B8LIxNb2KEx5EgSRkhn5DX18LaWo&s=72&u=89202482380b379837fd7318dde75a00e83d2459&v=4" width="24" alt="Avatar of ehsanmok"/> ehsanmok
+				<img src="https://private-avatars.githubusercontent.com/u/6980212?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4MjAsIm5iZiI6MTczNDM0MDYyMCwicGF0aCI6Ii91LzY5ODAyMTIifQ.XPKxnBADTRfeXSmzqU1gqvIYdci7xUYM6uHkQVBZZHs&s=72&u=89202482380b379837fd7318dde75a00e83d2459&v=4" width="24" alt="Avatar of ehsanmok"/> ehsanmok
 			</a><br/>
 			Ehsan M Kermani
 		</td>
@@ -2214,21 +2214,35 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>151</td>
 		<td>
 			<a target="_blank" href="https://github.com/shovon">
-				<img src="https://private-avatars.githubusercontent.com/u/284576?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3MDAsIm5iZiI6MTczNDMwNDUwMCwicGF0aCI6Ii91LzI4NDU3NiJ9.1pIuqv_pfmV1VcUNFd3cXuBUOyU5a4BDksdlLOq62aw&s=72&u=fdf08b31d231a423db9ad309f17dcce622ff84e6&v=4" width="24" alt="Avatar of shovon"/> shovon
+				<img src="https://private-avatars.githubusercontent.com/u/284576?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3MDAsIm5iZiI6MTczNDM0MDUwMCwicGF0aCI6Ii91LzI4NDU3NiJ9.V4MSARDPWzUlv2C1RqQAija_kICGhipX-gxfHja2YKk&s=72&u=fdf08b31d231a423db9ad309f17dcce622ff84e6&v=4" width="24" alt="Avatar of shovon"/> shovon
 			</a><br/>
 			Sal Rahman
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Surrey BC Canada</td>
-		<td>326</td>
-		<td>1529</td>
+		<td>333</td>
+		<td>1536</td>
 	</tr>
 	<tr>
 		<td>152</td>
 		<td>
+			<a target="_blank" href="https://github.com/iamnbutler">
+				<img src="https://private-avatars.githubusercontent.com/u/1714999?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyODAsIm5iZiI6MTczNDM0MDA4MCwicGF0aCI6Ii91LzE3MTQ5OTkifQ.5z2W2OcgEalA1z_nZaRpZl72-2lbqVCiUiFki1N_mPw&s=72&u=366af59bd06fb8453fe89e3885c8a60c31891a35&v=4" width="24" alt="Avatar of iamnbutler"/> iamnbutler
+			</a><br/>
+			Nate Butler
+		</td>
+		<td>@zedindustries </td>
+		<td><a target="_blank" href="https://twitter.com/iamnbutler">iamnbutler</a></td>
+		<td>Toronto</td>
+		<td>583</td>
+		<td>1530</td>
+	</tr>
+	<tr>
+		<td>153</td>
+		<td>
 			<a target="_blank" href="https://github.com/backmeupplz">
-				<img src="https://private-avatars.githubusercontent.com/u/3192028?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1ODAsIm5iZiI6MTczNDMwNDM4MCwicGF0aCI6Ii91LzMxOTIwMjgifQ.b0jWvQfvUvzSdRWcuqmsdpTHqITHR9ZDyuPsxuEMBFw&s=72&u=10d8f560ff1145b06ca9401462623c45688b96f1&v=4" width="24" alt="Avatar of backmeupplz"/> backmeupplz
+				<img src="https://private-avatars.githubusercontent.com/u/3192028?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1ODAsIm5iZiI6MTczNDM0MDM4MCwicGF0aCI6Ii91LzMxOTIwMjgifQ.3wouBaQ6S9aRBJbF0CU-K0h09sRotrxTeqfooE9zc5A&s=72&u=10d8f560ff1145b06ca9401462623c45688b96f1&v=4" width="24" alt="Avatar of backmeupplz"/> backmeupplz
 			</a><br/>
 			Nikita Kolmogorov
 		</td>
@@ -2239,24 +2253,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>1521</td>
 	</tr>
 	<tr>
-		<td>153</td>
-		<td>
-			<a target="_blank" href="https://github.com/iamnbutler">
-				<img src="https://private-avatars.githubusercontent.com/u/1714999?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyODAsIm5iZiI6MTczNDMwNDA4MCwicGF0aCI6Ii91LzE3MTQ5OTkifQ.OnPG0yPKwusQg5dJ8bzC1ooAi3mh_OPZEn_ZBShVNvg&s=72&u=366af59bd06fb8453fe89e3885c8a60c31891a35&v=4" width="24" alt="Avatar of iamnbutler"/> iamnbutler
-			</a><br/>
-			Nate Butler
-		</td>
-		<td>@zedindustries </td>
-		<td><a target="_blank" href="https://twitter.com/iamnbutler">iamnbutler</a></td>
-		<td>Toronto</td>
-		<td>572</td>
-		<td>1519</td>
-	</tr>
-	<tr>
 		<td>154</td>
 		<td>
 			<a target="_blank" href="https://github.com/joshnuss">
-				<img src="https://private-avatars.githubusercontent.com/u/4437?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUwNDAsIm5iZiI6MTczNDMwMzg0MCwicGF0aCI6Ii91LzQ0MzcifQ.YyTyIQWDaTx5M4jmUVqMIz__Xv9R1NKfgTA8927FHjc&s=72&u=f6a514f2ec8a1f9b236f9fa184e6cf84b03171bb&v=4" width="24" alt="Avatar of joshnuss"/> joshnuss
+				<img src="https://private-avatars.githubusercontent.com/u/4437?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE5NDAsIm5iZiI6MTczNDM0MDc0MCwicGF0aCI6Ii91LzQ0MzcifQ.5lY-T2z_SlBgQOzAs-qWikpI7xB_Sq3kLPvyONyiRS4&s=72&u=f6a514f2ec8a1f9b236f9fa184e6cf84b03171bb&v=4" width="24" alt="Avatar of joshnuss"/> joshnuss
 			</a><br/>
 			Joshua Nussbaum
 		</td>
@@ -2270,7 +2270,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>155</td>
 		<td>
 			<a target="_blank" href="https://github.com/Pomax">
-				<img src="https://private-avatars.githubusercontent.com/u/177243?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU2NDAsIm5iZiI6MTczNDMwNDQ0MCwicGF0aCI6Ii91LzE3NzI0MyJ9.LxnecjhEmdvk_Vnhnc2xL7I48zNq6lQ1ZFPkI9Hls1s&s=72&u=702b96ad69bf6e6823b7530dad917ab8b4d9b761&v=4" width="24" alt="Avatar of Pomax"/> Pomax
+				<img src="https://private-avatars.githubusercontent.com/u/177243?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE2NDAsIm5iZiI6MTczNDM0MDQ0MCwicGF0aCI6Ii91LzE3NzI0MyJ9.jb6fl4LbMTnOshrTGS0BnocKeQ7NjwEdxe4vgZkU3YM&s=72&u=702b96ad69bf6e6823b7530dad917ab8b4d9b761&v=4" width="24" alt="Avatar of Pomax"/> Pomax
 			</a><br/>
 			Pomax
 		</td>
@@ -2284,7 +2284,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>156</td>
 		<td>
 			<a target="_blank" href="https://github.com/CamDavidsonPilon">
-				<img src="https://private-avatars.githubusercontent.com/u/884032?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91Lzg4NDAzMiJ9.eOm7VX6flVsL_nvQwRU8jQz5tSZ1pmAToXQ9U8jflsQ&s=72&u=d30e9ef30d20c25248f5d8acad88748d1c7a314a&v=4" width="24" alt="Avatar of CamDavidsonPilon"/> CamDavidsonPilon
+				<img src="https://private-avatars.githubusercontent.com/u/884032?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEzNDAsIm5iZiI6MTczNDM0MDE0MCwicGF0aCI6Ii91Lzg4NDAzMiJ9.fYhnhqIbmE4vcEjMCq5qA7iwmZg-_57Rykn40rXJb2A&s=72&u=d30e9ef30d20c25248f5d8acad88748d1c7a314a&v=4" width="24" alt="Avatar of CamDavidsonPilon"/> CamDavidsonPilon
 			</a><br/>
 			Cameron DavidsonPilon
 		</td>
@@ -2298,7 +2298,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>157</td>
 		<td>
 			<a target="_blank" href="https://github.com/Christopher2K">
-				<img src="https://private-avatars.githubusercontent.com/u/16650656?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU2NDAsIm5iZiI6MTczNDMwNDQ0MCwicGF0aCI6Ii91LzE2NjUwNjU2In0.bK3BF0MjMVtaddoxDjrCrWfYM_f7vrvu4OMyIa20f6o&s=72&v=4" width="24" alt="Avatar of Christopher2K"/> Christopher2K
+				<img src="https://private-avatars.githubusercontent.com/u/16650656?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE2NDAsIm5iZiI6MTczNDM0MDQ0MCwicGF0aCI6Ii91LzE2NjUwNjU2In0.ewk7dZebshOKenCSHMG9ErW4pR0I1784zFBrD-qKxWI&s=72&v=4" width="24" alt="Avatar of Christopher2K"/> Christopher2K
 			</a><br/>
 			Christopher N KATOYI
 		</td>
@@ -2312,7 +2312,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>158</td>
 		<td>
 			<a target="_blank" href="https://github.com/magnologan">
-				<img src="https://private-avatars.githubusercontent.com/u/1558043?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyMjAsIm5iZiI6MTczNDMwNDAyMCwicGF0aCI6Ii91LzE1NTgwNDMifQ.cb40aMODExRfrrY2eFYPDHb3GVLiU790TgnNHENdHVY&s=72&u=5bb756eafa81243c69df1b16e66c54e777439552&v=4" width="24" alt="Avatar of magnologan"/> magnologan
+				<img src="https://private-avatars.githubusercontent.com/u/1558043?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyMjAsIm5iZiI6MTczNDM0MDAyMCwicGF0aCI6Ii91LzE1NTgwNDMifQ.9_6PeTtwKPELNJ5IMMArS3b8sQQ7x2qaT1xf2xbKGXI&s=72&u=5bb756eafa81243c69df1b16e66c54e777439552&v=4" width="24" alt="Avatar of magnologan"/> magnologan
 			</a><br/>
 			Magno Logan
 		</td>
@@ -2326,7 +2326,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>159</td>
 		<td>
 			<a target="_blank" href="https://github.com/heybereket">
-				<img src="https://private-avatars.githubusercontent.com/u/68391329?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0MDAsIm5iZiI6MTczNDMwNDIwMCwicGF0aCI6Ii91LzY4MzkxMzI5In0.CHdBZq0Md9z9w5n3dPklTpXP9yZglDyRiNRohVKaE1Y&s=72&u=b444dab44bfde2ddfeeb907c91b742ab8c954e7a&v=4" width="24" alt="Avatar of heybereket"/> heybereket
+				<img src="https://private-avatars.githubusercontent.com/u/68391329?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0MDAsIm5iZiI6MTczNDM0MDIwMCwicGF0aCI6Ii91LzY4MzkxMzI5In0.enV968aHqIywp5UzAYvVJPZaizr86YnsnB8WWK8t_oI&s=72&u=b444dab44bfde2ddfeeb907c91b742ab8c954e7a&v=4" width="24" alt="Avatar of heybereket"/> heybereket
 			</a><br/>
 			Bereket Semagn
 		</td>
@@ -2334,13 +2334,13 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td><a target="_blank" href="https://twitter.com/heybereket">heybereket</a></td>
 		<td>Toronto Canada</td>
 		<td>46</td>
-		<td>1482</td>
+		<td>1485</td>
 	</tr>
 	<tr>
 		<td>160</td>
 		<td>
 			<a target="_blank" href="https://github.com/Laisky">
-				<img src="https://private-avatars.githubusercontent.com/u/4532436?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91LzQ1MzI0MzYifQ.6ploUcyHkmFtg_9usQt-7jE63V8UBrs-EUZ2SobPs6o&s=72&u=80edd8b9560485e0e362a949da200f3f21ff85e6&v=4" width="24" alt="Avatar of Laisky"/> Laisky
+				<img src="https://private-avatars.githubusercontent.com/u/4532436?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEzNDAsIm5iZiI6MTczNDM0MDE0MCwicGF0aCI6Ii91LzQ1MzI0MzYifQ.PiEBW_KUpQKapwkZ2V8_-1SKhUNt3euF9u8uALWmkTE&s=72&u=80edd8b9560485e0e362a949da200f3f21ff85e6&v=4" width="24" alt="Avatar of Laisky"/> Laisky
 			</a><br/>
 			LaiskyCai
 		</td>
@@ -2354,7 +2354,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>161</td>
 		<td>
 			<a target="_blank" href="https://github.com/alinz">
-				<img src="https://private-avatars.githubusercontent.com/u/967050?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUwNDAsIm5iZiI6MTczNDMwMzg0MCwicGF0aCI6Ii91Lzk2NzA1MCJ9.cGbCdKjJp7JsxGF7OZcQx1cM0imluSJ0ecTzuHd5obc&s=72&u=1f5f305ec901e55d5955adc870b926f55479fc0c&v=4" width="24" alt="Avatar of alinz"/> alinz
+				<img src="https://private-avatars.githubusercontent.com/u/967050?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE5NDAsIm5iZiI6MTczNDM0MDc0MCwicGF0aCI6Ii91Lzk2NzA1MCJ9.afvOF18p93Tli4NJ93caPsYsN4Nlolvk66tN-ey8Q8I&s=72&u=1f5f305ec901e55d5955adc870b926f55479fc0c&v=4" width="24" alt="Avatar of alinz"/> alinz
 			</a><br/>
 			Ali Najafizadeh
 		</td>
@@ -2367,8 +2367,22 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 	<tr>
 		<td>162</td>
 		<td>
+			<a target="_blank" href="https://github.com/kirs">
+				<img src="https://private-avatars.githubusercontent.com/u/522155?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4ODAsIm5iZiI6MTczNDM0MDY4MCwicGF0aCI6Ii91LzUyMjE1NSJ9.qj-NwsAx5ZWHzXlcZQYxKyHnLsKNz6f-op3ZTkMhc2s&s=72&u=2974f6234f7bf0cdb100b531448d05fa0c2729f5&v=4" width="24" alt="Avatar of kirs"/> kirs
+			</a><br/>
+			Kir Shatrov
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vancouver BC</td>
+		<td>52</td>
+		<td>1473</td>
+	</tr>
+	<tr>
+		<td>163</td>
+		<td>
 			<a target="_blank" href="https://github.com/robertcoopercode">
-				<img src="https://private-avatars.githubusercontent.com/u/16786990?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyODAsIm5iZiI6MTczNDMwNDA4MCwicGF0aCI6Ii91LzE2Nzg2OTkwIn0.DU8HEsLtVALbSFxBjiwg-JwRlTWszXjqqVU09fu4G2g&s=72&u=cb5dd75a8008744a3da1fd1a6082bb044e87ee9e&v=4" width="24" alt="Avatar of robertcoopercode"/> robertcoopercode
+				<img src="https://private-avatars.githubusercontent.com/u/16786990?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyODAsIm5iZiI6MTczNDM0MDA4MCwicGF0aCI6Ii91LzE2Nzg2OTkwIn0.h38TiP_FhvrCloR2n6e7JZXhXppg4v3jvmcXG1_fvnU&s=72&u=cb5dd75a8008744a3da1fd1a6082bb044e87ee9e&v=4" width="24" alt="Avatar of robertcoopercode"/> robertcoopercode
 			</a><br/>
 			Robert Cooper
 		</td>
@@ -2379,38 +2393,24 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>1473</td>
 	</tr>
 	<tr>
-		<td>163</td>
+		<td>164</td>
 		<td>
 			<a target="_blank" href="https://github.com/jasonish">
-				<img src="https://private-avatars.githubusercontent.com/u/644115?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0NjAsIm5iZiI6MTczNDMwNDI2MCwicGF0aCI6Ii91LzY0NDExNSJ9.0s95anyE8pefUSKs229_CvBs1HfMlI0WBrQ3eas3bTg&s=72&u=a6abdaa49662ca8d8f472603281d0ad8efb0d08a&v=4" width="24" alt="Avatar of jasonish"/> jasonish
+				<img src="https://private-avatars.githubusercontent.com/u/644115?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0NjAsIm5iZiI6MTczNDM0MDI2MCwicGF0aCI6Ii91LzY0NDExNSJ9.u7gbWozBShWp25T_KxrlKLONldw4cXke-zSiiG_9BcM&s=72&u=a6abdaa49662ca8d8f472603281d0ad8efb0d08a&v=4" width="24" alt="Avatar of jasonish"/> jasonish
 			</a><br/>
 			Jason Ish
 		</td>
 		<td>Oisf </td>
 		<td><a target="_blank" href="https://twitter.com/jasonish">jasonish</a></td>
 		<td>Saskatoon Canada</td>
-		<td>1472</td>
-		<td>1472</td>
-	</tr>
-	<tr>
-		<td>164</td>
-		<td>
-			<a target="_blank" href="https://github.com/kirs">
-				<img src="https://private-avatars.githubusercontent.com/u/522155?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ5ODAsIm5iZiI6MTczNDMwMzc4MCwicGF0aCI6Ii91LzUyMjE1NSJ9.gwJAUniVjagNEFptIadwP2OFu0QHxMEwXMIHmbguEtE&s=72&u=2974f6234f7bf0cdb100b531448d05fa0c2729f5&v=4" width="24" alt="Avatar of kirs"/> kirs
-			</a><br/>
-			Kir Shatrov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vancouver BC</td>
-		<td>52</td>
-		<td>1466</td>
+		<td>1473</td>
+		<td>1473</td>
 	</tr>
 	<tr>
 		<td>165</td>
 		<td>
 			<a target="_blank" href="https://github.com/amsul">
-				<img src="https://private-avatars.githubusercontent.com/u/685051?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0MDAsIm5iZiI6MTczNDMwNDIwMCwicGF0aCI6Ii91LzY4NTA1MSJ9.GZ-5RTEiQuxu_-bYFdSFB96j-5lqxxD1DVJpL0XcV8g&s=72&u=db3b234f8c321d653b0be9d1bd4a55515e54e03b&v=4" width="24" alt="Avatar of amsul"/> amsul
+				<img src="https://private-avatars.githubusercontent.com/u/685051?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIzMDAsIm5iZiI6MTczNDM0MTEwMCwicGF0aCI6Ii91LzY4NTA1MSJ9.W27be_-SAj44NKniVIzfzkU8GyCTjFq7Pel4CCK6J6A&s=72&u=db3b234f8c321d653b0be9d1bd4a55515e54e03b&v=4" width="24" alt="Avatar of amsul"/> amsul
 			</a><br/>
 			No Name
 		</td>
@@ -2424,7 +2424,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>166</td>
 		<td>
 			<a target="_blank" href="https://github.com/janicduplessis">
-				<img src="https://private-avatars.githubusercontent.com/u/2677334?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxNjAsIm5iZiI6MTczNDMwMzk2MCwicGF0aCI6Ii91LzI2NzczMzQifQ.ge5qBTr7xMUVeBuPNK-_P0HLLtnEuz3i0-7H_voL8zY&s=72&u=eb651decd754c866f1984bd9021ef39c6968bfc9&v=4" width="24" alt="Avatar of janicduplessis"/> janicduplessis
+				<img src="https://private-avatars.githubusercontent.com/u/2677334?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDExNjAsIm5iZiI6MTczNDMzOTk2MCwicGF0aCI6Ii91LzI2NzczMzQifQ.TOeCZf1m1s1LDmU2qFHEys1JLRZDFGiSwI5AdFeFDp0&s=72&u=eb651decd754c866f1984bd9021ef39c6968bfc9&v=4" width="24" alt="Avatar of janicduplessis"/> janicduplessis
 			</a><br/>
 			Janic Duplessis
 		</td>
@@ -2432,13 +2432,13 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td><a target="_blank" href="https://twitter.com/janicduplessis">janicduplessis</a></td>
 		<td>Montreal Canada</td>
 		<td>313</td>
-		<td>1443</td>
+		<td>1449</td>
 	</tr>
 	<tr>
 		<td>167</td>
 		<td>
 			<a target="_blank" href="https://github.com/gorhill">
-				<img src="https://private-avatars.githubusercontent.com/u/585534?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxMDAsIm5iZiI6MTczNDMwMzkwMCwicGF0aCI6Ii91LzU4NTUzNCJ9.d5TdNAfU30n0hBCjfxADCp2t-v6QJ4YTUliZswZWqxQ&s=72&v=4" width="24" alt="Avatar of gorhill"/> gorhill
+				<img src="https://private-avatars.githubusercontent.com/u/585534?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDExMDAsIm5iZiI6MTczNDMzOTkwMCwicGF0aCI6Ii91LzU4NTUzNCJ9.-_3U0YRFULsCsqeVqXowhTNfMYf1uKEyqlTZhVlCHeo&s=72&v=4" width="24" alt="Avatar of gorhill"/> gorhill
 			</a><br/>
 			Raymond Hill
 		</td>
@@ -2451,8 +2451,22 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 	<tr>
 		<td>168</td>
 		<td>
+			<a target="_blank" href="https://github.com/jamonholmgren">
+				<img src="https://private-avatars.githubusercontent.com/u/1479215?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1ODAsIm5iZiI6MTczNDM0MDM4MCwicGF0aCI6Ii91LzE0NzkyMTUifQ.2OI66dA0yw5Ge9ssIkxeTgLFUQuPP1yjWW4g_c5dESU&s=72&u=4b99eda6f9de32d8a7268633c79b4e1d95f1ffca&v=4" width="24" alt="Avatar of jamonholmgren"/> jamonholmgren
+			</a><br/>
+			Jamon Holmgren
+		</td>
+		<td>@infinitered  </td>
+		<td><a target="_blank" href="https://twitter.com/jamonholmgren">jamonholmgren</a></td>
+		<td>Vancouver WA</td>
+		<td>502</td>
+		<td>1433</td>
+	</tr>
+	<tr>
+		<td>169</td>
+		<td>
 			<a target="_blank" href="https://github.com/FrozenPandaz">
-				<img src="https://private-avatars.githubusercontent.com/u/8104246?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU5NDAsIm5iZiI6MTczNDMwNDc0MCwicGF0aCI6Ii91LzgxMDQyNDYifQ.42cxGUYGEhNTYYIaNo4ETQtZq4JPd1mzyGUdfLYVIvQ&s=72&u=d120ae84c7b0781194c287b498e6b1e31b2b8fea&v=4" width="24" alt="Avatar of FrozenPandaz"/> FrozenPandaz
+				<img src="https://private-avatars.githubusercontent.com/u/8104246?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE5NDAsIm5iZiI6MTczNDM0MDc0MCwicGF0aCI6Ii91LzgxMDQyNDYifQ.yq08lJAOfAIYV_nYx6KodZLYIDDC2LUXFK6tLh_vGYI&s=72&u=d120ae84c7b0781194c287b498e6b1e31b2b8fea&v=4" width="24" alt="Avatar of FrozenPandaz"/> FrozenPandaz
 			</a><br/>
 			Jason Jean
 		</td>
@@ -2463,10 +2477,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>1433</td>
 	</tr>
 	<tr>
-		<td>169</td>
+		<td>170</td>
 		<td>
 			<a target="_blank" href="https://github.com/QuLogic">
-				<img src="https://private-avatars.githubusercontent.com/u/302469?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1ODAsIm5iZiI6MTczNDMwNDM4MCwicGF0aCI6Ii91LzMwMjQ2OSJ9.DuowjJFCxcSjjOhGONdun_g-MalPT5pcqg3XTZi0N7A&s=72&v=4" width="24" alt="Avatar of QuLogic"/> QuLogic
+				<img src="https://private-avatars.githubusercontent.com/u/302469?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1ODAsIm5iZiI6MTczNDM0MDM4MCwicGF0aCI6Ii91LzMwMjQ2OSJ9.QTqnzrThuMqYTzIg0vIiabeJlAUOq8NAPggE3-udRsU&s=72&v=4" width="24" alt="Avatar of QuLogic"/> QuLogic
 			</a><br/>
 			Elliott Sales de Andrade
 		</td>
@@ -2477,10 +2491,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>1432</td>
 	</tr>
 	<tr>
-		<td>170</td>
+		<td>171</td>
 		<td>
 			<a target="_blank" href="https://github.com/hawkeye64">
-				<img src="https://private-avatars.githubusercontent.com/u/10262924?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1ODAsIm5iZiI6MTczNDMwNDM4MCwicGF0aCI6Ii91LzEwMjYyOTI0In0.SA9lQDOXNmPReZ_wtw8l7bF7emTNvNtNJeDJcNLrG-c&s=72&u=bfaf42707c5dd189bb69f1a7502f7d15935472f0&v=4" width="24" alt="Avatar of hawkeye64"/> hawkeye64
+				<img src="https://private-avatars.githubusercontent.com/u/10262924?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1ODAsIm5iZiI6MTczNDM0MDM4MCwicGF0aCI6Ii91LzEwMjYyOTI0In0.lWZWciWcQ7YWrNpkdhU_0fCc2q_c3ptxc45D63xh8OI&s=72&u=bfaf42707c5dd189bb69f1a7502f7d15935472f0&v=4" width="24" alt="Avatar of hawkeye64"/> hawkeye64
 			</a><br/>
 			Jeff Galbraith
 		</td>
@@ -2491,10 +2505,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>1427</td>
 	</tr>
 	<tr>
-		<td>171</td>
+		<td>172</td>
 		<td>
 			<a target="_blank" href="https://github.com/andydlindsay">
-				<img src="https://private-avatars.githubusercontent.com/u/16171227?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91LzE2MTcxMjI3In0.D2x69OdPinJiXYUu-pg6W-AirM23gX2dmc7KejBCyTQ&s=72&u=1cf6b0a76a245e1594a7a93cb9fcdb3964bb7b2c&v=4" width="24" alt="Avatar of andydlindsay"/> andydlindsay
+				<img src="https://private-avatars.githubusercontent.com/u/16171227?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIyNDAsIm5iZiI6MTczNDM0MTA0MCwicGF0aCI6Ii91LzE2MTcxMjI3In0.tCTUOEi4bu9ahGusnhmElMr7s_J4BQcUJx6XjcS2phs&s=72&u=1cf6b0a76a245e1594a7a93cb9fcdb3964bb7b2c&v=4" width="24" alt="Avatar of andydlindsay"/> andydlindsay
 			</a><br/>
 			Andy Lindsay
 		</td>
@@ -2505,10 +2519,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>1424</td>
 	</tr>
 	<tr>
-		<td>172</td>
+		<td>173</td>
 		<td>
 			<a target="_blank" href="https://github.com/mysterywolf">
-				<img src="https://private-avatars.githubusercontent.com/u/34888354?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1ODAsIm5iZiI6MTczNDMwNDM4MCwicGF0aCI6Ii91LzM0ODg4MzU0In0.0mTOtfcUbsIuGc4mcyacICxdjz-z2ffXbLuhznsXX-8&s=72&u=d033f87c7e9d7278ab2a9e273abe9ca0dfd6403d&v=4" width="24" alt="Avatar of mysterywolf"/> mysterywolf
+				<img src="https://private-avatars.githubusercontent.com/u/34888354?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1ODAsIm5iZiI6MTczNDM0MDM4MCwicGF0aCI6Ii91LzM0ODg4MzU0In0.EF35Dcr8BMe4YYayqJ1SOsc4c9s4mBNw-GT2NhAxOlI&s=72&u=d033f87c7e9d7278ab2a9e273abe9ca0dfd6403d&v=4" width="24" alt="Avatar of mysterywolf"/> mysterywolf
 			</a><br/>
 			Meco Man
 		</td>
@@ -2519,10 +2533,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>1424</td>
 	</tr>
 	<tr>
-		<td>173</td>
+		<td>174</td>
 		<td>
 			<a target="_blank" href="https://github.com/mattmassicotte">
-				<img src="https://private-avatars.githubusercontent.com/u/85322?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxMDAsIm5iZiI6MTczNDMwMzkwMCwicGF0aCI6Ii91Lzg1MzIyIn0.v-KORkMM9TW67SMoavuF7shbXbg2XMNjeG2wo8kFSNM&s=72&u=686384227a6f3796b5c80ab6f310da95bdce973c&v=4" width="24" alt="Avatar of mattmassicotte"/> mattmassicotte
+				<img src="https://private-avatars.githubusercontent.com/u/85322?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDExMDAsIm5iZiI6MTczNDMzOTkwMCwicGF0aCI6Ii91Lzg1MzIyIn0.dyl1Go4TPTR-ocvyomLWrq9MGpkTWaHmDVqkk2crVls&s=72&u=686384227a6f3796b5c80ab6f310da95bdce973c&v=4" width="24" alt="Avatar of mattmassicotte"/> mattmassicotte
 			</a><br/>
 			Matt Massicotte
 		</td>
@@ -2533,38 +2547,24 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>1418</td>
 	</tr>
 	<tr>
-		<td>174</td>
-		<td>
-			<a target="_blank" href="https://github.com/jamonholmgren">
-				<img src="https://private-avatars.githubusercontent.com/u/1479215?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1ODAsIm5iZiI6MTczNDMwNDM4MCwicGF0aCI6Ii91LzE0NzkyMTUifQ.wISQEwbJx8or3igtrfIjWLLRd8MKlE5iB-Mbjrwr2I0&s=72&u=4b99eda6f9de32d8a7268633c79b4e1d95f1ffca&v=4" width="24" alt="Avatar of jamonholmgren"/> jamonholmgren
-			</a><br/>
-			Jamon Holmgren
-		</td>
-		<td>@infinitered  </td>
-		<td><a target="_blank" href="https://twitter.com/jamonholmgren">jamonholmgren</a></td>
-		<td>Vancouver WA</td>
-		<td>502</td>
-		<td>1417</td>
-	</tr>
-	<tr>
 		<td>175</td>
 		<td>
 			<a target="_blank" href="https://github.com/winkerVSbecks">
-				<img src="https://private-avatars.githubusercontent.com/u/42671?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ5MjAsIm5iZiI6MTczNDMwMzcyMCwicGF0aCI6Ii91LzQyNjcxIn0.PzvDnSIiq3Awf2fO4OD_50iwaffpOuIbT8qBbn9AQ-I&s=72&u=38b604be6c441cb725f29813ca983a7a2f8ccee0&v=4" width="24" alt="Avatar of winkerVSbecks"/> winkerVSbecks
+				<img src="https://private-avatars.githubusercontent.com/u/42671?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDA5MjAsIm5iZiI6MTczNDMzOTcyMCwicGF0aCI6Ii91LzQyNjcxIn0.L_uD-a1q6FIOXj82BnsOmWaXgPbrM6wTXVBlHmKlcbQ&s=72&u=38b604be6c441cb725f29813ca983a7a2f8ccee0&v=4" width="24" alt="Avatar of winkerVSbecks"/> winkerVSbecks
 			</a><br/>
 			Varun Vachhar
 		</td>
 		<td>Chromaticcom </td>
 		<td><a target="_blank" href="https://twitter.com/winkerVSbecks">winkerVSbecks</a></td>
 		<td>Toronto</td>
-		<td>1057</td>
-		<td>1408</td>
+		<td>1058</td>
+		<td>1409</td>
 	</tr>
 	<tr>
 		<td>176</td>
 		<td>
 			<a target="_blank" href="https://github.com/burke">
-				<img src="https://private-avatars.githubusercontent.com/u/1284?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUwNDAsIm5iZiI6MTczNDMwMzg0MCwicGF0aCI6Ii91LzEyODQifQ.AF4zi4bAHgpfW0Rdx9dasJwxQQqIduCXwcMUpBC3aIw&s=72&v=4" width="24" alt="Avatar of burke"/> burke
+				<img src="https://private-avatars.githubusercontent.com/u/1284?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE5NDAsIm5iZiI6MTczNDM0MDc0MCwicGF0aCI6Ii91LzEyODQifQ.iiL5XzMWKY_zWOlfJ56gTTSpQi8KMtxB90PZLpOutNw&s=72&v=4" width="24" alt="Avatar of burke"/> burke
 			</a><br/>
 			Burke Libbey
 		</td>
@@ -2578,7 +2578,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>177</td>
 		<td>
 			<a target="_blank" href="https://github.com/jkudish">
-				<img src="https://private-avatars.githubusercontent.com/u/260253?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1ODAsIm5iZiI6MTczNDMwNDM4MCwicGF0aCI6Ii91LzI2MDI1MyJ9.3zfapLClquF_vQdeaGAkEFbB-PtHx6VBL-1YX1P0HOk&s=72&u=1474b0fe4348ffd73ea2217a914827f46c9cd521&v=4" width="24" alt="Avatar of jkudish"/> jkudish
+				<img src="https://private-avatars.githubusercontent.com/u/260253?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1ODAsIm5iZiI6MTczNDM0MDM4MCwicGF0aCI6Ii91LzI2MDI1MyJ9.JmZSiCv6tK2LOIEE2Qs9VZQ3SnsXFR4_rTTpVmS4uRM&s=72&u=1474b0fe4348ffd73ea2217a914827f46c9cd521&v=4" width="24" alt="Avatar of jkudish"/> jkudish
 			</a><br/>
 			Joey Kudish
 		</td>
@@ -2586,13 +2586,13 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Vancouver BC</td>
 		<td>50</td>
-		<td>1404</td>
+		<td>1407</td>
 	</tr>
 	<tr>
 		<td>178</td>
 		<td>
 			<a target="_blank" href="https://github.com/kinngh">
-				<img src="https://private-avatars.githubusercontent.com/u/773555?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1ODAsIm5iZiI6MTczNDMwNDM4MCwicGF0aCI6Ii91Lzc3MzU1NSJ9.eGbHR5ud90bp-cDoGiIvz_wpbRrKD1hTT6eyM0hn2WY&s=72&u=f9fcc4b40af42dfb11d6c1cb3e66cad39d378982&v=4" width="24" alt="Avatar of kinngh"/> kinngh
+				<img src="https://private-avatars.githubusercontent.com/u/773555?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1ODAsIm5iZiI6MTczNDM0MDM4MCwicGF0aCI6Ii91Lzc3MzU1NSJ9.8izQcM3XLsQ0sYoDslmYh2CiZ8vQ9XDuHsSCNaxP0Lg&s=72&u=f9fcc4b40af42dfb11d6c1cb3e66cad39d378982&v=4" width="24" alt="Avatar of kinngh"/> kinngh
 			</a><br/>
 			Harshdeep Singh Hura
 		</td>
@@ -2606,7 +2606,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>179</td>
 		<td>
 			<a target="_blank" href="https://github.com/khronokernel">
-				<img src="https://private-avatars.githubusercontent.com/u/48863253?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ2ODAsIm5iZiI6MTczNDMwMzQ4MCwicGF0aCI6Ii91LzQ4ODYzMjUzIn0.4DefORyh_W4jBNC20G4GH9Vdjr95Q2-lRxV3dShraos&s=72&u=42af6226c9cd061c266bd77768abb200dd50094d&v=4" width="24" alt="Avatar of khronokernel"/> khronokernel
+				<img src="https://private-avatars.githubusercontent.com/u/48863253?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1ODAsIm5iZiI6MTczNDM0MDM4MCwicGF0aCI6Ii91LzQ4ODYzMjUzIn0.5FdDCOc-kFAaPKdIbE3DbXQ6W31e8AvedHyzbh7qPeI&s=72&u=42af6226c9cd061c266bd77768abb200dd50094d&v=4" width="24" alt="Avatar of khronokernel"/> khronokernel
 			</a><br/>
 			Mykola Grymalyuk
 		</td>
@@ -2620,7 +2620,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>180</td>
 		<td>
 			<a target="_blank" href="https://github.com/ferd">
-				<img src="https://private-avatars.githubusercontent.com/u/111141?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyODAsIm5iZiI6MTczNDMwNDA4MCwicGF0aCI6Ii91LzExMTE0MSJ9.NjcjgsC30RCXrURrH-nhnrmtEt7oZ3WVIrlPgmkYkuI&s=72&v=4" width="24" alt="Avatar of ferd"/> ferd
+				<img src="https://private-avatars.githubusercontent.com/u/111141?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyODAsIm5iZiI6MTczNDM0MDA4MCwicGF0aCI6Ii91LzExMTE0MSJ9.Xezel7wsM29qnvzMN63mMqim8Of8EGK1NVCMRov28z4&s=72&v=4" width="24" alt="Avatar of ferd"/> ferd
 			</a><br/>
 			Fred Hebert
 		</td>
@@ -2634,7 +2634,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>181</td>
 		<td>
 			<a target="_blank" href="https://github.com/colinta">
-				<img src="https://private-avatars.githubusercontent.com/u/27570?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU2NDAsIm5iZiI6MTczNDMwNDQ0MCwicGF0aCI6Ii91LzI3NTcwIn0.ZceKYKiHM6zSgg1-8HFZIS5gTh0aHfN200VZ5HOby8U&s=72&v=4" width="24" alt="Avatar of colinta"/> colinta
+				<img src="https://private-avatars.githubusercontent.com/u/27570?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE2NDAsIm5iZiI6MTczNDM0MDQ0MCwicGF0aCI6Ii91LzI3NTcwIn0._OhJtW_ycjdnrRWcMbLITxa7tekKu4WKJdkXp0wcvHU&s=72&v=4" width="24" alt="Avatar of colinta"/> colinta
 			</a><br/>
 			Colin TA Gray
 		</td>
@@ -2648,7 +2648,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>182</td>
 		<td>
 			<a target="_blank" href="https://github.com/leighhalliday">
-				<img src="https://private-avatars.githubusercontent.com/u/603921?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ5MjAsIm5iZiI6MTczNDMwMzcyMCwicGF0aCI6Ii91LzYwMzkyMSJ9.EoUtMNtzF7vKWF3jzBP9DHHTgCNjVaXAKhoBEjrUnPo&s=72&u=57a7c3430257adb2e925247cea4a304d302e97e6&v=4" width="24" alt="Avatar of leighhalliday"/> leighhalliday
+				<img src="https://private-avatars.githubusercontent.com/u/603921?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDA5MjAsIm5iZiI6MTczNDMzOTcyMCwicGF0aCI6Ii91LzYwMzkyMSJ9.zqT39lSIbRFd2xX6sjBp8kibuKGXN-041n73S022GvQ&s=72&u=57a7c3430257adb2e925247cea4a304d302e97e6&v=4" width="24" alt="Avatar of leighhalliday"/> leighhalliday
 			</a><br/>
 			Leigh Halliday
 		</td>
@@ -2662,21 +2662,21 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>183</td>
 		<td>
 			<a target="_blank" href="https://github.com/iKevinY">
-				<img src="https://private-avatars.githubusercontent.com/u/2434728?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4ODAsIm5iZiI6MTczNDMwNDY4MCwicGF0aCI6Ii91LzI0MzQ3MjgifQ.fz-hsxqvoiW06FgyX9IsQ7bthSK0vTcjhIA3S0JNfmQ&s=72&u=2a305b0f507364aab1b98c28e872f8076f230789&v=4" width="24" alt="Avatar of iKevinY"/> iKevinY
+				<img src="https://private-avatars.githubusercontent.com/u/2434728?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4ODAsIm5iZiI6MTczNDM0MDY4MCwicGF0aCI6Ii91LzI0MzQ3MjgifQ.9x_Ys0bOp4AnD-ic43rjn6DIwLy3AO-a32vqhR9PPi8&s=72&u=2a305b0f507364aab1b98c28e872f8076f230789&v=4" width="24" alt="Avatar of iKevinY"/> iKevinY
 			</a><br/>
 			Kevin Yap
 		</td>
 		<td>@mlsedigital </td>
 		<td>No Twitter Username</td>
 		<td>Toronto Canada</td>
-		<td>55</td>
-		<td>1372</td>
+		<td>56</td>
+		<td>1374</td>
 	</tr>
 	<tr>
 		<td>184</td>
 		<td>
 			<a target="_blank" href="https://github.com/charpeni">
-				<img src="https://private-avatars.githubusercontent.com/u/7189823?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3NjAsIm5iZiI6MTczNDMwNDU2MCwicGF0aCI6Ii91LzcxODk4MjMifQ.6Wz_K99V405Mdfa1kFSOiRtCWCy4yE3eSbwjXg2y62E&s=72&u=f7558a0f6828f45f1082970880aefbeab9596d0b&v=4" width="24" alt="Avatar of charpeni"/> charpeni
+				<img src="https://private-avatars.githubusercontent.com/u/7189823?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3NjAsIm5iZiI6MTczNDM0MDU2MCwicGF0aCI6Ii91LzcxODk4MjMifQ.KcxLOsVPGYQzg6245g8JhZ7m_2YUw-c8u4dML8r4vZk&s=72&u=f7558a0f6828f45f1082970880aefbeab9596d0b&v=4" width="24" alt="Avatar of charpeni"/> charpeni
 			</a><br/>
 			Nicolas Charpentier
 		</td>
@@ -2690,7 +2690,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>185</td>
 		<td>
 			<a target="_blank" href="https://github.com/fluffy">
-				<img src="https://private-avatars.githubusercontent.com/u/217200?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4ODAsIm5iZiI6MTczNDMwNDY4MCwicGF0aCI6Ii91LzIxNzIwMCJ9.MiCy6nPtcHu9AM49-agRhB4s59wg4w1wqkB9QQbdv4o&s=72&v=4" width="24" alt="Avatar of fluffy"/> fluffy
+				<img src="https://private-avatars.githubusercontent.com/u/217200?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4ODAsIm5iZiI6MTczNDM0MDY4MCwicGF0aCI6Ii91LzIxNzIwMCJ9.-SFvRzaDeJ3ghwEsn_tJQanqINRgZIenxWyPD1vvtwk&s=72&v=4" width="24" alt="Avatar of fluffy"/> fluffy
 			</a><br/>
 			Cullen Jennings
 		</td>
@@ -2704,7 +2704,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>186</td>
 		<td>
 			<a target="_blank" href="https://github.com/spencermountain">
-				<img src="https://private-avatars.githubusercontent.com/u/399657?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxNjAsIm5iZiI6MTczNDMwMzk2MCwicGF0aCI6Ii91LzM5OTY1NyJ9.vrXYIQ9V5p7YsBRwjP5VS3HU3r3U4zUUU0V2W2Wa5Rk&s=72&u=afb7798f372f34b144511ebfd0895ccfef8c9536&v=4" width="24" alt="Avatar of spencermountain"/> spencermountain
+				<img src="https://private-avatars.githubusercontent.com/u/399657?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDExNjAsIm5iZiI6MTczNDMzOTk2MCwicGF0aCI6Ii91LzM5OTY1NyJ9.jou15m_R6j1N_ooYzu8uu8u4veEG93mqaOlHG_5tY7s&s=72&u=afb7798f372f34b144511ebfd0895ccfef8c9536&v=4" width="24" alt="Avatar of spencermountain"/> spencermountain
 			</a><br/>
 			spencer kelly
 		</td>
@@ -2718,7 +2718,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>187</td>
 		<td>
 			<a target="_blank" href="https://github.com/kulkarniankita">
-				<img src="https://private-avatars.githubusercontent.com/u/2559673?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyMjAsIm5iZiI6MTczNDMwNDAyMCwicGF0aCI6Ii91LzI1NTk2NzMifQ.oJVdz-5VwmAjkwgmdLF8JBSrrmW53lSr-0QiVG7didQ&s=72&u=647b28d603d1feaa04c3d17a69fc4bdf6d2bae3a&v=4" width="24" alt="Avatar of kulkarniankita"/> kulkarniankita
+				<img src="https://private-avatars.githubusercontent.com/u/2559673?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyMjAsIm5iZiI6MTczNDM0MDAyMCwicGF0aCI6Ii91LzI1NTk2NzMifQ.LiCASvDxAhk0RlZpGWJ81hdUbFrQMwDoCyo3N6zcspk&s=72&u=647b28d603d1feaa04c3d17a69fc4bdf6d2bae3a&v=4" width="24" alt="Avatar of kulkarniankita"/> kulkarniankita
 			</a><br/>
 			Ankita Kulkarni
 		</td>
@@ -2732,7 +2732,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>188</td>
 		<td>
 			<a target="_blank" href="https://github.com/joshwcomeau">
-				<img src="https://private-avatars.githubusercontent.com/u/6692932?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ4MDAsIm5iZiI6MTczNDMwMzYwMCwicGF0aCI6Ii91LzY2OTI5MzIifQ.HFkV_5H6fkpuKsB4_XEVBLos4cF83hd1KcAb6Ns93aE&s=72&u=bd93408321ac462a4d194f02189474916bd8feb2&v=4" width="24" alt="Avatar of joshwcomeau"/> joshwcomeau
+				<img src="https://private-avatars.githubusercontent.com/u/6692932?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3MDAsIm5iZiI6MTczNDM0MDUwMCwicGF0aCI6Ii91LzY2OTI5MzIifQ.Fy9quOhHMAXjnNtyG6cYedQZnkEDL1ZBsa2ILi4TxnM&s=72&u=bd93408321ac462a4d194f02189474916bd8feb2&v=4" width="24" alt="Avatar of joshwcomeau"/> joshwcomeau
 			</a><br/>
 			Joshua Comeau
 		</td>
@@ -2746,21 +2746,21 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>189</td>
 		<td>
 			<a target="_blank" href="https://github.com/jelveh">
-				<img src="https://private-avatars.githubusercontent.com/u/1715019?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4ODAsIm5iZiI6MTczNDMwNDY4MCwicGF0aCI6Ii91LzE3MTUwMTkifQ.TCRPdZGtvhrTXoOkIBjFSfhC1X5vgk7FQ7mKUp7inAE&s=72&u=060f80789372b09937e7ba1945f25cbce3c8a220&v=4" width="24" alt="Avatar of jelveh"/> jelveh
+				<img src="https://private-avatars.githubusercontent.com/u/1715019?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4ODAsIm5iZiI6MTczNDM0MDY4MCwicGF0aCI6Ii91LzE3MTUwMTkifQ.YYTU4Lil3csemQmzkmn8n0eg0fY3XFS-jjJ9REoV--w&s=72&u=060f80789372b09937e7ba1945f25cbce3c8a220&v=4" width="24" alt="Avatar of jelveh"/> jelveh
 			</a><br/>
 			Nariman Jelveh
 		</td>
 		<td>@heyputer  </td>
 		<td><a target="_blank" href="https://twitter.com/NariBuildsStuff">NariBuildsStuff</a></td>
 		<td>Vancouver BC</td>
-		<td>1309</td>
-		<td>1309</td>
+		<td>1314</td>
+		<td>1314</td>
 	</tr>
 	<tr>
 		<td>190</td>
 		<td>
 			<a target="_blank" href="https://github.com/fnando">
-				<img src="https://private-avatars.githubusercontent.com/u/3009?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1MjAsIm5iZiI6MTczNDMwNDMyMCwicGF0aCI6Ii91LzMwMDkifQ.3aiUxXwngc40X5FjvhisrzAQPEt8JDNlXZ4x_0BoV2I&s=72&u=951a4f4b949afb51e006f6d80b1a6075f99e48cc&v=4" width="24" alt="Avatar of fnando"/> fnando
+				<img src="https://private-avatars.githubusercontent.com/u/3009?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1MjAsIm5iZiI6MTczNDM0MDMyMCwicGF0aCI6Ii91LzMwMDkifQ.qKeCoO9K7e1-GobullCHnjODF8pwnl6ov0Bm25tfcRI&s=72&u=951a4f4b949afb51e006f6d80b1a6075f99e48cc&v=4" width="24" alt="Avatar of fnando"/> fnando
 			</a><br/>
 			Nando Vieira
 		</td>
@@ -2774,7 +2774,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>191</td>
 		<td>
 			<a target="_blank" href="https://github.com/turt2live">
-				<img src="https://private-avatars.githubusercontent.com/u/1190097?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4ODAsIm5iZiI6MTczNDMwNDY4MCwicGF0aCI6Ii91LzExOTAwOTcifQ.sRQfb8ReuyQAUSNGldklAfCC3NRaxvDOXKmxhF7O1NA&s=72&u=4897d21a28d80c6f8e5762712720c6dc566e641e&v=4" width="24" alt="Avatar of turt2live"/> turt2live
+				<img src="https://private-avatars.githubusercontent.com/u/1190097?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4ODAsIm5iZiI6MTczNDM0MDY4MCwicGF0aCI6Ii91LzExOTAwOTcifQ.uVMpL9Vbwz1_n2EneIrhUtR_veapt1r7ZLTREfgJySo&s=72&u=4897d21a28d80c6f8e5762712720c6dc566e641e&v=4" width="24" alt="Avatar of turt2live"/> turt2live
 			</a><br/>
 			Travis Ralston
 		</td>
@@ -2788,7 +2788,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>192</td>
 		<td>
 			<a target="_blank" href="https://github.com/filmaj">
-				<img src="https://private-avatars.githubusercontent.com/u/52645?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3NjAsIm5iZiI6MTczNDMwNDU2MCwicGF0aCI6Ii91LzUyNjQ1In0.Z9qrim2FeQENRLQAZCh_mJoPwz6m_qU3EpptZGb3YFY&s=72&u=644b3204838ce126eb9813529d5569fecdf8f918&v=4" width="24" alt="Avatar of filmaj"/> filmaj
+				<img src="https://private-avatars.githubusercontent.com/u/52645?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3NjAsIm5iZiI6MTczNDM0MDU2MCwicGF0aCI6Ii91LzUyNjQ1In0.4kc5VcowIiiEi_JkC4TsIguYzxoLBU2SZ-TKAvSibh8&s=72&u=644b3204838ce126eb9813529d5569fecdf8f918&v=4" width="24" alt="Avatar of filmaj"/> filmaj
 			</a><br/>
 			Fil Maj
 		</td>
@@ -2802,7 +2802,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>193</td>
 		<td>
 			<a target="_blank" href="https://github.com/d12">
-				<img src="https://private-avatars.githubusercontent.com/u/30920216?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3NjAsIm5iZiI6MTczNDMwNDU2MCwicGF0aCI6Ii91LzMwOTIwMjE2In0.RRghPPhSDYHr0zHfgqRwsL-ytz0yv0cZXvUzOpXGWTE&s=72&u=ee8640d7724c780090455ebab28cee1013e8dfb8&v=4" width="24" alt="Avatar of d12"/> d12
+				<img src="https://private-avatars.githubusercontent.com/u/30920216?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3NjAsIm5iZiI6MTczNDM0MDU2MCwicGF0aCI6Ii91LzMwOTIwMjE2In0.qQWHNZT831pyfEZb-gdlN966I6lrDp6Zf8TbXlcqeCI&s=72&u=ee8640d7724c780090455ebab28cee1013e8dfb8&v=4" width="24" alt="Avatar of d12"/> d12
 			</a><br/>
 			Nathaniel Woodthorpe
 		</td>
@@ -2816,7 +2816,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>194</td>
 		<td>
 			<a target="_blank" href="https://github.com/maximecb">
-				<img src="https://private-avatars.githubusercontent.com/u/713766?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1MjAsIm5iZiI6MTczNDMwNDMyMCwicGF0aCI6Ii91LzcxMzc2NiJ9.zEUQ-VcAmokxVcVibfBFlwhR4AbOE7pye2im0LZxqVs&s=72&v=4" width="24" alt="Avatar of maximecb"/> maximecb
+				<img src="https://private-avatars.githubusercontent.com/u/713766?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1MjAsIm5iZiI6MTczNDM0MDMyMCwicGF0aCI6Ii91LzcxMzc2NiJ9.w4spawk8owYSuk6JLbLj7doJlu-6_BeXdvJjpf2tWx4&s=72&v=4" width="24" alt="Avatar of maximecb"/> maximecb
 			</a><br/>
 			Maxime ChevalierBoisvert
 		</td>
@@ -2830,21 +2830,21 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>195</td>
 		<td>
 			<a target="_blank" href="https://github.com/standardgalactic">
-				<img src="https://private-avatars.githubusercontent.com/u/43516554?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ4MDAsIm5iZiI6MTczNDMwMzYwMCwicGF0aCI6Ii91LzQzNTE2NTU0In0.HYrRYAWxlsuA6w1JSLxyS-WPvc85EKNCDBiL9vGLYM0&s=72&u=0742b59e476f52f7c2e298c5954afcc50b5b7738&v=4" width="24" alt="Avatar of standardgalactic"/> standardgalactic
+				<img src="https://private-avatars.githubusercontent.com/u/43516554?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3MDAsIm5iZiI6MTczNDM0MDUwMCwicGF0aCI6Ii91LzQzNTE2NTU0In0.lIz_NvPTZ0mvBQi_UzRCqTNbKtPvl8_U1plCmeuWxRs&s=72&u=0742b59e476f52f7c2e298c5954afcc50b5b7738&v=4" width="24" alt="Avatar of standardgalactic"/> standardgalactic
 			</a><br/>
 			Cogito Ergo Sum
 		</td>
 		<td>Xanadu </td>
 		<td><a target="_blank" href="https://twitter.com/galactromeda">galactromeda</a></td>
 		<td>Canada</td>
-		<td>1277</td>
-		<td>1277</td>
+		<td>1279</td>
+		<td>1279</td>
 	</tr>
 	<tr>
 		<td>196</td>
 		<td>
 			<a target="_blank" href="https://github.com/ziishaned">
-				<img src="https://private-avatars.githubusercontent.com/u/16267321?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ5MjAsIm5iZiI6MTczNDMwMzcyMCwicGF0aCI6Ii91LzE2MjY3MzIxIn0.JqNyJKl9Kk6eSSlmbFi-Uko6PzMekBrRvNRKJGe08tk&s=72&u=2e69fae65fed819d475dff0c93f569fbfb87b82b&v=4" width="24" alt="Avatar of ziishaned"/> ziishaned
+				<img src="https://private-avatars.githubusercontent.com/u/16267321?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDA5MjAsIm5iZiI6MTczNDMzOTcyMCwicGF0aCI6Ii91LzE2MjY3MzIxIn0.-WhCygbfcmFigL_e9nm68ZecFi8d5v7pF8sgo3Wpep8&s=72&u=2e69fae65fed819d475dff0c93f569fbfb87b82b&v=4" width="24" alt="Avatar of ziishaned"/> ziishaned
 			</a><br/>
 			Zeeshan Ahmad
 		</td>
@@ -2858,7 +2858,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>197</td>
 		<td>
 			<a target="_blank" href="https://github.com/bruno-garcia">
-				<img src="https://private-avatars.githubusercontent.com/u/1633368?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1MjAsIm5iZiI6MTczNDMwNDMyMCwicGF0aCI6Ii91LzE2MzMzNjgifQ.iBxzExCon1IG3dWujDGyGgxyOFj9a5-fFqDnhsbG2qo&s=72&u=856a9e52d4cdc92eac2ff9e1f97900df39ae5e4d&v=4" width="24" alt="Avatar of bruno-garcia"/> bruno-garcia
+				<img src="https://private-avatars.githubusercontent.com/u/1633368?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1MjAsIm5iZiI6MTczNDM0MDMyMCwicGF0aCI6Ii91LzE2MzMzNjgifQ.7lQa0vMpztdX__723vNyR2Kwa7nsB3VDkcATsroEQbI&s=72&u=856a9e52d4cdc92eac2ff9e1f97900df39ae5e4d&v=4" width="24" alt="Avatar of bruno-garcia"/> bruno-garcia
 			</a><br/>
 			Bruno Garcia
 		</td>
@@ -2872,7 +2872,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>198</td>
 		<td>
 			<a target="_blank" href="https://github.com/SamWilsn">
-				<img src="https://private-avatars.githubusercontent.com/u/57262657?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4MjAsIm5iZiI6MTczNDMwNDYyMCwicGF0aCI6Ii91LzU3MjYyNjU3In0.ITNI9PX658Fsursfj2lCA7B-yjJ3AVxGsbK9kEvG0XY&s=72&u=ab575d62574c1106821f4c3b9f183793cde5100d&v=4" width="24" alt="Avatar of SamWilsn"/> SamWilsn
+				<img src="https://private-avatars.githubusercontent.com/u/57262657?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4MjAsIm5iZiI6MTczNDM0MDYyMCwicGF0aCI6Ii91LzU3MjYyNjU3In0.-bC5EJUs73v2u803ZWcuPZ-Hh1wSJpeZbwnkQiQn1Qw&s=72&u=ab575d62574c1106821f4c3b9f183793cde5100d&v=4" width="24" alt="Avatar of SamWilsn"/> SamWilsn
 			</a><br/>
 			Sam Wilson
 		</td>
@@ -2886,7 +2886,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>199</td>
 		<td>
 			<a target="_blank" href="https://github.com/UdaraJay">
-				<img src="https://private-avatars.githubusercontent.com/u/1122227?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUwNDAsIm5iZiI6MTczNDMwMzg0MCwicGF0aCI6Ii91LzExMjIyMjcifQ.-OjwHkVVR54bBHKbQPmc5i9VKe69rb2aI2lwPvxEv9U&s=72&u=7d87a8acfea0d367c555aafd086e045f21851a4e&v=4" width="24" alt="Avatar of UdaraJay"/> UdaraJay
+				<img src="https://private-avatars.githubusercontent.com/u/1122227?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEwNDAsIm5iZiI6MTczNDMzOTg0MCwicGF0aCI6Ii91LzExMjIyMjcifQ.XnAPsPTC3KSdAyNpkmWmUbnEh1tNo6f0NBnWrEBNNaU&s=72&u=7d87a8acfea0d367c555aafd086e045f21851a4e&v=4" width="24" alt="Avatar of UdaraJay"/> UdaraJay
 			</a><br/>
 			Udara Jay
 		</td>
@@ -2894,27 +2894,27 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td><a target="_blank" href="https://twitter.com/tgupj">tgupj</a></td>
 		<td>Canada</td>
 		<td>76</td>
-		<td>1249</td>
+		<td>1252</td>
 	</tr>
 	<tr>
 		<td>200</td>
 		<td>
 			<a target="_blank" href="https://github.com/brettcannon">
-				<img src="https://private-avatars.githubusercontent.com/u/54418?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ3NDAsIm5iZiI6MTczNDMwMzU0MCwicGF0aCI6Ii91LzU0NDE4In0.l1cE6chZH9oC3Wg_Jc8qUJmLkZDF7-P1zhnd0f-aErw&s=72&u=d802d54e21af0befea878eacff303c384b2a1871&v=4" width="24" alt="Avatar of brettcannon"/> brettcannon
+				<img src="https://private-avatars.githubusercontent.com/u/54418?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE2NDAsIm5iZiI6MTczNDM0MDQ0MCwicGF0aCI6Ii91LzU0NDE4In0.tKt582ma7MkWSIdJQCpPFpu0rbcBduDuy9uAxAj2E-U&s=72&u=d802d54e21af0befea878eacff303c384b2a1871&v=4" width="24" alt="Avatar of brettcannon"/> brettcannon
 			</a><br/>
 			Brett Cannon
 		</td>
 		<td>@microsoft  </td>
 		<td>No Twitter Username</td>
 		<td>Vancouver BC Canada</td>
-		<td>1098</td>
-		<td>1247</td>
+		<td>1099</td>
+		<td>1248</td>
 	</tr>
 	<tr>
 		<td>201</td>
 		<td>
 			<a target="_blank" href="https://github.com/cyberdelia">
-				<img src="https://private-avatars.githubusercontent.com/u/44535?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0NjAsIm5iZiI6MTczNDMwNDI2MCwicGF0aCI6Ii91LzQ0NTM1In0.s4A1zR0YUjNAQ3i_ZbaZ9KwGPjkTeidVvZJDJphk9Mo&s=72&u=a864630f300b6ce6b9b95e23f733626fedcdac49&v=4" width="24" alt="Avatar of cyberdelia"/> cyberdelia
+				<img src="https://private-avatars.githubusercontent.com/u/44535?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIzNjAsIm5iZiI6MTczNDM0MTE2MCwicGF0aCI6Ii91LzQ0NTM1In0.Fwf8dXuu6FkdA-ndQNNW6tE89OBndjCInXYxIYUT62s&s=72&u=a864630f300b6ce6b9b95e23f733626fedcdac49&v=4" width="24" alt="Avatar of cyberdelia"/> cyberdelia
 			</a><br/>
 			Timothe Peignier
 		</td>
@@ -2928,7 +2928,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>202</td>
 		<td>
 			<a target="_blank" href="https://github.com/kvirani">
-				<img src="https://private-avatars.githubusercontent.com/u/5898?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3MDAsIm5iZiI6MTczNDMwNDUwMCwicGF0aCI6Ii91LzU4OTgifQ.gz-ZiGf_TwtVpMex0gJHH5n4nFYPFLfS9T_j2NCvlos&s=72&v=4" width="24" alt="Avatar of kvirani"/> kvirani
+				<img src="https://private-avatars.githubusercontent.com/u/5898?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3MDAsIm5iZiI6MTczNDM0MDUwMCwicGF0aCI6Ii91LzU4OTgifQ.vk_1oRFOeOKPaOFBxDglBBBnYhbLOTb0sHpKpijy1No&s=72&v=4" width="24" alt="Avatar of kvirani"/> kvirani
 			</a><br/>
 			Khurram Virani
 		</td>
@@ -2942,7 +2942,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>203</td>
 		<td>
 			<a target="_blank" href="https://github.com/andydbc">
-				<img src="https://private-avatars.githubusercontent.com/u/31256170?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxMDAsIm5iZiI6MTczNDMwMzkwMCwicGF0aCI6Ii91LzMxMjU2MTcwIn0.s32hY56OPsDz_QA6kNnKcZ5hyBvvLvl647B66GuOLIk&s=72&u=8f77daf686067304a1ea5c5f9da98ddb48a3f5ef&v=4" width="24" alt="Avatar of andydbc"/> andydbc
+				<img src="https://private-avatars.githubusercontent.com/u/31256170?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDExMDAsIm5iZiI6MTczNDMzOTkwMCwicGF0aCI6Ii91LzMxMjU2MTcwIn0.8UoLcFnTYRgEkkZA-IzxGSLGv5oe0-5KcQHGzwFpk98&s=72&u=8f77daf686067304a1ea5c5f9da98ddb48a3f5ef&v=4" width="24" alt="Avatar of andydbc"/> andydbc
 			</a><br/>
 			andy
 		</td>
@@ -2956,7 +2956,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>204</td>
 		<td>
 			<a target="_blank" href="https://github.com/jacobparis">
-				<img src="https://private-avatars.githubusercontent.com/u/5633704?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1MjAsIm5iZiI6MTczNDMwNDMyMCwicGF0aCI6Ii91LzU2MzM3MDQifQ.2AgOp4il-FrKXJoAWJgFPc3z2o-U7n-4dJQMui-VTuk&s=72&u=ca578ebefe86408b091e8b65425097ffb9a20389&v=4" width="24" alt="Avatar of jacobparis"/> jacobparis
+				<img src="https://private-avatars.githubusercontent.com/u/5633704?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDI0MjAsIm5iZiI6MTczNDM0MTIyMCwicGF0aCI6Ii91LzU2MzM3MDQifQ.eiBh6t2hbuMHo7FgWJtaG8NfJQGESso8ImiaW62C1M8&s=72&u=ca578ebefe86408b091e8b65425097ffb9a20389&v=4" width="24" alt="Avatar of jacobparis"/> jacobparis
 			</a><br/>
 			Jacob Paris
 		</td>
@@ -2970,7 +2970,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>205</td>
 		<td>
 			<a target="_blank" href="https://github.com/stas00">
-				<img src="https://private-avatars.githubusercontent.com/u/10676103?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ4MDAsIm5iZiI6MTczNDMwMzYwMCwicGF0aCI6Ii91LzEwNjc2MTAzIn0.8u0hEpEUGAV-PvmSK5WuqT02M6_Xgca7iAwaCb3oYCM&s=72&u=8dabbce5199b04f649e1c7cced4c59a2ae173261&v=4" width="24" alt="Avatar of stas00"/> stas00
+				<img src="https://private-avatars.githubusercontent.com/u/10676103?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3MDAsIm5iZiI6MTczNDM0MDUwMCwicGF0aCI6Ii91LzEwNjc2MTAzIn0.yOzmX_P8uCwP0gNq9yuQ4imkgn0kgSKKKIH9oAep6TM&s=72&u=8dabbce5199b04f649e1c7cced4c59a2ae173261&v=4" width="24" alt="Avatar of stas00"/> stas00
 			</a><br/>
 			Stas Bekman
 		</td>
@@ -2984,7 +2984,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>206</td>
 		<td>
 			<a target="_blank" href="https://github.com/EQuimper">
-				<img src="https://private-avatars.githubusercontent.com/u/15819498?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0MDAsIm5iZiI6MTczNDMwNDIwMCwicGF0aCI6Ii91LzE1ODE5NDk4In0.luxFBI8xWrkildrRQWY88Bj-DRU8-NDFuu2g1LsgmxQ&s=72&u=dbc9afeb11a6d3ea86f816426e4447ee987fe528&v=4" width="24" alt="Avatar of EQuimper"/> EQuimper
+				<img src="https://private-avatars.githubusercontent.com/u/15819498?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0MDAsIm5iZiI6MTczNDM0MDIwMCwicGF0aCI6Ii91LzE1ODE5NDk4In0.ubItdhG0CN5OJoRhtgoX7jBR2ryRdzqhR2PfLQ1jJe4&s=72&u=dbc9afeb11a6d3ea86f816426e4447ee987fe528&v=4" width="24" alt="Avatar of EQuimper"/> EQuimper
 			</a><br/>
 			Emanuel Quimper
 		</td>
@@ -2998,7 +2998,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>207</td>
 		<td>
 			<a target="_blank" href="https://github.com/JLHwung">
-				<img src="https://private-avatars.githubusercontent.com/u/3607926?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ5ODAsIm5iZiI6MTczNDMwMzc4MCwicGF0aCI6Ii91LzM2MDc5MjYifQ.5EBBT2CaukKbCswXFaC5iaNrlGx5SN8vdi0cFu_T_sI&s=72&v=4" width="24" alt="Avatar of JLHwung"/> JLHwung
+				<img src="https://private-avatars.githubusercontent.com/u/3607926?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4ODAsIm5iZiI6MTczNDM0MDY4MCwicGF0aCI6Ii91LzM2MDc5MjYifQ.UyTivg6mYxRItZOr6xm0nc-MSlh5sOvJc_zUyf82qZM&s=72&v=4" width="24" alt="Avatar of JLHwung"/> JLHwung
 			</a><br/>
 			Hung Jnling
 		</td>
@@ -3012,7 +3012,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>208</td>
 		<td>
 			<a target="_blank" href="https://github.com/corbanbrook">
-				<img src="https://private-avatars.githubusercontent.com/u/62406?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4MjAsIm5iZiI6MTczNDMwNDYyMCwicGF0aCI6Ii91LzYyNDA2In0.zA79ciw4bPflK4oNfe3spbTSizckUt63R1O_gZtjYxo&s=72&v=4" width="24" alt="Avatar of corbanbrook"/> corbanbrook
+				<img src="https://private-avatars.githubusercontent.com/u/62406?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4MjAsIm5iZiI6MTczNDM0MDYyMCwicGF0aCI6Ii91LzYyNDA2In0.Wr5bTGiVSLvEOJ_MD5UdO9tMZ7DdJ7hV8iTQXUG_dcs&s=72&v=4" width="24" alt="Avatar of corbanbrook"/> corbanbrook
 			</a><br/>
 			Corban Brook
 		</td>
@@ -3026,7 +3026,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>209</td>
 		<td>
 			<a target="_blank" href="https://github.com/IanDarwin">
-				<img src="https://private-avatars.githubusercontent.com/u/4762842?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxNjAsIm5iZiI6MTczNDMwMzk2MCwicGF0aCI6Ii91LzQ3NjI4NDIifQ.Lj2ZoTUMTs5juGBIpeDYrsHiz99dAOpo9iDsMqjhwTI&s=72&v=4" width="24" alt="Avatar of IanDarwin"/> IanDarwin
+				<img src="https://private-avatars.githubusercontent.com/u/4762842?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDExNjAsIm5iZiI6MTczNDMzOTk2MCwicGF0aCI6Ii91LzQ3NjI4NDIifQ.g69g0bNDBCkIPp3QFpkiCCdVFkU2afX9VpiFx1_8oH4&s=72&v=4" width="24" alt="Avatar of IanDarwin"/> IanDarwin
 			</a><br/>
 			Ian Darwin
 		</td>
@@ -3040,7 +3040,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>210</td>
 		<td>
 			<a target="_blank" href="https://github.com/ahmadnassri">
-				<img src="https://private-avatars.githubusercontent.com/u/183195?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ5ODAsIm5iZiI6MTczNDMwMzc4MCwicGF0aCI6Ii91LzE4MzE5NSJ9.7ZRmKwYOfG0spcCeaPglmZNFTu4I9UQKfBiq3q8e2eU&s=72&u=687c56f8808f36abc63c88561178f33ed12bfe5c&v=4" width="24" alt="Avatar of ahmadnassri"/> ahmadnassri
+				<img src="https://private-avatars.githubusercontent.com/u/183195?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDA5ODAsIm5iZiI6MTczNDMzOTc4MCwicGF0aCI6Ii91LzE4MzE5NSJ9.V6y1B6FdReCuYsSkjWIrhPTXvNVPK78u2t80P0buYxw&s=72&u=687c56f8808f36abc63c88561178f33ed12bfe5c&v=4" width="24" alt="Avatar of ahmadnassri"/> ahmadnassri
 			</a><br/>
 			Ahmad Nassri
 		</td>
@@ -3054,7 +3054,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>211</td>
 		<td>
 			<a target="_blank" href="https://github.com/martindurant">
-				<img src="https://private-avatars.githubusercontent.com/u/6042212?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyMjAsIm5iZiI6MTczNDMwNDAyMCwicGF0aCI6Ii91LzYwNDIyMTIifQ.gzIjUYGl4p10zr6lJ7ytnsvb30N0_xyLApJbslIJMUI&s=72&u=1c1fb88aea22b5c4c3e8b214bd5ec2b68f96f352&v=4" width="24" alt="Avatar of martindurant"/> martindurant
+				<img src="https://private-avatars.githubusercontent.com/u/6042212?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyMjAsIm5iZiI6MTczNDM0MDAyMCwicGF0aCI6Ii91LzYwNDIyMTIifQ.MUzChetcb8iDexPIs4KLdMMGibu3dRtSafu0S8Zd8R8&s=72&u=1c1fb88aea22b5c4c3e8b214bd5ec2b68f96f352&v=4" width="24" alt="Avatar of martindurant"/> martindurant
 			</a><br/>
 			Martin Durant
 		</td>
@@ -3068,7 +3068,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>212</td>
 		<td>
 			<a target="_blank" href="https://github.com/friyiajr">
-				<img src="https://private-avatars.githubusercontent.com/u/48887088?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1ODAsIm5iZiI6MTczNDMwNDM4MCwicGF0aCI6Ii91LzQ4ODg3MDg4In0.4ixOnTyx7aZastL-lNRWpAeAp0uPli2JvEVTMxqS0Fw&s=72&u=a6a39803da98d6bee0fcc3e6fdc9fca60719b60f&v=4" width="24" alt="Avatar of friyiajr"/> friyiajr
+				<img src="https://private-avatars.githubusercontent.com/u/48887088?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1ODAsIm5iZiI6MTczNDM0MDM4MCwicGF0aCI6Ii91LzQ4ODg3MDg4In0.CM4oNfzkfEEnl9VRvbIScy6zTefnCsBjs00I7cduYH4&s=72&u=a6a39803da98d6bee0fcc3e6fdc9fca60719b60f&v=4" width="24" alt="Avatar of friyiajr"/> friyiajr
 			</a><br/>
 			Daniel Friyia
 		</td>
@@ -3081,8 +3081,22 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 	<tr>
 		<td>213</td>
 		<td>
+			<a target="_blank" href="https://github.com/Rishit-dagli">
+				<img src="https://private-avatars.githubusercontent.com/u/39672672?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4MjAsIm5iZiI6MTczNDM0MDYyMCwicGF0aCI6Ii91LzM5NjcyNjcyIn0.A2htzLJcmXw9TSZ2A9fNBraRfxhqGZt5aYBmgig-MPc&s=72&u=e139bda95719e1977a10fec48b9c1f6497e8c8d5&v=4" width="24" alt="Avatar of Rishit-dagli"/> Rishit-dagli
+			</a><br/>
+			Rishit Dagli
+		</td>
+		<td>Uoft @qualcommairesearch </td>
+		<td><a target="_blank" href="https://twitter.com/rishit_dagli">rishit_dagli</a></td>
+		<td>Toronto Canada</td>
+		<td>141</td>
+		<td>1176</td>
+	</tr>
+	<tr>
+		<td>214</td>
+		<td>
 			<a target="_blank" href="https://github.com/KlausMikhaelson">
-				<img src="https://private-avatars.githubusercontent.com/u/100528412?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1ODAsIm5iZiI6MTczNDMwNDM4MCwicGF0aCI6Ii91LzEwMDUyODQxMiJ9.48OVEFmQor1VSp3Lu6ybWWcJw-_3YFW9uaK1GZiPZdA&s=72&u=5a698ee122d2296cb361f5d0434160fdcd26c039&v=4" width="24" alt="Avatar of KlausMikhaelson"/> KlausMikhaelson
+				<img src="https://private-avatars.githubusercontent.com/u/100528412?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1ODAsIm5iZiI6MTczNDM0MDM4MCwicGF0aCI6Ii91LzEwMDUyODQxMiJ9.7dLk6bLdV6FWuKIJ811dPWKXnLgE-moKd0aLZCQSNyc&s=72&u=5a698ee122d2296cb361f5d0434160fdcd26c039&v=4" width="24" alt="Avatar of KlausMikhaelson"/> KlausMikhaelson
 			</a><br/>
 			Satyam
 		</td>
@@ -3093,24 +3107,24 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>1174</td>
 	</tr>
 	<tr>
-		<td>214</td>
-		<td>
-			<a target="_blank" href="https://github.com/Rishit-dagli">
-				<img src="https://private-avatars.githubusercontent.com/u/39672672?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ5MjAsIm5iZiI6MTczNDMwMzcyMCwicGF0aCI6Ii91LzM5NjcyNjcyIn0.vwihFAJ7XcxbRuhWvNADFlZiIaPMrYrWAnZgi_Ejmrs&s=72&u=e139bda95719e1977a10fec48b9c1f6497e8c8d5&v=4" width="24" alt="Avatar of Rishit-dagli"/> Rishit-dagli
-			</a><br/>
-			Rishit Dagli
-		</td>
-		<td>Uoft @qualcommairesearch </td>
-		<td><a target="_blank" href="https://twitter.com/rishit_dagli">rishit_dagli</a></td>
-		<td>Toronto Canada</td>
-		<td>141</td>
-		<td>1165</td>
-	</tr>
-	<tr>
 		<td>215</td>
 		<td>
+			<a target="_blank" href="https://github.com/patmaddox">
+				<img src="https://private-avatars.githubusercontent.com/u/1111?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIwNjAsIm5iZiI6MTczNDM0MDg2MCwicGF0aCI6Ii91LzExMTEifQ.9p2zrW7JSACtuCtdQSA5E2G8h2iopeqYBdmm9R1biA0&s=72&v=4" width="24" alt="Avatar of patmaddox"/> patmaddox
+			</a><br/>
+			Pat Maddox
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vancouver WA</td>
+		<td>280</td>
+		<td>1160</td>
+	</tr>
+	<tr>
+		<td>216</td>
+		<td>
 			<a target="_blank" href="https://github.com/jackharrhy">
-				<img src="https://private-avatars.githubusercontent.com/u/6486417?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0NjAsIm5iZiI6MTczNDMwNDI2MCwicGF0aCI6Ii91LzY0ODY0MTcifQ.sTSW_SzdVwVgYklA_0SbwaegdyEfxCFK_Yl1BxlF6Kc&s=72&u=a4cb2bf5977ab5bf1dc2afe50cadab731a5fada7&v=4" width="24" alt="Avatar of jackharrhy"/> jackharrhy
+				<img src="https://private-avatars.githubusercontent.com/u/6486417?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIzNjAsIm5iZiI6MTczNDM0MTE2MCwicGF0aCI6Ii91LzY0ODY0MTcifQ.0zkqEcWb_IQsg3dnX0JTJ4DxJiulD8bRmvhpTA6j-ZM&s=72&u=a4cb2bf5977ab5bf1dc2afe50cadab731a5fada7&v=4" width="24" alt="Avatar of jackharrhy"/> jackharrhy
 			</a><br/>
 			Jack Harrhy
 		</td>
@@ -3121,24 +3135,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>1159</td>
 	</tr>
 	<tr>
-		<td>216</td>
-		<td>
-			<a target="_blank" href="https://github.com/patmaddox">
-				<img src="https://private-avatars.githubusercontent.com/u/1111?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDYwNjAsIm5iZiI6MTczNDMwNDg2MCwicGF0aCI6Ii91LzExMTEifQ.m0IusUe9tDl_RB_CT9bpMX0Q5nFNvNXDQxAa8g0BFA8&s=72&v=4" width="24" alt="Avatar of patmaddox"/> patmaddox
-			</a><br/>
-			Pat Maddox
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vancouver WA</td>
-		<td>278</td>
-		<td>1158</td>
-	</tr>
-	<tr>
 		<td>217</td>
 		<td>
 			<a target="_blank" href="https://github.com/staccDOTsol">
-				<img src="https://private-avatars.githubusercontent.com/u/22843601?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0NjAsIm5iZiI6MTczNDMwNDI2MCwicGF0aCI6Ii91LzIyODQzNjAxIn0.0Hn1UAtogDkfAspp19M04rAblEAx5_N6Rk45tdgnNKo&s=72&u=1b02c136fef6883a338543c2ae7d4de6cdc39e2f&v=4" width="24" alt="Avatar of staccDOTsol"/> staccDOTsol
+				<img src="https://private-avatars.githubusercontent.com/u/22843601?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0NjAsIm5iZiI6MTczNDM0MDI2MCwicGF0aCI6Ii91LzIyODQzNjAxIn0.XyrR49lmqbU5Uf8IlNcLussbHEJf24V_o9e_BVkiSAQ&s=72&u=1b02c136fef6883a338543c2ae7d4de6cdc39e2f&v=4" width="24" alt="Avatar of staccDOTsol"/> staccDOTsol
 			</a><br/>
 			Jarett Dunn
 		</td>
@@ -3152,7 +3152,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>218</td>
 		<td>
 			<a target="_blank" href="https://github.com/eneskemalergin">
-				<img src="https://private-avatars.githubusercontent.com/u/7672473?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0MDAsIm5iZiI6MTczNDMwNDIwMCwicGF0aCI6Ii91Lzc2NzI0NzMifQ.MgJYD1OoRXCc1YjCzRQr3QSOqBnT7cp1qg7IXRMNFCo&s=72&u=f8126d1cd924ebe6521d89ec1e7e5bf5ae799a39&v=4" width="24" alt="Avatar of eneskemalergin"/> eneskemalergin
+				<img src="https://private-avatars.githubusercontent.com/u/7672473?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0MDAsIm5iZiI6MTczNDM0MDIwMCwicGF0aCI6Ii91Lzc2NzI0NzMifQ.xct19p0_Nz4VJBo7N3XE6RHgJZyF6yJ__U4mvjhUHQg&s=72&u=f8126d1cd924ebe6521d89ec1e7e5bf5ae799a39&v=4" width="24" alt="Avatar of eneskemalergin"/> eneskemalergin
 			</a><br/>
 			Enes Ergin
 		</td>
@@ -3166,7 +3166,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>219</td>
 		<td>
 			<a target="_blank" href="https://github.com/teamchong">
-				<img src="https://private-avatars.githubusercontent.com/u/25894545?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0NjAsIm5iZiI6MTczNDMwNDI2MCwicGF0aCI6Ii91LzI1ODk0NTQ1In0.aWczA39psuEv3_E4qRerTSVjUptPBZkM7ZbBjMVevaU&s=72&u=1f6236ce8c272f086ed319e25b928c47dc20712b&v=4" width="24" alt="Avatar of teamchong"/> teamchong
+				<img src="https://private-avatars.githubusercontent.com/u/25894545?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIzNjAsIm5iZiI6MTczNDM0MTE2MCwicGF0aCI6Ii91LzI1ODk0NTQ1In0.75182HcijHofdF7UGEJNEuE1ZU-rSFEURwDJfwzLA88&s=72&u=1f6236ce8c272f086ed319e25b928c47dc20712b&v=4" width="24" alt="Avatar of teamchong"/> teamchong
 			</a><br/>
 			Steven
 		</td>
@@ -3174,13 +3174,13 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Toronto</td>
 		<td>189</td>
-		<td>1150</td>
+		<td>1156</td>
 	</tr>
 	<tr>
 		<td>220</td>
 		<td>
 			<a target="_blank" href="https://github.com/watadarkstar">
-				<img src="https://private-avatars.githubusercontent.com/u/3059371?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91LzMwNTkzNzEifQ.tqqjCUihpsmjG2-OKHp2knsrhsUX3Nx0vNKN1Bjgfw4&s=72&u=3601a904e572815a38f997cf2e5cdd9423d01f5f&v=4" width="24" alt="Avatar of watadarkstar"/> watadarkstar
+				<img src="https://private-avatars.githubusercontent.com/u/3059371?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIyNDAsIm5iZiI6MTczNDM0MTA0MCwicGF0aCI6Ii91LzMwNTkzNzEifQ.ZUqq85LgFfYBvI6nLb0NgAuwKP3zSjn7IjXx_MnD3YU&s=72&u=3601a904e572815a38f997cf2e5cdd9423d01f5f&v=4" width="24" alt="Avatar of watadarkstar"/> watadarkstar
 			</a><br/>
 			Adrian Carolli
 		</td>
@@ -3194,7 +3194,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>221</td>
 		<td>
 			<a target="_blank" href="https://github.com/danqzq">
-				<img src="https://private-avatars.githubusercontent.com/u/68948292?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDYwNjAsIm5iZiI6MTczNDMwNDg2MCwicGF0aCI6Ii91LzY4OTQ4MjkyIn0.BVgMoQNkcdIKAl66Hro7Fno6Ztwa9XHlvTHWBK3gYBI&s=72&u=1c99ee241e44af8b18a472249a5dfa82a4119e26&v=4" width="24" alt="Avatar of danqzq"/> danqzq
+				<img src="https://private-avatars.githubusercontent.com/u/68948292?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIwNjAsIm5iZiI6MTczNDM0MDg2MCwicGF0aCI6Ii91LzY4OTQ4MjkyIn0.bdJZ_a01QHIpxPvGk8wRfrytLyJ81bOwUlgM9Sp3uGA&s=72&u=1c99ee241e44af8b18a472249a5dfa82a4119e26&v=4" width="24" alt="Avatar of danqzq"/> danqzq
 			</a><br/>
 			Danial Jumagaliyev
 		</td>
@@ -3208,7 +3208,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>222</td>
 		<td>
 			<a target="_blank" href="https://github.com/thedaviddias">
-				<img src="https://private-avatars.githubusercontent.com/u/237229?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ5ODAsIm5iZiI6MTczNDMwMzc4MCwicGF0aCI6Ii91LzIzNzIyOSJ9.QddWqftlyhDpzsvCmh9qmvZA86pGbYRtRcFM8g-zsZY&s=72&u=984c72b4407a6654caf09bb1506d70a678860de7&v=4" width="24" alt="Avatar of thedaviddias"/> thedaviddias
+				<img src="https://private-avatars.githubusercontent.com/u/237229?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDA5ODAsIm5iZiI6MTczNDMzOTc4MCwicGF0aCI6Ii91LzIzNzIyOSJ9.4f2EJNVYlTK8D0fE_SHU4wC3jJq8OmP81anwApKg52o&s=72&u=984c72b4407a6654caf09bb1506d70a678860de7&v=4" width="24" alt="Avatar of thedaviddias"/> thedaviddias
 			</a><br/>
 			David Dias
 		</td>
@@ -3222,21 +3222,21 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>223</td>
 		<td>
 			<a target="_blank" href="https://github.com/rokon12">
-				<img src="https://private-avatars.githubusercontent.com/u/429073?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0MDAsIm5iZiI6MTczNDMwNDIwMCwicGF0aCI6Ii91LzQyOTA3MyJ9.I_RksMpOy97VdoIOVDPxC3hjK6Gci5rcbbqPSmbdYBE&s=72&v=4" width="24" alt="Avatar of rokon12"/> rokon12
+				<img src="https://private-avatars.githubusercontent.com/u/429073?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0MDAsIm5iZiI6MTczNDM0MDIwMCwicGF0aCI6Ii91LzQyOTA3MyJ9.MEo3cJpI4ETcPWR4i_hYjk694DHT6RgfmobwWf45Npg&s=72&v=4" width="24" alt="Avatar of rokon12"/> rokon12
 			</a><br/>
 			A N M Bazlur Rahman 
 		</td>
 		<td>@dnastack  </td>
 		<td><a target="_blank" href="https://twitter.com/bazlur_rahman">bazlur_rahman</a></td>
 		<td>Toronto Canada</td>
-		<td>433</td>
-		<td>1141</td>
+		<td>434</td>
+		<td>1142</td>
 	</tr>
 	<tr>
 		<td>224</td>
 		<td>
 			<a target="_blank" href="https://github.com/ibraheemdev">
-				<img src="https://private-avatars.githubusercontent.com/u/34988408?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91LzM0OTg4NDA4In0.4R95DmsLYLyvOl1elxe9_SNrZ7WkD32e8rxleijQ7Jo&s=72&u=68ca0481dec81ffbf3a596951a2cbe52d3fb5718&v=4" width="24" alt="Avatar of ibraheemdev"/> ibraheemdev
+				<img src="https://private-avatars.githubusercontent.com/u/34988408?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEzNDAsIm5iZiI6MTczNDM0MDE0MCwicGF0aCI6Ii91LzM0OTg4NDA4In0.Uxfp4Py602ma4Ydm8cEdcho96n8PoYU8JoHTHSTMEWU&s=72&u=68ca0481dec81ffbf3a596951a2cbe52d3fb5718&v=4" width="24" alt="Avatar of ibraheemdev"/> ibraheemdev
 			</a><br/>
 			Ibraheem Ahmed
 		</td>
@@ -3250,7 +3250,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>225</td>
 		<td>
 			<a target="_blank" href="https://github.com/djwester">
-				<img src="https://private-avatars.githubusercontent.com/u/7783715?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDYwNjAsIm5iZiI6MTczNDMwNDg2MCwicGF0aCI6Ii91Lzc3ODM3MTUifQ.Dmk3ntzZUtmOB3xOQrvgoAEBSQ_IZ1x3Pk7JnUAeBw8&s=72&u=24bdb056c0358a4a556564e9b237fcb740b54531&v=4" width="24" alt="Avatar of djwester"/> djwester
+				<img src="https://private-avatars.githubusercontent.com/u/7783715?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIwNjAsIm5iZiI6MTczNDM0MDg2MCwicGF0aCI6Ii91Lzc3ODM3MTUifQ.Jkg9jNeIEqyNh1i88S1t52V2QXKNwKY4PdDohGp597Q&s=72&u=24bdb056c0358a4a556564e9b237fcb740b54531&v=4" width="24" alt="Avatar of djwester"/> djwester
 			</a><br/>
 			Dave Westerveld
 		</td>
@@ -3264,7 +3264,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>226</td>
 		<td>
 			<a target="_blank" href="https://github.com/vito">
-				<img src="https://private-avatars.githubusercontent.com/u/1880?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ4NjAsIm5iZiI6MTczNDMwMzY2MCwicGF0aCI6Ii91LzE4ODAifQ.Ae9x-buSlab1B0bTYDUUDefmaUuDNuLSotsNzMAZk5w&s=72&u=a10924f634114c4950a1c6895d1f8f5ab8a8ab8d&v=4" width="24" alt="Avatar of vito"/> vito
+				<img src="https://private-avatars.githubusercontent.com/u/1880?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3NjAsIm5iZiI6MTczNDM0MDU2MCwicGF0aCI6Ii91LzE4ODAifQ.VjwbmmMyRqLoRtEXUjHNFHlBCtuWuwwWo2sGQyPyAa4&s=72&u=a10924f634114c4950a1c6895d1f8f5ab8a8ab8d&v=4" width="24" alt="Avatar of vito"/> vito
 			</a><br/>
 			Alex Suraci
 		</td>
@@ -3278,7 +3278,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>227</td>
 		<td>
 			<a target="_blank" href="https://github.com/grossmj">
-				<img src="https://private-avatars.githubusercontent.com/u/4752614?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4ODAsIm5iZiI6MTczNDMwNDY4MCwicGF0aCI6Ii91LzQ3NTI2MTQifQ.YWBAeCNXaaF_X9OG71EZCa7-ww6KhoiMWE-Kz9uuh8s&s=72&v=4" width="24" alt="Avatar of grossmj"/> grossmj
+				<img src="https://private-avatars.githubusercontent.com/u/4752614?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4ODAsIm5iZiI6MTczNDM0MDY4MCwicGF0aCI6Ii91LzQ3NTI2MTQifQ.e2xAcHVzr4pB0CliLtCe-W3jGctqvD1PnRMv7i85f7E&s=72&v=4" width="24" alt="Avatar of grossmj"/> grossmj
 			</a><br/>
 			Jeremy Grossmann
 		</td>
@@ -3292,21 +3292,21 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>228</td>
 		<td>
 			<a target="_blank" href="https://github.com/breandan">
-				<img src="https://private-avatars.githubusercontent.com/u/175716?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4MjAsIm5iZiI6MTczNDMwNDYyMCwicGF0aCI6Ii91LzE3NTcxNiJ9.Ywi14Q3EErA4Nwmu1OpjVXbXYlyO7A_0hYMDewkqFNs&s=72&u=52afb6cbc782555d11a910881455ad9c75d90f72&v=4" width="24" alt="Avatar of breandan"/> breandan
+				<img src="https://private-avatars.githubusercontent.com/u/175716?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4MjAsIm5iZiI6MTczNDM0MDYyMCwicGF0aCI6Ii91LzE3NTcxNiJ9.q-cx0IVtpyOfg_oHCSHMCzrOMpRosrz7BlBotX16zoA&s=72&u=52afb6cbc782555d11a910881455ad9c75d90f72&v=4" width="24" alt="Avatar of breandan"/> breandan
 			</a><br/>
 			breandan
 		</td>
 		<td>@milaiqia </td>
 		<td><a target="_blank" href="https://twitter.com/breandan">breandan</a></td>
 		<td>Montral Qubec Canada</td>
-		<td>1130</td>
 		<td>1131</td>
+		<td>1132</td>
 	</tr>
 	<tr>
 		<td>229</td>
 		<td>
 			<a target="_blank" href="https://github.com/nikolovlazar">
-				<img src="https://private-avatars.githubusercontent.com/u/5396211?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUwNDAsIm5iZiI6MTczNDMwMzg0MCwicGF0aCI6Ii91LzUzOTYyMTEifQ.qZUJQJMandyECohsXxJVPv2_iQeYK7aLDbr6gMkSxEc&s=72&u=68d8e03dc65744a31a9a10dad5731dd79d5eaa56&v=4" width="24" alt="Avatar of nikolovlazar"/> nikolovlazar
+				<img src="https://private-avatars.githubusercontent.com/u/5396211?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEwNDAsIm5iZiI6MTczNDMzOTg0MCwicGF0aCI6Ii91LzUzOTYyMTEifQ.xxArsOEAte1g_yYWGE-7JpT4DCVQ_yPIOWZWbmvOblQ&s=72&u=68d8e03dc65744a31a9a10dad5731dd79d5eaa56&v=4" width="24" alt="Avatar of nikolovlazar"/> nikolovlazar
 			</a><br/>
 			Lazar Nikolov
 		</td>
@@ -3319,8 +3319,22 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 	<tr>
 		<td>230</td>
 		<td>
+			<a target="_blank" href="https://github.com/paigeruten">
+				<img src="https://private-avatars.githubusercontent.com/u/115779?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0NjAsIm5iZiI6MTczNDM0MDI2MCwicGF0aCI6Ii91LzExNTc3OSJ9.ws7PaGnve0S4PfwacgAMBYr1ooyzBCEfkSHAvVOtd54&s=72&u=359830b1fcbf9b4d347c9e62eb31aa7b17ca0e5d&v=4" width="24" alt="Avatar of paigeruten"/> paigeruten
+			</a><br/>
+			Paige Ruten
+		</td>
+		<td>@7shifts </td>
+		<td>No Twitter Username</td>
+		<td>Saskatoon Canada</td>
+		<td>86</td>
+		<td>1127</td>
+	</tr>
+	<tr>
+		<td>231</td>
+		<td>
 			<a target="_blank" href="https://github.com/krystalcampioni">
-				<img src="https://private-avatars.githubusercontent.com/u/4037781?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91LzQwMzc3ODEifQ.x2F4J1CtNyYVhnxwjull56guDtFMikIHnHsaPysRWsY&s=72&u=6c686d27d0895e623f11200ae37d6aaaefab08a3&v=4" width="24" alt="Avatar of krystalcampioni"/> krystalcampioni
+				<img src="https://private-avatars.githubusercontent.com/u/4037781?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIyNDAsIm5iZiI6MTczNDM0MTA0MCwicGF0aCI6Ii91LzQwMzc3ODEifQ.p4BYXgpTJDINgU6EZ-ERSWVtrhq8BgJAGB_HFu9_Yag&s=72&u=6c686d27d0895e623f11200ae37d6aaaefab08a3&v=4" width="24" alt="Avatar of krystalcampioni"/> krystalcampioni
 			</a><br/>
 			Krystal Campioni
 		</td>
@@ -3331,24 +3345,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>1126</td>
 	</tr>
 	<tr>
-		<td>231</td>
-		<td>
-			<a target="_blank" href="https://github.com/paigeruten">
-				<img src="https://private-avatars.githubusercontent.com/u/115779?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0NjAsIm5iZiI6MTczNDMwNDI2MCwicGF0aCI6Ii91LzExNTc3OSJ9.v-cQi91gneom5kNwEjHjPiW1znHpC-RyCzAMQmdarCg&s=72&u=359830b1fcbf9b4d347c9e62eb31aa7b17ca0e5d&v=4" width="24" alt="Avatar of paigeruten"/> paigeruten
-			</a><br/>
-			Paige Ruten
-		</td>
-		<td>@7shifts </td>
-		<td>No Twitter Username</td>
-		<td>Saskatoon Canada</td>
-		<td>85</td>
-		<td>1125</td>
-	</tr>
-	<tr>
 		<td>232</td>
 		<td>
 			<a target="_blank" href="https://github.com/marcandre">
-				<img src="https://private-avatars.githubusercontent.com/u/33770?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyODAsIm5iZiI6MTczNDMwNDA4MCwicGF0aCI6Ii91LzMzNzcwIn0.frIThkd3hNVVgvPXA2M7bgqomK-tyTeCHIrC8hkpx-s&s=72&v=4" width="24" alt="Avatar of marcandre"/> marcandre
+				<img src="https://private-avatars.githubusercontent.com/u/33770?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyODAsIm5iZiI6MTczNDM0MDA4MCwicGF0aCI6Ii91LzMzNzcwIn0.m3naBMrFBRLvfwEkWI-9jfhX4nLs7M502mBv8fLQhnE&s=72&v=4" width="24" alt="Avatar of marcandre"/> marcandre
 			</a><br/>
 			MarcAndr Lafortune
 		</td>
@@ -3362,7 +3362,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>233</td>
 		<td>
 			<a target="_blank" href="https://github.com/theoomoregbee">
-				<img src="https://private-avatars.githubusercontent.com/u/10440327?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0MDAsIm5iZiI6MTczNDMwNDIwMCwicGF0aCI6Ii91LzEwNDQwMzI3In0.9M3HCHXPoGd8j8YYbb_ivINzWlz042zo1uPjitvLyVg&s=72&u=f3fa90d8ceb0b5c79f4eba3776175a14f0142796&v=4" width="24" alt="Avatar of theoomoregbee"/> theoomoregbee
+				<img src="https://private-avatars.githubusercontent.com/u/10440327?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIzMDAsIm5iZiI6MTczNDM0MTEwMCwicGF0aCI6Ii91LzEwNDQwMzI3In0.uPcmsJeTOUQyrdoc9121VBEakKtLLi-oYsj4mHUx2WY&s=72&u=f3fa90d8ceb0b5c79f4eba3776175a14f0142796&v=4" width="24" alt="Avatar of theoomoregbee"/> theoomoregbee
 			</a><br/>
 			Theophilus Omoregbee
 		</td>
@@ -3376,7 +3376,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>234</td>
 		<td>
 			<a target="_blank" href="https://github.com/rsaz">
-				<img src="https://private-avatars.githubusercontent.com/u/4088378?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0NjAsIm5iZiI6MTczNDMwNDI2MCwicGF0aCI6Ii91LzQwODgzNzgifQ.XXITE2or-zE58hN27YdwtJ_sjnLO4viLTbCTHWZ7veM&s=72&u=3f05c4672c5855b7b8709face8afb453eaf0e138&v=4" width="24" alt="Avatar of rsaz"/> rsaz
+				<img src="https://private-avatars.githubusercontent.com/u/4088378?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0NjAsIm5iZiI6MTczNDM0MDI2MCwicGF0aCI6Ii91LzQwODgzNzgifQ.cshm-PiTK8Yi5GgKTZJGHOPJfG1_ZjDskjlHX2yjok8&s=72&u=3f05c4672c5855b7b8709face8afb453eaf0e138&v=4" width="24" alt="Avatar of rsaz"/> rsaz
 			</a><br/>
 			Richard Zampieri
 		</td>
@@ -3390,7 +3390,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>235</td>
 		<td>
 			<a target="_blank" href="https://github.com/hlissner">
-				<img src="https://private-avatars.githubusercontent.com/u/510883?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxMDAsIm5iZiI6MTczNDMwMzkwMCwicGF0aCI6Ii91LzUxMDg4MyJ9.lWNIo5TUJrhSlQnauX-5A7q9g5j0kRshUjxGHajNprM&s=72&u=7eeebf99d9e079bb4ae33cb66b3b044bb2367f60&v=4" width="24" alt="Avatar of hlissner"/> hlissner
+				<img src="https://private-avatars.githubusercontent.com/u/510883?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDExMDAsIm5iZiI6MTczNDMzOTkwMCwicGF0aCI6Ii91LzUxMDg4MyJ9.XfIFqN2lB2-lW1M0zKmjhATKKt3qc_4fqgu5jrVN5GE&s=72&u=7eeebf99d9e079bb4ae33cb66b3b044bb2367f60&v=4" width="24" alt="Avatar of hlissner"/> hlissner
 			</a><br/>
 			Henrik Lissner
 		</td>
@@ -3404,7 +3404,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>236</td>
 		<td>
 			<a target="_blank" href="https://github.com/BenEmdon">
-				<img src="https://private-avatars.githubusercontent.com/u/11095731?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ5MjAsIm5iZiI6MTczNDMwMzcyMCwicGF0aCI6Ii91LzExMDk1NzMxIn0.lz7DdXtQNV7O4IfEnrYjwMISxdw_PmLod7kWidjqY_4&s=72&u=e626813988ed041d261d2ff1604819b5dcdd59a8&v=4" width="24" alt="Avatar of BenEmdon"/> BenEmdon
+				<img src="https://private-avatars.githubusercontent.com/u/11095731?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4MjAsIm5iZiI6MTczNDM0MDYyMCwicGF0aCI6Ii91LzExMDk1NzMxIn0.-eT3IorlyKQ9G6pY3u6ELoIcInGTbMcWnc5WIqmTujA&s=72&u=e626813988ed041d261d2ff1604819b5dcdd59a8&v=4" width="24" alt="Avatar of BenEmdon"/> BenEmdon
 			</a><br/>
 			Ben Emdon
 		</td>
@@ -3418,7 +3418,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>237</td>
 		<td>
 			<a target="_blank" href="https://github.com/cv">
-				<img src="https://private-avatars.githubusercontent.com/u/5445?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyODAsIm5iZiI6MTczNDMwNDA4MCwicGF0aCI6Ii91LzU0NDUifQ.5yOaWGaAmdUl8W0IixnCGJVzGVhgiyyNKevUfaoVSBs&s=72&v=4" width="24" alt="Avatar of cv"/> cv
+				<img src="https://private-avatars.githubusercontent.com/u/5445?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyODAsIm5iZiI6MTczNDM0MDA4MCwicGF0aCI6Ii91LzU0NDUifQ.zPAqCds7oglpzcMC20GEJLT23MW1oayxUONGddyqw8Y&s=72&v=4" width="24" alt="Avatar of cv"/> cv
 			</a><br/>
 			Carlos Villela
 		</td>
@@ -3432,7 +3432,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>238</td>
 		<td>
 			<a target="_blank" href="https://github.com/nandanmen">
-				<img src="https://private-avatars.githubusercontent.com/u/31267630?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ4NjAsIm5iZiI6MTczNDMwMzY2MCwicGF0aCI6Ii91LzMxMjY3NjMwIn0.th5AiddWjFWi07jd0Fh-F9rCSgM1yZ-rYAZ_Q2GbT9M&s=72&u=a48faa0e273a4af8ffc7f96b7175227cccd1d087&v=4" width="24" alt="Avatar of nandanmen"/> nandanmen
+				<img src="https://private-avatars.githubusercontent.com/u/31267630?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3NjAsIm5iZiI6MTczNDM0MDU2MCwicGF0aCI6Ii91LzMxMjY3NjMwIn0.dkE8aBDESk79rKD9vdCrApAxqdgk_EgjsY1wOaaCOSI&s=72&u=a48faa0e273a4af8ffc7f96b7175227cccd1d087&v=4" width="24" alt="Avatar of nandanmen"/> nandanmen
 			</a><br/>
 			Nanda Syahrasyad
 		</td>
@@ -3446,7 +3446,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>239</td>
 		<td>
 			<a target="_blank" href="https://github.com/adamwathan">
-				<img src="https://private-avatars.githubusercontent.com/u/4323180?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ3NDAsIm5iZiI6MTczNDMwMzU0MCwicGF0aCI6Ii91LzQzMjMxODAifQ.jcuFDmp_CHDffsGQTdNE3QeY5k0fzD1CvGNi35rdxJA&s=72&u=f6ec6f10c061cf179610c5afd8b120ca2c29ea7f&v=4" width="24" alt="Avatar of adamwathan"/> adamwathan
+				<img src="https://private-avatars.githubusercontent.com/u/4323180?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE2NDAsIm5iZiI6MTczNDM0MDQ0MCwicGF0aCI6Ii91LzQzMjMxODAifQ.aaiCtnAQymN_2uEvIDrk76duAawrQgae5wYrVB33UBA&s=72&u=f6ec6f10c061cf179610c5afd8b120ca2c29ea7f&v=4" width="24" alt="Avatar of adamwathan"/> adamwathan
 			</a><br/>
 			Adam Wathan
 		</td>
@@ -3460,7 +3460,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>240</td>
 		<td>
 			<a target="_blank" href="https://github.com/syl20bnr">
-				<img src="https://private-avatars.githubusercontent.com/u/1243537?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxMDAsIm5iZiI6MTczNDMwMzkwMCwicGF0aCI6Ii91LzEyNDM1MzcifQ.KZ_WYGRP8nZjRiP15wvvpOPxxbpktSvnlmLn57oHnRc&s=72&u=92b3a9640b6999de2581a34b1525a71ddcb25c6b&v=4" width="24" alt="Avatar of syl20bnr"/> syl20bnr
+				<img src="https://private-avatars.githubusercontent.com/u/1243537?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDExMDAsIm5iZiI6MTczNDMzOTkwMCwicGF0aCI6Ii91LzEyNDM1MzcifQ.E-T9QHkRq_8lacyhOc5xJjwsMinwZiBeOjSzDEMBhbg&s=72&u=92b3a9640b6999de2581a34b1525a71ddcb25c6b&v=4" width="24" alt="Avatar of syl20bnr"/> syl20bnr
 			</a><br/>
 			Sylvain Benner
 		</td>
@@ -3474,7 +3474,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>241</td>
 		<td>
 			<a target="_blank" href="https://github.com/erickzhao">
-				<img src="https://private-avatars.githubusercontent.com/u/16010076?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4MjAsIm5iZiI6MTczNDMwNDYyMCwicGF0aCI6Ii91LzE2MDEwMDc2In0.o0Efyy7ZmyeLtZ3ab4i5W1yLLqHyIIsCSiSzyIcbwlE&s=72&u=a6ad55f036b5bbb44b445614e739ee672b32a17e&v=4" width="24" alt="Avatar of erickzhao"/> erickzhao
+				<img src="https://private-avatars.githubusercontent.com/u/16010076?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4MjAsIm5iZiI6MTczNDM0MDYyMCwicGF0aCI6Ii91LzE2MDEwMDc2In0.Nrb9Q6D_MP6zwB_c9ZYije64_Z3GoydiirleIxHUBpY&s=72&u=a6ad55f036b5bbb44b445614e739ee672b32a17e&v=4" width="24" alt="Avatar of erickzhao"/> erickzhao
 			</a><br/>
 			Erick Zhao
 		</td>
@@ -3488,7 +3488,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>242</td>
 		<td>
 			<a target="_blank" href="https://github.com/starcraft66">
-				<img src="https://private-avatars.githubusercontent.com/u/1858154?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ5MjAsIm5iZiI6MTczNDMwMzcyMCwicGF0aCI6Ii91LzE4NTgxNTQifQ.UgCa26tyw_AVrSQYjfPF2SbBXg4owHlX5NJjZaDDqcI&s=72&u=5e3605e4983f1c64f5ab2d8be93c4c8fa0640903&v=4" width="24" alt="Avatar of starcraft66"/> starcraft66
+				<img src="https://private-avatars.githubusercontent.com/u/1858154?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4MjAsIm5iZiI6MTczNDM0MDYyMCwicGF0aCI6Ii91LzE4NTgxNTQifQ.Wq2CrVzYOxhOurLOBn54S8H2jAFUwjTqPPibqnVvZbY&s=72&u=5e3605e4983f1c64f5ab2d8be93c4c8fa0640903&v=4" width="24" alt="Avatar of starcraft66"/> starcraft66
 			</a><br/>
 			Tristan
 		</td>
@@ -3502,7 +3502,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>243</td>
 		<td>
 			<a target="_blank" href="https://github.com/kevinjycui">
-				<img src="https://private-avatars.githubusercontent.com/u/38621453?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ5ODAsIm5iZiI6MTczNDMwMzc4MCwicGF0aCI6Ii91LzM4NjIxNDUzIn0.CNphbzCL8OXUxRn7diI60JxTX3QBA0Y3ZxNPlc4Vj2E&s=72&u=0c02e3273c42ed8b40793b78736312fa2460a9a3&v=4" width="24" alt="Avatar of kevinjycui"/> kevinjycui
+				<img src="https://private-avatars.githubusercontent.com/u/38621453?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDA5ODAsIm5iZiI6MTczNDMzOTc4MCwicGF0aCI6Ii91LzM4NjIxNDUzIn0.sc7NOSVY-dLETqeEG74bpv4uQPf2XcLLC6sLuNk2K8w&s=72&u=0c02e3273c42ed8b40793b78736312fa2460a9a3&v=4" width="24" alt="Avatar of kevinjycui"/> kevinjycui
 			</a><br/>
 			Kevin Junyang Cui
 		</td>
@@ -3516,7 +3516,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>244</td>
 		<td>
 			<a target="_blank" href="https://github.com/behdad">
-				<img src="https://private-avatars.githubusercontent.com/u/142891?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyMjAsIm5iZiI6MTczNDMwNDAyMCwicGF0aCI6Ii91LzE0Mjg5MSJ9.r2yIWI0DWXokJPVjindsVDG4kviI0GIbnVjre0LOxQ4&s=72&u=ab1f539aa3cc23677fdc39221a6ff6eb3f817d92&v=4" width="24" alt="Avatar of behdad"/> behdad
+				<img src="https://private-avatars.githubusercontent.com/u/142891?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyMjAsIm5iZiI6MTczNDM0MDAyMCwicGF0aCI6Ii91LzE0Mjg5MSJ9.fLJYjEwqNtnSrwbHkic9m57UMQS_zV3JsHbbcwtnxwg&s=72&u=ab1f539aa3cc23677fdc39221a6ff6eb3f817d92&v=4" width="24" alt="Avatar of behdad"/> behdad
 			</a><br/>
 			Behdad Esfahbod
 		</td>
@@ -3530,7 +3530,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>245</td>
 		<td>
 			<a target="_blank" href="https://github.com/richlander">
-				<img src="https://private-avatars.githubusercontent.com/u/2608468?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ4NjAsIm5iZiI6MTczNDMwMzY2MCwicGF0aCI6Ii91LzI2MDg0NjgifQ.XFxyMxbFt8SkQwJ9YLARI3QcbRsSSP3aBmd48sane5c&s=72&u=8344507340302c70f124f9c9b5a48a42afedb04e&v=4" width="24" alt="Avatar of richlander"/> richlander
+				<img src="https://private-avatars.githubusercontent.com/u/2608468?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3NjAsIm5iZiI6MTczNDM0MDU2MCwicGF0aCI6Ii91LzI2MDg0NjgifQ.t1RP2_yZpgog6z4O311Bd1etvRM6mnwPmhUUUHsRnUk&s=72&u=8344507340302c70f124f9c9b5a48a42afedb04e&v=4" width="24" alt="Avatar of richlander"/> richlander
 			</a><br/>
 			Rich Lander
 		</td>
@@ -3543,8 +3543,22 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 	<tr>
 		<td>246</td>
 		<td>
+			<a target="_blank" href="https://github.com/meziantou">
+				<img src="https://private-avatars.githubusercontent.com/u/509220?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0NjAsIm5iZiI6MTczNDM0MDI2MCwicGF0aCI6Ii91LzUwOTIyMCJ9.YyNQQzJmzKqq1XBfdfezSqDhnmHiUD6lIt_4ziaIodA&s=72&v=4" width="24" alt="Avatar of meziantou"/> meziantou
+			</a><br/>
+			Grald Barr
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/meziantou">meziantou</a></td>
+		<td>Montreal</td>
+		<td>1070</td>
+		<td>1070</td>
+	</tr>
+	<tr>
+		<td>247</td>
+		<td>
 			<a target="_blank" href="https://github.com/moezbhatti">
-				<img src="https://private-avatars.githubusercontent.com/u/4358785?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1MjAsIm5iZiI6MTczNDMwNDMyMCwicGF0aCI6Ii91LzQzNTg3ODUifQ.EHfGKSYQRoy-9lFVcT_xQuza8rmlkPbTH9-RtEye1j4&s=72&u=d8203675466443b6dbb7dfa714105a537e014e58&v=4" width="24" alt="Avatar of moezbhatti"/> moezbhatti
+				<img src="https://private-avatars.githubusercontent.com/u/4358785?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1MjAsIm5iZiI6MTczNDM0MDMyMCwicGF0aCI6Ii91LzQzNTg3ODUifQ.WYlzvb8UXOwvqlN8gr3OyOdRZ5NO8gQ-sRZR7tGCnmA&s=72&u=d8203675466443b6dbb7dfa714105a537e014e58&v=4" width="24" alt="Avatar of moezbhatti"/> moezbhatti
 			</a><br/>
 			Moez Bhatti
 		</td>
@@ -3555,24 +3569,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>1070</td>
 	</tr>
 	<tr>
-		<td>247</td>
-		<td>
-			<a target="_blank" href="https://github.com/meziantou">
-				<img src="https://private-avatars.githubusercontent.com/u/509220?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0NjAsIm5iZiI6MTczNDMwNDI2MCwicGF0aCI6Ii91LzUwOTIyMCJ9.A7zLf7JuIIqUojLE6PAS0aDwV_wqArrr5i_oo9AYtk8&s=72&v=4" width="24" alt="Avatar of meziantou"/> meziantou
-			</a><br/>
-			Grald Barr
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/meziantou">meziantou</a></td>
-		<td>Montreal</td>
-		<td>1064</td>
-		<td>1064</td>
-	</tr>
-	<tr>
 		<td>248</td>
 		<td>
 			<a target="_blank" href="https://github.com/Xe">
-				<img src="https://private-avatars.githubusercontent.com/u/529003?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0MDAsIm5iZiI6MTczNDMwNDIwMCwicGF0aCI6Ii91LzUyOTAwMyJ9._4VripKv18nABiFAsuI4cBSznvGtxOf2ldVG8BX_Iao&s=72&u=0a80719ed493702e2c43fa96f04ec3005ee4d1ae&v=4" width="24" alt="Avatar of Xe"/> Xe
+				<img src="https://private-avatars.githubusercontent.com/u/529003?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0MDAsIm5iZiI6MTczNDM0MDIwMCwicGF0aCI6Ii91LzUyOTAwMyJ9.b67jdnEVibuUQL12ncr56tCrkWZEoA7LcNtEfl3RMB4&s=72&u=0a80719ed493702e2c43fa96f04ec3005ee4d1ae&v=4" width="24" alt="Avatar of Xe"/> Xe
 			</a><br/>
 			Xe Iaso
 		</td>
@@ -3586,7 +3586,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>249</td>
 		<td>
 			<a target="_blank" href="https://github.com/sjackman">
-				<img src="https://private-avatars.githubusercontent.com/u/291551?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxNjAsIm5iZiI6MTczNDMwMzk2MCwicGF0aCI6Ii91LzI5MTU1MSJ9.2CLvS7mC2WsgBVVXJiF7cZZNykm66aKUZv7VMznVsQg&s=72&v=4" width="24" alt="Avatar of sjackman"/> sjackman
+				<img src="https://private-avatars.githubusercontent.com/u/291551?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDExNjAsIm5iZiI6MTczNDMzOTk2MCwicGF0aCI6Ii91LzI5MTU1MSJ9.nZ1mGr0v42ir-EAPmH97qoLz9d6f9N9CDNorc7GKomE&s=72&v=4" width="24" alt="Avatar of sjackman"/> sjackman
 			</a><br/>
 			Shaun Jackman
 		</td>
@@ -3600,7 +3600,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>250</td>
 		<td>
 			<a target="_blank" href="https://github.com/jlesage">
-				<img src="https://private-avatars.githubusercontent.com/u/1791123?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUwNDAsIm5iZiI6MTczNDMwMzg0MCwicGF0aCI6Ii91LzE3OTExMjMifQ.Ro420aWEOMgi2gC0pb9MBGhZIuAsAGlKiGjaZAo212k&s=72&v=4" width="24" alt="Avatar of jlesage"/> jlesage
+				<img src="https://private-avatars.githubusercontent.com/u/1791123?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEwNDAsIm5iZiI6MTczNDMzOTg0MCwicGF0aCI6Ii91LzE3OTExMjMifQ.-xNeg0gksK-TRIt1FoyYn8CCAzHdWwwn1Zmj0CcVZNE&s=72&v=4" width="24" alt="Avatar of jlesage"/> jlesage
 			</a><br/>
 			Jocelyn Le Sage
 		</td>
@@ -3614,7 +3614,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>251</td>
 		<td>
 			<a target="_blank" href="https://github.com/lassoan">
-				<img src="https://private-avatars.githubusercontent.com/u/307929?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU2NDAsIm5iZiI6MTczNDMwNDQ0MCwicGF0aCI6Ii91LzMwNzkyOSJ9.aWKUZZZESSb_2p8uuSxlSUwukNPHcJIRnx5Px5SvdWQ&s=72&u=1270f1e4ee0c114f4b1d8508d69582b486ab8b37&v=4" width="24" alt="Avatar of lassoan"/> lassoan
+				<img src="https://private-avatars.githubusercontent.com/u/307929?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE2NDAsIm5iZiI6MTczNDM0MDQ0MCwicGF0aCI6Ii91LzMwNzkyOSJ9.ye1OK70YxqgmuedNraP0B8UiskJ9ODvvQ6WTvaAp_2s&s=72&u=1270f1e4ee0c114f4b1d8508d69582b486ab8b37&v=4" width="24" alt="Avatar of lassoan"/> lassoan
 			</a><br/>
 			Andras Lasso
 		</td>
@@ -3628,21 +3628,21 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>252</td>
 		<td>
 			<a target="_blank" href="https://github.com/andymckay">
-				<img src="https://private-avatars.githubusercontent.com/u/74699?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxNjAsIm5iZiI6MTczNDMwMzk2MCwicGF0aCI6Ii91Lzc0Njk5In0.F4TDagYBRooJxIk1l2MoukblVnZu6fV2Vvqllr5oL2k&s=72&u=abb7db89ec87727ade0d8f82b04accf2f4d4fa99&v=4" width="24" alt="Avatar of andymckay"/> andymckay
+				<img src="https://private-avatars.githubusercontent.com/u/74699?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDExNjAsIm5iZiI6MTczNDMzOTk2MCwicGF0aCI6Ii91Lzc0Njk5In0.jX6E1MLXpDdap3h129LZGpFwOUCDkjyejwl7BmGF2hM&s=72&u=abb7db89ec87727ade0d8f82b04accf2f4d4fa99&v=4" width="24" alt="Avatar of andymckay"/> andymckay
 			</a><br/>
 			Andy McKay
 		</td>
 		<td>Clearwind </td>
 		<td>No Twitter Username</td>
 		<td>Vancouver BC</td>
-		<td>549</td>
-		<td>1033</td>
+		<td>550</td>
+		<td>1035</td>
 	</tr>
 	<tr>
 		<td>253</td>
 		<td>
 			<a target="_blank" href="https://github.com/romgrk">
-				<img src="https://private-avatars.githubusercontent.com/u/1423607?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1MjAsIm5iZiI6MTczNDMwNDMyMCwicGF0aCI6Ii91LzE0MjM2MDcifQ.67tDfgCBBB44lPTONfqlfPS_iZkxKbXdPQD15bvAkoY&s=72&u=a736aab5a9d4a7543079c64450cd4d1c25417a75&v=4" width="24" alt="Avatar of romgrk"/> romgrk
+				<img src="https://private-avatars.githubusercontent.com/u/1423607?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1MjAsIm5iZiI6MTczNDM0MDMyMCwicGF0aCI6Ii91LzE0MjM2MDcifQ.gCmvqAbtPiz8svzm5owmEyxlE-f-00tb0EPA4VzqCGk&s=72&u=a736aab5a9d4a7543079c64450cd4d1c25417a75&v=4" width="24" alt="Avatar of romgrk"/> romgrk
 			</a><br/>
 			Rom Grk
 		</td>
@@ -3656,7 +3656,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>254</td>
 		<td>
 			<a target="_blank" href="https://github.com/ajinabraham">
-				<img src="https://private-avatars.githubusercontent.com/u/4301109?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0NjAsIm5iZiI6MTczNDMwNDI2MCwicGF0aCI6Ii91LzQzMDExMDkifQ.wm-bmz9upwekNe9rh2Rvtv3M3NGQQz8_zAHFIF3qFAk&s=72&u=8bb3773bf66478832d45759783cc2584624e5f5b&v=4" width="24" alt="Avatar of ajinabraham"/> ajinabraham
+				<img src="https://private-avatars.githubusercontent.com/u/4301109?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0NjAsIm5iZiI6MTczNDM0MDI2MCwicGF0aCI6Ii91LzQzMDExMDkifQ.jwbbp4ipdD1EryduhLip1wCmwTDGJHHrQ9MWEa0XoIM&s=72&u=8bb3773bf66478832d45759783cc2584624e5f5b&v=4" width="24" alt="Avatar of ajinabraham"/> ajinabraham
 			</a><br/>
 			Ajin Abraham
 		</td>
@@ -3670,7 +3670,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>255</td>
 		<td>
 			<a target="_blank" href="https://github.com/leebenson">
-				<img src="https://private-avatars.githubusercontent.com/u/719722?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3NjAsIm5iZiI6MTczNDMwNDU2MCwicGF0aCI6Ii91LzcxOTcyMiJ9.S65qsOn1Lu7W_zn_d0RyMnH--pimqfrQIOFM4mzr3KY&s=72&u=3fc513a1df6fe8f9750990e82af20d3f00481d46&v=4" width="24" alt="Avatar of leebenson"/> leebenson
+				<img src="https://private-avatars.githubusercontent.com/u/719722?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3NjAsIm5iZiI6MTczNDM0MDU2MCwicGF0aCI6Ii91LzcxOTcyMiJ9.9R9jdZzXLUEd8qZyaelPMQno73INUeXOJlxTY0SAr78&s=72&u=3fc513a1df6fe8f9750990e82af20d3f00481d46&v=4" width="24" alt="Avatar of leebenson"/> leebenson
 			</a><br/>
 			Lee Benson
 		</td>
@@ -3684,7 +3684,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>256</td>
 		<td>
 			<a target="_blank" href="https://github.com/hejazizo">
-				<img src="https://private-avatars.githubusercontent.com/u/20146146?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxNjAsIm5iZiI6MTczNDMwMzk2MCwicGF0aCI6Ii91LzIwMTQ2MTQ2In0.BcK5TJeHpdlM7ySdyY7w7VYey_B6k-5Fuk4972Qzfzo&s=72&u=bac42d10af42987065361c010f2238936d1f8bce&v=4" width="24" alt="Avatar of hejazizo"/> hejazizo
+				<img src="https://private-avatars.githubusercontent.com/u/20146146?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDExNjAsIm5iZiI6MTczNDMzOTk2MCwicGF0aCI6Ii91LzIwMTQ2MTQ2In0.MdpJ318OxCC678Po6xOoPeFJq8rbWR-UV5L-cWPZ93Q&s=72&u=bac42d10af42987065361c010f2238936d1f8bce&v=4" width="24" alt="Avatar of hejazizo"/> hejazizo
 			</a><br/>
 			Ali Hejazizo
 		</td>
@@ -3698,7 +3698,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>257</td>
 		<td>
 			<a target="_blank" href="https://github.com/bmcmahen">
-				<img src="https://private-avatars.githubusercontent.com/u/1236841?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4ODAsIm5iZiI6MTczNDMwNDY4MCwicGF0aCI6Ii91LzEyMzY4NDEifQ.50lmIsl1sewyi6TtZZZQ0Sp9k8C7T3Gl6JW_zEP2YNk&s=72&u=150c4e29735a39cc2f5d2d51c3936fccbf538571&v=4" width="24" alt="Avatar of bmcmahen"/> bmcmahen
+				<img src="https://private-avatars.githubusercontent.com/u/1236841?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4ODAsIm5iZiI6MTczNDM0MDY4MCwicGF0aCI6Ii91LzEyMzY4NDEifQ.oh6KRiaS_vhuAYCfGm6Mc6_FBf-iRc_4TSyl1lQFS4Y&s=72&u=150c4e29735a39cc2f5d2d51c3936fccbf538571&v=4" width="24" alt="Avatar of bmcmahen"/> bmcmahen
 			</a><br/>
 			Ben McMahen
 		</td>
@@ -3712,7 +3712,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>258</td>
 		<td>
 			<a target="_blank" href="https://github.com/asoltys">
-				<img src="https://private-avatars.githubusercontent.com/u/7641?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3NjAsIm5iZiI6MTczNDMwNDU2MCwicGF0aCI6Ii91Lzc2NDEifQ.sYWnDuZUT726rrKfFqwiB_NGt7asDD6a_U7vJ8yArx0&s=72&u=6ca074a280904764d066be7a05fec89a8683ffe9&v=4" width="24" alt="Avatar of asoltys"/> asoltys
+				<img src="https://private-avatars.githubusercontent.com/u/7641?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3NjAsIm5iZiI6MTczNDM0MDU2MCwicGF0aCI6Ii91Lzc2NDEifQ.YaFNkrAw3frnnwgHuh_sCo6Gs1TwSo1Owk-i2ji-ovI&s=72&u=6ca074a280904764d066be7a05fec89a8683ffe9&v=4" width="24" alt="Avatar of asoltys"/> asoltys
 			</a><br/>
 			Adam Soltys
 		</td>
@@ -3726,7 +3726,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>259</td>
 		<td>
 			<a target="_blank" href="https://github.com/clayjohn">
-				<img src="https://private-avatars.githubusercontent.com/u/16521339?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1ODAsIm5iZiI6MTczNDMwNDM4MCwicGF0aCI6Ii91LzE2NTIxMzM5In0.V2JpwM6Tc4JLlgYZg0a0CTd7hQzdGLnPd5RyMcow1RI&s=72&u=e44a465cbebabb9ea2be80b59e6dc07966bef5b7&v=4" width="24" alt="Avatar of clayjohn"/> clayjohn
+				<img src="https://private-avatars.githubusercontent.com/u/16521339?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1ODAsIm5iZiI6MTczNDM0MDM4MCwicGF0aCI6Ii91LzE2NTIxMzM5In0.xQyFADVc8Ng4GCO3UlMjAjh72HyAmitnNhFIDLQ4v5w&s=72&u=e44a465cbebabb9ea2be80b59e6dc07966bef5b7&v=4" width="24" alt="Avatar of clayjohn"/> clayjohn
 			</a><br/>
 			Clay John
 		</td>
@@ -3740,7 +3740,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>260</td>
 		<td>
 			<a target="_blank" href="https://github.com/FBoucher">
-				<img src="https://private-avatars.githubusercontent.com/u/2404846?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3NjAsIm5iZiI6MTczNDMwNDU2MCwicGF0aCI6Ii91LzI0MDQ4NDYifQ.nJcEOiwnBAIKvV3zFUsW42uykTpcXcO_PmXON6-Nyg0&s=72&u=d2b5770a9558f1c293c6a300ae3fa8e32474e2a8&v=4" width="24" alt="Avatar of FBoucher"/> FBoucher
+				<img src="https://private-avatars.githubusercontent.com/u/2404846?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3NjAsIm5iZiI6MTczNDM0MDU2MCwicGF0aCI6Ii91LzI0MDQ4NDYifQ.rkzLIBwTJyYgGbnrrORLf7a1zGeQBWumKHkcKIGH4Sg&s=72&u=d2b5770a9558f1c293c6a300ae3fa8e32474e2a8&v=4" width="24" alt="Avatar of FBoucher"/> FBoucher
 			</a><br/>
 			Frank Boucher
 		</td>
@@ -3754,7 +3754,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>261</td>
 		<td>
 			<a target="_blank" href="https://github.com/mikkoh">
-				<img src="https://private-avatars.githubusercontent.com/u/496903?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDYxODAsIm5iZiI6MTczNDMwNDk4MCwicGF0aCI6Ii91LzQ5NjkwMyJ9.ddQriZJh8gXPc5YSMpUiUFHxpI_iYSluYUU359LxiLM&s=72&u=18635ab97c086f6fbd354b4301074fb57e7a42bb&v=4" width="24" alt="Avatar of mikkoh"/> mikkoh
+				<img src="https://private-avatars.githubusercontent.com/u/496903?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIxODAsIm5iZiI6MTczNDM0MDk4MCwicGF0aCI6Ii91LzQ5NjkwMyJ9.g-8spgcliwqOmAsfcFNF-uS9LpIsS4Rnjv-B-uZe9Js&s=72&u=18635ab97c086f6fbd354b4301074fb57e7a42bb&v=4" width="24" alt="Avatar of mikkoh"/> mikkoh
 			</a><br/>
 			Mikko Haapoja
 		</td>
@@ -3768,7 +3768,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>262</td>
 		<td>
 			<a target="_blank" href="https://github.com/stellamiranda">
-				<img src="https://private-avatars.githubusercontent.com/u/100494?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1MjAsIm5iZiI6MTczNDMwNDMyMCwicGF0aCI6Ii91LzEwMDQ5NCJ9.129SJ5y_yYDXoWex7YbdhHnmcdse9I2h-dWgGUV3UOQ&s=72&u=d643ba57e0177c43656f068875e301617576dea6&v=4" width="24" alt="Avatar of stellamiranda"/> stellamiranda
+				<img src="https://private-avatars.githubusercontent.com/u/100494?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1MjAsIm5iZiI6MTczNDM0MDMyMCwicGF0aCI6Ii91LzEwMDQ5NCJ9.AsqTnZUIbjlfUYyOXdGC-iMD3-F-jNu4MAB2gSp-h3w&s=72&u=d643ba57e0177c43656f068875e301617576dea6&v=4" width="24" alt="Avatar of stellamiranda"/> stellamiranda
 			</a><br/>
 			Stella Miranda
 		</td>
@@ -3782,7 +3782,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>263</td>
 		<td>
 			<a target="_blank" href="https://github.com/msintaha">
-				<img src="https://private-avatars.githubusercontent.com/u/9392270?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDYwNjAsIm5iZiI6MTczNDMwNDg2MCwicGF0aCI6Ii91LzkzOTIyNzAifQ.DpSeE5WP4UK5_FdGm251hxlAlb2HfuR5cbPKUTTb3aQ&s=72&u=76182c7a05e7cdb7421d8947d9ce1642ff30308f&v=4" width="24" alt="Avatar of msintaha"/> msintaha
+				<img src="https://private-avatars.githubusercontent.com/u/9392270?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIwNjAsIm5iZiI6MTczNDM0MDg2MCwicGF0aCI6Ii91LzkzOTIyNzAifQ.C6eAwNAjdwIEDfdDnPt3vxCtwZJJOIQrcV-yK_HwqD8&s=72&u=76182c7a05e7cdb7421d8947d9ce1642ff30308f&v=4" width="24" alt="Avatar of msintaha"/> msintaha
 			</a><br/>
 			Mifta Sintaha
 		</td>
@@ -3796,7 +3796,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>264</td>
 		<td>
 			<a target="_blank" href="https://github.com/mobinni">
-				<img src="https://private-avatars.githubusercontent.com/u/2361292?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxMDAsIm5iZiI6MTczNDMwMzkwMCwicGF0aCI6Ii91LzIzNjEyOTIifQ.hPTBwyfHQuaFcU2AyZhjoCHoRUCnGQGXk7wBflH0n_0&s=72&u=5fccfb68b02f950453ba7917828f36c2c2d99c30&v=4" width="24" alt="Avatar of mobinni"/> mobinni
+				<img src="https://private-avatars.githubusercontent.com/u/2361292?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDExMDAsIm5iZiI6MTczNDMzOTkwMCwicGF0aCI6Ii91LzIzNjEyOTIifQ.-yVjIAedjN24rFYTJ0ooaHuj4KmaaqSUTvHjX8T3CQ0&s=72&u=5fccfb68b02f950453ba7917828f36c2c2d99c30&v=4" width="24" alt="Avatar of mobinni"/> mobinni
 			</a><br/>
 			Mo Binni
 		</td>
@@ -3810,7 +3810,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>265</td>
 		<td>
 			<a target="_blank" href="https://github.com/lgritz">
-				<img src="https://private-avatars.githubusercontent.com/u/504179?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3NjAsIm5iZiI6MTczNDMwNDU2MCwicGF0aCI6Ii91LzUwNDE3OSJ9.M4C2kzmF4FJkT6iFR2bgLnWSRNZBSco4lfdzDsQsfsg&s=72&u=85812d0ef2e216ee66464665f75bf17e306a85ee&v=4" width="24" alt="Avatar of lgritz"/> lgritz
+				<img src="https://private-avatars.githubusercontent.com/u/504179?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3NjAsIm5iZiI6MTczNDM0MDU2MCwicGF0aCI6Ii91LzUwNDE3OSJ9.GTImyasBvcpeWb4QqQFVJqKEQSwDXokEGKBt5wlLE-M&s=72&u=85812d0ef2e216ee66464665f75bf17e306a85ee&v=4" width="24" alt="Avatar of lgritz"/> lgritz
 			</a><br/>
 			Larry Gritz
 		</td>
@@ -3824,7 +3824,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>266</td>
 		<td>
 			<a target="_blank" href="https://github.com/tsawler">
-				<img src="https://private-avatars.githubusercontent.com/u/441913?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ5MjAsIm5iZiI6MTczNDMwMzcyMCwicGF0aCI6Ii91LzQ0MTkxMyJ9.1G3zk8wZjh-b1QdjmhZZpJh49BDmmD-Xmyn8tkkoAEg&s=72&u=2f720414c63f34d5e4326bc6d5c2942193b13206&v=4" width="24" alt="Avatar of tsawler"/> tsawler
+				<img src="https://private-avatars.githubusercontent.com/u/441913?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4MjAsIm5iZiI6MTczNDM0MDYyMCwicGF0aCI6Ii91LzQ0MTkxMyJ9.6q_wy94AouSr9084QgmEcKnd4a1Tg8b7yQKi4mSyyxI&s=72&u=2f720414c63f34d5e4326bc6d5c2942193b13206&v=4" width="24" alt="Avatar of tsawler"/> tsawler
 			</a><br/>
 			Trevor Sawler
 		</td>
@@ -3838,7 +3838,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>267</td>
 		<td>
 			<a target="_blank" href="https://github.com/fmarier">
-				<img src="https://private-avatars.githubusercontent.com/u/167821?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDYwNjAsIm5iZiI6MTczNDMwNDg2MCwicGF0aCI6Ii91LzE2NzgyMSJ9.w9bRQuyubjFqEoGB-Pikskz3K8fwnKX1sINjogyJ2wY&s=72&u=836283846d232d3d0be00ac58f9e0025d7a35335&v=4" width="24" alt="Avatar of fmarier"/> fmarier
+				<img src="https://private-avatars.githubusercontent.com/u/167821?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIwNjAsIm5iZiI6MTczNDM0MDg2MCwicGF0aCI6Ii91LzE2NzgyMSJ9.AlmN25-NulJevEjtpQUCRBm1TPE1MnnE4nHGaszDTx4&s=72&u=836283846d232d3d0be00ac58f9e0025d7a35335&v=4" width="24" alt="Avatar of fmarier"/> fmarier
 			</a><br/>
 			Francois Marier
 		</td>
@@ -3852,7 +3852,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>268</td>
 		<td>
 			<a target="_blank" href="https://github.com/vladikoff">
-				<img src="https://private-avatars.githubusercontent.com/u/128755?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0MDAsIm5iZiI6MTczNDMwNDIwMCwicGF0aCI6Ii91LzEyODc1NSJ9.07syk2Prm2cdcg2F8Ea1Pq7RMc0mfJFoSov2ALgp6n4&s=72&u=1e718ad692ea203c21a8cf46b33d2869291d93fd&v=4" width="24" alt="Avatar of vladikoff"/> vladikoff
+				<img src="https://private-avatars.githubusercontent.com/u/128755?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0MDAsIm5iZiI6MTczNDM0MDIwMCwicGF0aCI6Ii91LzEyODc1NSJ9.RE0lfzRZeTh6zpv8c1OJjwT1BuCVz-uPyhi3hizTgHM&s=72&u=1e718ad692ea203c21a8cf46b33d2869291d93fd&v=4" width="24" alt="Avatar of vladikoff"/> vladikoff
 			</a><br/>
 			Vlad Filippov
 		</td>
@@ -3866,7 +3866,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>269</td>
 		<td>
 			<a target="_blank" href="https://github.com/zoltan-nz">
-				<img src="https://private-avatars.githubusercontent.com/u/1009783?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4MjAsIm5iZiI6MTczNDMwNDYyMCwicGF0aCI6Ii91LzEwMDk3ODMifQ.BnKW2qnsGaPoKoPFclTn0mR1Ojj62GMej1kgePCqT48&s=72&u=372a4e16c2ed09cc67d3f34383572edfa12ee8d9&v=4" width="24" alt="Avatar of zoltan-nz"/> zoltan-nz
+				<img src="https://private-avatars.githubusercontent.com/u/1009783?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4MjAsIm5iZiI6MTczNDM0MDYyMCwicGF0aCI6Ii91LzEwMDk3ODMifQ.ZDmpYc0r0j-Ic-o_tkiRsY5tViCO5sEbeioRUzW5Hbo&s=72&u=372a4e16c2ed09cc67d3f34383572edfa12ee8d9&v=4" width="24" alt="Avatar of zoltan-nz"/> zoltan-nz
 			</a><br/>
 			Zoltan
 		</td>
@@ -3880,7 +3880,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>270</td>
 		<td>
 			<a target="_blank" href="https://github.com/geographyclub">
-				<img src="https://private-avatars.githubusercontent.com/u/71040293?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0MDAsIm5iZiI6MTczNDMwNDIwMCwicGF0aCI6Ii91LzcxMDQwMjkzIn0.COw91wlurSITt44kruM_Grcn_gNnVExuzrPQPfw76wU&s=72&u=4a04d1cc87eb7ec6d28800229bafdd09b4cebfcd&v=4" width="24" alt="Avatar of geographyclub"/> geographyclub
+				<img src="https://private-avatars.githubusercontent.com/u/71040293?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIzMDAsIm5iZiI6MTczNDM0MTEwMCwicGF0aCI6Ii91LzcxMDQwMjkzIn0.Z6ne1BE-1MO699eA837DmRiciFwYQJaUmEyzAtwmlDs&s=72&u=4a04d1cc87eb7ec6d28800229bafdd09b4cebfcd&v=4" width="24" alt="Avatar of geographyclub"/> geographyclub
 			</a><br/>
 			SK
 		</td>
@@ -3894,7 +3894,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>271</td>
 		<td>
 			<a target="_blank" href="https://github.com/elbruno">
-				<img src="https://private-avatars.githubusercontent.com/u/3533489?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0MDAsIm5iZiI6MTczNDMwNDIwMCwicGF0aCI6Ii91LzM1MzM0ODkifQ.X8uYwjYfWINeTquzG2lP1hXa1DIqXqMbppZ6bw16i_g&s=72&u=211291e7896f2c6aa74afae3b12d5e9bafc2b879&v=4" width="24" alt="Avatar of elbruno"/> elbruno
+				<img src="https://private-avatars.githubusercontent.com/u/3533489?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIzMDAsIm5iZiI6MTczNDM0MTEwMCwicGF0aCI6Ii91LzM1MzM0ODkifQ.yojAABEiE7IiuAy28KUGxtPSfHd6BAbjvP9Ttos_Q7s&s=72&u=211291e7896f2c6aa74afae3b12d5e9bafc2b879&v=4" width="24" alt="Avatar of elbruno"/> elbruno
 			</a><br/>
 			El Bruno
 		</td>
@@ -3908,7 +3908,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>272</td>
 		<td>
 			<a target="_blank" href="https://github.com/owenthereal">
-				<img src="https://private-avatars.githubusercontent.com/u/169064?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyODAsIm5iZiI6MTczNDMwNDA4MCwicGF0aCI6Ii91LzE2OTA2NCJ9.tLqEp75T8bnVpoxkgs5XJz65WLfKhTQBXnmhNFJueDY&s=72&u=929f3c29135bc8897007d7b0fd49e2b7a4a4ea2d&v=4" width="24" alt="Avatar of owenthereal"/> owenthereal
+				<img src="https://private-avatars.githubusercontent.com/u/169064?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyODAsIm5iZiI6MTczNDM0MDA4MCwicGF0aCI6Ii91LzE2OTA2NCJ9.iHtUBWifYC5UlGCtQLNJsFBk1acPOkQwFvtNEpbFRos&s=72&u=929f3c29135bc8897007d7b0fd49e2b7a4a4ea2d&v=4" width="24" alt="Avatar of owenthereal"/> owenthereal
 			</a><br/>
 			Owen Ou
 		</td>
@@ -3921,8 +3921,22 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 	<tr>
 		<td>273</td>
 		<td>
+			<a target="_blank" href="https://github.com/ajayyy">
+				<img src="https://private-avatars.githubusercontent.com/u/12688112?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0NjAsIm5iZiI6MTczNDM0MDI2MCwicGF0aCI6Ii91LzEyNjg4MTEyIn0.iyF9KW-_8CPIbc_JwJKuv1lp-iQnJJ6gkvor6ajGEHg&s=72&u=be867b7c53e5d2aaec60231e8fb441d623573ae5&v=4" width="24" alt="Avatar of ajayyy"/> ajayyy
+			</a><br/>
+			Ajay Ramachandran
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ottawa Ontario Canada</td>
+		<td>906</td>
+		<td>910</td>
+	</tr>
+	<tr>
+		<td>274</td>
+		<td>
 			<a target="_blank" href="https://github.com/cviebrock">
-				<img src="https://private-avatars.githubusercontent.com/u/166810?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ5ODAsIm5iZiI6MTczNDMwMzc4MCwicGF0aCI6Ii91LzE2NjgxMCJ9.6IIB0uQ7nx4BAHa7C-GPyHEQsvWWFOcMtuIy0-IVF6E&s=72&u=062a8715c7bae434a083163fd17f4d7e7a26ddb9&v=4" width="24" alt="Avatar of cviebrock"/> cviebrock
+				<img src="https://private-avatars.githubusercontent.com/u/166810?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4ODAsIm5iZiI6MTczNDM0MDY4MCwicGF0aCI6Ii91LzE2NjgxMCJ9.tmQUFrXDFjkRddDsFB_eVq_pa4Hpk_DaKgbcz67XZG8&s=72&u=062a8715c7bae434a083163fd17f4d7e7a26ddb9&v=4" width="24" alt="Avatar of cviebrock"/> cviebrock
 			</a><br/>
 			Colin Viebrock
 		</td>
@@ -3933,10 +3947,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>910</td>
 	</tr>
 	<tr>
-		<td>274</td>
+		<td>275</td>
 		<td>
 			<a target="_blank" href="https://github.com/k4yt3x">
-				<img src="https://private-avatars.githubusercontent.com/u/21986859?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ4NjAsIm5iZiI6MTczNDMwMzY2MCwicGF0aCI6Ii91LzIxOTg2ODU5In0.2mmYHeyxx-FX92KgcuU8WXUfl2xtAAd3LqNwEwSbGpU&s=72&u=15856cd8ebe7d9524d8ecfa1590011e63c641c51&v=4" width="24" alt="Avatar of k4yt3x"/> k4yt3x
+				<img src="https://private-avatars.githubusercontent.com/u/21986859?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3NjAsIm5iZiI6MTczNDM0MDU2MCwicGF0aCI6Ii91LzIxOTg2ODU5In0.0qY44_OAwXy58XuTrlUPt_zyFcEfSVkhuDy0js6xmhQ&s=72&u=15856cd8ebe7d9524d8ecfa1590011e63c641c51&v=4" width="24" alt="Avatar of k4yt3x"/> k4yt3x
 			</a><br/>
 			K4YT3X
 		</td>
@@ -3947,24 +3961,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>907</td>
 	</tr>
 	<tr>
-		<td>275</td>
-		<td>
-			<a target="_blank" href="https://github.com/ajayyy">
-				<img src="https://private-avatars.githubusercontent.com/u/12688112?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0NjAsIm5iZiI6MTczNDMwNDI2MCwicGF0aCI6Ii91LzEyNjg4MTEyIn0.iDikhuU0ZeeH8A-6bcwdCsA86YwIGi77iJm1mXjbSSs&s=72&u=be867b7c53e5d2aaec60231e8fb441d623573ae5&v=4" width="24" alt="Avatar of ajayyy"/> ajayyy
-			</a><br/>
-			Ajay Ramachandran
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ottawa Ontario Canada</td>
-		<td>901</td>
-		<td>905</td>
-	</tr>
-	<tr>
 		<td>276</td>
 		<td>
 			<a target="_blank" href="https://github.com/Minikloon">
-				<img src="https://private-avatars.githubusercontent.com/u/979743?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3MDAsIm5iZiI6MTczNDMwNDUwMCwicGF0aCI6Ii91Lzk3OTc0MyJ9.lMLFQzFTp6U_D7MyLvehCZIzDWZPgrZsyPzT-NSUsa4&s=72&u=8dffda4e04e4a6da2ff3943c9f3ef3cd34c01ae4&v=4" width="24" alt="Avatar of Minikloon"/> Minikloon
+				<img src="https://private-avatars.githubusercontent.com/u/979743?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3MDAsIm5iZiI6MTczNDM0MDUwMCwicGF0aCI6Ii91Lzk3OTc0MyJ9.Gs8qNe3OHPWbygF8_OdAs-WPQD72LTttxIn-1D4ghIg&s=72&u=8dffda4e04e4a6da2ff3943c9f3ef3cd34c01ae4&v=4" width="24" alt="Avatar of Minikloon"/> Minikloon
 			</a><br/>
 			Samuel
 		</td>
@@ -3978,7 +3978,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>277</td>
 		<td>
 			<a target="_blank" href="https://github.com/ehoneahobed">
-				<img src="https://private-avatars.githubusercontent.com/u/27689532?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxNjAsIm5iZiI6MTczNDMwMzk2MCwicGF0aCI6Ii91LzI3Njg5NTMyIn0.K1LzElZM_HBJ4tk8zUZ1JsproZlmblRdaPpHnlUM6mM&s=72&u=beeb0f171ce9c32a320ad85f0c6a64724ab9ba46&v=4" width="24" alt="Avatar of ehoneahobed"/> ehoneahobed
+				<img src="https://private-avatars.githubusercontent.com/u/27689532?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDExNjAsIm5iZiI6MTczNDMzOTk2MCwicGF0aCI6Ii91LzI3Njg5NTMyIn0.ffH6VSDEW6o2rGebcrgAMHFB-CMIzhxMfDn_jH6nY_c&s=72&u=beeb0f171ce9c32a320ad85f0c6a64724ab9ba46&v=4" width="24" alt="Avatar of ehoneahobed"/> ehoneahobed
 			</a><br/>
 			Ehoneah Obed
 		</td>
@@ -3991,8 +3991,22 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 	<tr>
 		<td>278</td>
 		<td>
+			<a target="_blank" href="https://github.com/lizthegrey">
+				<img src="https://private-avatars.githubusercontent.com/u/614704?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3MDAsIm5iZiI6MTczNDM0MDUwMCwicGF0aCI6Ii91LzYxNDcwNCJ9.gpFZaG5JAiChr9DBi6F-sB-k0HIkWXgHZTf14n26Wi0&s=72&u=dd4c62ba3840e7455e4d5b0cb07abcc99a42fa32&v=4" width="24" alt="Avatar of lizthegrey"/> lizthegrey
+			</a><br/>
+			Liz FongJones
+		</td>
+		<td>@honeycombio @opentelemetry </td>
+		<td>No Twitter Username</td>
+		<td>Vancouver BC</td>
+		<td>225</td>
+		<td>895</td>
+	</tr>
+	<tr>
+		<td>279</td>
+		<td>
 			<a target="_blank" href="https://github.com/jlipps">
-				<img src="https://private-avatars.githubusercontent.com/u/605053?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyODAsIm5iZiI6MTczNDMwNDA4MCwicGF0aCI6Ii91LzYwNTA1MyJ9.M3WOK60xg4OYdSLUhHOIJqmeE_t4RyxY_3uaFQKLAkk&s=72&v=4" width="24" alt="Avatar of jlipps"/> jlipps
+				<img src="https://private-avatars.githubusercontent.com/u/605053?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyODAsIm5iZiI6MTczNDM0MDA4MCwicGF0aCI6Ii91LzYwNTA1MyJ9.-3S2D86k_-jNGm3fosj_4UoIS5ibcEOmV1F49pTAovc&s=72&v=4" width="24" alt="Avatar of jlipps"/> jlipps
 			</a><br/>
 			Jonathan Lipps
 		</td>
@@ -4003,24 +4017,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>894</td>
 	</tr>
 	<tr>
-		<td>279</td>
-		<td>
-			<a target="_blank" href="https://github.com/lizthegrey">
-				<img src="https://private-avatars.githubusercontent.com/u/614704?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3MDAsIm5iZiI6MTczNDMwNDUwMCwicGF0aCI6Ii91LzYxNDcwNCJ9._J7vDFWaXtV01BYTzSup371wuxpf5e6b-DYkJksLmAg&s=72&u=dd4c62ba3840e7455e4d5b0cb07abcc99a42fa32&v=4" width="24" alt="Avatar of lizthegrey"/> lizthegrey
-			</a><br/>
-			Liz FongJones
-		</td>
-		<td>@honeycombio @opentelemetry </td>
-		<td>No Twitter Username</td>
-		<td>Vancouver BC</td>
-		<td>225</td>
-		<td>894</td>
-	</tr>
-	<tr>
 		<td>280</td>
 		<td>
 			<a target="_blank" href="https://github.com/gf3">
-				<img src="https://private-avatars.githubusercontent.com/u/18397?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyODAsIm5iZiI6MTczNDMwNDA4MCwicGF0aCI6Ii91LzE4Mzk3In0.hGjYwSa34xO0scfUa7l3ZfoLkXVR62EMqjBx7Xrl0lU&s=72&u=9e129508c66b64879d9061d46a2d3347186c592e&v=4" width="24" alt="Avatar of gf3"/> gf3
+				<img src="https://private-avatars.githubusercontent.com/u/18397?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyODAsIm5iZiI6MTczNDM0MDA4MCwicGF0aCI6Ii91LzE4Mzk3In0._hatJjPMmL4ApJbDHQhWKS_2AXX155ip7uK14st-tDM&s=72&u=9e129508c66b64879d9061d46a2d3347186c592e&v=4" width="24" alt="Avatar of gf3"/> gf3
 			</a><br/>
 			Gianni Chiappetta
 		</td>
@@ -4028,27 +4028,27 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Toronto Canada</td>
 		<td>57</td>
-		<td>880</td>
+		<td>882</td>
 	</tr>
 	<tr>
 		<td>281</td>
 		<td>
 			<a target="_blank" href="https://github.com/karenetheridge">
-				<img src="https://private-avatars.githubusercontent.com/u/303051?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3MDAsIm5iZiI6MTczNDMwNDUwMCwicGF0aCI6Ii91LzMwMzA1MSJ9.XZiFEEe_dxQatqseyIzdRcvRANVHCxnLa-6QkI4CvnY&s=72&v=4" width="24" alt="Avatar of karenetheridge"/> karenetheridge
+				<img src="https://private-avatars.githubusercontent.com/u/303051?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3MDAsIm5iZiI6MTczNDM0MDUwMCwicGF0aCI6Ii91LzMwMzA1MSJ9.M8_ItoqWjALUCSTto5sulsEoi0dWG0O6YG1D-AHckuY&s=72&v=4" width="24" alt="Avatar of karenetheridge"/> karenetheridge
 			</a><br/>
 			Karen Etheridge
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>best coast BC Canada</td>
-		<td>792</td>
-		<td>877</td>
+		<td>797</td>
+		<td>882</td>
 	</tr>
 	<tr>
 		<td>282</td>
 		<td>
 			<a target="_blank" href="https://github.com/ianschmitz">
-				<img src="https://private-avatars.githubusercontent.com/u/6355370?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1MjAsIm5iZiI6MTczNDMwNDMyMCwicGF0aCI6Ii91LzYzNTUzNzAifQ.HT4_yD0PEJsvEpHEgJgUkusmf3m7giDKxYCPAJv4Ot8&s=72&u=d82c0274e396a6057921bfd4cd3951da4e093a24&v=4" width="24" alt="Avatar of ianschmitz"/> ianschmitz
+				<img src="https://private-avatars.githubusercontent.com/u/6355370?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1MjAsIm5iZiI6MTczNDM0MDMyMCwicGF0aCI6Ii91LzYzNTUzNzAifQ.laipfmLIiq66y9bFaz2haAzvCdvCQMwFRi15qhcX1Ck&s=72&u=d82c0274e396a6057921bfd4cd3951da4e093a24&v=4" width="24" alt="Avatar of ianschmitz"/> ianschmitz
 			</a><br/>
 			Ian Schmitz
 		</td>
@@ -4062,7 +4062,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>283</td>
 		<td>
 			<a target="_blank" href="https://github.com/enderh3art">
-				<img src="https://private-avatars.githubusercontent.com/u/64457282?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0NjAsIm5iZiI6MTczNDMwNDI2MCwicGF0aCI6Ii91LzY0NDU3MjgyIn0.3Ws4DYB0lADJK8eN6rzRQqZm3GK_4qQkl4rNhXwEfbY&s=72&u=23422745e0bfcfb7f7795b0df12dbf4047218c3a&v=4" width="24" alt="Avatar of enderh3art"/> enderh3art
+				<img src="https://private-avatars.githubusercontent.com/u/64457282?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0NjAsIm5iZiI6MTczNDM0MDI2MCwicGF0aCI6Ii91LzY0NDU3MjgyIn0.yC0UTljs-WtP7omjZ_eN-12qgXke5IrC8qoLD2vOMLM&s=72&u=23422745e0bfcfb7f7795b0df12dbf4047218c3a&v=4" width="24" alt="Avatar of enderh3art"/> enderh3art
 			</a><br/>
 			Jesse Zhou
 		</td>
@@ -4076,7 +4076,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>284</td>
 		<td>
 			<a target="_blank" href="https://github.com/ajpinedam">
-				<img src="https://private-avatars.githubusercontent.com/u/1900897?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4MjAsIm5iZiI6MTczNDMwNDYyMCwicGF0aCI6Ii91LzE5MDA4OTcifQ.4tVnILmAwF2sOG_qgGGcz8soNh-IKO5bbeFUcPJPDwY&s=72&u=132e1e9378afff0d2dc14f742bb727cebc545836&v=4" width="24" alt="Avatar of ajpinedam"/> ajpinedam
+				<img src="https://private-avatars.githubusercontent.com/u/1900897?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4MjAsIm5iZiI6MTczNDM0MDYyMCwicGF0aCI6Ii91LzE5MDA4OTcifQ.4sz5OYADtYY1vyLODs2p4W0zndojffCR7cph-8mV5YI&s=72&u=132e1e9378afff0d2dc14f742bb727cebc545836&v=4" width="24" alt="Avatar of ajpinedam"/> ajpinedam
 			</a><br/>
 			Andres Pineda
 		</td>
@@ -4090,7 +4090,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>285</td>
 		<td>
 			<a target="_blank" href="https://github.com/brianpeiris">
-				<img src="https://private-avatars.githubusercontent.com/u/79419?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyODAsIm5iZiI6MTczNDMwNDA4MCwicGF0aCI6Ii91Lzc5NDE5In0.V_SkN7N5mc-Q2uPMJhGuBfBlhjN7vx2Dmy6Ri9nNDq8&s=72&u=0672e07be86a9b90d5457ab21a08a34238e97bf2&v=4" width="24" alt="Avatar of brianpeiris"/> brianpeiris
+				<img src="https://private-avatars.githubusercontent.com/u/79419?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIxODAsIm5iZiI6MTczNDM0MDk4MCwicGF0aCI6Ii91Lzc5NDE5In0.Mwwy7PCpOMULPx2CMcBwy8Gc3F_ARgB1T58bEP8jBh8&s=72&u=0672e07be86a9b90d5457ab21a08a34238e97bf2&v=4" width="24" alt="Avatar of brianpeiris"/> brianpeiris
 			</a><br/>
 			Brian Peiris
 		</td>
@@ -4104,7 +4104,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>286</td>
 		<td>
 			<a target="_blank" href="https://github.com/bmann">
-				<img src="https://private-avatars.githubusercontent.com/u/280420?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91LzI4MDQyMCJ9.ob6cI_3zc0UvQJFhJ4E3Xl7oLPdVkcsP1PqjR2xQEDY&s=72&u=e3ab21789d26a24e74a207d6667c3b09c6b85dd2&v=4" width="24" alt="Avatar of bmann"/> bmann
+				<img src="https://private-avatars.githubusercontent.com/u/280420?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEzNDAsIm5iZiI6MTczNDM0MDE0MCwicGF0aCI6Ii91LzI4MDQyMCJ9.355ya_i0mkthVlfAlnmTWOYsAip8v8Taq29Ow8VkMac&s=72&u=e3ab21789d26a24e74a207d6667c3b09c6b85dd2&v=4" width="24" alt="Avatar of bmann"/> bmann
 			</a><br/>
 			Boris Mann
 		</td>
@@ -4118,7 +4118,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>287</td>
 		<td>
 			<a target="_blank" href="https://github.com/cuteolaf">
-				<img src="https://private-avatars.githubusercontent.com/u/53915161?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyODAsIm5iZiI6MTczNDMwNDA4MCwicGF0aCI6Ii91LzUzOTE1MTYxIn0.bjLUdoMu0kq71AIvP3QkrDCrz9Cnw44qRxusHZsSjMQ&s=72&u=5fcd9013b90da07cb4fc8f138f9b0f4fda0985dc&v=4" width="24" alt="Avatar of cuteolaf"/> cuteolaf
+				<img src="https://private-avatars.githubusercontent.com/u/53915161?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyODAsIm5iZiI6MTczNDM0MDA4MCwicGF0aCI6Ii91LzUzOTE1MTYxIn0.ddb9QsKxwgLd6GgvgoDwg0eYH9y9dca2kBmyPK2EZWw&s=72&u=5fcd9013b90da07cb4fc8f138f9b0f4fda0985dc&v=4" width="24" alt="Avatar of cuteolaf"/> cuteolaf
 			</a><br/>
 			No Name
 		</td>
@@ -4132,7 +4132,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>288</td>
 		<td>
 			<a target="_blank" href="https://github.com/ange-yaghi">
-				<img src="https://private-avatars.githubusercontent.com/u/20446997?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyMjAsIm5iZiI6MTczNDMwNDAyMCwicGF0aCI6Ii91LzIwNDQ2OTk3In0.H65YBvb2XNi9f570YvhdOmJs9SYihiyK5b0dTC9rvpU&s=72&u=35078d45b863771c872b3e488464a5c8343037ba&v=4" width="24" alt="Avatar of ange-yaghi"/> ange-yaghi
+				<img src="https://private-avatars.githubusercontent.com/u/20446997?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyMjAsIm5iZiI6MTczNDM0MDAyMCwicGF0aCI6Ii91LzIwNDQ2OTk3In0.7Pj3GvLKnwTU8nVrnNQLF9DJhW-onPZhLRgquWOAC3U&s=72&u=35078d45b863771c872b3e488464a5c8343037ba&v=4" width="24" alt="Avatar of ange-yaghi"/> ange-yaghi
 			</a><br/>
 			Ange Yaghi
 		</td>
@@ -4140,13 +4140,13 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Toronto</td>
 		<td>78</td>
-		<td>849</td>
+		<td>850</td>
 	</tr>
 	<tr>
 		<td>289</td>
 		<td>
 			<a target="_blank" href="https://github.com/mizrael">
-				<img src="https://private-avatars.githubusercontent.com/u/1432872?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0NjAsIm5iZiI6MTczNDMwNDI2MCwicGF0aCI6Ii91LzE0MzI4NzIifQ.VjyMBOS-gVujIjMtS6UxRkwG41HkTkS4oSy3F9Va8QM&s=72&v=4" width="24" alt="Avatar of mizrael"/> mizrael
+				<img src="https://private-avatars.githubusercontent.com/u/1432872?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0NjAsIm5iZiI6MTczNDM0MDI2MCwicGF0aCI6Ii91LzE0MzI4NzIifQ.HQrwyrbravMz2gFK-0QpJjxq40ANrkXTbt_-uw2pTQU&s=72&v=4" width="24" alt="Avatar of mizrael"/> mizrael
 			</a><br/>
 			David Guida
 		</td>
@@ -4160,7 +4160,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>290</td>
 		<td>
 			<a target="_blank" href="https://github.com/developit">
-				<img src="https://private-avatars.githubusercontent.com/u/105127?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91LzEwNTEyNyJ9.v6_7FCzxUB9sabQzUUxr1Ze0zukjfhg3KQCmYSIRWRw&s=72&u=9dbda1907e83e069f6f1ee68b77111f784fae663&v=4" width="24" alt="Avatar of developit"/> developit
+				<img src="https://private-avatars.githubusercontent.com/u/105127?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEzNDAsIm5iZiI6MTczNDM0MDE0MCwicGF0aCI6Ii91LzEwNTEyNyJ9.EXoAkyyySVAUUh2JTrkPOwqquCaEHkogYpV0nl7_qWA&s=72&u=9dbda1907e83e069f6f1ee68b77111f784fae663&v=4" width="24" alt="Avatar of developit"/> developit
 			</a><br/>
 			Jason Miller
 		</td>
@@ -4173,8 +4173,22 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 	<tr>
 		<td>291</td>
 		<td>
+			<a target="_blank" href="https://github.com/dovahcrow">
+				<img src="https://private-avatars.githubusercontent.com/u/998606?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDI0MjAsIm5iZiI6MTczNDM0MTIyMCwicGF0aCI6Ii91Lzk5ODYwNiJ9.syHFUjyzHoaaZf3ut6dUDiQS2LRk8YxLNsQSQLhPYLY&s=72&u=93e4e1218be1a773c26c1c2090e80d2ce35720c4&v=4" width="24" alt="Avatar of dovahcrow"/> dovahcrow
+			</a><br/>
+			Weiyuan Wu
+		</td>
+		<td>@sfudb  </td>
+		<td>No Twitter Username</td>
+		<td>Vancouver</td>
+		<td>120</td>
+		<td>838</td>
+	</tr>
+	<tr>
+		<td>292</td>
+		<td>
 			<a target="_blank" href="https://github.com/ryanwelcher">
-				<img src="https://private-avatars.githubusercontent.com/u/1259027?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU5NDAsIm5iZiI6MTczNDMwNDc0MCwicGF0aCI6Ii91LzEyNTkwMjcifQ.XTrzr6JV05AY4Cr06K0rFljkAJenLSwdE5SXJ_jy8dE&s=72&v=4" width="24" alt="Avatar of ryanwelcher"/> ryanwelcher
+				<img src="https://private-avatars.githubusercontent.com/u/1259027?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE5NDAsIm5iZiI6MTczNDM0MDc0MCwicGF0aCI6Ii91LzEyNTkwMjcifQ.1tz5PW1fuZJwkIyVA6c07R6GZ2Bbn_1HAqp-tqRwGFU&s=72&v=4" width="24" alt="Avatar of ryanwelcher"/> ryanwelcher
 			</a><br/>
 			Ryan Welcher
 		</td>
@@ -4185,10 +4199,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>837</td>
 	</tr>
 	<tr>
-		<td>292</td>
+		<td>293</td>
 		<td>
 			<a target="_blank" href="https://github.com/Glavin001">
-				<img src="https://private-avatars.githubusercontent.com/u/1885333?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ5MjAsIm5iZiI6MTczNDMwMzcyMCwicGF0aCI6Ii91LzE4ODUzMzMifQ.j8mollEfQVRKZlshcLKlJjgTNTNZ-E_EITxEM_iRuTo&s=72&u=5d24c3fbd85761a2fbf839595222b43fb92dd253&v=4" width="24" alt="Avatar of Glavin001"/> Glavin001
+				<img src="https://private-avatars.githubusercontent.com/u/1885333?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4MjAsIm5iZiI6MTczNDM0MDYyMCwicGF0aCI6Ii91LzE4ODUzMzMifQ.GUIh6g0XcgypvCUQNGmDyoOOGan2pduDXRzeUImynjg&s=72&u=5d24c3fbd85761a2fbf839595222b43fb92dd253&v=4" width="24" alt="Avatar of Glavin001"/> Glavin001
 			</a><br/>
 			Glavin Wiechert
 		</td>
@@ -4199,24 +4213,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>830</td>
 	</tr>
 	<tr>
-		<td>293</td>
-		<td>
-			<a target="_blank" href="https://github.com/dovahcrow">
-				<img src="https://private-avatars.githubusercontent.com/u/998606?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1MjAsIm5iZiI6MTczNDMwNDMyMCwicGF0aCI6Ii91Lzk5ODYwNiJ9.knaJaeXrwBr2XyZHU16YqjQYGjB-y4aasCgs2fvA8N0&s=72&u=93e4e1218be1a773c26c1c2090e80d2ce35720c4&v=4" width="24" alt="Avatar of dovahcrow"/> dovahcrow
-			</a><br/>
-			Weiyuan Wu
-		</td>
-		<td>@sfudb  </td>
-		<td>No Twitter Username</td>
-		<td>Vancouver</td>
-		<td>120</td>
-		<td>828</td>
-	</tr>
-	<tr>
 		<td>294</td>
 		<td>
 			<a target="_blank" href="https://github.com/hwillson">
-				<img src="https://private-avatars.githubusercontent.com/u/137740?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUwNDAsIm5iZiI6MTczNDMwMzg0MCwicGF0aCI6Ii91LzEzNzc0MCJ9.ka54Jfegf5spaI3HIZ6dcRHHwGL5zhSAH8IIHX2emwQ&s=72&u=7bcdfa982f7f9b91c24dea579440ab6bba69fb01&v=4" width="24" alt="Avatar of hwillson"/> hwillson
+				<img src="https://private-avatars.githubusercontent.com/u/137740?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE5NDAsIm5iZiI6MTczNDM0MDc0MCwicGF0aCI6Ii91LzEzNzc0MCJ9.AKGYHfwvpPhWzzMCj13a08N4SaIZxRsrP5MoZodbSSo&s=72&u=7bcdfa982f7f9b91c24dea579440ab6bba69fb01&v=4" width="24" alt="Avatar of hwillson"/> hwillson
 			</a><br/>
 			Hugh Willson
 		</td>
@@ -4224,13 +4224,13 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Ottawa Ontario Canada</td>
 		<td>13</td>
-		<td>824</td>
+		<td>825</td>
 	</tr>
 	<tr>
 		<td>295</td>
 		<td>
 			<a target="_blank" href="https://github.com/darrelmiller">
-				<img src="https://private-avatars.githubusercontent.com/u/447694?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0MDAsIm5iZiI6MTczNDMwNDIwMCwicGF0aCI6Ii91LzQ0NzY5NCJ9.Kkeh66cCYUcW9KZT9j5ENIH2O4b9pygS0Od10lixq54&s=72&v=4" width="24" alt="Avatar of darrelmiller"/> darrelmiller
+				<img src="https://private-avatars.githubusercontent.com/u/447694?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0MDAsIm5iZiI6MTczNDM0MDIwMCwicGF0aCI6Ii91LzQ0NzY5NCJ9.cYGVUTUImld8XTBAW6nqTv7CO3EedQKBBOgsiT9sYCg&s=72&v=4" width="24" alt="Avatar of darrelmiller"/> darrelmiller
 			</a><br/>
 			Darrel
 		</td>
@@ -4244,7 +4244,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>296</td>
 		<td>
 			<a target="_blank" href="https://github.com/plentz">
-				<img src="https://private-avatars.githubusercontent.com/u/4867?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3NjAsIm5iZiI6MTczNDMwNDU2MCwicGF0aCI6Ii91LzQ4NjcifQ.7L8Egv4wkBaeewD7-K6ujKE0A59tgSz539mO624HXyw&s=72&u=5de83ead7f4697fad0618fc5cdc18e3ad37e57d4&v=4" width="24" alt="Avatar of plentz"/> plentz
+				<img src="https://private-avatars.githubusercontent.com/u/4867?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3NjAsIm5iZiI6MTczNDM0MDU2MCwicGF0aCI6Ii91LzQ4NjcifQ.1uafN0EkWqKhrAEbAGp3EhFZcJcKsdVcywjYxijM1aA&s=72&u=5de83ead7f4697fad0618fc5cdc18e3ad37e57d4&v=4" width="24" alt="Avatar of plentz"/> plentz
 			</a><br/>
 			Diego Plentz
 		</td>
@@ -4258,7 +4258,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>297</td>
 		<td>
 			<a target="_blank" href="https://github.com/prof3ssorSt3v3">
-				<img src="https://private-avatars.githubusercontent.com/u/1200328?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU2NDAsIm5iZiI6MTczNDMwNDQ0MCwicGF0aCI6Ii91LzEyMDAzMjgifQ.1MuIUVmFvP5YU8KiNfeY45vc2FFokF4p51Q2m-6AsDM&s=72&v=4" width="24" alt="Avatar of prof3ssorSt3v3"/> prof3ssorSt3v3
+				<img src="https://private-avatars.githubusercontent.com/u/1200328?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE2NDAsIm5iZiI6MTczNDM0MDQ0MCwicGF0aCI6Ii91LzEyMDAzMjgifQ.vYyeozuaA8jEa0Q6tyvSJGoCUk7e6Lh10tpGRD1s9wE&s=72&v=4" width="24" alt="Avatar of prof3ssorSt3v3"/> prof3ssorSt3v3
 			</a><br/>
 			Steve Griffith
 		</td>
@@ -4272,7 +4272,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>298</td>
 		<td>
 			<a target="_blank" href="https://github.com/sudiptob2">
-				<img src="https://private-avatars.githubusercontent.com/u/32765701?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4MjAsIm5iZiI6MTczNDMwNDYyMCwicGF0aCI6Ii91LzMyNzY1NzAxIn0.LcDmSNlQE2lKi0lBW9h93C6nlRLbnJ-E_G3LZXKNqE8&s=72&u=a80c1597a6c81c858ef0282198ab9521a309afe1&v=4" width="24" alt="Avatar of sudiptob2"/> sudiptob2
+				<img src="https://private-avatars.githubusercontent.com/u/32765701?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4MjAsIm5iZiI6MTczNDM0MDYyMCwicGF0aCI6Ii91LzMyNzY1NzAxIn0.ae_oqETQN3rhmXRxE6Ntuar2DbDUVIGhpnBnu3smt-w&s=72&u=a80c1597a6c81c858ef0282198ab9521a309afe1&v=4" width="24" alt="Avatar of sudiptob2"/> sudiptob2
 			</a><br/>
 			Sudipto Baral
 		</td>
@@ -4286,7 +4286,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>299</td>
 		<td>
 			<a target="_blank" href="https://github.com/iSimar">
-				<img src="https://private-avatars.githubusercontent.com/u/5649414?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDYwMDAsIm5iZiI6MTczNDMwNDgwMCwicGF0aCI6Ii91LzU2NDk0MTQifQ.aaW6e7C_L2IZJz4cz4Ox0vZ_C-wbdyvxYWWgLX--sjo&s=72&u=926a33af104e9526ece01de1aa4b0b7eead736be&v=4" width="24" alt="Avatar of iSimar"/> iSimar
+				<img src="https://private-avatars.githubusercontent.com/u/5649414?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIwMDAsIm5iZiI6MTczNDM0MDgwMCwicGF0aCI6Ii91LzU2NDk0MTQifQ.xNj3SRT8Rki68bWTKAejsUwsTT0NPdrnmat6rhFfJ2c&s=72&u=926a33af104e9526ece01de1aa4b0b7eead736be&v=4" width="24" alt="Avatar of iSimar"/> iSimar
 			</a><br/>
 			Simar
 		</td>
@@ -4300,7 +4300,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>300</td>
 		<td>
 			<a target="_blank" href="https://github.com/riywo">
-				<img src="https://private-avatars.githubusercontent.com/u/37822?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4MjAsIm5iZiI6MTczNDMwNDYyMCwicGF0aCI6Ii91LzM3ODIyIn0.q8TNEcUdajT-lpUE0rxq-Gn4pPcK9cvVQI0Fr8KluK4&s=72&v=4" width="24" alt="Avatar of riywo"/> riywo
+				<img src="https://private-avatars.githubusercontent.com/u/37822?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4MjAsIm5iZiI6MTczNDM0MDYyMCwicGF0aCI6Ii91LzM3ODIyIn0.HNp4euDyiSRSnAh5OfWeHkhAAbPomctXvndDYpN-mho&s=72&v=4" width="24" alt="Avatar of riywo"/> riywo
 			</a><br/>
 			Ryosuke Iwanaga
 		</td>
@@ -4314,7 +4314,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>301</td>
 		<td>
 			<a target="_blank" href="https://github.com/james2doyle">
-				<img src="https://private-avatars.githubusercontent.com/u/1425304?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDYxMjAsIm5iZiI6MTczNDMwNDkyMCwicGF0aCI6Ii91LzE0MjUzMDQifQ.zv0fLQTNnZlCzMmD8KxyW3fwvaklv8Yw2jFnRFj4K2A&s=72&u=42cb5c063612007fb56d1f0dfb8384e2917d11c0&v=4" width="24" alt="Avatar of james2doyle"/> james2doyle
+				<img src="https://private-avatars.githubusercontent.com/u/1425304?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIxMjAsIm5iZiI6MTczNDM0MDkyMCwicGF0aCI6Ii91LzE0MjUzMDQifQ.j0-x8Vow-x9L6IsTXzHM7e-yBi4LOxeNWrXrNYDQWyo&s=72&u=42cb5c063612007fb56d1f0dfb8384e2917d11c0&v=4" width="24" alt="Avatar of james2doyle"/> james2doyle
 			</a><br/>
 			James Doyle
 		</td>
@@ -4327,22 +4327,36 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 	<tr>
 		<td>302</td>
 		<td>
+			<a target="_blank" href="https://github.com/wyattjoh">
+				<img src="https://private-avatars.githubusercontent.com/u/633002?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIxMjAsIm5iZiI6MTczNDM0MDkyMCwicGF0aCI6Ii91LzYzMzAwMiJ9.lwIQ-EimxFbDHGJeYf6W4Mie2r_o-XSzxFNqy75hLIg&s=72&u=2f0b4bfab07922384c734352f8f71205de4437b1&v=4" width="24" alt="Avatar of wyattjoh"/> wyattjoh
+			</a><br/>
+			Wyatt Johnson
+		</td>
+		<td>@vercel </td>
+		<td>No Twitter Username</td>
+		<td>Calgary Alberta Canada</td>
+		<td>449</td>
+		<td>804</td>
+	</tr>
+	<tr>
+		<td>303</td>
+		<td>
 			<a target="_blank" href="https://github.com/mtrudel">
-				<img src="https://private-avatars.githubusercontent.com/u/79646?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1ODAsIm5iZiI6MTczNDMwNDM4MCwicGF0aCI6Ii91Lzc5NjQ2In0.KSwhZJ4PbQpygTyBjKWF8lH0D625x7f6WvZ9iDwX_6Y&s=72&v=4" width="24" alt="Avatar of mtrudel"/> mtrudel
+				<img src="https://private-avatars.githubusercontent.com/u/79646?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1ODAsIm5iZiI6MTczNDM0MDM4MCwicGF0aCI6Ii91Lzc5NjQ2In0.bGqu5UZa4yUmoAtHi9DwLCENqwMCF_FAF59s8pBYmGA&s=72&v=4" width="24" alt="Avatar of mtrudel"/> mtrudel
 			</a><br/>
 			Mat Trudel
 		</td>
 		<td>@pagerduty </td>
 		<td>No Twitter Username</td>
 		<td>Toronto</td>
-		<td>304</td>
-		<td>802</td>
+		<td>305</td>
+		<td>803</td>
 	</tr>
 	<tr>
-		<td>303</td>
+		<td>304</td>
 		<td>
 			<a target="_blank" href="https://github.com/xjasonlyu">
-				<img src="https://private-avatars.githubusercontent.com/u/28824352?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUwNDAsIm5iZiI6MTczNDMwMzg0MCwicGF0aCI6Ii91LzI4ODI0MzUyIn0.NTNIktAiNQUPlnXPA5HwJjdW285nMtQhKhWbf1vIyjI&s=72&u=23b6f8589e174c584fcd19698e49e558cf0e3c61&v=4" width="24" alt="Avatar of xjasonlyu"/> xjasonlyu
+				<img src="https://private-avatars.githubusercontent.com/u/28824352?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE5NDAsIm5iZiI6MTczNDM0MDc0MCwicGF0aCI6Ii91LzI4ODI0MzUyIn0.6MW1ctKnYuJcdHS1NjrmTdoUs61UpW_pG0dCWWyRPxA&s=72&u=23b6f8589e174c584fcd19698e49e558cf0e3c61&v=4" width="24" alt="Avatar of xjasonlyu"/> xjasonlyu
 			</a><br/>
 			Jason Lyu
 		</td>
@@ -4353,24 +4367,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>798</td>
 	</tr>
 	<tr>
-		<td>304</td>
-		<td>
-			<a target="_blank" href="https://github.com/wyattjoh">
-				<img src="https://private-avatars.githubusercontent.com/u/633002?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDYxMjAsIm5iZiI6MTczNDMwNDkyMCwicGF0aCI6Ii91LzYzMzAwMiJ9.X3TAuMBcB6fLLfU8JbR8c2xXcCjmXx3J1no9uORzy28&s=72&u=2f0b4bfab07922384c734352f8f71205de4437b1&v=4" width="24" alt="Avatar of wyattjoh"/> wyattjoh
-			</a><br/>
-			Wyatt Johnson
-		</td>
-		<td>@vercel </td>
-		<td>No Twitter Username</td>
-		<td>Calgary Alberta Canada</td>
-		<td>449</td>
-		<td>797</td>
-	</tr>
-	<tr>
 		<td>305</td>
 		<td>
 			<a target="_blank" href="https://github.com/ashfurrow">
-				<img src="https://private-avatars.githubusercontent.com/u/498212?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ5ODAsIm5iZiI6MTczNDMwMzc4MCwicGF0aCI6Ii91LzQ5ODIxMiJ9.gGsPIzxxLdvuV4IzojcTSDGPG2Lb2l5wADoSBHP8L9Y&s=72&v=4" width="24" alt="Avatar of ashfurrow"/> ashfurrow
+				<img src="https://private-avatars.githubusercontent.com/u/498212?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDA5ODAsIm5iZiI6MTczNDMzOTc4MCwicGF0aCI6Ii91LzQ5ODIxMiJ9.jNJ3GKKCvgeKP81keJGceBVh_90PaN44fB639P0WTXo&s=72&v=4" width="24" alt="Avatar of ashfurrow"/> ashfurrow
 			</a><br/>
 			Ash Furrow
 		</td>
@@ -4384,7 +4384,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>306</td>
 		<td>
 			<a target="_blank" href="https://github.com/rhiever">
-				<img src="https://private-avatars.githubusercontent.com/u/1719223?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ2ODAsIm5iZiI6MTczNDMwMzQ4MCwicGF0aCI6Ii91LzE3MTkyMjMifQ.J7hx80rz8quiccBBeAglY6XWeujXtzPmDMwRjAmb1pU&s=72&u=52bdb12d67d71fe91bf16c2795d5011561f22249&v=4" width="24" alt="Avatar of rhiever"/> rhiever
+				<img src="https://private-avatars.githubusercontent.com/u/1719223?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1ODAsIm5iZiI6MTczNDM0MDM4MCwicGF0aCI6Ii91LzE3MTkyMjMifQ.9I6csdkvPk1jF6rSht7jh30kbMNYbtIzLcvrhkGfTwg&s=72&u=52bdb12d67d71fe91bf16c2795d5011561f22249&v=4" width="24" alt="Avatar of rhiever"/> rhiever
 			</a><br/>
 			Randy Olson
 		</td>
@@ -4397,8 +4397,22 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 	<tr>
 		<td>307</td>
 		<td>
+			<a target="_blank" href="https://github.com/RyanNielson">
+				<img src="https://private-avatars.githubusercontent.com/u/794694?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIxODAsIm5iZiI6MTczNDM0MDk4MCwicGF0aCI6Ii91Lzc5NDY5NCJ9.5topeOTTIRWBXRlC2nC22uEnmvGeODdqpl-ETSCzFg8&s=72&v=4" width="24" alt="Avatar of RyanNielson"/> RyanNielson
+			</a><br/>
+			Ryan Nielson
+		</td>
+		<td>@thinkific </td>
+		<td>No Twitter Username</td>
+		<td>Halifax Nova Scotia Canada</td>
+		<td>53</td>
+		<td>791</td>
+	</tr>
+	<tr>
+		<td>308</td>
+		<td>
 			<a target="_blank" href="https://github.com/carlalexander">
-				<img src="https://private-avatars.githubusercontent.com/u/654684?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ5ODAsIm5iZiI6MTczNDMwMzc4MCwicGF0aCI6Ii91LzY1NDY4NCJ9.ldZPjAZGV5YO9m-BHiQVoaYycWMV3WFGPHtm_vdGds8&s=72&v=4" width="24" alt="Avatar of carlalexander"/> carlalexander
+				<img src="https://private-avatars.githubusercontent.com/u/654684?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4ODAsIm5iZiI6MTczNDM0MDY4MCwicGF0aCI6Ii91LzY1NDY4NCJ9.hzVXhj-Tm2bRzUSgFAW6Z6fdWOKavuK6QjaSyZCYbJI&s=72&v=4" width="24" alt="Avatar of carlalexander"/> carlalexander
 			</a><br/>
 			Carl Alexander
 		</td>
@@ -4409,24 +4423,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>790</td>
 	</tr>
 	<tr>
-		<td>308</td>
-		<td>
-			<a target="_blank" href="https://github.com/RyanNielson">
-				<img src="https://private-avatars.githubusercontent.com/u/794694?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDYxODAsIm5iZiI6MTczNDMwNDk4MCwicGF0aCI6Ii91Lzc5NDY5NCJ9.ODz4nstZQOhiIXK8sxgPZ9jAwvAZW2sjE1Fw4wJrp3s&s=72&v=4" width="24" alt="Avatar of RyanNielson"/> RyanNielson
-			</a><br/>
-			Ryan Nielson
-		</td>
-		<td>@thinkific </td>
-		<td>No Twitter Username</td>
-		<td>Halifax Nova Scotia Canada</td>
-		<td>52</td>
-		<td>790</td>
-	</tr>
-	<tr>
 		<td>309</td>
 		<td>
 			<a target="_blank" href="https://github.com/macdonst">
-				<img src="https://private-avatars.githubusercontent.com/u/353180?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU2NDAsIm5iZiI6MTczNDMwNDQ0MCwicGF0aCI6Ii91LzM1MzE4MCJ9.2k5XV1N26O1Y9dnjuDDVn71zoWQlKolr6gBeoX-K_jM&s=72&u=ed27a322293d9aa7314c49c06d5b5c49a7710cf9&v=4" width="24" alt="Avatar of macdonst"/> macdonst
+				<img src="https://private-avatars.githubusercontent.com/u/353180?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE2NDAsIm5iZiI6MTczNDM0MDQ0MCwicGF0aCI6Ii91LzM1MzE4MCJ9.SbleZaByqvO2TGk6SXgzpqVhh2rHCly_WFaQUdoAEPE&s=72&u=ed27a322293d9aa7314c49c06d5b5c49a7710cf9&v=4" width="24" alt="Avatar of macdonst"/> macdonst
 			</a><br/>
 			Simon MacDonald
 		</td>
@@ -4440,7 +4440,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>310</td>
 		<td>
 			<a target="_blank" href="https://github.com/nicolaskruchten">
-				<img src="https://private-avatars.githubusercontent.com/u/203523?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0MDAsIm5iZiI6MTczNDMwNDIwMCwicGF0aCI6Ii91LzIwMzUyMyJ9.0TUoqLjzxgncuqgfRFwyj066xjw9nXEcvgktTKObiF8&s=72&u=be1ac8964db4293e7ffbf9331d1baf13607fabd3&v=4" width="24" alt="Avatar of nicolaskruchten"/> nicolaskruchten
+				<img src="https://private-avatars.githubusercontent.com/u/203523?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0MDAsIm5iZiI6MTczNDM0MDIwMCwicGF0aCI6Ii91LzIwMzUyMyJ9.1dzimG7AQZWljsVi4wTQX3J_G3UJkmprIjI7fCsN_Sg&s=72&u=be1ac8964db4293e7ffbf9331d1baf13607fabd3&v=4" width="24" alt="Avatar of nicolaskruchten"/> nicolaskruchten
 			</a><br/>
 			Nicolas Kruchten
 		</td>
@@ -4454,7 +4454,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>311</td>
 		<td>
 			<a target="_blank" href="https://github.com/jamii">
-				<img src="https://private-avatars.githubusercontent.com/u/340884?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxMDAsIm5iZiI6MTczNDMwMzkwMCwicGF0aCI6Ii91LzM0MDg4NCJ9.2Wq94I23FQt1zu2zmREf5mZqDOsh80kesln7oCg0JmU&s=72&u=9d344cd20f15e4751a49d29205b72c2390c0f55a&v=4" width="24" alt="Avatar of jamii"/> jamii
+				<img src="https://private-avatars.githubusercontent.com/u/340884?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDExMDAsIm5iZiI6MTczNDMzOTkwMCwicGF0aCI6Ii91LzM0MDg4NCJ9.-rvHkCcJXDYudzIv-Ds_dj1ftY72Ssy0TiF5_01rGEo&s=72&u=9d344cd20f15e4751a49d29205b72c2390c0f55a&v=4" width="24" alt="Avatar of jamii"/> jamii
 			</a><br/>
 			Jamie Brandon
 		</td>
@@ -4468,7 +4468,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>312</td>
 		<td>
 			<a target="_blank" href="https://github.com/hebertialmeida">
-				<img src="https://private-avatars.githubusercontent.com/u/103670?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxNjAsIm5iZiI6MTczNDMwMzk2MCwicGF0aCI6Ii91LzEwMzY3MCJ9.lzCySXymMfcj-EU04PT529KCWqHJIruO-TdCytcBKvk&s=72&u=a84d8c26f66ff1e03321907a316a852376f0e232&v=4" width="24" alt="Avatar of hebertialmeida"/> hebertialmeida
+				<img src="https://private-avatars.githubusercontent.com/u/103670?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIwNjAsIm5iZiI6MTczNDM0MDg2MCwicGF0aCI6Ii91LzEwMzY3MCJ9.qtuO8G4B4bM9qL2--bbDLP-n9jgSprfB7FnnYeae5rk&s=72&u=a84d8c26f66ff1e03321907a316a852376f0e232&v=4" width="24" alt="Avatar of hebertialmeida"/> hebertialmeida
 			</a><br/>
 			Heberti Almeida
 		</td>
@@ -4482,7 +4482,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>313</td>
 		<td>
 			<a target="_blank" href="https://github.com/carolineschnapp">
-				<img src="https://private-avatars.githubusercontent.com/u/143817?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyODAsIm5iZiI6MTczNDMwNDA4MCwicGF0aCI6Ii91LzE0MzgxNyJ9.YGeCSfk0ysGN27xPdhtftcHEF9QLszw4H84dUjvkZrM&s=72&v=4" width="24" alt="Avatar of carolineschnapp"/> carolineschnapp
+				<img src="https://private-avatars.githubusercontent.com/u/143817?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyODAsIm5iZiI6MTczNDM0MDA4MCwicGF0aCI6Ii91LzE0MzgxNyJ9.RmyqT15Mbfdy5q1aV5zbryN-v2bv_A8Z6drCwSD7f28&s=72&v=4" width="24" alt="Avatar of carolineschnapp"/> carolineschnapp
 			</a><br/>
 			Caroline
 		</td>
@@ -4496,7 +4496,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>314</td>
 		<td>
 			<a target="_blank" href="https://github.com/00-Evan">
-				<img src="https://private-avatars.githubusercontent.com/u/2347603?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0MDAsIm5iZiI6MTczNDMwNDIwMCwicGF0aCI6Ii91LzIzNDc2MDMifQ.RZ98w6VFP9--oAWsVyO1v6JL4_V-yLnyrDY10fzSXms&s=72&u=2cfa1ce28ba089adb8fe07ea85b530b2b3307bab&v=4" width="24" alt="Avatar of 00-Evan"/> 00-Evan
+				<img src="https://private-avatars.githubusercontent.com/u/2347603?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0MDAsIm5iZiI6MTczNDM0MDIwMCwicGF0aCI6Ii91LzIzNDc2MDMifQ._Cnrj2srIQoh3zHpEPBV7aZ6Y-RxszGjRinDDumLIis&s=72&u=2cfa1ce28ba089adb8fe07ea85b530b2b3307bab&v=4" width="24" alt="Avatar of 00-Evan"/> 00-Evan
 			</a><br/>
 			Evan Debenham
 		</td>
@@ -4510,7 +4510,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>315</td>
 		<td>
 			<a target="_blank" href="https://github.com/davemo">
-				<img src="https://private-avatars.githubusercontent.com/u/69559?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3MDAsIm5iZiI6MTczNDMwNDUwMCwicGF0aCI6Ii91LzY5NTU5In0.btJz_AHYHuvBtNoSn13Be-O2wpaypM1xDBA_ak8cDa4&s=72&u=1f87c44daccb6c29cac2241eed086e3d0c85244b&v=4" width="24" alt="Avatar of davemo"/> davemo
+				<img src="https://private-avatars.githubusercontent.com/u/69559?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3MDAsIm5iZiI6MTczNDM0MDUwMCwicGF0aCI6Ii91LzY5NTU5In0.moLvEOHnpf_wSfJrV5uqcL-f_NijRMO1313GjsFJFO0&s=72&u=1f87c44daccb6c29cac2241eed086e3d0c85244b&v=4" width="24" alt="Avatar of davemo"/> davemo
 			</a><br/>
 			David Mosher
 		</td>
@@ -4524,7 +4524,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>316</td>
 		<td>
 			<a target="_blank" href="https://github.com/Mariatta">
-				<img src="https://private-avatars.githubusercontent.com/u/5844587?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ4MDAsIm5iZiI6MTczNDMwMzYwMCwicGF0aCI6Ii91LzU4NDQ1ODcifQ.T4GROIZAZCKUgvDuiUp9tw1t0t8Wbwa80U5Hmy6PWhw&s=72&v=4" width="24" alt="Avatar of Mariatta"/> Mariatta
+				<img src="https://private-avatars.githubusercontent.com/u/5844587?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3MDAsIm5iZiI6MTczNDM0MDUwMCwicGF0aCI6Ii91LzU4NDQ1ODcifQ.hqk-Fjxdx76BKX5Yo7z5GdVdidkuETTb4vwkd7Cs8jM&s=72&v=4" width="24" alt="Avatar of Mariatta"/> Mariatta
 			</a><br/>
 			Mariatta
 		</td>
@@ -4537,8 +4537,22 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 	<tr>
 		<td>317</td>
 		<td>
+			<a target="_blank" href="https://github.com/MattRix">
+				<img src="https://private-avatars.githubusercontent.com/u/229238?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1MjAsIm5iZiI6MTczNDM0MDMyMCwicGF0aCI6Ii91LzIyOTIzOCJ9.Ng5SeM5kCYmBAh9JHmcsH8KhzJSTHKrqXw-cnZ0KrSU&s=72&v=4" width="24" alt="Avatar of MattRix"/> MattRix
+			</a><br/>
+			Matt Rix
+		</td>
+		<td>Milkbag Games </td>
+		<td>No Twitter Username</td>
+		<td>Hamilton Ontario Canada</td>
+		<td>0</td>
+		<td>752</td>
+	</tr>
+	<tr>
+		<td>318</td>
+		<td>
 			<a target="_blank" href="https://github.com/flovilmart">
-				<img src="https://private-avatars.githubusercontent.com/u/364568?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4MjAsIm5iZiI6MTczNDMwNDYyMCwicGF0aCI6Ii91LzM2NDU2OCJ9.9CGxfcIf2MnULQJXbDLsW3JTdb6zY5t7XUXOa7wAZPQ&s=72&u=1593c20ab4c0df3b386584126f45965ea030cf82&v=4" width="24" alt="Avatar of flovilmart"/> flovilmart
+				<img src="https://private-avatars.githubusercontent.com/u/364568?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4MjAsIm5iZiI6MTczNDM0MDYyMCwicGF0aCI6Ii91LzM2NDU2OCJ9.pFWyH6QmHppbwv3g7-AzdEtNdq-XebUjgGd1ugmv7fU&s=72&u=1593c20ab4c0df3b386584126f45965ea030cf82&v=4" width="24" alt="Avatar of flovilmart"/> flovilmart
 			</a><br/>
 			Florent Vilmart
 		</td>
@@ -4549,10 +4563,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>750</td>
 	</tr>
 	<tr>
-		<td>318</td>
+		<td>319</td>
 		<td>
 			<a target="_blank" href="https://github.com/fnichol">
-				<img src="https://private-avatars.githubusercontent.com/u/261548?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0MDAsIm5iZiI6MTczNDMwNDIwMCwicGF0aCI6Ii91LzI2MTU0OCJ9.a9WCrKaHDtkqxMMmQJMK7nrK26NC4S65Fa-rZgpZNCk&s=72&u=2f3fb74b1aa5c20a256fc14b2b83f21d81736a18&v=4" width="24" alt="Avatar of fnichol"/> fnichol
+				<img src="https://private-avatars.githubusercontent.com/u/261548?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0MDAsIm5iZiI6MTczNDM0MDIwMCwicGF0aCI6Ii91LzI2MTU0OCJ9.oZOT9Xi7-knhHmNYyVjcCKJ16ZwzH3xodSLP5XhYJ8M&s=72&u=2f3fb74b1aa5c20a256fc14b2b83f21d81736a18&v=4" width="24" alt="Avatar of fnichol"/> fnichol
 			</a><br/>
 			Fletcher Nichol
 		</td>
@@ -4563,10 +4577,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>748</td>
 	</tr>
 	<tr>
-		<td>319</td>
+		<td>320</td>
 		<td>
 			<a target="_blank" href="https://github.com/cvs0">
-				<img src="https://private-avatars.githubusercontent.com/u/143862758?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU2NDAsIm5iZiI6MTczNDMwNDQ0MCwicGF0aCI6Ii91LzE0Mzg2Mjc1OCJ9.CCjoYo4P5_LHcgKm1Y-rLrAXhYR9YjJMO3Vd9F9INyk&s=72&u=32142520c5231d3f20d327f7bee727082c6a87e3&v=4" width="24" alt="Avatar of cvs0"/> cvs0
+				<img src="https://private-avatars.githubusercontent.com/u/143862758?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE2NDAsIm5iZiI6MTczNDM0MDQ0MCwicGF0aCI6Ii91LzE0Mzg2Mjc1OCJ9.lEX4VyjgSU8EZdtg4iik_5xYZFPluuBaVTPqZdedu8Q&s=72&u=32142520c5231d3f20d327f7bee727082c6a87e3&v=4" width="24" alt="Avatar of cvs0"/> cvs0
 			</a><br/>
 			cvs0
 		</td>
@@ -4577,24 +4591,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>747</td>
 	</tr>
 	<tr>
-		<td>320</td>
-		<td>
-			<a target="_blank" href="https://github.com/MattRix">
-				<img src="https://private-avatars.githubusercontent.com/u/229238?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1MjAsIm5iZiI6MTczNDMwNDMyMCwicGF0aCI6Ii91LzIyOTIzOCJ9.tZ-0zu74Ff8SVfJrpiUlDvp5AiN3DFdpWZlnfTitR9A&s=72&v=4" width="24" alt="Avatar of MattRix"/> MattRix
-			</a><br/>
-			Matt Rix
-		</td>
-		<td>Milkbag Games </td>
-		<td>No Twitter Username</td>
-		<td>Hamilton Ontario Canada</td>
-		<td>0</td>
-		<td>746</td>
-	</tr>
-	<tr>
 		<td>321</td>
 		<td>
 			<a target="_blank" href="https://github.com/jperras">
-				<img src="https://private-avatars.githubusercontent.com/u/20675?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyODAsIm5iZiI6MTczNDMwNDA4MCwicGF0aCI6Ii91LzIwNjc1In0.K4L_L4X_4QVW1cMX7hT71sglCE33mk-RsbLCJsxb9DI&s=72&u=4af07e506d5156a090ed80e387e798abcd0e5682&v=4" width="24" alt="Avatar of jperras"/> jperras
+				<img src="https://private-avatars.githubusercontent.com/u/20675?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIxODAsIm5iZiI6MTczNDM0MDk4MCwicGF0aCI6Ii91LzIwNjc1In0.SM5fbgk2a4PHydMGIeL5e8KIGltQlA2IVWh5T2H46A8&s=72&u=4af07e506d5156a090ed80e387e798abcd0e5682&v=4" width="24" alt="Avatar of jperras"/> jperras
 			</a><br/>
 			Jol Perras
 		</td>
@@ -4608,7 +4608,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>322</td>
 		<td>
 			<a target="_blank" href="https://github.com/agg23">
-				<img src="https://private-avatars.githubusercontent.com/u/238679?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxNjAsIm5iZiI6MTczNDMwMzk2MCwicGF0aCI6Ii91LzIzODY3OSJ9.FNaonrjn9bJ20dHj6NuC42JnUI0K_LEQ7Da6eVLQr8g&s=72&u=23a0c8cf57733dbb686775852c9dd8058e6037cc&v=4" width="24" alt="Avatar of agg23"/> agg23
+				<img src="https://private-avatars.githubusercontent.com/u/238679?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIwNjAsIm5iZiI6MTczNDM0MDg2MCwicGF0aCI6Ii91LzIzODY3OSJ9.phGt3pYFGzKxUAFYtNzNHpaIhOwqa6cDvSHPsMz5AqA&s=72&u=23a0c8cf57733dbb686775852c9dd8058e6037cc&v=4" width="24" alt="Avatar of agg23"/> agg23
 			</a><br/>
 			Adam Gastineau
 		</td>
@@ -4621,8 +4621,22 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 	<tr>
 		<td>323</td>
 		<td>
+			<a target="_blank" href="https://github.com/daffl">
+				<img src="https://private-avatars.githubusercontent.com/u/338316?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1ODAsIm5iZiI6MTczNDM0MDM4MCwicGF0aCI6Ii91LzMzODMxNiJ9.--5Nl4iNmy8xRNOZSdB4qAfpQIZKYVcYKQ9ngzQ6Dz8&s=72&u=c93fb0605dfdb27fca6e3994961d5c0159bec2a1&v=4" width="24" alt="Avatar of daffl"/> daffl
+			</a><br/>
+			David Luecke
+		</td>
+		<td>@feathersjs And @featherscloud </td>
+		<td>No Twitter Username</td>
+		<td>Vancouver BC</td>
+		<td>282</td>
+		<td>733</td>
+	</tr>
+	<tr>
+		<td>324</td>
+		<td>
 			<a target="_blank" href="https://github.com/Akasurde">
-				<img src="https://private-avatars.githubusercontent.com/u/633765?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4ODAsIm5iZiI6MTczNDMwNDY4MCwicGF0aCI6Ii91LzYzMzc2NSJ9.QFuaaOrlEeicoc6ZGKzTeXWmR0x7O8eTtsqbF3o7Wog&s=72&u=ba5af42e0c623b1527d35537604bfb161eec2cca&v=4" width="24" alt="Avatar of Akasurde"/> Akasurde
+				<img src="https://private-avatars.githubusercontent.com/u/633765?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4ODAsIm5iZiI6MTczNDM0MDY4MCwicGF0aCI6Ii91LzYzMzc2NSJ9.Aatcd4DI7Qjy3IM9piL1FJOb84AqwtE0jTl7J6UEwsc&s=72&u=ba5af42e0c623b1527d35537604bfb161eec2cca&v=4" width="24" alt="Avatar of Akasurde"/> Akasurde
 			</a><br/>
 			Abhijeet Kasurde
 		</td>
@@ -4633,10 +4647,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>731</td>
 	</tr>
 	<tr>
-		<td>324</td>
+		<td>325</td>
 		<td>
 			<a target="_blank" href="https://github.com/isaackogan">
-				<img src="https://private-avatars.githubusercontent.com/u/65869106?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4MjAsIm5iZiI6MTczNDMwNDYyMCwicGF0aCI6Ii91LzY1ODY5MTA2In0.CQUo56DvdDvxueyAr1U4qHlBHmUVi3S06xzlttlFbC4&s=72&u=46a19133ae7b65b374df363b8cb3026b8b5caa70&v=4" width="24" alt="Avatar of isaackogan"/> isaackogan
+				<img src="https://private-avatars.githubusercontent.com/u/65869106?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4MjAsIm5iZiI6MTczNDM0MDYyMCwicGF0aCI6Ii91LzY1ODY5MTA2In0.k663LG8iw9K45nx0n2KMnoS1TIYrEvlLQA6EgfNku1o&s=72&u=46a19133ae7b65b374df363b8cb3026b8b5caa70&v=4" width="24" alt="Avatar of isaackogan"/> isaackogan
 			</a><br/>
 			Isaac Kogan
 		</td>
@@ -4647,24 +4661,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>730</td>
 	</tr>
 	<tr>
-		<td>325</td>
-		<td>
-			<a target="_blank" href="https://github.com/daffl">
-				<img src="https://private-avatars.githubusercontent.com/u/338316?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1ODAsIm5iZiI6MTczNDMwNDM4MCwicGF0aCI6Ii91LzMzODMxNiJ9.pvf-XPu9FsosW1Jw2ZVc8Q9v9HHhJDURy_DEBljjSFY&s=72&u=c93fb0605dfdb27fca6e3994961d5c0159bec2a1&v=4" width="24" alt="Avatar of daffl"/> daffl
-			</a><br/>
-			David Luecke
-		</td>
-		<td>@feathersjs And @featherscloud </td>
-		<td>No Twitter Username</td>
-		<td>Vancouver BC</td>
-		<td>282</td>
-		<td>729</td>
-	</tr>
-	<tr>
 		<td>326</td>
 		<td>
 			<a target="_blank" href="https://github.com/mhammond">
-				<img src="https://private-avatars.githubusercontent.com/u/83924?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1MjAsIm5iZiI6MTczNDMwNDMyMCwicGF0aCI6Ii91LzgzOTI0In0.5YpE20SWswwwAb9M_ATfXXABljx9_3rSQHNTjhCX91g&s=72&v=4" width="24" alt="Avatar of mhammond"/> mhammond
+				<img src="https://private-avatars.githubusercontent.com/u/83924?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1MjAsIm5iZiI6MTczNDM0MDMyMCwicGF0aCI6Ii91LzgzOTI0In0.u4NA-1oO0LGGoxoal_lqaxFfigjWKUVZPjxyYxWZviM&s=72&v=4" width="24" alt="Avatar of mhammond"/> mhammond
 			</a><br/>
 			Mark Hammond
 		</td>
@@ -4678,7 +4678,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>327</td>
 		<td>
 			<a target="_blank" href="https://github.com/OmarElgabry">
-				<img src="https://private-avatars.githubusercontent.com/u/9262504?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU2NDAsIm5iZiI6MTczNDMwNDQ0MCwicGF0aCI6Ii91LzkyNjI1MDQifQ.YFNn5tEPr97wCHYugsvNbLLs6mt_nG3RQ5WnD7Vrj8w&s=72&u=b52b14ab3b9a302f67d3b0f8c5326e337d7bbd29&v=4" width="24" alt="Avatar of OmarElgabry"/> OmarElgabry
+				<img src="https://private-avatars.githubusercontent.com/u/9262504?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE2NDAsIm5iZiI6MTczNDM0MDQ0MCwicGF0aCI6Ii91LzkyNjI1MDQifQ.mVgqUdxCwY5Bm2eDWDPNigYLedf9JTAvZUcpw6b3wJo&s=72&u=b52b14ab3b9a302f67d3b0f8c5326e337d7bbd29&v=4" width="24" alt="Avatar of OmarElgabry"/> OmarElgabry
 			</a><br/>
 			Omar Elgabry
 		</td>
@@ -4692,7 +4692,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>328</td>
 		<td>
 			<a target="_blank" href="https://github.com/KalobTaulien">
-				<img src="https://private-avatars.githubusercontent.com/u/4743971?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1MjAsIm5iZiI6MTczNDMwNDMyMCwicGF0aCI6Ii91LzQ3NDM5NzEifQ.ZcFCFzP9IBFxSCgoNqg7H0S_ss41nRbHTCunnGZMFQM&s=72&u=80e22541d5f2ca9dff15049dcf32649c7069a12d&v=4" width="24" alt="Avatar of KalobTaulien"/> KalobTaulien
+				<img src="https://private-avatars.githubusercontent.com/u/4743971?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1MjAsIm5iZiI6MTczNDM0MDMyMCwicGF0aCI6Ii91LzQ3NDM5NzEifQ.PfdkL46zd6Lcxf8AeIW9NScCj9TQs0EtBYXKpBEjUqI&s=72&u=80e22541d5f2ca9dff15049dcf32649c7069a12d&v=4" width="24" alt="Avatar of KalobTaulien"/> KalobTaulien
 			</a><br/>
 			Kalob Taulien
 		</td>
@@ -4706,7 +4706,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>329</td>
 		<td>
 			<a target="_blank" href="https://github.com/ttimbers">
-				<img src="https://private-avatars.githubusercontent.com/u/6865016?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU2NDAsIm5iZiI6MTczNDMwNDQ0MCwicGF0aCI6Ii91LzY4NjUwMTYifQ.cZ1qIupwv-OFP8GMZw-f1x9_UeFwq2wnoLE0NHjFJTk&s=72&u=57db6900dbbcb7ad0f292398b5f8519d6caf2ae8&v=4" width="24" alt="Avatar of ttimbers"/> ttimbers
+				<img src="https://private-avatars.githubusercontent.com/u/6865016?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE2NDAsIm5iZiI6MTczNDM0MDQ0MCwicGF0aCI6Ii91LzY4NjUwMTYifQ.oj5yjMKNIa72CoFnscB2HGsYE8ILxs04EA3rQ64Eibc&s=72&u=57db6900dbbcb7ad0f292398b5f8519d6caf2ae8&v=4" width="24" alt="Avatar of ttimbers"/> ttimbers
 			</a><br/>
 			Tiffany A Timbers
 		</td>
@@ -4720,7 +4720,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>330</td>
 		<td>
 			<a target="_blank" href="https://github.com/obilodeau">
-				<img src="https://private-avatars.githubusercontent.com/u/546325?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1ODAsIm5iZiI6MTczNDMwNDM4MCwicGF0aCI6Ii91LzU0NjMyNSJ9.hkdnfSWul7vJuMKy1H6u9aApXDhDD5oXSEs9GBmfZCQ&s=72&v=4" width="24" alt="Avatar of obilodeau"/> obilodeau
+				<img src="https://private-avatars.githubusercontent.com/u/546325?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1ODAsIm5iZiI6MTczNDM0MDM4MCwicGF0aCI6Ii91LzU0NjMyNSJ9.dC_JvzL2Uh0UwdrbVAhordVDS2OsfCfIZ8NvybI_ovI&s=72&v=4" width="24" alt="Avatar of obilodeau"/> obilodeau
 			</a><br/>
 			Olivier Bilodeau
 		</td>
@@ -4734,7 +4734,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>331</td>
 		<td>
 			<a target="_blank" href="https://github.com/fantix">
-				<img src="https://private-avatars.githubusercontent.com/u/1751601?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyODAsIm5iZiI6MTczNDMwNDA4MCwicGF0aCI6Ii91LzE3NTE2MDEifQ.Ufm8ul0mgpoVlmiJXPl0CzrA0CrfaekGdQ-5XKv3dp4&s=72&v=4" width="24" alt="Avatar of fantix"/> fantix
+				<img src="https://private-avatars.githubusercontent.com/u/1751601?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyODAsIm5iZiI6MTczNDM0MDA4MCwicGF0aCI6Ii91LzE3NTE2MDEifQ.hR3YKY0AixcB7GfmxW8UFwx0G2kQd-p-Uh9fy0HzCZQ&s=72&v=4" width="24" alt="Avatar of fantix"/> fantix
 			</a><br/>
 			Fantix King
 		</td>
@@ -4748,7 +4748,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>332</td>
 		<td>
 			<a target="_blank" href="https://github.com/skellock">
-				<img src="https://private-avatars.githubusercontent.com/u/68273?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91LzY4MjczIn0.ohQ3K8YqF2O21P8tP5DvCZDN8nMVMr4aQ2qSQvEl9ME&s=72&u=ea37762ae498704cbd73ba6b361793d51c9b1b43&v=4" width="24" alt="Avatar of skellock"/> skellock
+				<img src="https://private-avatars.githubusercontent.com/u/68273?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIyNDAsIm5iZiI6MTczNDM0MTA0MCwicGF0aCI6Ii91LzY4MjczIn0.l1TbqtWzVQocECy04hPrwZTLvz1ri8Y8MZCIm9saC_I&s=72&u=ea37762ae498704cbd73ba6b361793d51c9b1b43&v=4" width="24" alt="Avatar of skellock"/> skellock
 			</a><br/>
 			Steve Kellock
 		</td>
@@ -4762,7 +4762,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>333</td>
 		<td>
 			<a target="_blank" href="https://github.com/d4l3k">
-				<img src="https://private-avatars.githubusercontent.com/u/909104?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91LzkwOTEwNCJ9.KWUY1Zv_CZ_HuQBJYjgYfmMTY5qrCCEcTVKG4qVhSkw&s=72&u=931291c0624cfe834533f68254e56ba3fd2798b2&v=4" width="24" alt="Avatar of d4l3k"/> d4l3k
+				<img src="https://private-avatars.githubusercontent.com/u/909104?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEzNDAsIm5iZiI6MTczNDM0MDE0MCwicGF0aCI6Ii91LzkwOTEwNCJ9.yFvYLsL0jgsZZzk2XJdhgbGHwCMicD9cis5q9MMaL5A&s=72&u=931291c0624cfe834533f68254e56ba3fd2798b2&v=4" width="24" alt="Avatar of d4l3k"/> d4l3k
 			</a><br/>
 			Tristan Rice
 		</td>
@@ -4776,7 +4776,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>334</td>
 		<td>
 			<a target="_blank" href="https://github.com/benvinegar">
-				<img src="https://private-avatars.githubusercontent.com/u/2153?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxNjAsIm5iZiI6MTczNDMwMzk2MCwicGF0aCI6Ii91LzIxNTMifQ.xuRLW8DeUnvSAYp0gaxE0bQUofD-TBYONaaeb5lnUyQ&s=72&u=055766d8fd5f1e85b633a67b7c4b760326a974c9&v=4" width="24" alt="Avatar of benvinegar"/> benvinegar
+				<img src="https://private-avatars.githubusercontent.com/u/2153?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDExNjAsIm5iZiI6MTczNDMzOTk2MCwicGF0aCI6Ii91LzIxNTMifQ.g31diO4eqX6u0gncFi8dTXPmH-Q3H7zw5l5DAwILN80&s=72&u=055766d8fd5f1e85b633a67b7c4b760326a974c9&v=4" width="24" alt="Avatar of benvinegar"/> benvinegar
 			</a><br/>
 			Ben Vinegar
 		</td>
@@ -4790,7 +4790,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>335</td>
 		<td>
 			<a target="_blank" href="https://github.com/rishabkumar7">
-				<img src="https://private-avatars.githubusercontent.com/u/45825464?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ4NjAsIm5iZiI6MTczNDMwMzY2MCwicGF0aCI6Ii91LzQ1ODI1NDY0In0.dep5uiK5BX4ST_tWV-aVOnVmJpUrm0A1Qt1rGx4aoxU&s=72&u=a9f87e35a5c643bd781bd1810538d26ed7b5c440&v=4" width="24" alt="Avatar of rishabkumar7"/> rishabkumar7
+				<img src="https://private-avatars.githubusercontent.com/u/45825464?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3NjAsIm5iZiI6MTczNDM0MDU2MCwicGF0aCI6Ii91LzQ1ODI1NDY0In0.MtsU4apPr8lCP34aq9r22-aS8Jp1LwAvgjKfXAlvJUc&s=72&u=a9f87e35a5c643bd781bd1810538d26ed7b5c440&v=4" width="24" alt="Avatar of rishabkumar7"/> rishabkumar7
 			</a><br/>
 			Rishab Kumar
 		</td>
@@ -4804,7 +4804,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>336</td>
 		<td>
 			<a target="_blank" href="https://github.com/winlinvip">
-				<img src="https://private-avatars.githubusercontent.com/u/2777660?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ4MDAsIm5iZiI6MTczNDMwMzYwMCwicGF0aCI6Ii91LzI3Nzc2NjAifQ.H70fpcRoE8sdKokRzIV3Qwz9AFiVf0ncUsLmi-5rfxw&s=72&u=0e6f69a6d9efda522cc1a8a601f2518b42bd396c&v=4" width="24" alt="Avatar of winlinvip"/> winlinvip
+				<img src="https://private-avatars.githubusercontent.com/u/2777660?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3MDAsIm5iZiI6MTczNDM0MDUwMCwicGF0aCI6Ii91LzI3Nzc2NjAifQ.fWI64aEvzLvieypNd_xdo7TaTnOeJQQNYc4-Yx5bvN8&s=72&u=0e6f69a6d9efda522cc1a8a601f2518b42bd396c&v=4" width="24" alt="Avatar of winlinvip"/> winlinvip
 			</a><br/>
 			Winlin
 		</td>
@@ -4818,7 +4818,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>337</td>
 		<td>
 			<a target="_blank" href="https://github.com/eslachance">
-				<img src="https://private-avatars.githubusercontent.com/u/643344?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1ODAsIm5iZiI6MTczNDMwNDM4MCwicGF0aCI6Ii91LzY0MzM0NCJ9.09LWreq3uWo4uUHKe_WF3dJTAdTTfGrLnCkxb_lubdM&s=72&u=2e4669dd6365df88a08084f92f45218bd351798b&v=4" width="24" alt="Avatar of eslachance"/> eslachance
+				<img src="https://private-avatars.githubusercontent.com/u/643344?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1ODAsIm5iZiI6MTczNDM0MDM4MCwicGF0aCI6Ii91LzY0MzM0NCJ9.AkqRyZeScQJkFiF9vYeZ6Lh_AZpeMH5YoNl7Q9fBQ3c&s=72&u=2e4669dd6365df88a08084f92f45218bd351798b&v=4" width="24" alt="Avatar of eslachance"/> eslachance
 			</a><br/>
 			ricSbastien Lachance
 		</td>
@@ -4832,7 +4832,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>338</td>
 		<td>
 			<a target="_blank" href="https://github.com/n1ckfg">
-				<img src="https://private-avatars.githubusercontent.com/u/771175?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1MjAsIm5iZiI6MTczNDMwNDMyMCwicGF0aCI6Ii91Lzc3MTE3NSJ9.DsmUSOwAnZnjSkN4kQKNs70YDuPR5TJ_qB9tWneJ8TY&s=72&u=d2aaccdc72d0b6175645d7eb05b965c7076de6fa&v=4" width="24" alt="Avatar of n1ckfg"/> n1ckfg
+				<img src="https://private-avatars.githubusercontent.com/u/771175?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1MjAsIm5iZiI6MTczNDM0MDMyMCwicGF0aCI6Ii91Lzc3MTE3NSJ9.Up454hCHOLhFY4J1VFUwmANz652KyxjGCNePc3Bn2Xc&s=72&u=d2aaccdc72d0b6175645d7eb05b965c7076de6fa&v=4" width="24" alt="Avatar of n1ckfg"/> n1ckfg
 			</a><br/>
 			Nick FoxGieg
 		</td>
@@ -4846,7 +4846,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>339</td>
 		<td>
 			<a target="_blank" href="https://github.com/noot">
-				<img src="https://private-avatars.githubusercontent.com/u/36753753?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUwNDAsIm5iZiI6MTczNDMwMzg0MCwicGF0aCI6Ii91LzM2NzUzNzUzIn0.nWxdQ2pdZCnwOOunrQE6VqyZiDlQDALKw9oSgHQgzrQ&s=72&u=825bb9c4098ee53f7d663d029435ce1921924021&v=4" width="24" alt="Avatar of noot"/> noot
+				<img src="https://private-avatars.githubusercontent.com/u/36753753?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE5NDAsIm5iZiI6MTczNDM0MDc0MCwicGF0aCI6Ii91LzM2NzUzNzUzIn0.HprCR6fFXliRk1C_TnvThvyc0_81w8b2v-w-MeiEZVo&s=72&u=825bb9c4098ee53f7d663d029435ce1921924021&v=4" width="24" alt="Avatar of noot"/> noot
 			</a><br/>
 			No Name
 		</td>
@@ -4860,7 +4860,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>340</td>
 		<td>
 			<a target="_blank" href="https://github.com/Pouyaexe">
-				<img src="https://private-avatars.githubusercontent.com/u/40316639?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1ODAsIm5iZiI6MTczNDMwNDM4MCwicGF0aCI6Ii91LzQwMzE2NjM5In0.bb2UdTJ9gKE6dJCh8XLyTv17P4aEcOTpbibBEHAEF5w&s=72&u=cb5654731b954a82f39d0d1fee520eee1368ef60&v=4" width="24" alt="Avatar of Pouyaexe"/> Pouyaexe
+				<img src="https://private-avatars.githubusercontent.com/u/40316639?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1ODAsIm5iZiI6MTczNDM0MDM4MCwicGF0aCI6Ii91LzQwMzE2NjM5In0.iM7990RlQ7BSPjyzc0yt6-7b0iJ3ei3Vd3UCJ0hB0Eg&s=72&u=cb5654731b954a82f39d0d1fee520eee1368ef60&v=4" width="24" alt="Avatar of Pouyaexe"/> Pouyaexe
 			</a><br/>
 			Pouya Hallaj
 		</td>
@@ -4868,13 +4868,13 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Canada</td>
 		<td>131</td>
-		<td>684</td>
+		<td>685</td>
 	</tr>
 	<tr>
 		<td>341</td>
 		<td>
 			<a target="_blank" href="https://github.com/syavash">
-				<img src="https://private-avatars.githubusercontent.com/u/445636?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4ODAsIm5iZiI6MTczNDMwNDY4MCwicGF0aCI6Ii91LzQ0NTYzNiJ9.BRDU4WhxiYR3wBIImxo0HtBAhoPlUsSkqLAjwViPrTQ&s=72&u=d529f743a3b997dabf2515bd3e4552d123c78e6f&v=4" width="24" alt="Avatar of syavash"/> syavash
+				<img src="https://private-avatars.githubusercontent.com/u/445636?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4ODAsIm5iZiI6MTczNDM0MDY4MCwicGF0aCI6Ii91LzQ0NTYzNiJ9.CvrHkc8ncAuX3OlwZBnCLec2XJ_bn6Rf8XkD7lrXLZ0&s=72&u=d529f743a3b997dabf2515bd3e4552d123c78e6f&v=4" width="24" alt="Avatar of syavash"/> syavash
 			</a><br/>
 			Siavash Mahmoudian
 		</td>
@@ -4888,7 +4888,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>342</td>
 		<td>
 			<a target="_blank" href="https://github.com/shazow">
-				<img src="https://private-avatars.githubusercontent.com/u/6292?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1MjAsIm5iZiI6MTczNDMwNDMyMCwicGF0aCI6Ii91LzYyOTIifQ.dxFqkMa7vW9J2rW9PiJbPengnaUrPWUu4He3qc88Jiw&s=72&v=4" width="24" alt="Avatar of shazow"/> shazow
+				<img src="https://private-avatars.githubusercontent.com/u/6292?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1MjAsIm5iZiI6MTczNDM0MDMyMCwicGF0aCI6Ii91LzYyOTIifQ.6rrvo82XazjJ8ab4eltKPNhEZr1CIf0LofGfa-LDHxs&s=72&v=4" width="24" alt="Avatar of shazow"/> shazow
 			</a><br/>
 			Andrey Petrov
 		</td>
@@ -4902,7 +4902,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>343</td>
 		<td>
 			<a target="_blank" href="https://github.com/rileyjshaw">
-				<img src="https://private-avatars.githubusercontent.com/u/1840854?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3NjAsIm5iZiI6MTczNDMwNDU2MCwicGF0aCI6Ii91LzE4NDA4NTQifQ.JAEvTcK7tAwjCExfbNKBxe-Pk_AGe6DPUMXI0FPX0lY&s=72&u=e5685bde2866210f0b363f91661f18e8c8543842&v=4" width="24" alt="Avatar of rileyjshaw"/> rileyjshaw
+				<img src="https://private-avatars.githubusercontent.com/u/1840854?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3NjAsIm5iZiI6MTczNDM0MDU2MCwicGF0aCI6Ii91LzE4NDA4NTQifQ.LxOE58K6g3vQZx8vk2N7HDwVuNGjsBmOVpRt0Kc8zK8&s=72&u=e5685bde2866210f0b363f91661f18e8c8543842&v=4" width="24" alt="Avatar of rileyjshaw"/> rileyjshaw
 			</a><br/>
 			Riley Shaw
 		</td>
@@ -4916,7 +4916,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>344</td>
 		<td>
 			<a target="_blank" href="https://github.com/pgaskin">
-				<img src="https://private-avatars.githubusercontent.com/u/13909717?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1ODAsIm5iZiI6MTczNDMwNDM4MCwicGF0aCI6Ii91LzEzOTA5NzE3In0.J_MbBefQZCG5aGg7sRWOkDtjEHBMM4hfHt3xglfp8oE&s=72&u=58c714c8d08f631b579b626c6baeb4ebd5b0bac3&v=4" width="24" alt="Avatar of pgaskin"/> pgaskin
+				<img src="https://private-avatars.githubusercontent.com/u/13909717?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1ODAsIm5iZiI6MTczNDM0MDM4MCwicGF0aCI6Ii91LzEzOTA5NzE3In0.g7GpSRls0knleL9O5kGVuD0F8PuK1Z4xmj1bk_YuWV0&s=72&u=58c714c8d08f631b579b626c6baeb4ebd5b0bac3&v=4" width="24" alt="Avatar of pgaskin"/> pgaskin
 			</a><br/>
 			Patrick Gaskin
 		</td>
@@ -4930,7 +4930,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>345</td>
 		<td>
 			<a target="_blank" href="https://github.com/ImranR98">
-				<img src="https://private-avatars.githubusercontent.com/u/30463115?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUwNDAsIm5iZiI6MTczNDMwMzg0MCwicGF0aCI6Ii91LzMwNDYzMTE1In0.IgXuwmjH36UzWeMmrjpNKeqHOn6tYQQ0oSql8_rEMw0&s=72&u=1c9dae7a3a4a721ec5fdca05a0327b6c2084d3c0&v=4" width="24" alt="Avatar of ImranR98"/> ImranR98
+				<img src="https://private-avatars.githubusercontent.com/u/30463115?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE5NDAsIm5iZiI6MTczNDM0MDc0MCwicGF0aCI6Ii91LzMwNDYzMTE1In0.0b34ZP8J1ikt7lDIQc89F6U-Ylxifr_mWJ2Zdig3FxI&s=72&u=1c9dae7a3a4a721ec5fdca05a0327b6c2084d3c0&v=4" width="24" alt="Avatar of ImranR98"/> ImranR98
 			</a><br/>
 			Imran
 		</td>
@@ -4944,7 +4944,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>346</td>
 		<td>
 			<a target="_blank" href="https://github.com/anthonychu">
-				<img src="https://private-avatars.githubusercontent.com/u/3982077?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1ODAsIm5iZiI6MTczNDMwNDM4MCwicGF0aCI6Ii91LzM5ODIwNzcifQ.FvEdOyRQd6lHXBwgVFf-K_VmsxS2bY82ZjQTA1rqZFY&s=72&u=8bbebac42cb84a25c629f83f212b2d099ffa3964&v=4" width="24" alt="Avatar of anthonychu"/> anthonychu
+				<img src="https://private-avatars.githubusercontent.com/u/3982077?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1ODAsIm5iZiI6MTczNDM0MDM4MCwicGF0aCI6Ii91LzM5ODIwNzcifQ.fksjTwWUWkOWmJcUJrqA-eITpw5dRFp6FZnrtqThl_w&s=72&u=8bbebac42cb84a25c629f83f212b2d099ffa3964&v=4" width="24" alt="Avatar of anthonychu"/> anthonychu
 			</a><br/>
 			Anthony Chu
 		</td>
@@ -4958,7 +4958,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>347</td>
 		<td>
 			<a target="_blank" href="https://github.com/DustinBrett">
-				<img src="https://private-avatars.githubusercontent.com/u/16656318?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ4MDAsIm5iZiI6MTczNDMwMzYwMCwicGF0aCI6Ii91LzE2NjU2MzE4In0.HVOewy0-5J9jNhogFqNbPdFgaHxM87Gr1gGTr9S835g&s=72&u=c6f43687096ee72c60310fe4b9c95620b22f56b9&v=4" width="24" alt="Avatar of DustinBrett"/> DustinBrett
+				<img src="https://private-avatars.githubusercontent.com/u/16656318?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3MDAsIm5iZiI6MTczNDM0MDUwMCwicGF0aCI6Ii91LzE2NjU2MzE4In0.IGUOvQjadePTwAAv3F0GonLTwZ0dlxQjtNzUYMMCR7c&s=72&u=c6f43687096ee72c60310fe4b9c95620b22f56b9&v=4" width="24" alt="Avatar of DustinBrett"/> DustinBrett
 			</a><br/>
 			Dustin Brett
 		</td>
@@ -4972,7 +4972,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>348</td>
 		<td>
 			<a target="_blank" href="https://github.com/sojoudian">
-				<img src="https://private-avatars.githubusercontent.com/u/4368907?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU2NDAsIm5iZiI6MTczNDMwNDQ0MCwicGF0aCI6Ii91LzQzNjg5MDcifQ.HA-CM6XPOSFrz-UNfneD6eOQqoviMcS8SDEMpfe-SwQ&s=72&u=b00a755d48a04bd68f96f7cd4a7266ae7da9c58e&v=4" width="24" alt="Avatar of sojoudian"/> sojoudian
+				<img src="https://private-avatars.githubusercontent.com/u/4368907?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE2NDAsIm5iZiI6MTczNDM0MDQ0MCwicGF0aCI6Ii91LzQzNjg5MDcifQ.iVe_BuUH80zF6CiAFMOtD5JAzRcnHQY0l0-c7iEF2rg&s=72&u=b00a755d48a04bd68f96f7cd4a7266ae7da9c58e&v=4" width="24" alt="Avatar of sojoudian"/> sojoudian
 			</a><br/>
 			Maziar
 		</td>
@@ -4986,7 +4986,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>349</td>
 		<td>
 			<a target="_blank" href="https://github.com/xiaozhouwang">
-				<img src="https://private-avatars.githubusercontent.com/u/6015486?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1MjAsIm5iZiI6MTczNDMwNDMyMCwicGF0aCI6Ii91LzYwMTU0ODYifQ.yULo0xUZNMMx_osxmgUaQfic69XkCX2wV3yFsnbZQV8&s=72&u=edc9a4dd6cc3341054f4552d659bce31c1aba99a&v=4" width="24" alt="Avatar of xiaozhouwang"/> xiaozhouwang
+				<img src="https://private-avatars.githubusercontent.com/u/6015486?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1MjAsIm5iZiI6MTczNDM0MDMyMCwicGF0aCI6Ii91LzYwMTU0ODYifQ.DjyxZPjq75cWt19IJWoV6SLD4zh0EbPB0_-ZY4Scefs&s=72&u=edc9a4dd6cc3341054f4552d659bce31c1aba99a&v=4" width="24" alt="Avatar of xiaozhouwang"/> xiaozhouwang
 			</a><br/>
 			Little Boat
 		</td>
@@ -5000,7 +5000,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>350</td>
 		<td>
 			<a target="_blank" href="https://github.com/ylogx">
-				<img src="https://private-avatars.githubusercontent.com/u/3508878?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1ODAsIm5iZiI6MTczNDMwNDM4MCwicGF0aCI6Ii91LzM1MDg4NzgifQ.jKeaUwQ17WceJhL9nAlH-_H9aTLgvCc-ixYsgtIfieU&s=72&u=290798634237e8055d155226512057508269327e&v=4" width="24" alt="Avatar of ylogx"/> ylogx
+				<img src="https://private-avatars.githubusercontent.com/u/3508878?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1ODAsIm5iZiI6MTczNDM0MDM4MCwicGF0aCI6Ii91LzM1MDg4NzgifQ.M_eEPRTUZMPns1ivUhg8GkLFqPtvSuNwyNYiU1fR1MA&s=72&u=290798634237e8055d155226512057508269327e&v=4" width="24" alt="Avatar of ylogx"/> ylogx
 			</a><br/>
 			Shubham Chaudhary
 		</td>
@@ -5008,13 +5008,13 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td><a target="_blank" href="https://twitter.com/ylogx">ylogx</a></td>
 		<td>Toronto</td>
 		<td>114</td>
-		<td>647</td>
+		<td>648</td>
 	</tr>
 	<tr>
 		<td>351</td>
 		<td>
 			<a target="_blank" href="https://github.com/guilleiguaran">
-				<img src="https://private-avatars.githubusercontent.com/u/160941?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0MDAsIm5iZiI6MTczNDMwNDIwMCwicGF0aCI6Ii91LzE2MDk0MSJ9.1LhzHXKyZyfYSDiuq-RNvmwG8dB7kemkYvdvYh1xg9g&s=72&u=323043af6374803e0a2532643b9628d55ed264dd&v=4" width="24" alt="Avatar of guilleiguaran"/> guilleiguaran
+				<img src="https://private-avatars.githubusercontent.com/u/160941?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0MDAsIm5iZiI6MTczNDM0MDIwMCwicGF0aCI6Ii91LzE2MDk0MSJ9.lwyTUpo-o8xt7xTyMKtbNAwjyt5EeTFanPfzdio9qLg&s=72&u=323043af6374803e0a2532643b9628d55ed264dd&v=4" width="24" alt="Avatar of guilleiguaran"/> guilleiguaran
 			</a><br/>
 			Guillermo Iguaran
 		</td>
@@ -5028,7 +5028,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>352</td>
 		<td>
 			<a target="_blank" href="https://github.com/wb14123">
-				<img src="https://private-avatars.githubusercontent.com/u/1906051?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUwNDAsIm5iZiI6MTczNDMwMzg0MCwicGF0aCI6Ii91LzE5MDYwNTEifQ.TmVtgdEikFFRvIa_YfkamxqOMo8dajTA3_IfFx9695Y&s=72&v=4" width="24" alt="Avatar of wb14123"/> wb14123
+				<img src="https://private-avatars.githubusercontent.com/u/1906051?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE5NDAsIm5iZiI6MTczNDM0MDc0MCwicGF0aCI6Ii91LzE5MDYwNTEifQ.rbUSnlzUA4uXCbvB7RFtrxDSSc4-NAHJaR_Cp7UqYfk&s=72&v=4" width="24" alt="Avatar of wb14123"/> wb14123
 			</a><br/>
 			Bin Wang
 		</td>
@@ -5042,7 +5042,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>353</td>
 		<td>
 			<a target="_blank" href="https://github.com/willfarrell">
-				<img src="https://private-avatars.githubusercontent.com/u/1097020?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3NjAsIm5iZiI6MTczNDMwNDU2MCwicGF0aCI6Ii91LzEwOTcwMjAifQ.VeSLS8pkLhWFPpb8ty1VgqpAflurLHqRHZu6Lp4mqJQ&s=72&v=4" width="24" alt="Avatar of willfarrell"/> willfarrell
+				<img src="https://private-avatars.githubusercontent.com/u/1097020?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3NjAsIm5iZiI6MTczNDM0MDU2MCwicGF0aCI6Ii91LzEwOTcwMjAifQ.DkaBvzr2X1rons7ELRtQE180XnS6dSSNPZzZUsfueCw&s=72&v=4" width="24" alt="Avatar of willfarrell"/> willfarrell
 			</a><br/>
 			will Farrell
 		</td>
@@ -5056,7 +5056,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>354</td>
 		<td>
 			<a target="_blank" href="https://github.com/KylerCondran">
-				<img src="https://private-avatars.githubusercontent.com/u/7399939?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ2ODAsIm5iZiI6MTczNDMwMzQ4MCwicGF0aCI6Ii91LzczOTk5MzkifQ.rXXqAJZesYR3tGyj7XfjFKO9lQ2QrfZFbrvglnEChrY&s=72&v=4" width="24" alt="Avatar of KylerCondran"/> KylerCondran
+				<img src="https://private-avatars.githubusercontent.com/u/7399939?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1ODAsIm5iZiI6MTczNDM0MDM4MCwicGF0aCI6Ii91LzczOTk5MzkifQ.0Qyb4YIV5viiaXIgSK9wAPTjPVP4laPLW2RTdC9YbYM&s=72&v=4" width="24" alt="Avatar of KylerCondran"/> KylerCondran
 			</a><br/>
 			Kyler Condran
 		</td>
@@ -5070,7 +5070,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>355</td>
 		<td>
 			<a target="_blank" href="https://github.com/rwightman">
-				<img src="https://private-avatars.githubusercontent.com/u/5702664?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxNjAsIm5iZiI6MTczNDMwMzk2MCwicGF0aCI6Ii91LzU3MDI2NjQifQ.V54bYPK88jJARYFFd5AjyRw4lUu4o6qrln-UADAGmNc&s=72&u=df4f0a66cd454d176039c595bb197c7fcecfd8ba&v=4" width="24" alt="Avatar of rwightman"/> rwightman
+				<img src="https://private-avatars.githubusercontent.com/u/5702664?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDExNjAsIm5iZiI6MTczNDMzOTk2MCwicGF0aCI6Ii91LzU3MDI2NjQifQ.Aid2O9ftxrOkm3BOGonM4qS3dxPTbRx8Jym4LS-eKWM&s=72&u=df4f0a66cd454d176039c595bb197c7fcecfd8ba&v=4" width="24" alt="Avatar of rwightman"/> rwightman
 			</a><br/>
 			Ross Wightman
 		</td>
@@ -5083,8 +5083,22 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 	<tr>
 		<td>356</td>
 		<td>
+			<a target="_blank" href="https://github.com/TwiN">
+				<img src="https://private-avatars.githubusercontent.com/u/15699766?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3NjAsIm5iZiI6MTczNDM0MDU2MCwicGF0aCI6Ii91LzE1Njk5NzY2In0.Ygd3-Q6KF5btUF_4IUpS2I4ZdWzdCkcQf64rrNYAeJA&s=72&u=b9348c9b30b9364587c8d68a82dcb456fe6cbf6a&v=4" width="24" alt="Avatar of TwiN"/> TwiN
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Canada</td>
+		<td>438</td>
+		<td>629</td>
+	</tr>
+	<tr>
+		<td>357</td>
+		<td>
 			<a target="_blank" href="https://github.com/vineetjohn">
-				<img src="https://private-avatars.githubusercontent.com/u/1531017?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyODAsIm5iZiI6MTczNDMwNDA4MCwicGF0aCI6Ii91LzE1MzEwMTcifQ.oIuMhab2U9xr6NeH-1Isuv1INtP7qrj6x5mBVPWY70w&s=72&u=81db6fb21e4718e0c0f11eec657fc4fa84900781&v=4" width="24" alt="Avatar of vineetjohn"/> vineetjohn
+				<img src="https://private-avatars.githubusercontent.com/u/1531017?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIxODAsIm5iZiI6MTczNDM0MDk4MCwicGF0aCI6Ii91LzE1MzEwMTcifQ.2H3PxdMXuiFYvgnD5u-VziSrqjxf02OFDgFA1u-CO_o&s=72&u=81db6fb21e4718e0c0f11eec657fc4fa84900781&v=4" width="24" alt="Avatar of vineetjohn"/> vineetjohn
 			</a><br/>
 			Vineet
 		</td>
@@ -5095,24 +5109,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>628</td>
 	</tr>
 	<tr>
-		<td>357</td>
-		<td>
-			<a target="_blank" href="https://github.com/TwiN">
-				<img src="https://private-avatars.githubusercontent.com/u/15699766?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3NjAsIm5iZiI6MTczNDMwNDU2MCwicGF0aCI6Ii91LzE1Njk5NzY2In0.3w8J6RQ0oibg3q0Hizg7fgqapEEp4Z9GPuWzOeLyMu8&s=72&u=b9348c9b30b9364587c8d68a82dcb456fe6cbf6a&v=4" width="24" alt="Avatar of TwiN"/> TwiN
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Canada</td>
-		<td>435</td>
-		<td>626</td>
-	</tr>
-	<tr>
 		<td>358</td>
 		<td>
 			<a target="_blank" href="https://github.com/tessalt">
-				<img src="https://private-avatars.githubusercontent.com/u/1789029?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0MDAsIm5iZiI6MTczNDMwNDIwMCwicGF0aCI6Ii91LzE3ODkwMjkifQ.cd4pXEGoWVJoZGncBqcBiutlHNkOzzHotG3RDkfwmoc&s=72&u=ce3c03859e277611f779cc76d81d88c6139362ea&v=4" width="24" alt="Avatar of tessalt"/> tessalt
+				<img src="https://private-avatars.githubusercontent.com/u/1789029?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0MDAsIm5iZiI6MTczNDM0MDIwMCwicGF0aCI6Ii91LzE3ODkwMjkifQ.E539qa_JFLNQgfS8OXzo8-9YtKskJkj5N8fxRtAS-XA&s=72&u=ce3c03859e277611f779cc76d81d88c6139362ea&v=4" width="24" alt="Avatar of tessalt"/> tessalt
 			</a><br/>
 			Tessa Thornton
 		</td>
@@ -5126,7 +5126,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>359</td>
 		<td>
 			<a target="_blank" href="https://github.com/rafaelstz">
-				<img src="https://private-avatars.githubusercontent.com/u/610598?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxMDAsIm5iZiI6MTczNDMwMzkwMCwicGF0aCI6Ii91LzYxMDU5OCJ9.N1L3nr1OzJz7zFp1BeIEOqENAngZDuYCCreu1xvxbRs&s=72&u=1f03d701c334626bc0cbdc0dcbb339ef4ca5caa2&v=4" width="24" alt="Avatar of rafaelstz"/> rafaelstz
+				<img src="https://private-avatars.githubusercontent.com/u/610598?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIwMDAsIm5iZiI6MTczNDM0MDgwMCwicGF0aCI6Ii91LzYxMDU5OCJ9.WUFR84etyLEFJvm2is4xJ8jI5ehjh5UhCP52tgn41S0&s=72&u=1f03d701c334626bc0cbdc0dcbb339ef4ca5caa2&v=4" width="24" alt="Avatar of rafaelstz"/> rafaelstz
 			</a><br/>
 			Rafael Corra Gomes
 		</td>
@@ -5140,7 +5140,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>360</td>
 		<td>
 			<a target="_blank" href="https://github.com/AdamWhitcroft">
-				<img src="https://private-avatars.githubusercontent.com/u/861526?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4MjAsIm5iZiI6MTczNDMwNDYyMCwicGF0aCI6Ii91Lzg2MTUyNiJ9.nhMldqG74fuOYDipCbrsSsODav86Tm8xPL-InDRZhkQ&s=72&u=49e640339887d4372028ccb174bb9f1a6836e0b5&v=4" width="24" alt="Avatar of AdamWhitcroft"/> AdamWhitcroft
+				<img src="https://private-avatars.githubusercontent.com/u/861526?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4MjAsIm5iZiI6MTczNDM0MDYyMCwicGF0aCI6Ii91Lzg2MTUyNiJ9.H1RB_9bxWZE_izlb42iCm_5-CC78DeschNvlURX6rv4&s=72&u=49e640339887d4372028ccb174bb9f1a6836e0b5&v=4" width="24" alt="Avatar of AdamWhitcroft"/> AdamWhitcroft
 			</a><br/>
 			Adam Whitcroft
 		</td>
@@ -5154,7 +5154,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>361</td>
 		<td>
 			<a target="_blank" href="https://github.com/farmerbriantee">
-				<img src="https://private-avatars.githubusercontent.com/u/20115439?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0MDAsIm5iZiI6MTczNDMwNDIwMCwicGF0aCI6Ii91LzIwMTE1NDM5In0.m9_527L42WEfw8OS7zAd6d821xUOSNaqXvpeG9IvmCk&s=72&u=c8767790cdeef04d13286473ed3265b5031c6771&v=4" width="24" alt="Avatar of farmerbriantee"/> farmerbriantee
+				<img src="https://private-avatars.githubusercontent.com/u/20115439?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0MDAsIm5iZiI6MTczNDM0MDIwMCwicGF0aCI6Ii91LzIwMTE1NDM5In0.hyNc7F_Yg628KGFILXTdqpurL2T6WdfR5sdN38ih1Ig&s=72&u=c8767790cdeef04d13286473ed3265b5031c6771&v=4" width="24" alt="Avatar of farmerbriantee"/> farmerbriantee
 			</a><br/>
 			Brian Tischler
 		</td>
@@ -5168,7 +5168,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>362</td>
 		<td>
 			<a target="_blank" href="https://github.com/HamedBahram">
-				<img src="https://private-avatars.githubusercontent.com/u/64147793?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ4NjAsIm5iZiI6MTczNDMwMzY2MCwicGF0aCI6Ii91LzY0MTQ3NzkzIn0.RFcPw8h1dZZhTy6G8FK93tIHFEJX3DrxfPm3kq6kekM&s=72&u=dec8cc9ae967a8353d143521189c2c9e5f39d589&v=4" width="24" alt="Avatar of HamedBahram"/> HamedBahram
+				<img src="https://private-avatars.githubusercontent.com/u/64147793?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3NjAsIm5iZiI6MTczNDM0MDU2MCwicGF0aCI6Ii91LzY0MTQ3NzkzIn0.vQURIepZV7pstWnOG-ctuCe01mErrbqNFaAzrVmxGaE&s=72&u=dec8cc9ae967a8353d143521189c2c9e5f39d589&v=4" width="24" alt="Avatar of HamedBahram"/> HamedBahram
 			</a><br/>
 			Hamed Bahram
 		</td>
@@ -5182,7 +5182,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>363</td>
 		<td>
 			<a target="_blank" href="https://github.com/patcon">
-				<img src="https://private-avatars.githubusercontent.com/u/305339?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyODAsIm5iZiI6MTczNDMwNDA4MCwicGF0aCI6Ii91LzMwNTMzOSJ9.8KdrAL-TCLsuON3EMaRnpmZ67gOV_f_sfOyfsDAkP6s&s=72&u=d2d7c817e2e9056d23d8a67246ba287dbd65ab35&v=4" width="24" alt="Avatar of patcon"/> patcon
+				<img src="https://private-avatars.githubusercontent.com/u/305339?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyODAsIm5iZiI6MTczNDM0MDA4MCwicGF0aCI6Ii91LzMwNTMzOSJ9.eDXt1mxkN1hwDkB8J2I4bQ2_uhBJEVBDNDFDWpXnFOs&s=72&u=d2d7c817e2e9056d23d8a67246ba287dbd65ab35&v=4" width="24" alt="Avatar of patcon"/> patcon
 			</a><br/>
 			Patrick Connolly
 		</td>
@@ -5195,8 +5195,22 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 	<tr>
 		<td>364</td>
 		<td>
+			<a target="_blank" href="https://github.com/kakaroto">
+				<img src="https://private-avatars.githubusercontent.com/u/27990?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3NjAsIm5iZiI6MTczNDM0MDU2MCwicGF0aCI6Ii91LzI3OTkwIn0.GWKHFyMHKj_5bo_3RnDPZtKegcMtaXTGFxy5qL4X810&s=72&v=4" width="24" alt="Avatar of kakaroto"/> kakaroto
+			</a><br/>
+			Youness Alaoui
+		</td>
+		<td>@forgevtt  </td>
+		<td><a target="_blank" href="https://twitter.com/KaKaRoToKS">KaKaRoToKS</a></td>
+		<td>Montreal</td>
+		<td>175</td>
+		<td>601</td>
+	</tr>
+	<tr>
+		<td>365</td>
+		<td>
 			<a target="_blank" href="https://github.com/bojand">
-				<img src="https://private-avatars.githubusercontent.com/u/2081100?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1ODAsIm5iZiI6MTczNDMwNDM4MCwicGF0aCI6Ii91LzIwODExMDAifQ.CyaJPnj7A7g2JhP8yYQYVRz4-KoX66p3X_utDAG7P84&s=72&u=02a2e4471804ccb9d7baf750c46878d9fe0b8b52&v=4" width="24" alt="Avatar of bojand"/> bojand
+				<img src="https://private-avatars.githubusercontent.com/u/2081100?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1ODAsIm5iZiI6MTczNDM0MDM4MCwicGF0aCI6Ii91LzIwODExMDAifQ.RO-OZW5F08xIavcLDe8C2MnjkSzXrpgNx_i-9XwRPnM&s=72&u=02a2e4471804ccb9d7baf750c46878d9fe0b8b52&v=4" width="24" alt="Avatar of bojand"/> bojand
 			</a><br/>
 			Bojan
 		</td>
@@ -5207,10 +5221,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>599</td>
 	</tr>
 	<tr>
-		<td>365</td>
+		<td>366</td>
 		<td>
 			<a target="_blank" href="https://github.com/bkonyi">
-				<img src="https://private-avatars.githubusercontent.com/u/24210656?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4ODAsIm5iZiI6MTczNDMwNDY4MCwicGF0aCI6Ii91LzI0MjEwNjU2In0.YzVArPL6niDMC04AlLuU8nkfIuPYH63uDw5Wi3H5dYs&s=72&u=dac857d25654db5e1cc2b15776cfcbde9a4c4fa0&v=4" width="24" alt="Avatar of bkonyi"/> bkonyi
+				<img src="https://private-avatars.githubusercontent.com/u/24210656?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4ODAsIm5iZiI6MTczNDM0MDY4MCwicGF0aCI6Ii91LzI0MjEwNjU2In0.WHmoZUXGS8pu14E3wYVaoFqUULvJmfJ_A-X29tbtS8Q&s=72&u=dac857d25654db5e1cc2b15776cfcbde9a4c4fa0&v=4" width="24" alt="Avatar of bkonyi"/> bkonyi
 			</a><br/>
 			Ben Konyi
 		</td>
@@ -5221,10 +5235,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>598</td>
 	</tr>
 	<tr>
-		<td>366</td>
+		<td>367</td>
 		<td>
 			<a target="_blank" href="https://github.com/erikerik116">
-				<img src="https://private-avatars.githubusercontent.com/u/15134163?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91LzE1MTM0MTYzIn0.Mwug6NuH2eRHkUJkaKxZ3eYkvVL-Q_U93rmic-q5u50&s=72&u=7df8f54804ccfdcc26b4fa99bdf9d2417a9427eb&v=4" width="24" alt="Avatar of erikerik116"/> erikerik116
+				<img src="https://private-avatars.githubusercontent.com/u/15134163?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIyNDAsIm5iZiI6MTczNDM0MTA0MCwicGF0aCI6Ii91LzE1MTM0MTYzIn0.wQuYtO6bGFMOjS4-8jR1YNKG96xGl2AcdEOi29duGnY&s=72&u=7df8f54804ccfdcc26b4fa99bdf9d2417a9427eb&v=4" width="24" alt="Avatar of erikerik116"/> erikerik116
 			</a><br/>
 			ErikSol
 		</td>
@@ -5235,24 +5249,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>596</td>
 	</tr>
 	<tr>
-		<td>367</td>
-		<td>
-			<a target="_blank" href="https://github.com/kakaroto">
-				<img src="https://private-avatars.githubusercontent.com/u/27990?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3NjAsIm5iZiI6MTczNDMwNDU2MCwicGF0aCI6Ii91LzI3OTkwIn0.HyLyTvsq3N5bc8AbzHoNsL4UP_abd2EZDVQ6NT_sHkk&s=72&v=4" width="24" alt="Avatar of kakaroto"/> kakaroto
-			</a><br/>
-			Youness Alaoui
-		</td>
-		<td>@forgevtt  </td>
-		<td><a target="_blank" href="https://twitter.com/KaKaRoToKS">KaKaRoToKS</a></td>
-		<td>Montreal</td>
-		<td>168</td>
-		<td>594</td>
-	</tr>
-	<tr>
 		<td>368</td>
 		<td>
 			<a target="_blank" href="https://github.com/cesine">
-				<img src="https://private-avatars.githubusercontent.com/u/196199?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3NjAsIm5iZiI6MTczNDMwNDU2MCwicGF0aCI6Ii91LzE5NjE5OSJ9.qASHvVN4eR4e9eca3i7dOPnjsbhjDTlq0aWFqNqRooE&s=72&u=296d1c0a711df68dc317320a355ac11387203b64&v=4" width="24" alt="Avatar of cesine"/> cesine
+				<img src="https://private-avatars.githubusercontent.com/u/196199?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3NjAsIm5iZiI6MTczNDM0MDU2MCwicGF0aCI6Ii91LzE5NjE5OSJ9.iIyQuq2nOizDeB9ab7QaVx2Tev7JGHE1HKCzAkH1Wsg&s=72&u=296d1c0a711df68dc317320a355ac11387203b64&v=4" width="24" alt="Avatar of cesine"/> cesine
 			</a><br/>
 			cesine
 		</td>
@@ -5266,7 +5266,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>369</td>
 		<td>
 			<a target="_blank" href="https://github.com/francislavoie">
-				<img src="https://private-avatars.githubusercontent.com/u/2111701?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0NjAsIm5iZiI6MTczNDMwNDI2MCwicGF0aCI6Ii91LzIxMTE3MDEifQ.chfKd2EQPL24mwdmDyXvBJzNfDjFip3wl455VWcv38A&s=72&u=c81a19fee32a28ddd82b404636e10049fa317dfe&v=4" width="24" alt="Avatar of francislavoie"/> francislavoie
+				<img src="https://private-avatars.githubusercontent.com/u/2111701?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIzNjAsIm5iZiI6MTczNDM0MTE2MCwicGF0aCI6Ii91LzIxMTE3MDEifQ._N1EIcDkTL73lJe_nFqQny1-ZRQpwvJSDTv6jDOyHR0&s=72&u=c81a19fee32a28ddd82b404636e10049fa317dfe&v=4" width="24" alt="Avatar of francislavoie"/> francislavoie
 			</a><br/>
 			Francis Lavoie
 		</td>
@@ -5280,7 +5280,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>370</td>
 		<td>
 			<a target="_blank" href="https://github.com/lmcinnes">
-				<img src="https://private-avatars.githubusercontent.com/u/11962885?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ5ODAsIm5iZiI6MTczNDMwMzc4MCwicGF0aCI6Ii91LzExOTYyODg1In0.toW3ILBaZaiCeL6EK4aYPVCgClWc-AXL7HV3bK9BYE8&s=72&u=83fe23f43f9f2c4984feac7beb506b8fcc5beab2&v=4" width="24" alt="Avatar of lmcinnes"/> lmcinnes
+				<img src="https://private-avatars.githubusercontent.com/u/11962885?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDA5ODAsIm5iZiI6MTczNDMzOTc4MCwicGF0aCI6Ii91LzExOTYyODg1In0.RvhpMXja2THPgARy35bRnwjD1DKh1kKfIGbJ0fQnMgY&s=72&u=83fe23f43f9f2c4984feac7beb506b8fcc5beab2&v=4" width="24" alt="Avatar of lmcinnes"/> lmcinnes
 			</a><br/>
 			Leland McInnes
 		</td>
@@ -5294,7 +5294,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>371</td>
 		<td>
 			<a target="_blank" href="https://github.com/Redth">
-				<img src="https://private-avatars.githubusercontent.com/u/271950?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91LzI3MTk1MCJ9.p9pxSz2upYcxsNA_D5-XAdXSsIpgYqUERuzg1db6O-U&s=72&u=1056e06f0ac039feabb458ed233ee62dcb3d67c7&v=4" width="24" alt="Avatar of Redth"/> Redth
+				<img src="https://private-avatars.githubusercontent.com/u/271950?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEzNDAsIm5iZiI6MTczNDM0MDE0MCwicGF0aCI6Ii91LzI3MTk1MCJ9.lO2geLNi0E3C-YsfE6BaCD2E7n-jJamfG6lDysTNPLk&s=72&u=1056e06f0ac039feabb458ed233ee62dcb3d67c7&v=4" width="24" alt="Avatar of Redth"/> Redth
 			</a><br/>
 			Jonathan Dick
 		</td>
@@ -5308,7 +5308,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>372</td>
 		<td>
 			<a target="_blank" href="https://github.com/kadenzipfel">
-				<img src="https://private-avatars.githubusercontent.com/u/30579067?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ4NjAsIm5iZiI6MTczNDMwMzY2MCwicGF0aCI6Ii91LzMwNTc5MDY3In0.1IFS9qE6IsK1U5VFDeduweh4pbkPDU5w-Vp3Is-3-Q4&s=72&u=98cd76cf943754c292dd752a99b466dc9b67a68a&v=4" width="24" alt="Avatar of kadenzipfel"/> kadenzipfel
+				<img src="https://private-avatars.githubusercontent.com/u/30579067?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3NjAsIm5iZiI6MTczNDM0MDU2MCwicGF0aCI6Ii91LzMwNTc5MDY3In0.vyfGrs7RrRrytg8jEMYbPJigFR_LaqRT6JyYhNYsUx8&s=72&u=98cd76cf943754c292dd752a99b466dc9b67a68a&v=4" width="24" alt="Avatar of kadenzipfel"/> kadenzipfel
 			</a><br/>
 			kaden
 		</td>
@@ -5322,7 +5322,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>373</td>
 		<td>
 			<a target="_blank" href="https://github.com/automateyournetwork">
-				<img src="https://private-avatars.githubusercontent.com/u/44117002?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ5ODAsIm5iZiI6MTczNDMwMzc4MCwicGF0aCI6Ii91LzQ0MTE3MDAyIn0.801GZJ0MSKUPpIIxsRekhIUgOHmPEjrJSxG7cCKi9B4&s=72&u=47cc12572e97e5a83026c4682591555eb854f540&v=4" width="24" alt="Avatar of automateyournetwork"/> automateyournetwork
+				<img src="https://private-avatars.githubusercontent.com/u/44117002?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDA5ODAsIm5iZiI6MTczNDMzOTc4MCwicGF0aCI6Ii91LzQ0MTE3MDAyIn0.qePFSzjkzDqNnr0C3M77K5WVs8mhu9sD2UrRoVQ9AVI&s=72&u=47cc12572e97e5a83026c4682591555eb854f540&v=4" width="24" alt="Avatar of automateyournetwork"/> automateyournetwork
 			</a><br/>
 			John Capobianco
 		</td>
@@ -5336,7 +5336,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>374</td>
 		<td>
 			<a target="_blank" href="https://github.com/chezou">
-				<img src="https://private-avatars.githubusercontent.com/u/916653?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDYxMjAsIm5iZiI6MTczNDMwNDkyMCwicGF0aCI6Ii91LzkxNjY1MyJ9.xzLrKW5_CJBy8jmRL2hAXdtPL-D_OJmFTy2EdzrhjuQ&s=72&v=4" width="24" alt="Avatar of chezou"/> chezou
+				<img src="https://private-avatars.githubusercontent.com/u/916653?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIxMjAsIm5iZiI6MTczNDM0MDkyMCwicGF0aCI6Ii91LzkxNjY1MyJ9.XcXdxJygY-ZJ8iqrMuu4yuewydxifc0Lmy1LJQse-a0&s=72&v=4" width="24" alt="Avatar of chezou"/> chezou
 			</a><br/>
 			Aki Ariga
 		</td>
@@ -5350,7 +5350,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>375</td>
 		<td>
 			<a target="_blank" href="https://github.com/christocracy">
-				<img src="https://private-avatars.githubusercontent.com/u/14999?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUwNDAsIm5iZiI6MTczNDMwMzg0MCwicGF0aCI6Ii91LzE0OTk5In0.z6SKlBolMDpaTQ3OdYJrx7umMwCyV1dc87Us6s_uCA8&s=72&u=a1d486f68cf1871211d11a2f2e253b628a5b5e32&v=4" width="24" alt="Avatar of christocracy"/> christocracy
+				<img src="https://private-avatars.githubusercontent.com/u/14999?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEwNDAsIm5iZiI6MTczNDMzOTg0MCwicGF0aCI6Ii91LzE0OTk5In0.yNQbqpy6dorXm65vH__bP3b2hsYWLC-I0hJk4ZIty3M&s=72&u=a1d486f68cf1871211d11a2f2e253b628a5b5e32&v=4" width="24" alt="Avatar of christocracy"/> christocracy
 			</a><br/>
 			Chris Scott
 		</td>
@@ -5364,7 +5364,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>376</td>
 		<td>
 			<a target="_blank" href="https://github.com/taras">
-				<img src="https://private-avatars.githubusercontent.com/u/74687?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDYxMjAsIm5iZiI6MTczNDMwNDkyMCwicGF0aCI6Ii91Lzc0Njg3In0.iiLvqoO5l3D2Vf4-1k_jWwSyIb6OdqH4-PLFtOEsjWU&s=72&u=cb126b5b112036b77fcc0927f72248cedd7b98e5&v=4" width="24" alt="Avatar of taras"/> taras
+				<img src="https://private-avatars.githubusercontent.com/u/74687?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIxMjAsIm5iZiI6MTczNDM0MDkyMCwicGF0aCI6Ii91Lzc0Njg3In0.YPozH6ZfIUlA60ValuShbdwHacsCWY5LLGHwq4Yhdrk&s=72&u=cb126b5b112036b77fcc0927f72248cedd7b98e5&v=4" width="24" alt="Avatar of taras"/> taras
 			</a><br/>
 			Taras Mankovski
 		</td>
@@ -5378,7 +5378,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>377</td>
 		<td>
 			<a target="_blank" href="https://github.com/pkieltyka">
-				<img src="https://private-avatars.githubusercontent.com/u/18831?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyODAsIm5iZiI6MTczNDMwNDA4MCwicGF0aCI6Ii91LzE4ODMxIn0.uE7CXY9zwUmjEojZZMpuO8WaOTh6ROHfBmmTMCKip2A&s=72&v=4" width="24" alt="Avatar of pkieltyka"/> pkieltyka
+				<img src="https://private-avatars.githubusercontent.com/u/18831?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyODAsIm5iZiI6MTczNDM0MDA4MCwicGF0aCI6Ii91LzE4ODMxIn0.b8E0Qt7zak9JVsc-Ieg_QJrXUqdKtYu3Fg7eCiQModg&s=72&v=4" width="24" alt="Avatar of pkieltyka"/> pkieltyka
 			</a><br/>
 			Peter Kieltyka
 		</td>
@@ -5392,7 +5392,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>378</td>
 		<td>
 			<a target="_blank" href="https://github.com/kisielk">
-				<img src="https://private-avatars.githubusercontent.com/u/58618?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1ODAsIm5iZiI6MTczNDMwNDM4MCwicGF0aCI6Ii91LzU4NjE4In0.o0XnFHwt6dbUzJut36c8-7sAC31WAIOVXBYWUKk2KFY&s=72&u=60372e543b8814809c46e1b2ca75d613a01dbd1e&v=4" width="24" alt="Avatar of kisielk"/> kisielk
+				<img src="https://private-avatars.githubusercontent.com/u/58618?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1ODAsIm5iZiI6MTczNDM0MDM4MCwicGF0aCI6Ii91LzU4NjE4In0.BTydftoJ_C0PFeyrj6eChYRBczTGcx3pLnHfhBMz8i4&s=72&u=60372e543b8814809c46e1b2ca75d613a01dbd1e&v=4" width="24" alt="Avatar of kisielk"/> kisielk
 			</a><br/>
 			Kamil Kisiel
 		</td>
@@ -5406,7 +5406,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>379</td>
 		<td>
 			<a target="_blank" href="https://github.com/t-mullen">
-				<img src="https://private-avatars.githubusercontent.com/u/14932492?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91LzE0OTMyNDkyIn0.x3z6b5fKBo1lyggKFTtJKh4OhwUr7-OM-2GUxMXvtR0&s=72&u=5dc5367747de55b5eeb4a6be4e69ae96e640363b&v=4" width="24" alt="Avatar of t-mullen"/> t-mullen
+				<img src="https://private-avatars.githubusercontent.com/u/14932492?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEzNDAsIm5iZiI6MTczNDM0MDE0MCwicGF0aCI6Ii91LzE0OTMyNDkyIn0.-coRDeYoMfOqlc1eN1zJZINXKE-OoSyFoxW0ezLg-bM&s=72&u=5dc5367747de55b5eeb4a6be4e69ae96e640363b&v=4" width="24" alt="Avatar of t-mullen"/> t-mullen
 			</a><br/>
 			Thomas Mullen
 		</td>
@@ -5420,7 +5420,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>380</td>
 		<td>
 			<a target="_blank" href="https://github.com/naomijub">
-				<img src="https://private-avatars.githubusercontent.com/u/14813660?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ5ODAsIm5iZiI6MTczNDMwMzc4MCwicGF0aCI6Ii91LzE0ODEzNjYwIn0.jkwAmHUBH7xShwqli_vzb4EeN_JVKkmXKrc_nJkE-S4&s=72&u=9754b75cd114454558716a05c1598776d4ae460f&v=4" width="24" alt="Avatar of naomijub"/> naomijub
+				<img src="https://private-avatars.githubusercontent.com/u/14813660?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4ODAsIm5iZiI6MTczNDM0MDY4MCwicGF0aCI6Ii91LzE0ODEzNjYwIn0.LojUiB4P9w5W8V8oVS9vb3Uro55IMvbM-S9jYWCK8o4&s=72&u=9754b75cd114454558716a05c1598776d4ae460f&v=4" width="24" alt="Avatar of naomijub"/> naomijub
 			</a><br/>
 			Julia Naomi
 		</td>
@@ -5434,7 +5434,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>381</td>
 		<td>
 			<a target="_blank" href="https://github.com/lextm">
-				<img src="https://private-avatars.githubusercontent.com/u/425130?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyODAsIm5iZiI6MTczNDMwNDA4MCwicGF0aCI6Ii91LzQyNTEzMCJ9._DUVN21ZalxSxw5IKvxvtczd5bG0Z9jgo0hqAkC-eh4&s=72&u=61b5fc4078da8a4ff1d85c988aec15791cf98b6c&v=4" width="24" alt="Avatar of lextm"/> lextm
+				<img src="https://private-avatars.githubusercontent.com/u/425130?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyODAsIm5iZiI6MTczNDM0MDA4MCwicGF0aCI6Ii91LzQyNTEzMCJ9.m2SZ5jc7VHQR-Rj0mnmC6hbfTicGb687rVQtOSDJ3lY&s=72&u=61b5fc4078da8a4ff1d85c988aec15791cf98b6c&v=4" width="24" alt="Avatar of lextm"/> lextm
 			</a><br/>
 			Lex Li
 		</td>
@@ -5448,7 +5448,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>382</td>
 		<td>
 			<a target="_blank" href="https://github.com/IssamLaradji">
-				<img src="https://private-avatars.githubusercontent.com/u/3382128?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDYwNjAsIm5iZiI6MTczNDMwNDg2MCwicGF0aCI6Ii91LzMzODIxMjgifQ.5SQcJGIwqzZPlpcB9d5czhgH7hptB0kTvx3f1W3iW6g&s=72&u=76f30c2ab49c9cabfdbe638ade83f0fb9e7f04c1&v=4" width="24" alt="Avatar of IssamLaradji"/> IssamLaradji
+				<img src="https://private-avatars.githubusercontent.com/u/3382128?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIwNjAsIm5iZiI6MTczNDM0MDg2MCwicGF0aCI6Ii91LzMzODIxMjgifQ.gB0Ze4SosE-WXt6X87eQoxFf2fxOGSGij7KQFjPT9VE&s=72&u=76f30c2ab49c9cabfdbe638ade83f0fb9e7f04c1&v=4" width="24" alt="Avatar of IssamLaradji"/> IssamLaradji
 			</a><br/>
 			Issam H Laradji
 		</td>
@@ -5462,7 +5462,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>383</td>
 		<td>
 			<a target="_blank" href="https://github.com/sayannath">
-				<img src="https://private-avatars.githubusercontent.com/u/41967348?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3NjAsIm5iZiI6MTczNDMwNDU2MCwicGF0aCI6Ii91LzQxOTY3MzQ4In0.4ml-406F1T_nUzC77V3_xQdINO85bRZK_OML3Gf5zqA&s=72&u=2cad4f6cbdd4e0ccf5bc0fa775e605c638352446&v=4" width="24" alt="Avatar of sayannath"/> sayannath
+				<img src="https://private-avatars.githubusercontent.com/u/41967348?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3NjAsIm5iZiI6MTczNDM0MDU2MCwicGF0aCI6Ii91LzQxOTY3MzQ4In0.ruvOH9sKNcg7YTsvshKj0kXTCg_ob2-TrBznpeW-uII&s=72&u=2cad4f6cbdd4e0ccf5bc0fa775e605c638352446&v=4" width="24" alt="Avatar of sayannath"/> sayannath
 			</a><br/>
 			Sayan Nath
 		</td>
@@ -5476,7 +5476,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>384</td>
 		<td>
 			<a target="_blank" href="https://github.com/andrewsykim">
-				<img src="https://private-avatars.githubusercontent.com/u/12699319?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0NjAsIm5iZiI6MTczNDMwNDI2MCwicGF0aCI6Ii91LzEyNjk5MzE5In0.f1rHCg_JE-nd7lWuDNWsVN28kFVXztWrUKnSpbheatM&s=72&u=619d07c2be00a8089200efd7de19a18ecd0230b6&v=4" width="24" alt="Avatar of andrewsykim"/> andrewsykim
+				<img src="https://private-avatars.githubusercontent.com/u/12699319?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0NjAsIm5iZiI6MTczNDM0MDI2MCwicGF0aCI6Ii91LzEyNjk5MzE5In0.OKXx9nUsCnv4_qFtQuqVcVzmFcvc6kwRxy-YLohpWVk&s=72&u=619d07c2be00a8089200efd7de19a18ecd0230b6&v=4" width="24" alt="Avatar of andrewsykim"/> andrewsykim
 			</a><br/>
 			Andrew Sy Kim
 		</td>
@@ -5490,7 +5490,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>385</td>
 		<td>
 			<a target="_blank" href="https://github.com/CalebBell">
-				<img src="https://private-avatars.githubusercontent.com/u/16520296?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1MjAsIm5iZiI6MTczNDMwNDMyMCwicGF0aCI6Ii91LzE2NTIwMjk2In0.ukjmNo7IlM65nLPp1HBg4JugHycOLx3D7kbzx-XtzP4&s=72&u=073b09b425f3d8ed17ebbfdd895043db9e40562e&v=4" width="24" alt="Avatar of CalebBell"/> CalebBell
+				<img src="https://private-avatars.githubusercontent.com/u/16520296?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1MjAsIm5iZiI6MTczNDM0MDMyMCwicGF0aCI6Ii91LzE2NTIwMjk2In0.5YGK_RLitqfNPippx1CbKqU1tH9M7mQBjcOsRyEObdg&s=72&u=073b09b425f3d8ed17ebbfdd895043db9e40562e&v=4" width="24" alt="Avatar of CalebBell"/> CalebBell
 			</a><br/>
 			Caleb Bell
 		</td>
@@ -5504,7 +5504,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>386</td>
 		<td>
 			<a target="_blank" href="https://github.com/danielberkompas">
-				<img src="https://private-avatars.githubusercontent.com/u/1186992?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxNjAsIm5iZiI6MTczNDMwMzk2MCwicGF0aCI6Ii91LzExODY5OTIifQ.cCql3jP2Oy9IzNNwrO8IwYQkA_ed2X2uSgDcIbBbP9U&s=72&u=8ebebd8781c0ecf3b5074c1c5027cacc2f0c4568&v=4" width="24" alt="Avatar of danielberkompas"/> danielberkompas
+				<img src="https://private-avatars.githubusercontent.com/u/1186992?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDExNjAsIm5iZiI6MTczNDMzOTk2MCwicGF0aCI6Ii91LzExODY5OTIifQ.m1S7ppMhBlqAe4fatTIGmRtQxHLCgWsteK1-arVOwak&s=72&u=8ebebd8781c0ecf3b5074c1c5027cacc2f0c4568&v=4" width="24" alt="Avatar of danielberkompas"/> danielberkompas
 			</a><br/>
 			Daniel Berkompas
 		</td>
@@ -5517,8 +5517,22 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 	<tr>
 		<td>387</td>
 		<td>
+			<a target="_blank" href="https://github.com/dmitshur">
+				<img src="https://private-avatars.githubusercontent.com/u/1924134?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDExMDAsIm5iZiI6MTczNDMzOTkwMCwicGF0aCI6Ii91LzE5MjQxMzQifQ._IAiLA7nmiD4ZbQokhr_rXJLs5KSLiOlo9C7mDYuor8&s=72&u=db52e479359b3b7237ca14e22f87ff067e231769&v=4" width="24" alt="Avatar of dmitshur"/> dmitshur
+			</a><br/>
+			Dmitri Shuralyov
+		</td>
+		<td>Google Go Team </td>
+		<td><a target="_blank" href="https://twitter.com/dmitshur">dmitshur</a></td>
+		<td>Toronto</td>
+		<td>369</td>
+		<td>557</td>
+	</tr>
+	<tr>
+		<td>388</td>
+		<td>
 			<a target="_blank" href="https://github.com/reduce">
-				<img src="https://private-avatars.githubusercontent.com/u/19864708?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1ODAsIm5iZiI6MTczNDMwNDM4MCwicGF0aCI6Ii91LzE5ODY0NzA4In0.CoHzDzqtgXk4fOFCrgVJSJNeG6bR-Tn9ffvuhvAThXw&s=72&u=ab836418adeb482dff3c67ea5574d37601267b1e&v=4" width="24" alt="Avatar of reduce"/> reduce
+				<img src="https://private-avatars.githubusercontent.com/u/19864708?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1ODAsIm5iZiI6MTczNDM0MDM4MCwicGF0aCI6Ii91LzE5ODY0NzA4In0.CtbxTrCL9NpzDMIbETQIqe2E4_s8Mtd35FFloAolmfI&s=72&u=ab836418adeb482dff3c67ea5574d37601267b1e&v=4" width="24" alt="Avatar of reduce"/> reduce
 			</a><br/>
 			root
 		</td>
@@ -5529,10 +5543,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>557</td>
 	</tr>
 	<tr>
-		<td>388</td>
+		<td>389</td>
 		<td>
 			<a target="_blank" href="https://github.com/drehimself">
-				<img src="https://private-avatars.githubusercontent.com/u/4316355?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91LzQzMTYzNTUifQ.D-0NYMkuV7YZvbHAzLl8tFiP7JcdjhzsuU9TGv4wu84&s=72&u=c892f2c51777a0f87e5523d9626aaa99a8d52700&v=4" width="24" alt="Avatar of drehimself"/> drehimself
+				<img src="https://private-avatars.githubusercontent.com/u/4316355?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEzNDAsIm5iZiI6MTczNDM0MDE0MCwicGF0aCI6Ii91LzQzMTYzNTUifQ.eo_yTdNTMEBs3sDiB4J1OX-sMG__9F9DHd600Y8oSzA&s=72&u=c892f2c51777a0f87e5523d9626aaa99a8d52700&v=4" width="24" alt="Avatar of drehimself"/> drehimself
 			</a><br/>
 			Andre Madarang
 		</td>
@@ -5543,24 +5557,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>556</td>
 	</tr>
 	<tr>
-		<td>389</td>
-		<td>
-			<a target="_blank" href="https://github.com/dmitshur">
-				<img src="https://private-avatars.githubusercontent.com/u/1924134?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxMDAsIm5iZiI6MTczNDMwMzkwMCwicGF0aCI6Ii91LzE5MjQxMzQifQ.fO_e2lA1C_oHnvkxWb3SQOpC7aZ8iQF3s87H2VCHEv4&s=72&u=db52e479359b3b7237ca14e22f87ff067e231769&v=4" width="24" alt="Avatar of dmitshur"/> dmitshur
-			</a><br/>
-			Dmitri Shuralyov
-		</td>
-		<td>Google Go Team </td>
-		<td><a target="_blank" href="https://twitter.com/dmitshur">dmitshur</a></td>
-		<td>Toronto</td>
-		<td>368</td>
-		<td>556</td>
-	</tr>
-	<tr>
 		<td>390</td>
 		<td>
 			<a target="_blank" href="https://github.com/tristen">
-				<img src="https://private-avatars.githubusercontent.com/u/61150?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4MjAsIm5iZiI6MTczNDMwNDYyMCwicGF0aCI6Ii91LzYxMTUwIn0.oDoVTUKgupd-JLkHaC2zOqKYXzan-pm_8kXqKEEuboQ&s=72&u=40b52d083ac2c6f414ef35c79271c776787e7bd0&v=4" width="24" alt="Avatar of tristen"/> tristen
+				<img src="https://private-avatars.githubusercontent.com/u/61150?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4MjAsIm5iZiI6MTczNDM0MDYyMCwicGF0aCI6Ii91LzYxMTUwIn0.PQkkTkZsvxffZIrl6iQ71J1kNDE26Z2Ab5AzNdrROjo&s=72&u=40b52d083ac2c6f414ef35c79271c776787e7bd0&v=4" width="24" alt="Avatar of tristen"/> tristen
 			</a><br/>
 			Tristen Brown
 		</td>
@@ -5574,7 +5574,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>391</td>
 		<td>
 			<a target="_blank" href="https://github.com/iamraphson">
-				<img src="https://private-avatars.githubusercontent.com/u/3502724?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4ODAsIm5iZiI6MTczNDMwNDY4MCwicGF0aCI6Ii91LzM1MDI3MjQifQ.mfwd9zAbGfG1KUuyZDS_jtYbxGw6KMvBu5EdFeZNWIs&s=72&u=eec00d7ffe2ee20784e8e87acd0cdc5e7d251266&v=4" width="24" alt="Avatar of iamraphson"/> iamraphson
+				<img src="https://private-avatars.githubusercontent.com/u/3502724?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4ODAsIm5iZiI6MTczNDM0MDY4MCwicGF0aCI6Ii91LzM1MDI3MjQifQ.Lc2ygVCeOJXjeMtMz49heZhs4pGMcAoq6hHmqNdO8zs&s=72&u=eec00d7ffe2ee20784e8e87acd0cdc5e7d251266&v=4" width="24" alt="Avatar of iamraphson"/> iamraphson
 			</a><br/>
 			Olusegun Ayeni
 		</td>
@@ -5587,8 +5587,22 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 	<tr>
 		<td>392</td>
 		<td>
+			<a target="_blank" href="https://github.com/therajanmaurya">
+				<img src="https://private-avatars.githubusercontent.com/u/5724482?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIxODAsIm5iZiI6MTczNDM0MDk4MCwicGF0aCI6Ii91LzU3MjQ0ODIifQ.wMPKR6KsyYe5vTZUndidstxYYuNd8plIlYD_VzQVSbM&s=72&u=0f832ab5a91ce23b945cbb1866e9c1658a116acb&v=4" width="24" alt="Avatar of therajanmaurya"/> therajanmaurya
+			</a><br/>
+			Rajan Maurya
+		</td>
+		<td>Openlane Canada Inc </td>
+		<td><a target="_blank" href="https://twitter.com/therajanmaurya">therajanmaurya</a></td>
+		<td>Toronto</td>
+		<td>395</td>
+		<td>548</td>
+	</tr>
+	<tr>
+		<td>393</td>
+		<td>
 			<a target="_blank" href="https://github.com/alamkanak">
-				<img src="https://private-avatars.githubusercontent.com/u/3194741?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1ODAsIm5iZiI6MTczNDMwNDM4MCwicGF0aCI6Ii91LzMxOTQ3NDEifQ.xocJICvxDHLtE3KUY0Zcu55WzrGR1L_RVTJQmTee_qQ&s=72&u=8b06d5938a59a381c8060efa4544a45be49fe5c3&v=4" width="24" alt="Avatar of alamkanak"/> alamkanak
+				<img src="https://private-avatars.githubusercontent.com/u/3194741?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1ODAsIm5iZiI6MTczNDM0MDM4MCwicGF0aCI6Ii91LzMxOTQ3NDEifQ.mHUOGxgysJSFIm1_8AmEp6EI3rSTpUpBynUUYvYfQ3I&s=72&u=8b06d5938a59a381c8060efa4544a45be49fe5c3&v=4" width="24" alt="Avatar of alamkanak"/> alamkanak
 			</a><br/>
 			Raquibul Alam Kanak
 		</td>
@@ -5599,10 +5613,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>544</td>
 	</tr>
 	<tr>
-		<td>393</td>
+		<td>394</td>
 		<td>
 			<a target="_blank" href="https://github.com/nbrochu">
-				<img src="https://private-avatars.githubusercontent.com/u/35039?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0MDAsIm5iZiI6MTczNDMwNDIwMCwicGF0aCI6Ii91LzM1MDM5In0.Fz_GuUrS1zsbn5GDb3K5qwmG9LCkz-cEgjRYOrYxgmI&s=72&u=f61200fc097d6c6dee089d12a22cb5b42b213b2a&v=4" width="24" alt="Avatar of nbrochu"/> nbrochu
+				<img src="https://private-avatars.githubusercontent.com/u/35039?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0MDAsIm5iZiI6MTczNDM0MDIwMCwicGF0aCI6Ii91LzM1MDM5In0.9W5TbMBVafTvwd_hYlucgUg_cM4iaI2us7VjwSPXyKo&s=72&u=f61200fc097d6c6dee089d12a22cb5b42b213b2a&v=4" width="24" alt="Avatar of nbrochu"/> nbrochu
 			</a><br/>
 			Nicholas Brochu
 		</td>
@@ -5613,10 +5627,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>544</td>
 	</tr>
 	<tr>
-		<td>394</td>
+		<td>395</td>
 		<td>
 			<a target="_blank" href="https://github.com/josh146">
-				<img src="https://private-avatars.githubusercontent.com/u/2959003?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4ODAsIm5iZiI6MTczNDMwNDY4MCwicGF0aCI6Ii91LzI5NTkwMDMifQ.4wJ7P4azqVMQ8BnWabpsGNj50mjYxQa9wee7nkBh328&s=72&u=e75d0856c165f7da0ef1d1a1dc998bb03a596ebc&v=4" width="24" alt="Avatar of josh146"/> josh146
+				<img src="https://private-avatars.githubusercontent.com/u/2959003?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4ODAsIm5iZiI6MTczNDM0MDY4MCwicGF0aCI6Ii91LzI5NTkwMDMifQ.dg38KxCrT-5FjZiVYK-snri_t2Wt1LEk3eBUKU4sIKs&s=72&u=e75d0856c165f7da0ef1d1a1dc998bb03a596ebc&v=4" width="24" alt="Avatar of josh146"/> josh146
 			</a><br/>
 			Josh Izaac
 		</td>
@@ -5627,24 +5641,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>544</td>
 	</tr>
 	<tr>
-		<td>395</td>
-		<td>
-			<a target="_blank" href="https://github.com/therajanmaurya">
-				<img src="https://private-avatars.githubusercontent.com/u/5724482?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyODAsIm5iZiI6MTczNDMwNDA4MCwicGF0aCI6Ii91LzU3MjQ0ODIifQ.RsyoOQCu9UmWXiLgd15HTsoTNEHaSDJOkkjCFC_SBnM&s=72&u=0f832ab5a91ce23b945cbb1866e9c1658a116acb&v=4" width="24" alt="Avatar of therajanmaurya"/> therajanmaurya
-			</a><br/>
-			Rajan Maurya
-		</td>
-		<td>Openlane Canada Inc </td>
-		<td><a target="_blank" href="https://twitter.com/therajanmaurya">therajanmaurya</a></td>
-		<td>Toronto</td>
-		<td>395</td>
-		<td>544</td>
-	</tr>
-	<tr>
 		<td>396</td>
 		<td>
 			<a target="_blank" href="https://github.com/AtotheY">
-				<img src="https://private-avatars.githubusercontent.com/u/10644934?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU2NDAsIm5iZiI6MTczNDMwNDQ0MCwicGF0aCI6Ii91LzEwNjQ0OTM0In0.aY7giG_LxaR5lnsKpFVM5netVfWJT9FCtC_YK-njTus&s=72&u=ffee5391112fe3cdd2932d45f7d4956cfc6027c8&v=4" width="24" alt="Avatar of AtotheY"/> AtotheY
+				<img src="https://private-avatars.githubusercontent.com/u/10644934?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE2NDAsIm5iZiI6MTczNDM0MDQ0MCwicGF0aCI6Ii91LzEwNjQ0OTM0In0.oZbZcMwZp-hu4eOQSYYW0XSs9nrAoemFlYFrbWrYieA&s=72&u=ffee5391112fe3cdd2932d45f7d4956cfc6027c8&v=4" width="24" alt="Avatar of AtotheY"/> AtotheY
 			</a><br/>
 			Anthony Sistilli
 		</td>
@@ -5658,7 +5658,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>397</td>
 		<td>
 			<a target="_blank" href="https://github.com/scottdurow">
-				<img src="https://private-avatars.githubusercontent.com/u/2871121?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ5ODAsIm5iZiI6MTczNDMwMzc4MCwicGF0aCI6Ii91LzI4NzExMjEifQ.fzq4dyI4P2nFzPCt5Kce1pKFuUvG6l7zCE5Ud6FR5kw&s=72&u=fa592525292fed08c876fdff067a8d4f147266fc&v=4" width="24" alt="Avatar of scottdurow"/> scottdurow
+				<img src="https://private-avatars.githubusercontent.com/u/2871121?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4ODAsIm5iZiI6MTczNDM0MDY4MCwicGF0aCI6Ii91LzI4NzExMjEifQ.LN37Slx7fX31tmcISJVW_xggwPZVnMpbx--v84BW0Vg&s=72&u=fa592525292fed08c876fdff067a8d4f147266fc&v=4" width="24" alt="Avatar of scottdurow"/> scottdurow
 			</a><br/>
 			Scott Durow
 		</td>
@@ -5666,13 +5666,13 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td><a target="_blank" href="https://twitter.com/scottdurow">scottdurow</a></td>
 		<td>Vancouver Canada</td>
 		<td>76</td>
-		<td>536</td>
+		<td>538</td>
 	</tr>
 	<tr>
 		<td>398</td>
 		<td>
 			<a target="_blank" href="https://github.com/kelvinlauKL">
-				<img src="https://private-avatars.githubusercontent.com/u/11384608?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDYwNjAsIm5iZiI6MTczNDMwNDg2MCwicGF0aCI6Ii91LzExMzg0NjA4In0.7WnwbBRS7hzedSXtoF91CifTkuq0JDeqblxAasq7u3k&s=72&u=daca721a77eeee0583556ef2fb739ea949fce790&v=4" width="24" alt="Avatar of kelvinlauKL"/> kelvinlauKL
+				<img src="https://private-avatars.githubusercontent.com/u/11384608?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIwNjAsIm5iZiI6MTczNDM0MDg2MCwicGF0aCI6Ii91LzExMzg0NjA4In0.mjXeX_qJoFQVbkrUnrA3apIIT-7M4_yueW0jrdr-yZQ&s=72&u=daca721a77eeee0583556ef2fb739ea949fce790&v=4" width="24" alt="Avatar of kelvinlauKL"/> kelvinlauKL
 			</a><br/>
 			Kelvin Lau
 		</td>
@@ -5686,7 +5686,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>399</td>
 		<td>
 			<a target="_blank" href="https://github.com/Xmader">
-				<img src="https://private-avatars.githubusercontent.com/u/16057139?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ5ODAsIm5iZiI6MTczNDMwMzc4MCwicGF0aCI6Ii91LzE2MDU3MTM5In0.pMtJISTKAqjeCPqKBNHe6sQMACONBJHZD75L8q45GYg&s=72&u=6114e1a10b50d702f7042356b8815362bf3bace0&v=4" width="24" alt="Avatar of Xmader"/> Xmader
+				<img src="https://private-avatars.githubusercontent.com/u/16057139?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4ODAsIm5iZiI6MTczNDM0MDY4MCwicGF0aCI6Ii91LzE2MDU3MTM5In0.RRfEh0WR4BUQIlkN0mTI7nsZz4DIse3zNhkiFPUXs-s&s=72&u=6114e1a10b50d702f7042356b8815362bf3bace0&v=4" width="24" alt="Avatar of Xmader"/> Xmader
 			</a><br/>
 			Tom Wenzheng Tang
 		</td>
@@ -5700,7 +5700,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>400</td>
 		<td>
 			<a target="_blank" href="https://github.com/danielgerlag">
-				<img src="https://private-avatars.githubusercontent.com/u/2357007?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1ODAsIm5iZiI6MTczNDMwNDM4MCwicGF0aCI6Ii91LzIzNTcwMDcifQ.wZneV1qvI9cnc87Ua49wBSJKVAbBQAJOEcQwjdcf0lA&s=72&u=1aa51c8848cd199e8e90b393b97c67fd9d7ab967&v=4" width="24" alt="Avatar of danielgerlag"/> danielgerlag
+				<img src="https://private-avatars.githubusercontent.com/u/2357007?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1ODAsIm5iZiI6MTczNDM0MDM4MCwicGF0aCI6Ii91LzIzNTcwMDcifQ.Gk__DL2rR99r735e7L548VXlll86zBtLv0pMCyj5fmA&s=72&u=1aa51c8848cd199e8e90b393b97c67fd9d7ab967&v=4" width="24" alt="Avatar of danielgerlag"/> danielgerlag
 			</a><br/>
 			Daniel Gerlag
 		</td>
@@ -5714,7 +5714,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>401</td>
 		<td>
 			<a target="_blank" href="https://github.com/pykello">
-				<img src="https://private-avatars.githubusercontent.com/u/628106?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyODAsIm5iZiI6MTczNDMwNDA4MCwicGF0aCI6Ii91LzYyODEwNiJ9.84-Cyn3Vxy63w2aIEDKNNPporjY1oZQXc_fc15dsiPs&s=72&u=4324318c1a9eb19c8c53454d4d1041bae9cb8d3e&v=4" width="24" alt="Avatar of pykello"/> pykello
+				<img src="https://private-avatars.githubusercontent.com/u/628106?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyODAsIm5iZiI6MTczNDM0MDA4MCwicGF0aCI6Ii91LzYyODEwNiJ9.TmBxH81mKxPdq_IUDb_vL8o1ZbjeKvtS7wrSmdHZg2o&s=72&u=4324318c1a9eb19c8c53454d4d1041bae9cb8d3e&v=4" width="24" alt="Avatar of pykello"/> pykello
 			</a><br/>
 			Hadi Moshayedi
 		</td>
@@ -5727,8 +5727,22 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 	<tr>
 		<td>402</td>
 		<td>
+			<a target="_blank" href="https://github.com/OdatNurd">
+				<img src="https://private-avatars.githubusercontent.com/u/13212876?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4ODAsIm5iZiI6MTczNDM0MDY4MCwicGF0aCI6Ii91LzEzMjEyODc2In0.VGWZyh5vJTDNOZFMntXdIiRaQwi6MOtSE635y8KEHoo&s=72&u=47d46e95295af5851c10ec79aba9c7aa39bd9574&v=4" width="24" alt="Avatar of OdatNurd"/> OdatNurd
+			</a><br/>
+			Terence Martin
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/OdatNurd">OdatNurd</a></td>
+		<td>British Columbia Canada</td>
+		<td>530</td>
+		<td>530</td>
+	</tr>
+	<tr>
+		<td>403</td>
+		<td>
 			<a target="_blank" href="https://github.com/MatthewMacri">
-				<img src="https://private-avatars.githubusercontent.com/u/123660194?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91LzEyMzY2MDE5NCJ9.c_vdJzK1VMqCuM4lQlKOaz-TX5Y52nijnUZBakvQkjw&s=72&u=79285df3e1c8b00d8fbcfab5dae071fb4ea15f9a&v=4" width="24" alt="Avatar of MatthewMacri"/> MatthewMacri
+				<img src="https://private-avatars.githubusercontent.com/u/123660194?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEzNDAsIm5iZiI6MTczNDM0MDE0MCwicGF0aCI6Ii91LzEyMzY2MDE5NCJ9.6HPZCswzjd9sTjkOZSbbgO4Ewm3phbf0yyrHexeaQTA&s=72&u=79285df3e1c8b00d8fbcfab5dae071fb4ea15f9a&v=4" width="24" alt="Avatar of MatthewMacri"/> MatthewMacri
 			</a><br/>
 			Matthew Macri
 		</td>
@@ -5739,24 +5753,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>528</td>
 	</tr>
 	<tr>
-		<td>403</td>
-		<td>
-			<a target="_blank" href="https://github.com/OdatNurd">
-				<img src="https://private-avatars.githubusercontent.com/u/13212876?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4ODAsIm5iZiI6MTczNDMwNDY4MCwicGF0aCI6Ii91LzEzMjEyODc2In0.gWvMdoNdxrmSbuPLIVzaWeim0oRV03dTEXFs4Cm1wX0&s=72&u=47d46e95295af5851c10ec79aba9c7aa39bd9574&v=4" width="24" alt="Avatar of OdatNurd"/> OdatNurd
-			</a><br/>
-			Terence Martin
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/OdatNurd">OdatNurd</a></td>
-		<td>British Columbia Canada</td>
-		<td>527</td>
-		<td>527</td>
-	</tr>
-	<tr>
 		<td>404</td>
 		<td>
 			<a target="_blank" href="https://github.com/yogthos">
-				<img src="https://private-avatars.githubusercontent.com/u/121208?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxNjAsIm5iZiI6MTczNDMwMzk2MCwicGF0aCI6Ii91LzEyMTIwOCJ9.kzSPNwIMjCmDjIzwV1qLuD7OYfW0ejUYIw9tHdbR-TY&s=72&v=4" width="24" alt="Avatar of yogthos"/> yogthos
+				<img src="https://private-avatars.githubusercontent.com/u/121208?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDExNjAsIm5iZiI6MTczNDMzOTk2MCwicGF0aCI6Ii91LzEyMTIwOCJ9.TlhJjDPn9ckELQAWLDOfgXXxymPN1Gpa9TW56iW6oPI&s=72&v=4" width="24" alt="Avatar of yogthos"/> yogthos
 			</a><br/>
 			Dmitri Sotnikov
 		</td>
@@ -5770,7 +5770,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>405</td>
 		<td>
 			<a target="_blank" href="https://github.com/luabud">
-				<img src="https://private-avatars.githubusercontent.com/u/45497113?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU2NDAsIm5iZiI6MTczNDMwNDQ0MCwicGF0aCI6Ii91LzQ1NDk3MTEzIn0.R1C-DE_w6H51rISv3nBRAgZI9O072ywiaXoLvr8-RwE&s=72&u=85f7142a310f30c1b08d4d407fffe3ac9906ae77&v=4" width="24" alt="Avatar of luabud"/> luabud
+				<img src="https://private-avatars.githubusercontent.com/u/45497113?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE2NDAsIm5iZiI6MTczNDM0MDQ0MCwicGF0aCI6Ii91LzQ1NDk3MTEzIn0.maXA8mq5Xh6oMzheuQC5q2oWxwE2rfCaP8IPMGVeXok&s=72&u=85f7142a310f30c1b08d4d407fffe3ac9906ae77&v=4" width="24" alt="Avatar of luabud"/> luabud
 			</a><br/>
 			Luciana Abud
 		</td>
@@ -5784,7 +5784,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>406</td>
 		<td>
 			<a target="_blank" href="https://github.com/danderson">
-				<img src="https://private-avatars.githubusercontent.com/u/1918?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxMDAsIm5iZiI6MTczNDMwMzkwMCwicGF0aCI6Ii91LzE5MTgifQ.oS7WByXnzULuUTXRGcM36x1H4PX7vY4V1yjLVjedp8k&s=72&v=4" width="24" alt="Avatar of danderson"/> danderson
+				<img src="https://private-avatars.githubusercontent.com/u/1918?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDExMDAsIm5iZiI6MTczNDMzOTkwMCwicGF0aCI6Ii91LzE5MTgifQ.ETIPn1602w1JDZQtodwyZpNtENDE8ZHEkB3AFdSLANM&s=72&v=4" width="24" alt="Avatar of danderson"/> danderson
 			</a><br/>
 			Dave Anderson
 		</td>
@@ -5798,7 +5798,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>407</td>
 		<td>
 			<a target="_blank" href="https://github.com/danluu">
-				<img src="https://private-avatars.githubusercontent.com/u/157136?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ3NDAsIm5iZiI6MTczNDMwMzU0MCwicGF0aCI6Ii91LzE1NzEzNiJ9.9Bl-yF3ziYVTw_PAe7oY3GLnwwsJGh5_FWraV-osehc&s=72&v=4" width="24" alt="Avatar of danluu"/> danluu
+				<img src="https://private-avatars.githubusercontent.com/u/157136?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE2NDAsIm5iZiI6MTczNDM0MDQ0MCwicGF0aCI6Ii91LzE1NzEzNiJ9.FqWCC7gvxotLVVjhf7GCLq_UgDo2ItY04Lp6F4iCRso&s=72&v=4" width="24" alt="Avatar of danluu"/> danluu
 			</a><br/>
 			Dan Luu
 		</td>
@@ -5812,7 +5812,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>408</td>
 		<td>
 			<a target="_blank" href="https://github.com/SUKHMAN-SINGH-1612">
-				<img src="https://private-avatars.githubusercontent.com/u/83074042?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1MjAsIm5iZiI6MTczNDMwNDMyMCwicGF0aCI6Ii91LzgzMDc0MDQyIn0.Ayavmv3gvtWrNxdT6Q4BtJu1Ib9_XNAfLUQ85yBm3S0&s=72&u=2623807362eefeb1226ec2f903f614c050c11a24&v=4" width="24" alt="Avatar of SUKHMAN-SINGH-1612"/> SUKHMAN-SINGH-1612
+				<img src="https://private-avatars.githubusercontent.com/u/83074042?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1MjAsIm5iZiI6MTczNDM0MDMyMCwicGF0aCI6Ii91LzgzMDc0MDQyIn0.Vwf7SI0GjAFGes0GE6Km_V7sIX7GLjMav9rUBC4lmO0&s=72&u=2623807362eefeb1226ec2f903f614c050c11a24&v=4" width="24" alt="Avatar of SUKHMAN-SINGH-1612"/> SUKHMAN-SINGH-1612
 			</a><br/>
 			Sukhman Singh
 		</td>
@@ -5826,7 +5826,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>409</td>
 		<td>
 			<a target="_blank" href="https://github.com/lhunath">
-				<img src="https://private-avatars.githubusercontent.com/u/36948?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91LzM2OTQ4In0.OXBkuwSC6PzUvgqQF9zI3EPaUIEi1ONxLVIJDn9KR8E&s=72&u=e7ce325665a342bfac3c72ac4e6eec594f31e363&v=4" width="24" alt="Avatar of lhunath"/> lhunath
+				<img src="https://private-avatars.githubusercontent.com/u/36948?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIyNDAsIm5iZiI6MTczNDM0MTA0MCwicGF0aCI6Ii91LzM2OTQ4In0.VVngEbHLtwmHzw3CpDIU_fbEKVtq4l694M4D-yZhjpY&s=72&u=e7ce325665a342bfac3c72ac4e6eec594f31e363&v=4" width="24" alt="Avatar of lhunath"/> lhunath
 			</a><br/>
 			Maarten Billemont
 		</td>
@@ -5839,8 +5839,22 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 	<tr>
 		<td>410</td>
 		<td>
+			<a target="_blank" href="https://github.com/Qard">
+				<img src="https://private-avatars.githubusercontent.com/u/205482?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4MjAsIm5iZiI6MTczNDM0MDYyMCwicGF0aCI6Ii91LzIwNTQ4MiJ9.OXpaG2OQF6akvm3gKSaVIsCY01DvfN-J8Fyycp7L3wA&s=72&u=de3265fd6a286e3e51965136cbe7a04bb9ec051a&v=4" width="24" alt="Avatar of Qard"/> Qard
+			</a><br/>
+			Stephen Belanger
+		</td>
+		<td>Datadog </td>
+		<td>No Twitter Username</td>
+		<td>Vancouver BC Canada</td>
+		<td>468</td>
+		<td>512</td>
+	</tr>
+	<tr>
+		<td>411</td>
+		<td>
 			<a target="_blank" href="https://github.com/cblecker">
-				<img src="https://private-avatars.githubusercontent.com/u/1431969?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4MjAsIm5iZiI6MTczNDMwNDYyMCwicGF0aCI6Ii91LzE0MzE5NjkifQ.kQeQUqbyZNTsA_-l_Nrlv61HDLktdEj6J95rztdysHU&s=72&v=4" width="24" alt="Avatar of cblecker"/> cblecker
+				<img src="https://private-avatars.githubusercontent.com/u/1431969?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4MjAsIm5iZiI6MTczNDM0MDYyMCwicGF0aCI6Ii91LzE0MzE5NjkifQ.DJ1kaA4_IQcVhwtU36UjVHbdIl7_UkBUSPGmz-82k5w&s=72&v=4" width="24" alt="Avatar of cblecker"/> cblecker
 			</a><br/>
 			Christoph Blecker
 		</td>
@@ -5851,10 +5865,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>512</td>
 	</tr>
 	<tr>
-		<td>411</td>
+		<td>412</td>
 		<td>
 			<a target="_blank" href="https://github.com/clauderic">
-				<img src="https://private-avatars.githubusercontent.com/u/1416436?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ4MDAsIm5iZiI6MTczNDMwMzYwMCwicGF0aCI6Ii91LzE0MTY0MzYifQ._d_5uqctLNm9dtJ25D1GW8I19-x4YL3MGpocLBVMzvk&s=72&u=10d4e0a90e238720d1b7407a48345de0c74aef04&v=4" width="24" alt="Avatar of clauderic"/> clauderic
+				<img src="https://private-avatars.githubusercontent.com/u/1416436?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3MDAsIm5iZiI6MTczNDM0MDUwMCwicGF0aCI6Ii91LzE0MTY0MzYifQ.AINWA29YBi7k2pglcmMoxXGURKT-2FI32xxfwkh6vcA&s=72&u=10d4e0a90e238720d1b7407a48345de0c74aef04&v=4" width="24" alt="Avatar of clauderic"/> clauderic
 			</a><br/>
 			Claudric Demers
 		</td>
@@ -5865,24 +5879,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>511</td>
 	</tr>
 	<tr>
-		<td>412</td>
-		<td>
-			<a target="_blank" href="https://github.com/Qard">
-				<img src="https://private-avatars.githubusercontent.com/u/205482?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4MjAsIm5iZiI6MTczNDMwNDYyMCwicGF0aCI6Ii91LzIwNTQ4MiJ9.o0uBCPcCm13O3ACb8eQkuUnxv2RZ-5oI-fYO0QcfeZQ&s=72&u=de3265fd6a286e3e51965136cbe7a04bb9ec051a&v=4" width="24" alt="Avatar of Qard"/> Qard
-			</a><br/>
-			Stephen Belanger
-		</td>
-		<td>Datadog </td>
-		<td>No Twitter Username</td>
-		<td>Vancouver BC Canada</td>
-		<td>468</td>
-		<td>511</td>
-	</tr>
-	<tr>
 		<td>413</td>
 		<td>
 			<a target="_blank" href="https://github.com/travisjeffery">
-				<img src="https://private-avatars.githubusercontent.com/u/15225?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxMDAsIm5iZiI6MTczNDMwMzkwMCwicGF0aCI6Ii91LzE1MjI1In0.MSNLH491vgAg4LiAvD4Q85NqQ_vmld1H9IJ_vSJuB94&s=72&u=a89dcc80f7771d8c65a8cf35855518f6f96971e5&v=4" width="24" alt="Avatar of travisjeffery"/> travisjeffery
+				<img src="https://private-avatars.githubusercontent.com/u/15225?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDExMDAsIm5iZiI6MTczNDMzOTkwMCwicGF0aCI6Ii91LzE1MjI1In0.-KYX1I4qxSUVx4H4AUEoqQAH1-EjdFCaaWS-u-Yytw0&s=72&u=a89dcc80f7771d8c65a8cf35855518f6f96971e5&v=4" width="24" alt="Avatar of travisjeffery"/> travisjeffery
 			</a><br/>
 			Travis Jeffery
 		</td>
@@ -5896,7 +5896,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>414</td>
 		<td>
 			<a target="_blank" href="https://github.com/jtemporal">
-				<img src="https://private-avatars.githubusercontent.com/u/6595551?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxNjAsIm5iZiI6MTczNDMwMzk2MCwicGF0aCI6Ii91LzY1OTU1NTEifQ.monxgUatRD2kkRw2puOM2LEHF_mwzkJfVUq3uD9RyXY&s=72&u=0142b6219be4e7a7e9107c485ef1b38aa4ab63de&v=4" width="24" alt="Avatar of jtemporal"/> jtemporal
+				<img src="https://private-avatars.githubusercontent.com/u/6595551?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDExNjAsIm5iZiI6MTczNDMzOTk2MCwicGF0aCI6Ii91LzY1OTU1NTEifQ.rGXbghRzHdjbKuNWOHOD25tnVnJGo3RZ4YPVKWk4zs4&s=72&u=0142b6219be4e7a7e9107c485ef1b38aa4ab63de&v=4" width="24" alt="Avatar of jtemporal"/> jtemporal
 			</a><br/>
 			Jessica Temporal
 		</td>
@@ -5910,7 +5910,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>415</td>
 		<td>
 			<a target="_blank" href="https://github.com/cameronmcnz">
-				<img src="https://private-avatars.githubusercontent.com/u/38986973?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3MDAsIm5iZiI6MTczNDMwNDUwMCwicGF0aCI6Ii91LzM4OTg2OTczIn0.WCL5NpkQuYvHTzB_u0F4CcRbSQr-2hBJH9M-UtwO1dM&s=72&u=1e850d944b59ca2f2e9dd83836f28b67e4061458&v=4" width="24" alt="Avatar of cameronmcnz"/> cameronmcnz
+				<img src="https://private-avatars.githubusercontent.com/u/38986973?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3MDAsIm5iZiI6MTczNDM0MDUwMCwicGF0aCI6Ii91LzM4OTg2OTczIn0.Le8cOPP-YqP1QQU_59uXk8KMpC66C7lg0cZWjBFs9Xo&s=72&u=1e850d944b59ca2f2e9dd83836f28b67e4061458&v=4" width="24" alt="Avatar of cameronmcnz"/> cameronmcnz
 			</a><br/>
 			Cameron McKenzie
 		</td>
@@ -5924,7 +5924,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>416</td>
 		<td>
 			<a target="_blank" href="https://github.com/kirannasim">
-				<img src="https://private-avatars.githubusercontent.com/u/11325580?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU2NDAsIm5iZiI6MTczNDMwNDQ0MCwicGF0aCI6Ii91LzExMzI1NTgwIn0.RiPv07ASdPCTNVUMYzcY7V2joIwJlIX0HgmHSUXozM0&s=72&u=6aa1265cb759beef70bdd4d478125966e83141cc&v=4" width="24" alt="Avatar of kirannasim"/> kirannasim
+				<img src="https://private-avatars.githubusercontent.com/u/11325580?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE2NDAsIm5iZiI6MTczNDM0MDQ0MCwicGF0aCI6Ii91LzExMzI1NTgwIn0.Au6_kBLbx5gcGesMNpDmtBw4jSBlBqwtZoqBBRJvUZM&s=72&u=6aa1265cb759beef70bdd4d478125966e83141cc&v=4" width="24" alt="Avatar of kirannasim"/> kirannasim
 			</a><br/>
 			Kiran Nasim
 		</td>
@@ -5938,7 +5938,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>417</td>
 		<td>
 			<a target="_blank" href="https://github.com/stevemar">
-				<img src="https://private-avatars.githubusercontent.com/u/4118756?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3NjAsIm5iZiI6MTczNDMwNDU2MCwicGF0aCI6Ii91LzQxMTg3NTYifQ.uJyKt0GTcIy5ZIbs7htCtCcUG5fcvulzvWHDCx4XyJU&s=72&u=2ed1107d8ee880a56604884d5f76e73dae02b918&v=4" width="24" alt="Avatar of stevemar"/> stevemar
+				<img src="https://private-avatars.githubusercontent.com/u/4118756?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3NjAsIm5iZiI6MTczNDM0MDU2MCwicGF0aCI6Ii91LzQxMTg3NTYifQ.Vh_spVbpgWXgXsfem8FwEgMQaVwf0Df03LPbMT5Wrjs&s=72&u=2ed1107d8ee880a56604884d5f76e73dae02b918&v=4" width="24" alt="Avatar of stevemar"/> stevemar
 			</a><br/>
 			Steve Martinelli
 		</td>
@@ -5952,7 +5952,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>418</td>
 		<td>
 			<a target="_blank" href="https://github.com/expede">
-				<img src="https://private-avatars.githubusercontent.com/u/1052016?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0NjAsIm5iZiI6MTczNDMwNDI2MCwicGF0aCI6Ii91LzEwNTIwMTYifQ.wnEpdaiXrgcaB15dYfq7zSPXK9VL6IhWwtiJeHCL-Jc&s=72&u=d96786e8ce6d3425f9491a0e1909c4442df508ec&v=4" width="24" alt="Avatar of expede"/> expede
+				<img src="https://private-avatars.githubusercontent.com/u/1052016?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0NjAsIm5iZiI6MTczNDM0MDI2MCwicGF0aCI6Ii91LzEwNTIwMTYifQ.qcGwaPu6AKeaZw-LBvAoVpIPC7T-HEp9jfWAVv6hYSE&s=72&u=d96786e8ce6d3425f9491a0e1909c4442df508ec&v=4" width="24" alt="Avatar of expede"/> expede
 			</a><br/>
 			Brooklyn Zelenka
 		</td>
@@ -5966,7 +5966,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>419</td>
 		<td>
 			<a target="_blank" href="https://github.com/dstndstn">
-				<img src="https://private-avatars.githubusercontent.com/u/1065981?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyODAsIm5iZiI6MTczNDMwNDA4MCwicGF0aCI6Ii91LzEwNjU5ODEifQ.MmFG9qUXfC80AV-KYDLmmR4Urq1ShSENRnQrmRPl9dY&s=72&u=084c3446f60cdb95201d9347c66f19b813ae0f6b&v=4" width="24" alt="Avatar of dstndstn"/> dstndstn
+				<img src="https://private-avatars.githubusercontent.com/u/1065981?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIxODAsIm5iZiI6MTczNDM0MDk4MCwicGF0aCI6Ii91LzEwNjU5ODEifQ.n8Jzr_iE9__BdFsuBlv3Uwypu868p-isH7bJhqXrdyE&s=72&u=084c3446f60cdb95201d9347c66f19b813ae0f6b&v=4" width="24" alt="Avatar of dstndstn"/> dstndstn
 			</a><br/>
 			Dustin Lang
 		</td>
@@ -5980,7 +5980,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>420</td>
 		<td>
 			<a target="_blank" href="https://github.com/javebratt">
-				<img src="https://private-avatars.githubusercontent.com/u/7296623?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ5ODAsIm5iZiI6MTczNDMwMzc4MCwicGF0aCI6Ii91LzcyOTY2MjMifQ.aAu1idORMSo8e6n0zBIxSmMTRh-JEpmI3yEa7KJLMg4&s=72&u=4edf23e7db741d60f29d2bb23f8f3bdec7f8b15a&v=4" width="24" alt="Avatar of javebratt"/> javebratt
+				<img src="https://private-avatars.githubusercontent.com/u/7296623?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4ODAsIm5iZiI6MTczNDM0MDY4MCwicGF0aCI6Ii91LzcyOTY2MjMifQ.3JjfeHOiKeSrJK4cb3SupdE0LYC6ShxfvJH2Ec_XJuY&s=72&u=4edf23e7db741d60f29d2bb23f8f3bdec7f8b15a&v=4" width="24" alt="Avatar of javebratt"/> javebratt
 			</a><br/>
 			Jorge Vergara
 		</td>
@@ -5994,7 +5994,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>421</td>
 		<td>
 			<a target="_blank" href="https://github.com/macournoyer">
-				<img src="https://private-avatars.githubusercontent.com/u/22?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0NjAsIm5iZiI6MTczNDMwNDI2MCwicGF0aCI6Ii91LzIyIn0.BFODPW7UHApy6Fb_u_QXD2k33WdvsR9F8nRfjyk8pVA&s=72&v=4" width="24" alt="Avatar of macournoyer"/> macournoyer
+				<img src="https://private-avatars.githubusercontent.com/u/22?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0NjAsIm5iZiI6MTczNDM0MDI2MCwicGF0aCI6Ii91LzIyIn0.L9DxiVHpHlgDw-JbKechXBF0HH29BjQt5z654ZlyECY&s=72&v=4" width="24" alt="Avatar of macournoyer"/> macournoyer
 			</a><br/>
 			MarcAndr Cournoyer
 		</td>
@@ -6008,7 +6008,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>422</td>
 		<td>
 			<a target="_blank" href="https://github.com/EverythingSuckz">
-				<img src="https://private-avatars.githubusercontent.com/u/65120517?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4MjAsIm5iZiI6MTczNDMwNDYyMCwicGF0aCI6Ii91LzY1MTIwNTE3In0.YQ5hfGNr7D9mcTMieI0LckBgfDmKLX2nk5Jvi0pbBFw&s=72&u=bc63ac70e638e3316e5a406caf07300840888275&v=4" width="24" alt="Avatar of EverythingSuckz"/> EverythingSuckz
+				<img src="https://private-avatars.githubusercontent.com/u/65120517?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4MjAsIm5iZiI6MTczNDM0MDYyMCwicGF0aCI6Ii91LzY1MTIwNTE3In0.3bJaMU1WkiCw9-ufKzPPYGYSCMR2jdx7Uw8tOK62imc&s=72&u=bc63ac70e638e3316e5a406caf07300840888275&v=4" width="24" alt="Avatar of EverythingSuckz"/> EverythingSuckz
 			</a><br/>
 			wrench
 		</td>
@@ -6022,7 +6022,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>423</td>
 		<td>
 			<a target="_blank" href="https://github.com/milon">
-				<img src="https://private-avatars.githubusercontent.com/u/1138769?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0MDAsIm5iZiI6MTczNDMwNDIwMCwicGF0aCI6Ii91LzExMzg3NjkifQ.nkhYTmhQo8cpDu04EExXM8rgsl0zKWD9hGdM4M3Qq6M&s=72&u=e0c2fe1e145f3de9c5438bd68e557e9e724ff644&v=4" width="24" alt="Avatar of milon"/> milon
+				<img src="https://private-avatars.githubusercontent.com/u/1138769?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0MDAsIm5iZiI6MTczNDM0MDIwMCwicGF0aCI6Ii91LzExMzg3NjkifQ.OwsgydgwemGzNLcCivoTSy4NvSa3mqxCYHmGXB-IB3c&s=72&u=e0c2fe1e145f3de9c5438bd68e557e9e724ff644&v=4" width="24" alt="Avatar of milon"/> milon
 			</a><br/>
 			Nuruzzaman Milon
 		</td>
@@ -6036,7 +6036,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>424</td>
 		<td>
 			<a target="_blank" href="https://github.com/patmorin">
-				<img src="https://private-avatars.githubusercontent.com/u/104271?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3NjAsIm5iZiI6MTczNDMwNDU2MCwicGF0aCI6Ii91LzEwNDI3MSJ9.9rnqfLrqLkco5gBZr_TmKiRdTmsl9kgD55879qeM8F4&s=72&v=4" width="24" alt="Avatar of patmorin"/> patmorin
+				<img src="https://private-avatars.githubusercontent.com/u/104271?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3NjAsIm5iZiI6MTczNDM0MDU2MCwicGF0aCI6Ii91LzEwNDI3MSJ9._uA-Bem5URMBDFp-BZvzTSFC38wy52hsqrVyoBrIUWQ&s=72&v=4" width="24" alt="Avatar of patmorin"/> patmorin
 			</a><br/>
 			Pat Morin
 		</td>
@@ -6049,8 +6049,22 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 	<tr>
 		<td>425</td>
 		<td>
+			<a target="_blank" href="https://github.com/LukeTowers">
+				<img src="https://private-avatars.githubusercontent.com/u/7253840?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4ODAsIm5iZiI6MTczNDM0MDY4MCwicGF0aCI6Ii91LzcyNTM4NDAifQ.bBSOikobWmW4N1lembJ4MKxVyliY4BwsCBZP58w3C6g&s=72&u=4410045053308210b2c9477b3f139ce5c8bcb29e&v=4" width="24" alt="Avatar of LukeTowers"/> LukeTowers
+			</a><br/>
+			Luke Towers
+		</td>
+		<td>@wintercms </td>
+		<td><a target="_blank" href="https://twitter.com/theluketowers">theluketowers</a></td>
+		<td>Saskatchewan Canada</td>
+		<td>475</td>
+		<td>475</td>
+	</tr>
+	<tr>
+		<td>426</td>
+		<td>
 			<a target="_blank" href="https://github.com/davellanedam">
-				<img src="https://private-avatars.githubusercontent.com/u/5108067?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU2NDAsIm5iZiI6MTczNDMwNDQ0MCwicGF0aCI6Ii91LzUxMDgwNjcifQ.kVevEO1dVjl4Eq4nFTRCwf43_hhMnrrSBHEBxormOLw&s=72&u=84ee0204edf9516e74753a4d8cf1e7f8bdf05b44&v=4" width="24" alt="Avatar of davellanedam"/> davellanedam
+				<img src="https://private-avatars.githubusercontent.com/u/5108067?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE2NDAsIm5iZiI6MTczNDM0MDQ0MCwicGF0aCI6Ii91LzUxMDgwNjcifQ.JVc7IRWBVpVDdRvKLljDeNjmdGFT91JC5o1sCuJ36nk&s=72&u=84ee0204edf9516e74753a4d8cf1e7f8bdf05b44&v=4" width="24" alt="Avatar of davellanedam"/> davellanedam
 			</a><br/>
 			Daniel Avellaneda
 		</td>
@@ -6061,24 +6075,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>474</td>
 	</tr>
 	<tr>
-		<td>426</td>
-		<td>
-			<a target="_blank" href="https://github.com/LukeTowers">
-				<img src="https://private-avatars.githubusercontent.com/u/7253840?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4ODAsIm5iZiI6MTczNDMwNDY4MCwicGF0aCI6Ii91LzcyNTM4NDAifQ._Gf8mwsBixi_auMYKQp1YAOl1I_LXunBCcSpyMxIPcA&s=72&u=4410045053308210b2c9477b3f139ce5c8bcb29e&v=4" width="24" alt="Avatar of LukeTowers"/> LukeTowers
-			</a><br/>
-			Luke Towers
-		</td>
-		<td>@wintercms </td>
-		<td><a target="_blank" href="https://twitter.com/theluketowers">theluketowers</a></td>
-		<td>Saskatchewan Canada</td>
-		<td>474</td>
-		<td>474</td>
-	</tr>
-	<tr>
 		<td>427</td>
 		<td>
 			<a target="_blank" href="https://github.com/timbeiko">
-				<img src="https://private-avatars.githubusercontent.com/u/9390255?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ4NjAsIm5iZiI6MTczNDMwMzY2MCwicGF0aCI6Ii91LzkzOTAyNTUifQ.lT_XUIK_ml5d2LWyHajDKyuYPcmWsPSUS7Wr9mf5FIQ&s=72&u=418ddb64d5051c0ea39bac07a8a84d19a66c1381&v=4" width="24" alt="Avatar of timbeiko"/> timbeiko
+				<img src="https://private-avatars.githubusercontent.com/u/9390255?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3NjAsIm5iZiI6MTczNDM0MDU2MCwicGF0aCI6Ii91LzkzOTAyNTUifQ.cHAhlzENFv0gjGlKK_CBCnm6axEa_uy3xp9jsQJFdcA&s=72&u=418ddb64d5051c0ea39bac07a8a84d19a66c1381&v=4" width="24" alt="Avatar of timbeiko"/> timbeiko
 			</a><br/>
 			Tim Beiko
 		</td>
@@ -6092,7 +6092,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>428</td>
 		<td>
 			<a target="_blank" href="https://github.com/RangerMauve">
-				<img src="https://private-avatars.githubusercontent.com/u/911495?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1ODAsIm5iZiI6MTczNDMwNDM4MCwicGF0aCI6Ii91LzkxMTQ5NSJ9.vcMinj6943ETJjavw5iI9jxxDw4XX32luBG2-WUJigM&s=72&u=c805f6453c9706f0768ee182ecaf78743bcf26a6&v=4" width="24" alt="Avatar of RangerMauve"/> RangerMauve
+				<img src="https://private-avatars.githubusercontent.com/u/911495?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1ODAsIm5iZiI6MTczNDM0MDM4MCwicGF0aCI6Ii91LzkxMTQ5NSJ9.FugsDGp9AL3G_nrIXpYC_i87al56hd9z5zPZY228fck&s=72&u=c805f6453c9706f0768ee182ecaf78743bcf26a6&v=4" width="24" alt="Avatar of RangerMauve"/> RangerMauve
 			</a><br/>
 			Mauve Signweaver
 		</td>
@@ -6106,7 +6106,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>429</td>
 		<td>
 			<a target="_blank" href="https://github.com/provencher">
-				<img src="https://private-avatars.githubusercontent.com/u/7420990?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU2NDAsIm5iZiI6MTczNDMwNDQ0MCwicGF0aCI6Ii91Lzc0MjA5OTAifQ.PZwBdgTuDfDEAuyZSHqSV_RBoT7ZV3kEmMUO8WRvrdg&s=72&u=74f873866418d5691f8e95c8ec9c1c790af8c5ca&v=4" width="24" alt="Avatar of provencher"/> provencher
+				<img src="https://private-avatars.githubusercontent.com/u/7420990?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE2NDAsIm5iZiI6MTczNDM0MDQ0MCwicGF0aCI6Ii91Lzc0MjA5OTAifQ.Sm85b1xgui6HVS0BHzmLj3VTtOBF9tFz5u2xmdc10xs&s=72&u=74f873866418d5691f8e95c8ec9c1c790af8c5ca&v=4" width="24" alt="Avatar of provencher"/> provencher
 			</a><br/>
 			Eric prvncher
 		</td>
@@ -6120,7 +6120,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>430</td>
 		<td>
 			<a target="_blank" href="https://github.com/maxhumber">
-				<img src="https://private-avatars.githubusercontent.com/u/2367311?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3MDAsIm5iZiI6MTczNDMwNDUwMCwicGF0aCI6Ii91LzIzNjczMTEifQ.1M6hnY3D2lFYkYM2r9S2Y3aNYUUUWw7opT85X-pNVOY&s=72&u=0fe466e90817278a4e9cba76559ba7508d1b8666&v=4" width="24" alt="Avatar of maxhumber"/> maxhumber
+				<img src="https://private-avatars.githubusercontent.com/u/2367311?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3MDAsIm5iZiI6MTczNDM0MDUwMCwicGF0aCI6Ii91LzIzNjczMTEifQ.0J3TRl24n50S_CA3hQWwIQVJHYvv0Fs4zOQ8-rDbNUU&s=72&u=0fe466e90817278a4e9cba76559ba7508d1b8666&v=4" width="24" alt="Avatar of maxhumber"/> maxhumber
 			</a><br/>
 			Max Humber
 		</td>
@@ -6134,7 +6134,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>431</td>
 		<td>
 			<a target="_blank" href="https://github.com/ReikaKalseki">
-				<img src="https://private-avatars.githubusercontent.com/u/3230328?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxMDAsIm5iZiI6MTczNDMwMzkwMCwicGF0aCI6Ii91LzMyMzAzMjgifQ.yHBDxWlHrmHY0-I_pD9ctZ12yEbaqv38aL-BXvBCBcE&s=72&u=a37aa51601364e80c63aacdf166b12f8868eb64e&v=4" width="24" alt="Avatar of ReikaKalseki"/> ReikaKalseki
+				<img src="https://private-avatars.githubusercontent.com/u/3230328?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIwMDAsIm5iZiI6MTczNDM0MDgwMCwicGF0aCI6Ii91LzMyMzAzMjgifQ.CdB2js259BLO3XVsiVYEsvADkPmz1pJRRHn9C5DoCTg&s=72&u=a37aa51601364e80c63aacdf166b12f8868eb64e&v=4" width="24" alt="Avatar of ReikaKalseki"/> ReikaKalseki
 			</a><br/>
 			Reika
 		</td>
@@ -6148,7 +6148,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>432</td>
 		<td>
 			<a target="_blank" href="https://github.com/adv4000">
-				<img src="https://private-avatars.githubusercontent.com/u/24209377?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ4MDAsIm5iZiI6MTczNDMwMzYwMCwicGF0aCI6Ii91LzI0MjA5Mzc3In0.VNzf6trFyptlX9AeaZoIcosYNU0R2eCH--Vc6OhunCI&s=72&u=e9671a6a2f748ffb60f8ae95172c7383467814bc&v=4" width="24" alt="Avatar of adv4000"/> adv4000
+				<img src="https://private-avatars.githubusercontent.com/u/24209377?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3MDAsIm5iZiI6MTczNDM0MDUwMCwicGF0aCI6Ii91LzI0MjA5Mzc3In0.QBT1M4yyy633TTVx3PC-_Fe2nt0oSWqhw1XdoFfEtpU&s=72&u=e9671a6a2f748ffb60f8ae95172c7383467814bc&v=4" width="24" alt="Avatar of adv4000"/> adv4000
 			</a><br/>
 			Denis Astahov
 		</td>
@@ -6162,7 +6162,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>433</td>
 		<td>
 			<a target="_blank" href="https://github.com/vnmakarov">
-				<img src="https://private-avatars.githubusercontent.com/u/9855671?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyODAsIm5iZiI6MTczNDMwNDA4MCwicGF0aCI6Ii91Lzk4NTU2NzEifQ.cWWf8jVGzBa4edWdE41yRMao36Zn2DW54hjCJzalY-8&s=72&v=4" width="24" alt="Avatar of vnmakarov"/> vnmakarov
+				<img src="https://private-avatars.githubusercontent.com/u/9855671?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIxODAsIm5iZiI6MTczNDM0MDk4MCwicGF0aCI6Ii91Lzk4NTU2NzEifQ.hAs7nXFFuCATauuwB3gGyiP4isPI5OD3oQrs_ibZ5-8&s=72&v=4" width="24" alt="Avatar of vnmakarov"/> vnmakarov
 			</a><br/>
 			Vladimir Makarov
 		</td>
@@ -6176,7 +6176,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>434</td>
 		<td>
 			<a target="_blank" href="https://github.com/jimpick">
-				<img src="https://private-avatars.githubusercontent.com/u/20886?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3NjAsIm5iZiI6MTczNDMwNDU2MCwicGF0aCI6Ii91LzIwODg2In0.B11aTNRDhuOX2X8g8Hb3ikFuDjwvrkxRLkA8_IYouWU&s=72&u=f9588893457a4bb700e1d9ffc88b28cf129f9ad1&v=4" width="24" alt="Avatar of jimpick"/> jimpick
+				<img src="https://private-avatars.githubusercontent.com/u/20886?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3NjAsIm5iZiI6MTczNDM0MDU2MCwicGF0aCI6Ii91LzIwODg2In0.UPSERicVhHlnfN3vdSsC1hY8KUPstQH2pqxokKDbDx0&s=72&u=f9588893457a4bb700e1d9ffc88b28cf129f9ad1&v=4" width="24" alt="Avatar of jimpick"/> jimpick
 			</a><br/>
 			Jim Pick
 		</td>
@@ -6190,7 +6190,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>435</td>
 		<td>
 			<a target="_blank" href="https://github.com/RyanFitzgerald">
-				<img src="https://private-avatars.githubusercontent.com/u/9112801?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1ODAsIm5iZiI6MTczNDMwNDM4MCwicGF0aCI6Ii91LzkxMTI4MDEifQ.5V_wuzYNw0yu1JLYnAW2eTN52oNKyPe8970NKh25qC4&s=72&u=1be240f9ab5764bc4f72f5598ec2dba0f982aaaa&v=4" width="24" alt="Avatar of RyanFitzgerald"/> RyanFitzgerald
+				<img src="https://private-avatars.githubusercontent.com/u/9112801?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1ODAsIm5iZiI6MTczNDM0MDM4MCwicGF0aCI6Ii91LzkxMTI4MDEifQ.K0tHw6xY__CCwHMpxZoQ6INcTiCdrbHpiSDl4Va968o&s=72&u=1be240f9ab5764bc4f72f5598ec2dba0f982aaaa&v=4" width="24" alt="Avatar of RyanFitzgerald"/> RyanFitzgerald
 			</a><br/>
 			Ryan Fitzgerald
 		</td>
@@ -6204,7 +6204,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>436</td>
 		<td>
 			<a target="_blank" href="https://github.com/ykdojo">
-				<img src="https://private-avatars.githubusercontent.com/u/1811651?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ5ODAsIm5iZiI6MTczNDMwMzc4MCwicGF0aCI6Ii91LzE4MTE2NTEifQ.3y_Kz8bLa0sAQVBlO7H44LPh46c_dNb9NpFu-ufuEtk&s=72&u=462e0560670c4b066ee8d6ceed479f2803a518a9&v=4" width="24" alt="Avatar of ykdojo"/> ykdojo
+				<img src="https://private-avatars.githubusercontent.com/u/1811651?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDA5ODAsIm5iZiI6MTczNDMzOTc4MCwicGF0aCI6Ii91LzE4MTE2NTEifQ.YMRZDxbRAC4jrBS3XsT0CjEjTcKiTKGpLjjt0GCwlew&s=72&u=462e0560670c4b066ee8d6ceed479f2803a518a9&v=4" width="24" alt="Avatar of ykdojo"/> ykdojo
 			</a><br/>
 			YK
 		</td>
@@ -6218,7 +6218,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>437</td>
 		<td>
 			<a target="_blank" href="https://github.com/omenking">
-				<img src="https://private-avatars.githubusercontent.com/u/7776?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ5MjAsIm5iZiI6MTczNDMwMzcyMCwicGF0aCI6Ii91Lzc3NzYifQ.3JoO5JdjCwdegqiw45V5hnJpS4T9Bx4dthHpGysUo7k&s=72&u=f514accb955b7c918008adef6dcebacd88456f19&v=4" width="24" alt="Avatar of omenking"/> omenking
+				<img src="https://private-avatars.githubusercontent.com/u/7776?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDA5MjAsIm5iZiI6MTczNDMzOTcyMCwicGF0aCI6Ii91Lzc3NzYifQ.vJjbdUHCW_VmUfxcS_gMZky4Oci-4i0XFXRvh91uklw&s=72&u=f514accb955b7c918008adef6dcebacd88456f19&v=4" width="24" alt="Avatar of omenking"/> omenking
 			</a><br/>
 			Andrew Brown
 		</td>
@@ -6232,7 +6232,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>438</td>
 		<td>
 			<a target="_blank" href="https://github.com/ricmoo">
-				<img src="https://private-avatars.githubusercontent.com/u/975687?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyODAsIm5iZiI6MTczNDMwNDA4MCwicGF0aCI6Ii91Lzk3NTY4NyJ9.sLsvvE8lmD7o0SEwqkuHfb2RoKvgOxKl_hE4aCuC7cY&s=72&v=4" width="24" alt="Avatar of ricmoo"/> ricmoo
+				<img src="https://private-avatars.githubusercontent.com/u/975687?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyODAsIm5iZiI6MTczNDM0MDA4MCwicGF0aCI6Ii91Lzk3NTY4NyJ9.ELhddNoQthuV94vquT05bDGubN3ZSoyZGyUMGnfzV0o&s=72&v=4" width="24" alt="Avatar of ricmoo"/> ricmoo
 			</a><br/>
 			Richard Moore
 		</td>
@@ -6246,7 +6246,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>439</td>
 		<td>
 			<a target="_blank" href="https://github.com/mahedee">
-				<img src="https://private-avatars.githubusercontent.com/u/6042355?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4MjAsIm5iZiI6MTczNDMwNDYyMCwicGF0aCI6Ii91LzYwNDIzNTUifQ.a1X7Zlhs28jEfyWFmZnc4MFpjYQE0EDHsKo1UZ5smb0&s=72&u=77a2b1d4009dba3c272d52404dd35d5ec27e589f&v=4" width="24" alt="Avatar of mahedee"/> mahedee
+				<img src="https://private-avatars.githubusercontent.com/u/6042355?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4MjAsIm5iZiI6MTczNDM0MDYyMCwicGF0aCI6Ii91LzYwNDIzNTUifQ.uFb8zpBTq-bYkxeOIwiXCp0eCZyRjCq3Kk9GljV-0i0&s=72&u=77a2b1d4009dba3c272d52404dd35d5ec27e589f&v=4" width="24" alt="Avatar of mahedee"/> mahedee
 			</a><br/>
 			Mahedee Hasan
 		</td>
@@ -6260,7 +6260,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>440</td>
 		<td>
 			<a target="_blank" href="https://github.com/makew0rld">
-				<img src="https://private-avatars.githubusercontent.com/u/25111343?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3MDAsIm5iZiI6MTczNDMwNDUwMCwicGF0aCI6Ii91LzI1MTExMzQzIn0.z0Knb6cvzN4L8qlOQ1j1xpZXDtMrStR2CEaJ9nHxt58&s=72&u=ade824419f3d4c34a98fc04abd2d064961fd86d1&v=4" width="24" alt="Avatar of makew0rld"/> makew0rld
+				<img src="https://private-avatars.githubusercontent.com/u/25111343?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3MDAsIm5iZiI6MTczNDM0MDUwMCwicGF0aCI6Ii91LzI1MTExMzQzIn0.WKEDO_APA3MgDItDTnJ87CBA9aP_05xbcd51kvcXB-w&s=72&u=ade824419f3d4c34a98fc04abd2d064961fd86d1&v=4" width="24" alt="Avatar of makew0rld"/> makew0rld
 			</a><br/>
 			makeworld
 		</td>
@@ -6274,7 +6274,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>441</td>
 		<td>
 			<a target="_blank" href="https://github.com/graydon">
-				<img src="https://private-avatars.githubusercontent.com/u/14097?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ2ODAsIm5iZiI6MTczNDMwMzQ4MCwicGF0aCI6Ii91LzE0MDk3In0.I6XfFRwqMNPg3MPx9h_2kuzPQH-qaKhD8i1jYr_ij00&s=72&v=4" width="24" alt="Avatar of graydon"/> graydon
+				<img src="https://private-avatars.githubusercontent.com/u/14097?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1ODAsIm5iZiI6MTczNDM0MDM4MCwicGF0aCI6Ii91LzE0MDk3In0.-nTEORzZIajpsKwFvgPwHy82nxW6kTwInmcOWnzSO7c&s=72&v=4" width="24" alt="Avatar of graydon"/> graydon
 			</a><br/>
 			Graydon Hoare
 		</td>
@@ -6288,7 +6288,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>442</td>
 		<td>
 			<a target="_blank" href="https://github.com/joellord">
-				<img src="https://private-avatars.githubusercontent.com/u/1615433?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3MDAsIm5iZiI6MTczNDMwNDUwMCwicGF0aCI6Ii91LzE2MTU0MzMifQ.nF3ouL8mVvf0aiu77pta1W3kc2HDsyElJ35HD4hzZHA&s=72&u=226e9c3307907d614fc3ea30f3126c634f948d8a&v=4" width="24" alt="Avatar of joellord"/> joellord
+				<img src="https://private-avatars.githubusercontent.com/u/1615433?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3MDAsIm5iZiI6MTczNDM0MDUwMCwicGF0aCI6Ii91LzE2MTU0MzMifQ.TMX_zL9dbwTOsaXSLEDTxDYIUrmhGKgGHq9vzAHXmxU&s=72&u=226e9c3307907d614fc3ea30f3126c634f948d8a&v=4" width="24" alt="Avatar of joellord"/> joellord
 			</a><br/>
 			Joel Lord
 		</td>
@@ -6302,7 +6302,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>443</td>
 		<td>
 			<a target="_blank" href="https://github.com/piyush97">
-				<img src="https://private-avatars.githubusercontent.com/u/18229627?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyMjAsIm5iZiI6MTczNDMwNDAyMCwicGF0aCI6Ii91LzE4MjI5NjI3In0.9o1trHqP-_IHwVFK_bipiUo2s-dsYVVgFvA3sCw3Z7g&s=72&u=b40ed5cbcfdd8b2d053e04599815d5ffd8002b2a&v=4" width="24" alt="Avatar of piyush97"/> piyush97
+				<img src="https://private-avatars.githubusercontent.com/u/18229627?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyMjAsIm5iZiI6MTczNDM0MDAyMCwicGF0aCI6Ii91LzE4MjI5NjI3In0.pgrZP95ZQDwTDW1Va3ULqa2e5GqX_sS7nJTvduyaOlA&s=72&u=b40ed5cbcfdd8b2d053e04599815d5ffd8002b2a&v=4" width="24" alt="Avatar of piyush97"/> piyush97
 			</a><br/>
 			Piyush Mehta
 		</td>
@@ -6315,8 +6315,22 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 	<tr>
 		<td>444</td>
 		<td>
+			<a target="_blank" href="https://github.com/tandasat">
+				<img src="https://private-avatars.githubusercontent.com/u/1620923?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1MjAsIm5iZiI6MTczNDM0MDMyMCwicGF0aCI6Ii91LzE2MjA5MjMifQ.8EvVnNWba-kS5UAV8aaA-ij4coTx8bQLW0AshWm0EhA&s=72&u=515f6d3996440a42b7caaa34e6d9214616d0cbd6&v=4" width="24" alt="Avatar of tandasat"/> tandasat
+			</a><br/>
+			Satoshi Tanda
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/standa_t">standa_t</a></td>
+		<td>Vancouver Canada</td>
+		<td>219</td>
+		<td>417</td>
+	</tr>
+	<tr>
+		<td>445</td>
+		<td>
 			<a target="_blank" href="https://github.com/sagalbot">
-				<img src="https://private-avatars.githubusercontent.com/u/692538?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1ODAsIm5iZiI6MTczNDMwNDM4MCwicGF0aCI6Ii91LzY5MjUzOCJ9.PnMqCImtDL8ejdEGPKyzCtHkNMjCfGJHAA_-hG42B38&s=72&u=a5ab0d164266bd2d59ce1a514835627b4cc4f24f&v=4" width="24" alt="Avatar of sagalbot"/> sagalbot
+				<img src="https://private-avatars.githubusercontent.com/u/692538?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1ODAsIm5iZiI6MTczNDM0MDM4MCwicGF0aCI6Ii91LzY5MjUzOCJ9.atu9138S_D8-qYWQ0QcI0aqMl4NJiLC9LQDURLoZaUE&s=72&u=a5ab0d164266bd2d59ce1a514835627b4cc4f24f&v=4" width="24" alt="Avatar of sagalbot"/> sagalbot
 			</a><br/>
 			Jeff Sagal
 		</td>
@@ -6327,10 +6341,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>417</td>
 	</tr>
 	<tr>
-		<td>445</td>
+		<td>446</td>
 		<td>
 			<a target="_blank" href="https://github.com/code-shoily">
-				<img src="https://private-avatars.githubusercontent.com/u/5702155?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyMjAsIm5iZiI6MTczNDMwNDAyMCwicGF0aCI6Ii91LzU3MDIxNTUifQ.wwo0XkxLRwDaIkARqpQxlyjnv1n12TzVWvv1EVFahcc&s=72&u=842c1cf02858ef5279374e207821d389c08049a5&v=4" width="24" alt="Avatar of code-shoily"/> code-shoily
+				<img src="https://private-avatars.githubusercontent.com/u/5702155?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyMjAsIm5iZiI6MTczNDM0MDAyMCwicGF0aCI6Ii91LzU3MDIxNTUifQ.MIsum6CSe5CbCFFS-K49qSxZqN-97HRoSau723mCpsw&s=72&u=842c1cf02858ef5279374e207821d389c08049a5&v=4" width="24" alt="Avatar of code-shoily"/> code-shoily
 			</a><br/>
 			Code Shoily
 		</td>
@@ -6341,10 +6355,24 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>414</td>
 	</tr>
 	<tr>
-		<td>446</td>
+		<td>447</td>
+		<td>
+			<a target="_blank" href="https://github.com/morgan3d">
+				<img src="https://private-avatars.githubusercontent.com/u/3970018?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyMjAsIm5iZiI6MTczNDM0MDAyMCwicGF0aCI6Ii91LzM5NzAwMTgifQ.UU4_QjvAsziZQfAo6Mk2Wth5tSuIg1EU2qWzdUkwPzE&s=72&u=c3958f6b6a8d089176f954d55639e4f78b709af6&v=4" width="24" alt="Avatar of morgan3d"/> morgan3d
+			</a><br/>
+			Morgan McGuire
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vancouver BC</td>
+		<td>169</td>
+		<td>412</td>
+	</tr>
+	<tr>
+		<td>448</td>
 		<td>
 			<a target="_blank" href="https://github.com/leonsilicon">
-				<img src="https://private-avatars.githubusercontent.com/u/36966635?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3NjAsIm5iZiI6MTczNDMwNDU2MCwicGF0aCI6Ii91LzM2OTY2NjM1In0.j5hg4MfK1AOK69ic_LcrP3Mq6qwNA4n9RtNhN0lVcVk&s=72&u=2566db63ee8a9938d5b8dfb39ddd4b2691ecf43d&v=4" width="24" alt="Avatar of leonsilicon"/> leonsilicon
+				<img src="https://private-avatars.githubusercontent.com/u/36966635?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3NjAsIm5iZiI6MTczNDM0MDU2MCwicGF0aCI6Ii91LzM2OTY2NjM1In0.lPF9RufovdnjE-345V7tpST7TiyoJP83DFnqjodv-YA&s=72&u=2566db63ee8a9938d5b8dfb39ddd4b2691ecf43d&v=4" width="24" alt="Avatar of leonsilicon"/> leonsilicon
 			</a><br/>
 			Leon Si
 		</td>
@@ -6355,24 +6383,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>412</td>
 	</tr>
 	<tr>
-		<td>447</td>
-		<td>
-			<a target="_blank" href="https://github.com/tandasat">
-				<img src="https://private-avatars.githubusercontent.com/u/1620923?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1MjAsIm5iZiI6MTczNDMwNDMyMCwicGF0aCI6Ii91LzE2MjA5MjMifQ.7XUxl2ohVV3Zx9fZUUTvOWhpHqRRfx7FrduYAsti7ic&s=72&u=515f6d3996440a42b7caaa34e6d9214616d0cbd6&v=4" width="24" alt="Avatar of tandasat"/> tandasat
-			</a><br/>
-			Satoshi Tanda
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/standa_t">standa_t</a></td>
-		<td>Vancouver Canada</td>
-		<td>219</td>
-		<td>411</td>
-	</tr>
-	<tr>
-		<td>448</td>
+		<td>449</td>
 		<td>
 			<a target="_blank" href="https://github.com/ruyadorno">
-				<img src="https://private-avatars.githubusercontent.com/u/220900?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ4NjAsIm5iZiI6MTczNDMwMzY2MCwicGF0aCI6Ii91LzIyMDkwMCJ9.ELeEnpX-GK2ha4UliWCZp0vcXGau_s4HsZFlyKpT2t8&s=72&u=f0f6d93b66f6c4aa9f1dfd6dd0751c3b19df9d55&v=4" width="24" alt="Avatar of ruyadorno"/> ruyadorno
+				<img src="https://private-avatars.githubusercontent.com/u/220900?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3NjAsIm5iZiI6MTczNDM0MDU2MCwicGF0aCI6Ii91LzIyMDkwMCJ9.LX6GZuX-C-a-77NjIOVmx976FYBGmuBr9jxztkMPpFc&s=72&u=f0f6d93b66f6c4aa9f1dfd6dd0751c3b19df9d55&v=4" width="24" alt="Avatar of ruyadorno"/> ruyadorno
 			</a><br/>
 			Ruy Adorno
 		</td>
@@ -6383,24 +6397,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>411</td>
 	</tr>
 	<tr>
-		<td>449</td>
-		<td>
-			<a target="_blank" href="https://github.com/morgan3d">
-				<img src="https://private-avatars.githubusercontent.com/u/3970018?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyMjAsIm5iZiI6MTczNDMwNDAyMCwicGF0aCI6Ii91LzM5NzAwMTgifQ.Tgz5M-UkkAjmOaUEM6oWaN3BZyJkOT__p1QTK81efRw&s=72&u=c3958f6b6a8d089176f954d55639e4f78b709af6&v=4" width="24" alt="Avatar of morgan3d"/> morgan3d
-			</a><br/>
-			Morgan McGuire
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vancouver BC</td>
-		<td>169</td>
-		<td>409</td>
-	</tr>
-	<tr>
 		<td>450</td>
 		<td>
 			<a target="_blank" href="https://github.com/bioinformatics-ca">
-				<img src="https://private-avatars.githubusercontent.com/u/16926280?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1MjAsIm5iZiI6MTczNDMwNDMyMCwicGF0aCI6Ii91LzE2OTI2MjgwIn0.6m478mLntqU914VrT7gtqKG5Vy7oYk1P_7cZWsLSmAs&s=72&u=fa6fb589257c0e25ee7aa59728eed931e3a1a4ac&v=4" width="24" alt="Avatar of bioinformatics-ca"/> bioinformatics-ca
+				<img src="https://private-avatars.githubusercontent.com/u/16926280?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1MjAsIm5iZiI6MTczNDM0MDMyMCwicGF0aCI6Ii91LzE2OTI2MjgwIn0.6UaGlwHR0XhU0hrcRMggRIoKCzhxrbTxGp39xTRBRss&s=72&u=fa6fb589257c0e25ee7aa59728eed931e3a1a4ac&v=4" width="24" alt="Avatar of bioinformatics-ca"/> bioinformatics-ca
 			</a><br/>
 			Canadian Bioinformatics Workshops
 		</td>
@@ -6414,7 +6414,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>451</td>
 		<td>
 			<a target="_blank" href="https://github.com/Tabrizian">
-				<img src="https://private-avatars.githubusercontent.com/u/10105175?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUwNDAsIm5iZiI6MTczNDMwMzg0MCwicGF0aCI6Ii91LzEwMTA1MTc1In0.rk0bv5HLz587GxsqDneVaZAn8_7X8XIneVUC_nSs3d0&s=72&u=3cb42a9be15703d94b2580a409fff285636ad926&v=4" width="24" alt="Avatar of Tabrizian"/> Tabrizian
+				<img src="https://private-avatars.githubusercontent.com/u/10105175?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE5NDAsIm5iZiI6MTczNDM0MDc0MCwicGF0aCI6Ii91LzEwMTA1MTc1In0.X_KY0-QcvW72qgkhgdG7lHhDiHyuaLptiufACfKQnCc&s=72&u=3cb42a9be15703d94b2580a409fff285636ad926&v=4" width="24" alt="Avatar of Tabrizian"/> Tabrizian
 			</a><br/>
 			Iman Tabrizian
 		</td>
@@ -6422,13 +6422,13 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Toronto Canada</td>
 		<td>267</td>
-		<td>403</td>
+		<td>404</td>
 	</tr>
 	<tr>
 		<td>452</td>
 		<td>
 			<a target="_blank" href="https://github.com/julianlam">
-				<img src="https://private-avatars.githubusercontent.com/u/923011?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU5NDAsIm5iZiI6MTczNDMwNDc0MCwicGF0aCI6Ii91LzkyMzAxMSJ9.Vd0sYxRJLbskY1FX9Gb6oT8oans-1yc5nIHmzHX9q2M&s=72&u=8ed6b5f991cb100bfa44e5051419b6d4ba6b3be9&v=4" width="24" alt="Avatar of julianlam"/> julianlam
+				<img src="https://private-avatars.githubusercontent.com/u/923011?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE5NDAsIm5iZiI6MTczNDM0MDc0MCwicGF0aCI6Ii91LzkyMzAxMSJ9.YvXyaG2A6kSEgLCND322fsMAaFUkp-fbhGzaCGEnXAE&s=72&u=8ed6b5f991cb100bfa44e5051419b6d4ba6b3be9&v=4" width="24" alt="Avatar of julianlam"/> julianlam
 			</a><br/>
 			Julian Lam
 		</td>
@@ -6442,7 +6442,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>453</td>
 		<td>
 			<a target="_blank" href="https://github.com/oreHGA">
-				<img src="https://private-avatars.githubusercontent.com/u/13490968?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1MjAsIm5iZiI6MTczNDMwNDMyMCwicGF0aCI6Ii91LzEzNDkwOTY4In0.hnk5oaosec9F4cuFqy65GtQio-5hPZ5j-C19ibogai0&s=72&u=baf02f487cad9d70facdf9882a455a721e8da6d7&v=4" width="24" alt="Avatar of oreHGA"/> oreHGA
+				<img src="https://private-avatars.githubusercontent.com/u/13490968?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDI0MjAsIm5iZiI6MTczNDM0MTIyMCwicGF0aCI6Ii91LzEzNDkwOTY4In0.A_Vb02TBTrjAlUCcOKamdNYW1CFeMQatvJaTFT_dBr4&s=72&u=baf02f487cad9d70facdf9882a455a721e8da6d7&v=4" width="24" alt="Avatar of oreHGA"/> oreHGA
 			</a><br/>
 			Ore Ogundipe
 		</td>
@@ -6456,7 +6456,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>454</td>
 		<td>
 			<a target="_blank" href="https://github.com/sahuang">
-				<img src="https://private-avatars.githubusercontent.com/u/26035292?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3NjAsIm5iZiI6MTczNDMwNDU2MCwicGF0aCI6Ii91LzI2MDM1MjkyIn0.JHD4iFVEjrPI-1-IjwyTC2EmZHC3we06grf_8N4Ove4&s=72&u=0c7f771b343295bbee57335f5080d2625a5558d9&v=4" width="24" alt="Avatar of sahuang"/> sahuang
+				<img src="https://private-avatars.githubusercontent.com/u/26035292?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3NjAsIm5iZiI6MTczNDM0MDU2MCwicGF0aCI6Ii91LzI2MDM1MjkyIn0.F8_bbdMzUzfSOqG-BHw72n5HDeN79xYZVsTL_Fm5C_E&s=72&u=0c7f771b343295bbee57335f5080d2625a5558d9&v=4" width="24" alt="Avatar of sahuang"/> sahuang
 			</a><br/>
 			Xiaohai Xu
 		</td>
@@ -6470,7 +6470,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>455</td>
 		<td>
 			<a target="_blank" href="https://github.com/jpd002">
-				<img src="https://private-avatars.githubusercontent.com/u/6760433?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU2NDAsIm5iZiI6MTczNDMwNDQ0MCwicGF0aCI6Ii91LzY3NjA0MzMifQ.r2bgOuJxJ9eYM7jmhb8BnYzL-yrj1fEAdEuJTSN1vTw&s=72&v=4" width="24" alt="Avatar of jpd002"/> jpd002
+				<img src="https://private-avatars.githubusercontent.com/u/6760433?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE2NDAsIm5iZiI6MTczNDM0MDQ0MCwicGF0aCI6Ii91LzY3NjA0MzMifQ.phVk8jMqLVW7BF4yJNWwPctlZQbXzKq4g3oun-GSqUQ&s=72&v=4" width="24" alt="Avatar of jpd002"/> jpd002
 			</a><br/>
 			JeanPhilip Desjardins
 		</td>
@@ -6484,7 +6484,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>456</td>
 		<td>
 			<a target="_blank" href="https://github.com/joykare">
-				<img src="https://private-avatars.githubusercontent.com/u/19430074?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3MDAsIm5iZiI6MTczNDMwNDUwMCwicGF0aCI6Ii91LzE5NDMwMDc0In0.MQsO1uIe_UWg63BC84bqCh4nGR4ERIoUg2eMQg9ZSAc&s=72&u=50be08027b3fa9110aab0213eee721c2bedbfaf2&v=4" width="24" alt="Avatar of joykare"/> joykare
+				<img src="https://private-avatars.githubusercontent.com/u/19430074?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3MDAsIm5iZiI6MTczNDM0MDUwMCwicGF0aCI6Ii91LzE5NDMwMDc0In0.Lmv_XZK6zHQjJmpsKZnmbB7CZUal4DVkmNLU1oMhuH0&s=72&u=50be08027b3fa9110aab0213eee721c2bedbfaf2&v=4" width="24" alt="Avatar of joykare"/> joykare
 			</a><br/>
 			Joy Warugu
 		</td>
@@ -6498,7 +6498,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>457</td>
 		<td>
 			<a target="_blank" href="https://github.com/hiwebdev26">
-				<img src="https://private-avatars.githubusercontent.com/u/157229272?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyMjAsIm5iZiI6MTczNDMwNDAyMCwicGF0aCI6Ii91LzE1NzIyOTI3MiJ9.ot735OAesGyrRg8Pz0szteUxkzxYGwWjc_6vWCnxviQ&s=72&u=e775fe04fb9623ae4eb347396b969ae716049910&v=4" width="24" alt="Avatar of hiwebdev26"/> hiwebdev26
+				<img src="https://private-avatars.githubusercontent.com/u/157229272?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIxMjAsIm5iZiI6MTczNDM0MDkyMCwicGF0aCI6Ii91LzE1NzIyOTI3MiJ9.0qSzTDHZka6y8n_eW0xC7ak-CuQP5djO1mhOUxVczeo&s=72&u=e775fe04fb9623ae4eb347396b969ae716049910&v=4" width="24" alt="Avatar of hiwebdev26"/> hiwebdev26
 			</a><br/>
 			Dennis
 		</td>
@@ -6511,8 +6511,22 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 	<tr>
 		<td>458</td>
 		<td>
+			<a target="_blank" href="https://github.com/vipulasri">
+				<img src="https://private-avatars.githubusercontent.com/u/7822179?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEzNDAsIm5iZiI6MTczNDM0MDE0MCwicGF0aCI6Ii91Lzc4MjIxNzkifQ.sr4WP3o9KKc1JP_3jRa41VuQCPFMHlsuSxGQH8C4aCg&s=72&v=4" width="24" alt="Avatar of vipulasri"/> vipulasri
+			</a><br/>
+			Vipul Asri
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/vipul_asri">vipul_asri</a></td>
+		<td>Toronto Canada</td>
+		<td>32</td>
+		<td>384</td>
+	</tr>
+	<tr>
+		<td>459</td>
+		<td>
 			<a target="_blank" href="https://github.com/hrs">
-				<img src="https://private-avatars.githubusercontent.com/u/278853?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyODAsIm5iZiI6MTczNDMwNDA4MCwicGF0aCI6Ii91LzI3ODg1MyJ9.T_3DN7mLokquKmGKQ_JuM5v41Rtl1Ccj77i4uklvBJs&s=72&u=79ed9b2aec762955be173fcaccf8739f18f55c09&v=4" width="24" alt="Avatar of hrs"/> hrs
+				<img src="https://private-avatars.githubusercontent.com/u/278853?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyODAsIm5iZiI6MTczNDM0MDA4MCwicGF0aCI6Ii91LzI3ODg1MyJ9.4NfzCWJ5xnTiESPfTpgExXfI29_0OSuTLAZ9QWoogX8&s=72&u=79ed9b2aec762955be173fcaccf8739f18f55c09&v=4" width="24" alt="Avatar of hrs"/> hrs
 			</a><br/>
 			Robin Schwartz
 		</td>
@@ -6523,10 +6537,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>383</td>
 	</tr>
 	<tr>
-		<td>459</td>
+		<td>460</td>
 		<td>
 			<a target="_blank" href="https://github.com/dalenguyen">
-				<img src="https://private-avatars.githubusercontent.com/u/14116156?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDYwNjAsIm5iZiI6MTczNDMwNDg2MCwicGF0aCI6Ii91LzE0MTE2MTU2In0.X2ojlpOSnz1zoUv2ifqvyRhEIxGGx7yjNQFyFnag27M&s=72&u=f0d2e8b9da63f2f63fab4f17e65effa945a1b92a&v=4" width="24" alt="Avatar of dalenguyen"/> dalenguyen
+				<img src="https://private-avatars.githubusercontent.com/u/14116156?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIwNjAsIm5iZiI6MTczNDM0MDg2MCwicGF0aCI6Ii91LzE0MTE2MTU2In0.oygFFbWESRrObIoT8rjcKGtEPYn2cnI_jM1GLBUDSTU&s=72&u=f0d2e8b9da63f2f63fab4f17e65effa945a1b92a&v=4" width="24" alt="Avatar of dalenguyen"/> dalenguyen
 			</a><br/>
 			Dale Nguyen
 		</td>
@@ -6537,24 +6551,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>383</td>
 	</tr>
 	<tr>
-		<td>460</td>
-		<td>
-			<a target="_blank" href="https://github.com/vipulasri">
-				<img src="https://private-avatars.githubusercontent.com/u/7822179?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91Lzc4MjIxNzkifQ.aDXKXZFuHeyfsNvs7I5Vx7puHleG-T9ouTwcD7WDvg0&s=72&v=4" width="24" alt="Avatar of vipulasri"/> vipulasri
-			</a><br/>
-			Vipul Asri
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/vipul_asri">vipul_asri</a></td>
-		<td>Toronto Canada</td>
-		<td>32</td>
-		<td>381</td>
-	</tr>
-	<tr>
 		<td>461</td>
 		<td>
 			<a target="_blank" href="https://github.com/mszoek">
-				<img src="https://private-avatars.githubusercontent.com/u/60144291?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUwNDAsIm5iZiI6MTczNDMwMzg0MCwicGF0aCI6Ii91LzYwMTQ0MjkxIn0.n8EYTl4sT-tdqd54xDKXIA-cdC305A7OOZ04LoluaDo&s=72&u=1ca5db0935be69b2f31992aa6eda2841ab0bfd57&v=4" width="24" alt="Avatar of mszoek"/> mszoek
+				<img src="https://private-avatars.githubusercontent.com/u/60144291?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE5NDAsIm5iZiI6MTczNDM0MDc0MCwicGF0aCI6Ii91LzYwMTQ0MjkxIn0.n_SO0iRzL6I0jXPrvYCdFQuw-lPg79OjlXRYWsbjtnQ&s=72&u=1ca5db0935be69b2f31992aa6eda2841ab0bfd57&v=4" width="24" alt="Avatar of mszoek"/> mszoek
 			</a><br/>
 			Zo Knox
 		</td>
@@ -6568,7 +6568,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>462</td>
 		<td>
 			<a target="_blank" href="https://github.com/piyushsachdeva">
-				<img src="https://private-avatars.githubusercontent.com/u/40286378?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ5MjAsIm5iZiI6MTczNDMwMzcyMCwicGF0aCI6Ii91LzQwMjg2Mzc4In0.6vLUnGr36OET7GNZBuRkOruwCxJzsfOmlqR0NXEDBZI&s=72&u=de7ad294589a1034b7f99e0fef281eef1ae4e9a3&v=4" width="24" alt="Avatar of piyushsachdeva"/> piyushsachdeva
+				<img src="https://private-avatars.githubusercontent.com/u/40286378?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4MjAsIm5iZiI6MTczNDM0MDYyMCwicGF0aCI6Ii91LzQwMjg2Mzc4In0._BhTzfMHbBm2cmYdOYLOn_FS7YE0Ey1DQGdNp4Xarvo&s=72&u=de7ad294589a1034b7f99e0fef281eef1ae4e9a3&v=4" width="24" alt="Avatar of piyushsachdeva"/> piyushsachdeva
 			</a><br/>
 			piyush sachdeva
 		</td>
@@ -6582,7 +6582,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>463</td>
 		<td>
 			<a target="_blank" href="https://github.com/ElliotKillick">
-				<img src="https://private-avatars.githubusercontent.com/u/58203150?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1MjAsIm5iZiI6MTczNDMwNDMyMCwicGF0aCI6Ii91LzU4MjAzMTUwIn0.AcieTBrfxsT5NQ9RH3WAu4TtS_CRtQLOC3u0ScFwhIU&s=72&u=bb1d4cd7b92a1b4ce091a0dbe989a24cbfa5110d&v=4" width="24" alt="Avatar of ElliotKillick"/> ElliotKillick
+				<img src="https://private-avatars.githubusercontent.com/u/58203150?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1MjAsIm5iZiI6MTczNDM0MDMyMCwicGF0aCI6Ii91LzU4MjAzMTUwIn0.wio6wJd6JZi4_q28OOsyIdVYf4jtdOEBQOmyp63UT54&s=72&u=bb1d4cd7b92a1b4ce091a0dbe989a24cbfa5110d&v=4" width="24" alt="Avatar of ElliotKillick"/> ElliotKillick
 			</a><br/>
 			Elliot Killick
 		</td>
@@ -6596,7 +6596,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>464</td>
 		<td>
 			<a target="_blank" href="https://github.com/msantos">
-				<img src="https://private-avatars.githubusercontent.com/u/158059?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyODAsIm5iZiI6MTczNDMwNDA4MCwicGF0aCI6Ii91LzE1ODA1OSJ9.fE37RJBEQkHr6hnm4FKq9e7o6bi3ciik6sELBT8Fg_c&s=72&v=4" width="24" alt="Avatar of msantos"/> msantos
+				<img src="https://private-avatars.githubusercontent.com/u/158059?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIxODAsIm5iZiI6MTczNDM0MDk4MCwicGF0aCI6Ii91LzE1ODA1OSJ9.so_U8WPOf3CS2IY2VYBc2R0RKzPycr7hFUX6rjrf1Co&s=72&v=4" width="24" alt="Avatar of msantos"/> msantos
 			</a><br/>
 			Michael Santos
 		</td>
@@ -6610,7 +6610,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>465</td>
 		<td>
 			<a target="_blank" href="https://github.com/sshkhr">
-				<img src="https://private-avatars.githubusercontent.com/u/10473376?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1MjAsIm5iZiI6MTczNDMwNDMyMCwicGF0aCI6Ii91LzEwNDczMzc2In0.PYBTyTAZhzh09Xv8-hmsPOLeHL0Jft57TL38M3e651Q&s=72&u=227553ea55dfaabce49445a0e33fcbca96037618&v=4" width="24" alt="Avatar of sshkhr"/> sshkhr
+				<img src="https://private-avatars.githubusercontent.com/u/10473376?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDI0MjAsIm5iZiI6MTczNDM0MTIyMCwicGF0aCI6Ii91LzEwNDczMzc2In0.hBst1HPVQBG9XFC-Ue8r-11zM_acId1TAuyl50wEmKQ&s=72&u=227553ea55dfaabce49445a0e33fcbca96037618&v=4" width="24" alt="Avatar of sshkhr"/> sshkhr
 			</a><br/>
 			Shashank Shekhar
 		</td>
@@ -6624,7 +6624,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>466</td>
 		<td>
 			<a target="_blank" href="https://github.com/BlakeBrown">
-				<img src="https://private-avatars.githubusercontent.com/u/6283620?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1MjAsIm5iZiI6MTczNDMwNDMyMCwicGF0aCI6Ii91LzYyODM2MjAifQ.oyedlvjUi26HXLhk0aXVlK281q4t3FBI25fG8qWMNns&s=72&u=11d816666362b3f16481370630600f9e4e0581a8&v=4" width="24" alt="Avatar of BlakeBrown"/> BlakeBrown
+				<img src="https://private-avatars.githubusercontent.com/u/6283620?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1MjAsIm5iZiI6MTczNDM0MDMyMCwicGF0aCI6Ii91LzYyODM2MjAifQ.Bp3kiMONNF7he5y1gKDozxQ-W4mKTKy3PplmxtgwEd8&s=72&u=11d816666362b3f16481370630600f9e4e0581a8&v=4" width="24" alt="Avatar of BlakeBrown"/> BlakeBrown
 			</a><br/>
 			Blakelock Brown
 		</td>
@@ -6638,7 +6638,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>467</td>
 		<td>
 			<a target="_blank" href="https://github.com/mvfsillva">
-				<img src="https://private-avatars.githubusercontent.com/u/4579340?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU5NDAsIm5iZiI6MTczNDMwNDc0MCwicGF0aCI6Ii91LzQ1NzkzNDAifQ.T9nyEnkj0U31xkzRPfPlZwYxiIGQPqQJoo9XUBPY68I&s=72&u=76f9627f0b60fffcee6bbab2c7553341083cb077&v=4" width="24" alt="Avatar of mvfsillva"/> mvfsillva
+				<img src="https://private-avatars.githubusercontent.com/u/4579340?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE5NDAsIm5iZiI6MTczNDM0MDc0MCwicGF0aCI6Ii91LzQ1NzkzNDAifQ.ZpWdGh9tdrtHeJCGH76oK36xfewYnbsGthaRnEU3fUk&s=72&u=76f9627f0b60fffcee6bbab2c7553341083cb077&v=4" width="24" alt="Avatar of mvfsillva"/> mvfsillva
 			</a><br/>
 			Marcus
 		</td>
@@ -6651,8 +6651,22 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 	<tr>
 		<td>468</td>
 		<td>
+			<a target="_blank" href="https://github.com/chenyuntc">
+				<img src="https://private-avatars.githubusercontent.com/u/9301117?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0MDAsIm5iZiI6MTczNDM0MDIwMCwicGF0aCI6Ii91LzkzMDExMTcifQ.LpRq-85nVXu7SKT6M8NcIFO3Bgb26niB3rF7ngGm8Xs&s=72&u=97f9c9c33a1ff383a4370c55d02544e90ededcbb&v=4" width="24" alt="Avatar of chenyuntc"/> chenyuntc
+			</a><br/>
+			Yun Chen
+		</td>
+		<td>@uber @uberatg @uberresearch </td>
+		<td>No Twitter Username</td>
+		<td>Toronto Canada</td>
+		<td>32</td>
+		<td>367</td>
+	</tr>
+	<tr>
+		<td>469</td>
+		<td>
 			<a target="_blank" href="https://github.com/lazerwalker">
-				<img src="https://private-avatars.githubusercontent.com/u/821238?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0NjAsIm5iZiI6MTczNDMwNDI2MCwicGF0aCI6Ii91LzgyMTIzOCJ9.W5mud_eVSTM40eJBLSzfmGYc8PSniJnnKXknQ0TwBXk&s=72&u=5b20cabc860ffbbc31cb49ec0dfe10df0a7909e5&v=4" width="24" alt="Avatar of lazerwalker"/> lazerwalker
+				<img src="https://private-avatars.githubusercontent.com/u/821238?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0NjAsIm5iZiI6MTczNDM0MDI2MCwicGF0aCI6Ii91LzgyMTIzOCJ9.sQAs6XvKHwSMhYmZ0mrH1-qhqyGEoqsfAlPL-OgWLy4&s=72&u=5b20cabc860ffbbc31cb49ec0dfe10df0a7909e5&v=4" width="24" alt="Avatar of lazerwalker"/> lazerwalker
 			</a><br/>
 			Emilia
 		</td>
@@ -6663,10 +6677,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>366</td>
 	</tr>
 	<tr>
-		<td>469</td>
+		<td>470</td>
 		<td>
 			<a target="_blank" href="https://github.com/kallaway">
-				<img src="https://private-avatars.githubusercontent.com/u/8016212?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyMjAsIm5iZiI6MTczNDMwNDAyMCwicGF0aCI6Ii91LzgwMTYyMTIifQ.1mGhHd9W5GfihWYgQ50MgxWw42s42no8wn_IqAdFaEA&s=72&u=99fdfbf95fe4d68359030014e4bcc8c72ba71e9a&v=4" width="24" alt="Avatar of kallaway"/> kallaway
+				<img src="https://private-avatars.githubusercontent.com/u/8016212?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyMjAsIm5iZiI6MTczNDM0MDAyMCwicGF0aCI6Ii91LzgwMTYyMTIifQ.DwoBttM__yStTfM34K_VNF5p181r2yjWlYz4qHFnPeA&s=72&u=99fdfbf95fe4d68359030014e4bcc8c72ba71e9a&v=4" width="24" alt="Avatar of kallaway"/> kallaway
 			</a><br/>
 			Alex Kallaway
 		</td>
@@ -6677,10 +6691,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>363</td>
 	</tr>
 	<tr>
-		<td>470</td>
+		<td>471</td>
 		<td>
 			<a target="_blank" href="https://github.com/zackradisic">
-				<img src="https://private-avatars.githubusercontent.com/u/56137411?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1ODAsIm5iZiI6MTczNDMwNDM4MCwicGF0aCI6Ii91LzU2MTM3NDExIn0.z2ZoDFZUqyCW0UKWZvEPhD55YCjR7COkwsoJ8bEIbSE&s=72&u=4ca322137f7a11df8ae6547a0102aa20f7a1810b&v=4" width="24" alt="Avatar of zackradisic"/> zackradisic
+				<img src="https://private-avatars.githubusercontent.com/u/56137411?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1ODAsIm5iZiI6MTczNDM0MDM4MCwicGF0aCI6Ii91LzU2MTM3NDExIn0.A6wTLlUAptlSVLKudX03Ei41KFDgyyIAiDYhVJvoCUU&s=72&u=4ca322137f7a11df8ae6547a0102aa20f7a1810b&v=4" width="24" alt="Avatar of zackradisic"/> zackradisic
 			</a><br/>
 			Zack Radisic
 		</td>
@@ -6691,24 +6705,24 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>363</td>
 	</tr>
 	<tr>
-		<td>471</td>
+		<td>472</td>
 		<td>
-			<a target="_blank" href="https://github.com/chenyuntc">
-				<img src="https://private-avatars.githubusercontent.com/u/9301117?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0MDAsIm5iZiI6MTczNDMwNDIwMCwicGF0aCI6Ii91LzkzMDExMTcifQ.IVN15zTcQ0XocBVzzKHUKtd2z6ZNp2Ffo42xw1PVYfE&s=72&u=97f9c9c33a1ff383a4370c55d02544e90ededcbb&v=4" width="24" alt="Avatar of chenyuntc"/> chenyuntc
+			<a target="_blank" href="https://github.com/daattali">
+				<img src="https://private-avatars.githubusercontent.com/u/952340?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEwNDAsIm5iZiI6MTczNDMzOTg0MCwicGF0aCI6Ii91Lzk1MjM0MCJ9.mRnV9Y_yagMTQu9IT3X84XF04n9HIRqJ2ku1fhWNM3E&s=72&v=4" width="24" alt="Avatar of daattali"/> daattali
 			</a><br/>
-			Yun Chen
+			Dean Attali
 		</td>
-		<td>@uber @uberatg @uberresearch </td>
-		<td>No Twitter Username</td>
-		<td>Toronto Canada</td>
-		<td>30</td>
+		<td>Attalitech Ltd </td>
+		<td><a target="_blank" href="https://twitter.com/daattali">daattali</a></td>
+		<td>Toronto</td>
+		<td>186</td>
 		<td>362</td>
 	</tr>
 	<tr>
-		<td>472</td>
+		<td>473</td>
 		<td>
 			<a target="_blank" href="https://github.com/shayanb">
-				<img src="https://private-avatars.githubusercontent.com/u/309108?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4MjAsIm5iZiI6MTczNDMwNDYyMCwicGF0aCI6Ii91LzMwOTEwOCJ9._GKv1m7rVqaoSZitX7waLYhiHMtbaXe_1ISq2L5dwO0&s=72&u=f5f9a151f4cfd6031930eedef4a80a4bbd647cf0&v=4" width="24" alt="Avatar of shayanb"/> shayanb
+				<img src="https://private-avatars.githubusercontent.com/u/309108?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4MjAsIm5iZiI6MTczNDM0MDYyMCwicGF0aCI6Ii91LzMwOTEwOCJ9.eMsBP0dS2HZafQtXceJxlKZYIQA1Ay7oSPI1E13HmXc&s=72&u=f5f9a151f4cfd6031930eedef4a80a4bbd647cf0&v=4" width="24" alt="Avatar of shayanb"/> shayanb
 			</a><br/>
 			Shayan Eskandari
 		</td>
@@ -6719,24 +6733,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>362</td>
 	</tr>
 	<tr>
-		<td>473</td>
-		<td>
-			<a target="_blank" href="https://github.com/daattali">
-				<img src="https://private-avatars.githubusercontent.com/u/952340?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUwNDAsIm5iZiI6MTczNDMwMzg0MCwicGF0aCI6Ii91Lzk1MjM0MCJ9.dvGy_pdcXHsoYT3zPyEbY8a0KT9Gmipb8BZThkTRrTc&s=72&v=4" width="24" alt="Avatar of daattali"/> daattali
-			</a><br/>
-			Dean Attali
-		</td>
-		<td>Attalitech Ltd </td>
-		<td><a target="_blank" href="https://twitter.com/daattali">daattali</a></td>
-		<td>Toronto</td>
-		<td>185</td>
-		<td>361</td>
-	</tr>
-	<tr>
 		<td>474</td>
 		<td>
 			<a target="_blank" href="https://github.com/kennethormandy">
-				<img src="https://private-avatars.githubusercontent.com/u/1581276?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0NjAsIm5iZiI6MTczNDMwNDI2MCwicGF0aCI6Ii91LzE1ODEyNzYifQ.nAtMfgOAM2xlZLMQjzOldYHWdy-6alnNhztSgwDSjv4&s=72&u=8cb13b5b7940d7c0726a3c9ec7becbaf6d8d7e2b&v=4" width="24" alt="Avatar of kennethormandy"/> kennethormandy
+				<img src="https://private-avatars.githubusercontent.com/u/1581276?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0NjAsIm5iZiI6MTczNDM0MDI2MCwicGF0aCI6Ii91LzE1ODEyNzYifQ.HRXCwqV0oV8blsVQEUPXwXgCcdssMWwSYu3FjwYwTeQ&s=72&u=8cb13b5b7940d7c0726a3c9ec7becbaf6d8d7e2b&v=4" width="24" alt="Avatar of kennethormandy"/> kennethormandy
 			</a><br/>
 			Kenneth Ormandy
 		</td>
@@ -6749,8 +6749,22 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 	<tr>
 		<td>475</td>
 		<td>
+			<a target="_blank" href="https://github.com/awakecoding">
+				<img src="https://private-avatars.githubusercontent.com/u/295841?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIwNjAsIm5iZiI6MTczNDM0MDg2MCwicGF0aCI6Ii91LzI5NTg0MSJ9.v8ji3d7fU5MkccrBXEyvvQo35bwT0LgWTI-yP_rnZyA&s=72&u=ff04d8ec61a93c5d3122b77fcecbdbaf2e7d1b79&v=4" width="24" alt="Avatar of awakecoding"/> awakecoding
+			</a><br/>
+			MarcAndr Moreau
+		</td>
+		<td>Devolutions </td>
+		<td><a target="_blank" href="https://twitter.com/awakecoding">awakecoding</a></td>
+		<td>Lavaltrie Quebec Canada</td>
+		<td>358</td>
+		<td>358</td>
+	</tr>
+	<tr>
+		<td>476</td>
+		<td>
 			<a target="_blank" href="https://github.com/deminy">
-				<img src="https://private-avatars.githubusercontent.com/u/865547?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0MDAsIm5iZiI6MTczNDMwNDIwMCwicGF0aCI6Ii91Lzg2NTU0NyJ9._RJXC7zo2uV2MDbpdOOgcMQQPI7dN3MtjoYx5v5fqpQ&s=72&v=4" width="24" alt="Avatar of deminy"/> deminy
+				<img src="https://private-avatars.githubusercontent.com/u/865547?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIzMDAsIm5iZiI6MTczNDM0MTEwMCwicGF0aCI6Ii91Lzg2NTU0NyJ9.wXoZcm-dbAhsUwxycJ8xjhuQ86CFauAVi81K51fhokU&s=72&v=4" width="24" alt="Avatar of deminy"/> deminy
 			</a><br/>
 			Demin Yin
 		</td>
@@ -6761,10 +6775,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>358</td>
 	</tr>
 	<tr>
-		<td>476</td>
+		<td>477</td>
 		<td>
 			<a target="_blank" href="https://github.com/presstube">
-				<img src="https://private-avatars.githubusercontent.com/u/386408?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDYwMDAsIm5iZiI6MTczNDMwNDgwMCwicGF0aCI6Ii91LzM4NjQwOCJ9._GPbOPzF7BLi9-NFACnOfuTcnianRYYOs282DCxoSOY&s=72&u=0d1fa32175da7c4152c2b7ebadbc4439d139f638&v=4" width="24" alt="Avatar of presstube"/> presstube
+				<img src="https://private-avatars.githubusercontent.com/u/386408?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIwMDAsIm5iZiI6MTczNDM0MDgwMCwicGF0aCI6Ii91LzM4NjQwOCJ9.B_iNqlhFlYnUsz0ZHx8Johziz6sK6qr5zkcwbWfnloQ&s=72&u=0d1fa32175da7c4152c2b7ebadbc4439d139f638&v=4" width="24" alt="Avatar of presstube"/> presstube
 			</a><br/>
 			James Paterson
 		</td>
@@ -6775,10 +6789,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>358</td>
 	</tr>
 	<tr>
-		<td>477</td>
+		<td>478</td>
 		<td>
 			<a target="_blank" href="https://github.com/jgrandja">
-				<img src="https://private-avatars.githubusercontent.com/u/10884212?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1ODAsIm5iZiI6MTczNDMwNDM4MCwicGF0aCI6Ii91LzEwODg0MjEyIn0.M7Ima1-80ERPHxMIc5nIjB0K5O7Ms0JLAthKn3ctg28&s=72&u=78b9df2514c64ab33fe23a4054d0e3c4608436fd&v=4" width="24" alt="Avatar of jgrandja"/> jgrandja
+				<img src="https://private-avatars.githubusercontent.com/u/10884212?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1ODAsIm5iZiI6MTczNDM0MDM4MCwicGF0aCI6Ii91LzEwODg0MjEyIn0.zYdr42YfUfLNhkf6TlHkhrc_aTngBXvReclTBKXbw0U&s=72&u=78b9df2514c64ab33fe23a4054d0e3c4608436fd&v=4" width="24" alt="Avatar of jgrandja"/> jgrandja
 			</a><br/>
 			Joe Grandja
 		</td>
@@ -6789,24 +6803,24 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>357</td>
 	</tr>
 	<tr>
-		<td>478</td>
-		<td>
-			<a target="_blank" href="https://github.com/awakecoding">
-				<img src="https://private-avatars.githubusercontent.com/u/295841?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDYwNjAsIm5iZiI6MTczNDMwNDg2MCwicGF0aCI6Ii91LzI5NTg0MSJ9.6vfVFvONcp6qVA8oo1w8gHXMIxpItF-N9S2IKpgi7Vs&s=72&u=ff04d8ec61a93c5d3122b77fcecbdbaf2e7d1b79&v=4" width="24" alt="Avatar of awakecoding"/> awakecoding
-			</a><br/>
-			MarcAndr Moreau
-		</td>
-		<td>Devolutions </td>
-		<td><a target="_blank" href="https://twitter.com/awakecoding">awakecoding</a></td>
-		<td>Lavaltrie Quebec Canada</td>
-		<td>357</td>
-		<td>357</td>
-	</tr>
-	<tr>
 		<td>479</td>
 		<td>
+			<a target="_blank" href="https://github.com/oliveiralecca">
+				<img src="https://private-avatars.githubusercontent.com/u/65191407?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4ODAsIm5iZiI6MTczNDM0MDY4MCwicGF0aCI6Ii91LzY1MTkxNDA3In0.Vwjw4but8UVSbl5Tlag-KSze5dqkkJrGMcf6NssEEgI&s=72&u=bd530aa8ae7dff5402d918cf3b5558e5186ab712&v=4" width="24" alt="Avatar of oliveiralecca"/> oliveiralecca
+			</a><br/>
+			Letcia Oliveira
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Toronto ON Canada</td>
+		<td>263</td>
+		<td>354</td>
+	</tr>
+	<tr>
+		<td>480</td>
+		<td>
 			<a target="_blank" href="https://github.com/nfrechette">
-				<img src="https://private-avatars.githubusercontent.com/u/12077198?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDYwMDAsIm5iZiI6MTczNDMwNDgwMCwicGF0aCI6Ii91LzEyMDc3MTk4In0.rD8xIiGQeEzg91dnMWnIAvsCbM3pPEvQWOrMYf_eqRA&s=72&u=201de6f1558dd51074fe96e5603ee32c8c308153&v=4" width="24" alt="Avatar of nfrechette"/> nfrechette
+				<img src="https://private-avatars.githubusercontent.com/u/12077198?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIwMDAsIm5iZiI6MTczNDM0MDgwMCwicGF0aCI6Ii91LzEyMDc3MTk4In0.jH_DwoAzYf0oPVq6CBSLStZ52-90fo6WrASUdnvh-jU&s=72&u=201de6f1558dd51074fe96e5603ee32c8c308153&v=4" width="24" alt="Avatar of nfrechette"/> nfrechette
 			</a><br/>
 			Nicholas Frechette
 		</td>
@@ -6817,24 +6831,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>353</td>
 	</tr>
 	<tr>
-		<td>480</td>
-		<td>
-			<a target="_blank" href="https://github.com/oliveiralecca">
-				<img src="https://private-avatars.githubusercontent.com/u/65191407?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4ODAsIm5iZiI6MTczNDMwNDY4MCwicGF0aCI6Ii91LzY1MTkxNDA3In0.pvEfZFUyshL84T9NFRw3PAdVZoASU36zSmBtd68hWvw&s=72&u=bd530aa8ae7dff5402d918cf3b5558e5186ab712&v=4" width="24" alt="Avatar of oliveiralecca"/> oliveiralecca
-			</a><br/>
-			Letcia Oliveira
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Toronto ON Canada</td>
-		<td>263</td>
-		<td>353</td>
-	</tr>
-	<tr>
 		<td>481</td>
 		<td>
 			<a target="_blank" href="https://github.com/nicolashery">
-				<img src="https://private-avatars.githubusercontent.com/u/1306536?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDYwMDAsIm5iZiI6MTczNDMwNDgwMCwicGF0aCI6Ii91LzEzMDY1MzYifQ.j4JkFTq973VmxDGM_dIJySOfZSnMULga1ZUyputj7QQ&s=72&v=4" width="24" alt="Avatar of nicolashery"/> nicolashery
+				<img src="https://private-avatars.githubusercontent.com/u/1306536?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIwMDAsIm5iZiI6MTczNDM0MDgwMCwicGF0aCI6Ii91LzEzMDY1MzYifQ.glt8TSGaonu4XfxZnhs0-uvaqhRzsJcxnqH0lscIJg8&s=72&v=4" width="24" alt="Avatar of nicolashery"/> nicolashery
 			</a><br/>
 			Nicolas Hery
 		</td>
@@ -6848,7 +6848,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>482</td>
 		<td>
 			<a target="_blank" href="https://github.com/vsavkin">
-				<img src="https://private-avatars.githubusercontent.com/u/35996?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUwNDAsIm5iZiI6MTczNDMwMzg0MCwicGF0aCI6Ii91LzM1OTk2In0.gt-kMGREqcyr-23RW6GkT0uud3G7Fx6xbNhcAzAm1T8&s=72&u=98e18a3033c741b043d5547ae487937982425d52&v=4" width="24" alt="Avatar of vsavkin"/> vsavkin
+				<img src="https://private-avatars.githubusercontent.com/u/35996?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEwNDAsIm5iZiI6MTczNDMzOTg0MCwicGF0aCI6Ii91LzM1OTk2In0._6PVw6pXa_zgMTuA7FIgPSKhvUijuDf1Peiab8WFHmc&s=72&u=98e18a3033c741b043d5547ae487937982425d52&v=4" width="24" alt="Avatar of vsavkin"/> vsavkin
 			</a><br/>
 			Victor Savkin
 		</td>
@@ -6862,7 +6862,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>483</td>
 		<td>
 			<a target="_blank" href="https://github.com/pramsey">
-				<img src="https://private-avatars.githubusercontent.com/u/113883?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU2NDAsIm5iZiI6MTczNDMwNDQ0MCwicGF0aCI6Ii91LzExMzg4MyJ9.YaOKcLDs3Fxs4GoNurDLcqCerWieFwlAHE3ow8HEPto&s=72&u=e802bae3bb7a5b16e787477be9b4e1cdb6036245&v=4" width="24" alt="Avatar of pramsey"/> pramsey
+				<img src="https://private-avatars.githubusercontent.com/u/113883?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE2NDAsIm5iZiI6MTczNDM0MDQ0MCwicGF0aCI6Ii91LzExMzg4MyJ9.6713MMv2HAOb84GIw3jaQAWKw_lA322RYWVCRf-Emb0&s=72&u=e802bae3bb7a5b16e787477be9b4e1cdb6036245&v=4" width="24" alt="Avatar of pramsey"/> pramsey
 			</a><br/>
 			Paul Ramsey
 		</td>
@@ -6875,8 +6875,22 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 	<tr>
 		<td>484</td>
 		<td>
+			<a target="_blank" href="https://github.com/benui-dev">
+				<img src="https://private-avatars.githubusercontent.com/u/32515?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0NjAsIm5iZiI6MTczNDM0MDI2MCwicGF0aCI6Ii91LzMyNTE1In0.B30ltt4wik7FL1mc1RezWbgFmdB0vCx0u3Bnof5GOKs&s=72&u=762c22e60235b0e2aed681f4c649ee21478b8aae&v=4" width="24" alt="Avatar of benui-dev"/> benui-dev
+			</a><br/>
+			benui
+		</td>
+		<td>Epic Games </td>
+		<td>No Twitter Username</td>
+		<td>Canada</td>
+		<td>96</td>
+		<td>350</td>
+	</tr>
+	<tr>
+		<td>485</td>
+		<td>
 			<a target="_blank" href="https://github.com/emgucv">
-				<img src="https://private-avatars.githubusercontent.com/u/2035816?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUwNDAsIm5iZiI6MTczNDMwMzg0MCwicGF0aCI6Ii91LzIwMzU4MTYifQ.9qvjRmOSuJNrOvayVDNj1YVGTyXqYgGobe7v-QtfD2M&s=72&u=17518dab2d70e1d775c308ae4ab1447eec0a96fa&v=4" width="24" alt="Avatar of emgucv"/> emgucv
+				<img src="https://private-avatars.githubusercontent.com/u/2035816?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE5NDAsIm5iZiI6MTczNDM0MDc0MCwicGF0aCI6Ii91LzIwMzU4MTYifQ.a2gz30H3KKVNcjkhPs6f_gm9PgzslMbLPcLbKqHjOq4&s=72&u=17518dab2d70e1d775c308ae4ab1447eec0a96fa&v=4" width="24" alt="Avatar of emgucv"/> emgucv
 			</a><br/>
 			Emgu
 		</td>
@@ -6887,10 +6901,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>347</td>
 	</tr>
 	<tr>
-		<td>485</td>
+		<td>486</td>
 		<td>
 			<a target="_blank" href="https://github.com/hougaard">
-				<img src="https://private-avatars.githubusercontent.com/u/3357237?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0MDAsIm5iZiI6MTczNDMwNDIwMCwicGF0aCI6Ii91LzMzNTcyMzcifQ.fJJWMA1j7BJLvwmGDpHM3ZCAwnT72zFno9eoWV3Hj3M&s=72&u=2e0226df805044a4b691a8b9444d1bdbf412d88d&v=4" width="24" alt="Avatar of hougaard"/> hougaard
+				<img src="https://private-avatars.githubusercontent.com/u/3357237?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0MDAsIm5iZiI6MTczNDM0MDIwMCwicGF0aCI6Ii91LzMzNTcyMzcifQ.PgGv1eofl9X68EkH1us0l6XvGtnCL1n1ZAtt8YLH8_4&s=72&u=2e0226df805044a4b691a8b9444d1bdbf412d88d&v=4" width="24" alt="Avatar of hougaard"/> hougaard
 			</a><br/>
 			Erik Hougaard
 		</td>
@@ -6901,10 +6915,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>343</td>
 	</tr>
 	<tr>
-		<td>486</td>
+		<td>487</td>
 		<td>
 			<a target="_blank" href="https://github.com/Breakthrough">
-				<img src="https://private-avatars.githubusercontent.com/u/125316?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyODAsIm5iZiI6MTczNDMwNDA4MCwicGF0aCI6Ii91LzEyNTMxNiJ9.A_3Q3fQ7MnU7gMjdCVJ6ssTyR8KiSFqVgcNMi_GLy5M&s=72&u=298196adc73d02a78a3f12562bc807cef6558610&v=4" width="24" alt="Avatar of Breakthrough"/> Breakthrough
+				<img src="https://private-avatars.githubusercontent.com/u/125316?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyODAsIm5iZiI6MTczNDM0MDA4MCwicGF0aCI6Ii91LzEyNTMxNiJ9.ChYmeRxj-dfQHv7G8Tz_-lrfjESQWQXrI04ZRgKjegE&s=72&u=298196adc73d02a78a3f12562bc807cef6558610&v=4" width="24" alt="Avatar of Breakthrough"/> Breakthrough
 			</a><br/>
 			Brandon Castellano
 		</td>
@@ -6915,24 +6929,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>342</td>
 	</tr>
 	<tr>
-		<td>487</td>
-		<td>
-			<a target="_blank" href="https://github.com/benui-dev">
-				<img src="https://private-avatars.githubusercontent.com/u/32515?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0NjAsIm5iZiI6MTczNDMwNDI2MCwicGF0aCI6Ii91LzMyNTE1In0.dnuH01dYtG25Y30P9BOyLFL-x22Yf_N0NBk6IkR3vW4&s=72&u=762c22e60235b0e2aed681f4c649ee21478b8aae&v=4" width="24" alt="Avatar of benui-dev"/> benui-dev
-			</a><br/>
-			benui
-		</td>
-		<td>Epic Games </td>
-		<td>No Twitter Username</td>
-		<td>Canada</td>
-		<td>87</td>
-		<td>341</td>
-	</tr>
-	<tr>
 		<td>488</td>
 		<td>
 			<a target="_blank" href="https://github.com/dlitz">
-				<img src="https://private-avatars.githubusercontent.com/u/99377?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyMjAsIm5iZiI6MTczNDMwNDAyMCwicGF0aCI6Ii91Lzk5Mzc3In0.dN70hLpmrdoSVyY0OiilHlYNQIYa3RzFidiPenFVg_8&s=72&u=b5610d2f3b1ad8bef36583a91ec4480e51a08965&v=4" width="24" alt="Avatar of dlitz"/> dlitz
+				<img src="https://private-avatars.githubusercontent.com/u/99377?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyMjAsIm5iZiI6MTczNDM0MDAyMCwicGF0aCI6Ii91Lzk5Mzc3In0.62UdUHKL9TiIxuN8wMRWAJO90U43wqkGO-30cUEM5RI&s=72&u=b5610d2f3b1ad8bef36583a91ec4480e51a08965&v=4" width="24" alt="Avatar of dlitz"/> dlitz
 			</a><br/>
 			Darsey Litzenberger
 		</td>
@@ -6946,7 +6946,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>489</td>
 		<td>
 			<a target="_blank" href="https://github.com/iansu">
-				<img src="https://private-avatars.githubusercontent.com/u/433725?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0MDAsIm5iZiI6MTczNDMwNDIwMCwicGF0aCI6Ii91LzQzMzcyNSJ9.DKNzVzb0egbFiHmj64GIwN5AkLDEVSDyZedX3Wvpc7A&s=72&u=7e3bc90109dae2debbf59a2c822f3daca50f6aa7&v=4" width="24" alt="Avatar of iansu"/> iansu
+				<img src="https://private-avatars.githubusercontent.com/u/433725?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0MDAsIm5iZiI6MTczNDM0MDIwMCwicGF0aCI6Ii91LzQzMzcyNSJ9.6w6okKl5-z1wyWyVsbpwBJ9C8vhmLkjWFO495ogmkOE&s=72&u=7e3bc90109dae2debbf59a2c822f3daca50f6aa7&v=4" width="24" alt="Avatar of iansu"/> iansu
 			</a><br/>
 			Ian Sutherland
 		</td>
@@ -6960,7 +6960,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>490</td>
 		<td>
 			<a target="_blank" href="https://github.com/PhotonQuantum">
-				<img src="https://private-avatars.githubusercontent.com/u/18749973?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ4MDAsIm5iZiI6MTczNDMwMzYwMCwicGF0aCI6Ii91LzE4NzQ5OTczIn0.h30LcgTdlAa6ZmaWGv-2efBx3Ttap0ZgJfLfsJgadMQ&s=72&u=cfac2255e076aba633ddc4ef790c80b131dfdd59&v=4" width="24" alt="Avatar of PhotonQuantum"/> PhotonQuantum
+				<img src="https://private-avatars.githubusercontent.com/u/18749973?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3MDAsIm5iZiI6MTczNDM0MDUwMCwicGF0aCI6Ii91LzE4NzQ5OTczIn0.K_4muNpQzKzuNZPPecxS0GrqQgQEzcscjY5IaKR0epE&s=72&u=cfac2255e076aba633ddc4ef790c80b131dfdd59&v=4" width="24" alt="Avatar of PhotonQuantum"/> PhotonQuantum
 			</a><br/>
 			LightQuantum
 		</td>
@@ -6974,7 +6974,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>491</td>
 		<td>
 			<a target="_blank" href="https://github.com/TMRh20">
-				<img src="https://private-avatars.githubusercontent.com/u/2610460?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1ODAsIm5iZiI6MTczNDMwNDM4MCwicGF0aCI6Ii91LzI2MTA0NjAifQ.ehuG_TK-tk8c13qTfdJcZZ6DZqGtPfT7vNktdgG8K-k&s=72&v=4" width="24" alt="Avatar of TMRh20"/> TMRh20
+				<img src="https://private-avatars.githubusercontent.com/u/2610460?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1ODAsIm5iZiI6MTczNDM0MDM4MCwicGF0aCI6Ii91LzI2MTA0NjAifQ.v-Kvy7x22zKxXvsXzesVDxD-LXotLp0DFaetkJGpTvA&s=72&v=4" width="24" alt="Avatar of TMRh20"/> TMRh20
 			</a><br/>
 			TMRh20
 		</td>
@@ -6988,7 +6988,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>492</td>
 		<td>
 			<a target="_blank" href="https://github.com/barry-far">
-				<img src="https://private-avatars.githubusercontent.com/u/143993892?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1MjAsIm5iZiI6MTczNDMwNDMyMCwicGF0aCI6Ii91LzE0Mzk5Mzg5MiJ9.0rhyV34uHcAlhCYb7BlWuzC39NHsY9XgZMjLgb_UslU&s=72&u=ca3c39c843658828074cf4a9e9dc42394c85a636&v=4" width="24" alt="Avatar of barry-far"/> barry-far
+				<img src="https://private-avatars.githubusercontent.com/u/143993892?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1MjAsIm5iZiI6MTczNDM0MDMyMCwicGF0aCI6Ii91LzE0Mzk5Mzg5MiJ9.Em3Oo2qqGdMZWKnYoG4Bx05IDLiiZCSbigMjQawGabk&s=72&u=ca3c39c843658828074cf4a9e9dc42394c85a636&v=4" width="24" alt="Avatar of barry-far"/> barry-far
 			</a><br/>
 			bardiafa
 		</td>
@@ -7002,7 +7002,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>493</td>
 		<td>
 			<a target="_blank" href="https://github.com/JeffCarpenter">
-				<img src="https://private-avatars.githubusercontent.com/u/178424?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91LzE3ODQyNCJ9.2tr_lUD7hOrbJDifSG5b1Pa_QtikGXehACJjltOBMIo&s=72&u=0c3fbb1e428143614f230bcaa7dfabdd9207ca77&v=4" width="24" alt="Avatar of JeffCarpenter"/> JeffCarpenter
+				<img src="https://private-avatars.githubusercontent.com/u/178424?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEzNDAsIm5iZiI6MTczNDM0MDE0MCwicGF0aCI6Ii91LzE3ODQyNCJ9.2O1_KwKfyNqsqt5xrG-Zg3ugMhMEItzvP_7xrEjhgPw&s=72&u=0c3fbb1e428143614f230bcaa7dfabdd9207ca77&v=4" width="24" alt="Avatar of JeffCarpenter"/> JeffCarpenter
 			</a><br/>
 			Jeff Carpenter
 		</td>
@@ -7016,7 +7016,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>494</td>
 		<td>
 			<a target="_blank" href="https://github.com/brunoborges">
-				<img src="https://private-avatars.githubusercontent.com/u/129743?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0MDAsIm5iZiI6MTczNDMwNDIwMCwicGF0aCI6Ii91LzEyOTc0MyJ9.MopQ6H8P2co63TeKG0Q8rnPVWs7Ij-j2ef7tAN3PT9g&s=72&u=83b7aa2a3329e4ead5aced24fe5f833588c8e7b9&v=4" width="24" alt="Avatar of brunoborges"/> brunoborges
+				<img src="https://private-avatars.githubusercontent.com/u/129743?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0MDAsIm5iZiI6MTczNDM0MDIwMCwicGF0aCI6Ii91LzEyOTc0MyJ9.lDArbJ-eu7fX9CitLdOmeYmI6vZ_Pkjl6qbJB-niink&s=72&u=83b7aa2a3329e4ead5aced24fe5f833588c8e7b9&v=4" width="24" alt="Avatar of brunoborges"/> brunoborges
 			</a><br/>
 			Bruno Borges
 		</td>
@@ -7030,7 +7030,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>495</td>
 		<td>
 			<a target="_blank" href="https://github.com/djirdehh">
-				<img src="https://private-avatars.githubusercontent.com/u/12476938?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91LzEyNDc2OTM4In0.MrtWY60y4Y479kmt6ClQ-KXrGAnuiNypJazyY2qboVg&s=72&u=e809d00a0f73d747f668d6fd35292e702ced1654&v=4" width="24" alt="Avatar of djirdehh"/> djirdehh
+				<img src="https://private-avatars.githubusercontent.com/u/12476938?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEzNDAsIm5iZiI6MTczNDM0MDE0MCwicGF0aCI6Ii91LzEyNDc2OTM4In0.RkGz_nLvfEvOP9dgiojaBKhmiy1CsmKp5og6hhXOyEk&s=72&u=e809d00a0f73d747f668d6fd35292e702ced1654&v=4" width="24" alt="Avatar of djirdehh"/> djirdehh
 			</a><br/>
 			Hassan Djirdeh
 		</td>
@@ -7044,7 +7044,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>496</td>
 		<td>
 			<a target="_blank" href="https://github.com/tycrek">
-				<img src="https://private-avatars.githubusercontent.com/u/29926144?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDYwMDAsIm5iZiI6MTczNDMwNDgwMCwicGF0aCI6Ii91LzI5OTI2MTQ0In0.4s8llvy2VWtT6qzmrFVc_lsoweeAg9L82ER77oXtTp0&s=72&u=9d84e0c07dd2fc0077b0b61ec0dd657f37920f0c&v=4" width="24" alt="Avatar of tycrek"/> tycrek
+				<img src="https://private-avatars.githubusercontent.com/u/29926144?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIwMDAsIm5iZiI6MTczNDM0MDgwMCwicGF0aCI6Ii91LzI5OTI2MTQ0In0.xXQMtfysMRGX3x7_t53HgUNlF0jx2vkgjmO-zHjK7Z4&s=72&u=9d84e0c07dd2fc0077b0b61ec0dd657f37920f0c&v=4" width="24" alt="Avatar of tycrek"/> tycrek
 			</a><br/>
 			sylvie
 		</td>
@@ -7058,7 +7058,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>497</td>
 		<td>
 			<a target="_blank" href="https://github.com/pvh">
-				<img src="https://private-avatars.githubusercontent.com/u/2880?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91LzI4ODAifQ.jm0N2w1NS89_vSFhOrJEYctKmRTVNf64UzXB_hmHbzI&s=72&v=4" width="24" alt="Avatar of pvh"/> pvh
+				<img src="https://private-avatars.githubusercontent.com/u/2880?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEzNDAsIm5iZiI6MTczNDM0MDE0MCwicGF0aCI6Ii91LzI4ODAifQ.SaEmrKahQ7R9JyTx9sawKMHdWLSI49qwzZ96bdSQESU&s=72&v=4" width="24" alt="Avatar of pvh"/> pvh
 			</a><br/>
 			Peter van Hardenberg
 		</td>
@@ -7072,7 +7072,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>498</td>
 		<td>
 			<a target="_blank" href="https://github.com/darcyclarke">
-				<img src="https://private-avatars.githubusercontent.com/u/459713?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91LzQ1OTcxMyJ9.Lm3eHhisTe97cerJwGvGeNWKKD3YybCWrENtFWzfhTc&s=72&v=4" width="24" alt="Avatar of darcyclarke"/> darcyclarke
+				<img src="https://private-avatars.githubusercontent.com/u/459713?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEzNDAsIm5iZiI6MTczNDM0MDE0MCwicGF0aCI6Ii91LzQ1OTcxMyJ9.n6g5zTFsvugZSsEhiFouMHP8cHRvQVD0AvzKXNswudc&s=72&v=4" width="24" alt="Avatar of darcyclarke"/> darcyclarke
 			</a><br/>
 			Darcy Clarke
 		</td>
@@ -7086,7 +7086,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>499</td>
 		<td>
 			<a target="_blank" href="https://github.com/nneonneo">
-				<img src="https://private-avatars.githubusercontent.com/u/75449?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxNjAsIm5iZiI6MTczNDMwMzk2MCwicGF0aCI6Ii91Lzc1NDQ5In0.8JXMZR0cK5elBZqee9T0GkNdMhRwtZNWWzWQqi8GeRQ&s=72&v=4" width="24" alt="Avatar of nneonneo"/> nneonneo
+				<img src="https://private-avatars.githubusercontent.com/u/75449?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDExNjAsIm5iZiI6MTczNDMzOTk2MCwicGF0aCI6Ii91Lzc1NDQ5In0.rYYV6ySIUgta6iZGvEfsed9hdYtXMxxHK_RUiT5tCwA&s=72&v=4" width="24" alt="Avatar of nneonneo"/> nneonneo
 			</a><br/>
 			Robert Xiao
 		</td>
@@ -7100,7 +7100,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>500</td>
 		<td>
 			<a target="_blank" href="https://github.com/joedf">
-				<img src="https://private-avatars.githubusercontent.com/u/3848219?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1MjAsIm5iZiI6MTczNDMwNDMyMCwicGF0aCI6Ii91LzM4NDgyMTkifQ.gIaCJ4OK5Y-v4mNmofKUMw7LzJH04cf1ogfvf78J6HU&s=72&u=c1840ccd41109985e97db9a48273c995cd0b7afe&v=4" width="24" alt="Avatar of joedf"/> joedf
+				<img src="https://private-avatars.githubusercontent.com/u/3848219?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDI0MjAsIm5iZiI6MTczNDM0MTIyMCwicGF0aCI6Ii91LzM4NDgyMTkifQ.pxwyzNaf1PnXKtugLbA-vBPWEQViwZNo4MeMtR3YPJY&s=72&u=c1840ccd41109985e97db9a48273c995cd0b7afe&v=4" width="24" alt="Avatar of joedf"/> joedf
 			</a><br/>
 			Joe DF
 		</td>
@@ -7113,8 +7113,22 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 	<tr>
 		<td>501</td>
 		<td>
+			<a target="_blank" href="https://github.com/chaopeng">
+				<img src="https://private-avatars.githubusercontent.com/u/3053989?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIyNDAsIm5iZiI6MTczNDM0MTA0MCwicGF0aCI6Ii91LzMwNTM5ODkifQ.6b2SAkYT1iPqc9bYKCHwl7CIzhYYn566tbwSHnPjQzQ&s=72&v=4" width="24" alt="Avatar of chaopeng"/> chaopeng
+			</a><br/>
+			
+		</td>
+		<td>@google </td>
+		<td>No Twitter Username</td>
+		<td>Waterloo ON Canada</td>
+		<td>148</td>
+		<td>320</td>
+	</tr>
+	<tr>
+		<td>502</td>
+		<td>
 			<a target="_blank" href="https://github.com/xavieryao">
-				<img src="https://private-avatars.githubusercontent.com/u/2821051?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDYxMjAsIm5iZiI6MTczNDMwNDkyMCwicGF0aCI6Ii91LzI4MjEwNTEifQ.rIgWy55dcjOZ9p7pbPIlPHJjKoQweuhhN4HgrVS0vnY&s=72&u=be382294d1b234d9b2fce1a59b6b778c10f69ab5&v=4" width="24" alt="Avatar of xavieryao"/> xavieryao
+				<img src="https://private-avatars.githubusercontent.com/u/2821051?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIxMjAsIm5iZiI6MTczNDM0MDkyMCwicGF0aCI6Ii91LzI4MjEwNTEifQ.HLjWBrkR7ulb3GPhHvcZIWR1o2Hy9BM6OCbDkxNt2_8&s=72&u=be382294d1b234d9b2fce1a59b6b778c10f69ab5&v=4" width="24" alt="Avatar of xavieryao"/> xavieryao
 			</a><br/>
 			Peiran Yao
 		</td>
@@ -7125,10 +7139,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>320</td>
 	</tr>
 	<tr>
-		<td>502</td>
+		<td>503</td>
 		<td>
 			<a target="_blank" href="https://github.com/janetacarr">
-				<img src="https://private-avatars.githubusercontent.com/u/2969134?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4ODAsIm5iZiI6MTczNDMwNDY4MCwicGF0aCI6Ii91LzI5NjkxMzQifQ._iDmc_TXFwtJaYbYiLoNCLfaFlTK_GAMoNbQg4zcI7Q&s=72&u=2ccd5007d14777bb503c3309fc3d267d280ce495&v=4" width="24" alt="Avatar of janetacarr"/> janetacarr
+				<img src="https://private-avatars.githubusercontent.com/u/2969134?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4ODAsIm5iZiI6MTczNDM0MDY4MCwicGF0aCI6Ii91LzI5NjkxMzQifQ.LQP6IhK1u5A7cDkj_BiBLayPNj93MiZkfvRzqf7Ha00&s=72&u=2ccd5007d14777bb503c3309fc3d267d280ce495&v=4" width="24" alt="Avatar of janetacarr"/> janetacarr
 			</a><br/>
 			Janet A Carr
 		</td>
@@ -7139,24 +7153,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>318</td>
 	</tr>
 	<tr>
-		<td>503</td>
-		<td>
-			<a target="_blank" href="https://github.com/chaopeng">
-				<img src="https://private-avatars.githubusercontent.com/u/3053989?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91LzMwNTM5ODkifQ.Rf07BrpfVQRiPtuNeeCwrV1EvRLFU-bt7CK0ETvBYmw&s=72&v=4" width="24" alt="Avatar of chaopeng"/> chaopeng
-			</a><br/>
-			
-		</td>
-		<td>@google </td>
-		<td>No Twitter Username</td>
-		<td>Waterloo ON Canada</td>
-		<td>148</td>
-		<td>318</td>
-	</tr>
-	<tr>
 		<td>504</td>
 		<td>
 			<a target="_blank" href="https://github.com/Kulbear">
-				<img src="https://private-avatars.githubusercontent.com/u/14886380?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxNjAsIm5iZiI6MTczNDMwMzk2MCwicGF0aCI6Ii91LzE0ODg2MzgwIn0.i1rVFjg_7pvC7R0y8f17Iawi0-SfG_IxuFUaU3BlK0k&s=72&u=23bf14f136fe8309c2b8894053578f133feb2461&v=4" width="24" alt="Avatar of Kulbear"/> Kulbear
+				<img src="https://private-avatars.githubusercontent.com/u/14886380?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDExNjAsIm5iZiI6MTczNDMzOTk2MCwicGF0aCI6Ii91LzE0ODg2MzgwIn0.83O6VuLZDCi7G56uCBtudDqVipmA9rLZ5ZNsvurqRn0&s=72&u=23bf14f136fe8309c2b8894053578f133feb2461&v=4" width="24" alt="Avatar of Kulbear"/> Kulbear
 			</a><br/>
 			No Name
 		</td>
@@ -7170,7 +7170,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>505</td>
 		<td>
 			<a target="_blank" href="https://github.com/StewartLynch">
-				<img src="https://private-avatars.githubusercontent.com/u/2940924?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0MDAsIm5iZiI6MTczNDMwNDIwMCwicGF0aCI6Ii91LzI5NDA5MjQifQ.k1R1oZFnSgauJHhGmKJRvkB32cArO_Aouoc0kNKurzg&s=72&u=7e98ff3096cbf2ed9849361451727d8ec3b44792&v=4" width="24" alt="Avatar of StewartLynch"/> StewartLynch
+				<img src="https://private-avatars.githubusercontent.com/u/2940924?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0MDAsIm5iZiI6MTczNDM0MDIwMCwicGF0aCI6Ii91LzI5NDA5MjQifQ.cIk9gaRMt6I57WJUF_diY_Zz0BTDdJQjCb9XFHMaP78&s=72&u=7e98ff3096cbf2ed9849361451727d8ec3b44792&v=4" width="24" alt="Avatar of StewartLynch"/> StewartLynch
 			</a><br/>
 			Stewart Lynch
 		</td>
@@ -7184,7 +7184,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>506</td>
 		<td>
 			<a target="_blank" href="https://github.com/vasanthv">
-				<img src="https://private-avatars.githubusercontent.com/u/780907?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1MjAsIm5iZiI6MTczNDMwNDMyMCwicGF0aCI6Ii91Lzc4MDkwNyJ9.Q5F4k2vdASGWQbFj07mGNUUTngONQtGCwYtxmj9uKFc&s=72&u=b32e3b8fa6be31a6ca2f9107eb82705109253da4&v=4" width="24" alt="Avatar of vasanthv"/> vasanthv
+				<img src="https://private-avatars.githubusercontent.com/u/780907?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1MjAsIm5iZiI6MTczNDM0MDMyMCwicGF0aCI6Ii91Lzc4MDkwNyJ9.0zL8lCsasH0rtwPBrc-llNHLj-Zr1s98WjIwqWsCnV4&s=72&u=b32e3b8fa6be31a6ca2f9107eb82705109253da4&v=4" width="24" alt="Avatar of vasanthv"/> vasanthv
 			</a><br/>
 			vasanth
 		</td>
@@ -7198,7 +7198,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>507</td>
 		<td>
 			<a target="_blank" href="https://github.com/lstein">
-				<img src="https://private-avatars.githubusercontent.com/u/111189?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxNjAsIm5iZiI6MTczNDMwMzk2MCwicGF0aCI6Ii91LzExMTE4OSJ9.33aHvP0D9_FtteNmiEpGLLv2QRl9rjkKEFu6lSx0tZU&s=72&u=c384559d50bd97b11eb5640dc35b994fe6931d60&v=4" width="24" alt="Avatar of lstein"/> lstein
+				<img src="https://private-avatars.githubusercontent.com/u/111189?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDExNjAsIm5iZiI6MTczNDMzOTk2MCwicGF0aCI6Ii91LzExMTE4OSJ9.kiGfd0_1rMeBa4xF55lWXGI1vyLFBNJGaKxJiBpWexg&s=72&u=c384559d50bd97b11eb5640dc35b994fe6931d60&v=4" width="24" alt="Avatar of lstein"/> lstein
 			</a><br/>
 			Lincoln Stein
 		</td>
@@ -7212,7 +7212,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>508</td>
 		<td>
 			<a target="_blank" href="https://github.com/sachac">
-				<img src="https://private-avatars.githubusercontent.com/u/278418?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxMDAsIm5iZiI6MTczNDMwMzkwMCwicGF0aCI6Ii91LzI3ODQxOCJ9.FPb8n9AZFZDLy8T6dRd20V8MNvOlJpY1nxSuu57YKCQ&s=72&v=4" width="24" alt="Avatar of sachac"/> sachac
+				<img src="https://private-avatars.githubusercontent.com/u/278418?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDExMDAsIm5iZiI6MTczNDMzOTkwMCwicGF0aCI6Ii91LzI3ODQxOCJ9.I1p2vzm2yh9MgQ606amqW8tyW2012l2yL5g1Pi_n57k&s=72&v=4" width="24" alt="Avatar of sachac"/> sachac
 			</a><br/>
 			Sacha Chua
 		</td>
@@ -7226,7 +7226,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>509</td>
 		<td>
 			<a target="_blank" href="https://github.com/mystor">
-				<img src="https://private-avatars.githubusercontent.com/u/1261662?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0NjAsIm5iZiI6MTczNDMwNDI2MCwicGF0aCI6Ii91LzEyNjE2NjIifQ.zHrED-_KSsfgcID68gejSNHpXBhcPIncgKRClc1x4bU&s=72&u=7de731d9384a8f1e73b9508b5fc9455c9f2708d7&v=4" width="24" alt="Avatar of mystor"/> mystor
+				<img src="https://private-avatars.githubusercontent.com/u/1261662?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0NjAsIm5iZiI6MTczNDM0MDI2MCwicGF0aCI6Ii91LzEyNjE2NjIifQ.GuZGTPKLfO-U6v7hPh0EG8xim_e5Uit0o4zolDV6epc&s=72&u=7de731d9384a8f1e73b9508b5fc9455c9f2708d7&v=4" width="24" alt="Avatar of mystor"/> mystor
 			</a><br/>
 			Nika Layzell
 		</td>
@@ -7240,7 +7240,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>510</td>
 		<td>
 			<a target="_blank" href="https://github.com/NoelFB">
-				<img src="https://private-avatars.githubusercontent.com/u/269893?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1MjAsIm5iZiI6MTczNDMwNDMyMCwicGF0aCI6Ii91LzI2OTg5MyJ9.ZG9XOHp0e8-NZ5euHEcqIxPHLrmDJeO1LBlhZhgN6WU&s=72&u=8f1a2c7c9edf39dfe67c7fa8bf896179530c01d4&v=4" width="24" alt="Avatar of NoelFB"/> NoelFB
+				<img src="https://private-avatars.githubusercontent.com/u/269893?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1MjAsIm5iZiI6MTczNDM0MDMyMCwicGF0aCI6Ii91LzI2OTg5MyJ9.yDn8xd0ZtoCDZoYeH8KVG1Eh5mdrsDNvmU4TZuD_83o&s=72&u=8f1a2c7c9edf39dfe67c7fa8bf896179530c01d4&v=4" width="24" alt="Avatar of NoelFB"/> NoelFB
 			</a><br/>
 			Noel Berry
 		</td>
@@ -7254,7 +7254,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>511</td>
 		<td>
 			<a target="_blank" href="https://github.com/timbray">
-				<img src="https://private-avatars.githubusercontent.com/u/17555?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4ODAsIm5iZiI6MTczNDMwNDY4MCwicGF0aCI6Ii91LzE3NTU1In0.cV9IhYBNlYIclDH2irVWdCgLqN9qSfsBHm5K_MS_snE&s=72&v=4" width="24" alt="Avatar of timbray"/> timbray
+				<img src="https://private-avatars.githubusercontent.com/u/17555?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4ODAsIm5iZiI6MTczNDM0MDY4MCwicGF0aCI6Ii91LzE3NTU1In0.lxBISDrhmMjYrI69XKbiWbc2zRnpsjUyhJGkClmr2o4&s=72&v=4" width="24" alt="Avatar of timbray"/> timbray
 			</a><br/>
 			Tim Bray
 		</td>
@@ -7268,7 +7268,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>512</td>
 		<td>
 			<a target="_blank" href="https://github.com/dnephin">
-				<img src="https://private-avatars.githubusercontent.com/u/442180?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxNjAsIm5iZiI6MTczNDMwMzk2MCwicGF0aCI6Ii91LzQ0MjE4MCJ9.L4M59SOhpDHzy7-XX7JrhvP4tXPkooedg0pqH7MyVXI&s=72&u=35bb7def0b3b4497cb0b97c781dd1d0d293d7316&v=4" width="24" alt="Avatar of dnephin"/> dnephin
+				<img src="https://private-avatars.githubusercontent.com/u/442180?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDExNjAsIm5iZiI6MTczNDMzOTk2MCwicGF0aCI6Ii91LzQ0MjE4MCJ9.VjyFTFh-2s6apmlmmL9q3aVbeK-PH-CtrZwzbA1cWXk&s=72&u=35bb7def0b3b4497cb0b97c781dd1d0d293d7316&v=4" width="24" alt="Avatar of dnephin"/> dnephin
 			</a><br/>
 			Daniel Nephin
 		</td>
@@ -7282,7 +7282,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>513</td>
 		<td>
 			<a target="_blank" href="https://github.com/caronc">
-				<img src="https://private-avatars.githubusercontent.com/u/850374?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91Lzg1MDM3NCJ9.cSGbHBFGJKdDEkuelpAwbEanU1EBLaG1N_GwWYHJtTo&s=72&u=34fb1e493c2b27b73566f89c0db67ed7d3a5cf42&v=4" width="24" alt="Avatar of caronc"/> caronc
+				<img src="https://private-avatars.githubusercontent.com/u/850374?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIyNDAsIm5iZiI6MTczNDM0MTA0MCwicGF0aCI6Ii91Lzg1MDM3NCJ9.3YyotTMC1I8P1NkmK_1Ikf4KHtAZpcd-_FXS-jip0aQ&s=72&u=34fb1e493c2b27b73566f89c0db67ed7d3a5cf42&v=4" width="24" alt="Avatar of caronc"/> caronc
 			</a><br/>
 			Chris Caron
 		</td>
@@ -7296,7 +7296,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>514</td>
 		<td>
 			<a target="_blank" href="https://github.com/nschonni">
-				<img src="https://private-avatars.githubusercontent.com/u/1297909?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyODAsIm5iZiI6MTczNDMwNDA4MCwicGF0aCI6Ii91LzEyOTc5MDkifQ.9cAedbc1MsS_OdeAc5qYs4r6HpVK1Sqrw0EtoGhabrc&s=72&v=4" width="24" alt="Avatar of nschonni"/> nschonni
+				<img src="https://private-avatars.githubusercontent.com/u/1297909?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyODAsIm5iZiI6MTczNDM0MDA4MCwicGF0aCI6Ii91LzEyOTc5MDkifQ.YyTZ-CVD69NvXjxzQInvXW5xyVqFHqrKTRA76uRFT4c&s=72&v=4" width="24" alt="Avatar of nschonni"/> nschonni
 			</a><br/>
 			Nick Schonning
 		</td>
@@ -7310,7 +7310,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>515</td>
 		<td>
 			<a target="_blank" href="https://github.com/MylesBorins">
-				<img src="https://private-avatars.githubusercontent.com/u/498775?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ3NDAsIm5iZiI6MTczNDMwMzU0MCwicGF0aCI6Ii91LzQ5ODc3NSJ9.Gx0y5aVGMS28_zzJ9-gEt5MxDcyCpEO-GIyMWr5J-yo&s=72&v=4" width="24" alt="Avatar of MylesBorins"/> MylesBorins
+				<img src="https://private-avatars.githubusercontent.com/u/498775?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE2NDAsIm5iZiI6MTczNDM0MDQ0MCwicGF0aCI6Ii91LzQ5ODc3NSJ9.F2NhgsuYktTD8x7-zCaQJ42T2Nux8x_Tz8uIzmkxcKw&s=72&v=4" width="24" alt="Avatar of MylesBorins"/> MylesBorins
 			</a><br/>
 			Myles Borins
 		</td>
@@ -7324,7 +7324,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>516</td>
 		<td>
 			<a target="_blank" href="https://github.com/jamesagnew">
-				<img src="https://private-avatars.githubusercontent.com/u/3465117?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ4NjAsIm5iZiI6MTczNDMwMzY2MCwicGF0aCI6Ii91LzM0NjUxMTcifQ.svu9EUiwl7_guk7lrGK_7y7X_V0D2oWnXBXSzpsPNPw&s=72&u=e0764f4bf89c5ea416df81bbca45f9995bc89bf5&v=4" width="24" alt="Avatar of jamesagnew"/> jamesagnew
+				<img src="https://private-avatars.githubusercontent.com/u/3465117?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3NjAsIm5iZiI6MTczNDM0MDU2MCwicGF0aCI6Ii91LzM0NjUxMTcifQ.IaubilVH8urqE6zW8xQ0kEl4A6-QSPevRCWDTrMuBSU&s=72&u=e0764f4bf89c5ea416df81bbca45f9995bc89bf5&v=4" width="24" alt="Avatar of jamesagnew"/> jamesagnew
 			</a><br/>
 			James Agnew
 		</td>
@@ -7338,7 +7338,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>517</td>
 		<td>
 			<a target="_blank" href="https://github.com/AlexiaJM">
-				<img src="https://private-avatars.githubusercontent.com/u/18491553?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyODAsIm5iZiI6MTczNDMwNDA4MCwicGF0aCI6Ii91LzE4NDkxNTUzIn0.kaTzzIgG9BLt2XN-aC4jbJTFK5Gbd8rlapH9FAFWKcI&s=72&u=5bcb448f578373994419b53072afdf5cc6ea2229&v=4" width="24" alt="Avatar of AlexiaJM"/> AlexiaJM
+				<img src="https://private-avatars.githubusercontent.com/u/18491553?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyODAsIm5iZiI6MTczNDM0MDA4MCwicGF0aCI6Ii91LzE4NDkxNTUzIn0.7k7Ntxefp2FYd-nwQ4loi_41SpgCp0t4XYW4r1zVDPI&s=72&u=5bcb448f578373994419b53072afdf5cc6ea2229&v=4" width="24" alt="Avatar of AlexiaJM"/> AlexiaJM
 			</a><br/>
 			Alexia JolicoeurMartineau
 		</td>
@@ -7352,7 +7352,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>518</td>
 		<td>
 			<a target="_blank" href="https://github.com/jobovy">
-				<img src="https://private-avatars.githubusercontent.com/u/1044876?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1MjAsIm5iZiI6MTczNDMwNDMyMCwicGF0aCI6Ii91LzEwNDQ4NzYifQ.AtqqY29jzxsrSU3mbT_s3y2SfKfdWUb5FVz0Lpxv29o&s=72&u=235c13bf97b38e761e226366b0fcbb69f11bd40f&v=4" width="24" alt="Avatar of jobovy"/> jobovy
+				<img src="https://private-avatars.githubusercontent.com/u/1044876?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1MjAsIm5iZiI6MTczNDM0MDMyMCwicGF0aCI6Ii91LzEwNDQ4NzYifQ.prHetNYWGGNfWPu5H4eYZt89cTrj-j48pRdHjCFjQwA&s=72&u=235c13bf97b38e761e226366b0fcbb69f11bd40f&v=4" width="24" alt="Avatar of jobovy"/> jobovy
 			</a><br/>
 			Jo Bovy
 		</td>
@@ -7366,7 +7366,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>519</td>
 		<td>
 			<a target="_blank" href="https://github.com/mjangda">
-				<img src="https://private-avatars.githubusercontent.com/u/86105?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91Lzg2MTA1In0.JnEYKu2NBmU2prqYkQIKVX3Gg2rbcbu94djIX9nYKq4&s=72&v=4" width="24" alt="Avatar of mjangda"/> mjangda
+				<img src="https://private-avatars.githubusercontent.com/u/86105?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIyNDAsIm5iZiI6MTczNDM0MTA0MCwicGF0aCI6Ii91Lzg2MTA1In0.dTYc86G4i_Jlbhgj9mxERXoKJ8pJ9X3ypV5a9xNTQi0&s=72&v=4" width="24" alt="Avatar of mjangda"/> mjangda
 			</a><br/>
 			Mohammad Jangda
 		</td>
@@ -7380,7 +7380,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>520</td>
 		<td>
 			<a target="_blank" href="https://github.com/mstechly">
-				<img src="https://private-avatars.githubusercontent.com/u/7314136?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0MDAsIm5iZiI6MTczNDMwNDIwMCwicGF0aCI6Ii91LzczMTQxMzYifQ.eRygZ-HKfm8B9h5YyQvTZv-MzMVnQOQax9F-H4OSyrk&s=72&u=bae1943043b15c996738f0353706d8ebc32b42a6&v=4" width="24" alt="Avatar of mstechly"/> mstechly
+				<img src="https://private-avatars.githubusercontent.com/u/7314136?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIzMDAsIm5iZiI6MTczNDM0MTEwMCwicGF0aCI6Ii91LzczMTQxMzYifQ.jHCiHrIZhwKiBv8uEZmJfT70v8Nnl2x0Sn3IGObInF8&s=72&u=bae1943043b15c996738f0353706d8ebc32b42a6&v=4" width="24" alt="Avatar of mstechly"/> mstechly
 			</a><br/>
 			Micha Stchy
 		</td>
@@ -7394,7 +7394,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>521</td>
 		<td>
 			<a target="_blank" href="https://github.com/tsiliopoulos">
-				<img src="https://private-avatars.githubusercontent.com/u/2666268?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3MDAsIm5iZiI6MTczNDMwNDUwMCwicGF0aCI6Ii91LzI2NjYyNjgifQ.o0tVv61ch3NBWTa17M0NhqyzRMhjCiV-cjIWhK65PCY&s=72&v=4" width="24" alt="Avatar of tsiliopoulos"/> tsiliopoulos
+				<img src="https://private-avatars.githubusercontent.com/u/2666268?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3MDAsIm5iZiI6MTczNDM0MDUwMCwicGF0aCI6Ii91LzI2NjYyNjgifQ.KnwjHXLcYH7Ge03HCC2rNdbryXCEQmo5fnrkxOQtHck&s=72&v=4" width="24" alt="Avatar of tsiliopoulos"/> tsiliopoulos
 			</a><br/>
 			Tom Tsiliopoulos
 		</td>
@@ -7408,7 +7408,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>522</td>
 		<td>
 			<a target="_blank" href="https://github.com/anniebombanie">
-				<img src="https://private-avatars.githubusercontent.com/u/42328163?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ5MjAsIm5iZiI6MTczNDMwMzcyMCwicGF0aCI6Ii91LzQyMzI4MTYzIn0.Q4xnzfye0Lc7oMZRRplFCwPPBUP8IUkCpdAOlQgLgW4&s=72&u=f4cd582de4f28252332f7f521b395ea0f60184df&v=4" width="24" alt="Avatar of anniebombanie"/> anniebombanie
+				<img src="https://private-avatars.githubusercontent.com/u/42328163?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4MjAsIm5iZiI6MTczNDM0MDYyMCwicGF0aCI6Ii91LzQyMzI4MTYzIn0.hSD0lh-BboJYRaKxQSVIL3i6uxsaO6ZKj6_9r5NNThU&s=72&u=f4cd582de4f28252332f7f521b395ea0f60184df&v=4" width="24" alt="Avatar of anniebombanie"/> anniebombanie
 			</a><br/>
 			Annie
 		</td>
@@ -7422,7 +7422,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>523</td>
 		<td>
 			<a target="_blank" href="https://github.com/fmfn">
-				<img src="https://private-avatars.githubusercontent.com/u/7664252?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0MDAsIm5iZiI6MTczNDMwNDIwMCwicGF0aCI6Ii91Lzc2NjQyNTIifQ.n6pE3cEuPxZNpwM536SWje2zENT_3M1prp1soPkHSLk&s=72&v=4" width="24" alt="Avatar of fmfn"/> fmfn
+				<img src="https://private-avatars.githubusercontent.com/u/7664252?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0MDAsIm5iZiI6MTczNDM0MDIwMCwicGF0aCI6Ii91Lzc2NjQyNTIifQ.6V_PobNDwgUZ1QAnDKjTzveVCBlV7jU_haktLffyM5c&s=72&v=4" width="24" alt="Avatar of fmfn"/> fmfn
 			</a><br/>
 			fernando
 		</td>
@@ -7436,7 +7436,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>524</td>
 		<td>
 			<a target="_blank" href="https://github.com/jeromegn">
-				<img src="https://private-avatars.githubusercontent.com/u/43325?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91LzQzMzI1In0.r1QjCSG5-ciJUyb-I0Y-dgIHW_bCSMzf7V1Kd66O7qI&s=72&v=4" width="24" alt="Avatar of jeromegn"/> jeromegn
+				<img src="https://private-avatars.githubusercontent.com/u/43325?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEzNDAsIm5iZiI6MTczNDM0MDE0MCwicGF0aCI6Ii91LzQzMzI1In0.7sDRcITBJpYKOr_feqjiDg3vJtSkWC872NDRGn7218k&s=72&v=4" width="24" alt="Avatar of jeromegn"/> jeromegn
 			</a><br/>
 			Jerome GravelNiquet
 		</td>
@@ -7450,7 +7450,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>525</td>
 		<td>
 			<a target="_blank" href="https://github.com/Belval">
-				<img src="https://private-avatars.githubusercontent.com/u/5399488?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0NjAsIm5iZiI6MTczNDMwNDI2MCwicGF0aCI6Ii91LzUzOTk0ODgifQ.m1w5VxHhaOh8plFT_AimL6P9CbLBIrgDxKljzMeac7s&s=72&u=1c5e2f7ff8bbfe3b476f2c29108025fd619d744c&v=4" width="24" alt="Avatar of Belval"/> Belval
+				<img src="https://private-avatars.githubusercontent.com/u/5399488?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0NjAsIm5iZiI6MTczNDM0MDI2MCwicGF0aCI6Ii91LzUzOTk0ODgifQ.xIjhEfhzzlAahR7QD_ppq4GVgWT_4NzHyXwv79bX3gs&s=72&u=1c5e2f7ff8bbfe3b476f2c29108025fd619d744c&v=4" width="24" alt="Avatar of Belval"/> Belval
 			</a><br/>
 			Edouard Belval
 		</td>
@@ -7464,7 +7464,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>526</td>
 		<td>
 			<a target="_blank" href="https://github.com/GDColon">
-				<img src="https://private-avatars.githubusercontent.com/u/56617416?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ5MjAsIm5iZiI6MTczNDMwMzcyMCwicGF0aCI6Ii91LzU2NjE3NDE2In0.JS261k3o3L55QqKm8QJ-Vk_2KI__2N8KgDyyN0wxytg&s=72&u=63db0090d32ccbcbfa7737451c41ea070d8d9045&v=4" width="24" alt="Avatar of GDColon"/> GDColon
+				<img src="https://private-avatars.githubusercontent.com/u/56617416?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDA5MjAsIm5iZiI6MTczNDMzOTcyMCwicGF0aCI6Ii91LzU2NjE3NDE2In0.pFShPQ8mho_nb-xsDx9i7YQwZscIxJBgy42E6Q_kiyY&s=72&u=63db0090d32ccbcbfa7737451c41ea070d8d9045&v=4" width="24" alt="Avatar of GDColon"/> GDColon
 			</a><br/>
 			Colon
 		</td>
@@ -7478,7 +7478,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>527</td>
 		<td>
 			<a target="_blank" href="https://github.com/thomaslevesque">
-				<img src="https://private-avatars.githubusercontent.com/u/1864281?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyODAsIm5iZiI6MTczNDMwNDA4MCwicGF0aCI6Ii91LzE4NjQyODEifQ.4sbKBrob5_zJgJotFua46GGSU7X1tMmRwJsZBS0J19s&s=72&u=ecb8d841aa66955b994b2b15bf1de7218adc0f93&v=4" width="24" alt="Avatar of thomaslevesque"/> thomaslevesque
+				<img src="https://private-avatars.githubusercontent.com/u/1864281?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyODAsIm5iZiI6MTczNDM0MDA4MCwicGF0aCI6Ii91LzE4NjQyODEifQ.1bbQBrPLVeew3xR0OIVStcRnn32LsuevnrgnkyXMv94&s=72&u=ecb8d841aa66955b994b2b15bf1de7218adc0f93&v=4" width="24" alt="Avatar of thomaslevesque"/> thomaslevesque
 			</a><br/>
 			Thomas Levesque
 		</td>
@@ -7492,7 +7492,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>528</td>
 		<td>
 			<a target="_blank" href="https://github.com/djsutherland">
-				<img src="https://private-avatars.githubusercontent.com/u/36478?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91LzM2NDc4In0.e3o7_Ef6EdX1wirlgNQkLaI0smfZy0YlEcOtSyJcNcs&s=72&u=01c8fbc34e4d03537ce39ca8f45f790df9a47cc0&v=4" width="24" alt="Avatar of djsutherland"/> djsutherland
+				<img src="https://private-avatars.githubusercontent.com/u/36478?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIyNDAsIm5iZiI6MTczNDM0MTA0MCwicGF0aCI6Ii91LzM2NDc4In0.ym39_X9VDyewUOfe6PLp1PGXi9XFy9kvTuRUrm03f1w&s=72&u=01c8fbc34e4d03537ce39ca8f45f790df9a47cc0&v=4" width="24" alt="Avatar of djsutherland"/> djsutherland
 			</a><br/>
 			Danica J Sutherland
 		</td>
@@ -7506,7 +7506,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>529</td>
 		<td>
 			<a target="_blank" href="https://github.com/micahgodbolt">
-				<img src="https://private-avatars.githubusercontent.com/u/1434956?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU2NDAsIm5iZiI6MTczNDMwNDQ0MCwicGF0aCI6Ii91LzE0MzQ5NTYifQ.vP5QbkUnTpTFsiI-hy2kci--wH4EBYgBNCP58nzS5F8&s=72&u=8617b64eea5357582fa6d7043027833e7de22d3b&v=4" width="24" alt="Avatar of micahgodbolt"/> micahgodbolt
+				<img src="https://private-avatars.githubusercontent.com/u/1434956?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE2NDAsIm5iZiI6MTczNDM0MDQ0MCwicGF0aCI6Ii91LzE0MzQ5NTYifQ.mgO9KnWTxJChfL_H9X6D1XTjy5Y6oKmXTGfGmh1hX78&s=72&u=8617b64eea5357582fa6d7043027833e7de22d3b&v=4" width="24" alt="Avatar of micahgodbolt"/> micahgodbolt
 			</a><br/>
 			Micah Godbolt
 		</td>
@@ -7520,7 +7520,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>530</td>
 		<td>
 			<a target="_blank" href="https://github.com/yacineMTB">
-				<img src="https://private-avatars.githubusercontent.com/u/10282244?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxNjAsIm5iZiI6MTczNDMwMzk2MCwicGF0aCI6Ii91LzEwMjgyMjQ0In0.PFysjRPjUbPhhzCcHXm9XHek5J7f-FaK9Kfx20VvX3o&s=72&u=cb2f0adbcac7f7e15d3fad6e9cbc2dfc72d3663a&v=4" width="24" alt="Avatar of yacineMTB"/> yacineMTB
+				<img src="https://private-avatars.githubusercontent.com/u/10282244?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDExNjAsIm5iZiI6MTczNDMzOTk2MCwicGF0aCI6Ii91LzEwMjgyMjQ0In0.aSHUzaO7YGA-Dyi48COf8SHoMTwjfuxdZOxQ0odS-Ws&s=72&u=cb2f0adbcac7f7e15d3fad6e9cbc2dfc72d3663a&v=4" width="24" alt="Avatar of yacineMTB"/> yacineMTB
 			</a><br/>
 			yacine
 		</td>
@@ -7534,7 +7534,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>531</td>
 		<td>
 			<a target="_blank" href="https://github.com/xinychen">
-				<img src="https://private-avatars.githubusercontent.com/u/32950039?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyMjAsIm5iZiI6MTczNDMwNDAyMCwicGF0aCI6Ii91LzMyOTUwMDM5In0.3skx1QZUhPTEAEXVeqTXEO94Fa_dWKiTBpW6q53ytuc&s=72&u=0d80b14d08728a9f6eb316c0898707f5f7a44f3d&v=4" width="24" alt="Avatar of xinychen"/> xinychen
+				<img src="https://private-avatars.githubusercontent.com/u/32950039?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyMjAsIm5iZiI6MTczNDM0MDAyMCwicGF0aCI6Ii91LzMyOTUwMDM5In0.lyAOS9OOsUQ2kC7u2hPS1GLJ0dOV0bzPkr63JalRAyU&s=72&u=0d80b14d08728a9f6eb316c0898707f5f7a44f3d&v=4" width="24" alt="Avatar of xinychen"/> xinychen
 			</a><br/>
 			Xinyu Chen
 		</td>
@@ -7548,7 +7548,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>532</td>
 		<td>
 			<a target="_blank" href="https://github.com/benfred">
-				<img src="https://private-avatars.githubusercontent.com/u/69536?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1MjAsIm5iZiI6MTczNDMwNDMyMCwicGF0aCI6Ii91LzY5NTM2In0.fYSRxLX-s7pKXc9MdQKMsd8v36XPe21HfCOLcScULt4&s=72&u=8e3a4e3d5f7028a5424d4ad61bf1146afc58bfe8&v=4" width="24" alt="Avatar of benfred"/> benfred
+				<img src="https://private-avatars.githubusercontent.com/u/69536?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1MjAsIm5iZiI6MTczNDM0MDMyMCwicGF0aCI6Ii91LzY5NTM2In0.Mwf7dVVPx9FGvjGtzV3r8xuGsqjDRLZLq3SJNVMwFAw&s=72&u=8e3a4e3d5f7028a5424d4ad61bf1146afc58bfe8&v=4" width="24" alt="Avatar of benfred"/> benfred
 			</a><br/>
 			Ben Frederickson
 		</td>
@@ -7561,8 +7561,22 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 	<tr>
 		<td>533</td>
 		<td>
+			<a target="_blank" href="https://github.com/chesterbr">
+				<img src="https://private-avatars.githubusercontent.com/u/236297?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4MjAsIm5iZiI6MTczNDM0MDYyMCwicGF0aCI6Ii91LzIzNjI5NyJ9.WVIrDyh5RfbR0rahZRUQRQ0MCZOGcsrJcaEz2XtYRZk&s=72&v=4" width="24" alt="Avatar of chesterbr"/> chesterbr
+			</a><br/>
+			Carlos Duarte Do Nascimento Chester
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Toronto ON Canada</td>
+		<td>238</td>
+		<td>267</td>
+	</tr>
+	<tr>
+		<td>534</td>
+		<td>
 			<a target="_blank" href="https://github.com/Krasjet">
-				<img src="https://private-avatars.githubusercontent.com/u/5229241?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyMjAsIm5iZiI6MTczNDMwNDAyMCwicGF0aCI6Ii91LzUyMjkyNDEifQ.qU64KPTO_WCAuJjJ6CBaARiJoymXK7H68rMsjnLpmpk&s=72&u=5a8e5337ddd177647006e8fe0b565c2849483c21&v=4" width="24" alt="Avatar of Krasjet"/> Krasjet
+				<img src="https://private-avatars.githubusercontent.com/u/5229241?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyMjAsIm5iZiI6MTczNDM0MDAyMCwicGF0aCI6Ii91LzUyMjkyNDEifQ.EBr7w1MVgM3LCvYIVK0m2Wi9CS5cshzcjkrzbkkCBCk&s=72&u=5a8e5337ddd177647006e8fe0b565c2849483c21&v=4" width="24" alt="Avatar of Krasjet"/> Krasjet
 			</a><br/>
 			K
 		</td>
@@ -7573,10 +7587,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>266</td>
 	</tr>
 	<tr>
-		<td>534</td>
+		<td>535</td>
 		<td>
 			<a target="_blank" href="https://github.com/colinoflynn">
-				<img src="https://private-avatars.githubusercontent.com/u/6100154?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0NjAsIm5iZiI6MTczNDMwNDI2MCwicGF0aCI6Ii91LzYxMDAxNTQifQ.bAUobmtiprLz7wFYVXXRanh6lWntCVN98kmCc-LyJeQ&s=72&u=4ffb481cec89d5edea9d2f975a1db3e97d062802&v=4" width="24" alt="Avatar of colinoflynn"/> colinoflynn
+				<img src="https://private-avatars.githubusercontent.com/u/6100154?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0NjAsIm5iZiI6MTczNDM0MDI2MCwicGF0aCI6Ii91LzYxMDAxNTQifQ.CnQB24HFgpK2Z7tziz9EZJTS2o2_x-R3dyjuk6HWstQ&s=72&u=4ffb481cec89d5edea9d2f975a1db3e97d062802&v=4" width="24" alt="Avatar of colinoflynn"/> colinoflynn
 			</a><br/>
 			Colin OFlynn
 		</td>
@@ -7587,10 +7601,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>266</td>
 	</tr>
 	<tr>
-		<td>535</td>
+		<td>536</td>
 		<td>
 			<a target="_blank" href="https://github.com/larryshamalama">
-				<img src="https://private-avatars.githubusercontent.com/u/24764859?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1MjAsIm5iZiI6MTczNDMwNDMyMCwicGF0aCI6Ii91LzI0NzY0ODU5In0.d0yTnlVp62wxkYovFG4bneDO9TYaxwms5mN97bx5Htg&s=72&u=73e86496b3755244a5aa1d8e7e75ef7702eb6ff7&v=4" width="24" alt="Avatar of larryshamalama"/> larryshamalama
+				<img src="https://private-avatars.githubusercontent.com/u/24764859?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1MjAsIm5iZiI6MTczNDM0MDMyMCwicGF0aCI6Ii91LzI0NzY0ODU5In0.c1sNPBIQLBMfHkcETXxVlt0s1q86YVfzeAneuuJrNZ8&s=72&u=73e86496b3755244a5aa1d8e7e75ef7702eb6ff7&v=4" width="24" alt="Avatar of larryshamalama"/> larryshamalama
 			</a><br/>
 			No Name
 		</td>
@@ -7601,10 +7615,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>265</td>
 	</tr>
 	<tr>
-		<td>536</td>
+		<td>537</td>
 		<td>
 			<a target="_blank" href="https://github.com/kashike">
-				<img src="https://private-avatars.githubusercontent.com/u/5474071?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91LzU0NzQwNzEifQ.UzrqrGYAc_bgr-JLpO1iJOBLW7olDBLtZXi_U5Mj0-g&s=72&u=24d5d22745a8e0db3624d602b63b4f5112645f80&v=4" width="24" alt="Avatar of kashike"/> kashike
+				<img src="https://private-avatars.githubusercontent.com/u/5474071?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIyNDAsIm5iZiI6MTczNDM0MTA0MCwicGF0aCI6Ii91LzU0NzQwNzEifQ.JBmrV6oZ-CHEmmi_yV1_XKam8-FP4ganTaqTKtIuw1c&s=72&u=24d5d22745a8e0db3624d602b63b4f5112645f80&v=4" width="24" alt="Avatar of kashike"/> kashike
 			</a><br/>
 			Riley Park
 		</td>
@@ -7615,10 +7629,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>265</td>
 	</tr>
 	<tr>
-		<td>537</td>
+		<td>538</td>
 		<td>
 			<a target="_blank" href="https://github.com/chalu">
-				<img src="https://private-avatars.githubusercontent.com/u/276286?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3MDAsIm5iZiI6MTczNDMwNDUwMCwicGF0aCI6Ii91LzI3NjI4NiJ9.RRfJ3Wf9kP6dcy4Q0wUz_wlql61cHqLaVJMKEQaCkNU&s=72&u=9c90805a1dab702cb27098a46a59f1ab5fc4d73c&v=4" width="24" alt="Avatar of chalu"/> chalu
+				<img src="https://private-avatars.githubusercontent.com/u/276286?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3MDAsIm5iZiI6MTczNDM0MDUwMCwicGF0aCI6Ii91LzI3NjI4NiJ9.-G1U-s2NXRI-ACHE5s6JE58zk888EWnS0MbuJQ-JHiE&s=72&u=9c90805a1dab702cb27098a46a59f1ab5fc4d73c&v=4" width="24" alt="Avatar of chalu"/> chalu
 			</a><br/>
 			Charles Opute Odili
 		</td>
@@ -7629,10 +7643,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>263</td>
 	</tr>
 	<tr>
-		<td>538</td>
+		<td>539</td>
 		<td>
 			<a target="_blank" href="https://github.com/adryd325">
-				<img src="https://private-avatars.githubusercontent.com/u/48024900?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyODAsIm5iZiI6MTczNDMwNDA4MCwicGF0aCI6Ii91LzQ4MDI0OTAwIn0.p2bNA329h2abieSjzy1efqqhy_H_Qm8Dgu74P90vdjo&s=72&u=221a24ef744a536e29d532d70d0d0801ed4c6f91&v=4" width="24" alt="Avatar of adryd325"/> adryd325
+				<img src="https://private-avatars.githubusercontent.com/u/48024900?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIxODAsIm5iZiI6MTczNDM0MDk4MCwicGF0aCI6Ii91LzQ4MDI0OTAwIn0.VZewvKG-buskwjLWrP5A1fM8NmzlELlZg3QcjNl33PA&s=72&u=221a24ef744a536e29d532d70d0d0801ed4c6f91&v=4" width="24" alt="Avatar of adryd325"/> adryd325
 			</a><br/>
 			adryd
 		</td>
@@ -7643,10 +7657,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>262</td>
 	</tr>
 	<tr>
-		<td>539</td>
+		<td>540</td>
 		<td>
 			<a target="_blank" href="https://github.com/mravanelli">
-				<img src="https://private-avatars.githubusercontent.com/u/16886998?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0NjAsIm5iZiI6MTczNDMwNDI2MCwicGF0aCI6Ii91LzE2ODg2OTk4In0.NCcE9fwEMt4tEQLP40CtB7XW4j0frmI7i63tW57Nq30&s=72&u=7da7303eb1fc1582c1ed51fba5fcc9e3e6115e3c&v=4" width="24" alt="Avatar of mravanelli"/> mravanelli
+				<img src="https://private-avatars.githubusercontent.com/u/16886998?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0NjAsIm5iZiI6MTczNDM0MDI2MCwicGF0aCI6Ii91LzE2ODg2OTk4In0.ZWZnH6sv3nYumQ30RIoMpIKVZAHoxoVyIbDSbeP_L5g&s=72&u=7da7303eb1fc1582c1ed51fba5fcc9e3e6115e3c&v=4" width="24" alt="Avatar of mravanelli"/> mravanelli
 			</a><br/>
 			Mirco Ravanelli
 		</td>
@@ -7657,10 +7671,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>261</td>
 	</tr>
 	<tr>
-		<td>540</td>
+		<td>541</td>
 		<td>
 			<a target="_blank" href="https://github.com/kanawish">
-				<img src="https://private-avatars.githubusercontent.com/u/1449618?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3NjAsIm5iZiI6MTczNDMwNDU2MCwicGF0aCI6Ii91LzE0NDk2MTgifQ.oOc29oMdacVFyiRdEjjzb0dKyiUu7X45tXE04H1AhVo&s=72&v=4" width="24" alt="Avatar of kanawish"/> kanawish
+				<img src="https://private-avatars.githubusercontent.com/u/1449618?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3NjAsIm5iZiI6MTczNDM0MDU2MCwicGF0aCI6Ii91LzE0NDk2MTgifQ.liMsLXffx2JoNRzbCsw7BrE0G0HtyqOI528Z0_hpbDU&s=72&v=4" width="24" alt="Avatar of kanawish"/> kanawish
 			</a><br/>
 			Etienne Caron
 		</td>
@@ -7671,10 +7685,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>260</td>
 	</tr>
 	<tr>
-		<td>541</td>
+		<td>542</td>
 		<td>
 			<a target="_blank" href="https://github.com/brianleroux">
-				<img src="https://private-avatars.githubusercontent.com/u/990?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyMjAsIm5iZiI6MTczNDMwNDAyMCwicGF0aCI6Ii91Lzk5MCJ9.qLZMYekwSh8U2yEEktcTI-klGb4lV1ySk6W0q6oGs3U&s=72&v=4" width="24" alt="Avatar of brianleroux"/> brianleroux
+				<img src="https://private-avatars.githubusercontent.com/u/990?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyMjAsIm5iZiI6MTczNDM0MDAyMCwicGF0aCI6Ii91Lzk5MCJ9.kiqARlJqPewKhy4JkO4Z30dmz1x0_h26_Lsea-HPg-w&s=72&v=4" width="24" alt="Avatar of brianleroux"/> brianleroux
 			</a><br/>
 			Brian LeRoux
 		</td>
@@ -7685,10 +7699,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>259</td>
 	</tr>
 	<tr>
-		<td>542</td>
+		<td>543</td>
 		<td>
 			<a target="_blank" href="https://github.com/bruce">
-				<img src="https://private-avatars.githubusercontent.com/u/72?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91LzcyIn0.WOfz_0HrxJb425uja2DkSGYP5C_qrFTSfS2YN5yFgp8&s=72&u=947b0b113a0ce95efec9f380e8237a939b72f698&v=4" width="24" alt="Avatar of bruce"/> bruce
+				<img src="https://private-avatars.githubusercontent.com/u/72?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEzNDAsIm5iZiI6MTczNDM0MDE0MCwicGF0aCI6Ii91LzcyIn0.TNwciVzqwWGXOFW_jhA-P7KTOHHmGWpzGcL46SmDNwI&s=72&u=947b0b113a0ce95efec9f380e8237a939b72f698&v=4" width="24" alt="Avatar of bruce"/> bruce
 			</a><br/>
 			Bruce Williams
 		</td>
@@ -7699,10 +7713,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>259</td>
 	</tr>
 	<tr>
-		<td>543</td>
+		<td>544</td>
 		<td>
 			<a target="_blank" href="https://github.com/tristanhimmelman">
-				<img src="https://private-avatars.githubusercontent.com/u/1562134?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUwNDAsIm5iZiI6MTczNDMwMzg0MCwicGF0aCI6Ii91LzE1NjIxMzQifQ.UX4TeA0I4tDfp9CWuVLSa-MCYLwqSqxxgxtT8XT5Bl0&s=72&u=21762fc979fb50bed3a5f3bc80ea512cc77a9eed&v=4" width="24" alt="Avatar of tristanhimmelman"/> tristanhimmelman
+				<img src="https://private-avatars.githubusercontent.com/u/1562134?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE5NDAsIm5iZiI6MTczNDM0MDc0MCwicGF0aCI6Ii91LzE1NjIxMzQifQ.qXctFJN5xvupUsXNksLg27dQHqzdkp8XZsSVI5Mg6_4&s=72&u=21762fc979fb50bed3a5f3bc80ea512cc77a9eed&v=4" width="24" alt="Avatar of tristanhimmelman"/> tristanhimmelman
 			</a><br/>
 			Tristan Himmelman
 		</td>
@@ -7713,24 +7727,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>258</td>
 	</tr>
 	<tr>
-		<td>544</td>
-		<td>
-			<a target="_blank" href="https://github.com/chesterbr">
-				<img src="https://private-avatars.githubusercontent.com/u/236297?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4MjAsIm5iZiI6MTczNDMwNDYyMCwicGF0aCI6Ii91LzIzNjI5NyJ9.u5zocOXOd9lEjOpOR4sXSmJwtQSuCUXr9B6Vfr8XcuM&s=72&v=4" width="24" alt="Avatar of chesterbr"/> chesterbr
-			</a><br/>
-			Carlos Duarte Do Nascimento Chester
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Toronto ON Canada</td>
-		<td>238</td>
-		<td>251</td>
-	</tr>
-	<tr>
 		<td>545</td>
 		<td>
 			<a target="_blank" href="https://github.com/benlangmuir">
-				<img src="https://private-avatars.githubusercontent.com/u/3412956?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUwNDAsIm5iZiI6MTczNDMwMzg0MCwicGF0aCI6Ii91LzM0MTI5NTYifQ.ijtkCZOvUtcF6-7bWR9iqcd13nKI23h9yGpUPKCv1ek&s=72&v=4" width="24" alt="Avatar of benlangmuir"/> benlangmuir
+				<img src="https://private-avatars.githubusercontent.com/u/3412956?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE5NDAsIm5iZiI6MTczNDM0MDc0MCwicGF0aCI6Ii91LzM0MTI5NTYifQ.ctDiY6QXD3kN8-6gIGtO8lXQ7ymoXFAJNU3jxRlwbH4&s=72&v=4" width="24" alt="Avatar of benlangmuir"/> benlangmuir
 			</a><br/>
 			Ben Langmuir
 		</td>
@@ -7744,7 +7744,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>546</td>
 		<td>
 			<a target="_blank" href="https://github.com/carsonfarmer">
-				<img src="https://private-avatars.githubusercontent.com/u/1220613?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4ODAsIm5iZiI6MTczNDMwNDY4MCwicGF0aCI6Ii91LzEyMjA2MTMifQ.etc8_MFFxeVzE-_2GyNhHeBz_MqvZmu7g33yEUpFqQ8&s=72&u=f4e34fd859373ac0e26748fe8535ea9a2943110a&v=4" width="24" alt="Avatar of carsonfarmer"/> carsonfarmer
+				<img src="https://private-avatars.githubusercontent.com/u/1220613?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4ODAsIm5iZiI6MTczNDM0MDY4MCwicGF0aCI6Ii91LzEyMjA2MTMifQ.LSAoaRZbydBAy7FK2OLJxq0mJG4CpEtymlY28WKY_0s&s=72&u=f4e34fd859373ac0e26748fe8535ea9a2943110a&v=4" width="24" alt="Avatar of carsonfarmer"/> carsonfarmer
 			</a><br/>
 			cjqf
 		</td>
@@ -7758,7 +7758,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>547</td>
 		<td>
 			<a target="_blank" href="https://github.com/marclaporte">
-				<img src="https://private-avatars.githubusercontent.com/u/1004261?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ5MjAsIm5iZiI6MTczNDMwMzcyMCwicGF0aCI6Ii91LzEwMDQyNjEifQ.1glNQUzWke8FH1JnOFbAjN4P3v9O2Eb0-ZXxUm29ZWs&s=72&v=4" width="24" alt="Avatar of marclaporte"/> marclaporte
+				<img src="https://private-avatars.githubusercontent.com/u/1004261?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4MjAsIm5iZiI6MTczNDM0MDYyMCwicGF0aCI6Ii91LzEwMDQyNjEifQ.r2yTZqrgHtJZ2BPnYq_euN6MWJGKKdHvOCzSlzq3lkU&s=72&v=4" width="24" alt="Avatar of marclaporte"/> marclaporte
 			</a><br/>
 			Marc Laporte
 		</td>
@@ -7772,7 +7772,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>548</td>
 		<td>
 			<a target="_blank" href="https://github.com/alecjacobson">
-				<img src="https://private-avatars.githubusercontent.com/u/2241689?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ5ODAsIm5iZiI6MTczNDMwMzc4MCwicGF0aCI6Ii91LzIyNDE2ODkifQ.oirMcr2Q2bLYOTzjCj3O49AmF_Peewc3YIIs9Iv64yQ&s=72&v=4" width="24" alt="Avatar of alecjacobson"/> alecjacobson
+				<img src="https://private-avatars.githubusercontent.com/u/2241689?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDA5ODAsIm5iZiI6MTczNDMzOTc4MCwicGF0aCI6Ii91LzIyNDE2ODkifQ.pCRpAmODKa4B_aSsnwA4XgtiiL4Mb_byYMdeTk9UvEY&s=72&v=4" width="24" alt="Avatar of alecjacobson"/> alecjacobson
 			</a><br/>
 			Alec Jacobson
 		</td>
@@ -7785,8 +7785,22 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 	<tr>
 		<td>549</td>
 		<td>
+			<a target="_blank" href="https://github.com/benkeen">
+				<img src="https://private-avatars.githubusercontent.com/u/512116?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3MDAsIm5iZiI6MTczNDM0MDUwMCwicGF0aCI6Ii91LzUxMjExNiJ9.Dx1epdB1hM7elhfD0uRiaF1rxEzJ1ksQvMCMg7A746o&s=72&u=418e45ddff94b230012d214fa134d56236805edd&v=4" width="24" alt="Avatar of benkeen"/> benkeen
+			</a><br/>
+			Ben Keen
+		</td>
+		<td>Microsoft </td>
+		<td>No Twitter Username</td>
+		<td>Vancouver BC</td>
+		<td>180</td>
+		<td>235</td>
+	</tr>
+	<tr>
+		<td>550</td>
+		<td>
 			<a target="_blank" href="https://github.com/devinpleuler">
-				<img src="https://private-avatars.githubusercontent.com/u/6856153?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3MDAsIm5iZiI6MTczNDMwNDUwMCwicGF0aCI6Ii91LzY4NTYxNTMifQ.lkYrLUmvUnWZRjaGJfYNyOhqTR7ZdFV3jlxdcVUbLTc&s=72&u=433ff1eed69550b08597aef2b0e6351c7390b145&v=4" width="24" alt="Avatar of devinpleuler"/> devinpleuler
+				<img src="https://private-avatars.githubusercontent.com/u/6856153?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3MDAsIm5iZiI6MTczNDM0MDUwMCwicGF0aCI6Ii91LzY4NTYxNTMifQ.Wktb2mijVZpRUnTrq73Kng-31YhESfXKXQYWsRJ0ftM&s=72&u=433ff1eed69550b08597aef2b0e6351c7390b145&v=4" width="24" alt="Avatar of devinpleuler"/> devinpleuler
 			</a><br/>
 			Devin Pleuler
 		</td>
@@ -7797,10 +7811,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>233</td>
 	</tr>
 	<tr>
-		<td>550</td>
+		<td>551</td>
 		<td>
 			<a target="_blank" href="https://github.com/dgryski">
-				<img src="https://private-avatars.githubusercontent.com/u/970862?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxNjAsIm5iZiI6MTczNDMwMzk2MCwicGF0aCI6Ii91Lzk3MDg2MiJ9.kBZdTDU-RGTUlYbSZgcpip7wjRtjIqZs7rUKSgJ9v5I&s=72&v=4" width="24" alt="Avatar of dgryski"/> dgryski
+				<img src="https://private-avatars.githubusercontent.com/u/970862?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDExNjAsIm5iZiI6MTczNDMzOTk2MCwicGF0aCI6Ii91Lzk3MDg2MiJ9.3UItaIFlIjrpTdIJkw-M6kxJ-HvEB9LQl4v3_rm0wHE&s=72&v=4" width="24" alt="Avatar of dgryski"/> dgryski
 			</a><br/>
 			Damian Gryski
 		</td>
@@ -7811,10 +7825,24 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>232</td>
 	</tr>
 	<tr>
-		<td>551</td>
+		<td>552</td>
+		<td>
+			<a target="_blank" href="https://github.com/okikio">
+				<img src="https://private-avatars.githubusercontent.com/u/17222836?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4ODAsIm5iZiI6MTczNDM0MDY4MCwicGF0aCI6Ii91LzE3MjIyODM2In0.E4bwnlmikIrmIgtBCYxeEmsmSDeI1VOiOT4HF_MiTxc&s=72&u=5ceec0f4e5c599a3797baa92ce06e2a76ade6463&v=4" width="24" alt="Avatar of okikio"/> okikio
+			</a><br/>
+			Okiki Ojo
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/okikio_dev">okikio_dev</a></td>
+		<td>Ontario Canada</td>
+		<td>232</td>
+		<td>232</td>
+	</tr>
+	<tr>
+		<td>553</td>
 		<td>
 			<a target="_blank" href="https://github.com/raganwald">
-				<img src="https://private-avatars.githubusercontent.com/u/17715?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ4NjAsIm5iZiI6MTczNDMwMzY2MCwicGF0aCI6Ii91LzE3NzE1In0.46hCkfF7c8eLqWKS_-yU8HTU-TsLMO-zDzmBxZVkpl4&s=72&u=4cd167cdef0a75ac95be786b35d5de284b84eb1d&v=4" width="24" alt="Avatar of raganwald"/> raganwald
+				<img src="https://private-avatars.githubusercontent.com/u/17715?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDA4NjAsIm5iZiI6MTczNDMzOTY2MCwicGF0aCI6Ii91LzE3NzE1In0.uawHIsw4oz3vMTxqb-ZiJStBN2WQkmuCxAo9HZzJlNs&s=72&u=4cd167cdef0a75ac95be786b35d5de284b84eb1d&v=4" width="24" alt="Avatar of raganwald"/> raganwald
 			</a><br/>
 			Reg Braithwaite
 		</td>
@@ -7825,10 +7853,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>231</td>
 	</tr>
 	<tr>
-		<td>552</td>
+		<td>554</td>
 		<td>
 			<a target="_blank" href="https://github.com/EgoMoose">
-				<img src="https://private-avatars.githubusercontent.com/u/6201941?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3NjAsIm5iZiI6MTczNDMwNDU2MCwicGF0aCI6Ii91LzYyMDE5NDEifQ.520UJJS5QKWXl5DYJsT7Z6CAzrg0rP0XRbfqXFb7pBw&s=72&u=77f5a01abf131ba10fbb5463d5ff1985f01a1ce0&v=4" width="24" alt="Avatar of EgoMoose"/> EgoMoose
+				<img src="https://private-avatars.githubusercontent.com/u/6201941?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3NjAsIm5iZiI6MTczNDM0MDU2MCwicGF0aCI6Ii91LzYyMDE5NDEifQ.CuzTYai8kB5SjKA5ctH-mkmlVvGyvkFi1R2_SO0I02k&s=72&u=77f5a01abf131ba10fbb5463d5ff1985f01a1ce0&v=4" width="24" alt="Avatar of EgoMoose"/> EgoMoose
 			</a><br/>
 			No Name
 		</td>
@@ -7839,10 +7867,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>231</td>
 	</tr>
 	<tr>
-		<td>553</td>
+		<td>555</td>
 		<td>
 			<a target="_blank" href="https://github.com/fand">
-				<img src="https://private-avatars.githubusercontent.com/u/1403842?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU2NDAsIm5iZiI6MTczNDMwNDQ0MCwicGF0aCI6Ii91LzE0MDM4NDIifQ.O1fJX9AQPJKTSZotRVzAFVbUPuZAnbnPndA7Os7bSu8&s=72&u=6389c815beef4b14f52dfd81abd76342d73b1bc7&v=4" width="24" alt="Avatar of fand"/> fand
+				<img src="https://private-avatars.githubusercontent.com/u/1403842?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE2NDAsIm5iZiI6MTczNDM0MDQ0MCwicGF0aCI6Ii91LzE0MDM4NDIifQ.rflgwdl9ZrVRAmsR7LXm0OYxpqjjhnSEOcE-ELaIgdc&s=72&u=6389c815beef4b14f52dfd81abd76342d73b1bc7&v=4" width="24" alt="Avatar of fand"/> fand
 			</a><br/>
 			AMAGI  Jun Yuri
 		</td>
@@ -7853,10 +7881,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>230</td>
 	</tr>
 	<tr>
-		<td>554</td>
+		<td>556</td>
 		<td>
 			<a target="_blank" href="https://github.com/meech-ward">
-				<img src="https://private-avatars.githubusercontent.com/u/2434008?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyODAsIm5iZiI6MTczNDMwNDA4MCwicGF0aCI6Ii91LzI0MzQwMDgifQ.qNA5DA18Z7puna_2mXqmQmf1XyT6zt4TEU3M60NV1Bc&s=72&u=0244136a4c1c219e53cf175cb4a3a76f2c4aad3a&v=4" width="24" alt="Avatar of meech-ward"/> meech-ward
+				<img src="https://private-avatars.githubusercontent.com/u/2434008?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyODAsIm5iZiI6MTczNDM0MDA4MCwicGF0aCI6Ii91LzI0MzQwMDgifQ.tSgC16JtZsNNXpmmofndGEDg_sUZUVAgljM6cvt2qh4&s=72&u=0244136a4c1c219e53cf175cb4a3a76f2c4aad3a&v=4" width="24" alt="Avatar of meech-ward"/> meech-ward
 			</a><br/>
 			Sam MeechWard
 		</td>
@@ -7867,10 +7895,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>230</td>
 	</tr>
 	<tr>
-		<td>555</td>
+		<td>557</td>
 		<td>
 			<a target="_blank" href="https://github.com/anubhavmishra">
-				<img src="https://private-avatars.githubusercontent.com/u/4024506?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1MjAsIm5iZiI6MTczNDMwNDMyMCwicGF0aCI6Ii91LzQwMjQ1MDYifQ.4sxz4iXHl-iMIqLBhNxfuM65nXuhbuFiUWpma7AWqiM&s=72&u=3b7d12e2fbd3a71abe831ce3efa83e8e0be83260&v=4" width="24" alt="Avatar of anubhavmishra"/> anubhavmishra
+				<img src="https://private-avatars.githubusercontent.com/u/4024506?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1MjAsIm5iZiI6MTczNDM0MDMyMCwicGF0aCI6Ii91LzQwMjQ1MDYifQ.F1CqqH-YkGL4TzEvinFXUg0nc5sm5PQL45b092xl2t4&s=72&u=3b7d12e2fbd3a71abe831ce3efa83e8e0be83260&v=4" width="24" alt="Avatar of anubhavmishra"/> anubhavmishra
 			</a><br/>
 			Anubhav Mishra
 		</td>
@@ -7881,24 +7909,24 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>230</td>
 	</tr>
 	<tr>
-		<td>556</td>
+		<td>558</td>
 		<td>
-			<a target="_blank" href="https://github.com/okikio">
-				<img src="https://private-avatars.githubusercontent.com/u/17222836?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4ODAsIm5iZiI6MTczNDMwNDY4MCwicGF0aCI6Ii91LzE3MjIyODM2In0.JE-lDnDlCnws64hqdOWcwp8Gvxd4nFvM7yUUtzucU30&s=72&u=5ceec0f4e5c599a3797baa92ce06e2a76ade6463&v=4" width="24" alt="Avatar of okikio"/> okikio
+			<a target="_blank" href="https://github.com/mwbrooks">
+				<img src="https://private-avatars.githubusercontent.com/u/21328?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0NjAsIm5iZiI6MTczNDM0MDI2MCwicGF0aCI6Ii91LzIxMzI4In0.0lw9xuikN1rutlHEPBNmva58GuTUPt4rfCAxn3Do-GM&s=72&u=e30db9d0be5b68d706d83b9ece5f454fecd34a5a&v=4" width="24" alt="Avatar of mwbrooks"/> mwbrooks
 			</a><br/>
-			Okiki Ojo
+			Michael Brooks
 		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/okikio_dev">okikio_dev</a></td>
-		<td>Ontario Canada</td>
-		<td>230</td>
+		<td>@slackapi @slackhq </td>
+		<td><a target="_blank" href="https://twitter.com/mwbrooks">mwbrooks</a></td>
+		<td>Vancouver Canada</td>
+		<td>60</td>
 		<td>230</td>
 	</tr>
 	<tr>
-		<td>557</td>
+		<td>559</td>
 		<td>
 			<a target="_blank" href="https://github.com/zoq">
-				<img src="https://private-avatars.githubusercontent.com/u/4209744?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4ODAsIm5iZiI6MTczNDMwNDY4MCwicGF0aCI6Ii91LzQyMDk3NDQifQ.4jWv49XbsCgMgem00xmQFFGE1dlb6cwI8kg87ecOORI&s=72&u=9cc806729ebceaeab4855783d00cf0bd8595c3eb&v=4" width="24" alt="Avatar of zoq"/> zoq
+				<img src="https://private-avatars.githubusercontent.com/u/4209744?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4ODAsIm5iZiI6MTczNDM0MDY4MCwicGF0aCI6Ii91LzQyMDk3NDQifQ.QTPQYS4LiLi4MROYHT3hLXCzP61r6SWsEXPAzZXp8VM&s=72&u=9cc806729ebceaeab4855783d00cf0bd8595c3eb&v=4" width="24" alt="Avatar of zoq"/> zoq
 			</a><br/>
 			Marcus Edel
 		</td>
@@ -7909,24 +7937,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>230</td>
 	</tr>
 	<tr>
-		<td>558</td>
-		<td>
-			<a target="_blank" href="https://github.com/mwbrooks">
-				<img src="https://private-avatars.githubusercontent.com/u/21328?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0NjAsIm5iZiI6MTczNDMwNDI2MCwicGF0aCI6Ii91LzIxMzI4In0.kMukG6EbzmmioLCl0OyyGTp-pRsEEoM36mr-hURgAbM&s=72&u=e30db9d0be5b68d706d83b9ece5f454fecd34a5a&v=4" width="24" alt="Avatar of mwbrooks"/> mwbrooks
-			</a><br/>
-			Michael Brooks
-		</td>
-		<td>@slackapi @slackhq </td>
-		<td><a target="_blank" href="https://twitter.com/mwbrooks">mwbrooks</a></td>
-		<td>Vancouver Canada</td>
-		<td>60</td>
-		<td>228</td>
-	</tr>
-	<tr>
-		<td>559</td>
+		<td>560</td>
 		<td>
 			<a target="_blank" href="https://github.com/shopizer-ecommerce">
-				<img src="https://private-avatars.githubusercontent.com/u/2850035?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3MDAsIm5iZiI6MTczNDMwNDUwMCwicGF0aCI6Ii91LzI4NTAwMzUifQ.ixYZHE4habWy6mI0IicFK7ntTGhdXGUoxw1KLnfOgTo&s=72&v=4" width="24" alt="Avatar of shopizer-ecommerce"/> shopizer-ecommerce
+				<img src="https://private-avatars.githubusercontent.com/u/2850035?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3MDAsIm5iZiI6MTczNDM0MDUwMCwicGF0aCI6Ii91LzI4NTAwMzUifQ.w3zCxe_P4kU76NilWRpCbnRJ0E1Tb8aEkGFOIaxxjmU&s=72&v=4" width="24" alt="Avatar of shopizer-ecommerce"/> shopizer-ecommerce
 			</a><br/>
 			Shopizer
 		</td>
@@ -7934,13 +7948,13 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Montreal  Canada</td>
 		<td>131</td>
-		<td>227</td>
+		<td>228</td>
 	</tr>
 	<tr>
-		<td>560</td>
+		<td>561</td>
 		<td>
 			<a target="_blank" href="https://github.com/ariannedee">
-				<img src="https://private-avatars.githubusercontent.com/u/2425730?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyMjAsIm5iZiI6MTczNDMwNDAyMCwicGF0aCI6Ii91LzI0MjU3MzAifQ.zYdAixJ3DAP_rVOjyMiz_ATDekO8zXIXdAj5disH3PA&s=72&u=df4ae2cf54fcb62b9e113e975f3c4103eebc4873&v=4" width="24" alt="Avatar of ariannedee"/> ariannedee
+				<img src="https://private-avatars.githubusercontent.com/u/2425730?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyMjAsIm5iZiI6MTczNDM0MDAyMCwicGF0aCI6Ii91LzI0MjU3MzAifQ.2BTHGGFr6XndtiPRc1S6rlOHJCYsm9tlMnzRzU8QnIU&s=72&u=df4ae2cf54fcb62b9e113e975f3c4103eebc4873&v=4" width="24" alt="Avatar of ariannedee"/> ariannedee
 			</a><br/>
 			Arianne
 		</td>
@@ -7951,10 +7965,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>225</td>
 	</tr>
 	<tr>
-		<td>561</td>
+		<td>562</td>
 		<td>
 			<a target="_blank" href="https://github.com/misprit7">
-				<img src="https://private-avatars.githubusercontent.com/u/33139843?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1MjAsIm5iZiI6MTczNDMwNDMyMCwicGF0aCI6Ii91LzMzMTM5ODQzIn0.rx5_vX76oqjHL7sn8ue7RHFxth3uTJ1nEbtaDkCeAF4&s=72&u=70686de9e7def2756bebdcf59f5125c4eda0d0f7&v=4" width="24" alt="Avatar of misprit7"/> misprit7
+				<img src="https://private-avatars.githubusercontent.com/u/33139843?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1MjAsIm5iZiI6MTczNDM0MDMyMCwicGF0aCI6Ii91LzMzMTM5ODQzIn0.9F3YP6mjtzOTYorO_AwhlYM7ZKMhJyIV7O8eYuUYb14&s=72&u=70686de9e7def2756bebdcf59f5125c4eda0d0f7&v=4" width="24" alt="Avatar of misprit7"/> misprit7
 			</a><br/>
 			Xander Naumenko
 		</td>
@@ -7965,10 +7979,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>220</td>
 	</tr>
 	<tr>
-		<td>562</td>
+		<td>563</td>
 		<td>
 			<a target="_blank" href="https://github.com/miketang84">
-				<img src="https://private-avatars.githubusercontent.com/u/629594?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxMDAsIm5iZiI6MTczNDMwMzkwMCwicGF0aCI6Ii91LzYyOTU5NCJ9.x3sgw6DiH7W8nLT1ua7bq7R1l4CaVu9T7kyA2V9cW98&s=72&u=7101aa325cc50c17697b11375bd5cf47242990fd&v=4" width="24" alt="Avatar of miketang84"/> miketang84
+				<img src="https://private-avatars.githubusercontent.com/u/629594?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDExMDAsIm5iZiI6MTczNDMzOTkwMCwicGF0aCI6Ii91LzYyOTU5NCJ9.SNKrhAHtnBf_Gf6nr4OJCZOzSsu_DonLKBvRHKyfX0M&s=72&u=7101aa325cc50c17697b11375bd5cf47242990fd&v=4" width="24" alt="Avatar of miketang84"/> miketang84
 			</a><br/>
 			Mike Tang
 		</td>
@@ -7979,10 +7993,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>220</td>
 	</tr>
 	<tr>
-		<td>563</td>
+		<td>564</td>
 		<td>
 			<a target="_blank" href="https://github.com/justkawal">
-				<img src="https://private-avatars.githubusercontent.com/u/49296873?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0MDAsIm5iZiI6MTczNDMwNDIwMCwicGF0aCI6Ii91LzQ5Mjk2ODczIn0.do0beuSC1SXTrY5Us4kp4-H_oJLEdFMdUqAMxIZ7lHU&s=72&u=be47e123860a31317b8ca139486b153ccd254dcf&v=4" width="24" alt="Avatar of justkawal"/> justkawal
+				<img src="https://private-avatars.githubusercontent.com/u/49296873?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIzMDAsIm5iZiI6MTczNDM0MTEwMCwicGF0aCI6Ii91LzQ5Mjk2ODczIn0.KCatB_USDaEjG3VJojj_zT4qPeMFxCMmjPQxADCafys&s=72&u=be47e123860a31317b8ca139486b153ccd254dcf&v=4" width="24" alt="Avatar of justkawal"/> justkawal
 			</a><br/>
 			justkawal
 		</td>
@@ -7993,10 +8007,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>220</td>
 	</tr>
 	<tr>
-		<td>564</td>
+		<td>565</td>
 		<td>
 			<a target="_blank" href="https://github.com/pritamworld">
-				<img src="https://private-avatars.githubusercontent.com/u/13292472?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3NjAsIm5iZiI6MTczNDMwNDU2MCwicGF0aCI6Ii91LzEzMjkyNDcyIn0.39iL78Rs8UkhfdQk_SsyKyIh3L9HIo2Mb2R-cbfnvzo&s=72&u=ec534ba775d68d1dc9502caf2b150d9c5927d0ac&v=4" width="24" alt="Avatar of pritamworld"/> pritamworld
+				<img src="https://private-avatars.githubusercontent.com/u/13292472?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3NjAsIm5iZiI6MTczNDM0MDU2MCwicGF0aCI6Ii91LzEzMjkyNDcyIn0.t6cHaZB7iWcz2laKwKuEHYmjQkJEBQ54u7tbbVcIeOg&s=72&u=ec534ba775d68d1dc9502caf2b150d9c5927d0ac&v=4" width="24" alt="Avatar of pritamworld"/> pritamworld
 			</a><br/>
 			Pritesh Patel
 		</td>
@@ -8007,10 +8021,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>219</td>
 	</tr>
 	<tr>
-		<td>565</td>
+		<td>566</td>
 		<td>
 			<a target="_blank" href="https://github.com/acangiano">
-				<img src="https://private-avatars.githubusercontent.com/u/1687?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxNjAsIm5iZiI6MTczNDMwMzk2MCwicGF0aCI6Ii91LzE2ODcifQ.G4efJJOd2fhlAnRqYcWvIQH-sHQwtHYwWK5KkE3dor4&s=72&u=8333e89bce00341d286f4e6672accff5e56dcaea&v=4" width="24" alt="Avatar of acangiano"/> acangiano
+				<img src="https://private-avatars.githubusercontent.com/u/1687?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDExNjAsIm5iZiI6MTczNDMzOTk2MCwicGF0aCI6Ii91LzE2ODcifQ.YBwZblABOo6DECAXB1foXCLyMCAG4pVxjv0Ochhi5pY&s=72&u=8333e89bce00341d286f4e6672accff5e56dcaea&v=4" width="24" alt="Avatar of acangiano"/> acangiano
 			</a><br/>
 			Antonio Cangiano
 		</td>
@@ -8021,10 +8035,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>215</td>
 	</tr>
 	<tr>
-		<td>566</td>
+		<td>567</td>
 		<td>
 			<a target="_blank" href="https://github.com/una-dinosauria">
-				<img src="https://private-avatars.githubusercontent.com/u/3733964?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0NjAsIm5iZiI6MTczNDMwNDI2MCwicGF0aCI6Ii91LzM3MzM5NjQifQ.ml5zCbGEIQ12DO9mPs9vXMiqX0jbNURV15TY1JWPsjg&s=72&u=1b7576782608c3032af5c1d3fb21279af414563d&v=4" width="24" alt="Avatar of una-dinosauria"/> una-dinosauria
+				<img src="https://private-avatars.githubusercontent.com/u/3733964?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0NjAsIm5iZiI6MTczNDM0MDI2MCwicGF0aCI6Ii91LzM3MzM5NjQifQ.w6Ami3fUNt9A4ali3ZSfT2FRyvdt3K8NLTrpm9DvcY8&s=72&u=1b7576782608c3032af5c1d3fb21279af414563d&v=4" width="24" alt="Avatar of una-dinosauria"/> una-dinosauria
 			</a><br/>
 			Julieta
 		</td>
@@ -8035,10 +8049,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>214</td>
 	</tr>
 	<tr>
-		<td>567</td>
+		<td>568</td>
 		<td>
 			<a target="_blank" href="https://github.com/LuaxY">
-				<img src="https://private-avatars.githubusercontent.com/u/5818379?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU2NDAsIm5iZiI6MTczNDMwNDQ0MCwicGF0aCI6Ii91LzU4MTgzNzkifQ.DZRumgg6InqSYjhbh3L5Oe0wKZe9G0K254mW7b2iyds&s=72&u=4948f3b4376dd893894ddf67f43a5a913d38d6e2&v=4" width="24" alt="Avatar of LuaxY"/> LuaxY
+				<img src="https://private-avatars.githubusercontent.com/u/5818379?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE2NDAsIm5iZiI6MTczNDM0MDQ0MCwicGF0aCI6Ii91LzU4MTgzNzkifQ.1jyAJq_NqRTTI1vE2rBVoe7CRR6mKF-ztdw-d5RgObw&s=72&u=4948f3b4376dd893894ddf67f43a5a913d38d6e2&v=4" width="24" alt="Avatar of LuaxY"/> LuaxY
 			</a><br/>
 			Luax
 		</td>
@@ -8049,10 +8063,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>214</td>
 	</tr>
 	<tr>
-		<td>568</td>
+		<td>569</td>
 		<td>
 			<a target="_blank" href="https://github.com/lidaobing">
-				<img src="https://private-avatars.githubusercontent.com/u/27529?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3MDAsIm5iZiI6MTczNDMwNDUwMCwicGF0aCI6Ii91LzI3NTI5In0.BgPY1OJJ8HG18G_JS7IaS1QzdS3QVHJ7ztW9hQtz-Rk&s=72&v=4" width="24" alt="Avatar of lidaobing"/> lidaobing
+				<img src="https://private-avatars.githubusercontent.com/u/27529?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3MDAsIm5iZiI6MTczNDM0MDUwMCwicGF0aCI6Ii91LzI3NTI5In0.FTDpGVFf8y-VyNDtRmE_z3XWvofB5_2cMNE5sBLZITw&s=72&v=4" width="24" alt="Avatar of lidaobing"/> lidaobing
 			</a><br/>
 			LI Daobing
 		</td>
@@ -8063,24 +8077,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>213</td>
 	</tr>
 	<tr>
-		<td>569</td>
-		<td>
-			<a target="_blank" href="https://github.com/benkeen">
-				<img src="https://private-avatars.githubusercontent.com/u/512116?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3MDAsIm5iZiI6MTczNDMwNDUwMCwicGF0aCI6Ii91LzUxMjExNiJ9.bu07rxY4u7apLYKrd57DVWvdvZjIyk24kSATp2AEeE8&s=72&u=418e45ddff94b230012d214fa134d56236805edd&v=4" width="24" alt="Avatar of benkeen"/> benkeen
-			</a><br/>
-			Ben Keen
-		</td>
-		<td>Microsoft </td>
-		<td>No Twitter Username</td>
-		<td>Vancouver BC</td>
-		<td>179</td>
-		<td>213</td>
-	</tr>
-	<tr>
 		<td>570</td>
 		<td>
 			<a target="_blank" href="https://github.com/DjDeveloperr">
-				<img src="https://private-avatars.githubusercontent.com/u/43033058?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3NjAsIm5iZiI6MTczNDMwNDU2MCwicGF0aCI6Ii91LzQzMDMzMDU4In0.ShaSd70f2cgSnXIy25CWhLJmdw-ao9Z3Kg-QK7QQpFA&s=72&u=05aa6b9cbcd734ae0675bb50742140c781faa252&v=4" width="24" alt="Avatar of DjDeveloperr"/> DjDeveloperr
+				<img src="https://private-avatars.githubusercontent.com/u/43033058?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3NjAsIm5iZiI6MTczNDM0MDU2MCwicGF0aCI6Ii91LzQzMDMzMDU4In0.PROWBgMJ6cNSrjdqeLWfNidZWiIKFMtn_jOsJEqmqR8&s=72&u=05aa6b9cbcd734ae0675bb50742140c781faa252&v=4" width="24" alt="Avatar of DjDeveloperr"/> DjDeveloperr
 			</a><br/>
 			Dj
 		</td>
@@ -8094,7 +8094,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>571</td>
 		<td>
 			<a target="_blank" href="https://github.com/sylveon">
-				<img src="https://private-avatars.githubusercontent.com/u/6440374?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ5MjAsIm5iZiI6MTczNDMwMzcyMCwicGF0aCI6Ii91LzY0NDAzNzQifQ.scDc4ah6zpPifzEkNTS4LEi8o1JX807f75u9UvRMPwM&s=72&u=c83ab900f9d763033f0aa2aedb6dfc7f1c84221d&v=4" width="24" alt="Avatar of sylveon"/> sylveon
+				<img src="https://private-avatars.githubusercontent.com/u/6440374?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4MjAsIm5iZiI6MTczNDM0MDYyMCwicGF0aCI6Ii91LzY0NDAzNzQifQ.-13-bTPeMK4f-E7uU--CuQdDSIUuK7rQKLj4DMdaQ7s&s=72&u=c83ab900f9d763033f0aa2aedb6dfc7f1c84221d&v=4" width="24" alt="Avatar of sylveon"/> sylveon
 			</a><br/>
 			Charles Milette
 		</td>
@@ -8108,7 +8108,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>572</td>
 		<td>
 			<a target="_blank" href="https://github.com/kamiyaa">
-				<img src="https://private-avatars.githubusercontent.com/u/8345320?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyODAsIm5iZiI6MTczNDMwNDA4MCwicGF0aCI6Ii91LzgzNDUzMjAifQ.W5zRzXAxRULlHOO9qwAq_P0nK4zmMs2LEShInGjRRpc&s=72&u=45f3593d1627932c9d507f0b5eb847d5d2856eee&v=4" width="24" alt="Avatar of kamiyaa"/> kamiyaa
+				<img src="https://private-avatars.githubusercontent.com/u/8345320?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyODAsIm5iZiI6MTczNDM0MDA4MCwicGF0aCI6Ii91LzgzNDUzMjAifQ.L4m5RdoY6qGE43-nocWQZBK7w-mapJ6JWfXIenu9IkE&s=72&u=45f3593d1627932c9d507f0b5eb847d5d2856eee&v=4" width="24" alt="Avatar of kamiyaa"/> kamiyaa
 			</a><br/>
 			Jeff
 		</td>
@@ -8122,7 +8122,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>573</td>
 		<td>
 			<a target="_blank" href="https://github.com/marcopeix">
-				<img src="https://private-avatars.githubusercontent.com/u/19268689?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3MDAsIm5iZiI6MTczNDMwNDUwMCwicGF0aCI6Ii91LzE5MjY4Njg5In0.YB-i2lTT_ThRCIq6hp6iG14RvoAafn9Ok11mKGvLKL0&s=72&u=e7ec91f9a2966f4d4793bc20866e031c9a6a70bf&v=4" width="24" alt="Avatar of marcopeix"/> marcopeix
+				<img src="https://private-avatars.githubusercontent.com/u/19268689?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3MDAsIm5iZiI6MTczNDM0MDUwMCwicGF0aCI6Ii91LzE5MjY4Njg5In0.Jo-a65kc-rC1g8rHB7WAqCA5cKOA_BzDS7L8tDWfgt4&s=72&u=e7ec91f9a2966f4d4793bc20866e031c9a6a70bf&v=4" width="24" alt="Avatar of marcopeix"/> marcopeix
 			</a><br/>
 			Marco
 		</td>
@@ -8136,7 +8136,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>574</td>
 		<td>
 			<a target="_blank" href="https://github.com/fserb">
-				<img src="https://private-avatars.githubusercontent.com/u/1587?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1ODAsIm5iZiI6MTczNDMwNDM4MCwicGF0aCI6Ii91LzE1ODcifQ.rDjB4zjPhe6kXwfuqKwQb_EGRfj3QWD5W6-9RUJBGB8&s=72&u=5955a5856fa8c4a1f0b7900f1299b6e54400373f&v=4" width="24" alt="Avatar of fserb"/> fserb
+				<img src="https://private-avatars.githubusercontent.com/u/1587?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1ODAsIm5iZiI6MTczNDM0MDM4MCwicGF0aCI6Ii91LzE1ODcifQ.hd6EGFhTU379avw74zgYiwbM21qBeSUb5B0VUFk9Vao&s=72&u=5955a5856fa8c4a1f0b7900f1299b6e54400373f&v=4" width="24" alt="Avatar of fserb"/> fserb
 			</a><br/>
 			Fernando Serboncini
 		</td>
@@ -8149,8 +8149,22 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 	<tr>
 		<td>575</td>
 		<td>
+			<a target="_blank" href="https://github.com/mikekasprzak">
+				<img src="https://private-avatars.githubusercontent.com/u/1570313?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4MjAsIm5iZiI6MTczNDM0MDYyMCwicGF0aCI6Ii91LzE1NzAzMTMifQ.43ZqJrcWutX3USBrOozrhOu8yjXANrzBgdQby6RlesU&s=72&u=6906645d0bb111b8c4aad078c500d74a520e56d5&v=4" width="24" alt="Avatar of mikekasprzak"/> mikekasprzak
+			</a><br/>
+			Mike Kasprzak
+		</td>
+		<td>@interactivesnacks  </td>
+		<td><a target="_blank" href="https://twitter.com/mikekasprzak">mikekasprzak</a></td>
+		<td>London Ontario Canada</td>
+		<td>97</td>
+		<td>198</td>
+	</tr>
+	<tr>
+		<td>576</td>
+		<td>
 			<a target="_blank" href="https://github.com/RMerl">
-				<img src="https://private-avatars.githubusercontent.com/u/1661562?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ5ODAsIm5iZiI6MTczNDMwMzc4MCwicGF0aCI6Ii91LzE2NjE1NjIifQ.5yuxvttDHpDtl4LSkOkNlIK2Ku-DyWJykA7zdG5om4A&s=72&u=77c69b45f0ebff4841cd9032e618facadf32dc5a&v=4" width="24" alt="Avatar of RMerl"/> RMerl
+				<img src="https://private-avatars.githubusercontent.com/u/1661562?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDA5ODAsIm5iZiI6MTczNDMzOTc4MCwicGF0aCI6Ii91LzE2NjE1NjIifQ.hAprgzbCgfGNS9PyRr1uWUAajuuqkLBixNVEs9lJU_o&s=72&u=77c69b45f0ebff4841cd9032e618facadf32dc5a&v=4" width="24" alt="Avatar of RMerl"/> RMerl
 			</a><br/>
 			Eric Sauvageau
 		</td>
@@ -8161,10 +8175,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>194</td>
 	</tr>
 	<tr>
-		<td>576</td>
+		<td>577</td>
 		<td>
 			<a target="_blank" href="https://github.com/DrDub">
-				<img src="https://private-avatars.githubusercontent.com/u/315403?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0MDAsIm5iZiI6MTczNDMwNDIwMCwicGF0aCI6Ii91LzMxNTQwMyJ9.p63rHmM7QBly3Kce6eubrPHqipTs7AiCh1nB56m07Rc&s=72&v=4" width="24" alt="Avatar of DrDub"/> DrDub
+				<img src="https://private-avatars.githubusercontent.com/u/315403?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIzMDAsIm5iZiI6MTczNDM0MTEwMCwicGF0aCI6Ii91LzMxNTQwMyJ9.tD5UTwS--BsJJMs9HFhK9J6079UkYz5OuZwfUNuQmE4&s=72&v=4" width="24" alt="Avatar of DrDub"/> DrDub
 			</a><br/>
 			Pablo Duboue
 		</td>
@@ -8175,10 +8189,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>194</td>
 	</tr>
 	<tr>
-		<td>577</td>
+		<td>578</td>
 		<td>
 			<a target="_blank" href="https://github.com/GabrielMissael">
-				<img src="https://private-avatars.githubusercontent.com/u/39664244?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDYxMjAsIm5iZiI6MTczNDMwNDkyMCwicGF0aCI6Ii91LzM5NjY0MjQ0In0.0cnLNX6fzea2etuQc5DltCNDqMQ2Ueikfm77fQiQmiE&s=72&u=80bd69db8b694daf01b1d6df8892bbbc373a0e22&v=4" width="24" alt="Avatar of GabrielMissael"/> GabrielMissael
+				<img src="https://private-avatars.githubusercontent.com/u/39664244?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIxMjAsIm5iZiI6MTczNDM0MDkyMCwicGF0aCI6Ii91LzM5NjY0MjQ0In0.L0vQH1mndTNuD7you0yAR_cEhzTPi_oyaTxvJuVi3xs&s=72&u=80bd69db8b694daf01b1d6df8892bbbc373a0e22&v=4" width="24" alt="Avatar of GabrielMissael"/> GabrielMissael
 			</a><br/>
 			Gabriel Missael Barco
 		</td>
@@ -8189,24 +8203,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>194</td>
 	</tr>
 	<tr>
-		<td>578</td>
-		<td>
-			<a target="_blank" href="https://github.com/mikekasprzak">
-				<img src="https://private-avatars.githubusercontent.com/u/1570313?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4MjAsIm5iZiI6MTczNDMwNDYyMCwicGF0aCI6Ii91LzE1NzAzMTMifQ.LRUwqaqiiU94um-_s0O6DrAtZm3HdYM5eIzUWCRdhyo&s=72&u=6906645d0bb111b8c4aad078c500d74a520e56d5&v=4" width="24" alt="Avatar of mikekasprzak"/> mikekasprzak
-			</a><br/>
-			Mike Kasprzak
-		</td>
-		<td>@interactivesnacks  </td>
-		<td><a target="_blank" href="https://twitter.com/mikekasprzak">mikekasprzak</a></td>
-		<td>London Ontario Canada</td>
-		<td>93</td>
-		<td>192</td>
-	</tr>
-	<tr>
 		<td>579</td>
 		<td>
 			<a target="_blank" href="https://github.com/johnboxall">
-				<img src="https://private-avatars.githubusercontent.com/u/28967?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU2NDAsIm5iZiI6MTczNDMwNDQ0MCwicGF0aCI6Ii91LzI4OTY3In0.wELjO5_Rn4T9KRUErAS145_KqrYT2QICTTylDF7X8iQ&s=72&u=1ae12b3fa7277452f7059cd52de145e18327275f&v=4" width="24" alt="Avatar of johnboxall"/> johnboxall
+				<img src="https://private-avatars.githubusercontent.com/u/28967?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE2NDAsIm5iZiI6MTczNDM0MDQ0MCwicGF0aCI6Ii91LzI4OTY3In0.95Ezpb2Vuc4mrRO_c1_4_a6dYK3qU_B4Rm2Fg_Brr48&s=72&u=1ae12b3fa7277452f7059cd52de145e18327275f&v=4" width="24" alt="Avatar of johnboxall"/> johnboxall
 			</a><br/>
 			John Boxall
 		</td>
@@ -8220,7 +8220,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>580</td>
 		<td>
 			<a target="_blank" href="https://github.com/cgruber">
-				<img src="https://private-avatars.githubusercontent.com/u/331234?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyODAsIm5iZiI6MTczNDMwNDA4MCwicGF0aCI6Ii91LzMzMTIzNCJ9.ykPJh275eleIhdXtBJU0RLkGB7mFaA4ka0h9T_v15fg&s=72&v=4" width="24" alt="Avatar of cgruber"/> cgruber
+				<img src="https://private-avatars.githubusercontent.com/u/331234?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyODAsIm5iZiI6MTczNDM0MDA4MCwicGF0aCI6Ii91LzMzMTIzNCJ9.aMLkWMEylwwNyhvWjPabDdsamF9Lv1Pa7xOvfQtag7o&s=72&v=4" width="24" alt="Avatar of cgruber"/> cgruber
 			</a><br/>
 			Christian Edward JacksonGruber
 		</td>
@@ -8233,8 +8233,22 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 	<tr>
 		<td>581</td>
 		<td>
+			<a target="_blank" href="https://github.com/danieldjohnson">
+				<img src="https://private-avatars.githubusercontent.com/u/4992683?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIxMjAsIm5iZiI6MTczNDM0MDkyMCwicGF0aCI6Ii91LzQ5OTI2ODMifQ.uNIkqSsMVMjmgnU449Aq_4AaVVk9Gl4rSRe0H9pNU_Q&s=72&u=012aafbd22a811fdfc489987926a1b3622d0b52a&v=4" width="24" alt="Avatar of danieldjohnson"/> danieldjohnson
+			</a><br/>
+			Daniel D Johnson
+		</td>
+		<td>Google Deepmind </td>
+		<td><a target="_blank" href="https://twitter.com/_ddjohnson">_ddjohnson</a></td>
+		<td>Toronto Ontario</td>
+		<td>144</td>
+		<td>189</td>
+	</tr>
+	<tr>
+		<td>582</td>
+		<td>
 			<a target="_blank" href="https://github.com/Raymo111">
-				<img src="https://private-avatars.githubusercontent.com/u/34818275?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1MjAsIm5iZiI6MTczNDMwNDMyMCwicGF0aCI6Ii91LzM0ODE4Mjc1In0.oPeS-PpDUG3jREpR_Z8hpjFAnc1JHqyhF1yB5A21lxQ&s=72&u=e1746d17bbde5e1f2e7d973cc9eaaad05a377300&v=4" width="24" alt="Avatar of Raymo111"/> Raymo111
+				<img src="https://private-avatars.githubusercontent.com/u/34818275?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1MjAsIm5iZiI6MTczNDM0MDMyMCwicGF0aCI6Ii91LzM0ODE4Mjc1In0.XM7cYEUSYXfgTq76Gs-8PyZlJY2W80khqOKqCpUipNc&s=72&u=e1746d17bbde5e1f2e7d973cc9eaaad05a377300&v=4" width="24" alt="Avatar of Raymo111"/> Raymo111
 			</a><br/>
 			Raymond Li
 		</td>
@@ -8245,10 +8259,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>189</td>
 	</tr>
 	<tr>
-		<td>582</td>
+		<td>583</td>
 		<td>
 			<a target="_blank" href="https://github.com/sahmed1o">
-				<img src="https://private-avatars.githubusercontent.com/u/20860945?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1ODAsIm5iZiI6MTczNDMwNDM4MCwicGF0aCI6Ii91LzIwODYwOTQ1In0.U-SUgIZaYfVlxBHnt1dISI3Q0gORJ8DtYLEeynPibQc&s=72&u=5f34c385ba299f0ba8990d8cc9343ffaefc0d75c&v=4" width="24" alt="Avatar of sahmed1o"/> sahmed1o
+				<img src="https://private-avatars.githubusercontent.com/u/20860945?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1ODAsIm5iZiI6MTczNDM0MDM4MCwicGF0aCI6Ii91LzIwODYwOTQ1In0.BkHnkNHJEUsQkLscdfmr5TDErHfVgo0VltW1k1A7l1E&s=72&u=5f34c385ba299f0ba8990d8cc9343ffaefc0d75c&v=4" width="24" alt="Avatar of sahmed1o"/> sahmed1o
 			</a><br/>
 			M Sal Ahmed
 		</td>
@@ -8259,10 +8273,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>188</td>
 	</tr>
 	<tr>
-		<td>583</td>
+		<td>584</td>
 		<td>
 			<a target="_blank" href="https://github.com/smithakolan">
-				<img src="https://private-avatars.githubusercontent.com/u/37849431?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4MjAsIm5iZiI6MTczNDMwNDYyMCwicGF0aCI6Ii91LzM3ODQ5NDMxIn0.8SutTRbF00W36xxTrCd1iFR7PY2RlFCaR4H1etjAByY&s=72&u=676df21ef5cd77ab9dbcfd300d822c38fdac6b81&v=4" width="24" alt="Avatar of smithakolan"/> smithakolan
+				<img src="https://private-avatars.githubusercontent.com/u/37849431?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4MjAsIm5iZiI6MTczNDM0MDYyMCwicGF0aCI6Ii91LzM3ODQ5NDMxIn0.LskJYGo8ArI7Do_uD-uQuHMxJCqTCQCCv7l48DtG9Gc&s=72&u=676df21ef5cd77ab9dbcfd300d822c38fdac6b81&v=4" width="24" alt="Avatar of smithakolan"/> smithakolan
 			</a><br/>
 			Smitha Kolan
 		</td>
@@ -8273,24 +8287,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>188</td>
 	</tr>
 	<tr>
-		<td>584</td>
-		<td>
-			<a target="_blank" href="https://github.com/danieldjohnson">
-				<img src="https://private-avatars.githubusercontent.com/u/4992683?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyMjAsIm5iZiI6MTczNDMwNDAyMCwicGF0aCI6Ii91LzQ5OTI2ODMifQ.feTWIPDYCyGYLfd3yBrHj0T4UNo5cI2RvYVGEw-AvSA&s=72&u=012aafbd22a811fdfc489987926a1b3622d0b52a&v=4" width="24" alt="Avatar of danieldjohnson"/> danieldjohnson
-			</a><br/>
-			Daniel D Johnson
-		</td>
-		<td>Google Deepmind </td>
-		<td><a target="_blank" href="https://twitter.com/_ddjohnson">_ddjohnson</a></td>
-		<td>Toronto Ontario</td>
-		<td>136</td>
-		<td>181</td>
-	</tr>
-	<tr>
 		<td>585</td>
 		<td>
 			<a target="_blank" href="https://github.com/phuc-mai">
-				<img src="https://private-avatars.githubusercontent.com/u/120724201?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0MDAsIm5iZiI6MTczNDMwNDIwMCwicGF0aCI6Ii91LzEyMDcyNDIwMSJ9.QjSNu73m2PKavqd0qFf5llzquQ7-2Y80L4IR369_yQQ&s=72&u=12a2874ca668a4bec8be168bcba2bf28c9c9403e&v=4" width="24" alt="Avatar of phuc-mai"/> phuc-mai
+				<img src="https://private-avatars.githubusercontent.com/u/120724201?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0MDAsIm5iZiI6MTczNDM0MDIwMCwicGF0aCI6Ii91LzEyMDcyNDIwMSJ9.0tcSDulpNTT64_c5UEduRfh10rhqeVa6IYgWHhRgBDo&s=72&u=12a2874ca668a4bec8be168bcba2bf28c9c9403e&v=4" width="24" alt="Avatar of phuc-mai"/> phuc-mai
 			</a><br/>
 			Phuc Hong Mai Maria
 		</td>
@@ -8304,7 +8304,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>586</td>
 		<td>
 			<a target="_blank" href="https://github.com/elebumm">
-				<img src="https://private-avatars.githubusercontent.com/u/6053155?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUwNDAsIm5iZiI6MTczNDMwMzg0MCwicGF0aCI6Ii91LzYwNTMxNTUifQ.-IvXLr3nulQ3uYhN4hVzSami81UZpYrO_8mB2LZosCs&s=72&u=722385b62072f58a3e5cb06e1896e963743f6eb2&v=4" width="24" alt="Avatar of elebumm"/> elebumm
+				<img src="https://private-avatars.githubusercontent.com/u/6053155?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEwNDAsIm5iZiI6MTczNDMzOTg0MCwicGF0aCI6Ii91LzYwNTMxNTUifQ.b6vr8RV-5kwM9kDqg0BB_4soqQP9d7_ZU8lkx-I1rjQ&s=72&u=722385b62072f58a3e5cb06e1896e963743f6eb2&v=4" width="24" alt="Avatar of elebumm"/> elebumm
 			</a><br/>
 			Lewis Menelaws
 		</td>
@@ -8318,7 +8318,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>587</td>
 		<td>
 			<a target="_blank" href="https://github.com/aaronmcleancs">
-				<img src="https://private-avatars.githubusercontent.com/u/71683074?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0MDAsIm5iZiI6MTczNDMwNDIwMCwicGF0aCI6Ii91LzcxNjgzMDc0In0.iZ6nrpX-uKCT6MidSr_Ef3P633o7jiA2xxs59YdJ4x8&s=72&u=4393b39b69a24bd6268dc790c041680266c83f10&v=4" width="24" alt="Avatar of aaronmcleancs"/> aaronmcleancs
+				<img src="https://private-avatars.githubusercontent.com/u/71683074?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0MDAsIm5iZiI6MTczNDM0MDIwMCwicGF0aCI6Ii91LzcxNjgzMDc0In0.iyTnKRZhIzUQyeLrlLON5kBR0fvpQ_PXkKOfgPKhN5g&s=72&u=4393b39b69a24bd6268dc790c041680266c83f10&v=4" width="24" alt="Avatar of aaronmcleancs"/> aaronmcleancs
 			</a><br/>
 			Aaron McLean
 		</td>
@@ -8332,7 +8332,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>588</td>
 		<td>
 			<a target="_blank" href="https://github.com/adam-p">
-				<img src="https://private-avatars.githubusercontent.com/u/425687?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ5MjAsIm5iZiI6MTczNDMwMzcyMCwicGF0aCI6Ii91LzQyNTY4NyJ9.1jkhwptDxQBmx4vMGdWQKQjH6r2EjYUCK5JgEgzQgYk&s=72&v=4" width="24" alt="Avatar of adam-p"/> adam-p
+				<img src="https://private-avatars.githubusercontent.com/u/425687?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDA5MjAsIm5iZiI6MTczNDMzOTcyMCwicGF0aCI6Ii91LzQyNTY4NyJ9.MgPQ-hay5rZbqrvDVbFug6esUfYOi9bZ3dRvmBiVsqM&s=72&v=4" width="24" alt="Avatar of adam-p"/> adam-p
 			</a><br/>
 			Adam Pritchard
 		</td>
@@ -8346,7 +8346,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>589</td>
 		<td>
 			<a target="_blank" href="https://github.com/honza">
-				<img src="https://private-avatars.githubusercontent.com/u/206357?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1ODAsIm5iZiI6MTczNDMwNDM4MCwicGF0aCI6Ii91LzIwNjM1NyJ9.84T6yY1nEHOCtRiCFZ1jpOpcYSzC8I5Qi3eZT2pk7fM&s=72&u=305f804239123dda2adc52a4f9fed5ed7a81fd03&v=4" width="24" alt="Avatar of honza"/> honza
+				<img src="https://private-avatars.githubusercontent.com/u/206357?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1ODAsIm5iZiI6MTczNDM0MDM4MCwicGF0aCI6Ii91LzIwNjM1NyJ9.k42wZS93WDS3SChUAsd9hiH65aXXWTO_GpvC62Znv3A&s=72&u=305f804239123dda2adc52a4f9fed5ed7a81fd03&v=4" width="24" alt="Avatar of honza"/> honza
 			</a><br/>
 			Honza Pokorn
 		</td>
@@ -8360,7 +8360,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>590</td>
 		<td>
 			<a target="_blank" href="https://github.com/MustangYM">
-				<img src="https://private-avatars.githubusercontent.com/u/21478687?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ3NDAsIm5iZiI6MTczNDMwMzU0MCwicGF0aCI6Ii91LzIxNDc4Njg3In0.6_pUqYkTymh6rAXu1njgW_Y1_rfK_UqxG7BdW1v2yBo&s=72&u=dc3634d214211435d8d93871e357ea74e85d3afb&v=4" width="24" alt="Avatar of MustangYM"/> MustangYM
+				<img src="https://private-avatars.githubusercontent.com/u/21478687?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE2NDAsIm5iZiI6MTczNDM0MDQ0MCwicGF0aCI6Ii91LzIxNDc4Njg3In0.kk-gKcYgXT1Ybxi9ZTMeFI1nXNdwXu6a7ERZKhmNILQ&s=72&u=dc3634d214211435d8d93871e357ea74e85d3afb&v=4" width="24" alt="Avatar of MustangYM"/> MustangYM
 			</a><br/>
 			SixOne
 		</td>
@@ -8373,8 +8373,22 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 	<tr>
 		<td>591</td>
 		<td>
+			<a target="_blank" href="https://github.com/jamiepine">
+				<img src="https://private-avatars.githubusercontent.com/u/32987599?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0MDAsIm5iZiI6MTczNDM0MDIwMCwicGF0aCI6Ii91LzMyOTg3NTk5In0.EG1jgn0KL_U7k953rW8ZnTitKfUdJ9bgInJ2dXSmQDE&s=72&u=789be9e34e2cca8b4f719d9381cf504c5ac75423&v=4" width="24" alt="Avatar of jamiepine"/> jamiepine
+			</a><br/>
+			Jamie Pine
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/jamiepine">jamiepine</a></td>
+		<td>Vancouver BC</td>
+		<td>118</td>
+		<td>171</td>
+	</tr>
+	<tr>
+		<td>592</td>
+		<td>
 			<a target="_blank" href="https://github.com/Shazwazza">
-				<img src="https://private-avatars.githubusercontent.com/u/1742685?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1MjAsIm5iZiI6MTczNDMwNDMyMCwicGF0aCI6Ii91LzE3NDI2ODUifQ.BV6Ctp0dgCuK7hrL8zsdmgdd2O9rgT9i1ULd5uLFxM0&s=72&u=76749f7fecd872aacedea1040d85312db1ed04b3&v=4" width="24" alt="Avatar of Shazwazza"/> Shazwazza
+				<img src="https://private-avatars.githubusercontent.com/u/1742685?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1MjAsIm5iZiI6MTczNDM0MDMyMCwicGF0aCI6Ii91LzE3NDI2ODUifQ.KO3ZBJGetu6d06b6t7hQAHvOougivzrOwIFQywhkwDo&s=72&u=76749f7fecd872aacedea1040d85312db1ed04b3&v=4" width="24" alt="Avatar of Shazwazza"/> Shazwazza
 			</a><br/>
 			Shannon Deminick
 		</td>
@@ -8385,24 +8399,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>171</td>
 	</tr>
 	<tr>
-		<td>592</td>
-		<td>
-			<a target="_blank" href="https://github.com/jamiepine">
-				<img src="https://private-avatars.githubusercontent.com/u/32987599?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0MDAsIm5iZiI6MTczNDMwNDIwMCwicGF0aCI6Ii91LzMyOTg3NTk5In0.OPcII0fvS9_7A7Ov2zSS5V14-LB6In3dPAWRCa25ef0&s=72&u=789be9e34e2cca8b4f719d9381cf504c5ac75423&v=4" width="24" alt="Avatar of jamiepine"/> jamiepine
-			</a><br/>
-			Jamie Pine
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/jamiepine">jamiepine</a></td>
-		<td>Vancouver BC</td>
-		<td>117</td>
-		<td>170</td>
-	</tr>
-	<tr>
 		<td>593</td>
 		<td>
 			<a target="_blank" href="https://github.com/Devang-25">
-				<img src="https://private-avatars.githubusercontent.com/u/30048876?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1ODAsIm5iZiI6MTczNDMwNDM4MCwicGF0aCI6Ii91LzMwMDQ4ODc2In0.gW-ic9B2Cp25ZQ0_ghwgDtxI1a3CMClaboyi8UnL1jQ&s=72&u=4dddb9f626fc6f4d7081354326f3817c588057b6&v=4" width="24" alt="Avatar of Devang-25"/> Devang-25
+				<img src="https://private-avatars.githubusercontent.com/u/30048876?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1ODAsIm5iZiI6MTczNDM0MDM4MCwicGF0aCI6Ii91LzMwMDQ4ODc2In0.RvjfIbmCWG43iu1DsesH6PVsDvle34ILvPXlC5qHhnk&s=72&u=4dddb9f626fc6f4d7081354326f3817c588057b6&v=4" width="24" alt="Avatar of Devang-25"/> Devang-25
 			</a><br/>
 			DEVANG SHARMA
 		</td>
@@ -8416,7 +8416,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>594</td>
 		<td>
 			<a target="_blank" href="https://github.com/yue9944882">
-				<img src="https://private-avatars.githubusercontent.com/u/12049380?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU5NDAsIm5iZiI6MTczNDMwNDc0MCwicGF0aCI6Ii91LzEyMDQ5MzgwIn0.WsTSRJez_zNlzLB15DnKiKMlNCW8_1Z2jTuLOuBuEBs&s=72&u=ebdc8cbfca571a057bd3a3df0ab200ac633e7faa&v=4" width="24" alt="Avatar of yue9944882"/> yue9944882
+				<img src="https://private-avatars.githubusercontent.com/u/12049380?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE5NDAsIm5iZiI6MTczNDM0MDc0MCwicGF0aCI6Ii91LzEyMDQ5MzgwIn0.NB3a8R3_BajfaTNOOYwFPNeTtMl6n7okiSPz2wXr8Vc&s=72&u=ebdc8cbfca571a057bd3a3df0ab200ac633e7faa&v=4" width="24" alt="Avatar of yue9944882"/> yue9944882
 			</a><br/>
 			Min Jin
 		</td>
@@ -8430,7 +8430,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>595</td>
 		<td>
 			<a target="_blank" href="https://github.com/artkirienko">
-				<img src="https://private-avatars.githubusercontent.com/u/2473081?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyODAsIm5iZiI6MTczNDMwNDA4MCwicGF0aCI6Ii91LzI0NzMwODEifQ.-A5B9IV9MyYTVSryfgLKSAczEAZWK45LT_W_1ffnZrM&s=72&u=bc94fee41fda14a934e60d37dd4b408d74583995&v=4" width="24" alt="Avatar of artkirienko"/> artkirienko
+				<img src="https://private-avatars.githubusercontent.com/u/2473081?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyODAsIm5iZiI6MTczNDM0MDA4MCwicGF0aCI6Ii91LzI0NzMwODEifQ.ERMSuTo4bHshZi1o1clNqYteSqTvL6dfExpjUvwe1Ic&s=72&u=bc94fee41fda14a934e60d37dd4b408d74583995&v=4" width="24" alt="Avatar of artkirienko"/> artkirienko
 			</a><br/>
 			Artem Kirienko
 		</td>
@@ -8444,7 +8444,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>596</td>
 		<td>
 			<a target="_blank" href="https://github.com/moezali1">
-				<img src="https://private-avatars.githubusercontent.com/u/54699234?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU5NDAsIm5iZiI6MTczNDMwNDc0MCwicGF0aCI6Ii91LzU0Njk5MjM0In0.GJdQx9p6YllrEVwRDEk1g2RUsilzCXEUKB9jI_jIhw4&s=72&u=e2bc9b8092e16003489c221c1bfa69dd30e4b81b&v=4" width="24" alt="Avatar of moezali1"/> moezali1
+				<img src="https://private-avatars.githubusercontent.com/u/54699234?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE5NDAsIm5iZiI6MTczNDM0MDc0MCwicGF0aCI6Ii91LzU0Njk5MjM0In0.ZYPq8dLKF7TwOFytPsDUXLiww3Z0Kdpn8JuSKiVbo4c&s=72&u=e2bc9b8092e16003489c221c1bfa69dd30e4b81b&v=4" width="24" alt="Avatar of moezali1"/> moezali1
 			</a><br/>
 			Moez Ali
 		</td>
@@ -8458,7 +8458,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>597</td>
 		<td>
 			<a target="_blank" href="https://github.com/fmoliveira">
-				<img src="https://private-avatars.githubusercontent.com/u/3985462?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU5NDAsIm5iZiI6MTczNDMwNDc0MCwicGF0aCI6Ii91LzM5ODU0NjIifQ._uQLJ0pSNz1xe23amWf4GTDgcecx9PrdZs-zftX6dvA&s=72&u=599d35adc5f2583a503da97ffff6f19791b407c5&v=4" width="24" alt="Avatar of fmoliveira"/> fmoliveira
+				<img src="https://private-avatars.githubusercontent.com/u/3985462?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE5NDAsIm5iZiI6MTczNDM0MDc0MCwicGF0aCI6Ii91LzM5ODU0NjIifQ.boOL5UlIAycJ3jUVmaDQ85BlMqH-PcguhaUcZgyShmk&s=72&u=599d35adc5f2583a503da97ffff6f19791b407c5&v=4" width="24" alt="Avatar of fmoliveira"/> fmoliveira
 			</a><br/>
 			Filipe Oliveira
 		</td>
@@ -8471,8 +8471,22 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 	<tr>
 		<td>598</td>
 		<td>
+			<a target="_blank" href="https://github.com/bigsnarfdude">
+				<img src="https://private-avatars.githubusercontent.com/u/2282364?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIxODAsIm5iZiI6MTczNDM0MDk4MCwicGF0aCI6Ii91LzIyODIzNjQifQ.KKWqYhDEsdJLUf4dzdQPEsrvmTqs9SzWNyjB3tBap1w&s=72&u=36d8cba7f032bf682169b9e7bfa09096a630e625&v=4" width="24" alt="Avatar of bigsnarfdude"/> bigsnarfdude
+			</a><br/>
+			BigsnarfDude
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Canada</td>
+		<td>157</td>
+		<td>157</td>
+	</tr>
+	<tr>
+		<td>599</td>
+		<td>
 			<a target="_blank" href="https://github.com/glouw">
-				<img src="https://private-avatars.githubusercontent.com/u/7000616?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyMjAsIm5iZiI6MTczNDMwNDAyMCwicGF0aCI6Ii91LzcwMDA2MTYifQ.0hHJTAGwPDFtYcZr21koR3UH9mFlsKZE4PSOPG2fVKc&s=72&u=ad484756c9efd221c4af120124cbdd1595511f0d&v=4" width="24" alt="Avatar of glouw"/> glouw
+				<img src="https://private-avatars.githubusercontent.com/u/7000616?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyMjAsIm5iZiI6MTczNDM0MDAyMCwicGF0aCI6Ii91LzcwMDA2MTYifQ.C8MfEqcqtWuuJYGKpzWJLawA1-CJnCHHeThqAT4Tmb0&s=72&u=ad484756c9efd221c4af120124cbdd1595511f0d&v=4" width="24" alt="Avatar of glouw"/> glouw
 			</a><br/>
 			Gustav Louw
 		</td>
@@ -8483,24 +8497,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>155</td>
 	</tr>
 	<tr>
-		<td>599</td>
-		<td>
-			<a target="_blank" href="https://github.com/bigsnarfdude">
-				<img src="https://private-avatars.githubusercontent.com/u/2282364?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyODAsIm5iZiI6MTczNDMwNDA4MCwicGF0aCI6Ii91LzIyODIzNjQifQ.QGOi6zVCvD-i-Zky97NW3frw6yIh4OBsQiaRG5zqcTk&s=72&u=36d8cba7f032bf682169b9e7bfa09096a630e625&v=4" width="24" alt="Avatar of bigsnarfdude"/> bigsnarfdude
-			</a><br/>
-			BigsnarfDude
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Canada</td>
-		<td>155</td>
-		<td>155</td>
-	</tr>
-	<tr>
 		<td>600</td>
 		<td>
 			<a target="_blank" href="https://github.com/shyndman">
-				<img src="https://private-avatars.githubusercontent.com/u/42326?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4ODAsIm5iZiI6MTczNDMwNDY4MCwicGF0aCI6Ii91LzQyMzI2In0.T2xVZncn1gEoTcG3c3YMn_HiDuqKb9-ePpataqZRJF8&s=72&u=7fa732a1cc3c3924add833407364aecd9dcdff78&v=4" width="24" alt="Avatar of shyndman"/> shyndman
+				<img src="https://private-avatars.githubusercontent.com/u/42326?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4ODAsIm5iZiI6MTczNDM0MDY4MCwicGF0aCI6Ii91LzQyMzI2In0.tCMFE8aIoIp0XDDQrGK5NVVTK_vkWonPl5SVaYbuWLA&s=72&u=7fa732a1cc3c3924add833407364aecd9dcdff78&v=4" width="24" alt="Avatar of shyndman"/> shyndman
 			</a><br/>
 			Scott Hyndman
 		</td>
@@ -8514,7 +8514,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>601</td>
 		<td>
 			<a target="_blank" href="https://github.com/cpt-waffle">
-				<img src="https://private-avatars.githubusercontent.com/u/22085961?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDYxMjAsIm5iZiI6MTczNDMwNDkyMCwicGF0aCI6Ii91LzIyMDg1OTYxIn0.oZ1T61nKNcVTPaAto4KLIN7iahhnpN1E6VOkzbtCwTw&s=72&u=e6082ef9f96623eba08e6462862315f65603e551&v=4" width="24" alt="Avatar of cpt-waffle"/> cpt-waffle
+				<img src="https://private-avatars.githubusercontent.com/u/22085961?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIxMjAsIm5iZiI6MTczNDM0MDkyMCwicGF0aCI6Ii91LzIyMDg1OTYxIn0.GIBjZXUK9SEGZ2b5pmxx9EWW7YpwDsRTt071M9sR-QE&s=72&u=e6082ef9f96623eba08e6462862315f65603e551&v=4" width="24" alt="Avatar of cpt-waffle"/> cpt-waffle
 			</a><br/>
 			Waffle
 		</td>
@@ -8528,7 +8528,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>602</td>
 		<td>
 			<a target="_blank" href="https://github.com/MJAlexander">
-				<img src="https://private-avatars.githubusercontent.com/u/7051799?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4MjAsIm5iZiI6MTczNDMwNDYyMCwicGF0aCI6Ii91LzcwNTE3OTkifQ.CLKvt2ywYMX8uHcZph7bZ8iPYa5wIlzhvCtpQJvh3iY&s=72&u=28845de45e45cb40a47bce38eaa96fef5869e951&v=4" width="24" alt="Avatar of MJAlexander"/> MJAlexander
+				<img src="https://private-avatars.githubusercontent.com/u/7051799?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4MjAsIm5iZiI6MTczNDM0MDYyMCwicGF0aCI6Ii91LzcwNTE3OTkifQ.X_nZ68n9-If9iIr_uZGgrIUU7IbqGcNx7wNgMfS0ebg&s=72&u=28845de45e45cb40a47bce38eaa96fef5869e951&v=4" width="24" alt="Avatar of MJAlexander"/> MJAlexander
 			</a><br/>
 			Monica Alexander
 		</td>
@@ -8542,7 +8542,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>603</td>
 		<td>
 			<a target="_blank" href="https://github.com/abbycabs">
-				<img src="https://private-avatars.githubusercontent.com/u/617994?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU2NDAsIm5iZiI6MTczNDMwNDQ0MCwicGF0aCI6Ii91LzYxNzk5NCJ9.8EMluHwyYPx9GDPgCVcecFyToNJLSO5H5Cmg7E48alU&s=72&u=24b65e8fb04a7d1aa58071e28bc7cdc924697ae1&v=4" width="24" alt="Avatar of abbycabs"/> abbycabs
+				<img src="https://private-avatars.githubusercontent.com/u/617994?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE2NDAsIm5iZiI6MTczNDM0MDQ0MCwicGF0aCI6Ii91LzYxNzk5NCJ9.uB-8a3o80K9BBHDm934vY8XcwNG-2SiBIEN2Mm6e58U&s=72&u=24b65e8fb04a7d1aa58071e28bc7cdc924697ae1&v=4" width="24" alt="Avatar of abbycabs"/> abbycabs
 			</a><br/>
 			Abby Cabunoc Mayes
 		</td>
@@ -8556,7 +8556,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>604</td>
 		<td>
 			<a target="_blank" href="https://github.com/taiya">
-				<img src="https://private-avatars.githubusercontent.com/u/4480573?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyODAsIm5iZiI6MTczNDMwNDA4MCwicGF0aCI6Ii91LzQ0ODA1NzMifQ.fVr-nTyVXgUYhmG1PV-lLE4buWm2tMxMfPoPqmYewzQ&s=72&u=114e40b02d8c99e2a3f2dcff4b3a243673009759&v=4" width="24" alt="Avatar of taiya"/> taiya
+				<img src="https://private-avatars.githubusercontent.com/u/4480573?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIxODAsIm5iZiI6MTczNDM0MDk4MCwicGF0aCI6Ii91LzQ0ODA1NzMifQ.68DdYkMyaRJHn3TphSlk6zhbgry7bHk4CdC-8Q7gG78&s=72&u=114e40b02d8c99e2a3f2dcff4b3a243673009759&v=4" width="24" alt="Avatar of taiya"/> taiya
 			</a><br/>
 			Andrea Tagliasacchi
 		</td>
@@ -8570,7 +8570,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>605</td>
 		<td>
 			<a target="_blank" href="https://github.com/dgovil">
-				<img src="https://private-avatars.githubusercontent.com/u/4443090?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyODAsIm5iZiI6MTczNDMwNDA4MCwicGF0aCI6Ii91LzQ0NDMwOTAifQ.LBb1ip4h8x7984aabLgsrvDJy-2WcjHkd5Oyd06P0dE&s=72&u=e6a673d306dfdbb20bb8d1c50fe5fc1b64dd7869&v=4" width="24" alt="Avatar of dgovil"/> dgovil
+				<img src="https://private-avatars.githubusercontent.com/u/4443090?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyODAsIm5iZiI6MTczNDM0MDA4MCwicGF0aCI6Ii91LzQ0NDMwOTAifQ.J4O_TGb2WyfG_pVWGEu7rr9tUdzIN6FPp8Vr08vQBE8&s=72&u=e6a673d306dfdbb20bb8d1c50fe5fc1b64dd7869&v=4" width="24" alt="Avatar of dgovil"/> dgovil
 			</a><br/>
 			Dhruv Govil
 		</td>
@@ -8584,7 +8584,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>606</td>
 		<td>
 			<a target="_blank" href="https://github.com/znck">
-				<img src="https://private-avatars.githubusercontent.com/u/2596484?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ3NDAsIm5iZiI6MTczNDMwMzU0MCwicGF0aCI6Ii91LzI1OTY0ODQifQ.zmuB0NUBcecuunITrNXEzlQ5JHtKtaJaSuvYVf6ELrI&s=72&u=2f8be558ec19ce26766a49de216601181c8f7beb&v=4" width="24" alt="Avatar of znck"/> znck
+				<img src="https://private-avatars.githubusercontent.com/u/2596484?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE2NDAsIm5iZiI6MTczNDM0MDQ0MCwicGF0aCI6Ii91LzI1OTY0ODQifQ.Un_scCVeIOYTyvQ7ccLgUWDhCVE-llnK7ffqe3p_49A&s=72&u=2f8be558ec19ce26766a49de216601181c8f7beb&v=4" width="24" alt="Avatar of znck"/> znck
 			</a><br/>
 			Rahul Kadyan
 		</td>
@@ -8598,7 +8598,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>607</td>
 		<td>
 			<a target="_blank" href="https://github.com/Dref360">
-				<img src="https://private-avatars.githubusercontent.com/u/8976546?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxNjAsIm5iZiI6MTczNDMwMzk2MCwicGF0aCI6Ii91Lzg5NzY1NDYifQ.He5wznxXDqzGlL4H99VEaXDT_mZ387RfgiWyCRQ2sNk&s=72&u=723e68b5eef74cd0e40796a2d84047409833de7e&v=4" width="24" alt="Avatar of Dref360"/> Dref360
+				<img src="https://private-avatars.githubusercontent.com/u/8976546?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIwNjAsIm5iZiI6MTczNDM0MDg2MCwicGF0aCI6Ii91Lzg5NzY1NDYifQ.41EowmO8D8-OlTSNIaALuVEhFpfnkpSZdjJlKWqrA58&s=72&u=723e68b5eef74cd0e40796a2d84047409833de7e&v=4" width="24" alt="Avatar of Dref360"/> Dref360
 			</a><br/>
 			Frdric BranchaudCharron
 		</td>
@@ -8612,7 +8612,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>608</td>
 		<td>
 			<a target="_blank" href="https://github.com/ela-codes">
-				<img src="https://private-avatars.githubusercontent.com/u/103253928?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyODAsIm5iZiI6MTczNDMwNDA4MCwicGF0aCI6Ii91LzEwMzI1MzkyOCJ9.W3nVwmxPlx7bLzD__F5XeOoiMQtnkSJOxZ-l1HQ-DNA&s=72&u=0ce2438b4eb0ba95ce054d48097ee3fdaf4e6e66&v=4" width="24" alt="Avatar of ela-codes"/> ela-codes
+				<img src="https://private-avatars.githubusercontent.com/u/103253928?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyODAsIm5iZiI6MTczNDM0MDA4MCwicGF0aCI6Ii91LzEwMzI1MzkyOCJ9.o0P9a4shiVTH7_SsGs8tD4xc0KqnIZR0VE4su7lCzq0&s=72&u=0ce2438b4eb0ba95ce054d48097ee3fdaf4e6e66&v=4" width="24" alt="Avatar of ela-codes"/> ela-codes
 			</a><br/>
 			Ela
 		</td>
@@ -8626,7 +8626,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>609</td>
 		<td>
 			<a target="_blank" href="https://github.com/feeley">
-				<img src="https://private-avatars.githubusercontent.com/u/555673?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1ODAsIm5iZiI6MTczNDMwNDM4MCwicGF0aCI6Ii91LzU1NTY3MyJ9.ktvl2OjGdNwmgZoQrNr7MpCVbl8t6PGwaM0HFtJAmJQ&s=72&v=4" width="24" alt="Avatar of feeley"/> feeley
+				<img src="https://private-avatars.githubusercontent.com/u/555673?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1ODAsIm5iZiI6MTczNDM0MDM4MCwicGF0aCI6Ii91LzU1NTY3MyJ9.b8ELC9P6LDaiPenuWeP2N6WA8nVdlnbGppV5zLghqcc&s=72&v=4" width="24" alt="Avatar of feeley"/> feeley
 			</a><br/>
 			Marc Feeley
 		</td>
@@ -8639,8 +8639,22 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 	<tr>
 		<td>610</td>
 		<td>
+			<a target="_blank" href="https://github.com/vbrazo">
+				<img src="https://private-avatars.githubusercontent.com/u/1292556?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4ODAsIm5iZiI6MTczNDM0MDY4MCwicGF0aCI6Ii91LzEyOTI1NTYifQ.GcXeR3Z3Wtw-L50OwBD8ejjZiZd9pDpgi9rgeVV47O0&s=72&u=3c0e01138a23e3708f73e2470ce0a4af71e180ef&v=4" width="24" alt="Avatar of vbrazo"/> vbrazo
+			</a><br/>
+			Vitor Oliveira
+		</td>
+		<td>@fakerruby @elixirs @thealgorithms </td>
+		<td>No Twitter Username</td>
+		<td>Vancouver Canada</td>
+		<td>4</td>
+		<td>138</td>
+	</tr>
+	<tr>
+		<td>611</td>
+		<td>
 			<a target="_blank" href="https://github.com/popekim">
-				<img src="https://private-avatars.githubusercontent.com/u/6261778?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4MjAsIm5iZiI6MTczNDMwNDYyMCwicGF0aCI6Ii91LzYyNjE3NzgifQ.taZ0Q5ck2jtHEK_bQZcxXzJ8MheCxLl4JLW8wN6IFkc&s=72&u=7af828b0a19fb45416c508405f2e3193c766cee6&v=4" width="24" alt="Avatar of popekim"/> popekim
+				<img src="https://private-avatars.githubusercontent.com/u/6261778?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4MjAsIm5iZiI6MTczNDM0MDYyMCwicGF0aCI6Ii91LzYyNjE3NzgifQ.176SxBwunXUhZQDpEUlFvCdFzGPO3TepE74U-btxQbA&s=72&u=7af828b0a19fb45416c508405f2e3193c766cee6&v=4" width="24" alt="Avatar of popekim"/> popekim
 			</a><br/>
 			Pope Kim
 		</td>
@@ -8651,10 +8665,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>134</td>
 	</tr>
 	<tr>
-		<td>611</td>
+		<td>612</td>
 		<td>
 			<a target="_blank" href="https://github.com/remi">
-				<img src="https://private-avatars.githubusercontent.com/u/11348?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU5NDAsIm5iZiI6MTczNDMwNDc0MCwicGF0aCI6Ii91LzExMzQ4In0.WWLscGHEUvh0y0l95qybAiAeWW1sewlx1gjU61Cgexc&s=72&u=87a4039dfdfe33c03b063c48cec48b1620d56d47&v=4" width="24" alt="Avatar of remi"/> remi
+				<img src="https://private-avatars.githubusercontent.com/u/11348?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE5NDAsIm5iZiI6MTczNDM0MDc0MCwicGF0aCI6Ii91LzExMzQ4In0.o4Ntk48BRcv_C0Xv4PC__SBvrG6BzqIhYIySnD1tgI8&s=72&u=87a4039dfdfe33c03b063c48cec48b1620d56d47&v=4" width="24" alt="Avatar of remi"/> remi
 			</a><br/>
 			Rmi Prvost
 		</td>
@@ -8665,10 +8679,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>134</td>
 	</tr>
 	<tr>
-		<td>612</td>
+		<td>613</td>
 		<td>
 			<a target="_blank" href="https://github.com/MariyaSha">
-				<img src="https://private-avatars.githubusercontent.com/u/32107652?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0MDAsIm5iZiI6MTczNDMwNDIwMCwicGF0aCI6Ii91LzMyMTA3NjUyIn0.p_St5ETHq0djlSPpZp923CWHaui6_do4qxwHHCA68dI&s=72&u=52ea232e1b394ecf379bab0efb0d80d2ccc73818&v=4" width="24" alt="Avatar of MariyaSha"/> MariyaSha
+				<img src="https://private-avatars.githubusercontent.com/u/32107652?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0MDAsIm5iZiI6MTczNDM0MDIwMCwicGF0aCI6Ii91LzMyMTA3NjUyIn0.qPTWj7vmDg8mfCX-qJS8S-oQM3rAv7hnEJb1WBtfwqM&s=72&u=52ea232e1b394ecf379bab0efb0d80d2ccc73818&v=4" width="24" alt="Avatar of MariyaSha"/> MariyaSha
 			</a><br/>
 			Mariya
 		</td>
@@ -8679,10 +8693,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>133</td>
 	</tr>
 	<tr>
-		<td>613</td>
+		<td>614</td>
 		<td>
 			<a target="_blank" href="https://github.com/JacintoDesign">
-				<img src="https://private-avatars.githubusercontent.com/u/37252418?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0MDAsIm5iZiI6MTczNDMwNDIwMCwicGF0aCI6Ii91LzM3MjUyNDE4In0.QcIV-YGYkTBJ5dj5tfZmXsIBY-wciNWBYelAFpim76g&s=72&u=9222aa4277561531ec5248a50e835344a22801e1&v=4" width="24" alt="Avatar of JacintoDesign"/> JacintoDesign
+				<img src="https://private-avatars.githubusercontent.com/u/37252418?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0MDAsIm5iZiI6MTczNDM0MDIwMCwicGF0aCI6Ii91LzM3MjUyNDE4In0.UEtXsHavaWrrp8_4vGkTDDJLbh7V-kIjgbpo0jnEzGA&s=72&u=9222aa4277561531ec5248a50e835344a22801e1&v=4" width="24" alt="Avatar of JacintoDesign"/> JacintoDesign
 			</a><br/>
 			Jacinto Wong 
 		</td>
@@ -8693,10 +8707,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>132</td>
 	</tr>
 	<tr>
-		<td>614</td>
+		<td>615</td>
 		<td>
 			<a target="_blank" href="https://github.com/WebChefDev">
-				<img src="https://private-avatars.githubusercontent.com/u/134308056?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1MjAsIm5iZiI6MTczNDMwNDMyMCwicGF0aCI6Ii91LzEzNDMwODA1NiJ9.TjtoM-bJ6QuF4s7xaBVMWurUkWc9I5QkPgB_BeTthJE&s=72&u=a566b6c394f1d196e4966efcdc9394b702191fcf&v=4" width="24" alt="Avatar of WebChefDev"/> WebChefDev
+				<img src="https://private-avatars.githubusercontent.com/u/134308056?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1MjAsIm5iZiI6MTczNDM0MDMyMCwicGF0aCI6Ii91LzEzNDMwODA1NiJ9.Vbmg_iIg_0QbaeFel9FTwHQu2z6zPYfP5ZUM9JV3cM4&s=72&u=a566b6c394f1d196e4966efcdc9394b702191fcf&v=4" width="24" alt="Avatar of WebChefDev"/> WebChefDev
 			</a><br/>
 			Sarah
 		</td>
@@ -8707,10 +8721,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>131</td>
 	</tr>
 	<tr>
-		<td>615</td>
+		<td>616</td>
 		<td>
 			<a target="_blank" href="https://github.com/tom-weiland">
-				<img src="https://private-avatars.githubusercontent.com/u/51303091?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1ODAsIm5iZiI6MTczNDMwNDM4MCwicGF0aCI6Ii91LzUxMzAzMDkxIn0.hgmCYCbFUe2-oUfeQeqQGDtMetI-ucWjeyN1EnfjS6w&s=72&u=edef6426a1db9d3dc4817a7cfaec41d2dfb93e0f&v=4" width="24" alt="Avatar of tom-weiland"/> tom-weiland
+				<img src="https://private-avatars.githubusercontent.com/u/51303091?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1ODAsIm5iZiI6MTczNDM0MDM4MCwicGF0aCI6Ii91LzUxMzAzMDkxIn0.4vJ-e9qDEIA2eQpSSGlE3_dRrL2GpS4G7wxiZ6fA-LQ&s=72&u=edef6426a1db9d3dc4817a7cfaec41d2dfb93e0f&v=4" width="24" alt="Avatar of tom-weiland"/> tom-weiland
 			</a><br/>
 			Tom Weiland
 		</td>
@@ -8721,10 +8735,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>130</td>
 	</tr>
 	<tr>
-		<td>616</td>
+		<td>617</td>
 		<td>
 			<a target="_blank" href="https://github.com/fpgadeveloper">
-				<img src="https://private-avatars.githubusercontent.com/u/964830?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxNjAsIm5iZiI6MTczNDMwMzk2MCwicGF0aCI6Ii91Lzk2NDgzMCJ9.srWsMXH8iu_gMkvyQ62zEMgqyktnK4FWOog4HEZIBvQ&s=72&u=9fcb453be599939100da2a087d158e8194565011&v=4" width="24" alt="Avatar of fpgadeveloper"/> fpgadeveloper
+				<img src="https://private-avatars.githubusercontent.com/u/964830?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDExNjAsIm5iZiI6MTczNDMzOTk2MCwicGF0aCI6Ii91Lzk2NDgzMCJ9.aow-_Eqv8yW63s3zeGwu2Td1Np7NU3ZDBdYa4AZNLzo&s=72&u=9fcb453be599939100da2a087d158e8194565011&v=4" width="24" alt="Avatar of fpgadeveloper"/> fpgadeveloper
 			</a><br/>
 			Jeff Johnson
 		</td>
@@ -8735,24 +8749,38 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>129</td>
 	</tr>
 	<tr>
-		<td>617</td>
-		<td>
-			<a target="_blank" href="https://github.com/vbrazo">
-				<img src="https://private-avatars.githubusercontent.com/u/1292556?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4ODAsIm5iZiI6MTczNDMwNDY4MCwicGF0aCI6Ii91LzEyOTI1NTYifQ.n-pJt0SkbvZPAD_fjZS82O5DItVh6ZumJWbA4nxHMH8&s=72&u=3c0e01138a23e3708f73e2470ce0a4af71e180ef&v=4" width="24" alt="Avatar of vbrazo"/> vbrazo
-			</a><br/>
-			Vitor Oliveira
-		</td>
-		<td>@fakerruby @elixirs @thealgorithms </td>
-		<td>No Twitter Username</td>
-		<td>Vancouver Canada</td>
-		<td>4</td>
-		<td>129</td>
-	</tr>
-	<tr>
 		<td>618</td>
 		<td>
+			<a target="_blank" href="https://github.com/st3fan">
+				<img src="https://private-avatars.githubusercontent.com/u/28052?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3MDAsIm5iZiI6MTczNDM0MDUwMCwicGF0aCI6Ii91LzI4MDUyIn0.eeaRFPO_xxZuS6vcf13HPNdqSQQTEPSyppfV82V9F3E&s=72&u=9179ebbd67123d4b696e961d6cdf787165f80713&v=4" width="24" alt="Avatar of st3fan"/> st3fan
+			</a><br/>
+			Stefan Arentz
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Toronto ON Canada</td>
+		<td>126</td>
+		<td>126</td>
+	</tr>
+	<tr>
+		<td>619</td>
+		<td>
+			<a target="_blank" href="https://github.com/xu-cheng">
+				<img src="https://private-avatars.githubusercontent.com/u/3105373?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEzNDAsIm5iZiI6MTczNDM0MDE0MCwicGF0aCI6Ii91LzMxMDUzNzMifQ.Fe1eMIg693g6crfKIcXnhMpvBFwdBEFYTbDODYzQnoU&s=72&u=20b9c3f0084ae894679e86b2f8313983bcf4f01c&v=4" width="24" alt="Avatar of xu-cheng"/> xu-cheng
+			</a><br/>
+			Cheng Xu
+		</td>
+		<td>Fortinet </td>
+		<td>No Twitter Username</td>
+		<td>Vancouver BC Canada</td>
+		<td>116</td>
+		<td>126</td>
+	</tr>
+	<tr>
+		<td>620</td>
+		<td>
 			<a target="_blank" href="https://github.com/senorprogrammer">
-				<img src="https://private-avatars.githubusercontent.com/u/6413?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4MjAsIm5iZiI6MTczNDMwNDYyMCwicGF0aCI6Ii91LzY0MTMifQ.Z_bFt1A3Dindf1ykKN_tQqhumQSr3ZMMJwMBNwIOb6k&s=72&u=14c216adecacd6167309475e39353faf8ad2f990&v=4" width="24" alt="Avatar of senorprogrammer"/> senorprogrammer
+				<img src="https://private-avatars.githubusercontent.com/u/6413?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4MjAsIm5iZiI6MTczNDM0MDYyMCwicGF0aCI6Ii91LzY0MTMifQ.EJeTZQAutHpXS9w3ip-EAHuq83pk2tPi4CtkIIlNWwo&s=72&u=14c216adecacd6167309475e39353faf8ad2f990&v=4" width="24" alt="Avatar of senorprogrammer"/> senorprogrammer
 			</a><br/>
 			Chris Cummer
 		</td>
@@ -8763,10 +8791,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>125</td>
 	</tr>
 	<tr>
-		<td>619</td>
+		<td>621</td>
 		<td>
 			<a target="_blank" href="https://github.com/dustinsenos">
-				<img src="https://private-avatars.githubusercontent.com/u/134000?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3NjAsIm5iZiI6MTczNDMwNDU2MCwicGF0aCI6Ii91LzEzNDAwMCJ9.SYLMZrI_ricxqYH0H9xE1Oh_45-p90ftVxIYMhaGlHI&s=72&v=4" width="24" alt="Avatar of dustinsenos"/> dustinsenos
+				<img src="https://private-avatars.githubusercontent.com/u/134000?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3NjAsIm5iZiI6MTczNDM0MDU2MCwicGF0aCI6Ii91LzEzNDAwMCJ9.mFaovPWIkZApGQBHA9n2slLWg_bauVXJ1H3TV2Y6gAM&s=72&v=4" width="24" alt="Avatar of dustinsenos"/> dustinsenos
 			</a><br/>
 			Dustin Senos
 		</td>
@@ -8777,10 +8805,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>125</td>
 	</tr>
 	<tr>
-		<td>620</td>
+		<td>622</td>
 		<td>
 			<a target="_blank" href="https://github.com/Rayhane-mamah">
-				<img src="https://private-avatars.githubusercontent.com/u/34689728?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4ODAsIm5iZiI6MTczNDMwNDY4MCwicGF0aCI6Ii91LzM0Njg5NzI4In0.EdWYUNafeCFQ2I2e3YwMSZ2ieCo7N-hm9aTaWS2G684&s=72&u=c4d1b44ce21c4b0a64dbaadfbdce239a00fdbe48&v=4" width="24" alt="Avatar of Rayhane-mamah"/> Rayhane-mamah
+				<img src="https://private-avatars.githubusercontent.com/u/34689728?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4ODAsIm5iZiI6MTczNDM0MDY4MCwicGF0aCI6Ii91LzM0Njg5NzI4In0.Udw72qBN2mf0zj6SBHGAlcDaNjTqS6mEtYI8QgmM-QM&s=72&u=c4d1b44ce21c4b0a64dbaadfbdce239a00fdbe48&v=4" width="24" alt="Avatar of Rayhane-mamah"/> Rayhane-mamah
 			</a><br/>
 			Rayhane Mama
 		</td>
@@ -8791,10 +8819,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>125</td>
 	</tr>
 	<tr>
-		<td>621</td>
+		<td>623</td>
 		<td>
 			<a target="_blank" href="https://github.com/priya-dwivedi">
-				<img src="https://private-avatars.githubusercontent.com/u/21087800?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0MDAsIm5iZiI6MTczNDMwNDIwMCwicGF0aCI6Ii91LzIxMDg3ODAwIn0.5yWQxVddlCFmraKHgC1mpmWPrJ6aLFAcyQc1B_53SG0&s=72&u=4548156960e115373c252ef6623cc8013a7abf41&v=4" width="24" alt="Avatar of priya-dwivedi"/> priya-dwivedi
+				<img src="https://private-avatars.githubusercontent.com/u/21087800?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0MDAsIm5iZiI6MTczNDM0MDIwMCwicGF0aCI6Ii91LzIxMDg3ODAwIn0.OvceB3clIeC_q-pkFqu-cRbT59LFb2A8IFASJX35BaE&s=72&u=4548156960e115373c252ef6623cc8013a7abf41&v=4" width="24" alt="Avatar of priya-dwivedi"/> priya-dwivedi
 			</a><br/>
 			Priyanka Dwivedi
 		</td>
@@ -8805,10 +8833,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>123</td>
 	</tr>
 	<tr>
-		<td>622</td>
+		<td>624</td>
 		<td>
 			<a target="_blank" href="https://github.com/iTaysonLab">
-				<img src="https://private-avatars.githubusercontent.com/u/9827543?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU2NDAsIm5iZiI6MTczNDMwNDQ0MCwicGF0aCI6Ii91Lzk4Mjc1NDMifQ.TTYO7sVfGx9A6lfwyKLiaPFxctpgrJ-CTndmbeCbPrQ&s=72&u=1e83aa6bdef552ddf1afe7f24489c0664d03a1c1&v=4" width="24" alt="Avatar of iTaysonLab"/> iTaysonLab
+				<img src="https://private-avatars.githubusercontent.com/u/9827543?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE2NDAsIm5iZiI6MTczNDM0MDQ0MCwicGF0aCI6Ii91Lzk4Mjc1NDMifQ.6nBr-UM_2omOo4BEVrG9mmAMchMAnLuHw7j5xv8LZN8&s=72&u=1e83aa6bdef552ddf1afe7f24489c0664d03a1c1&v=4" width="24" alt="Avatar of iTaysonLab"/> iTaysonLab
 			</a><br/>
 			Dmytro Tarasenko
 		</td>
@@ -8819,10 +8847,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>123</td>
 	</tr>
 	<tr>
-		<td>623</td>
+		<td>625</td>
 		<td>
 			<a target="_blank" href="https://github.com/arjungautam1">
-				<img src="https://private-avatars.githubusercontent.com/u/36923691?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3NjAsIm5iZiI6MTczNDMwNDU2MCwicGF0aCI6Ii91LzM2OTIzNjkxIn0.7X_TUFMNDgQGLPCrcxPUqnCXBsPbLd3p4xvMbUd6S9w&s=72&u=5f759bd16f6be574a613875510a9a7571f7c1b27&v=4" width="24" alt="Avatar of arjungautam1"/> arjungautam1
+				<img src="https://private-avatars.githubusercontent.com/u/36923691?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3NjAsIm5iZiI6MTczNDM0MDU2MCwicGF0aCI6Ii91LzM2OTIzNjkxIn0.5TcHWbmrtcMEpGqmEwffsGVx6tZumnO9wiu_7v9HmE0&s=72&u=5f759bd16f6be574a613875510a9a7571f7c1b27&v=4" width="24" alt="Avatar of arjungautam1"/> arjungautam1
 			</a><br/>
 			Arjun Gautam
 		</td>
@@ -8833,10 +8861,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>123</td>
 	</tr>
 	<tr>
-		<td>624</td>
+		<td>626</td>
 		<td>
 			<a target="_blank" href="https://github.com/gpleiss">
-				<img src="https://private-avatars.githubusercontent.com/u/824157?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0MDAsIm5iZiI6MTczNDMwNDIwMCwicGF0aCI6Ii91LzgyNDE1NyJ9.PmF5g56bk0l-J4EeruLKzqfXawdTlH7r8oGfQielLMg&s=72&u=2b27851b92ce722cfa252277afbaaf37d721b956&v=4" width="24" alt="Avatar of gpleiss"/> gpleiss
+				<img src="https://private-avatars.githubusercontent.com/u/824157?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0MDAsIm5iZiI6MTczNDM0MDIwMCwicGF0aCI6Ii91LzgyNDE1NyJ9.MFAztCl-ascjLwZsfr5gxBsp-JTbUh-SE4R5tNbGbpA&s=72&u=2b27851b92ce722cfa252277afbaaf37d721b956&v=4" width="24" alt="Avatar of gpleiss"/> gpleiss
 			</a><br/>
 			Geoff Pleiss
 		</td>
@@ -8847,24 +8875,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>122</td>
 	</tr>
 	<tr>
-		<td>625</td>
-		<td>
-			<a target="_blank" href="https://github.com/st3fan">
-				<img src="https://private-avatars.githubusercontent.com/u/28052?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3MDAsIm5iZiI6MTczNDMwNDUwMCwicGF0aCI6Ii91LzI4MDUyIn0.spYYpBrgQpdcbGtdeCq0KY8QTuYxcp4ME-e3weEWLps&s=72&u=9179ebbd67123d4b696e961d6cdf787165f80713&v=4" width="24" alt="Avatar of st3fan"/> st3fan
-			</a><br/>
-			Stefan Arentz
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Toronto ON Canada</td>
-		<td>121</td>
-		<td>121</td>
-	</tr>
-	<tr>
-		<td>626</td>
+		<td>627</td>
 		<td>
 			<a target="_blank" href="https://github.com/josh0xA">
-				<img src="https://private-avatars.githubusercontent.com/u/29878743?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ5ODAsIm5iZiI6MTczNDMwMzc4MCwicGF0aCI6Ii91LzI5ODc4NzQzIn0.GF2z7nrjy-kntHyjXBCo0ehET4ylQVqDRBc4joxrGTQ&s=72&u=6f0583bc5086fbde339b5e0f44ba827ea89e8322&v=4" width="24" alt="Avatar of josh0xA"/> josh0xA
+				<img src="https://private-avatars.githubusercontent.com/u/29878743?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4ODAsIm5iZiI6MTczNDM0MDY4MCwicGF0aCI6Ii91LzI5ODc4NzQzIn0.n4_i9N6Z_OUQXUU049ZgROBylQCHbXNHVAMdwUfqcz4&s=72&u=6f0583bc5086fbde339b5e0f44ba827ea89e8322&v=4" width="24" alt="Avatar of josh0xA"/> josh0xA
 			</a><br/>
 			Josh Schiavone
 		</td>
@@ -8875,10 +8889,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>120</td>
 	</tr>
 	<tr>
-		<td>627</td>
+		<td>628</td>
 		<td>
 			<a target="_blank" href="https://github.com/portfoliocourses">
-				<img src="https://private-avatars.githubusercontent.com/u/85077613?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyMjAsIm5iZiI6MTczNDMwNDAyMCwicGF0aCI6Ii91Lzg1MDc3NjEzIn0.cF6wWAO65NXOqr_p5-IKtUotXZcFXidfzz48_PX2UCg&s=72&u=3125f002122272cad3dc8b1919952fe65cebc686&v=4" width="24" alt="Avatar of portfoliocourses"/> portfoliocourses
+				<img src="https://private-avatars.githubusercontent.com/u/85077613?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyMjAsIm5iZiI6MTczNDM0MDAyMCwicGF0aCI6Ii91Lzg1MDc3NjEzIn0.Us4u1oKl5JPbJUJFFyTG4oTu74SKSSy_xN4DQznN-80&s=72&u=3125f002122272cad3dc8b1919952fe65cebc686&v=4" width="24" alt="Avatar of portfoliocourses"/> portfoliocourses
 			</a><br/>
 			Portfolio Courses
 		</td>
@@ -8889,24 +8903,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>120</td>
 	</tr>
 	<tr>
-		<td>628</td>
-		<td>
-			<a target="_blank" href="https://github.com/xu-cheng">
-				<img src="https://private-avatars.githubusercontent.com/u/3105373?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91LzMxMDUzNzMifQ.UJz7t4Qm9R2RTB9T83TfRfN1Ylz5BNLDmx2Kg0z5CAU&s=72&u=20b9c3f0084ae894679e86b2f8313983bcf4f01c&v=4" width="24" alt="Avatar of xu-cheng"/> xu-cheng
-			</a><br/>
-			Cheng Xu
-		</td>
-		<td>Fortinet </td>
-		<td>No Twitter Username</td>
-		<td>Vancouver BC Canada</td>
-		<td>116</td>
-		<td>119</td>
-	</tr>
-	<tr>
 		<td>629</td>
 		<td>
 			<a target="_blank" href="https://github.com/jamesmh">
-				<img src="https://private-avatars.githubusercontent.com/u/7213174?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4MjAsIm5iZiI6MTczNDMwNDYyMCwicGF0aCI6Ii91LzcyMTMxNzQifQ.y5k8xG9-KOBpK-JIrLr_6Jz_iKZfjLbvl_ZIvDYHBws&s=72&v=4" width="24" alt="Avatar of jamesmh"/> jamesmh
+				<img src="https://private-avatars.githubusercontent.com/u/7213174?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4MjAsIm5iZiI6MTczNDM0MDYyMCwicGF0aCI6Ii91LzcyMTMxNzQifQ.vN1YRvpF4kruMgnY_1YbDbm0kVe0AL9AIX4C10NSLXo&s=72&v=4" width="24" alt="Avatar of jamesmh"/> jamesmh
 			</a><br/>
 			James Hickey
 		</td>
@@ -8920,7 +8920,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>630</td>
 		<td>
 			<a target="_blank" href="https://github.com/ChevyRay">
-				<img src="https://private-avatars.githubusercontent.com/u/5573082?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ5ODAsIm5iZiI6MTczNDMwMzc4MCwicGF0aCI6Ii91LzU1NzMwODIifQ.b36gDy2gkWK7J468gAUa9-iBvpbRfH7gbCeN-Goue0c&s=72&u=c89bea28a78ff93c521a38430a44f6818aa2b618&v=4" width="24" alt="Avatar of ChevyRay"/> ChevyRay
+				<img src="https://private-avatars.githubusercontent.com/u/5573082?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4ODAsIm5iZiI6MTczNDM0MDY4MCwicGF0aCI6Ii91LzU1NzMwODIifQ.P_h2D9N3y3ij6j4539RI92rw4DBVk214AlVtxFH23Mk&s=72&u=c89bea28a78ff93c521a38430a44f6818aa2b618&v=4" width="24" alt="Avatar of ChevyRay"/> ChevyRay
 			</a><br/>
 			Chevy Ray Johnston
 		</td>
@@ -8934,7 +8934,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>631</td>
 		<td>
 			<a target="_blank" href="https://github.com/alhassy">
-				<img src="https://private-avatars.githubusercontent.com/u/28608756?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1ODAsIm5iZiI6MTczNDMwNDM4MCwicGF0aCI6Ii91LzI4NjA4NzU2In0.0CpQLnb22z8mbfBxqWRWurFMVNKdz63S4lPJ9IOZvf8&s=72&u=dcf04df97764bd32470d3bf0395826bc01fdd686&v=4" width="24" alt="Avatar of alhassy"/> alhassy
+				<img src="https://private-avatars.githubusercontent.com/u/28608756?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1ODAsIm5iZiI6MTczNDM0MDM4MCwicGF0aCI6Ii91LzI4NjA4NzU2In0.MGlQZONWlPSKC2RvfSPhL5TAAtkAVIIuTlMdI6vBodc&s=72&u=dcf04df97764bd32470d3bf0395826bc01fdd686&v=4" width="24" alt="Avatar of alhassy"/> alhassy
 			</a><br/>
 			Musa Alhassy
 		</td>
@@ -8948,7 +8948,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>632</td>
 		<td>
 			<a target="_blank" href="https://github.com/stemmlerjs">
-				<img src="https://private-avatars.githubusercontent.com/u/6892666?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91LzY4OTI2NjYifQ.0yZqQ6Okt920Xw5Nkt2mAv0N6rWg4esDXl0-FXA0ffA&s=72&u=873a0bd3b94a7a7b4fe90ebc38d13ca7bae3ce5a&v=4" width="24" alt="Avatar of stemmlerjs"/> stemmlerjs
+				<img src="https://private-avatars.githubusercontent.com/u/6892666?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEzNDAsIm5iZiI6MTczNDM0MDE0MCwicGF0aCI6Ii91LzY4OTI2NjYifQ.oSWERHVU4WU9HbTKAeNa_ND6fyuNARsmiAOHBS1xuPU&s=72&u=873a0bd3b94a7a7b4fe90ebc38d13ca7bae3ce5a&v=4" width="24" alt="Avatar of stemmlerjs"/> stemmlerjs
 			</a><br/>
 			Khalil Stemmler
 		</td>
@@ -8962,7 +8962,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>633</td>
 		<td>
 			<a target="_blank" href="https://github.com/jpsim">
-				<img src="https://private-avatars.githubusercontent.com/u/474794?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0MDAsIm5iZiI6MTczNDMwNDIwMCwicGF0aCI6Ii91LzQ3NDc5NCJ9.BwWhfpxIpI9a_zbgoGuJ0ZLdXZTSkBHSCHbl5J6BCRU&s=72&u=c9c27581b9b8e685636bba838fcae5bceb8f86d2&v=4" width="24" alt="Avatar of jpsim"/> jpsim
+				<img src="https://private-avatars.githubusercontent.com/u/474794?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0MDAsIm5iZiI6MTczNDM0MDIwMCwicGF0aCI6Ii91LzQ3NDc5NCJ9.EErNgsdaV068Qt5eyGh7c9A0WZOTMNlBRze4T4RbK5k&s=72&u=c9c27581b9b8e685636bba838fcae5bceb8f86d2&v=4" width="24" alt="Avatar of jpsim"/> jpsim
 			</a><br/>
 			JP Simard
 		</td>
@@ -8976,7 +8976,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>634</td>
 		<td>
 			<a target="_blank" href="https://github.com/JunMa11">
-				<img src="https://private-avatars.githubusercontent.com/u/19947331?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ5ODAsIm5iZiI6MTczNDMwMzc4MCwicGF0aCI6Ii91LzE5OTQ3MzMxIn0.vrg0-7Ac7RXaCiF9p6_C64ymQLhgU_fVXxmwUapk2CU&s=72&u=b51fde57873d7a707f989e69974ff7c80f370917&v=4" width="24" alt="Avatar of JunMa11"/> JunMa11
+				<img src="https://private-avatars.githubusercontent.com/u/19947331?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDA5ODAsIm5iZiI6MTczNDMzOTc4MCwicGF0aCI6Ii91LzE5OTQ3MzMxIn0.romIhI5Xr-vTN6qcZxDip9Y495Ezz1Ocrg9kguJLMRk&s=72&u=b51fde57873d7a707f989e69974ff7c80f370917&v=4" width="24" alt="Avatar of JunMa11"/> JunMa11
 			</a><br/>
 			Jun
 		</td>
@@ -8990,7 +8990,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>635</td>
 		<td>
 			<a target="_blank" href="https://github.com/Oxer11">
-				<img src="https://private-avatars.githubusercontent.com/u/44687071?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDYwMDAsIm5iZiI6MTczNDMwNDgwMCwicGF0aCI6Ii91LzQ0Njg3MDcxIn0.UN1MbvPc_Ui46AXvXOKEFD3Iin3bKe0sViwhs8MsCWE&s=72&u=a3972e3aac560e3c0caef83b024f7476719e2c05&v=4" width="24" alt="Avatar of Oxer11"/> Oxer11
+				<img src="https://private-avatars.githubusercontent.com/u/44687071?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIwMDAsIm5iZiI6MTczNDM0MDgwMCwicGF0aCI6Ii91LzQ0Njg3MDcxIn0.QPlpYDhhmqnINT2l74Qnr_zHCTS5pGGaqiYZ2QVXCMs&s=72&u=a3972e3aac560e3c0caef83b024f7476719e2c05&v=4" width="24" alt="Avatar of Oxer11"/> Oxer11
 			</a><br/>
 			Zuobai Zhang
 		</td>
@@ -9004,7 +9004,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>636</td>
 		<td>
 			<a target="_blank" href="https://github.com/dolevf">
-				<img src="https://private-avatars.githubusercontent.com/u/5857304?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1ODAsIm5iZiI6MTczNDMwNDM4MCwicGF0aCI6Ii91LzU4NTczMDQifQ.DlqFaKfOwuXVoMPcmkldG5fSIQiyPHmx_dVjpVHHi0Y&s=72&u=f632bc298040574f4c828c21112a607cb4093495&v=4" width="24" alt="Avatar of dolevf"/> dolevf
+				<img src="https://private-avatars.githubusercontent.com/u/5857304?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1ODAsIm5iZiI6MTczNDM0MDM4MCwicGF0aCI6Ii91LzU4NTczMDQifQ.FdXHyfO6nnHlonoB_fqRyIo2MkUyZiHj2AWPS3bgu60&s=72&u=f632bc298040574f4c828c21112a607cb4093495&v=4" width="24" alt="Avatar of dolevf"/> dolevf
 			</a><br/>
 			Dolev Farhi
 		</td>
@@ -9018,7 +9018,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>637</td>
 		<td>
 			<a target="_blank" href="https://github.com/iurimatias">
-				<img src="https://private-avatars.githubusercontent.com/u/176720?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91LzE3NjcyMCJ9.O-aZvin5Hd9sBFG9Yz1EF7jr1S7CgBGFa-QF2XmP9a0&s=72&u=4ce435619752ef274d1298a616946652bdafbe1e&v=4" width="24" alt="Avatar of iurimatias"/> iurimatias
+				<img src="https://private-avatars.githubusercontent.com/u/176720?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEzNDAsIm5iZiI6MTczNDM0MDE0MCwicGF0aCI6Ii91LzE3NjcyMCJ9.ddXk-6tF-7oXzeoH13L2snZbrrSScKD4pR_dLLyF26g&s=72&u=4ce435619752ef274d1298a616946652bdafbe1e&v=4" width="24" alt="Avatar of iurimatias"/> iurimatias
 			</a><br/>
 			Iuri Matias
 		</td>
@@ -9032,7 +9032,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>638</td>
 		<td>
 			<a target="_blank" href="https://github.com/ddavison">
-				<img src="https://private-avatars.githubusercontent.com/u/2972876?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91LzI5NzI4NzYifQ.Ij0_7LBkzt_9IuPZI4zG5CBmZJEeh5yLFuRfkS6FQeU&s=72&v=4" width="24" alt="Avatar of ddavison"/> ddavison
+				<img src="https://private-avatars.githubusercontent.com/u/2972876?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIyNDAsIm5iZiI6MTczNDM0MTA0MCwicGF0aCI6Ii91LzI5NzI4NzYifQ.Y2ukff0AlB13SHMq8C_Rj05TS-_zg9xWNQSXZ6RjxMY&s=72&v=4" width="24" alt="Avatar of ddavison"/> ddavison
 			</a><br/>
 			Dj
 		</td>
@@ -9046,7 +9046,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>639</td>
 		<td>
 			<a target="_blank" href="https://github.com/phuang">
-				<img src="https://private-avatars.githubusercontent.com/u/15856?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3NjAsIm5iZiI6MTczNDMwNDU2MCwicGF0aCI6Ii91LzE1ODU2In0.6S0xgbyQIwdJsDM_fm0-vTY-D1FC6Ej5_lIj9Kf8GpU&s=72&u=f029b6dd2ce200b57c6f1acc0a839f99c82f7911&v=4" width="24" alt="Avatar of phuang"/> phuang
+				<img src="https://private-avatars.githubusercontent.com/u/15856?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3NjAsIm5iZiI6MTczNDM0MDU2MCwicGF0aCI6Ii91LzE1ODU2In0.pcFot8bghAcQGsw1N8lGXFhF3kVAnwDSzGD_G3rd5xM&s=72&u=f029b6dd2ce200b57c6f1acc0a839f99c82f7911&v=4" width="24" alt="Avatar of phuang"/> phuang
 			</a><br/>
 			Peng Huang
 		</td>
@@ -9060,7 +9060,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>640</td>
 		<td>
 			<a target="_blank" href="https://github.com/trinhudo">
-				<img src="https://private-avatars.githubusercontent.com/u/43434724?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3NjAsIm5iZiI6MTczNDMwNDU2MCwicGF0aCI6Ii91LzQzNDM0NzI0In0.g7CVNBBMPi0Wq0_5BpljsEpw7osWE7rGVycalrAQ-p8&s=72&u=d32cf845966408eb2bbe2d514dd63e1e267976e3&v=4" width="24" alt="Avatar of trinhudo"/> trinhudo
+				<img src="https://private-avatars.githubusercontent.com/u/43434724?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3NjAsIm5iZiI6MTczNDM0MDU2MCwicGF0aCI6Ii91LzQzNDM0NzI0In0.7yJD-iz8Bs1_3_AUhRaLLYcYty-dTLrZCgxqCaWqmIs&s=72&u=d32cf845966408eb2bbe2d514dd63e1e267976e3&v=4" width="24" alt="Avatar of trinhudo"/> trinhudo
 			</a><br/>
 			TriNhu Do
 		</td>
@@ -9074,7 +9074,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>641</td>
 		<td>
 			<a target="_blank" href="https://github.com/jaseva">
-				<img src="https://private-avatars.githubusercontent.com/u/5480431?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU5NDAsIm5iZiI6MTczNDMwNDc0MCwicGF0aCI6Ii91LzU0ODA0MzEifQ.wwh5vSVrIK5MIIGpOSjARi7VsSTgaVtjY7QakyGVfAs&s=72&u=0b0804a633a59e58ebbfc7d87479d00a918a70a8&v=4" width="24" alt="Avatar of jaseva"/> jaseva
+				<img src="https://private-avatars.githubusercontent.com/u/5480431?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE5NDAsIm5iZiI6MTczNDM0MDc0MCwicGF0aCI6Ii91LzU0ODA0MzEifQ.RkFj3GJGnmOEER_txyk0q3cBInBMCApf16vLXK2xhTo&s=72&u=0b0804a633a59e58ebbfc7d87479d00a918a70a8&v=4" width="24" alt="Avatar of jaseva"/> jaseva
 			</a><br/>
 			Jason Evans
 		</td>
@@ -9088,7 +9088,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>642</td>
 		<td>
 			<a target="_blank" href="https://github.com/lexmag">
-				<img src="https://private-avatars.githubusercontent.com/u/248290?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4MjAsIm5iZiI6MTczNDMwNDYyMCwicGF0aCI6Ii91LzI0ODI5MCJ9.aj5O8QReTqymQgiSFd1LbqrwpgN2FjsFWNaII9GO8rY&s=72&u=a5b3357a30e4c0825c6e920e041bc15685d96b5e&v=4" width="24" alt="Avatar of lexmag"/> lexmag
+				<img src="https://private-avatars.githubusercontent.com/u/248290?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4MjAsIm5iZiI6MTczNDM0MDYyMCwicGF0aCI6Ii91LzI0ODI5MCJ9.VC9i0eMCR58b_W0VqmThe8nLXbLvmb1fuFxTA1zsKVw&s=72&u=a5b3357a30e4c0825c6e920e041bc15685d96b5e&v=4" width="24" alt="Avatar of lexmag"/> lexmag
 			</a><br/>
 			Aleksei Magusev
 		</td>
@@ -9102,7 +9102,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>643</td>
 		<td>
 			<a target="_blank" href="https://github.com/Amejia481">
-				<img src="https://private-avatars.githubusercontent.com/u/773158?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3MDAsIm5iZiI6MTczNDMwNDUwMCwicGF0aCI6Ii91Lzc3MzE1OCJ9.wjlgrQjkCL729xH4lXiQvRt-v0Bv8ImOC1N9JarDiMs&s=72&u=f07b5e1970dfbbddf1985a15735ccfbbf3e2dc27&v=4" width="24" alt="Avatar of Amejia481"/> Amejia481
+				<img src="https://private-avatars.githubusercontent.com/u/773158?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3MDAsIm5iZiI6MTczNDM0MDUwMCwicGF0aCI6Ii91Lzc3MzE1OCJ9.pdhlxk7iBm_6TwQnc3tY3dgvhXENg4wM2RoCJ7vxk6Q&s=72&u=f07b5e1970dfbbddf1985a15735ccfbbf3e2dc27&v=4" width="24" alt="Avatar of Amejia481"/> Amejia481
 			</a><br/>
 			Arturo Mejia
 		</td>
@@ -9116,7 +9116,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>644</td>
 		<td>
 			<a target="_blank" href="https://github.com/mmocny">
-				<img src="https://private-avatars.githubusercontent.com/u/474282?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDYwNjAsIm5iZiI6MTczNDMwNDg2MCwicGF0aCI6Ii91LzQ3NDI4MiJ9.t51JSqxXzJVKzI-wspJjotYKX0MwNk9_k7wmNBGkJMU&s=72&v=4" width="24" alt="Avatar of mmocny"/> mmocny
+				<img src="https://private-avatars.githubusercontent.com/u/474282?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIwNjAsIm5iZiI6MTczNDM0MDg2MCwicGF0aCI6Ii91LzQ3NDI4MiJ9.3BkpzToBO6yM5dZFMU_k9vmyesae6-TnKLbE9gSRxDY&s=72&v=4" width="24" alt="Avatar of mmocny"/> mmocny
 			</a><br/>
 			Michal Mocny
 		</td>
@@ -9130,7 +9130,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>645</td>
 		<td>
 			<a target="_blank" href="https://github.com/nathany">
-				<img src="https://private-avatars.githubusercontent.com/u/4566?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU2NDAsIm5iZiI6MTczNDMwNDQ0MCwicGF0aCI6Ii91LzQ1NjYifQ.rnEU4u4csY6Zqq57IBLoLLcgUAF4G9qr7vg5GP9oByg&s=72&v=4" width="24" alt="Avatar of nathany"/> nathany
+				<img src="https://private-avatars.githubusercontent.com/u/4566?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE2NDAsIm5iZiI6MTczNDM0MDQ0MCwicGF0aCI6Ii91LzQ1NjYifQ.zdj4i2koX-VSyhvj-1tnrMuBMNmXE8M5KEW1aIkwsTw&s=72&v=4" width="24" alt="Avatar of nathany"/> nathany
 			</a><br/>
 			Nathan Youngman
 		</td>
@@ -9144,7 +9144,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>646</td>
 		<td>
 			<a target="_blank" href="https://github.com/slamj1">
-				<img src="https://private-avatars.githubusercontent.com/u/912224?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU5NDAsIm5iZiI6MTczNDMwNDc0MCwicGF0aCI6Ii91LzkxMjIyNCJ9.lFGMdDaPjxhLcfGqahDjFZ5-PPuo6GFQendONc9gLMk&s=72&u=a00f5e050edba18ebe7e492eadb70fb7976d0f0c&v=4" width="24" alt="Avatar of slamj1"/> slamj1
+				<img src="https://private-avatars.githubusercontent.com/u/912224?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE5NDAsIm5iZiI6MTczNDM0MDc0MCwicGF0aCI6Ii91LzkxMjIyNCJ9.HU4QnJBC8pSijOwPVwMFKPU9iJDaH3rBJ8ipZLhTDH0&s=72&u=a00f5e050edba18ebe7e492eadb70fb7976d0f0c&v=4" width="24" alt="Avatar of slamj1"/> slamj1
 			</a><br/>
 			Sam Morreel
 		</td>
@@ -9158,7 +9158,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>647</td>
 		<td>
 			<a target="_blank" href="https://github.com/InnovativeCoder">
-				<img src="https://private-avatars.githubusercontent.com/u/25461084?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU2NDAsIm5iZiI6MTczNDMwNDQ0MCwicGF0aCI6Ii91LzI1NDYxMDg0In0.auYBYu-KMIZcwr0imvp2rLZJrrGBTW1K290dPY45q60&s=72&u=b6eaa4c83af8b6258312602db35ddbd80083f9df&v=4" width="24" alt="Avatar of InnovativeCoder"/> InnovativeCoder
+				<img src="https://private-avatars.githubusercontent.com/u/25461084?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE2NDAsIm5iZiI6MTczNDM0MDQ0MCwicGF0aCI6Ii91LzI1NDYxMDg0In0.Tm7Hjdyfv7udKbqk1MvTVPIBau5M7W5vzQ2ZgbafV08&s=72&u=b6eaa4c83af8b6258312602db35ddbd80083f9df&v=4" width="24" alt="Avatar of InnovativeCoder"/> InnovativeCoder
 			</a><br/>
 			Jasneet Singh
 		</td>
@@ -9172,7 +9172,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>648</td>
 		<td>
 			<a target="_blank" href="https://github.com/vilbeyli">
-				<img src="https://private-avatars.githubusercontent.com/u/2782339?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDYxODAsIm5iZiI6MTczNDMwNDk4MCwicGF0aCI6Ii91LzI3ODIzMzkifQ.9iY5TAvCImlpKEsyIattvgnsxOcquZadGJhRWY9pK_Y&s=72&u=737660532db37cf08d297a74a6bdd708b9daae67&v=4" width="24" alt="Avatar of vilbeyli"/> vilbeyli
+				<img src="https://private-avatars.githubusercontent.com/u/2782339?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIxODAsIm5iZiI6MTczNDM0MDk4MCwicGF0aCI6Ii91LzI3ODIzMzkifQ.YJFI3zW2mdVXwBik879BQeFsif3Q1HM40Pb6JS1xXtU&s=72&u=737660532db37cf08d297a74a6bdd708b9daae67&v=4" width="24" alt="Avatar of vilbeyli"/> vilbeyli
 			</a><br/>
 			Volkan Ilbeyli
 		</td>
@@ -9186,7 +9186,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>649</td>
 		<td>
 			<a target="_blank" href="https://github.com/tobi">
-				<img src="https://private-avatars.githubusercontent.com/u/347?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ4MDAsIm5iZiI6MTczNDMwMzYwMCwicGF0aCI6Ii91LzM0NyJ9.Vx8AppgHw94nrqTkt5UeBQGbLv89r3xrk_7tyBIaEcQ&s=72&u=7960534ac523f60d241bb7c7ef986d263ea96170&v=4" width="24" alt="Avatar of tobi"/> tobi
+				<img src="https://private-avatars.githubusercontent.com/u/347?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3MDAsIm5iZiI6MTczNDM0MDUwMCwicGF0aCI6Ii91LzM0NyJ9.WSscp5zB7hl32TZvQ7d_M3ep78THwXS8QWlZgUBZAAo&s=72&u=7960534ac523f60d241bb7c7ef986d263ea96170&v=4" width="24" alt="Avatar of tobi"/> tobi
 			</a><br/>
 			Tobias Ltke
 		</td>
@@ -9200,7 +9200,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>650</td>
 		<td>
 			<a target="_blank" href="https://github.com/raydelto">
-				<img src="https://private-avatars.githubusercontent.com/u/1313960?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3NjAsIm5iZiI6MTczNDMwNDU2MCwicGF0aCI6Ii91LzEzMTM5NjAifQ.h7_7MYyXOjHsUDLpRFoflMigP5Q6UvC7ZM_cfbdtpHo&s=72&u=8070a35af3fdfd45fe506128b5d683b1f0c8a5fc&v=4" width="24" alt="Avatar of raydelto"/> raydelto
+				<img src="https://private-avatars.githubusercontent.com/u/1313960?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3NjAsIm5iZiI6MTczNDM0MDU2MCwicGF0aCI6Ii91LzEzMTM5NjAifQ.rFNsfAS-fiPkjWXFkWOZg1K-0BtDhJDyzWvA1ZFzpso&s=72&u=8070a35af3fdfd45fe506128b5d683b1f0c8a5fc&v=4" width="24" alt="Avatar of raydelto"/> raydelto
 			</a><br/>
 			Raydelto Hernandez
 		</td>
@@ -9214,7 +9214,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>651</td>
 		<td>
 			<a target="_blank" href="https://github.com/NimaQu">
-				<img src="https://private-avatars.githubusercontent.com/u/26685881?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU5NDAsIm5iZiI6MTczNDMwNDc0MCwicGF0aCI6Ii91LzI2Njg1ODgxIn0.q8bw1dfLSKE9AqF6laoU2vGEqot2SyX_kmPRco8_bWU&s=72&u=bf858f7e07800936f1f11f85e1c3e8283b02e690&v=4" width="24" alt="Avatar of NimaQu"/> NimaQu
+				<img src="https://private-avatars.githubusercontent.com/u/26685881?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE5NDAsIm5iZiI6MTczNDM0MDc0MCwicGF0aCI6Ii91LzI2Njg1ODgxIn0.in2GZm948idrMuPqO_v-3p1lEm_R_Q2qlDbL8uTnLy8&s=72&u=bf858f7e07800936f1f11f85e1c3e8283b02e690&v=4" width="24" alt="Avatar of NimaQu"/> NimaQu
 			</a><br/>
 			NimaQu
 		</td>
@@ -9228,7 +9228,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>652</td>
 		<td>
 			<a target="_blank" href="https://github.com/petertodd">
-				<img src="https://private-avatars.githubusercontent.com/u/7042?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxNjAsIm5iZiI6MTczNDMwMzk2MCwicGF0aCI6Ii91LzcwNDIifQ.W-LpXYKfpQ-v4qDVZ18LRhZbPspqL_JQ9uwyCHW8RJU&s=72&u=57b50a05caa63fb86d8f910668719907e9ecf667&v=4" width="24" alt="Avatar of petertodd"/> petertodd
+				<img src="https://private-avatars.githubusercontent.com/u/7042?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDExNjAsIm5iZiI6MTczNDMzOTk2MCwicGF0aCI6Ii91LzcwNDIifQ.cdpZTMaZv1ZzVC_psIG6RXYDk_-pfUGxzvHx15l7y9I&s=72&u=57b50a05caa63fb86d8f910668719907e9ecf667&v=4" width="24" alt="Avatar of petertodd"/> petertodd
 			</a><br/>
 			Peter Todd
 		</td>
@@ -9242,7 +9242,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>653</td>
 		<td>
 			<a target="_blank" href="https://github.com/patrickmineault">
-				<img src="https://private-avatars.githubusercontent.com/u/3516539?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91LzM1MTY1MzkifQ.qDgnI8ES067zFC7uQU3bH-CWcAgFug8CLf_uW24gYnQ&s=72&u=9311bdd49a70177176fd001d810608621d3a9fc6&v=4" width="24" alt="Avatar of patrickmineault"/> patrickmineault
+				<img src="https://private-avatars.githubusercontent.com/u/3516539?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIyNDAsIm5iZiI6MTczNDM0MTA0MCwicGF0aCI6Ii91LzM1MTY1MzkifQ.qRHJIW3AmBgYHXkmW9H1BW7hrZGVq-ldYokNKGwidLs&s=72&u=9311bdd49a70177176fd001d810608621d3a9fc6&v=4" width="24" alt="Avatar of patrickmineault"/> patrickmineault
 			</a><br/>
 			Patrick Mineault
 		</td>
@@ -9256,7 +9256,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>654</td>
 		<td>
 			<a target="_blank" href="https://github.com/runjuu">
-				<img src="https://private-avatars.githubusercontent.com/u/12002941?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3MDAsIm5iZiI6MTczNDMwNDUwMCwicGF0aCI6Ii91LzEyMDAyOTQxIn0.zXtfY8yzgqbHic_H5s7NX2t7LyYN8BbCkL4Zf2QNXQs&s=72&u=8f87f8ad8e61fa574bcd0bd90e0476de66b66b1a&v=4" width="24" alt="Avatar of runjuu"/> runjuu
+				<img src="https://private-avatars.githubusercontent.com/u/12002941?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3MDAsIm5iZiI6MTczNDM0MDUwMCwicGF0aCI6Ii91LzEyMDAyOTQxIn0.nQi5sZqe45aMqBV3DOslHrffPwrGUg7flwIlC_m8o7o&s=72&u=8f87f8ad8e61fa574bcd0bd90e0476de66b66b1a&v=4" width="24" alt="Avatar of runjuu"/> runjuu
 			</a><br/>
 			No Name
 		</td>
@@ -9270,7 +9270,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>655</td>
 		<td>
 			<a target="_blank" href="https://github.com/GunterMueller">
-				<img src="https://private-avatars.githubusercontent.com/u/22136680?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyMjAsIm5iZiI6MTczNDMwNDAyMCwicGF0aCI6Ii91LzIyMTM2NjgwIn0.2q5gHi-5fKLChqQ6T_ISvvWPiyLPN4CTSlN_DYMYGM8&s=72&v=4" width="24" alt="Avatar of GunterMueller"/> GunterMueller
+				<img src="https://private-avatars.githubusercontent.com/u/22136680?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyMjAsIm5iZiI6MTczNDM0MDAyMCwicGF0aCI6Ii91LzIyMTM2NjgwIn0.1KQz4ykeHr1Mb6vR27FFFwFxoGzg_mING79WyQ4p6KA&s=72&v=4" width="24" alt="Avatar of GunterMueller"/> GunterMueller
 			</a><br/>
 			Gunter Mueller
 		</td>
@@ -9284,7 +9284,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>656</td>
 		<td>
 			<a target="_blank" href="https://github.com/louisfb01">
-				<img src="https://private-avatars.githubusercontent.com/u/70274208?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0MDAsIm5iZiI6MTczNDMwNDIwMCwicGF0aCI6Ii91LzcwMjc0MjA4In0.GXGGlWs4sOQukI8UGMcNBBW96GPhbID17UNMcdyJpIc&s=72&u=de9737a92b948c65c73a30c4cb6af678b1528109&v=4" width="24" alt="Avatar of louisfb01"/> louisfb01
+				<img src="https://private-avatars.githubusercontent.com/u/70274208?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0MDAsIm5iZiI6MTczNDM0MDIwMCwicGF0aCI6Ii91LzcwMjc0MjA4In0.FHZIUP0u_vP2etfYF9SP_8j0BLn4kt4dI_FH865ok48&s=72&u=de9737a92b948c65c73a30c4cb6af678b1528109&v=4" width="24" alt="Avatar of louisfb01"/> louisfb01
 			</a><br/>
 			LouisFranois Bouchard
 		</td>
@@ -9298,7 +9298,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>657</td>
 		<td>
 			<a target="_blank" href="https://github.com/h3xstream">
-				<img src="https://private-avatars.githubusercontent.com/u/593130?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0NjAsIm5iZiI6MTczNDMwNDI2MCwicGF0aCI6Ii91LzU5MzEzMCJ9.u8XLWfVRa4gbmSnHEj3CFQoQUt2-POIwHqczE20ZjTQ&s=72&u=5a632c990aa11b03ae95d6b06d56bf56701c772c&v=4" width="24" alt="Avatar of h3xstream"/> h3xstream
+				<img src="https://private-avatars.githubusercontent.com/u/593130?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0NjAsIm5iZiI6MTczNDM0MDI2MCwicGF0aCI6Ii91LzU5MzEzMCJ9.LH_fj2Hrvh6ZHvBC5WAC5jmjcYJyPvV8vqGrJ5ZLTvM&s=72&u=5a632c990aa11b03ae95d6b06d56bf56701c772c&v=4" width="24" alt="Avatar of h3xstream"/> h3xstream
 			</a><br/>
 			Philippe Arteau
 		</td>
@@ -9312,7 +9312,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>658</td>
 		<td>
 			<a target="_blank" href="https://github.com/fardad">
-				<img src="https://private-avatars.githubusercontent.com/u/518125?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUwNDAsIm5iZiI6MTczNDMwMzg0MCwicGF0aCI6Ii91LzUxODEyNSJ9.DWWEBs-hMglya3l3PGSSUM_YiEV_vuE9LkTesTAjhHY&s=72&u=524dc77dd1065f0b0ab3324ecac6bdd47008040f&v=4" width="24" alt="Avatar of fardad"/> fardad
+				<img src="https://private-avatars.githubusercontent.com/u/518125?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE5NDAsIm5iZiI6MTczNDM0MDc0MCwicGF0aCI6Ii91LzUxODEyNSJ9.EF3DUvcosqWPy5ex0zgU6qcHgD8A855TENKUUX2RysI&s=72&u=524dc77dd1065f0b0ab3324ecac6bdd47008040f&v=4" width="24" alt="Avatar of fardad"/> fardad
 			</a><br/>
 			Fardad Soleimanloo
 		</td>
@@ -9326,7 +9326,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>659</td>
 		<td>
 			<a target="_blank" href="https://github.com/filipherle">
-				<img src="https://private-avatars.githubusercontent.com/u/24856782?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1ODAsIm5iZiI6MTczNDMwNDM4MCwicGF0aCI6Ii91LzI0ODU2NzgyIn0.5izh1feusiHreh4v4B1zgrSih4ynMOVghSEiDF4HB_g&s=72&u=a707ad343ab9894ae04c16fa02f94f5ed539305d&v=4" width="24" alt="Avatar of filipherle"/> filipherle
+				<img src="https://private-avatars.githubusercontent.com/u/24856782?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1ODAsIm5iZiI6MTczNDM0MDM4MCwicGF0aCI6Ii91LzI0ODU2NzgyIn0.Qp33wSro3zq1YioDXXYINxHTJn-ZAFg1Yo2AKn1UZcs&s=72&u=a707ad343ab9894ae04c16fa02f94f5ed539305d&v=4" width="24" alt="Avatar of filipherle"/> filipherle
 			</a><br/>
 			toxic
 		</td>
@@ -9340,7 +9340,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>660</td>
 		<td>
 			<a target="_blank" href="https://github.com/ggoodman">
-				<img src="https://private-avatars.githubusercontent.com/u/50030?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91LzUwMDMwIn0.9WPkheiw7hIhtUXrARin90A5cevWpYnBK203BkSE6Vs&s=72&u=fbe908292ec7994ea4d2fbf2dacaf1e4ef430529&v=4" width="24" alt="Avatar of ggoodman"/> ggoodman
+				<img src="https://private-avatars.githubusercontent.com/u/50030?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEzNDAsIm5iZiI6MTczNDM0MDE0MCwicGF0aCI6Ii91LzUwMDMwIn0.ZdZN6WeJE1r-POl4TS6wtd_nwufqcCFwKO-jXdHEuLQ&s=72&u=fbe908292ec7994ea4d2fbf2dacaf1e4ef430529&v=4" width="24" alt="Avatar of ggoodman"/> ggoodman
 			</a><br/>
 			Geoff Goodman
 		</td>
@@ -9354,7 +9354,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>661</td>
 		<td>
 			<a target="_blank" href="https://github.com/craffel">
-				<img src="https://private-avatars.githubusercontent.com/u/417568?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1MjAsIm5iZiI6MTczNDMwNDMyMCwicGF0aCI6Ii91LzQxNzU2OCJ9.jBn21fJBAQcVPml2fpqWn8Y09LNiie0Kv0wUfNhCdAU&s=72&u=36c321b947898237f3fcaa5034827cb2da432e44&v=4" width="24" alt="Avatar of craffel"/> craffel
+				<img src="https://private-avatars.githubusercontent.com/u/417568?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1MjAsIm5iZiI6MTczNDM0MDMyMCwicGF0aCI6Ii91LzQxNzU2OCJ9.deIfRkuWEM6ZalmScYsFDS6jkhR5vRLzA2GoIWz_l3w&s=72&u=36c321b947898237f3fcaa5034827cb2da432e44&v=4" width="24" alt="Avatar of craffel"/> craffel
 			</a><br/>
 			Colin Raffel
 		</td>
@@ -9368,7 +9368,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>662</td>
 		<td>
 			<a target="_blank" href="https://github.com/dcaoyuan">
-				<img src="https://private-avatars.githubusercontent.com/u/271571?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxMDAsIm5iZiI6MTczNDMwMzkwMCwicGF0aCI6Ii91LzI3MTU3MSJ9._QNMnWF4xVMmBNDtdsx4qgORXVIm0NVltcVbxa8e-Yk&s=72&u=de2a3e77cf0977fcf2d297a93085edf5e85dedc4&v=4" width="24" alt="Avatar of dcaoyuan"/> dcaoyuan
+				<img src="https://private-avatars.githubusercontent.com/u/271571?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDExMDAsIm5iZiI6MTczNDMzOTkwMCwicGF0aCI6Ii91LzI3MTU3MSJ9.1s4zifGoS_ODvClbSlIq5asmj6YjOlHZJMtLg5bj1CU&s=72&u=de2a3e77cf0977fcf2d297a93085edf5e85dedc4&v=4" width="24" alt="Avatar of dcaoyuan"/> dcaoyuan
 			</a><br/>
 			Caoyuan Deng
 		</td>
@@ -9382,7 +9382,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>663</td>
 		<td>
 			<a target="_blank" href="https://github.com/adrianmcli">
-				<img src="https://private-avatars.githubusercontent.com/u/943555?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxMDAsIm5iZiI6MTczNDMwMzkwMCwicGF0aCI6Ii91Lzk0MzU1NSJ9.hUCQAbwWITLeY_qudh7nJjTcoG5Wxzdp1R3aWjU4xh4&s=72&u=4c81278246922879e632b6a580ad7c1ec6758268&v=4" width="24" alt="Avatar of adrianmcli"/> adrianmcli
+				<img src="https://private-avatars.githubusercontent.com/u/943555?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIwMDAsIm5iZiI6MTczNDM0MDgwMCwicGF0aCI6Ii91Lzk0MzU1NSJ9.8jrALEX-XkXhhZTyShLaftUoYE9NnZfFfSJFc5c53uc&s=72&u=4c81278246922879e632b6a580ad7c1ec6758268&v=4" width="24" alt="Avatar of adrianmcli"/> adrianmcli
 			</a><br/>
 			Adrian Li
 		</td>
@@ -9396,7 +9396,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>664</td>
 		<td>
 			<a target="_blank" href="https://github.com/EiNSTeiN-">
-				<img src="https://private-avatars.githubusercontent.com/u/2053039?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDYwMDAsIm5iZiI6MTczNDMwNDgwMCwicGF0aCI6Ii91LzIwNTMwMzkifQ.-oUI1_O1qbsE1fbMACorP8UKnA7TTtXO-Nxg8JuFEGQ&s=72&u=53235d6f29e64ae3a0b3cca2c2b9e95f4e75bde1&v=4" width="24" alt="Avatar of EiNSTeiN-"/> EiNSTeiN-
+				<img src="https://private-avatars.githubusercontent.com/u/2053039?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIwMDAsIm5iZiI6MTczNDM0MDgwMCwicGF0aCI6Ii91LzIwNTMwMzkifQ.Korl9RAeEY-asjE012Yhc5O1SnrEXs3B4OxC47By7cA&s=72&u=53235d6f29e64ae3a0b3cca2c2b9e95f4e75bde1&v=4" width="24" alt="Avatar of EiNSTeiN-"/> EiNSTeiN-
 			</a><br/>
 			Francois Chagnon
 		</td>
@@ -9410,7 +9410,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>665</td>
 		<td>
 			<a target="_blank" href="https://github.com/niivu">
-				<img src="https://private-avatars.githubusercontent.com/u/32079142?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxMDAsIm5iZiI6MTczNDMwMzkwMCwicGF0aCI6Ii91LzMyMDc5MTQyIn0.OeP4OIANtL4LPRI4MznM01D_PxeTiE9yUCw4WPhnfy4&s=72&u=53555c93f94f736ac4d7747223f4e7e16ab86b09&v=4" width="24" alt="Avatar of niivu"/> niivu
+				<img src="https://private-avatars.githubusercontent.com/u/32079142?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDExMDAsIm5iZiI6MTczNDMzOTkwMCwicGF0aCI6Ii91LzMyMDc5MTQyIn0.y64FIkoV1wClLY2EJAskhGaNci7FJdNC_j3rrIfpd0E&s=72&u=53555c93f94f736ac4d7747223f4e7e16ab86b09&v=4" width="24" alt="Avatar of niivu"/> niivu
 			</a><br/>
 			niivu
 		</td>
@@ -9424,7 +9424,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>666</td>
 		<td>
 			<a target="_blank" href="https://github.com/joestump">
-				<img src="https://private-avatars.githubusercontent.com/u/37667?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0MDAsIm5iZiI6MTczNDMwNDIwMCwicGF0aCI6Ii91LzM3NjY3In0._mNaCXrEWNp_dvRp-yDlNMk90NAGGE132RCINDDFW7M&s=72&u=969ecdb950ae00b6145f777c01e9c1fde3501aa1&v=4" width="24" alt="Avatar of joestump"/> joestump
+				<img src="https://private-avatars.githubusercontent.com/u/37667?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0MDAsIm5iZiI6MTczNDM0MDIwMCwicGF0aCI6Ii91LzM3NjY3In0.VWXX3VMbbyJGC7fkUCVeRIo-xkvdmYUO5r6GlS05GDA&s=72&u=969ecdb950ae00b6145f777c01e9c1fde3501aa1&v=4" width="24" alt="Avatar of joestump"/> joestump
 			</a><br/>
 			Joe Stump
 		</td>
@@ -9438,7 +9438,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>667</td>
 		<td>
 			<a target="_blank" href="https://github.com/KiddoZhu">
-				<img src="https://private-avatars.githubusercontent.com/u/17213634?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyODAsIm5iZiI6MTczNDMwNDA4MCwicGF0aCI6Ii91LzE3MjEzNjM0In0.934Dbjhi2fD41VaKnkeKFlLwcf7oXxGRf90UvcFyi3U&s=72&u=2767c4c520dce77b6546584500285ea476151f7b&v=4" width="24" alt="Avatar of KiddoZhu"/> KiddoZhu
+				<img src="https://private-avatars.githubusercontent.com/u/17213634?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIxODAsIm5iZiI6MTczNDM0MDk4MCwicGF0aCI6Ii91LzE3MjEzNjM0In0.h45tIbiyHjxlFJmQFPabazWj0mnDfYyn9FVOMyiWlbI&s=72&u=2767c4c520dce77b6546584500285ea476151f7b&v=4" width="24" alt="Avatar of KiddoZhu"/> KiddoZhu
 			</a><br/>
 			Zhaocheng Zhu
 		</td>
@@ -9452,7 +9452,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>668</td>
 		<td>
 			<a target="_blank" href="https://github.com/aneagoie">
-				<img src="https://private-avatars.githubusercontent.com/u/10776230?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ4NjAsIm5iZiI6MTczNDMwMzY2MCwicGF0aCI6Ii91LzEwNzc2MjMwIn0.U7ANBqb7dm1mskmhyzlhuoi0QJHSh32KUvSpN7KyT7c&s=72&u=daf19c6340af3be8d81a2b1de8a25cb2a16cb4b3&v=4" width="24" alt="Avatar of aneagoie"/> aneagoie
+				<img src="https://private-avatars.githubusercontent.com/u/10776230?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDA4NjAsIm5iZiI6MTczNDMzOTY2MCwicGF0aCI6Ii91LzEwNzc2MjMwIn0.TZvJ05N2yUZP2mtvgcUZFJoog6GReTKvqP5_SuPBD8g&s=72&u=daf19c6340af3be8d81a2b1de8a25cb2a16cb4b3&v=4" width="24" alt="Avatar of aneagoie"/> aneagoie
 			</a><br/>
 			Andrei Neagoie
 		</td>
@@ -9466,7 +9466,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>669</td>
 		<td>
 			<a target="_blank" href="https://github.com/gregbell">
-				<img src="https://private-avatars.githubusercontent.com/u/719?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDYwMDAsIm5iZiI6MTczNDMwNDgwMCwicGF0aCI6Ii91LzcxOSJ9.B3bOgHDn7IH_xLQZSb1YcDGHAA_gGDOSsED_8vGhwWM&s=72&u=ed0be86054c9ce29d851883f175b26741d6be49b&v=4" width="24" alt="Avatar of gregbell"/> gregbell
+				<img src="https://private-avatars.githubusercontent.com/u/719?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIwMDAsIm5iZiI6MTczNDM0MDgwMCwicGF0aCI6Ii91LzcxOSJ9.olY4BjxkdQ6XO3a8J-2wA_AmlB1tFIKDpXDfdpVk2ZY&s=72&u=ed0be86054c9ce29d851883f175b26741d6be49b&v=4" width="24" alt="Avatar of gregbell"/> gregbell
 			</a><br/>
 			Greg Bell
 		</td>
@@ -9480,7 +9480,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>670</td>
 		<td>
 			<a target="_blank" href="https://github.com/allanjude">
-				<img src="https://private-avatars.githubusercontent.com/u/1096028?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3NjAsIm5iZiI6MTczNDMwNDU2MCwicGF0aCI6Ii91LzEwOTYwMjgifQ.QKD0-hOzH1vBFqsCkNnxH0o9eBeF6DwvbiFH5pN0iXk&s=72&v=4" width="24" alt="Avatar of allanjude"/> allanjude
+				<img src="https://private-avatars.githubusercontent.com/u/1096028?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3NjAsIm5iZiI6MTczNDM0MDU2MCwicGF0aCI6Ii91LzEwOTYwMjgifQ.qgGJuS9vtLcBOqvAhSu13YFt-Cl3ttGSMVthOyk7cpk&s=72&v=4" width="24" alt="Avatar of allanjude"/> allanjude
 			</a><br/>
 			Allan Jude
 		</td>
@@ -9494,7 +9494,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>671</td>
 		<td>
 			<a target="_blank" href="https://github.com/indy256">
-				<img src="https://private-avatars.githubusercontent.com/u/316387?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0NjAsIm5iZiI6MTczNDMwNDI2MCwicGF0aCI6Ii91LzMxNjM4NyJ9.T8dM4uo6x05BqGtOezbE0j2yTCtIaCc9L9IeSsbjiMM&s=72&u=c702ee293237789af54f9f985f17bae2bff56737&v=4" width="24" alt="Avatar of indy256"/> indy256
+				<img src="https://private-avatars.githubusercontent.com/u/316387?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0NjAsIm5iZiI6MTczNDM0MDI2MCwicGF0aCI6Ii91LzMxNjM4NyJ9.c_Dzfx88toERsFRKro1Hz7p4dJebBBBiJUCQUyLudG4&s=72&u=c702ee293237789af54f9f985f17bae2bff56737&v=4" width="24" alt="Avatar of indy256"/> indy256
 			</a><br/>
 			Andrei Navumenka
 		</td>
@@ -9508,7 +9508,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>672</td>
 		<td>
 			<a target="_blank" href="https://github.com/laion01">
-				<img src="https://private-avatars.githubusercontent.com/u/83224375?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3NjAsIm5iZiI6MTczNDMwNDU2MCwicGF0aCI6Ii91LzgzMjI0Mzc1In0.I0KX8mjI9yGZJuirFVnhHQ_Gb1ex32o3Mkj1LF-Brkk&s=72&u=97617c51713c8cd3b0e209ed1829a3a63ec69581&v=4" width="24" alt="Avatar of laion01"/> laion01
+				<img src="https://private-avatars.githubusercontent.com/u/83224375?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3NjAsIm5iZiI6MTczNDM0MDU2MCwicGF0aCI6Ii91LzgzMjI0Mzc1In0.zp8ncEXcYOtBA3ZxA7EXVThUVz0zwfFNCBd2owdFLfM&s=72&u=97617c51713c8cd3b0e209ed1829a3a63ec69581&v=4" width="24" alt="Avatar of laion01"/> laion01
 			</a><br/>
 			David Leiva
 		</td>
@@ -9522,7 +9522,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>673</td>
 		<td>
 			<a target="_blank" href="https://github.com/mpezeshki">
-				<img src="https://private-avatars.githubusercontent.com/u/3185764?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxMDAsIm5iZiI6MTczNDMwMzkwMCwicGF0aCI6Ii91LzMxODU3NjQifQ.zywk4t4RoLZYper0yhDaQazj7YEMzqswZb5s81HL81g&s=72&u=9264057eeaf6a940fe20a1387d2d9bab4e2dbb8c&v=4" width="24" alt="Avatar of mpezeshki"/> mpezeshki
+				<img src="https://private-avatars.githubusercontent.com/u/3185764?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIwMDAsIm5iZiI6MTczNDM0MDgwMCwicGF0aCI6Ii91LzMxODU3NjQifQ.lLaS9xz9OqDq_ygMqzm5NrN-XjEXYrHjsoUpCP1jtFk&s=72&u=9264057eeaf6a940fe20a1387d2d9bab4e2dbb8c&v=4" width="24" alt="Avatar of mpezeshki"/> mpezeshki
 			</a><br/>
 			Mohammad Pezeshki
 		</td>
@@ -9536,7 +9536,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>674</td>
 		<td>
 			<a target="_blank" href="https://github.com/chihebchebbi">
-				<img src="https://private-avatars.githubusercontent.com/u/9631446?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3NjAsIm5iZiI6MTczNDMwNDU2MCwicGF0aCI6Ii91Lzk2MzE0NDYifQ.iUgXzaxwVXvh2MvG80vaPyf-2mL32_CNs0gbnXbLJ2I&s=72&u=b94e949113d644e056c4f4e9a44f43b8b15082e2&v=4" width="24" alt="Avatar of chihebchebbi"/> chihebchebbi
+				<img src="https://private-avatars.githubusercontent.com/u/9631446?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3NjAsIm5iZiI6MTczNDM0MDU2MCwicGF0aCI6Ii91Lzk2MzE0NDYifQ.wtbZ5Z01pk_izpLtks8JTLVo565qcLmZ2BM358QdR_w&s=72&u=b94e949113d644e056c4f4e9a44f43b8b15082e2&v=4" width="24" alt="Avatar of chihebchebbi"/> chihebchebbi
 			</a><br/>
 			Chiheb Chebbi
 		</td>
@@ -9550,7 +9550,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>675</td>
 		<td>
 			<a target="_blank" href="https://github.com/jblindsay">
-				<img src="https://private-avatars.githubusercontent.com/u/8441542?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyODAsIm5iZiI6MTczNDMwNDA4MCwicGF0aCI6Ii91Lzg0NDE1NDIifQ.UJRj9XWxWWNBSy-h18QorNF9a4nKv9gxizS6mu1IzIU&s=72&u=d5203eae437d818354246743870bb332201d0dba&v=4" width="24" alt="Avatar of jblindsay"/> jblindsay
+				<img src="https://private-avatars.githubusercontent.com/u/8441542?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyODAsIm5iZiI6MTczNDM0MDA4MCwicGF0aCI6Ii91Lzg0NDE1NDIifQ.L8aSnTO0U1U40c_kb28i9e7_b4VR2SbTAADovITPULc&s=72&u=d5203eae437d818354246743870bb332201d0dba&v=4" width="24" alt="Avatar of jblindsay"/> jblindsay
 			</a><br/>
 			John Lindsay
 		</td>
@@ -9564,7 +9564,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>676</td>
 		<td>
 			<a target="_blank" href="https://github.com/RetroNick2020">
-				<img src="https://private-avatars.githubusercontent.com/u/56885781?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU2NDAsIm5iZiI6MTczNDMwNDQ0MCwicGF0aCI6Ii91LzU2ODg1NzgxIn0.AgNW5cPHK4BSQ0IlkcTU5kRCYvUPBrUJkNIBmeU8emA&s=72&v=4" width="24" alt="Avatar of RetroNick2020"/> RetroNick2020
+				<img src="https://private-avatars.githubusercontent.com/u/56885781?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE2NDAsIm5iZiI6MTczNDM0MDQ0MCwicGF0aCI6Ii91LzU2ODg1NzgxIn0.NJD2KnZZjaqZODeLt46iVy1l2L5gNYHN03iF2yQygNs&s=72&v=4" width="24" alt="Avatar of RetroNick2020"/> RetroNick2020
 			</a><br/>
 			RetroNicks Youtube Channel
 		</td>
@@ -9578,7 +9578,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>677</td>
 		<td>
 			<a target="_blank" href="https://github.com/zimmerle">
-				<img src="https://private-avatars.githubusercontent.com/u/428268?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0MDAsIm5iZiI6MTczNDMwNDIwMCwicGF0aCI6Ii91LzQyODI2OCJ9.fkyZVQQC0wbDT9Fc7lU2FUABbanho9obe5clk1i3VRI&s=72&u=e25e6bc98d7a1ddcce5687696ac66d46a8cad705&v=4" width="24" alt="Avatar of zimmerle"/> zimmerle
+				<img src="https://private-avatars.githubusercontent.com/u/428268?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0MDAsIm5iZiI6MTczNDM0MDIwMCwicGF0aCI6Ii91LzQyODI2OCJ9.km7PLnURczOZtghvM0X6XO20GSqBqwbErwHd734VxJE&s=72&u=e25e6bc98d7a1ddcce5687696ac66d46a8cad705&v=4" width="24" alt="Avatar of zimmerle"/> zimmerle
 			</a><br/>
 			Felipe Zimmerle
 		</td>
@@ -9592,7 +9592,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>678</td>
 		<td>
 			<a target="_blank" href="https://github.com/khalladay">
-				<img src="https://private-avatars.githubusercontent.com/u/343809?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyODAsIm5iZiI6MTczNDMwNDA4MCwicGF0aCI6Ii91LzM0MzgwOSJ9.qR7ccUPaIJ0YEd7yO0EjtgbcvMI1N_e2A1F8fhDS4x8&s=72&u=4286674132e29fe7e3bc20e1cddc1ea3638bd33a&v=4" width="24" alt="Avatar of khalladay"/> khalladay
+				<img src="https://private-avatars.githubusercontent.com/u/343809?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIxODAsIm5iZiI6MTczNDM0MDk4MCwicGF0aCI6Ii91LzM0MzgwOSJ9.g-JJ6cshcUfEF6ksYvWC6wEyN6tLQp82orHqf6Kcgd4&s=72&u=4286674132e29fe7e3bc20e1cddc1ea3638bd33a&v=4" width="24" alt="Avatar of khalladay"/> khalladay
 			</a><br/>
 			Kyle Halladay
 		</td>
@@ -9606,7 +9606,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>679</td>
 		<td>
 			<a target="_blank" href="https://github.com/xuorig">
-				<img src="https://private-avatars.githubusercontent.com/u/1919498?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1ODAsIm5iZiI6MTczNDMwNDM4MCwicGF0aCI6Ii91LzE5MTk0OTgifQ.Lc_hJp-Mo59_1iQniWRYLjUWj7TWk1TC3b4JjKvDS9M&s=72&u=62d03283493704b9e8058d8a5e57cf54b0c510f4&v=4" width="24" alt="Avatar of xuorig"/> xuorig
+				<img src="https://private-avatars.githubusercontent.com/u/1919498?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1ODAsIm5iZiI6MTczNDM0MDM4MCwicGF0aCI6Ii91LzE5MTk0OTgifQ.UiFH9_KkYCZI1JLubAoxVr0d_TEVK6h-m8zcY3I0I5Q&s=72&u=62d03283493704b9e8058d8a5e57cf54b0c510f4&v=4" width="24" alt="Avatar of xuorig"/> xuorig
 			</a><br/>
 			MarcAndre Giroux
 		</td>
@@ -9620,7 +9620,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>680</td>
 		<td>
 			<a target="_blank" href="https://github.com/amacgregor">
-				<img src="https://private-avatars.githubusercontent.com/u/212169?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyODAsIm5iZiI6MTczNDMwNDA4MCwicGF0aCI6Ii91LzIxMjE2OSJ9.5qJSdbHDyN-AigZ9dxXJD0dQXwkhTw5iN0JnG7HQRvs&s=72&u=763c9860393197f25643e45d4dc4b19280bbd15f&v=4" width="24" alt="Avatar of amacgregor"/> amacgregor
+				<img src="https://private-avatars.githubusercontent.com/u/212169?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIxODAsIm5iZiI6MTczNDM0MDk4MCwicGF0aCI6Ii91LzIxMjE2OSJ9.x2mmlxJwiN7gSKXgqHzDPVc-2VyXP45bJ0YR3QIyWxI&s=72&u=763c9860393197f25643e45d4dc4b19280bbd15f&v=4" width="24" alt="Avatar of amacgregor"/> amacgregor
 			</a><br/>
 			Allan MacGregor
 		</td>
@@ -9634,7 +9634,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>681</td>
 		<td>
 			<a target="_blank" href="https://github.com/orangeduck">
-				<img src="https://private-avatars.githubusercontent.com/u/177299?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ5MjAsIm5iZiI6MTczNDMwMzcyMCwicGF0aCI6Ii91LzE3NzI5OSJ9.-lS_LhORhMqXPD0CyumjZvctDJcOL2Y4YmBCnjuq6Uk&s=72&u=c20a00b22e64388844291f66127676e156efd231&v=4" width="24" alt="Avatar of orangeduck"/> orangeduck
+				<img src="https://private-avatars.githubusercontent.com/u/177299?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDA5MjAsIm5iZiI6MTczNDMzOTcyMCwicGF0aCI6Ii91LzE3NzI5OSJ9.xUtMJ4XUsxD49djOejlPnAiLElW4srhBmf_KkoV9Ch4&s=72&u=c20a00b22e64388844291f66127676e156efd231&v=4" width="24" alt="Avatar of orangeduck"/> orangeduck
 			</a><br/>
 			Daniel Holden
 		</td>
@@ -9648,7 +9648,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>682</td>
 		<td>
 			<a target="_blank" href="https://github.com/iceburgcrm">
-				<img src="https://private-avatars.githubusercontent.com/u/118024971?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ5MjAsIm5iZiI6MTczNDMwMzcyMCwicGF0aCI6Ii91LzExODAyNDk3MSJ9.SMRNDYN4pqcWaUkUOm91xVdWSq8Rymv29U-ySaACgy0&s=72&u=a9239f96688f48ec32bb7f81ddc3a0ed40ccad0c&v=4" width="24" alt="Avatar of iceburgcrm"/> iceburgcrm
+				<img src="https://private-avatars.githubusercontent.com/u/118024971?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4MjAsIm5iZiI6MTczNDM0MDYyMCwicGF0aCI6Ii91LzExODAyNDk3MSJ9.8qsmQeb1Ux3cABsyP6Jw0in4gGezzQhsDxQbZY_TOwc&s=72&u=a9239f96688f48ec32bb7f81ddc3a0ed40ccad0c&v=4" width="24" alt="Avatar of iceburgcrm"/> iceburgcrm
 			</a><br/>
 			Iceburg CRM
 		</td>
@@ -9662,7 +9662,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>683</td>
 		<td>
 			<a target="_blank" href="https://github.com/mandiwise">
-				<img src="https://private-avatars.githubusercontent.com/u/1518780?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3NjAsIm5iZiI6MTczNDMwNDU2MCwicGF0aCI6Ii91LzE1MTg3ODAifQ.Rw0WcNJETre5aOkhbGdcS0k21BAqWowmkWCKG2J0Qac&s=72&u=8b657fcf2f38da158b31a7adb9a8662909c20f88&v=4" width="24" alt="Avatar of mandiwise"/> mandiwise
+				<img src="https://private-avatars.githubusercontent.com/u/1518780?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3NjAsIm5iZiI6MTczNDM0MDU2MCwicGF0aCI6Ii91LzE1MTg3ODAifQ.068sn0xRrwTdmnoDXnzv7MtTs1FmwQ7minyme1PaeE0&s=72&u=8b657fcf2f38da158b31a7adb9a8662909c20f88&v=4" width="24" alt="Avatar of mandiwise"/> mandiwise
 			</a><br/>
 			Mandi Wise
 		</td>
@@ -9676,7 +9676,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>684</td>
 		<td>
 			<a target="_blank" href="https://github.com/Wuziyi616">
-				<img src="https://private-avatars.githubusercontent.com/u/37072215?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91LzM3MDcyMjE1In0.VMa7Ns-OFrJWkVBW5WfKHWjF01zHN_lrn8w13CEi96g&s=72&u=497f413f55799c4fa2d79bb4c8654781190fa3b3&v=4" width="24" alt="Avatar of Wuziyi616"/> Wuziyi616
+				<img src="https://private-avatars.githubusercontent.com/u/37072215?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEzNDAsIm5iZiI6MTczNDM0MDE0MCwicGF0aCI6Ii91LzM3MDcyMjE1In0.uTLnjoHDKXloxptmbQOzLMlvVFGMazV86tmBZFau3gM&s=72&u=497f413f55799c4fa2d79bb4c8654781190fa3b3&v=4" width="24" alt="Avatar of Wuziyi616"/> Wuziyi616
 			</a><br/>
 			Ziyi Wu
 		</td>
@@ -9690,7 +9690,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>685</td>
 		<td>
 			<a target="_blank" href="https://github.com/bobsummerwill">
-				<img src="https://private-avatars.githubusercontent.com/u/3788156?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91LzM3ODgxNTYifQ.Ni9pFGp660Oj-vkgByDEWopPynbr5VKAWQbufdZTNtI&s=72&u=f379551fa667ddb096e1ea2ef248d16e7461b1c3&v=4" width="24" alt="Avatar of bobsummerwill"/> bobsummerwill
+				<img src="https://private-avatars.githubusercontent.com/u/3788156?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIyNDAsIm5iZiI6MTczNDM0MTA0MCwicGF0aCI6Ii91LzM3ODgxNTYifQ.9fw3ZObETZ3iKQW6kg95D-g4So85teEvb6venjmefs8&s=72&u=f379551fa667ddb096e1ea2ef248d16e7461b1c3&v=4" width="24" alt="Avatar of bobsummerwill"/> bobsummerwill
 			</a><br/>
 			Bob Summerwill
 		</td>
@@ -9703,8 +9703,22 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 	<tr>
 		<td>686</td>
 		<td>
+			<a target="_blank" href="https://github.com/elliott-diy">
+				<img src="https://private-avatars.githubusercontent.com/u/63378937?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDExNjAsIm5iZiI6MTczNDMzOTk2MCwicGF0aCI6Ii91LzYzMzc4OTM3In0.a1K93czo5v4mC0vQyaOWcSA-SYAUQwQ-GZtsdTIDGgg&s=72&u=ecdd2ada534cc9da74e66d3f8677e2f834db38ee&v=4" width="24" alt="Avatar of elliott-diy"/> elliott-diy
+			</a><br/>
+			Elliott
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/elliott_diy">elliott_diy</a></td>
+		<td>Canada</td>
+		<td>36</td>
+		<td>62</td>
+	</tr>
+	<tr>
+		<td>687</td>
+		<td>
 			<a target="_blank" href="https://github.com/cmoulton">
-				<img src="https://private-avatars.githubusercontent.com/u/211054?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4MjAsIm5iZiI6MTczNDMwNDYyMCwicGF0aCI6Ii91LzIxMTA1NCJ9.k4BmkLwqo71JOJJ3-YRhFz-CcB08KFa-EV6G_X_zC5I&s=72&u=f94d7c0358d430941a7d4b455ccbeff84f7ec52f&v=4" width="24" alt="Avatar of cmoulton"/> cmoulton
+				<img src="https://private-avatars.githubusercontent.com/u/211054?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4MjAsIm5iZiI6MTczNDM0MDYyMCwicGF0aCI6Ii91LzIxMTA1NCJ9.9QQNmtN4umX214Lo5i9idcT9KfUixnPezIfQ-5J0-RQ&s=72&u=f94d7c0358d430941a7d4b455ccbeff84f7ec52f&v=4" width="24" alt="Avatar of cmoulton"/> cmoulton
 			</a><br/>
 			Christina Moulton
 		</td>
@@ -9715,10 +9729,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>62</td>
 	</tr>
 	<tr>
-		<td>687</td>
+		<td>688</td>
 		<td>
 			<a target="_blank" href="https://github.com/yassersouri">
-				<img src="https://private-avatars.githubusercontent.com/u/289031?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU5NDAsIm5iZiI6MTczNDMwNDc0MCwicGF0aCI6Ii91LzI4OTAzMSJ9.bPuFVcOqeoKgCZ6n2Q2EGw4IrmZVwVSrlHgbE0iNFPY&s=72&u=f0fe69ca1d1113b5c5805cb67dfa91e3fafb060e&v=4" width="24" alt="Avatar of yassersouri"/> yassersouri
+				<img src="https://private-avatars.githubusercontent.com/u/289031?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE5NDAsIm5iZiI6MTczNDM0MDc0MCwicGF0aCI6Ii91LzI4OTAzMSJ9.zRW5Lt4njl3MMabSwRUHASfHl6ZEfY_6_1vb24G7SAA&s=72&u=f0fe69ca1d1113b5c5805cb67dfa91e3fafb060e&v=4" width="24" alt="Avatar of yassersouri"/> yassersouri
 			</a><br/>
 			Yasser Souri
 		</td>
@@ -9729,24 +9743,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>62</td>
 	</tr>
 	<tr>
-		<td>688</td>
-		<td>
-			<a target="_blank" href="https://github.com/elliott-diy">
-				<img src="https://private-avatars.githubusercontent.com/u/63378937?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxNjAsIm5iZiI6MTczNDMwMzk2MCwicGF0aCI6Ii91LzYzMzc4OTM3In0.t5oHw84ompzWAdKP4XIfG1ZEueuF7ZPhX30kIZ8x8Zs&s=72&u=ecdd2ada534cc9da74e66d3f8677e2f834db38ee&v=4" width="24" alt="Avatar of elliott-diy"/> elliott-diy
-			</a><br/>
-			Elliott
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/elliott_diy">elliott_diy</a></td>
-		<td>Canada</td>
-		<td>36</td>
-		<td>61</td>
-	</tr>
-	<tr>
 		<td>689</td>
 		<td>
 			<a target="_blank" href="https://github.com/GauravBh1010tt">
-				<img src="https://private-avatars.githubusercontent.com/u/22491381?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0NjAsIm5iZiI6MTczNDMwNDI2MCwicGF0aCI6Ii91LzIyNDkxMzgxIn0.XBBmvhoKqnzEUiFQZxkJFmrj7b3K0fFQKn_9uzNIGiY&s=72&u=d8cf375812dc0f400adcad57c1b8548717b7ec8a&v=4" width="24" alt="Avatar of GauravBh1010tt"/> GauravBh1010tt
+				<img src="https://private-avatars.githubusercontent.com/u/22491381?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0NjAsIm5iZiI6MTczNDM0MDI2MCwicGF0aCI6Ii91LzIyNDkxMzgxIn0.rnUxeaXU2hEN3CIWQ_wo3fFW4ghifvAkpA_QxrArhcA&s=72&u=d8cf375812dc0f400adcad57c1b8548717b7ec8a&v=4" width="24" alt="Avatar of GauravBh1010tt"/> GauravBh1010tt
 			</a><br/>
 			Gaurav Bhatt
 		</td>
@@ -9760,7 +9760,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>690</td>
 		<td>
 			<a target="_blank" href="https://github.com/mahdibland">
-				<img src="https://private-avatars.githubusercontent.com/u/42766108?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU2NDAsIm5iZiI6MTczNDMwNDQ0MCwicGF0aCI6Ii91LzQyNzY2MTA4In0.pvlIgMeWqEP2yGCJMt0hb1iS8Yh4XPtLBBuzJOTJsv0&s=72&u=f7d07520746ae90e0a930929b80d69eb67d0eaff&v=4" width="24" alt="Avatar of mahdibland"/> mahdibland
+				<img src="https://private-avatars.githubusercontent.com/u/42766108?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE2NDAsIm5iZiI6MTczNDM0MDQ0MCwicGF0aCI6Ii91LzQyNzY2MTA4In0.C2OB7uf0gYyyVEeQAQzmh14TZrMXt7AR0HrDnX9ACF8&s=72&u=f7d07520746ae90e0a930929b80d69eb67d0eaff&v=4" width="24" alt="Avatar of mahdibland"/> mahdibland
 			</a><br/>
 			Mirei
 		</td>
@@ -9774,7 +9774,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>691</td>
 		<td>
 			<a target="_blank" href="https://github.com/defuse">
-				<img src="https://private-avatars.githubusercontent.com/u/4211072?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ5MjAsIm5iZiI6MTczNDMwMzcyMCwicGF0aCI6Ii91LzQyMTEwNzIifQ.xn9kf3DNcK992y9kPNliuOffYUaI_MH4aMFOSR9Mv00&s=72&v=4" width="24" alt="Avatar of defuse"/> defuse
+				<img src="https://private-avatars.githubusercontent.com/u/4211072?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDA5MjAsIm5iZiI6MTczNDMzOTcyMCwicGF0aCI6Ii91LzQyMTEwNzIifQ.kYDOj1vIOlFbn9fQ5yhFJbx0GnuEa4Xf8yQXJTdKqvY&s=72&v=4" width="24" alt="Avatar of defuse"/> defuse
 			</a><br/>
 			Taylor Hornby
 		</td>
@@ -9788,7 +9788,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>692</td>
 		<td>
 			<a target="_blank" href="https://github.com/MirzaBeig">
-				<img src="https://private-avatars.githubusercontent.com/u/37354140?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxMDAsIm5iZiI6MTczNDMwMzkwMCwicGF0aCI6Ii91LzM3MzU0MTQwIn0.FyDhoYKuIVGQMeo7phPGzZC8SQFDgl0q0nAqBWEegAo&s=72&u=0e6cf2afb69c43737b34dbab12df8db57a95a52c&v=4" width="24" alt="Avatar of MirzaBeig"/> MirzaBeig
+				<img src="https://private-avatars.githubusercontent.com/u/37354140?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDExMDAsIm5iZiI6MTczNDMzOTkwMCwicGF0aCI6Ii91LzM3MzU0MTQwIn0.xEcrzEMAx9rT3xrXr3xVE7tyTuxQ680j9c-yUsObVj0&s=72&u=0e6cf2afb69c43737b34dbab12df8db57a95a52c&v=4" width="24" alt="Avatar of MirzaBeig"/> MirzaBeig
 			</a><br/>
 			Mirza Beig
 		</td>
@@ -9802,7 +9802,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>693</td>
 		<td>
 			<a target="_blank" href="https://github.com/cherifGsoul">
-				<img src="https://private-avatars.githubusercontent.com/u/109013?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyODAsIm5iZiI6MTczNDMwNDA4MCwicGF0aCI6Ii91LzEwOTAxMyJ9.ViiI_Boe5oxp3mxDT-RifX-IK8mlYzRMo5LkkZJR4Vw&s=72&u=d7d87a845be612456771039c6549b1a0efd59e8e&v=4" width="24" alt="Avatar of cherifGsoul"/> cherifGsoul
+				<img src="https://private-avatars.githubusercontent.com/u/109013?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyODAsIm5iZiI6MTczNDM0MDA4MCwicGF0aCI6Ii91LzEwOTAxMyJ9.DNQP_f5JlwZrOwURZ0CcGnCe65b-z2u4Jh36xLr-Mp0&s=72&u=d7d87a845be612456771039c6549b1a0efd59e8e&v=4" width="24" alt="Avatar of cherifGsoul"/> cherifGsoul
 			</a><br/>
 			Cherif Bouchelaghem
 		</td>
@@ -9816,7 +9816,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>694</td>
 		<td>
 			<a target="_blank" href="https://github.com/sebjai">
-				<img src="https://private-avatars.githubusercontent.com/u/33582519?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91LzMzNTgyNTE5In0.w5-F6lKR-9rr3Zev4OX9hF2dzSKUpiye8klyeApA6jM&s=72&u=11f9bcaf763a14d89221f79aa12b56e39fb1afef&v=4" width="24" alt="Avatar of sebjai"/> sebjai
+				<img src="https://private-avatars.githubusercontent.com/u/33582519?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIyNDAsIm5iZiI6MTczNDM0MTA0MCwicGF0aCI6Ii91LzMzNTgyNTE5In0.mKa632xnYy_wfEf1lErYl7yPWg5egiTkNV4CJidb5k8&s=72&u=11f9bcaf763a14d89221f79aa12b56e39fb1afef&v=4" width="24" alt="Avatar of sebjai"/> sebjai
 			</a><br/>
 			Sebastian Jaimungal
 		</td>
@@ -9830,7 +9830,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>695</td>
 		<td>
 			<a target="_blank" href="https://github.com/zhangxiangxiao">
-				<img src="https://private-avatars.githubusercontent.com/u/1197560?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU2NDAsIm5iZiI6MTczNDMwNDQ0MCwicGF0aCI6Ii91LzExOTc1NjAifQ.4Ibn5gR2g9J_3o8zyx1fPSp8Cov2f7XMhk0O1u_z5Yk&s=72&u=043a638e39065300a4c3ecde48f21312e29a47a2&v=4" width="24" alt="Avatar of zhangxiangxiao"/> zhangxiangxiao
+				<img src="https://private-avatars.githubusercontent.com/u/1197560?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE2NDAsIm5iZiI6MTczNDM0MDQ0MCwicGF0aCI6Ii91LzExOTc1NjAifQ.x2vm5iLvIgZIVESQFDGaUtk7rSHRqr7mcBUwXEwxEOw&s=72&u=043a638e39065300a4c3ecde48f21312e29a47a2&v=4" width="24" alt="Avatar of zhangxiangxiao"/> zhangxiangxiao
 			</a><br/>
 			Xiang Zhang
 		</td>
@@ -9844,7 +9844,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>696</td>
 		<td>
 			<a target="_blank" href="https://github.com/tayormi">
-				<img src="https://private-avatars.githubusercontent.com/u/13835725?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1ODAsIm5iZiI6MTczNDMwNDM4MCwicGF0aCI6Ii91LzEzODM1NzI1In0.tmKeCWgtrNOmuINDYathIqeeXzwwKv18OOlKBqyi8N0&s=72&u=5c777fef6083b0654fbcd6d75de8d32cbb105c8d&v=4" width="24" alt="Avatar of tayormi"/> tayormi
+				<img src="https://private-avatars.githubusercontent.com/u/13835725?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1ODAsIm5iZiI6MTczNDM0MDM4MCwicGF0aCI6Ii91LzEzODM1NzI1In0.jvV-ZjvJOeEcxRsDqsYAlG1UANqUrIp1grllzkgky_8&s=72&u=5c777fef6083b0654fbcd6d75de8d32cbb105c8d&v=4" width="24" alt="Avatar of tayormi"/> tayormi
 			</a><br/>
 			Temitope Ajiboye
 		</td>
@@ -9858,7 +9858,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>697</td>
 		<td>
 			<a target="_blank" href="https://github.com/DrWaleedAYousef">
-				<img src="https://private-avatars.githubusercontent.com/u/12213197?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyMjAsIm5iZiI6MTczNDMwNDAyMCwicGF0aCI6Ii91LzEyMjEzMTk3In0.BGh7UdG82TxlUdOePKOxzGTvizyTa_ddFcGpsK4Oo44&s=72&u=eb16c6689bd99a304af16b0af4702c65601bad74&v=4" width="24" alt="Avatar of DrWaleedAYousef"/> DrWaleedAYousef
+				<img src="https://private-avatars.githubusercontent.com/u/12213197?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyMjAsIm5iZiI6MTczNDM0MDAyMCwicGF0aCI6Ii91LzEyMjEzMTk3In0.yAVR7mecNTdxKCWpWHcz_pbDJPxidJ6x9rKAaWCRoZk&s=72&u=eb16c6689bd99a304af16b0af4702c65601bad74&v=4" width="24" alt="Avatar of DrWaleedAYousef"/> DrWaleedAYousef
 			</a><br/>
 			Waleed A Yousef Waleed Yousef
 		</td>
@@ -9872,7 +9872,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>698</td>
 		<td>
 			<a target="_blank" href="https://github.com/davechurchill">
-				<img src="https://private-avatars.githubusercontent.com/u/1189032?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ5MjAsIm5iZiI6MTczNDMwMzcyMCwicGF0aCI6Ii91LzExODkwMzIifQ.01UU5cWXy7NO3LTMKDNCfupQYx849od9mfcfGCY5jBo&s=72&u=5b5b9e98e96be9604b907b6f361c551d204427a8&v=4" width="24" alt="Avatar of davechurchill"/> davechurchill
+				<img src="https://private-avatars.githubusercontent.com/u/1189032?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4MjAsIm5iZiI6MTczNDM0MDYyMCwicGF0aCI6Ii91LzExODkwMzIifQ.2m3th2ZAABaAxUfBLmqnyWrQ1lJHUk5V4wqmNX3wzrU&s=72&u=5b5b9e98e96be9604b907b6f361c551d204427a8&v=4" width="24" alt="Avatar of davechurchill"/> davechurchill
 			</a><br/>
 			David Churchill
 		</td>
@@ -9886,7 +9886,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>699</td>
 		<td>
 			<a target="_blank" href="https://github.com/cnbeining">
-				<img src="https://private-avatars.githubusercontent.com/u/1560962?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0NjAsIm5iZiI6MTczNDMwNDI2MCwicGF0aCI6Ii91LzE1NjA5NjIifQ.m-qrItZg-XytaPvrg7llulPYKwNw2JCRBpzWD7tBFOo&s=72&u=9a02ca01bbb54f9948664bb86d855b8f7d861e41&v=4" width="24" alt="Avatar of cnbeining"/> cnbeining
+				<img src="https://private-avatars.githubusercontent.com/u/1560962?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0NjAsIm5iZiI6MTczNDM0MDI2MCwicGF0aCI6Ii91LzE1NjA5NjIifQ.gcJ1jIry35VV_q0T3KQ0nt2wvim5_NLzp5p8vbTQITs&s=72&u=9a02ca01bbb54f9948664bb86d855b8f7d861e41&v=4" width="24" alt="Avatar of cnbeining"/> cnbeining
 			</a><br/>
 			David Zhuang
 		</td>
@@ -9900,7 +9900,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>700</td>
 		<td>
 			<a target="_blank" href="https://github.com/SteveJunGao">
-				<img src="https://private-avatars.githubusercontent.com/u/14035796?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0NjAsIm5iZiI6MTczNDMwNDI2MCwicGF0aCI6Ii91LzE0MDM1Nzk2In0.2rQ-OJ2hdoQXSz7Aj4J8mRc23cfm_RLqs0eggIQStlw&s=72&u=d56462a9fb45cba47c11ca12e225ce798ffeed80&v=4" width="24" alt="Avatar of SteveJunGao"/> SteveJunGao
+				<img src="https://private-avatars.githubusercontent.com/u/14035796?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0NjAsIm5iZiI6MTczNDM0MDI2MCwicGF0aCI6Ii91LzE0MDM1Nzk2In0.TW8fKnSikQR4QlxUf54BYEot8Bkr1d6_6VFr4o83jTs&s=72&u=d56462a9fb45cba47c11ca12e225ce798ffeed80&v=4" width="24" alt="Avatar of SteveJunGao"/> SteveJunGao
 			</a><br/>
 			Jun Gao
 		</td>
@@ -9914,7 +9914,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>701</td>
 		<td>
 			<a target="_blank" href="https://github.com/jts">
-				<img src="https://private-avatars.githubusercontent.com/u/389535?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0MDAsIm5iZiI6MTczNDMwNDIwMCwicGF0aCI6Ii91LzM4OTUzNSJ9.QI8qfwJ1w5g-95Amm2jI2O1GE-AkIMva3PzLvsXgW8E&s=72&v=4" width="24" alt="Avatar of jts"/> jts
+				<img src="https://private-avatars.githubusercontent.com/u/389535?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0MDAsIm5iZiI6MTczNDM0MDIwMCwicGF0aCI6Ii91LzM4OTUzNSJ9.njTyht7UE9tW4YiiaJhoT2a7LCjFXVnqg5rEBdStHYI&s=72&v=4" width="24" alt="Avatar of jts"/> jts
 			</a><br/>
 			Jared Simpson
 		</td>
@@ -9928,7 +9928,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>702</td>
 		<td>
 			<a target="_blank" href="https://github.com/sam-github">
-				<img src="https://private-avatars.githubusercontent.com/u/17607?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ5ODAsIm5iZiI6MTczNDMwMzc4MCwicGF0aCI6Ii91LzE3NjA3In0.-n3VGhlGm5zCbAY35_6wjs6ZZKU09xk471A9iW9-H38&s=72&u=742e8c56b91f17b08a5ca4d7d7126780b9be020b&v=4" width="24" alt="Avatar of sam-github"/> sam-github
+				<img src="https://private-avatars.githubusercontent.com/u/17607?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4ODAsIm5iZiI6MTczNDM0MDY4MCwicGF0aCI6Ii91LzE3NjA3In0.ksCRVN5UWKH3b6bn2T2J4ZwZPLnH48hCV1fGu7DtU0A&s=72&u=742e8c56b91f17b08a5ca4d7d7126780b9be020b&v=4" width="24" alt="Avatar of sam-github"/> sam-github
 			</a><br/>
 			Sam Roberts
 		</td>
@@ -9941,8 +9941,22 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 	<tr>
 		<td>703</td>
 		<td>
+			<a target="_blank" href="https://github.com/andy-portmen">
+				<img src="https://private-avatars.githubusercontent.com/u/6779535?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3MDAsIm5iZiI6MTczNDM0MDUwMCwicGF0aCI6Ii91LzY3Nzk1MzUifQ.dKjrmdWMi6pfnb73UEfa_PSw07_0bU8gN7eTggn70F0&s=72&v=4" width="24" alt="Avatar of andy-portmen"/> andy-portmen
+			</a><br/>
+			andy portmen
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Canada</td>
+		<td>51</td>
+		<td>51</td>
+	</tr>
+	<tr>
+		<td>704</td>
+		<td>
 			<a target="_blank" href="https://github.com/sivareddyg">
-				<img src="https://private-avatars.githubusercontent.com/u/2864742?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0NjAsIm5iZiI6MTczNDMwNDI2MCwicGF0aCI6Ii91LzI4NjQ3NDIifQ.D-uQhMTBgPIIzVxgA7xs2K0Mpk88w5CE0e5Q4dLKi0c&s=72&u=479f00d1742dc74900c2da950193f86fa7edb9a8&v=4" width="24" alt="Avatar of sivareddyg"/> sivareddyg
+				<img src="https://private-avatars.githubusercontent.com/u/2864742?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0NjAsIm5iZiI6MTczNDM0MDI2MCwicGF0aCI6Ii91LzI4NjQ3NDIifQ.AyInhB3w5HKly99BLrH8Ie5490uwjutVGxN4MrSiMoQ&s=72&u=479f00d1742dc74900c2da950193f86fa7edb9a8&v=4" width="24" alt="Avatar of sivareddyg"/> sivareddyg
 			</a><br/>
 			Siva Reddy
 		</td>
@@ -9953,10 +9967,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>704</td>
+		<td>705</td>
 		<td>
 			<a target="_blank" href="https://github.com/krrish94">
-				<img src="https://private-avatars.githubusercontent.com/u/2322201?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3MDAsIm5iZiI6MTczNDMwNDUwMCwicGF0aCI6Ii91LzIzMjIyMDEifQ.ipYnmocYGDmsgPpyXHhTt2slsSAYnxagpYJEyASODWk&s=72&u=984a3f8c2de34adb961a68e839d24cd2437c06df&v=4" width="24" alt="Avatar of krrish94"/> krrish94
+				<img src="https://private-avatars.githubusercontent.com/u/2322201?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3MDAsIm5iZiI6MTczNDM0MDUwMCwicGF0aCI6Ii91LzIzMjIyMDEifQ.yNpPrUjBZryjfI-Kgr1b4lbAIH_xcE663NB-BjffXRg&s=72&u=984a3f8c2de34adb961a68e839d24cd2437c06df&v=4" width="24" alt="Avatar of krrish94"/> krrish94
 			</a><br/>
 			Krishna Murthy
 		</td>
@@ -9967,10 +9981,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>50</td>
 	</tr>
 	<tr>
-		<td>705</td>
+		<td>706</td>
 		<td>
 			<a target="_blank" href="https://github.com/thomasjbradley">
-				<img src="https://private-avatars.githubusercontent.com/u/105192?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0NjAsIm5iZiI6MTczNDMwNDI2MCwicGF0aCI6Ii91LzEwNTE5MiJ9.oqFUxm-YA1L1KLIMeElsLRSK26dSw-8YG7B2Z-XpIwk&s=72&u=29d515d09d1a69de49475d2aefb5ff49a27a1448&v=4" width="24" alt="Avatar of thomasjbradley"/> thomasjbradley
+				<img src="https://private-avatars.githubusercontent.com/u/105192?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0NjAsIm5iZiI6MTczNDM0MDI2MCwicGF0aCI6Ii91LzEwNTE5MiJ9.5Q1uaxZK3S_SeL1gm1pbHBBHDujYY1cNdfAFKpFzq6w&s=72&u=29d515d09d1a69de49475d2aefb5ff49a27a1448&v=4" width="24" alt="Avatar of thomasjbradley"/> thomasjbradley
 			</a><br/>
 			Thomas J Bradley
 		</td>
@@ -9981,10 +9995,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>50</td>
 	</tr>
 	<tr>
-		<td>706</td>
+		<td>707</td>
 		<td>
 			<a target="_blank" href="https://github.com/AnthonyCalandra">
-				<img src="https://private-avatars.githubusercontent.com/u/952574?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxNjAsIm5iZiI6MTczNDMwMzk2MCwicGF0aCI6Ii91Lzk1MjU3NCJ9.7hyLwnW7gVmBXFMwlgeNQcYHdl9wwX8LmIUF4M4eSaI&s=72&u=eaa59a6d9aa3fa601bd7765de760757d694535f7&v=4" width="24" alt="Avatar of AnthonyCalandra"/> AnthonyCalandra
+				<img src="https://private-avatars.githubusercontent.com/u/952574?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDExNjAsIm5iZiI6MTczNDMzOTk2MCwicGF0aCI6Ii91Lzk1MjU3NCJ9.upMmETHQeu_Ii7Rb5aEMgbhA55bVdWd93QtbUWb-XFc&s=72&u=eaa59a6d9aa3fa601bd7765de760757d694535f7&v=4" width="24" alt="Avatar of AnthonyCalandra"/> AnthonyCalandra
 			</a><br/>
 			Anthony Calandra
 		</td>
@@ -9995,10 +10009,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>50</td>
 	</tr>
 	<tr>
-		<td>707</td>
+		<td>708</td>
 		<td>
 			<a target="_blank" href="https://github.com/dpaquette">
-				<img src="https://private-avatars.githubusercontent.com/u/2531875?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0NjAsIm5iZiI6MTczNDMwNDI2MCwicGF0aCI6Ii91LzI1MzE4NzUifQ.-hcZ5Vt6OCIPPWi3R0SA8mT8dlvPqkQFgLTh-wg5dE4&s=72&u=feabe4e4c2dd922279c78e0af401d3f682ccde4f&v=4" width="24" alt="Avatar of dpaquette"/> dpaquette
+				<img src="https://private-avatars.githubusercontent.com/u/2531875?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0NjAsIm5iZiI6MTczNDM0MDI2MCwicGF0aCI6Ii91LzI1MzE4NzUifQ.oflQdaePCCH-axorI8HJcbn55GGl71wuiOHyPV_CBBk&s=72&u=feabe4e4c2dd922279c78e0af401d3f682ccde4f&v=4" width="24" alt="Avatar of dpaquette"/> dpaquette
 			</a><br/>
 			David Paquette
 		</td>
@@ -10009,10 +10023,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>50</td>
 	</tr>
 	<tr>
-		<td>708</td>
+		<td>709</td>
 		<td>
 			<a target="_blank" href="https://github.com/slemire">
-				<img src="https://private-avatars.githubusercontent.com/u/1174683?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4ODAsIm5iZiI6MTczNDMwNDY4MCwicGF0aCI6Ii91LzExNzQ2ODMifQ.rkwHJ0TMJB8ourtD8FXRpCyIu8B5Cwpi-zaU-sSPYaQ&s=72&u=71967a7240de6be83904f9bcd12e3d451257f0a2&v=4" width="24" alt="Avatar of slemire"/> slemire
+				<img src="https://private-avatars.githubusercontent.com/u/1174683?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4ODAsIm5iZiI6MTczNDM0MDY4MCwicGF0aCI6Ii91LzExNzQ2ODMifQ.YSDiWytHaPU6FAHUgTBDntZcHFJROO74hV75r6YOMAw&s=72&u=71967a7240de6be83904f9bcd12e3d451257f0a2&v=4" width="24" alt="Avatar of slemire"/> slemire
 			</a><br/>
 			Simon Lemire
 		</td>
@@ -10023,10 +10037,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>50</td>
 	</tr>
 	<tr>
-		<td>709</td>
+		<td>710</td>
 		<td>
 			<a target="_blank" href="https://github.com/emmajane">
-				<img src="https://private-avatars.githubusercontent.com/u/1299320?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU2NDAsIm5iZiI6MTczNDMwNDQ0MCwicGF0aCI6Ii91LzEyOTkzMjAifQ.AfiUwN5dl0U0nAhmn_P_a43CtMwrnvFbf33oyiP3Lto&s=72&v=4" width="24" alt="Avatar of emmajane"/> emmajane
+				<img src="https://private-avatars.githubusercontent.com/u/1299320?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE2NDAsIm5iZiI6MTczNDM0MDQ0MCwicGF0aCI6Ii91LzEyOTkzMjAifQ.C6y9-eIksn1KhOti-YZ86yiJPGBJbmyWJbRYwSvUGy0&s=72&v=4" width="24" alt="Avatar of emmajane"/> emmajane
 			</a><br/>
 			Emma Jane
 		</td>
@@ -10037,10 +10051,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>50</td>
 	</tr>
 	<tr>
-		<td>710</td>
+		<td>711</td>
 		<td>
 			<a target="_blank" href="https://github.com/nikunj3011">
-				<img src="https://private-avatars.githubusercontent.com/u/26439118?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1ODAsIm5iZiI6MTczNDMwNDM4MCwicGF0aCI6Ii91LzI2NDM5MTE4In0.QMXrcyLOdSlTZKzCa01lCQt71Ky4fN988Xf4FJPA5WA&s=72&u=33232e5f798c8ff0c16f927826561c2198902152&v=4" width="24" alt="Avatar of nikunj3011"/> nikunj3011
+				<img src="https://private-avatars.githubusercontent.com/u/26439118?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1ODAsIm5iZiI6MTczNDM0MDM4MCwicGF0aCI6Ii91LzI2NDM5MTE4In0.779_MtkcQR6uQizGLpkEvv1XsIfY_Jbe1Fw7if3PAkU&s=72&u=33232e5f798c8ff0c16f927826561c2198902152&v=4" width="24" alt="Avatar of nikunj3011"/> nikunj3011
 			</a><br/>
 			Nikunj Rathod
 		</td>
@@ -10051,10 +10065,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>50</td>
 	</tr>
 	<tr>
-		<td>711</td>
+		<td>712</td>
 		<td>
 			<a target="_blank" href="https://github.com/chrismattmann">
-				<img src="https://private-avatars.githubusercontent.com/u/395887?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91LzM5NTg4NyJ9.NVNhkP0FNdWpJO-5pyqn7WwpbgxsuB_pUBdn20XzvmE&s=72&u=5719fc92f85ba138b91435e4c702c497333fcb03&v=4" width="24" alt="Avatar of chrismattmann"/> chrismattmann
+				<img src="https://private-avatars.githubusercontent.com/u/395887?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEzNDAsIm5iZiI6MTczNDM0MDE0MCwicGF0aCI6Ii91LzM5NTg4NyJ9.CF57RV1G5wokG60z4h1w6sIHSAUN4E-huApaIAjt03c&s=72&u=5719fc92f85ba138b91435e4c702c497333fcb03&v=4" width="24" alt="Avatar of chrismattmann"/> chrismattmann
 			</a><br/>
 			Chris Mattmann
 		</td>
@@ -10065,10 +10079,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>712</td>
+		<td>713</td>
 		<td>
 			<a target="_blank" href="https://github.com/eapache">
-				<img src="https://private-avatars.githubusercontent.com/u/1706826?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ5MjAsIm5iZiI6MTczNDMwMzcyMCwicGF0aCI6Ii91LzE3MDY4MjYifQ.ORVR49GVGEuK13dMMt7SYYPUPFVjiwL6FIXaRpi89ws&s=72&u=fc6b0661133ba2128ce555a6f32894608bb949c7&v=4" width="24" alt="Avatar of eapache"/> eapache
+				<img src="https://private-avatars.githubusercontent.com/u/1706826?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4MjAsIm5iZiI6MTczNDM0MDYyMCwicGF0aCI6Ii91LzE3MDY4MjYifQ.TBbKYSD2EZDFJexvzvxDRrOP53v04RpZgeqzuAZNo1o&s=72&u=fc6b0661133ba2128ce555a6f32894608bb949c7&v=4" width="24" alt="Avatar of eapache"/> eapache
 			</a><br/>
 			Evan Huus
 		</td>
@@ -10079,10 +10093,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>713</td>
+		<td>714</td>
 		<td>
 			<a target="_blank" href="https://github.com/abourget">
-				<img src="https://private-avatars.githubusercontent.com/u/93424?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDYwNjAsIm5iZiI6MTczNDMwNDg2MCwicGF0aCI6Ii91LzkzNDI0In0.Fvuqp2-u0fSrSCoGUA6TTTXrbS4yNq9xe5pfB9N3Ibs&s=72&u=5bf7ea1accbb0d998412e02f94d3db92ddfdb92a&v=4" width="24" alt="Avatar of abourget"/> abourget
+				<img src="https://private-avatars.githubusercontent.com/u/93424?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIwNjAsIm5iZiI6MTczNDM0MDg2MCwicGF0aCI6Ii91LzkzNDI0In0.aUWxXEG5b9tk7R-CzB0vyRQ4lyaGRgVY0AqZOX9VXzc&s=72&u=5bf7ea1accbb0d998412e02f94d3db92ddfdb92a&v=4" width="24" alt="Avatar of abourget"/> abourget
 			</a><br/>
 			Alexandre Bourget
 		</td>
@@ -10093,24 +10107,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>714</td>
-		<td>
-			<a target="_blank" href="https://github.com/andy-portmen">
-				<img src="https://private-avatars.githubusercontent.com/u/6779535?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3MDAsIm5iZiI6MTczNDMwNDUwMCwicGF0aCI6Ii91LzY3Nzk1MzUifQ.l141-Vz4hC_Rk80jKzq7C2Y-Z1hnI-DyJzeMKEZ69c0&s=72&v=4" width="24" alt="Avatar of andy-portmen"/> andy-portmen
-			</a><br/>
-			andy portmen
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Canada</td>
-		<td>48</td>
-		<td>48</td>
-	</tr>
-	<tr>
 		<td>715</td>
 		<td>
 			<a target="_blank" href="https://github.com/alex-okrushko">
-				<img src="https://private-avatars.githubusercontent.com/u/2830407?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0NjAsIm5iZiI6MTczNDMwNDI2MCwicGF0aCI6Ii91LzI4MzA0MDcifQ.rLQMp12LAbwvIHTSv1c3DJGiyekLVk7EjEMELAPwVhI&s=72&u=2e1db63975459c49ea6c4c8800eb562d6628f79c&v=4" width="24" alt="Avatar of alex-okrushko"/> alex-okrushko
+				<img src="https://private-avatars.githubusercontent.com/u/2830407?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0NjAsIm5iZiI6MTczNDM0MDI2MCwicGF0aCI6Ii91LzI4MzA0MDcifQ.B0Kp-CXIasKoGNUffXhdpuFbFz18AvnRI55YeQQ6Koc&s=72&u=2e1db63975459c49ea6c4c8800eb562d6628f79c&v=4" width="24" alt="Avatar of alex-okrushko"/> alex-okrushko
 			</a><br/>
 			Alex Okrushko
 		</td>
@@ -10124,7 +10124,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>716</td>
 		<td>
 			<a target="_blank" href="https://github.com/garbles">
-				<img src="https://private-avatars.githubusercontent.com/u/1139884?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3NjAsIm5iZiI6MTczNDMwNDU2MCwicGF0aCI6Ii91LzExMzk4ODQifQ.Z03OgaaOAciLNZ36oDocttm6ZFPmQZcw_Zlt-NoUZEA&s=72&u=14bdd244c540de1458c083dfd69ef9550cc65a91&v=4" width="24" alt="Avatar of garbles"/> garbles
+				<img src="https://private-avatars.githubusercontent.com/u/1139884?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3NjAsIm5iZiI6MTczNDM0MDU2MCwicGF0aCI6Ii91LzExMzk4ODQifQ.-4PTviW6C52ib6TbThqSbZAOMdV8Ns_RQx3gpCdFc98&s=72&u=14bdd244c540de1458c083dfd69ef9550cc65a91&v=4" width="24" alt="Avatar of garbles"/> garbles
 			</a><br/>
 			Gabe
 		</td>
@@ -10138,7 +10138,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>717</td>
 		<td>
 			<a target="_blank" href="https://github.com/Alecaddd">
-				<img src="https://private-avatars.githubusercontent.com/u/2527103?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ3NDAsIm5iZiI6MTczNDMwMzU0MCwicGF0aCI6Ii91LzI1MjcxMDMifQ.--N4Z2BdGMhrhfrt-9WQD8lJwE_nodOC2gI3A_89g9k&s=72&u=22040a6139ea21ebd153a431b37e0585977ca9ef&v=4" width="24" alt="Avatar of Alecaddd"/> Alecaddd
+				<img src="https://private-avatars.githubusercontent.com/u/2527103?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE2NDAsIm5iZiI6MTczNDM0MDQ0MCwicGF0aCI6Ii91LzI1MjcxMDMifQ.Bj9p7XAGV_qsexluOw5bBdtcCYqMqZsX8KJsJKk55Eo&s=72&u=22040a6139ea21ebd153a431b37e0585977ca9ef&v=4" width="24" alt="Avatar of Alecaddd"/> Alecaddd
 			</a><br/>
 			Alessandro
 		</td>
@@ -10152,7 +10152,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>718</td>
 		<td>
 			<a target="_blank" href="https://github.com/snookca">
-				<img src="https://private-avatars.githubusercontent.com/u/12890?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91LzEyODkwIn0.MiHf6phAO83qbEeivIGk0jgidp1bDRC9ZUA2S1g_IoU&s=72&u=67c592b0a60252d580ae2e3fea662802a0ac3537&v=4" width="24" alt="Avatar of snookca"/> snookca
+				<img src="https://private-avatars.githubusercontent.com/u/12890?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEzNDAsIm5iZiI6MTczNDM0MDE0MCwicGF0aCI6Ii91LzEyODkwIn0.WDW3wk0AT5aO9D9LShUDO2RlzpZrMu4bvuCN6v1SLuI&s=72&u=67c592b0a60252d580ae2e3fea662802a0ac3537&v=4" width="24" alt="Avatar of snookca"/> snookca
 			</a><br/>
 			Jonathan Snook
 		</td>
@@ -10166,7 +10166,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>719</td>
 		<td>
 			<a target="_blank" href="https://github.com/ffdixon">
-				<img src="https://private-avatars.githubusercontent.com/u/290351?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91LzI5MDM1MSJ9.Ctys_F5-3hk62F_8uZaJkWtcL4mrxt0h2zsD0cHNUYM&s=72&u=d0140f2ec91655f50a40340ca3eecbbbfa9e9af3&v=4" width="24" alt="Avatar of ffdixon"/> ffdixon
+				<img src="https://private-avatars.githubusercontent.com/u/290351?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEzNDAsIm5iZiI6MTczNDM0MDE0MCwicGF0aCI6Ii91LzI5MDM1MSJ9.ivUbM-7NWnnoY-ye-7mo2EFBqI87yiGMESVb6F1qi3I&s=72&u=d0140f2ec91655f50a40340ca3eecbbbfa9e9af3&v=4" width="24" alt="Avatar of ffdixon"/> ffdixon
 			</a><br/>
 			Fred Dixon
 		</td>
@@ -10180,7 +10180,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>720</td>
 		<td>
 			<a target="_blank" href="https://github.com/korymath">
-				<img src="https://private-avatars.githubusercontent.com/u/178099?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3NjAsIm5iZiI6MTczNDMwNDU2MCwicGF0aCI6Ii91LzE3ODA5OSJ9.UkOXR17VYSXMvQ87kApasEshIjxw0SMgMdqsj0hv_Wo&s=72&u=1d02f6838c74b227184844ff80372450b08b355a&v=4" width="24" alt="Avatar of korymath"/> korymath
+				<img src="https://private-avatars.githubusercontent.com/u/178099?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3NjAsIm5iZiI6MTczNDM0MDU2MCwicGF0aCI6Ii91LzE3ODA5OSJ9.28dxNqqoqY_hS93k2tkFX4iHSbF-BHo_EHX0XdaVcs4&s=72&u=1d02f6838c74b227184844ff80372450b08b355a&v=4" width="24" alt="Avatar of korymath"/> korymath
 			</a><br/>
 			Kory
 		</td>
@@ -10194,7 +10194,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>721</td>
 		<td>
 			<a target="_blank" href="https://github.com/rspivak">
-				<img src="https://private-avatars.githubusercontent.com/u/56723?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0MDAsIm5iZiI6MTczNDMwNDIwMCwicGF0aCI6Ii91LzU2NzIzIn0.JyMO4fcCe4IPuVqwq1F-bRIQj7GbLM5TWLxya6g1svc&s=72&u=d42971d12f621b36551a28c8d9359a5a6a2fad4e&v=4" width="24" alt="Avatar of rspivak"/> rspivak
+				<img src="https://private-avatars.githubusercontent.com/u/56723?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0MDAsIm5iZiI6MTczNDM0MDIwMCwicGF0aCI6Ii91LzU2NzIzIn0.BLPKxDdUB4TNajKp1QzGAgSSQ8ehb1ZwqHf8Kpzeves&s=72&u=d42971d12f621b36551a28c8d9359a5a6a2fad4e&v=4" width="24" alt="Avatar of rspivak"/> rspivak
 			</a><br/>
 			Ruslan Spivak
 		</td>
@@ -10207,8 +10207,22 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 	<tr>
 		<td>722</td>
 		<td>
+			<a target="_blank" href="https://github.com/windev0609">
+				<img src="https://private-avatars.githubusercontent.com/u/121866282?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1MjAsIm5iZiI6MTczNDM0MDMyMCwicGF0aCI6Ii91LzEyMTg2NjI4MiJ9.0fDyc0m2p-ObTpY1CLjswr4FLowITfyue9tMSZYd5jg&s=72&u=e50794747f53f2ac55d0d7ca83aa18ca45338e2d&v=4" width="24" alt="Avatar of windev0609"/> windev0609
+			</a><br/>
+			windev0609
+		</td>
+		<td>Livecid30b249fed6ee9 </td>
+		<td>No Twitter Username</td>
+		<td>Canada</td>
+		<td>4</td>
+		<td>43</td>
+	</tr>
+	<tr>
+		<td>723</td>
+		<td>
 			<a target="_blank" href="https://github.com/cheezy">
-				<img src="https://private-avatars.githubusercontent.com/u/34346?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUwNDAsIm5iZiI6MTczNDMwMzg0MCwicGF0aCI6Ii91LzM0MzQ2In0.XpQmAxTY8kDE8LEsicrTiApJMxCeF-xdQTEnjCH0pao&s=72&u=b056bcd45980379a59b3b123742d76ee875eaf00&v=4" width="24" alt="Avatar of cheezy"/> cheezy
+				<img src="https://private-avatars.githubusercontent.com/u/34346?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE5NDAsIm5iZiI6MTczNDM0MDc0MCwicGF0aCI6Ii91LzM0MzQ2In0.Y6kFI4xU5y6nwUL3L1RgmM7Tzorp-2OK4UvmlGEZIj0&s=72&u=b056bcd45980379a59b3b123742d76ee875eaf00&v=4" width="24" alt="Avatar of cheezy"/> cheezy
 			</a><br/>
 			Jeff Morgan
 		</td>
@@ -10219,24 +10233,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>723</td>
-		<td>
-			<a target="_blank" href="https://github.com/windev0609">
-				<img src="https://private-avatars.githubusercontent.com/u/121866282?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1MjAsIm5iZiI6MTczNDMwNDMyMCwicGF0aCI6Ii91LzEyMTg2NjI4MiJ9.nFphl9eoioR9tegaimQRIS5SIsRWL-jDOhVfO1O5f_Y&s=72&u=e50794747f53f2ac55d0d7ca83aa18ca45338e2d&v=4" width="24" alt="Avatar of windev0609"/> windev0609
-			</a><br/>
-			windev0609
-		</td>
-		<td>Livecid30b249fed6ee9 </td>
-		<td>No Twitter Username</td>
-		<td>Canada</td>
-		<td>4</td>
-		<td>42</td>
-	</tr>
-	<tr>
 		<td>724</td>
 		<td>
 			<a target="_blank" href="https://github.com/mercuryseries">
-				<img src="https://private-avatars.githubusercontent.com/u/5163810?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0MDAsIm5iZiI6MTczNDMwNDIwMCwicGF0aCI6Ii91LzUxNjM4MTAifQ.Ea149Yn9WW0Bk9iQkCI9xWmDp8X6KMAyR1s8eEZJVUA&s=72&u=f204055dedb3f7252e63e224075052032ab8961b&v=4" width="24" alt="Avatar of mercuryseries"/> mercuryseries
+				<img src="https://private-avatars.githubusercontent.com/u/5163810?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0MDAsIm5iZiI6MTczNDM0MDIwMCwicGF0aCI6Ii91LzUxNjM4MTAifQ.0bERcU8KLcLNNKJ89wydMEf4puf8i89sR6SwHuWj_7U&s=72&u=f204055dedb3f7252e63e224075052032ab8961b&v=4" width="24" alt="Avatar of mercuryseries"/> mercuryseries
 			</a><br/>
 			Honor Hounwanou
 		</td>
@@ -10250,7 +10250,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>725</td>
 		<td>
 			<a target="_blank" href="https://github.com/dzenbot">
-				<img src="https://private-avatars.githubusercontent.com/u/590579?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxNjAsIm5iZiI6MTczNDMwMzk2MCwicGF0aCI6Ii91LzU5MDU3OSJ9.FztHzAci2olbfoMRN0MYDa1I-KhVRyj0xaIUDKrY_9A&s=72&u=0cad8620fef6db563ee2cf72762eaa103522e00f&v=4" width="24" alt="Avatar of dzenbot"/> dzenbot
+				<img src="https://private-avatars.githubusercontent.com/u/590579?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDExNjAsIm5iZiI6MTczNDMzOTk2MCwicGF0aCI6Ii91LzU5MDU3OSJ9.O8QMFm6Fqr5ByLQ7l8n8uS34a63icpVHIJFb4EQakNw&s=72&u=0cad8620fef6db563ee2cf72762eaa103522e00f&v=4" width="24" alt="Avatar of dzenbot"/> dzenbot
 			</a><br/>
 			Ignacio Romero Zurbuchen
 		</td>
@@ -10264,7 +10264,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>726</td>
 		<td>
 			<a target="_blank" href="https://github.com/psc-g">
-				<img src="https://private-avatars.githubusercontent.com/u/20324657?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU5NDAsIm5iZiI6MTczNDMwNDc0MCwicGF0aCI6Ii91LzIwMzI0NjU3In0.zpcn_r2Fn8rBkZOk150lnfp4Q0zRWZKDYvtkmVgKOAs&s=72&u=c6655a5ff583b15776ce6232f6f0aac2f771c839&v=4" width="24" alt="Avatar of psc-g"/> psc-g
+				<img src="https://private-avatars.githubusercontent.com/u/20324657?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE5NDAsIm5iZiI6MTczNDM0MDc0MCwicGF0aCI6Ii91LzIwMzI0NjU3In0.6Z6Elb6E5zX-UyjV7y8o2gukmO5QntHymoJ8n4J-xok&s=72&u=c6655a5ff583b15776ce6232f6f0aac2f771c839&v=4" width="24" alt="Avatar of psc-g"/> psc-g
 			</a><br/>
 			Pablo Samuel Castro
 		</td>
@@ -10278,7 +10278,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>727</td>
 		<td>
 			<a target="_blank" href="https://github.com/ReallySnow">
-				<img src="https://private-avatars.githubusercontent.com/u/31167977?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDYxMjAsIm5iZiI6MTczNDMwNDkyMCwicGF0aCI6Ii91LzMxMTY3OTc3In0.Bq1FycApe049-urMTUsAJn16e8NAC4KGwV4sXGJTLCY&s=72&u=37792820da22b55c2f095dda720fb8a51e2d6148&v=4" width="24" alt="Avatar of ReallySnow"/> ReallySnow
+				<img src="https://private-avatars.githubusercontent.com/u/31167977?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIxMjAsIm5iZiI6MTczNDM0MDkyMCwicGF0aCI6Ii91LzMxMTY3OTc3In0.h28PMmThvh-e11Ai70b6-H46Fe2jFc6dMQe2qQAdJ1Q&s=72&u=37792820da22b55c2f095dda720fb8a51e2d6148&v=4" width="24" alt="Avatar of ReallySnow"/> ReallySnow
 			</a><br/>
 			SnowAlice
 		</td>
@@ -10292,7 +10292,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>728</td>
 		<td>
 			<a target="_blank" href="https://github.com/ploopyco">
-				<img src="https://private-avatars.githubusercontent.com/u/54917504?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91LzU0OTE3NTA0In0.TiU5IqmippI83eECvkYlJ5pMVvWPmX3hcQB114PzOdA&s=72&u=f32f51c9c57d765475049e205bfa67f08faa5840&v=4" width="24" alt="Avatar of ploopyco"/> ploopyco
+				<img src="https://private-avatars.githubusercontent.com/u/54917504?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEzNDAsIm5iZiI6MTczNDM0MDE0MCwicGF0aCI6Ii91LzU0OTE3NTA0In0.HCdxOAPMlv2qB5gJ9fAJqzfvmZpAJDGqVzU5Gt2_eLw&s=72&u=f32f51c9c57d765475049e205bfa67f08faa5840&v=4" width="24" alt="Avatar of ploopyco"/> ploopyco
 			</a><br/>
 			No Name
 		</td>
@@ -10306,7 +10306,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>729</td>
 		<td>
 			<a target="_blank" href="https://github.com/bloc97">
-				<img src="https://private-avatars.githubusercontent.com/u/567732?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUwNDAsIm5iZiI6MTczNDMwMzg0MCwicGF0aCI6Ii91LzU2NzczMiJ9.sx3kdbVsIXWM-KLOCYSkpJXw5h398XlxQcNhmtRUQ_s&s=72&u=d940a2b5299af9dc88325a38cdb7ced397b4cbc0&v=4" width="24" alt="Avatar of bloc97"/> bloc97
+				<img src="https://private-avatars.githubusercontent.com/u/567732?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEwNDAsIm5iZiI6MTczNDMzOTg0MCwicGF0aCI6Ii91LzU2NzczMiJ9.gHVGIOeCikgi0mDlNz18X0XYs67gM1_7Mt8J41rtLc0&s=72&u=d940a2b5299af9dc88325a38cdb7ced397b4cbc0&v=4" width="24" alt="Avatar of bloc97"/> bloc97
 			</a><br/>
 			No Name
 		</td>
@@ -10320,7 +10320,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>730</td>
 		<td>
 			<a target="_blank" href="https://github.com/nayuki">
-				<img src="https://private-avatars.githubusercontent.com/u/672172?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91LzY3MjE3MiJ9.JTO0myLvG_P5bTmUdNrnJ2ndeTkavUZ8jqxQxZ_vCK4&s=72&v=4" width="24" alt="Avatar of nayuki"/> nayuki
+				<img src="https://private-avatars.githubusercontent.com/u/672172?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEzNDAsIm5iZiI6MTczNDM0MDE0MCwicGF0aCI6Ii91LzY3MjE3MiJ9.2ZmH7ANph1svDEgakE0dMOx5fqZJEc0bZoi1Ami-6FE&s=72&v=4" width="24" alt="Avatar of nayuki"/> nayuki
 			</a><br/>
 			Nayuki
 		</td>
@@ -10334,7 +10334,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>731</td>
 		<td>
 			<a target="_blank" href="https://github.com/mycarta">
-				<img src="https://private-avatars.githubusercontent.com/u/7424763?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxNjAsIm5iZiI6MTczNDMwMzk2MCwicGF0aCI6Ii91Lzc0MjQ3NjMifQ.Q5MED2rvmPvKkNTMqGtp3Mmn-AEGTqqRAZ4M2bGdzJ4&s=72&u=97adf697ea182aa9aba01d95003f2322eea7ca7f&v=4" width="24" alt="Avatar of mycarta"/> mycarta
+				<img src="https://private-avatars.githubusercontent.com/u/7424763?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIwNjAsIm5iZiI6MTczNDM0MDg2MCwicGF0aCI6Ii91Lzc0MjQ3NjMifQ.7tr_TdHF7NyUsRVJvPsAGbN9yS7dDP3Rtu6NXJoKdTI&s=72&u=97adf697ea182aa9aba01d95003f2322eea7ca7f&v=4" width="24" alt="Avatar of mycarta"/> mycarta
 			</a><br/>
 			Matteo Niccoli
 		</td>
@@ -10348,7 +10348,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>732</td>
 		<td>
 			<a target="_blank" href="https://github.com/caitp">
-				<img src="https://private-avatars.githubusercontent.com/u/2294695?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxNjAsIm5iZiI6MTczNDMwMzk2MCwicGF0aCI6Ii91LzIyOTQ2OTUifQ.alGdZwM7pYx8j7g4-WwZY25BPhKXxamhgMfRWrtuecg&s=72&u=531b9cd33db3397e2a5150c24033e9b548f4f20a&v=4" width="24" alt="Avatar of caitp"/> caitp
+				<img src="https://private-avatars.githubusercontent.com/u/2294695?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDExNjAsIm5iZiI6MTczNDMzOTk2MCwicGF0aCI6Ii91LzIyOTQ2OTUifQ.7b9NQ977g9S7jOvGx4MohmX22FPLETYgHKyhcBnKu9I&s=72&u=531b9cd33db3397e2a5150c24033e9b548f4f20a&v=4" width="24" alt="Avatar of caitp"/> caitp
 			</a><br/>
 			caitp
 		</td>
@@ -10362,7 +10362,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>733</td>
 		<td>
 			<a target="_blank" href="https://github.com/keefo">
-				<img src="https://private-avatars.githubusercontent.com/u/809588?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyODAsIm5iZiI6MTczNDMwNDA4MCwicGF0aCI6Ii91LzgwOTU4OCJ9.82btpF2V5MkJWbupdtSMuywVnvGCIlY8-vwPKnYI7vA&s=72&u=2f2d6638b65b7fae64ddf1eda58ff88ebc3efc42&v=4" width="24" alt="Avatar of keefo"/> keefo
+				<img src="https://private-avatars.githubusercontent.com/u/809588?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyODAsIm5iZiI6MTczNDM0MDA4MCwicGF0aCI6Ii91LzgwOTU4OCJ9.DGz_yZP-X6IjS5h7qY8dOcPOOs04tyHiGr4hxEXzEjg&s=72&u=2f2d6638b65b7fae64ddf1eda58ff88ebc3efc42&v=4" width="24" alt="Avatar of keefo"/> keefo
 			</a><br/>
 			Xu Lian
 		</td>
@@ -10376,7 +10376,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>734</td>
 		<td>
 			<a target="_blank" href="https://github.com/arash-salemi">
-				<img src="https://private-avatars.githubusercontent.com/u/91852845?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91LzkxODUyODQ1In0._B7O5dzp1VaW4aoQ18jML6H8ndJYe8Kfaiom5ovJNOg&s=72&u=47fdb0b5acac6819f3a2dedc200d741ec04d817e&v=4" width="24" alt="Avatar of arash-salemi"/> arash-salemi
+				<img src="https://private-avatars.githubusercontent.com/u/91852845?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIyNDAsIm5iZiI6MTczNDM0MTA0MCwicGF0aCI6Ii91LzkxODUyODQ1In0.j2p80Mws2tUrI5W_hLO1anvdsc7OxvOYTjNN0T6NX0Q&s=72&u=47fdb0b5acac6819f3a2dedc200d741ec04d817e&v=4" width="24" alt="Avatar of arash-salemi"/> arash-salemi
 			</a><br/>
 			Arash Salemi
 		</td>
@@ -10390,7 +10390,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>735</td>
 		<td>
 			<a target="_blank" href="https://github.com/kcnickerson">
-				<img src="https://private-avatars.githubusercontent.com/u/86942?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91Lzg2OTQyIn0.9CWaZKo3ndYiUpYXa_udmzkjrwFgS7I3Bq8gF4yMR6g&s=72&v=4" width="24" alt="Avatar of kcnickerson"/> kcnickerson
+				<img src="https://private-avatars.githubusercontent.com/u/86942?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIyNDAsIm5iZiI6MTczNDM0MTA0MCwicGF0aCI6Ii91Lzg2OTQyIn0.HZw2Zt7E0bAK2PBOu3WJVANHF9aQ51H9NjtAn1AejzQ&s=72&v=4" width="24" alt="Avatar of kcnickerson"/> kcnickerson
 			</a><br/>
 			Ken Nickerson
 		</td>
@@ -10404,7 +10404,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>736</td>
 		<td>
 			<a target="_blank" href="https://github.com/YogeshPateliOS">
-				<img src="https://private-avatars.githubusercontent.com/u/26963737?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91LzI2OTYzNzM3In0.zvB-5snaqWrER9GYrPggzXrRv20g2uww_yGO7G5ls8w&s=72&u=2281d482e84902699b687c512e9d1a4cb663d567&v=4" width="24" alt="Avatar of YogeshPateliOS"/> YogeshPateliOS
+				<img src="https://private-avatars.githubusercontent.com/u/26963737?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEzNDAsIm5iZiI6MTczNDM0MDE0MCwicGF0aCI6Ii91LzI2OTYzNzM3In0.2Hz8FKqRKtX0Y8AtGFzSYXlEfP3peKMA3S0Z2ga7xrg&s=72&u=2281d482e84902699b687c512e9d1a4cb663d567&v=4" width="24" alt="Avatar of YogeshPateliOS"/> YogeshPateliOS
 			</a><br/>
 			Yogesh Patel
 		</td>
@@ -10418,7 +10418,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>737</td>
 		<td>
 			<a target="_blank" href="https://github.com/impressivewebs">
-				<img src="https://private-avatars.githubusercontent.com/u/558709?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDYwMDAsIm5iZiI6MTczNDMwNDgwMCwicGF0aCI6Ii91LzU1ODcwOSJ9.byHXCxqXQACG-CDbvOgY7jHtvaRj0M9RPxZd1rZtVLo&s=72&v=4" width="24" alt="Avatar of impressivewebs"/> impressivewebs
+				<img src="https://private-avatars.githubusercontent.com/u/558709?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIwMDAsIm5iZiI6MTczNDM0MDgwMCwicGF0aCI6Ii91LzU1ODcwOSJ9.qSgo7IZcpnkE1ZrdjwIZx02aL99a20KXCz9mOLnOgAI&s=72&v=4" width="24" alt="Avatar of impressivewebs"/> impressivewebs
 			</a><br/>
 			Louis Lazaris
 		</td>
@@ -10432,7 +10432,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>738</td>
 		<td>
 			<a target="_blank" href="https://github.com/mgelbart">
-				<img src="https://private-avatars.githubusercontent.com/u/157368?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0NjAsIm5iZiI6MTczNDMwNDI2MCwicGF0aCI6Ii91LzE1NzM2OCJ9.yTT8ZF5TAVjn16VXQcAV1kdhpzUxsJGVCrLd67gDSqo&s=72&u=1a09913b1cc4e007dffcb2b6ddc5c8e0ea7812de&v=4" width="24" alt="Avatar of mgelbart"/> mgelbart
+				<img src="https://private-avatars.githubusercontent.com/u/157368?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIzNjAsIm5iZiI6MTczNDM0MTE2MCwicGF0aCI6Ii91LzE1NzM2OCJ9.p_4AnpZskGgI_hBaLEFfpbOVLat9EsBecvTiCSPO9QY&s=72&u=1a09913b1cc4e007dffcb2b6ddc5c8e0ea7812de&v=4" width="24" alt="Avatar of mgelbart"/> mgelbart
 			</a><br/>
 			Mike Gelbart
 		</td>
@@ -10446,7 +10446,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>739</td>
 		<td>
 			<a target="_blank" href="https://github.com/sb-ocr">
-				<img src="https://private-avatars.githubusercontent.com/u/99417980?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3NjAsIm5iZiI6MTczNDMwNDU2MCwicGF0aCI6Ii91Lzk5NDE3OTgwIn0.mnqk1q4R2bzyMJWUqQPvMoMWABvxScMpFxgvzkBXBN8&s=72&u=d335138c241536a19a65c0f2464d4d4010d7e3ce&v=4" width="24" alt="Avatar of sb-ocr"/> sb-ocr
+				<img src="https://private-avatars.githubusercontent.com/u/99417980?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3NjAsIm5iZiI6MTczNDM0MDU2MCwicGF0aCI6Ii91Lzk5NDE3OTgwIn0.-F7lEJTEbjnX8ry6KkZ9yRX-Nn4HTRHG5tK3VLJEa6M&s=72&u=d335138c241536a19a65c0f2464d4d4010d7e3ce&v=4" width="24" alt="Avatar of sb-ocr"/> sb-ocr
 			</a><br/>
 			Salim Benbouziyane
 		</td>
@@ -10460,7 +10460,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>740</td>
 		<td>
 			<a target="_blank" href="https://github.com/JohnSully">
-				<img src="https://private-avatars.githubusercontent.com/u/3894786?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU5NDAsIm5iZiI6MTczNDMwNDc0MCwicGF0aCI6Ii91LzM4OTQ3ODYifQ.lxhxV-VXDUadzUF4Gh69t1yGZhe9jqB0jQ7dD7oFa70&s=72&u=90f51a954e218ed87134c14c49ffc650017d9c07&v=4" width="24" alt="Avatar of JohnSully"/> JohnSully
+				<img src="https://private-avatars.githubusercontent.com/u/3894786?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE5NDAsIm5iZiI6MTczNDM0MDc0MCwicGF0aCI6Ii91LzM4OTQ3ODYifQ.IVqTY4vg019jCWsyV55e_scUeRV8-y5cTNkv2E1I_5U&s=72&u=90f51a954e218ed87134c14c49ffc650017d9c07&v=4" width="24" alt="Avatar of JohnSully"/> JohnSully
 			</a><br/>
 			John Sully
 		</td>
@@ -10474,7 +10474,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>741</td>
 		<td>
 			<a target="_blank" href="https://github.com/aburkov">
-				<img src="https://private-avatars.githubusercontent.com/u/12722258?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1ODAsIm5iZiI6MTczNDMwNDM4MCwicGF0aCI6Ii91LzEyNzIyMjU4In0.nfiZweUdndrp2zbWKbeWrfvKvQHaFn5xntrht-aFntk&s=72&u=94cba1e6db2853fd1d4de5cf46ab80a9dd23a675&v=4" width="24" alt="Avatar of aburkov"/> aburkov
+				<img src="https://private-avatars.githubusercontent.com/u/12722258?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1ODAsIm5iZiI6MTczNDM0MDM4MCwicGF0aCI6Ii91LzEyNzIyMjU4In0.EkkR73PsbcQe090zkdWE3J6hQVap11BxCW5nskkv_DY&s=72&u=94cba1e6db2853fd1d4de5cf46ab80a9dd23a675&v=4" width="24" alt="Avatar of aburkov"/> aburkov
 			</a><br/>
 			Andriy Burkov
 		</td>
@@ -10488,7 +10488,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>742</td>
 		<td>
 			<a target="_blank" href="https://github.com/jbrains">
-				<img src="https://private-avatars.githubusercontent.com/u/61505?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ5MjAsIm5iZiI6MTczNDMwMzcyMCwicGF0aCI6Ii91LzYxNTA1In0.nwPwG78B05jSwH1zV0bxZdFFHwwgqyTpH7mZkJLolvk&s=72&v=4" width="24" alt="Avatar of jbrains"/> jbrains
+				<img src="https://private-avatars.githubusercontent.com/u/61505?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4MjAsIm5iZiI6MTczNDM0MDYyMCwicGF0aCI6Ii91LzYxNTA1In0.Xa6EIi9jYUsfiEOUW28EROWSsxsnRuRfum7AqFWg_Mk&s=72&v=4" width="24" alt="Avatar of jbrains"/> jbrains
 			</a><br/>
 			J B Rainsberger
 		</td>
@@ -10502,7 +10502,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>743</td>
 		<td>
 			<a target="_blank" href="https://github.com/dete">
-				<img src="https://private-avatars.githubusercontent.com/u/1195159?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3NjAsIm5iZiI6MTczNDMwNDU2MCwicGF0aCI6Ii91LzExOTUxNTkifQ.15j0QdjSS5twf_HBbrCUuYPpjpKtTmZkRL-jWeeJy4E&s=72&v=4" width="24" alt="Avatar of dete"/> dete
+				<img src="https://private-avatars.githubusercontent.com/u/1195159?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3NjAsIm5iZiI6MTczNDM0MDU2MCwicGF0aCI6Ii91LzExOTUxNTkifQ.z_huDspGePkwer4p256RGqBo_rRiRi2OZ43GMQ8kU14&s=72&v=4" width="24" alt="Avatar of dete"/> dete
 			</a><br/>
 			Dieter Shirley
 		</td>
@@ -10516,7 +10516,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>744</td>
 		<td>
 			<a target="_blank" href="https://github.com/kabary">
-				<img src="https://private-avatars.githubusercontent.com/u/6353772?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4MjAsIm5iZiI6MTczNDMwNDYyMCwicGF0aCI6Ii91LzYzNTM3NzIifQ.cgXimLrIiKVK9oGttOK5FcDPLDRDcrISDnRQe66pAus&s=72&u=c21966bc9550e2af3d643ad01b40842f0bd7add1&v=4" width="24" alt="Avatar of kabary"/> kabary
+				<img src="https://private-avatars.githubusercontent.com/u/6353772?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4MjAsIm5iZiI6MTczNDM0MDYyMCwicGF0aCI6Ii91LzYzNTM3NzIifQ.AS7ZPkJdzaiMCzSRS76BUnOSJ5JV8Zs63roIpUyoRHc&s=72&u=c21966bc9550e2af3d643ad01b40842f0bd7add1&v=4" width="24" alt="Avatar of kabary"/> kabary
 			</a><br/>
 			Ahmed Alkabary
 		</td>
@@ -10530,7 +10530,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>745</td>
 		<td>
 			<a target="_blank" href="https://github.com/scrumtuous">
-				<img src="https://private-avatars.githubusercontent.com/u/96313181?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxNjAsIm5iZiI6MTczNDMwMzk2MCwicGF0aCI6Ii91Lzk2MzEzMTgxIn0.IyFi4Z0Kba-GRVUNVMc9MmX4swgxFZwm3wb4kNuJ4i8&s=72&u=810e103183d8c256029d00e4cdb196c492fc0e21&v=4" width="24" alt="Avatar of scrumtuous"/> scrumtuous
+				<img src="https://private-avatars.githubusercontent.com/u/96313181?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDExNjAsIm5iZiI6MTczNDMzOTk2MCwicGF0aCI6Ii91Lzk2MzEzMTgxIn0.j6I4nEZURr0deu_txq4LTmTW29dHMhpH1zNjqgNVF9s&s=72&u=810e103183d8c256029d00e4cdb196c492fc0e21&v=4" width="24" alt="Avatar of scrumtuous"/> scrumtuous
 			</a><br/>
 			Darcy DeClute
 		</td>
@@ -10544,7 +10544,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>746</td>
 		<td>
 			<a target="_blank" href="https://github.com/chartjes">
-				<img src="https://private-avatars.githubusercontent.com/u/28321?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0NjAsIm5iZiI6MTczNDMwNDI2MCwicGF0aCI6Ii91LzI4MzIxIn0.8kSh8BfOFENOWQ3gzXAF5ScVyzyqwFG-eaY1IrIPNI4&s=72&v=4" width="24" alt="Avatar of chartjes"/> chartjes
+				<img src="https://private-avatars.githubusercontent.com/u/28321?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0NjAsIm5iZiI6MTczNDM0MDI2MCwicGF0aCI6Ii91LzI4MzIxIn0.JQ33xWGsiNbZ7TbemNRX8FTF7-n5nb3ojJ2DNxroTw0&s=72&v=4" width="24" alt="Avatar of chartjes"/> chartjes
 			</a><br/>
 			Chris Hartjes
 		</td>
@@ -10558,7 +10558,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>747</td>
 		<td>
 			<a target="_blank" href="https://github.com/ryanshrott">
-				<img src="https://private-avatars.githubusercontent.com/u/13425718?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxNjAsIm5iZiI6MTczNDMwMzk2MCwicGF0aCI6Ii91LzEzNDI1NzE4In0.AhycP4tSj_IkiZYen3iV9wK2WqXy4pon3B4YFyALAWk&s=72&u=2f48ba6d9f640df7c19f27d607990c8aa4e4a3c7&v=4" width="24" alt="Avatar of ryanshrott"/> ryanshrott
+				<img src="https://private-avatars.githubusercontent.com/u/13425718?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIwNjAsIm5iZiI6MTczNDM0MDg2MCwicGF0aCI6Ii91LzEzNDI1NzE4In0.sOTmWrac9cU2hn0nl4FPr3uDGXf3tW2VeuTYG7ouFgY&s=72&u=2f48ba6d9f640df7c19f27d607990c8aa4e4a3c7&v=4" width="24" alt="Avatar of ryanshrott"/> ryanshrott
 			</a><br/>
 			Ryan Shrott 
 		</td>
@@ -10572,7 +10572,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>748</td>
 		<td>
 			<a target="_blank" href="https://github.com/sgrvinod">
-				<img src="https://private-avatars.githubusercontent.com/u/10481431?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUwNDAsIm5iZiI6MTczNDMwMzg0MCwicGF0aCI6Ii91LzEwNDgxNDMxIn0.75erAPufvdHEYTChT7sDRJkL2ZR-6P1l6bYMYB22QfQ&s=72&u=716265ab71b05f6c2041581d256f9efdc62f0edc&v=4" width="24" alt="Avatar of sgrvinod"/> sgrvinod
+				<img src="https://private-avatars.githubusercontent.com/u/10481431?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEwNDAsIm5iZiI6MTczNDMzOTg0MCwicGF0aCI6Ii91LzEwNDgxNDMxIn0.-KB1mV_TblBoV-d4ZmVn3E5n4HrzEsKDES_LpgfA7vY&s=72&u=716265ab71b05f6c2041581d256f9efdc62f0edc&v=4" width="24" alt="Avatar of sgrvinod"/> sgrvinod
 			</a><br/>
 			Sagar Vinodababu
 		</td>
@@ -10586,7 +10586,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>749</td>
 		<td>
 			<a target="_blank" href="https://github.com/sniklaus">
-				<img src="https://private-avatars.githubusercontent.com/u/1238034?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUwNDAsIm5iZiI6MTczNDMwMzg0MCwicGF0aCI6Ii91LzEyMzgwMzQifQ.7u532Qu-II3rTkoz0xOWXy1eTP5Ip3z9fqifm0_P1K4&s=72&u=1952eae247114036c14ee04274db7726ba1c8bfd&v=4" width="24" alt="Avatar of sniklaus"/> sniklaus
+				<img src="https://private-avatars.githubusercontent.com/u/1238034?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEwNDAsIm5iZiI6MTczNDMzOTg0MCwicGF0aCI6Ii91LzEyMzgwMzQifQ.F9yHBQLunLOs_BsvO-xj8kRaEEhThTRM3URS7W04PK8&s=72&u=1952eae247114036c14ee04274db7726ba1c8bfd&v=4" width="24" alt="Avatar of sniklaus"/> sniklaus
 			</a><br/>
 			Simon Niklaus
 		</td>
@@ -10600,7 +10600,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>750</td>
 		<td>
 			<a target="_blank" href="https://github.com/christinatruong">
-				<img src="https://private-avatars.githubusercontent.com/u/1447211?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91LzE0NDcyMTEifQ.vWZImvDo0UNUnNjjPjq87A0UfYQnIOKLKTMQUwzdc1U&s=72&v=4" width="24" alt="Avatar of christinatruong"/> christinatruong
+				<img src="https://private-avatars.githubusercontent.com/u/1447211?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEzNDAsIm5iZiI6MTczNDM0MDE0MCwicGF0aCI6Ii91LzE0NDcyMTEifQ.OMnLbsXTRRlJgOPepp3eojg7IWZuD1AzqHHIBNNlLZE&s=72&v=4" width="24" alt="Avatar of christinatruong"/> christinatruong
 			</a><br/>
 			Christina Truong
 		</td>
@@ -10614,7 +10614,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>751</td>
 		<td>
 			<a target="_blank" href="https://github.com/ericevenchick">
-				<img src="https://private-avatars.githubusercontent.com/u/195032?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1MjAsIm5iZiI6MTczNDMwNDMyMCwicGF0aCI6Ii91LzE5NTAzMiJ9.iyAFY-f16fjEjUJqpBAUAJ2E_HmOTw7peJodppoUwKU&s=72&u=9c3533f7d14d00cb6fb01ccb730c0d669791557c&v=4" width="24" alt="Avatar of ericevenchick"/> ericevenchick
+				<img src="https://private-avatars.githubusercontent.com/u/195032?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDI0MjAsIm5iZiI6MTczNDM0MTIyMCwicGF0aCI6Ii91LzE5NTAzMiJ9.XcavA4OJsQcXwqn_uoepN9BFeXj0rKcUgnc2OYb5luM&s=72&u=9c3533f7d14d00cb6fb01ccb730c0d669791557c&v=4" width="24" alt="Avatar of ericevenchick"/> ericevenchick
 			</a><br/>
 			Eric Evenchick
 		</td>
@@ -10628,7 +10628,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>752</td>
 		<td>
 			<a target="_blank" href="https://github.com/machadop1407">
-				<img src="https://private-avatars.githubusercontent.com/u/63262246?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ4MDAsIm5iZiI6MTczNDMwMzYwMCwicGF0aCI6Ii91LzYzMjYyMjQ2In0.aTzE6Xep42DRToLt3A286p3NVuwi2TTOm8HpJMgmxo0&s=72&u=dcdc4f4695fef8f1da3001659e249a06539f594a&v=4" width="24" alt="Avatar of machadop1407"/> machadop1407
+				<img src="https://private-avatars.githubusercontent.com/u/63262246?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3MDAsIm5iZiI6MTczNDM0MDUwMCwicGF0aCI6Ii91LzYzMjYyMjQ2In0.GozPs8tlVAx51zN84BsycDmkU7XQA1fe8pK3C62qHzk&s=72&u=dcdc4f4695fef8f1da3001659e249a06539f594a&v=4" width="24" alt="Avatar of machadop1407"/> machadop1407
 			</a><br/>
 			Pedro Henrique Machado
 		</td>
@@ -10642,7 +10642,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>753</td>
 		<td>
 			<a target="_blank" href="https://github.com/stepthom">
-				<img src="https://private-avatars.githubusercontent.com/u/3842201?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1ODAsIm5iZiI6MTczNDMwNDM4MCwicGF0aCI6Ii91LzM4NDIyMDEifQ.ORlDOLGawmAfUMYj9N-wyn-BbM-ea1OOOLDl-BoOm70&s=72&u=e6ecdcc53bdea105b07e5d20289efca48cff8186&v=4" width="24" alt="Avatar of stepthom"/> stepthom
+				<img src="https://private-avatars.githubusercontent.com/u/3842201?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1ODAsIm5iZiI6MTczNDM0MDM4MCwicGF0aCI6Ii91LzM4NDIyMDEifQ.xi-awqfWcNlkIjP40AaVDOo9OMVk0Tj4vvlXVlUpHgE&s=72&u=e6ecdcc53bdea105b07e5d20289efca48cff8186&v=4" width="24" alt="Avatar of stepthom"/> stepthom
 			</a><br/>
 			Stephen W Thomas
 		</td>
@@ -10656,7 +10656,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>754</td>
 		<td>
 			<a target="_blank" href="https://github.com/adambard">
-				<img src="https://private-avatars.githubusercontent.com/u/515720?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyODAsIm5iZiI6MTczNDMwNDA4MCwicGF0aCI6Ii91LzUxNTcyMCJ9.J3oZpqTgPSw0u5pCikUfihyoC4pn9Ssgem4I053dyP4&s=72&v=4" width="24" alt="Avatar of adambard"/> adambard
+				<img src="https://private-avatars.githubusercontent.com/u/515720?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyODAsIm5iZiI6MTczNDM0MDA4MCwicGF0aCI6Ii91LzUxNTcyMCJ9.td2d__iA0OevKi1CBVrIwhy_fK1DD6hSclFx7Mi6EfU&s=72&v=4" width="24" alt="Avatar of adambard"/> adambard
 			</a><br/>
 			Adam Bard
 		</td>
@@ -10670,7 +10670,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>755</td>
 		<td>
 			<a target="_blank" href="https://github.com/win32ss">
-				<img src="https://private-avatars.githubusercontent.com/u/93808768?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91LzkzODA4NzY4In0.MIOrROeRpSXQ2ZnH-tOLTFqGsEVMhySuFtzcjs15aNc&s=72&v=4" width="24" alt="Avatar of win32ss"/> win32ss
+				<img src="https://private-avatars.githubusercontent.com/u/93808768?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIyNDAsIm5iZiI6MTczNDM0MTA0MCwicGF0aCI6Ii91LzkzODA4NzY4In0.yX6cmJwbqMpPqBoS1e9FqvMI4sUbwtxDgRnWsK411rg&s=72&v=4" width="24" alt="Avatar of win32ss"/> win32ss
 			</a><br/>
 			Shane Fournier
 		</td>
@@ -10684,7 +10684,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>756</td>
 		<td>
 			<a target="_blank" href="https://github.com/deniseyu">
-				<img src="https://private-avatars.githubusercontent.com/u/8420094?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUwNDAsIm5iZiI6MTczNDMwMzg0MCwicGF0aCI6Ii91Lzg0MjAwOTQifQ.-EICdMPAzXRbMZ5E5AqMdcQR4hb_PTMDxKlohHTzMjA&s=72&u=0f4989886003f8afae0277482a4461bb0f6d67c9&v=4" width="24" alt="Avatar of deniseyu"/> deniseyu
+				<img src="https://private-avatars.githubusercontent.com/u/8420094?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE5NDAsIm5iZiI6MTczNDM0MDc0MCwicGF0aCI6Ii91Lzg0MjAwOTQifQ.dgsY-W9xR4R8tQtrn1Uj_2qkobW951ldHdOrlai_NE8&s=72&u=0f4989886003f8afae0277482a4461bb0f6d67c9&v=4" width="24" alt="Avatar of deniseyu"/> deniseyu
 			</a><br/>
 			Denise Yu
 		</td>
@@ -10698,7 +10698,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>757</td>
 		<td>
 			<a target="_blank" href="https://github.com/apenwarr">
-				<img src="https://private-avatars.githubusercontent.com/u/20592?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ4MDAsIm5iZiI6MTczNDMwMzYwMCwicGF0aCI6Ii91LzIwNTkyIn0.FtQXLKu3EF5qtBgaB0OwNG-mxSbk-urKhKKXh-60VWs&s=72&u=a1e53a1c69272311909626b1fd6149ccd0807681&v=4" width="24" alt="Avatar of apenwarr"/> apenwarr
+				<img src="https://private-avatars.githubusercontent.com/u/20592?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3MDAsIm5iZiI6MTczNDM0MDUwMCwicGF0aCI6Ii91LzIwNTkyIn0.CN5V3bBH04NCWZXi6h9gRK_blGP-q0CvAiWnhkI0jZQ&s=72&u=a1e53a1c69272311909626b1fd6149ccd0807681&v=4" width="24" alt="Avatar of apenwarr"/> apenwarr
 			</a><br/>
 			No Name
 		</td>
@@ -10712,7 +10712,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>758</td>
 		<td>
 			<a target="_blank" href="https://github.com/IronWarrior">
-				<img src="https://private-avatars.githubusercontent.com/u/12469377?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91LzEyNDY5Mzc3In0.JiahE28wGnJf-1cxnyfq6HOgNJeAXvP1CLY4nzBc2Hc&s=72&u=3a64a61582c0bde9a85b347d734a0f9e7d72bb7d&v=4" width="24" alt="Avatar of IronWarrior"/> IronWarrior
+				<img src="https://private-avatars.githubusercontent.com/u/12469377?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEzNDAsIm5iZiI6MTczNDM0MDE0MCwicGF0aCI6Ii91LzEyNDY5Mzc3In0.Zb0dUZTTcslczJEE3vRfy1vASYmRFos1fAGt_vVAdEw&s=72&u=3a64a61582c0bde9a85b347d734a0f9e7d72bb7d&v=4" width="24" alt="Avatar of IronWarrior"/> IronWarrior
 			</a><br/>
 			Erik Roystan
 		</td>
@@ -10726,7 +10726,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>759</td>
 		<td>
 			<a target="_blank" href="https://github.com/WolfgangOfner">
-				<img src="https://private-avatars.githubusercontent.com/u/20397055?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyMjAsIm5iZiI6MTczNDMwNDAyMCwicGF0aCI6Ii91LzIwMzk3MDU1In0.4vpESeC3uGZ9Kn8EsBq4DZJymXxR3kv4S38asQe-gig&s=72&u=2160ec93f4987d9c9339f4c11cd23ee0211de19a&v=4" width="24" alt="Avatar of WolfgangOfner"/> WolfgangOfner
+				<img src="https://private-avatars.githubusercontent.com/u/20397055?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyMjAsIm5iZiI6MTczNDM0MDAyMCwicGF0aCI6Ii91LzIwMzk3MDU1In0.0LDqCs-RUFacM8GXWI5O0kzjtdbBxhfxFZw_Iq-qDyE&s=72&u=2160ec93f4987d9c9339f4c11cd23ee0211de19a&v=4" width="24" alt="Avatar of WolfgangOfner"/> WolfgangOfner
 			</a><br/>
 			Wolfgang Ofner
 		</td>
@@ -10740,7 +10740,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>760</td>
 		<td>
 			<a target="_blank" href="https://github.com/s-rah">
-				<img src="https://private-avatars.githubusercontent.com/u/106626?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1MjAsIm5iZiI6MTczNDMwNDMyMCwicGF0aCI6Ii91LzEwNjYyNiJ9.SNYe1x61QopcNq5vTo6dMonAABRzBregwef1GL1BHD0&s=72&u=767cf9ab962f9f336b9fd7b449d9c0fd756b19ca&v=4" width="24" alt="Avatar of s-rah"/> s-rah
+				<img src="https://private-avatars.githubusercontent.com/u/106626?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1MjAsIm5iZiI6MTczNDM0MDMyMCwicGF0aCI6Ii91LzEwNjYyNiJ9.3rh2jrDbajiSY6rJz39HiaF79_Vc_v7964zI2pNJ-pQ&s=72&u=767cf9ab962f9f336b9fd7b449d9c0fd756b19ca&v=4" width="24" alt="Avatar of s-rah"/> s-rah
 			</a><br/>
 			Sarah Jamie Lewis
 		</td>
@@ -10754,7 +10754,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>761</td>
 		<td>
 			<a target="_blank" href="https://github.com/gwihlidal">
-				<img src="https://private-avatars.githubusercontent.com/u/564042?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxMDAsIm5iZiI6MTczNDMwMzkwMCwicGF0aCI6Ii91LzU2NDA0MiJ9.7QgqjxFLkTsWOT6soDETOhskV6cizAP9HqhtXoy46BU&s=72&v=4" width="24" alt="Avatar of gwihlidal"/> gwihlidal
+				<img src="https://private-avatars.githubusercontent.com/u/564042?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIwMDAsIm5iZiI6MTczNDM0MDgwMCwicGF0aCI6Ii91LzU2NDA0MiJ9.s2ogtUW8ytLB2PX7tHyymi5Cm6QQFQKsCu76KScFcXA&s=72&v=4" width="24" alt="Avatar of gwihlidal"/> gwihlidal
 			</a><br/>
 			Graham Wihlidal
 		</td>
@@ -10768,7 +10768,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>762</td>
 		<td>
 			<a target="_blank" href="https://github.com/rgeirhos">
-				<img src="https://private-avatars.githubusercontent.com/u/23079422?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyODAsIm5iZiI6MTczNDMwNDA4MCwicGF0aCI6Ii91LzIzMDc5NDIyIn0.nxylwtCSr4SG4eA1X17IyeeSeKPNqrVZ0A-AxvLPy_Q&s=72&u=1851595ff5e16fba6880ce83c8303b6c45dc598c&v=4" width="24" alt="Avatar of rgeirhos"/> rgeirhos
+				<img src="https://private-avatars.githubusercontent.com/u/23079422?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIxODAsIm5iZiI6MTczNDM0MDk4MCwicGF0aCI6Ii91LzIzMDc5NDIyIn0.DcU73cUnr_n9yjrzRWolFq0tiatyRV0pjHHo7gn8Y6M&s=72&u=1851595ff5e16fba6880ce83c8303b6c45dc598c&v=4" width="24" alt="Avatar of rgeirhos"/> rgeirhos
 			</a><br/>
 			Robert Geirhos
 		</td>
@@ -10782,7 +10782,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>763</td>
 		<td>
 			<a target="_blank" href="https://github.com/odziem">
-				<img src="https://private-avatars.githubusercontent.com/u/1141312?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ5MjAsIm5iZiI6MTczNDMwMzcyMCwicGF0aCI6Ii91LzExNDEzMTIifQ.SU6ib9LKIhgiGRLPr0b4n142mpsdNjfGYIRXvkJY3Y0&s=72&v=4" width="24" alt="Avatar of odziem"/> odziem
+				<img src="https://private-avatars.githubusercontent.com/u/1141312?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4MjAsIm5iZiI6MTczNDM0MDYyMCwicGF0aCI6Ii91LzExNDEzMTIifQ.Rb-9zZ5c26Id1yTWOWoPFkEtLXGjF2LBCkMYw_x2MYQ&s=72&v=4" width="24" alt="Avatar of odziem"/> odziem
 			</a><br/>
 			Adam Odziemkowski
 		</td>
@@ -10796,7 +10796,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>764</td>
 		<td>
 			<a target="_blank" href="https://github.com/TarrySingh">
-				<img src="https://private-avatars.githubusercontent.com/u/7202199?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ4MDAsIm5iZiI6MTczNDMwMzYwMCwicGF0aCI6Ii91LzcyMDIxOTkifQ.ft3kxbuvb_GC9J92Weps-EJymk5qX1zkcqQKtO58WK4&s=72&u=a7df6a8e0c991a382bdb99663be36be8b40a2439&v=4" width="24" alt="Avatar of TarrySingh"/> TarrySingh
+				<img src="https://private-avatars.githubusercontent.com/u/7202199?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3MDAsIm5iZiI6MTczNDM0MDUwMCwicGF0aCI6Ii91LzcyMDIxOTkifQ.mTfNESOILdg8RzmgoerN0tqoXFcPW_oth5Z-7fRAhMM&s=72&u=a7df6a8e0c991a382bdb99663be36be8b40a2439&v=4" width="24" alt="Avatar of TarrySingh"/> TarrySingh
 			</a><br/>
 			tarrysingh
 		</td>
@@ -10810,7 +10810,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>765</td>
 		<td>
 			<a target="_blank" href="https://github.com/Thinkright20">
-				<img src="https://private-avatars.githubusercontent.com/u/84785278?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3MDAsIm5iZiI6MTczNDMwNDUwMCwicGF0aCI6Ii91Lzg0Nzg1Mjc4In0.DQX7N8YahWoytIAU2fxL1mRu8J1IXUr6sxMh19wFzNU&s=72&u=d9afd55576c4f9d4d2fc6acdfd3e11ee332fbf36&v=4" width="24" alt="Avatar of Thinkright20"/> Thinkright20
+				<img src="https://private-avatars.githubusercontent.com/u/84785278?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3MDAsIm5iZiI6MTczNDM0MDUwMCwicGF0aCI6Ii91Lzg0Nzg1Mjc4In0.0bCyK17XzgXVbdJTLmKUbDRA5mMEEJgotveUGabwN44&s=72&u=d9afd55576c4f9d4d2fc6acdfd3e11ee332fbf36&v=4" width="24" alt="Avatar of Thinkright20"/> Thinkright20
 			</a><br/>
 			Thinkright
 		</td>
@@ -10824,7 +10824,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>766</td>
 		<td>
 			<a target="_blank" href="https://github.com/arcdev1">
-				<img src="https://private-avatars.githubusercontent.com/u/4952180?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4MjAsIm5iZiI6MTczNDMwNDYyMCwicGF0aCI6Ii91LzQ5NTIxODAifQ.7Fw8Ck6uEopqrbKxuc3Ge3uzMoZhLfSK3uw-9mlCvDA&s=72&u=8529515c2c4ad0420eedc235dd137bd72a9ce98b&v=4" width="24" alt="Avatar of arcdev1"/> arcdev1
+				<img src="https://private-avatars.githubusercontent.com/u/4952180?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4MjAsIm5iZiI6MTczNDM0MDYyMCwicGF0aCI6Ii91LzQ5NTIxODAifQ.Jd7QZMEo0Q6HYDwsXPetp36ZeB1sYBsauFUUqs-g8nw&s=72&u=8529515c2c4ad0420eedc235dd137bd72a9ce98b&v=4" width="24" alt="Avatar of arcdev1"/> arcdev1
 			</a><br/>
 			Bill Sourour
 		</td>
@@ -10837,8 +10837,22 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 	<tr>
 		<td>767</td>
 		<td>
+			<a target="_blank" href="https://github.com/HoussineMehnik">
+				<img src="https://private-avatars.githubusercontent.com/u/7004281?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4MjAsIm5iZiI6MTczNDM0MDYyMCwicGF0aCI6Ii91LzcwMDQyODEifQ.i5PB9FuWMb2hXt8P9wlTPMTkUzgsySQa2okLyIYVFCI&s=72&u=735ee86c5c31dea0704a0b09c2a2ca793977072a&v=4" width="24" alt="Avatar of HoussineMehnik"/> HoussineMehnik
+			</a><br/>
+			Elhoussine Mehnik
+		</td>
+		<td>Unreal Engine Resources </td>
+		<td><a target="_blank" href="https://twitter.com/HoussineMehnik">HoussineMehnik</a></td>
+		<td>Montral Canada</td>
+		<td>21</td>
+		<td>21</td>
+	</tr>
+	<tr>
+		<td>768</td>
+		<td>
 			<a target="_blank" href="https://github.com/jaredreich">
-				<img src="https://private-avatars.githubusercontent.com/u/8563847?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0MDAsIm5iZiI6MTczNDMwNDIwMCwicGF0aCI6Ii91Lzg1NjM4NDcifQ.g0KCR-5mG5ca8VsdBz_F815jJYKdxqww2fvI7jefd9Q&s=72&u=e8457b3f8fd2dc3f2b62d8d436b8079bbab2c02a&v=4" width="24" alt="Avatar of jaredreich"/> jaredreich
+				<img src="https://private-avatars.githubusercontent.com/u/8563847?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0MDAsIm5iZiI6MTczNDM0MDIwMCwicGF0aCI6Ii91Lzg1NjM4NDcifQ.Toq1FpizcwEQsklNCcP9qZefBVlRQxaoEDOZJTz-PRA&s=72&u=e8457b3f8fd2dc3f2b62d8d436b8079bbab2c02a&v=4" width="24" alt="Avatar of jaredreich"/> jaredreich
 			</a><br/>
 			Jared Reich
 		</td>
@@ -10849,10 +10863,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>768</td>
+		<td>769</td>
 		<td>
 			<a target="_blank" href="https://github.com/lwansbrough">
-				<img src="https://private-avatars.githubusercontent.com/u/186674?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91LzE4NjY3NCJ9.gnNiMqEwC3PHLe7K06nW4SW5nnXVrL3vP_JaZ7TdQaU&s=72&u=2d92ed31dd63ca7164babedba5f12c9da80afe6c&v=4" width="24" alt="Avatar of lwansbrough"/> lwansbrough
+				<img src="https://private-avatars.githubusercontent.com/u/186674?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIyNDAsIm5iZiI6MTczNDM0MTA0MCwicGF0aCI6Ii91LzE4NjY3NCJ9._CbhOK3Zw0W29FLkpLBB-ZMlVCtl0ubEs2a_Q0viiYU&s=72&u=2d92ed31dd63ca7164babedba5f12c9da80afe6c&v=4" width="24" alt="Avatar of lwansbrough"/> lwansbrough
 			</a><br/>
 			Loch Wansbrough
 		</td>
@@ -10863,10 +10877,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>769</td>
+		<td>770</td>
 		<td>
 			<a target="_blank" href="https://github.com/alexeagleson">
-				<img src="https://private-avatars.githubusercontent.com/u/8410402?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0NjAsIm5iZiI6MTczNDMwNDI2MCwicGF0aCI6Ii91Lzg0MTA0MDIifQ.3BlvAWNPrFOofz0xDcv7qYOKLUwylmWhSn73xCBVO28&s=72&u=fbf769d84670069228347019ae54456b63456e20&v=4" width="24" alt="Avatar of alexeagleson"/> alexeagleson
+				<img src="https://private-avatars.githubusercontent.com/u/8410402?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIzNjAsIm5iZiI6MTczNDM0MTE2MCwicGF0aCI6Ii91Lzg0MTA0MDIifQ.GjXTBUPAG9vghkXdWBHntOqbfVCfeUdi5Oguhe0XdII&s=72&u=fbf769d84670069228347019ae54456b63456e20&v=4" width="24" alt="Avatar of alexeagleson"/> alexeagleson
 			</a><br/>
 			Alex
 		</td>
@@ -10877,10 +10891,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>770</td>
+		<td>771</td>
 		<td>
 			<a target="_blank" href="https://github.com/flukeout">
-				<img src="https://private-avatars.githubusercontent.com/u/25212?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91LzI1MjEyIn0.E6iXQ700CylIgbmlRTsyNlkMV6n_u0kJHPFDUJ_57Dc&s=72&u=e0356b7b93de836c3752d425917bc2faf31af647&v=4" width="24" alt="Avatar of flukeout"/> flukeout
+				<img src="https://private-avatars.githubusercontent.com/u/25212?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEzNDAsIm5iZiI6MTczNDM0MDE0MCwicGF0aCI6Ii91LzI1MjEyIn0.vdmYAr7U5ryBUSi5JhFTJijuMzzRVQ0jf9sLSh9KZow&s=72&u=e0356b7b93de836c3752d425917bc2faf31af647&v=4" width="24" alt="Avatar of flukeout"/> flukeout
 			</a><br/>
 			Luke Pacholski
 		</td>
@@ -10891,10 +10905,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>771</td>
+		<td>772</td>
 		<td>
 			<a target="_blank" href="https://github.com/wohali">
-				<img src="https://private-avatars.githubusercontent.com/u/112292?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU5NDAsIm5iZiI6MTczNDMwNDc0MCwicGF0aCI6Ii91LzExMjI5MiJ9.f7Gr22IUQkBy0h3RcHRaIRYjz0WPylzweFUaPYtYbl4&s=72&u=ae8e95de8564e3b5dc5998dab910954ec5c17ef8&v=4" width="24" alt="Avatar of wohali"/> wohali
+				<img src="https://private-avatars.githubusercontent.com/u/112292?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE5NDAsIm5iZiI6MTczNDM0MDc0MCwicGF0aCI6Ii91LzExMjI5MiJ9.srpqTwwlasYjF24dRvEwU2XnWArny-YpU9J8iA_dKRM&s=72&u=ae8e95de8564e3b5dc5998dab910954ec5c17ef8&v=4" width="24" alt="Avatar of wohali"/> wohali
 			</a><br/>
 			Joan Touzet
 		</td>
@@ -10905,10 +10919,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>772</td>
+		<td>773</td>
 		<td>
 			<a target="_blank" href="https://github.com/Trumeet">
-				<img src="https://private-avatars.githubusercontent.com/u/17158086?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUwNDAsIm5iZiI6MTczNDMwMzg0MCwicGF0aCI6Ii91LzE3MTU4MDg2In0.THm3L4gMT696IwFhKvdEUzD2tWe-j3frR8XXQ0mQ_5o&s=72&u=c5007c492cf891a7a99ee8203a13ca1175bb4b43&v=4" width="24" alt="Avatar of Trumeet"/> Trumeet
+				<img src="https://private-avatars.githubusercontent.com/u/17158086?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEwNDAsIm5iZiI6MTczNDMzOTg0MCwicGF0aCI6Ii91LzE3MTU4MDg2In0.dRNzxYElSE0fUvNRoAlWv5T1smDTDAwAV_upirNuFdk&s=72&u=c5007c492cf891a7a99ee8203a13ca1175bb4b43&v=4" width="24" alt="Avatar of Trumeet"/> Trumeet
 			</a><br/>
 			Yuuta Liang
 		</td>
@@ -10919,10 +10933,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>773</td>
+		<td>774</td>
 		<td>
 			<a target="_blank" href="https://github.com/filippbudko">
-				<img src="https://private-avatars.githubusercontent.com/u/121051842?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3NjAsIm5iZiI6MTczNDMwNDU2MCwicGF0aCI6Ii91LzEyMTA1MTg0MiJ9.mz5prfARwtcgJRBjACf2HDjAoEOez2BxCCBBhYJ9CoA&s=72&u=1659ed03ff526a2b97dda1faba7a1204e0883990&v=4" width="24" alt="Avatar of filippbudko"/> filippbudko
+				<img src="https://private-avatars.githubusercontent.com/u/121051842?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3NjAsIm5iZiI6MTczNDM0MDU2MCwicGF0aCI6Ii91LzEyMTA1MTg0MiJ9.bGJ-pnjqlTjYUWohDlkiXBUdV29dnsyHbXZTDvLWxw8&s=72&u=1659ed03ff526a2b97dda1faba7a1204e0883990&v=4" width="24" alt="Avatar of filippbudko"/> filippbudko
 			</a><br/>
 			Filipp Budko
 		</td>
@@ -10933,10 +10947,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>774</td>
+		<td>775</td>
 		<td>
 			<a target="_blank" href="https://github.com/tavisrudd">
-				<img src="https://private-avatars.githubusercontent.com/u/236886?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1ODAsIm5iZiI6MTczNDMwNDM4MCwicGF0aCI6Ii91LzIzNjg4NiJ9.BPqmAxXjHNslBqFJQ2SW4_I-W9GHvzbVEaLNM0r_IzY&s=72&v=4" width="24" alt="Avatar of tavisrudd"/> tavisrudd
+				<img src="https://private-avatars.githubusercontent.com/u/236886?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1ODAsIm5iZiI6MTczNDM0MDM4MCwicGF0aCI6Ii91LzIzNjg4NiJ9.okXS9kfy3t-w0rOcUtVJAbAB_pp5Au7iIRIRuGavt0o&s=72&v=4" width="24" alt="Avatar of tavisrudd"/> tavisrudd
 			</a><br/>
 			Tavis Rudd
 		</td>
@@ -10947,10 +10961,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>775</td>
+		<td>776</td>
 		<td>
 			<a target="_blank" href="https://github.com/vdumoulin">
-				<img src="https://private-avatars.githubusercontent.com/u/2034067?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUwNDAsIm5iZiI6MTczNDMwMzg0MCwicGF0aCI6Ii91LzIwMzQwNjcifQ.cVOcXfuGVB-w4bfYyyfaYXZn21_zpXx72bjj_Vb0W4o&s=72&v=4" width="24" alt="Avatar of vdumoulin"/> vdumoulin
+				<img src="https://private-avatars.githubusercontent.com/u/2034067?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEwNDAsIm5iZiI6MTczNDMzOTg0MCwicGF0aCI6Ii91LzIwMzQwNjcifQ.wMemiWEvgGu87OnBw8TGHnEg9UCGoXlS9KHx44Jv-4U&s=72&v=4" width="24" alt="Avatar of vdumoulin"/> vdumoulin
 			</a><br/>
 			No Name
 		</td>
@@ -10961,10 +10975,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>776</td>
+		<td>777</td>
 		<td>
 			<a target="_blank" href="https://github.com/eviltrout">
-				<img src="https://private-avatars.githubusercontent.com/u/17538?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3MDAsIm5iZiI6MTczNDMwNDUwMCwicGF0aCI6Ii91LzE3NTM4In0.IFK_-RIm3MBjuz7YUZvw-Jo1N97_WkGp7qTmjRJCyOU&s=72&v=4" width="24" alt="Avatar of eviltrout"/> eviltrout
+				<img src="https://private-avatars.githubusercontent.com/u/17538?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3MDAsIm5iZiI6MTczNDM0MDUwMCwicGF0aCI6Ii91LzE3NTM4In0.kzWYYZ_2VnynQUNCUx3A880Leg4KM2ce2qutJWe8fFg&s=72&v=4" width="24" alt="Avatar of eviltrout"/> eviltrout
 			</a><br/>
 			Robin Ward
 		</td>
@@ -10975,10 +10989,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>777</td>
+		<td>778</td>
 		<td>
 			<a target="_blank" href="https://github.com/MaddyThorson">
-				<img src="https://private-avatars.githubusercontent.com/u/669642?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxMDAsIm5iZiI6MTczNDMwMzkwMCwicGF0aCI6Ii91LzY2OTY0MiJ9.1jqb_2YjWYzxB0-cjLqG7Tb2rTAjKqtsj4tQCobOHdQ&s=72&u=a7ec4cde0689f27d171b4794ae0d5b3af866a04d&v=4" width="24" alt="Avatar of MaddyThorson"/> MaddyThorson
+				<img src="https://private-avatars.githubusercontent.com/u/669642?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDExMDAsIm5iZiI6MTczNDMzOTkwMCwicGF0aCI6Ii91LzY2OTY0MiJ9.FBMQ2Ri6EiMucQHauDfxqPBi3Dz6rlO7_mHqwbdZ_x8&s=72&u=a7ec4cde0689f27d171b4794ae0d5b3af866a04d&v=4" width="24" alt="Avatar of MaddyThorson"/> MaddyThorson
 			</a><br/>
 			Maddy Thorson
 		</td>
@@ -10989,10 +11003,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>778</td>
+		<td>779</td>
 		<td>
 			<a target="_blank" href="https://github.com/hackman">
-				<img src="https://private-avatars.githubusercontent.com/u/202760?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4MjAsIm5iZiI6MTczNDMwNDYyMCwicGF0aCI6Ii91LzIwMjc2MCJ9.EAz8B7FkJOpe_A4m1Qnfzd4DxmjmEiyQpMHdLS7GvkU&s=72&v=4" width="24" alt="Avatar of hackman"/> hackman
+				<img src="https://private-avatars.githubusercontent.com/u/202760?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4MjAsIm5iZiI6MTczNDM0MDYyMCwicGF0aCI6Ii91LzIwMjc2MCJ9.0AIRC628fZuTm70ubTBwIvU8DK7z0TL1hj141-K0VjA&s=72&v=4" width="24" alt="Avatar of hackman"/> hackman
 			</a><br/>
 			Marian Marinov
 		</td>
@@ -11003,10 +11017,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>779</td>
+		<td>780</td>
 		<td>
 			<a target="_blank" href="https://github.com/cjcliffe">
-				<img src="https://private-avatars.githubusercontent.com/u/247927?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1MjAsIm5iZiI6MTczNDMwNDMyMCwicGF0aCI6Ii91LzI0NzkyNyJ9.1WqbCX-dVFAX5CjWYQu8Ou6Tb6E9KrYrP2dhxFFTw6s&s=72&v=4" width="24" alt="Avatar of cjcliffe"/> cjcliffe
+				<img src="https://private-avatars.githubusercontent.com/u/247927?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1MjAsIm5iZiI6MTczNDM0MDMyMCwicGF0aCI6Ii91LzI0NzkyNyJ9.0xdNjutnPJjYp-VflWJyzZSq2nlaelctvJqm72kzNQI&s=72&v=4" width="24" alt="Avatar of cjcliffe"/> cjcliffe
 			</a><br/>
 			Charles J Cliffe
 		</td>
@@ -11017,10 +11031,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>780</td>
+		<td>781</td>
 		<td>
 			<a target="_blank" href="https://github.com/khoih-prog">
-				<img src="https://private-avatars.githubusercontent.com/u/57012152?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU2NDAsIm5iZiI6MTczNDMwNDQ0MCwicGF0aCI6Ii91LzU3MDEyMTUyIn0.JKatcSYX4_zMCOzLrpgIawuby8kxk4W_oKG0qSfPjms&s=72&u=f7ec3b02ecbc9c9be61906d0b121b4ced03c009a&v=4" width="24" alt="Avatar of khoih-prog"/> khoih-prog
+				<img src="https://private-avatars.githubusercontent.com/u/57012152?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE2NDAsIm5iZiI6MTczNDM0MDQ0MCwicGF0aCI6Ii91LzU3MDEyMTUyIn0.m7tXoYnT8YPBNllufydsTHVaozGKtC8U96yP_QKz8r0&s=72&u=f7ec3b02ecbc9c9be61906d0b121b4ced03c009a&v=4" width="24" alt="Avatar of khoih-prog"/> khoih-prog
 			</a><br/>
 			Khoi Hoang
 		</td>
@@ -11031,10 +11045,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>781</td>
+		<td>782</td>
 		<td>
 			<a target="_blank" href="https://github.com/rlguy">
-				<img src="https://private-avatars.githubusercontent.com/u/4285191?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1MjAsIm5iZiI6MTczNDMwNDMyMCwicGF0aCI6Ii91LzQyODUxOTEifQ.i_1GbrD1-X_yGPwPfs93W-fxt1rS_EfkDwA5h4vtDj4&s=72&u=a117a5601ab6fe0a9b936aea20818b1ab2768f6c&v=4" width="24" alt="Avatar of rlguy"/> rlguy
+				<img src="https://private-avatars.githubusercontent.com/u/4285191?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1MjAsIm5iZiI6MTczNDM0MDMyMCwicGF0aCI6Ii91LzQyODUxOTEifQ.Z11HHyOcPhqH7wWp-VKL8FwP7vouWwDqQ4h-nfZH3Z4&s=72&u=a117a5601ab6fe0a9b936aea20818b1ab2768f6c&v=4" width="24" alt="Avatar of rlguy"/> rlguy
 			</a><br/>
 			Ryan Guy
 		</td>
@@ -11045,24 +11059,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>782</td>
-		<td>
-			<a target="_blank" href="https://github.com/HoussineMehnik">
-				<img src="https://private-avatars.githubusercontent.com/u/7004281?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4MjAsIm5iZiI6MTczNDMwNDYyMCwicGF0aCI6Ii91LzcwMDQyODEifQ._F_LBPJ0K7bExHzW25jg_PKi6X1iUvXMQ95tnVUjRZQ&s=72&u=735ee86c5c31dea0704a0b09c2a2ca793977072a&v=4" width="24" alt="Avatar of HoussineMehnik"/> HoussineMehnik
-			</a><br/>
-			Elhoussine Mehnik
-		</td>
-		<td>Unreal Engine Resources </td>
-		<td><a target="_blank" href="https://twitter.com/HoussineMehnik">HoussineMehnik</a></td>
-		<td>Montral Canada</td>
-		<td>15</td>
-		<td>15</td>
-	</tr>
-	<tr>
 		<td>783</td>
 		<td>
 			<a target="_blank" href="https://github.com/olalonde">
-				<img src="https://private-avatars.githubusercontent.com/u/416585?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDYwNjAsIm5iZiI6MTczNDMwNDg2MCwicGF0aCI6Ii91LzQxNjU4NSJ9.T33KDWwLJh7bjjKMamt8zKctbgBpljQTlX5s8466WAQ&s=72&u=e01e7edaf28ca97546aa0e62672e81593bf4d2bd&v=4" width="24" alt="Avatar of olalonde"/> olalonde
+				<img src="https://private-avatars.githubusercontent.com/u/416585?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIwNjAsIm5iZiI6MTczNDM0MDg2MCwicGF0aCI6Ii91LzQxNjU4NSJ9.gB_FkPL2JT8NfCILXQ83AAOmNfy6eODpODgr2DIn90g&s=72&u=e01e7edaf28ca97546aa0e62672e81593bf4d2bd&v=4" width="24" alt="Avatar of olalonde"/> olalonde
 			</a><br/>
 			Oli
 		</td>
@@ -11076,7 +11076,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>784</td>
 		<td>
 			<a target="_blank" href="https://github.com/mahmoudnafifi">
-				<img src="https://private-avatars.githubusercontent.com/u/37669469?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUwNDAsIm5iZiI6MTczNDMwMzg0MCwicGF0aCI6Ii91LzM3NjY5NDY5In0.Y39VKIAIbB209eADVBEGq1gLc05RfoIdIaayovbf62Q&s=72&u=1a104d6549421801419c5af73be1fa7880acdcb3&v=4" width="24" alt="Avatar of mahmoudnafifi"/> mahmoudnafifi
+				<img src="https://private-avatars.githubusercontent.com/u/37669469?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE5NDAsIm5iZiI6MTczNDM0MDc0MCwicGF0aCI6Ii91LzM3NjY5NDY5In0.K257PiZOij7Go2IepmM4918UAVuSUn86cvLW59QFDME&s=72&u=1a104d6549421801419c5af73be1fa7880acdcb3&v=4" width="24" alt="Avatar of mahmoudnafifi"/> mahmoudnafifi
 			</a><br/>
 			Mahmoud Afifi
 		</td>
@@ -11090,7 +11090,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>785</td>
 		<td>
 			<a target="_blank" href="https://github.com/gazijarin">
-				<img src="https://private-avatars.githubusercontent.com/u/32211479?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxMDAsIm5iZiI6MTczNDMwMzkwMCwicGF0aCI6Ii91LzMyMjExNDc5In0.Grq-FfGqKpc9OfwQFlXaju1JOZdFupFXBdodt9N5xT8&s=72&u=549f94369fbdbab7960f309cae1518347fd9bab1&v=4" width="24" alt="Avatar of gazijarin"/> gazijarin
+				<img src="https://private-avatars.githubusercontent.com/u/32211479?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDExMDAsIm5iZiI6MTczNDMzOTkwMCwicGF0aCI6Ii91LzMyMjExNDc5In0.bJzrJtOuSlv6had-ztWX2qD4ycJkARlcPvC3mmYOW48&s=72&u=549f94369fbdbab7960f309cae1518347fd9bab1&v=4" width="24" alt="Avatar of gazijarin"/> gazijarin
 			</a><br/>
 			Gazi
 		</td>
@@ -11103,8 +11103,22 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 	<tr>
 		<td>786</td>
 		<td>
+			<a target="_blank" href="https://github.com/basir">
+				<img src="https://private-avatars.githubusercontent.com/u/2572995?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3MDAsIm5iZiI6MTczNDM0MDUwMCwicGF0aCI6Ii91LzI1NzI5OTUifQ.a9dLwqptQypO3KrisGZ2E89j7KFy_L37ypSlJWVC-O0&s=72&u=75163005588d7c80336f26b9469a72ed76c2d4c3&v=4" width="24" alt="Avatar of basir"/> basir
+			</a><br/>
+			Bassir Jafarzadeh
+		</td>
+		<td>Roi Research On Investment<br/></td>
+		<td><a target="_blank" href="https://twitter.com/basirjd">basirjd</a></td>
+		<td>Montreal</td>
+		<td>13</td>
+		<td>13</td>
+	</tr>
+	<tr>
+		<td>787</td>
+		<td>
 			<a target="_blank" href="https://github.com/afilina">
-				<img src="https://private-avatars.githubusercontent.com/u/199835?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1MjAsIm5iZiI6MTczNDMwNDMyMCwicGF0aCI6Ii91LzE5OTgzNSJ9.o0fCkkKrObI0iTMXOSe2Jtg5sBB4QAXHd12DAz5FWkk&s=72&u=d133afc4e19961b7da45b6bb485ed9ac9232e4bb&v=4" width="24" alt="Avatar of afilina"/> afilina
+				<img src="https://private-avatars.githubusercontent.com/u/199835?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1MjAsIm5iZiI6MTczNDM0MDMyMCwicGF0aCI6Ii91LzE5OTgzNSJ9.GcZUXHooAYX1b91gxFEDAm_AoNuARzmHsqeyRDpq5Vg&s=72&u=d133afc4e19961b7da45b6bb485ed9ac9232e4bb&v=4" width="24" alt="Avatar of afilina"/> afilina
 			</a><br/>
 			Anna Filina
 		</td>
@@ -11115,10 +11129,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>787</td>
+		<td>788</td>
 		<td>
 			<a target="_blank" href="https://github.com/OlivierLaflamme">
-				<img src="https://private-avatars.githubusercontent.com/u/25066959?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyODAsIm5iZiI6MTczNDMwNDA4MCwicGF0aCI6Ii91LzI1MDY2OTU5In0.iEB1juEM7mcp2gGVICaf7WqnjT1ioFg0WE8MawdvoBs&s=72&u=958cb6428efe95ef61eeb625a765a35aad5c5bec&v=4" width="24" alt="Avatar of OlivierLaflamme"/> OlivierLaflamme
+				<img src="https://private-avatars.githubusercontent.com/u/25066959?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyODAsIm5iZiI6MTczNDM0MDA4MCwicGF0aCI6Ii91LzI1MDY2OTU5In0.9IKeLAbemVI8HPkHwUt9b_-IzSwWFd0vAGRaa44wv4E&s=72&u=958cb6428efe95ef61eeb625a765a35aad5c5bec&v=4" width="24" alt="Avatar of OlivierLaflamme"/> OlivierLaflamme
 			</a><br/>
 			Boschko
 		</td>
@@ -11129,10 +11143,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>788</td>
+		<td>789</td>
 		<td>
 			<a target="_blank" href="https://github.com/jneen">
-				<img src="https://private-avatars.githubusercontent.com/u/225017?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3MDAsIm5iZiI6MTczNDMwNDUwMCwicGF0aCI6Ii91LzIyNTAxNyJ9.ImC8YN6QUqXWrg1VvCB-gA-Llnijo7XsJzZE_p6BrsM&s=72&u=2e669c66d5f60738d1d8a3960566fda37019f878&v=4" width="24" alt="Avatar of jneen"/> jneen
+				<img src="https://private-avatars.githubusercontent.com/u/225017?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3MDAsIm5iZiI6MTczNDM0MDUwMCwicGF0aCI6Ii91LzIyNTAxNyJ9.spFzDD97zU8jp-l0qqIzLJDCNN6uMN-EN9zppD415QA&s=72&u=2e669c66d5f60738d1d8a3960566fda37019f878&v=4" width="24" alt="Avatar of jneen"/> jneen
 			</a><br/>
 			Jeanine Adkisson
 		</td>
@@ -11143,10 +11157,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>789</td>
+		<td>790</td>
 		<td>
 			<a target="_blank" href="https://github.com/deepanjanroy">
-				<img src="https://private-avatars.githubusercontent.com/u/3505637?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU2NDAsIm5iZiI6MTczNDMwNDQ0MCwicGF0aCI6Ii91LzM1MDU2MzcifQ.AqZYBchPwx9UyG6f-eaNLBa0LwGqpwmszyTA5q3suTk&s=72&u=0df48e0c21bee9b823acd968abec3c90460ed733&v=4" width="24" alt="Avatar of deepanjanroy"/> deepanjanroy
+				<img src="https://private-avatars.githubusercontent.com/u/3505637?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE2NDAsIm5iZiI6MTczNDM0MDQ0MCwicGF0aCI6Ii91LzM1MDU2MzcifQ.JCZryvlRxBnN4_gO06vtycHl60aJIYMQaBu9Lcp9pE0&s=72&u=0df48e0c21bee9b823acd968abec3c90460ed733&v=4" width="24" alt="Avatar of deepanjanroy"/> deepanjanroy
 			</a><br/>
 			Deepanjan Roy
 		</td>
@@ -11157,24 +11171,10 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>790</td>
-		<td>
-			<a target="_blank" href="https://github.com/basir">
-				<img src="https://private-avatars.githubusercontent.com/u/2572995?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ4MDAsIm5iZiI6MTczNDMwMzYwMCwicGF0aCI6Ii91LzI1NzI5OTUifQ.zpGuliUJOBBPF41OFsSkLigY9zg5JMlsfewFfhnO9rA&s=72&u=75163005588d7c80336f26b9469a72ed76c2d4c3&v=4" width="24" alt="Avatar of basir"/> basir
-			</a><br/>
-			Bassir Jafarzadeh
-		</td>
-		<td>Roi Research On Investment<br/></td>
-		<td><a target="_blank" href="https://twitter.com/basirjd">basirjd</a></td>
-		<td>Montreal</td>
-		<td>10</td>
-		<td>10</td>
-	</tr>
-	<tr>
 		<td>791</td>
 		<td>
 			<a target="_blank" href="https://github.com/chenkie">
-				<img src="https://private-avatars.githubusercontent.com/u/1847678?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU2NDAsIm5iZiI6MTczNDMwNDQ0MCwicGF0aCI6Ii91LzE4NDc2NzgifQ.lse_yEE_P8mmLvYDBpm8csHwNnjmdoFnTZTmvL26ogM&s=72&v=4" width="24" alt="Avatar of chenkie"/> chenkie
+				<img src="https://private-avatars.githubusercontent.com/u/1847678?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE2NDAsIm5iZiI6MTczNDM0MDQ0MCwicGF0aCI6Ii91LzE4NDc2NzgifQ.xPGT0pzstKSw-feToF8KaPqzhljwuqX4-GiN6O2x2mY&s=72&v=4" width="24" alt="Avatar of chenkie"/> chenkie
 			</a><br/>
 			Ryan Chenkie
 		</td>
@@ -11188,7 +11188,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>792</td>
 		<td>
 			<a target="_blank" href="https://github.com/hiukim">
-				<img src="https://private-avatars.githubusercontent.com/u/459126?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3NjAsIm5iZiI6MTczNDMwNDU2MCwicGF0aCI6Ii91LzQ1OTEyNiJ9.NH95ei_MW_NLTPsjfC6pU1QrpJeGjbGtAatsYqXOgA4&s=72&u=508f76fbe4fc2c99f8b97bc779cf2b320b62224a&v=4" width="24" alt="Avatar of hiukim"/> hiukim
+				<img src="https://private-avatars.githubusercontent.com/u/459126?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3NjAsIm5iZiI6MTczNDM0MDU2MCwicGF0aCI6Ii91LzQ1OTEyNiJ9.yRlTEV3doFwGQrEvqVN1pHBr6TriG5CRQ_AhLQos78Y&s=72&u=508f76fbe4fc2c99f8b97bc779cf2b320b62224a&v=4" width="24" alt="Avatar of hiukim"/> hiukim
 			</a><br/>
 			HiuKim Yuen
 		</td>
@@ -11202,7 +11202,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>793</td>
 		<td>
 			<a target="_blank" href="https://github.com/bradt">
-				<img src="https://private-avatars.githubusercontent.com/u/190095?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0MDAsIm5iZiI6MTczNDMwNDIwMCwicGF0aCI6Ii91LzE5MDA5NSJ9.6bJpeBspjue3zERNAT-QpvVDf3CH1akHZGkRl3wAOWM&s=72&v=4" width="24" alt="Avatar of bradt"/> bradt
+				<img src="https://private-avatars.githubusercontent.com/u/190095?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIzMDAsIm5iZiI6MTczNDM0MTEwMCwicGF0aCI6Ii91LzE5MDA5NSJ9.e7mdHR9k98MHNtybB3BFi0B4rrIcv8CSCocsTuMigkg&s=72&v=4" width="24" alt="Avatar of bradt"/> bradt
 			</a><br/>
 			Brad Touesnard
 		</td>
@@ -11216,7 +11216,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>794</td>
 		<td>
 			<a target="_blank" href="https://github.com/samanthaming">
-				<img src="https://private-avatars.githubusercontent.com/u/16507205?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ2ODAsIm5iZiI6MTczNDMwMzQ4MCwicGF0aCI6Ii91LzE2NTA3MjA1In0.0Fr_DrITnA_H0VaZSeNKN4d1qqLPW78qWiQBO_b_iI8&s=72&u=a6c0c5aa98d2590499a2b8b7bc2e2a0cd9d27904&v=4" width="24" alt="Avatar of samanthaming"/> samanthaming
+				<img src="https://private-avatars.githubusercontent.com/u/16507205?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1ODAsIm5iZiI6MTczNDM0MDM4MCwicGF0aCI6Ii91LzE2NTA3MjA1In0.NE1BYAGnsMeN90CcvUjbh9HNPQb6-tN1ElVfB8lmz6c&s=72&u=a6c0c5aa98d2590499a2b8b7bc2e2a0cd9d27904&v=4" width="24" alt="Avatar of samanthaming"/> samanthaming
 			</a><br/>
 			Samantha Ming
 		</td>
@@ -11230,7 +11230,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>795</td>
 		<td>
 			<a target="_blank" href="https://github.com/hyc0812">
-				<img src="https://private-avatars.githubusercontent.com/u/80454212?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ5MjAsIm5iZiI6MTczNDMwMzcyMCwicGF0aCI6Ii91LzgwNDU0MjEyIn0.-_QiZFMW3VaL0cPkw_FnniQKTMHGA__2oD7d4XyKemQ&s=72&u=c2e35ae99cbaf9d2f8dc3389dd1d0c6fa5ffc7b9&v=4" width="24" alt="Avatar of hyc0812"/> hyc0812
+				<img src="https://private-avatars.githubusercontent.com/u/80454212?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4MjAsIm5iZiI6MTczNDM0MDYyMCwicGF0aCI6Ii91LzgwNDU0MjEyIn0.vtM1yb7ixij7eXPrsJj0pJlBZsIW29ChSDdTuAinLig&s=72&u=c2e35ae99cbaf9d2f8dc3389dd1d0c6fa5ffc7b9&v=4" width="24" alt="Avatar of hyc0812"/> hyc0812
 			</a><br/>
 			Yongchang He
 		</td>
@@ -11244,7 +11244,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>796</td>
 		<td>
 			<a target="_blank" href="https://github.com/at15">
-				<img src="https://private-avatars.githubusercontent.com/u/5621298?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91LzU2MjEyOTgifQ.4iHqiB1jLYysXmvO2gYZJTvlFw7FLjCoaQkURtoF31M&s=72&u=41494a3203225b0b4402825316332279b53cb525&v=4" width="24" alt="Avatar of at15"/> at15
+				<img src="https://private-avatars.githubusercontent.com/u/5621298?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEzNDAsIm5iZiI6MTczNDM0MDE0MCwicGF0aCI6Ii91LzU2MjEyOTgifQ.rV3kaYDvWvXAoKwC-T0Rl7l3GbU1lRAhakQ1ZX476Pw&s=72&u=41494a3203225b0b4402825316332279b53cb525&v=4" width="24" alt="Avatar of at15"/> at15
 			</a><br/>
 			Pinglei Guo
 		</td>
@@ -11258,7 +11258,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>797</td>
 		<td>
 			<a target="_blank" href="https://github.com/bluebinky">
-				<img src="https://private-avatars.githubusercontent.com/u/142718182?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0MDAsIm5iZiI6MTczNDMwNDIwMCwicGF0aCI6Ii91LzE0MjcxODE4MiJ9.8EC8oRFv7Yz-0_3gjPDQtbXDu-9iVdG9QmTEYRioDrk&s=72&u=944e9ae1589bf527b302fde25e7fe9d578fad250&v=4" width="24" alt="Avatar of bluebinky"/> bluebinky
+				<img src="https://private-avatars.githubusercontent.com/u/142718182?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0MDAsIm5iZiI6MTczNDM0MDIwMCwicGF0aCI6Ii91LzE0MjcxODE4MiJ9.HkVkKKAPXRx0XayMV5iD3UBm6Dn-A2cmyYxUjSGibnk&s=72&u=944e9ae1589bf527b302fde25e7fe9d578fad250&v=4" width="24" alt="Avatar of bluebinky"/> bluebinky
 			</a><br/>
 			Blue Binky
 		</td>
@@ -11272,7 +11272,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>798</td>
 		<td>
 			<a target="_blank" href="https://github.com/xinshuoweng">
-				<img src="https://private-avatars.githubusercontent.com/u/16176968?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxNjAsIm5iZiI6MTczNDMwMzk2MCwicGF0aCI6Ii91LzE2MTc2OTY4In0.072nqiNQBxyzxbcal6H7AlW_GrdmRjS1RRsrXOaKOjg&s=72&u=36aee7312f1ba2019d3455c5c5b38bd19b52884c&v=4" width="24" alt="Avatar of xinshuoweng"/> xinshuoweng
+				<img src="https://private-avatars.githubusercontent.com/u/16176968?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDExNjAsIm5iZiI6MTczNDMzOTk2MCwicGF0aCI6Ii91LzE2MTc2OTY4In0.5gavQlEj_b3ewwIkW5j5iw2QOSLc0AcPCTv_Wwwgp2o&s=72&u=36aee7312f1ba2019d3455c5c5b38bd19b52884c&v=4" width="24" alt="Avatar of xinshuoweng"/> xinshuoweng
 			</a><br/>
 			Xinshuo Weng
 		</td>
@@ -11286,7 +11286,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>799</td>
 		<td>
 			<a target="_blank" href="https://github.com/hi-caicai">
-				<img src="https://private-avatars.githubusercontent.com/u/1811819?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0NjAsIm5iZiI6MTczNDMwNDI2MCwicGF0aCI6Ii91LzE4MTE4MTkifQ.TV0CgyyOXl8002Mh_U0WpyJ15M_Hm1NURQ-s3SU2NGI&s=72&u=9e7b9aafd48ee8f34f235c477caefe094665ff6c&v=4" width="24" alt="Avatar of hi-caicai"/> hi-caicai
+				<img src="https://private-avatars.githubusercontent.com/u/1811819?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0NjAsIm5iZiI6MTczNDM0MDI2MCwicGF0aCI6Ii91LzE4MTE4MTkifQ.KRzmARSB8wchuaLU5aHAOzdTZOXrdaw14zpdE00pp8I&s=72&u=9e7b9aafd48ee8f34f235c477caefe094665ff6c&v=4" width="24" alt="Avatar of hi-caicai"/> hi-caicai
 			</a><br/>
 			CaiCai
 		</td>
@@ -11300,7 +11300,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>800</td>
 		<td>
 			<a target="_blank" href="https://github.com/positlabs">
-				<img src="https://private-avatars.githubusercontent.com/u/1918844?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0NjAsIm5iZiI6MTczNDMwNDI2MCwicGF0aCI6Ii91LzE5MTg4NDQifQ.NrwSxG_qA_XvC9osDtq1kVo2-W10pi1as06yBDTQ9Xg&s=72&u=f3e37214deaea39f4bcf93918fa0f4eeb8d317f2&v=4" width="24" alt="Avatar of positlabs"/> positlabs
+				<img src="https://private-avatars.githubusercontent.com/u/1918844?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0NjAsIm5iZiI6MTczNDM0MDI2MCwicGF0aCI6Ii91LzE5MTg4NDQifQ.OsVmxzyPh9o9Vd9a0AC1J_qr41jG_OnEhpYD2rIdxQA&s=72&u=f3e37214deaea39f4bcf93918fa0f4eeb8d317f2&v=4" width="24" alt="Avatar of positlabs"/> positlabs
 			</a><br/>
 			Josh Beckwith
 		</td>
@@ -11314,7 +11314,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>801</td>
 		<td>
 			<a target="_blank" href="https://github.com/loljoshie">
-				<img src="https://private-avatars.githubusercontent.com/u/91661118?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxNjAsIm5iZiI6MTczNDMwMzk2MCwicGF0aCI6Ii91LzkxNjYxMTE4In0.SYulsaJjKNV0nj13qTW8i50sYyVou2kEoq-nWoCQWSA&s=72&u=2f005c006c88c9b1c1dae985716c8b223e90ee0b&v=4" width="24" alt="Avatar of loljoshie"/> loljoshie
+				<img src="https://private-avatars.githubusercontent.com/u/91661118?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIwNjAsIm5iZiI6MTczNDM0MDg2MCwicGF0aCI6Ii91LzkxNjYxMTE4In0.d7qB-shtOSsstGghGfKPUXQzVMen2L4YsVJCsZbb4ME&s=72&u=2f005c006c88c9b1c1dae985716c8b223e90ee0b&v=4" width="24" alt="Avatar of loljoshie"/> loljoshie
 			</a><br/>
 			Joshua
 		</td>
@@ -11328,7 +11328,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>802</td>
 		<td>
 			<a target="_blank" href="https://github.com/edward">
-				<img src="https://private-avatars.githubusercontent.com/u/325?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3MDAsIm5iZiI6MTczNDMwNDUwMCwicGF0aCI6Ii91LzMyNSJ9.UgxdTyW0mMpzq4yVWh0UHFd9w1dMyLVPlwthsVUknug&s=72&u=65a40f9574087a1c956eb7b9c1810ca885a7cc9d&v=4" width="24" alt="Avatar of edward"/> edward
+				<img src="https://private-avatars.githubusercontent.com/u/325?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3MDAsIm5iZiI6MTczNDM0MDUwMCwicGF0aCI6Ii91LzMyNSJ9.G_cuitu1WK3XCasELYKyV-aFopEF36kgiw2SPIg5fSM&s=72&u=65a40f9574087a1c956eb7b9c1810ca885a7cc9d&v=4" width="24" alt="Avatar of edward"/> edward
 			</a><br/>
 			Edward OcampoGooding
 		</td>
@@ -11342,7 +11342,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>803</td>
 		<td>
 			<a target="_blank" href="https://github.com/abramhindle">
-				<img src="https://private-avatars.githubusercontent.com/u/57137?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDYwMDAsIm5iZiI6MTczNDMwNDgwMCwicGF0aCI6Ii91LzU3MTM3In0.ZbVKvSoEYpj-rQtxUrZo0UIElo_AYypLXr2osWRAqf8&s=72&v=4" width="24" alt="Avatar of abramhindle"/> abramhindle
+				<img src="https://private-avatars.githubusercontent.com/u/57137?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIwMDAsIm5iZiI6MTczNDM0MDgwMCwicGF0aCI6Ii91LzU3MTM3In0._KgqSZbcizR7K0k-QChGHAdrpYp68e6Ur0rkp2sqXQw&s=72&v=4" width="24" alt="Avatar of abramhindle"/> abramhindle
 			</a><br/>
 			Abram Hindle
 		</td>
@@ -11356,7 +11356,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>804</td>
 		<td>
 			<a target="_blank" href="https://github.com/DateBro">
-				<img src="https://private-avatars.githubusercontent.com/u/32711044?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDYwMDAsIm5iZiI6MTczNDMwNDgwMCwicGF0aCI6Ii91LzMyNzExMDQ0In0.0jStN03_SaKRRbmTSz2qqsAnUNttIBMxRH8Rt74Uihk&s=72&u=22872c461667275608910ffc4e193183e1077e5a&v=4" width="24" alt="Avatar of DateBro"/> DateBro
+				<img src="https://private-avatars.githubusercontent.com/u/32711044?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIwMDAsIm5iZiI6MTczNDM0MDgwMCwicGF0aCI6Ii91LzMyNzExMDQ0In0.Ft6bnkXULq9Wqg7gsjCazJ2K1VGHJFuZEGShxEoxdLc&s=72&u=22872c461667275608910ffc4e193183e1077e5a&v=4" width="24" alt="Avatar of DateBro"/> DateBro
 			</a><br/>
 			ZhiyongJohnny Zhao
 		</td>
@@ -11370,7 +11370,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>805</td>
 		<td>
 			<a target="_blank" href="https://github.com/chmln">
-				<img src="https://private-avatars.githubusercontent.com/u/11352152?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyMjAsIm5iZiI6MTczNDMwNDAyMCwicGF0aCI6Ii91LzExMzUyMTUyIn0.iAlDU9JyDC17uFKtiZAgwH_KZqKdZcMTFVu3uLSSxdQ&s=72&u=7da5f58f9961ec64efd8d31785ab80b53cb712e6&v=4" width="24" alt="Avatar of chmln"/> chmln
+				<img src="https://private-avatars.githubusercontent.com/u/11352152?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyMjAsIm5iZiI6MTczNDM0MDAyMCwicGF0aCI6Ii91LzExMzUyMTUyIn0.Bvo5nzINa3-IDflrMg-nTGJGfaYP-jFG_BBTY-ZEiyg&s=72&u=7da5f58f9961ec64efd8d31785ab80b53cb712e6&v=4" width="24" alt="Avatar of chmln"/> chmln
 			</a><br/>
 			Gregory
 		</td>
@@ -11384,7 +11384,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>806</td>
 		<td>
 			<a target="_blank" href="https://github.com/JessicaLim8">
-				<img src="https://private-avatars.githubusercontent.com/u/32988878?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3MDAsIm5iZiI6MTczNDMwNDUwMCwicGF0aCI6Ii91LzMyOTg4ODc4In0.F-drMVoB5VmnUF07mUM1cgkxO55DMsPqYH_g7kGBGH0&s=72&u=fe2d0f70350e4e6f6c8baae48b0181e099069226&v=4" width="24" alt="Avatar of JessicaLim8"/> JessicaLim8
+				<img src="https://private-avatars.githubusercontent.com/u/32988878?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3MDAsIm5iZiI6MTczNDM0MDUwMCwicGF0aCI6Ii91LzMyOTg4ODc4In0.1eZ2gO5OyR53mpkgS8LamlTsu0e-K1qfh3leTDiFQdE&s=72&u=fe2d0f70350e4e6f6c8baae48b0181e099069226&v=4" width="24" alt="Avatar of JessicaLim8"/> JessicaLim8
 			</a><br/>
 			Jessica Lim
 		</td>
@@ -11398,7 +11398,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>807</td>
 		<td>
 			<a target="_blank" href="https://github.com/david-gpu">
-				<img src="https://private-avatars.githubusercontent.com/u/20329368?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0NjAsIm5iZiI6MTczNDMwNDI2MCwicGF0aCI6Ii91LzIwMzI5MzY4In0.4RAO4AoezniC7G-wsPFAPB0bTtRm7VWFqkZZD91Pn6I&s=72&u=bde874d29f4107ef1e69a21aed8b43f10acea4ae&v=4" width="24" alt="Avatar of david-gpu"/> david-gpu
+				<img src="https://private-avatars.githubusercontent.com/u/20329368?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0NjAsIm5iZiI6MTczNDM0MDI2MCwicGF0aCI6Ii91LzIwMzI5MzY4In0.Hd9eM47ejbkDT_DmxPfAi1Ow_m_JFdr5BO5DY6303_A&s=72&u=bde874d29f4107ef1e69a21aed8b43f10acea4ae&v=4" width="24" alt="Avatar of david-gpu"/> david-gpu
 			</a><br/>
 			David Garcia
 		</td>
@@ -11412,7 +11412,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>808</td>
 		<td>
 			<a target="_blank" href="https://github.com/allenhwkim">
-				<img src="https://private-avatars.githubusercontent.com/u/1437734?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDYxMjAsIm5iZiI6MTczNDMwNDkyMCwicGF0aCI6Ii91LzE0Mzc3MzQifQ.27ThcDUIdewOWlG9zk4OzJSM7_3rxJ8TwpS0nYo-kZ8&s=72&u=1af356db1da18894a91a1331ac1262c339f1f1e9&v=4" width="24" alt="Avatar of allenhwkim"/> allenhwkim
+				<img src="https://private-avatars.githubusercontent.com/u/1437734?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIxMjAsIm5iZiI6MTczNDM0MDkyMCwicGF0aCI6Ii91LzE0Mzc3MzQifQ.72Azvc1FOCJLwDXcX8Ic6tuYYxTKLSW7JXDEAjWxYuk&s=72&u=1af356db1da18894a91a1331ac1262c339f1f1e9&v=4" width="24" alt="Avatar of allenhwkim"/> allenhwkim
 			</a><br/>
 			Allen Kim
 		</td>
@@ -11426,7 +11426,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>809</td>
 		<td>
 			<a target="_blank" href="https://github.com/andresvidoza">
-				<img src="https://private-avatars.githubusercontent.com/u/33990197?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxNjAsIm5iZiI6MTczNDMwMzk2MCwicGF0aCI6Ii91LzMzOTkwMTk3In0.AbHJk7JQIo97-ldtIaXIw3_KPcCSD4BJim7f0FtmjV0&s=72&u=52a44e3fcbbb9a98b49cd7fa3719b935f7c50dda&v=4" width="24" alt="Avatar of andresvidoza"/> andresvidoza
+				<img src="https://private-avatars.githubusercontent.com/u/33990197?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDExNjAsIm5iZiI6MTczNDMzOTk2MCwicGF0aCI6Ii91LzMzOTkwMTk3In0.30RvDwqP1RxyTN4jO2rQ3j7uiJdbJ-7olPc1TpFbZDU&s=72&u=52a44e3fcbbb9a98b49cd7fa3719b935f7c50dda&v=4" width="24" alt="Avatar of andresvidoza"/> andresvidoza
 			</a><br/>
 			Andres Vidoza
 		</td>
@@ -11440,7 +11440,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>810</td>
 		<td>
 			<a target="_blank" href="https://github.com/aidangomez">
-				<img src="https://private-avatars.githubusercontent.com/u/9597721?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1MjAsIm5iZiI6MTczNDMwNDMyMCwicGF0aCI6Ii91Lzk1OTc3MjEifQ.YxwVNjMep-IMcnr9b9jLygviRLWQXhCgZS-bfl_YPVc&s=72&u=5423050c153d2b8b2e0825846905eee3d414bc5c&v=4" width="24" alt="Avatar of aidangomez"/> aidangomez
+				<img src="https://private-avatars.githubusercontent.com/u/9597721?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1MjAsIm5iZiI6MTczNDM0MDMyMCwicGF0aCI6Ii91Lzk1OTc3MjEifQ.6NwBigXhBWmaW0cOD8956psnHFXydT2h9hSyPLImPuY&s=72&u=5423050c153d2b8b2e0825846905eee3d414bc5c&v=4" width="24" alt="Avatar of aidangomez"/> aidangomez
 			</a><br/>
 			Aidan Gomez
 		</td>
@@ -11454,7 +11454,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>811</td>
 		<td>
 			<a target="_blank" href="https://github.com/ditn">
-				<img src="https://private-avatars.githubusercontent.com/u/5420640?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91LzU0MjA2NDAifQ.42JGOEqtlvC0Z7FtKVVXkPQgEIDhHlhzNU1NL-2rVHw&s=72&u=f44407080447bd27676fc2a91fd5b1a824c48006&v=4" width="24" alt="Avatar of ditn"/> ditn
+				<img src="https://private-avatars.githubusercontent.com/u/5420640?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEzNDAsIm5iZiI6MTczNDM0MDE0MCwicGF0aCI6Ii91LzU0MjA2NDAifQ.djBuuREbm02NIdxQcpOSVbyqzBKC0F2dRGJWGa7KGfU&s=72&u=f44407080447bd27676fc2a91fd5b1a824c48006&v=4" width="24" alt="Avatar of ditn"/> ditn
 			</a><br/>
 			Adam Bennett
 		</td>
@@ -11468,7 +11468,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>812</td>
 		<td>
 			<a target="_blank" href="https://github.com/silentrob">
-				<img src="https://private-avatars.githubusercontent.com/u/15984?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0NjAsIm5iZiI6MTczNDMwNDI2MCwicGF0aCI6Ii91LzE1OTg0In0.C9t16Uv7VqS6SyzqcBUBqagtnBdA8n7qlPmqCfUKBqc&s=72&u=25e861c8c979be538c4d9203e866d3780bc7b2a7&v=4" width="24" alt="Avatar of silentrob"/> silentrob
+				<img src="https://private-avatars.githubusercontent.com/u/15984?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0NjAsIm5iZiI6MTczNDM0MDI2MCwicGF0aCI6Ii91LzE1OTg0In0.gbVJt7VwFkZTKn77OyofmSQ2XU3wXxwus7YN6bEdeww&s=72&u=25e861c8c979be538c4d9203e866d3780bc7b2a7&v=4" width="24" alt="Avatar of silentrob"/> silentrob
 			</a><br/>
 			Rob Ellis
 		</td>
@@ -11482,7 +11482,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>813</td>
 		<td>
 			<a target="_blank" href="https://github.com/websanova">
-				<img src="https://private-avatars.githubusercontent.com/u/1645771?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyODAsIm5iZiI6MTczNDMwNDA4MCwicGF0aCI6Ii91LzE2NDU3NzEifQ.7BIQWklSkarktO5gcy6G2o6WqcDezKnpHgLJKwBszxs&s=72&u=191975fc1efa32b0e79212edec483c56b238a6b2&v=4" width="24" alt="Avatar of websanova"/> websanova
+				<img src="https://private-avatars.githubusercontent.com/u/1645771?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIxODAsIm5iZiI6MTczNDM0MDk4MCwicGF0aCI6Ii91LzE2NDU3NzEifQ.YUTcqTzJ3hEQyHexAhUmO6IoL8OmRdjzHC_c73KVsFI&s=72&u=191975fc1efa32b0e79212edec483c56b238a6b2&v=4" width="24" alt="Avatar of websanova"/> websanova
 			</a><br/>
 			Rob Nova
 		</td>
@@ -11496,7 +11496,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>814</td>
 		<td>
 			<a target="_blank" href="https://github.com/jfsantos">
-				<img src="https://private-avatars.githubusercontent.com/u/5733?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyMjAsIm5iZiI6MTczNDMwNDAyMCwicGF0aCI6Ii91LzU3MzMifQ.i59LeXc-idMHP3yflpjL1ePSetVKdr0M-zkc5jGwuSo&s=72&u=46a26db649d70f16ae24d9145d7eae16d643354c&v=4" width="24" alt="Avatar of jfsantos"/> jfsantos
+				<img src="https://private-avatars.githubusercontent.com/u/5733?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIxMjAsIm5iZiI6MTczNDM0MDkyMCwicGF0aCI6Ii91LzU3MzMifQ.dKJyYbpaueQvFa6rAroE5Mt5tHKVNyhox4QdLcM5_Q4&s=72&u=46a26db649d70f16ae24d9145d7eae16d643354c&v=4" width="24" alt="Avatar of jfsantos"/> jfsantos
 			</a><br/>
 			Joo Felipe Santos
 		</td>
@@ -11510,7 +11510,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>815</td>
 		<td>
 			<a target="_blank" href="https://github.com/tanmayb123">
-				<img src="https://private-avatars.githubusercontent.com/u/9329669?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ4MDAsIm5iZiI6MTczNDMwMzYwMCwicGF0aCI6Ii91LzkzMjk2NjkifQ.YFAzLEUolA0z-rN4nGGcSjaJxzbjZuzUuPYGrbD78Lc&s=72&u=d3864fe613128357c57fafe5b914e52fb26599d4&v=4" width="24" alt="Avatar of tanmayb123"/> tanmayb123
+				<img src="https://private-avatars.githubusercontent.com/u/9329669?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3MDAsIm5iZiI6MTczNDM0MDUwMCwicGF0aCI6Ii91LzkzMjk2NjkifQ.929j_aIcF18Yk0mQq_Dmn_1V8mjxIJD8aIXEbWFaE5o&s=72&u=d3864fe613128357c57fafe5b914e52fb26599d4&v=4" width="24" alt="Avatar of tanmayb123"/> tanmayb123
 			</a><br/>
 			Tanmay Bakshi
 		</td>
@@ -11524,7 +11524,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>816</td>
 		<td>
 			<a target="_blank" href="https://github.com/danielstern">
-				<img src="https://private-avatars.githubusercontent.com/u/4268152?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0MDAsIm5iZiI6MTczNDMwNDIwMCwicGF0aCI6Ii91LzQyNjgxNTIifQ.-sxFdH5cCGJxNRMsoPHsRUgEL9AQwdPtGLCAVKo_ceA&s=72&u=d951001ec48c2e5c73b4a8a1db6193f6edc16755&v=4" width="24" alt="Avatar of danielstern"/> danielstern
+				<img src="https://private-avatars.githubusercontent.com/u/4268152?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0MDAsIm5iZiI6MTczNDM0MDIwMCwicGF0aCI6Ii91LzQyNjgxNTIifQ.IP664QFsnfUXfYKz3j4SpHYYUM5Ma9zHQm0Dkg11Ppo&s=72&u=d951001ec48c2e5c73b4a8a1db6193f6edc16755&v=4" width="24" alt="Avatar of danielstern"/> danielstern
 			</a><br/>
 			Daniel Stern
 		</td>
@@ -11538,7 +11538,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>817</td>
 		<td>
 			<a target="_blank" href="https://github.com/snwh">
-				<img src="https://private-avatars.githubusercontent.com/u/1217306?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUwNDAsIm5iZiI6MTczNDMwMzg0MCwicGF0aCI6Ii91LzEyMTczMDYifQ.lzFRaa_7ekH-9U4xjf0U_msuYyOpg3a5eOpjREQbNKg&s=72&u=000fd8bdad0d4a159deaada30006e69b2fb8094d&v=4" width="24" alt="Avatar of snwh"/> snwh
+				<img src="https://private-avatars.githubusercontent.com/u/1217306?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEwNDAsIm5iZiI6MTczNDMzOTg0MCwicGF0aCI6Ii91LzEyMTczMDYifQ.syUN1P-35xDFKzQlFbYbxtW8PJY3VWUmzzZUKNBYi3s&s=72&u=000fd8bdad0d4a159deaada30006e69b2fb8094d&v=4" width="24" alt="Avatar of snwh"/> snwh
 			</a><br/>
 			Sam Hewitt
 		</td>
@@ -11552,7 +11552,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>818</td>
 		<td>
 			<a target="_blank" href="https://github.com/davidrosenberg">
-				<img src="https://private-avatars.githubusercontent.com/u/1561584?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyMjAsIm5iZiI6MTczNDMwNDAyMCwicGF0aCI6Ii91LzE1NjE1ODQifQ.kxv7JpjwiI33Xgxh4w-ifu2_bnX_UCLN3Bd2DrRb25I&s=72&u=b296830921205c0dcd32f18e7573b3b7880919bc&v=4" width="24" alt="Avatar of davidrosenberg"/> davidrosenberg
+				<img src="https://private-avatars.githubusercontent.com/u/1561584?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEyMjAsIm5iZiI6MTczNDM0MDAyMCwicGF0aCI6Ii91LzE1NjE1ODQifQ.NLhLoKtwEe59Wkv62bbkQuXYRcf1zIrgwOE6rc9qIhU&s=72&u=b296830921205c0dcd32f18e7573b3b7880919bc&v=4" width="24" alt="Avatar of davidrosenberg"/> davidrosenberg
 			</a><br/>
 			David S Rosenberg
 		</td>
@@ -11566,7 +11566,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>819</td>
 		<td>
 			<a target="_blank" href="https://github.com/c-smile">
-				<img src="https://private-avatars.githubusercontent.com/u/6752794?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUwNDAsIm5iZiI6MTczNDMwMzg0MCwicGF0aCI6Ii91LzY3NTI3OTQifQ.Y6aO7mk9fxNmdn5OciPpUFXQOz_xGXwxxlXqqAfzsKM&s=72&v=4" width="24" alt="Avatar of c-smile"/> c-smile
+				<img src="https://private-avatars.githubusercontent.com/u/6752794?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE5NDAsIm5iZiI6MTczNDM0MDc0MCwicGF0aCI6Ii91LzY3NTI3OTQifQ.TSejKGOSTbVvRuflgOthX2APkycoJwPDkHaIdUowJIM&s=72&v=4" width="24" alt="Avatar of c-smile"/> c-smile
 			</a><br/>
 			Andrew
 		</td>
@@ -11580,7 +11580,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>820</td>
 		<td>
 			<a target="_blank" href="https://github.com/san089">
-				<img src="https://private-avatars.githubusercontent.com/u/43350006?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1MjAsIm5iZiI6MTczNDMwNDMyMCwicGF0aCI6Ii91LzQzMzUwMDA2In0.iyVRcsNHwneBaKgI0kCO_L8TdTXq15R_sYTVaBsTAG8&s=72&u=978d9182a3399069f9fda17fc6278861a426dade&v=4" width="24" alt="Avatar of san089"/> san089
+				<img src="https://private-avatars.githubusercontent.com/u/43350006?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1MjAsIm5iZiI6MTczNDM0MDMyMCwicGF0aCI6Ii91LzQzMzUwMDA2In0.vqWKAfu6qQH59BeJqx2yA-suq1SkxuMoJQzsqWqvx_c&s=72&u=978d9182a3399069f9fda17fc6278861a426dade&v=4" width="24" alt="Avatar of san089"/> san089
 			</a><br/>
 			Sanchit Kumar
 		</td>
@@ -11594,7 +11594,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>821</td>
 		<td>
 			<a target="_blank" href="https://github.com/sfujim">
-				<img src="https://private-avatars.githubusercontent.com/u/12649111?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1ODAsIm5iZiI6MTczNDMwNDM4MCwicGF0aCI6Ii91LzEyNjQ5MTExIn0.yapflFcqNKcL2VX3JuJongh2Rr-TjY6NHxWsRdNxzP0&s=72&v=4" width="24" alt="Avatar of sfujim"/> sfujim
+				<img src="https://private-avatars.githubusercontent.com/u/12649111?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1ODAsIm5iZiI6MTczNDM0MDM4MCwicGF0aCI6Ii91LzEyNjQ5MTExIn0.FYiuRc5IUWzCD8mI6vLYcVOcgPlnbuHfy_gQ2_jvjfc&s=72&v=4" width="24" alt="Avatar of sfujim"/> sfujim
 			</a><br/>
 			Scott Fujimoto
 		</td>
@@ -11608,7 +11608,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>822</td>
 		<td>
 			<a target="_blank" href="https://github.com/alexminnaar">
-				<img src="https://private-avatars.githubusercontent.com/u/3454453?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3MDAsIm5iZiI6MTczNDMwNDUwMCwicGF0aCI6Ii91LzM0NTQ0NTMifQ.xCtt7dKW13x6NgrJYMSnqna9tLr--OQk1VM0_qaLXlM&s=72&v=4" width="24" alt="Avatar of alexminnaar"/> alexminnaar
+				<img src="https://private-avatars.githubusercontent.com/u/3454453?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3MDAsIm5iZiI6MTczNDM0MDUwMCwicGF0aCI6Ii91LzM0NTQ0NTMifQ.bYQl9Y26kD35PU2XplzC1n7GS3nfJ4_bIGtvj5NS2ZY&s=72&v=4" width="24" alt="Avatar of alexminnaar"/> alexminnaar
 			</a><br/>
 			Alex Minnaar
 		</td>
@@ -11622,7 +11622,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>823</td>
 		<td>
 			<a target="_blank" href="https://github.com/pahimar">
-				<img src="https://private-avatars.githubusercontent.com/u/1450090?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ5MjAsIm5iZiI6MTczNDMwMzcyMCwicGF0aCI6Ii91LzE0NTAwOTAifQ.8sSzH_RtvXn3jkA8itMVly6T0pwjG13985jTZfZWOYQ&s=72&u=050e01f4d21799ea811cbd84733c2fef771a3b8c&v=4" width="24" alt="Avatar of pahimar"/> pahimar
+				<img src="https://private-avatars.githubusercontent.com/u/1450090?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDA5MjAsIm5iZiI6MTczNDMzOTcyMCwicGF0aCI6Ii91LzE0NTAwOTAifQ.hB-k0ebI_ILr32Tmvi8m5299xefFUGCMO5vQihjS-Rs&s=72&u=050e01f4d21799ea811cbd84733c2fef771a3b8c&v=4" width="24" alt="Avatar of pahimar"/> pahimar
 			</a><br/>
 			Rob Davis
 		</td>
@@ -11636,7 +11636,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>824</td>
 		<td>
 			<a target="_blank" href="https://github.com/xuebinqin">
-				<img src="https://private-avatars.githubusercontent.com/u/14968645?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1ODAsIm5iZiI6MTczNDMwNDM4MCwicGF0aCI6Ii91LzE0OTY4NjQ1In0.o200McAFqqdZw-Z1gWquELM38h7aJfL-m6oNgrV9u7o&s=72&u=e7a8a9d0d5da0616cdbb223c98b8c38981e4784f&v=4" width="24" alt="Avatar of xuebinqin"/> xuebinqin
+				<img src="https://private-avatars.githubusercontent.com/u/14968645?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1ODAsIm5iZiI6MTczNDM0MDM4MCwicGF0aCI6Ii91LzE0OTY4NjQ1In0.zGJ-VmAJN-VX7Iena8WQnpz_jfNVvY7zyPYleyVFqgY&s=72&u=e7a8a9d0d5da0616cdbb223c98b8c38981e4784f&v=4" width="24" alt="Avatar of xuebinqin"/> xuebinqin
 			</a><br/>
 			Xuebin Qin
 		</td>
@@ -11650,7 +11650,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>825</td>
 		<td>
 			<a target="_blank" href="https://github.com/dsokoloski">
-				<img src="https://private-avatars.githubusercontent.com/u/1752670?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU2NDAsIm5iZiI6MTczNDMwNDQ0MCwicGF0aCI6Ii91LzE3NTI2NzAifQ.1DmA2Q8xeY5vWeetQJqHMBP2n5quzd90AmJL-eqNB-A&s=72&v=4" width="24" alt="Avatar of dsokoloski"/> dsokoloski
+				<img src="https://private-avatars.githubusercontent.com/u/1752670?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE2NDAsIm5iZiI6MTczNDM0MDQ0MCwicGF0aCI6Ii91LzE3NTI2NzAifQ.W-iIyqV9-Fl8fJJA279V-Ok3lNF7_I_IzGkc-fuJpfc&s=72&v=4" width="24" alt="Avatar of dsokoloski"/> dsokoloski
 			</a><br/>
 			Darryl Sokoloski
 		</td>
@@ -11664,7 +11664,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>826</td>
 		<td>
 			<a target="_blank" href="https://github.com/dlwyatt">
-				<img src="https://private-avatars.githubusercontent.com/u/5107604?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4MjAsIm5iZiI6MTczNDMwNDYyMCwicGF0aCI6Ii91LzUxMDc2MDQifQ.0BgoJ0N7ymw9s9_NCRht3O4__R6TtH68uHPnaRucl7g&s=72&v=4" width="24" alt="Avatar of dlwyatt"/> dlwyatt
+				<img src="https://private-avatars.githubusercontent.com/u/5107604?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4MjAsIm5iZiI6MTczNDM0MDYyMCwicGF0aCI6Ii91LzUxMDc2MDQifQ.ugN2kjuwcYSS3MNuinPxKKoBJJ9TjOCoINxwHiJKYfU&s=72&v=4" width="24" alt="Avatar of dlwyatt"/> dlwyatt
 			</a><br/>
 			Dave Wyatt
 		</td>
@@ -11678,7 +11678,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>827</td>
 		<td>
 			<a target="_blank" href="https://github.com/cixtor">
-				<img src="https://private-avatars.githubusercontent.com/u/1933999?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDYwMDAsIm5iZiI6MTczNDMwNDgwMCwicGF0aCI6Ii91LzE5MzM5OTkifQ.gyk_s3S9us-S8qNUykcaKHCHyXGfdbjsMFqnNpVhdGo&s=72&u=a9e2fe6f391c6e9c864f19814d116d038412656b&v=4" width="24" alt="Avatar of cixtor"/> cixtor
+				<img src="https://private-avatars.githubusercontent.com/u/1933999?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIwMDAsIm5iZiI6MTczNDM0MDgwMCwicGF0aCI6Ii91LzE5MzM5OTkifQ.Filqt0senDCm7jvXX6RoXCzbdgMkQw4Oy4n7rax__dY&s=72&u=a9e2fe6f391c6e9c864f19814d116d038412656b&v=4" width="24" alt="Avatar of cixtor"/> cixtor
 			</a><br/>
 			Yorman
 		</td>
@@ -11692,7 +11692,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>828</td>
 		<td>
 			<a target="_blank" href="https://github.com/luisguiserrano">
-				<img src="https://private-avatars.githubusercontent.com/u/20776569?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU2NDAsIm5iZiI6MTczNDMwNDQ0MCwicGF0aCI6Ii91LzIwNzc2NTY5In0.1XbO7jywpk1pq0lqX3gK8Hj9oPizqeHjTL8bhEIdsnM&s=72&u=a04a7867f78c67388245984f1bb018c34b79a4e2&v=4" width="24" alt="Avatar of luisguiserrano"/> luisguiserrano
+				<img src="https://private-avatars.githubusercontent.com/u/20776569?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE2NDAsIm5iZiI6MTczNDM0MDQ0MCwicGF0aCI6Ii91LzIwNzc2NTY5In0.IRdcRSFJ7Oc8Ur0blIvWiz9_UEkrEYLL6tbOa9wQ6zA&s=72&u=a04a7867f78c67388245984f1bb018c34b79a4e2&v=4" width="24" alt="Avatar of luisguiserrano"/> luisguiserrano
 			</a><br/>
 			Luis Serrano
 		</td>
@@ -11706,7 +11706,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>829</td>
 		<td>
 			<a target="_blank" href="https://github.com/ellekasai">
-				<img src="https://private-avatars.githubusercontent.com/u/2410692?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0NjAsIm5iZiI6MTczNDMwNDI2MCwicGF0aCI6Ii91LzI0MTA2OTIifQ.S_91RulXqx0RKOBbFKgsLlVe6_dGzyftSxjaR7sHnWE&s=72&u=73d8b93f0fa1dc39823e4bf12646cc961bf1b392&v=4" width="24" alt="Avatar of ellekasai"/> ellekasai
+				<img src="https://private-avatars.githubusercontent.com/u/2410692?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0NjAsIm5iZiI6MTczNDM0MDI2MCwicGF0aCI6Ii91LzI0MTA2OTIifQ.jPD6W8-Q3qEDN1bv22pkt1KEeolb19CP79JBhJ2P_Bk&s=72&u=73d8b93f0fa1dc39823e4bf12646cc961bf1b392&v=4" width="24" alt="Avatar of ellekasai"/> ellekasai
 			</a><br/>
 			Elle Kasai
 		</td>
@@ -11720,7 +11720,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>830</td>
 		<td>
 			<a target="_blank" href="https://github.com/npapernot">
-				<img src="https://private-avatars.githubusercontent.com/u/8835830?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1MjAsIm5iZiI6MTczNDMwNDMyMCwicGF0aCI6Ii91Lzg4MzU4MzAifQ.6WRUHDOu-DGsscJz1UuWlgn0bUJea37AM8VWujx7cLc&s=72&u=f37ba46d6f8a8bdef4b617ece80a87ff734ce760&v=4" width="24" alt="Avatar of npapernot"/> npapernot
+				<img src="https://private-avatars.githubusercontent.com/u/8835830?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1MjAsIm5iZiI6MTczNDM0MDMyMCwicGF0aCI6Ii91Lzg4MzU4MzAifQ.jf4jwpQv7CfK3msGjRuHsXPPrOW0oABzSWDt_XoN-xA&s=72&u=f37ba46d6f8a8bdef4b617ece80a87ff734ce760&v=4" width="24" alt="Avatar of npapernot"/> npapernot
 			</a><br/>
 			Nicolas Papernot
 		</td>
@@ -11734,7 +11734,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>831</td>
 		<td>
 			<a target="_blank" href="https://github.com/remixz">
-				<img src="https://private-avatars.githubusercontent.com/u/1459603?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91LzE0NTk2MDMifQ.ZXz44g8kqjmN4Pbi1gyphSQ80Jd_1zCyYbHMY07qi34&s=72&u=8c46435eaaf2e23e2869800ed866e81cf73db9cf&v=4" width="24" alt="Avatar of remixz"/> remixz
+				<img src="https://private-avatars.githubusercontent.com/u/1459603?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIyNDAsIm5iZiI6MTczNDM0MTA0MCwicGF0aCI6Ii91LzE0NTk2MDMifQ.zLHVdAUZNrc_JLj5n7HmDpClW3B6t3lcI7llT4-q0nU&s=72&u=8c46435eaaf2e23e2869800ed866e81cf73db9cf&v=4" width="24" alt="Avatar of remixz"/> remixz
 			</a><br/>
 			Zach Bruggeman
 		</td>
@@ -11748,7 +11748,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>832</td>
 		<td>
 			<a target="_blank" href="https://github.com/gizak">
-				<img src="https://private-avatars.githubusercontent.com/u/2100512?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU5NDAsIm5iZiI6MTczNDMwNDc0MCwicGF0aCI6Ii91LzIxMDA1MTIifQ.b7HgUfG5I9rDj_fYcC15ieyz8IHQRuMw9TomXTYvtmI&s=72&u=3d0b304ecbae40827a464de134ad48a2babb20fb&v=4" width="24" alt="Avatar of gizak"/> gizak
+				<img src="https://private-avatars.githubusercontent.com/u/2100512?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE5NDAsIm5iZiI6MTczNDM0MDc0MCwicGF0aCI6Ii91LzIxMDA1MTIifQ.9whdQy6530-B_-6Mrbhp9pA3AbyEhu1P8mH6WnXvBIY&s=72&u=3d0b304ecbae40827a464de134ad48a2babb20fb&v=4" width="24" alt="Avatar of gizak"/> gizak
 			</a><br/>
 			Zack Guo
 		</td>
@@ -11762,7 +11762,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>833</td>
 		<td>
 			<a target="_blank" href="https://github.com/glmcdona">
-				<img src="https://private-avatars.githubusercontent.com/u/3057246?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDYwMDAsIm5iZiI6MTczNDMwNDgwMCwicGF0aCI6Ii91LzMwNTcyNDYifQ.LWQaxwGM87xOtgvecVgyO5iynSj1TO4AiPEQ2-5Dl5M&s=72&u=327e80b02f57c6134d44d2e0c105d1caf4854409&v=4" width="24" alt="Avatar of glmcdona"/> glmcdona
+				<img src="https://private-avatars.githubusercontent.com/u/3057246?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIwMDAsIm5iZiI6MTczNDM0MDgwMCwicGF0aCI6Ii91LzMwNTcyNDYifQ.DLfxtfIoB7UfZDv_tzXoLpHOgNCdxZg9O1RTEkFT_og&s=72&u=327e80b02f57c6134d44d2e0c105d1caf4854409&v=4" width="24" alt="Avatar of glmcdona"/> glmcdona
 			</a><br/>
 			Geoff McDonald
 		</td>
@@ -11776,7 +11776,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>834</td>
 		<td>
 			<a target="_blank" href="https://github.com/mezzoblue">
-				<img src="https://private-avatars.githubusercontent.com/u/138526?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxMDAsIm5iZiI6MTczNDMwMzkwMCwicGF0aCI6Ii91LzEzODUyNiJ9.yplPSqAWjdSx8YD-hK_IO4XJuedqw9HCnAbUMI46a_8&s=72&u=3db8dc84fb5d47edaccf2296c5bb72f814ea8d92&v=4" width="24" alt="Avatar of mezzoblue"/> mezzoblue
+				<img src="https://private-avatars.githubusercontent.com/u/138526?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDExMDAsIm5iZiI6MTczNDMzOTkwMCwicGF0aCI6Ii91LzEzODUyNiJ9.wz3swMc0ITwU3uNghCbQrGKRVIFY3to-mW-Ol9t2iWs&s=72&u=3db8dc84fb5d47edaccf2296c5bb72f814ea8d92&v=4" width="24" alt="Avatar of mezzoblue"/> mezzoblue
 			</a><br/>
 			Dave Shea
 		</td>
@@ -11790,7 +11790,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>835</td>
 		<td>
 			<a target="_blank" href="https://github.com/Leoid">
-				<img src="https://private-avatars.githubusercontent.com/u/19527552?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxMDAsIm5iZiI6MTczNDMwMzkwMCwicGF0aCI6Ii91LzE5NTI3NTUyIn0.FD0pn0gL3dXvZUckg2CY7VeRU4EfQLnJZwMZvAcfGbI&s=72&u=10c538ebdc295fbd0d3536e6e438c1f2f28de695&v=4" width="24" alt="Avatar of Leoid"/> Leoid
+				<img src="https://private-avatars.githubusercontent.com/u/19527552?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIwMDAsIm5iZiI6MTczNDM0MDgwMCwicGF0aCI6Ii91LzE5NTI3NTUyIn0.NH3N2xHKk0R7ImMovDJv38fVEWPagW4lTouJR2cAVlw&s=72&u=10c538ebdc295fbd0d3536e6e438c1f2f28de695&v=4" width="24" alt="Avatar of Leoid"/> Leoid
 			</a><br/>
 			B1twis3
 		</td>
@@ -11804,7 +11804,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>836</td>
 		<td>
 			<a target="_blank" href="https://github.com/tvaneerd">
-				<img src="https://private-avatars.githubusercontent.com/u/3800335?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0NjAsIm5iZiI6MTczNDMwNDI2MCwicGF0aCI6Ii91LzM4MDAzMzUifQ.V-7cFJmc3Hz946-5kqqNpcacEHg2nynqQ0w3qbWPxos&s=72&u=8a165e4db892f3792ffd1c8fe4e19f9cbf8c4cd8&v=4" width="24" alt="Avatar of tvaneerd"/> tvaneerd
+				<img src="https://private-avatars.githubusercontent.com/u/3800335?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0NjAsIm5iZiI6MTczNDM0MDI2MCwicGF0aCI6Ii91LzM4MDAzMzUifQ.DYEn6UwRftAlH4-5fyZUGu2-7xkR8DEfpHcc4rwnpWs&s=72&u=8a165e4db892f3792ffd1c8fe4e19f9cbf8c4cd8&v=4" width="24" alt="Avatar of tvaneerd"/> tvaneerd
 			</a><br/>
 			Tony Van Eerd
 		</td>
@@ -11818,7 +11818,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>837</td>
 		<td>
 			<a target="_blank" href="https://github.com/mrisdal">
-				<img src="https://private-avatars.githubusercontent.com/u/4097751?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU5NDAsIm5iZiI6MTczNDMwNDc0MCwicGF0aCI6Ii91LzQwOTc3NTEifQ.iwLIsT_PiURD56Me4i6bphnbYR2Tq862VOkblrIFnGQ&s=72&u=186f49931f3124c12091a6fab3ec30e8fd5e87d9&v=4" width="24" alt="Avatar of mrisdal"/> mrisdal
+				<img src="https://private-avatars.githubusercontent.com/u/4097751?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE5NDAsIm5iZiI6MTczNDM0MDc0MCwicGF0aCI6Ii91LzQwOTc3NTEifQ.pvUT_g3p0rDTeirA0SGk6XV09AVOi8vDe4tUlto84gM&s=72&u=186f49931f3124c12091a6fab3ec30e8fd5e87d9&v=4" width="24" alt="Avatar of mrisdal"/> mrisdal
 			</a><br/>
 			Megan Risdal
 		</td>
@@ -11832,7 +11832,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>838</td>
 		<td>
 			<a target="_blank" href="https://github.com/akshitac8">
-				<img src="https://private-avatars.githubusercontent.com/u/21353757?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4MjAsIm5iZiI6MTczNDMwNDYyMCwicGF0aCI6Ii91LzIxMzUzNzU3In0.Lc_P0xtKOdBqG5nAmFkyYgbU1y2EwzO7PiMfYaWrIlc&s=72&u=e70c03bf9425e34f77729efa5f1ba6df9a4943c1&v=4" width="24" alt="Avatar of akshitac8"/> akshitac8
+				<img src="https://private-avatars.githubusercontent.com/u/21353757?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4MjAsIm5iZiI6MTczNDM0MDYyMCwicGF0aCI6Ii91LzIxMzUzNzU3In0.uqjeplQQnCS24bJJluC4Zhkdu6P1Bkz0rTabcl3CvKE&s=72&u=e70c03bf9425e34f77729efa5f1ba6df9a4943c1&v=4" width="24" alt="Avatar of akshitac8"/> akshitac8
 			</a><br/>
 			Akshita Gupta
 		</td>
@@ -11846,7 +11846,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>839</td>
 		<td>
 			<a target="_blank" href="https://github.com/MrGemy95">
-				<img src="https://private-avatars.githubusercontent.com/u/9705152?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1ODAsIm5iZiI6MTczNDMwNDM4MCwicGF0aCI6Ii91Lzk3MDUxNTIifQ.izkHz-A-hiL9cLvwh7PsLZGLT7kDHYU0PRpvtSoWiXM&s=72&u=2733805266df3d16cdf48b3a14d83f52eb7e4226&v=4" width="24" alt="Avatar of MrGemy95"/> MrGemy95
+				<img src="https://private-avatars.githubusercontent.com/u/9705152?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1ODAsIm5iZiI6MTczNDM0MDM4MCwicGF0aCI6Ii91Lzk3MDUxNTIifQ.A10s0ByqXMaWaGmb0SyNFnZCpWyrEYJxuX7JAifzjNw&s=72&u=2733805266df3d16cdf48b3a14d83f52eb7e4226&v=4" width="24" alt="Avatar of MrGemy95"/> MrGemy95
 			</a><br/>
 			Mahmoud G Salem
 		</td>
@@ -11860,7 +11860,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>840</td>
 		<td>
 			<a target="_blank" href="https://github.com/NoahDragon">
-				<img src="https://private-avatars.githubusercontent.com/u/5704064?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDYwMDAsIm5iZiI6MTczNDMwNDgwMCwicGF0aCI6Ii91LzU3MDQwNjQifQ.YrjllosNVwTQuYGfkDkcPksud4HTQnNlEBC8tBmvJzI&s=72&u=dfbef89c75d017b84091b21778424eb1fd2d3ecd&v=4" width="24" alt="Avatar of NoahDragon"/> NoahDragon
+				<img src="https://private-avatars.githubusercontent.com/u/5704064?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIwMDAsIm5iZiI6MTczNDM0MDgwMCwicGF0aCI6Ii91LzU3MDQwNjQifQ.KMD1ClYllWUyuW8-dzaqkBlCUmD09iCTWRR59cM7X6I&s=72&u=dfbef89c75d017b84091b21778424eb1fd2d3ecd&v=4" width="24" alt="Avatar of NoahDragon"/> NoahDragon
 			</a><br/>
 			Abner Chou
 		</td>
@@ -11874,7 +11874,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>841</td>
 		<td>
 			<a target="_blank" href="https://github.com/mostafa-saad">
-				<img src="https://private-avatars.githubusercontent.com/u/5536363?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ4NjAsIm5iZiI6MTczNDMwMzY2MCwicGF0aCI6Ii91LzU1MzYzNjMifQ.4tZpRA2ICW-iDhPyhSePpgZ3-RXs9NWi2ZyhPsd0oug&s=72&u=31df336d30e3f646914d88e4784de088d6b0dc95&v=4" width="24" alt="Avatar of mostafa-saad"/> mostafa-saad
+				<img src="https://private-avatars.githubusercontent.com/u/5536363?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDA4NjAsIm5iZiI6MTczNDMzOTY2MCwicGF0aCI6Ii91LzU1MzYzNjMifQ.WE9OYz28__rxDRDB0xYyERMPgNuLsB2KREsV27_9W-g&s=72&u=31df336d30e3f646914d88e4784de088d6b0dc95&v=4" width="24" alt="Avatar of mostafa-saad"/> mostafa-saad
 			</a><br/>
 			Mostafa Saad Ibrahim
 		</td>
@@ -11888,7 +11888,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>842</td>
 		<td>
 			<a target="_blank" href="https://github.com/dcomartin">
-				<img src="https://private-avatars.githubusercontent.com/u/1577098?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDQ5ODAsIm5iZiI6MTczNDMwMzc4MCwicGF0aCI6Ii91LzE1NzcwOTgifQ.WP7cTLfhdfLC-5EbRlHKJgs6pEa_lI_DfA_8pXtBZ6g&s=72&u=95df5b16b741ccab90d88e3721642e6eac6c281f&v=4" width="24" alt="Avatar of dcomartin"/> dcomartin
+				<img src="https://private-avatars.githubusercontent.com/u/1577098?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDA5ODAsIm5iZiI6MTczNDMzOTc4MCwicGF0aCI6Ii91LzE1NzcwOTgifQ.mmHzVk-_rEw7XtvkQSR-tvSDSJrZ-n6dT1W1Cm6Zucc&s=72&u=95df5b16b741ccab90d88e3721642e6eac6c281f&v=4" width="24" alt="Avatar of dcomartin"/> dcomartin
 			</a><br/>
 			Derek Comartin
 		</td>
@@ -11902,7 +11902,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>843</td>
 		<td>
 			<a target="_blank" href="https://github.com/Thibaut">
-				<img src="https://private-avatars.githubusercontent.com/u/17579?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUwNDAsIm5iZiI6MTczNDMwMzg0MCwicGF0aCI6Ii91LzE3NTc5In0.6I_gViCaPlhq6314QPMWMLI7C02wmlCluwuexaGqS74&s=72&u=a2faa832f850f3485d4c4f6a0331f192545006c2&v=4" width="24" alt="Avatar of Thibaut"/> Thibaut
+				<img src="https://private-avatars.githubusercontent.com/u/17579?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEwNDAsIm5iZiI6MTczNDMzOTg0MCwicGF0aCI6Ii91LzE3NTc5In0.wOW2vOcQX7LHUNfSPiHi826tNTHq7r7Q-ZAfwclRUXc&s=72&u=a2faa832f850f3485d4c4f6a0331f192545006c2&v=4" width="24" alt="Avatar of Thibaut"/> Thibaut
 			</a><br/>
 			Thibaut Courouble
 		</td>
@@ -11916,7 +11916,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>844</td>
 		<td>
 			<a target="_blank" href="https://github.com/abatchy17">
-				<img src="https://private-avatars.githubusercontent.com/u/26093522?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU2NDAsIm5iZiI6MTczNDMwNDQ0MCwicGF0aCI6Ii91LzI2MDkzNTIyIn0.njTm-gpWmr2ZXCGr9zRxpPrE9i9AI2K0gAiNntmkMcw&s=72&u=aff70ed0c07bebfe6f70aa55c67d18805b376096&v=4" width="24" alt="Avatar of abatchy17"/> abatchy17
+				<img src="https://private-avatars.githubusercontent.com/u/26093522?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE2NDAsIm5iZiI6MTczNDM0MDQ0MCwicGF0aCI6Ii91LzI2MDkzNTIyIn0.P9jA1H89dTathMx0G5KcGRtD8DdH9XlVA9eK_hErAY0&s=72&u=aff70ed0c07bebfe6f70aa55c67d18805b376096&v=4" width="24" alt="Avatar of abatchy17"/> abatchy17
 			</a><br/>
 			Mohamed Shahat
 		</td>
@@ -11930,7 +11930,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>845</td>
 		<td>
 			<a target="_blank" href="https://github.com/choudharymanish8585">
-				<img src="https://private-avatars.githubusercontent.com/u/19778677?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3NjAsIm5iZiI6MTczNDMwNDU2MCwicGF0aCI6Ii91LzE5Nzc4Njc3In0.hSNfWbLtMqes8c2a1ZG-fMUqQGrcsdz7--2t1pYoFAg&s=72&v=4" width="24" alt="Avatar of choudharymanish8585"/> choudharymanish8585
+				<img src="https://private-avatars.githubusercontent.com/u/19778677?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3NjAsIm5iZiI6MTczNDM0MDU2MCwicGF0aCI6Ii91LzE5Nzc4Njc3In0.8CoC937Qu8uLqWa4dKkTr8VlVddYBDnonyfYLe0k52A&s=72&v=4" width="24" alt="Avatar of choudharymanish8585"/> choudharymanish8585
 			</a><br/>
 			Manish Choudhari
 		</td>
@@ -11944,7 +11944,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>846</td>
 		<td>
 			<a target="_blank" href="https://github.com/DroneBotWorkshop">
-				<img src="https://private-avatars.githubusercontent.com/u/16799237?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0MDAsIm5iZiI6MTczNDMwNDIwMCwicGF0aCI6Ii91LzE2Nzk5MjM3In0.VNGjmHUbe28jBSh98tXHx4dTsqQEwLfUl1iff03-GQM&s=72&u=cecc58820ab0cce0f0c96fc955ecb96ffe08e297&v=4" width="24" alt="Avatar of DroneBotWorkshop"/> DroneBotWorkshop
+				<img src="https://private-avatars.githubusercontent.com/u/16799237?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0MDAsIm5iZiI6MTczNDM0MDIwMCwicGF0aCI6Ii91LzE2Nzk5MjM3In0.D9rWWbymVAhiPN8Xvvncer0Z7YiXTlxwPWIeTLVxH2w&s=72&u=cecc58820ab0cce0f0c96fc955ecb96ffe08e297&v=4" width="24" alt="Avatar of DroneBotWorkshop"/> DroneBotWorkshop
 			</a><br/>
 			DroneBot Workshop
 		</td>
@@ -11958,7 +11958,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>847</td>
 		<td>
 			<a target="_blank" href="https://github.com/randomascii">
-				<img src="https://private-avatars.githubusercontent.com/u/10800041?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUwNDAsIm5iZiI6MTczNDMwMzg0MCwicGF0aCI6Ii91LzEwODAwMDQxIn0.PYXwXJggE4DQQJ__F2uLOEcxPYSKEN1aZmPACmS9yUk&s=72&v=4" width="24" alt="Avatar of randomascii"/> randomascii
+				<img src="https://private-avatars.githubusercontent.com/u/10800041?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE5NDAsIm5iZiI6MTczNDM0MDc0MCwicGF0aCI6Ii91LzEwODAwMDQxIn0.jy-2CI6SthOVHLnljMBeDtqKuKF035W4VEddc7ZT-1U&s=72&v=4" width="24" alt="Avatar of randomascii"/> randomascii
 			</a><br/>
 			Bruce Dawson
 		</td>
@@ -11972,7 +11972,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>848</td>
 		<td>
 			<a target="_blank" href="https://github.com/wvanbergen">
-				<img src="https://private-avatars.githubusercontent.com/u/15870?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUzNDAsIm5iZiI6MTczNDMwNDE0MCwicGF0aCI6Ii91LzE1ODcwIn0.JoeBRm6fLIVIT2oTUmLB_QdRVN14w7c4G1f1YFkmDNE&s=72&u=5118b88e96fbfc673dbc712cefcf06797964f2f9&v=4" width="24" alt="Avatar of wvanbergen"/> wvanbergen
+				<img src="https://private-avatars.githubusercontent.com/u/15870?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDEzNDAsIm5iZiI6MTczNDM0MDE0MCwicGF0aCI6Ii91LzE1ODcwIn0.IjKTdB7FdNIo_Ibkd2DFs8a1-QH4NzlGAT88InNhT3M&s=72&u=5118b88e96fbfc673dbc712cefcf06797964f2f9&v=4" width="24" alt="Avatar of wvanbergen"/> wvanbergen
 			</a><br/>
 			Willem van Bergen
 		</td>
@@ -11986,7 +11986,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>849</td>
 		<td>
 			<a target="_blank" href="https://github.com/onlyswan">
-				<img src="https://private-avatars.githubusercontent.com/u/10988326?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU0NjAsIm5iZiI6MTczNDMwNDI2MCwicGF0aCI6Ii91LzEwOTg4MzI2In0.jTEABLrvlzskYDXWLk2sAmIWIqmnHAsgj8pBg6yDZC8&s=72&u=a74d2ffdab51fc53770dcf24991bb9b90e1db0e1&v=4" width="24" alt="Avatar of onlyswan"/> onlyswan
+				<img src="https://private-avatars.githubusercontent.com/u/10988326?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE0NjAsIm5iZiI6MTczNDM0MDI2MCwicGF0aCI6Ii91LzEwOTg4MzI2In0.nXUla5fnT1Y66ZRtdmx7c4BY0XDEFsYm6VGNea0xddE&s=72&u=a74d2ffdab51fc53770dcf24991bb9b90e1db0e1&v=4" width="24" alt="Avatar of onlyswan"/> onlyswan
 			</a><br/>
 			OnlySwan
 		</td>
@@ -12000,7 +12000,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>850</td>
 		<td>
 			<a target="_blank" href="https://github.com/michaelfan0310">
-				<img src="https://private-avatars.githubusercontent.com/u/74441675?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUwNDAsIm5iZiI6MTczNDMwMzg0MCwicGF0aCI6Ii91Lzc0NDQxNjc1In0.eOAZSlGWWr1G784mGrfASKkwUPhe4JGWMkbrvCniTfA&s=72&u=e85129973d56ca5841306bb984720bb5ed32a03c&v=4" width="24" alt="Avatar of michaelfan0310"/> michaelfan0310
+				<img src="https://private-avatars.githubusercontent.com/u/74441675?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE5NDAsIm5iZiI6MTczNDM0MDc0MCwicGF0aCI6Ii91Lzc0NDQxNjc1In0.iADNjZ6RA745caF-2Abp_NrOx5FHhO1b2NhLQ8YVplk&s=72&u=e85129973d56ca5841306bb984720bb5ed32a03c&v=4" width="24" alt="Avatar of michaelfan0310"/> michaelfan0310
 			</a><br/>
 			Michael Fan 
 		</td>
@@ -12014,7 +12014,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>851</td>
 		<td>
 			<a target="_blank" href="https://github.com/keanulee">
-				<img src="https://private-avatars.githubusercontent.com/u/1319720?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1MjAsIm5iZiI6MTczNDMwNDMyMCwicGF0aCI6Ii91LzEzMTk3MjAifQ.0hCW7XTBTU4MPhv4zbD8-28NccsnV_3fjY4QvyhWSJ4&s=72&v=4" width="24" alt="Avatar of keanulee"/> keanulee
+				<img src="https://private-avatars.githubusercontent.com/u/1319720?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1MjAsIm5iZiI6MTczNDM0MDMyMCwicGF0aCI6Ii91LzEzMTk3MjAifQ.4B7p2fm_l8r9YK7yttVyTb59U2Kgsc8hDK2Nw5R8TmE&s=72&v=4" width="24" alt="Avatar of keanulee"/> keanulee
 			</a><br/>
 			Keanu Lee
 		</td>
@@ -12028,7 +12028,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>852</td>
 		<td>
 			<a target="_blank" href="https://github.com/ThomasDelteil">
-				<img src="https://private-avatars.githubusercontent.com/u/3716307?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUxNjAsIm5iZiI6MTczNDMwMzk2MCwicGF0aCI6Ii91LzM3MTYzMDcifQ.EXH4-g-Ea6s_mwiGerHeJJUD6RButvEa3qF84tYbFhw&s=72&u=c1eb721e7dab33d58d9751accc682be8d7c4d0af&v=4" width="24" alt="Avatar of ThomasDelteil"/> ThomasDelteil
+				<img src="https://private-avatars.githubusercontent.com/u/3716307?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIwNjAsIm5iZiI6MTczNDM0MDg2MCwicGF0aCI6Ii91LzM3MTYzMDcifQ.dTC36G_riEklvwFP1yliQpBP_XrDKgRiz9rNZps5ou4&s=72&u=c1eb721e7dab33d58d9751accc682be8d7c4d0af&v=4" width="24" alt="Avatar of ThomasDelteil"/> ThomasDelteil
 			</a><br/>
 			Thomas Delteil
 		</td>
@@ -12042,7 +12042,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>853</td>
 		<td>
 			<a target="_blank" href="https://github.com/AmeliaBR">
-				<img src="https://private-avatars.githubusercontent.com/u/9876129?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4MjAsIm5iZiI6MTczNDMwNDYyMCwicGF0aCI6Ii91Lzk4NzYxMjkifQ.Cw00KxilHaFPjpF_uY_vfk8C_4Ln0tAzVZQ4ujmHD64&s=72&u=d4fe46c77ae80525b7622927503ca871eeb18e9d&v=4" width="24" alt="Avatar of AmeliaBR"/> AmeliaBR
+				<img src="https://private-avatars.githubusercontent.com/u/9876129?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4MjAsIm5iZiI6MTczNDM0MDYyMCwicGF0aCI6Ii91Lzk4NzYxMjkifQ.5FKFW78mI6qQ9fHUc2Q7EU9U6ZQif5Gumgwg-dQJJ9E&s=72&u=d4fe46c77ae80525b7622927503ca871eeb18e9d&v=4" width="24" alt="Avatar of AmeliaBR"/> AmeliaBR
 			</a><br/>
 			Amelia BellamyRoyds
 		</td>
@@ -12056,7 +12056,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>854</td>
 		<td>
 			<a target="_blank" href="https://github.com/ankeshanand">
-				<img src="https://private-avatars.githubusercontent.com/u/2134563?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDYwNjAsIm5iZiI6MTczNDMwNDg2MCwicGF0aCI6Ii91LzIxMzQ1NjMifQ.2x9LjuhEIDcpbmaI8QdxLps76BFkm372oeSBmgYNrH0&s=72&u=e415ccbc1a411525d23ef4451cdb68c17856be47&v=4" width="24" alt="Avatar of ankeshanand"/> ankeshanand
+				<img src="https://private-avatars.githubusercontent.com/u/2134563?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIwNjAsIm5iZiI6MTczNDM0MDg2MCwicGF0aCI6Ii91LzIxMzQ1NjMifQ.UgY5Vh9NGceWDAhVqPeXKZ5o3EduLN652pbnopywPmk&s=72&u=e415ccbc1a411525d23ef4451cdb68c17856be47&v=4" width="24" alt="Avatar of ankeshanand"/> ankeshanand
 			</a><br/>
 			Ankesh Anand
 		</td>
@@ -12070,7 +12070,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>855</td>
 		<td>
 			<a target="_blank" href="https://github.com/WilsonWangTHU">
-				<img src="https://private-avatars.githubusercontent.com/u/9404073?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDYwNjAsIm5iZiI6MTczNDMwNDg2MCwicGF0aCI6Ii91Lzk0MDQwNzMifQ.4mL8xTt5BQKu32IIGo3c4VmPaBb0WTADomSiB0sLCNw&s=72&u=275b371056687648d20d25a2009d010276343010&v=4" width="24" alt="Avatar of WilsonWangTHU"/> WilsonWangTHU
+				<img src="https://private-avatars.githubusercontent.com/u/9404073?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIwNjAsIm5iZiI6MTczNDM0MDg2MCwicGF0aCI6Ii91Lzk0MDQwNzMifQ.argN2WEB2bkgVD5aVr_KYMoeLWdSmI6S22Z-ZXtzA8I&s=72&u=275b371056687648d20d25a2009d010276343010&v=4" width="24" alt="Avatar of WilsonWangTHU"/> WilsonWangTHU
 			</a><br/>
 			Tingwu Wang
 		</td>
@@ -12084,7 +12084,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>856</td>
 		<td>
 			<a target="_blank" href="https://github.com/thephoeron">
-				<img src="https://private-avatars.githubusercontent.com/u/1094198?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU3MDAsIm5iZiI6MTczNDMwNDUwMCwicGF0aCI6Ii91LzEwOTQxOTgifQ.Np1szaum20j7pMqnPELnnrH6ewSAIdWIfF9q_bcTriU&s=72&u=d6f3306a91469d5bba9217c30325994374d7ed39&v=4" width="24" alt="Avatar of thephoeron"/> thephoeron
+				<img src="https://private-avatars.githubusercontent.com/u/1094198?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE3MDAsIm5iZiI6MTczNDM0MDUwMCwicGF0aCI6Ii91LzEwOTQxOTgifQ.rjZe1AIvHF5vZVywzJ9-c2E49hF39YxV9tYL4xVNpRU&s=72&u=d6f3306a91469d5bba9217c30325994374d7ed39&v=4" width="24" alt="Avatar of thephoeron"/> thephoeron
 			</a><br/>
 			the Phoeron Colin JE Lupton
 		</td>
@@ -12098,7 +12098,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>857</td>
 		<td>
 			<a target="_blank" href="https://github.com/jamiedevsandbox">
-				<img src="https://private-avatars.githubusercontent.com/u/27640403?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDYwNjAsIm5iZiI6MTczNDMwNDg2MCwicGF0aCI6Ii91LzI3NjQwNDAzIn0.gO8pUxXm1Sc-Axkg1DZ5i7ijIzGU-3nCxORbeciiSHU&s=72&u=3b2abb1c48fdf270c2c05be160c42f29506e113b&v=4" width="24" alt="Avatar of jamiedevsandbox"/> jamiedevsandbox
+				<img src="https://private-avatars.githubusercontent.com/u/27640403?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIwNjAsIm5iZiI6MTczNDM0MDg2MCwicGF0aCI6Ii91LzI3NjQwNDAzIn0.1tdr-e6SNbpJ-XZphwN3cmds4LdwK8w-CB_moGf5n6A&s=72&u=3b2abb1c48fdf270c2c05be160c42f29506e113b&v=4" width="24" alt="Avatar of jamiedevsandbox"/> jamiedevsandbox
 			</a><br/>
 			Jamie Sparks
 		</td>
@@ -12112,7 +12112,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>858</td>
 		<td>
 			<a target="_blank" href="https://github.com/heldr">
-				<img src="https://private-avatars.githubusercontent.com/u/134727?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDUyODAsIm5iZiI6MTczNDMwNDA4MCwicGF0aCI6Ii91LzEzNDcyNyJ9.sAD6-ZhUxR3-9AUHxq6ip8_xOe1-aqL-FzEzpPVFLp4&s=72&u=eefdb3cc1f8eba478a6181d1fbc90223601f8419&v=4" width="24" alt="Avatar of heldr"/> heldr
+				<img src="https://private-avatars.githubusercontent.com/u/134727?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIxODAsIm5iZiI6MTczNDM0MDk4MCwicGF0aCI6Ii91LzEzNDcyNyJ9.2m-ZtDSU64U_vyeWnlic2-F1v8OGjjzja5HuAoEJ1AI&s=72&u=eefdb3cc1f8eba478a6181d1fbc90223601f8419&v=4" width="24" alt="Avatar of heldr"/> heldr
 			</a><br/>
 			Helder Santana
 		</td>
@@ -12126,7 +12126,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>859</td>
 		<td>
 			<a target="_blank" href="https://github.com/brotzky">
-				<img src="https://private-avatars.githubusercontent.com/u/8007686?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU1ODAsIm5iZiI6MTczNDMwNDM4MCwicGF0aCI6Ii91LzgwMDc2ODYifQ.3Jtw-C0jV7l5vbCUdqkwO9iLdniBtMa05NrYZU6mBEw&s=72&u=db57a6f83216849cab6c78e6607eb0f1ba88e390&v=4" width="24" alt="Avatar of brotzky"/> brotzky
+				<img src="https://private-avatars.githubusercontent.com/u/8007686?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE1ODAsIm5iZiI6MTczNDM0MDM4MCwicGF0aCI6Ii91LzgwMDc2ODYifQ.byO1sBL2wyUaBBUo6FZNDlGuE-RFhA16dKwahYdR6zk&s=72&u=db57a6f83216849cab6c78e6607eb0f1ba88e390&v=4" width="24" alt="Avatar of brotzky"/> brotzky
 			</a><br/>
 			Dennis Brotzky
 		</td>
@@ -12140,7 +12140,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>860</td>
 		<td>
 			<a target="_blank" href="https://github.com/mdanics">
-				<img src="https://private-avatars.githubusercontent.com/u/10066840?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDU4ODAsIm5iZiI6MTczNDMwNDY4MCwicGF0aCI6Ii91LzEwMDY2ODQwIn0.0Vrk-SXwnCxz3EaAOoBVQjls0y9h5fdsIMzVPAl0I1s&s=72&u=0e624c66b976d2d2fea15a45f4d7d4b96245215a&v=4" width="24" alt="Avatar of mdanics"/> mdanics
+				<img src="https://private-avatars.githubusercontent.com/u/10066840?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDE4ODAsIm5iZiI6MTczNDM0MDY4MCwicGF0aCI6Ii91LzEwMDY2ODQwIn0.doFaP_ihjwEVZXvFnxq9OBoU_TW2ldbHDk9iTJBJi4c&s=72&u=0e624c66b976d2d2fea15a45f4d7d4b96245215a&v=4" width="24" alt="Avatar of mdanics"/> mdanics
 			</a><br/>
 			Matthew Danics
 		</td>
@@ -12154,7 +12154,7 @@ There are `936 users`  in Canada. You need at least `217 followers` to be on thi
 		<td>861</td>
 		<td>
 			<a target="_blank" href="https://github.com/carrasqu">
-				<img src="https://private-avatars.githubusercontent.com/u/9661833?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzMDYwMDAsIm5iZiI6MTczNDMwNDgwMCwicGF0aCI6Ii91Lzk2NjE4MzMifQ.qLdAZhNsDc3OOa9lhzT3uLbB75NHnpV64hm457g_YEw&s=72&u=eeed791c03c7ba0b794a4f122c1458eea0b9f617&v=4" width="24" alt="Avatar of carrasqu"/> carrasqu
+				<img src="https://private-avatars.githubusercontent.com/u/9661833?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQzNDIwMDAsIm5iZiI6MTczNDM0MDgwMCwicGF0aCI6Ii91Lzk2NjE4MzMifQ.MgWOSqtHxRFLO3rsfBi51qBwmmtklj564Ylda5LHd1w&s=72&u=eeed791c03c7ba0b794a4f122c1458eea0b9f617&v=4" width="24" alt="Avatar of carrasqu"/> carrasqu
 			</a><br/>
 			Juan Felipe Carrasquilla Alvarez
 		</td>
