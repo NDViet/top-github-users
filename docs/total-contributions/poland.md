@@ -10,7 +10,7 @@ description: Top GitHub Users By Total Contributions in Poland
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg" alt="Poland"/>
 </a>
 
-The `public contributions` and `private contributions` by users in Poland on `2024/12/19 2:15 AM UTC`. This list contains users from Poland and cities Warsaw Krakw d Wrocaw Pozna Gdansk Szczecin Bydgoszcz.
+The `public contributions` and `private contributions` by users in Poland on `2024/12/19 12:30 PM UTC`. This list contains users from Poland and cities Warsaw Krakw d Wrocaw Pozna Gdansk Szczecin Bydgoszcz.
 
 There are `19 countries` and `130 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
@@ -114,7 +114,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>1</td>
 		<td>
 			<a target="_blank" href="https://github.com/KonradLinkowski">
-				<img src="https://private-avatars.githubusercontent.com/u/26126510?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ3NDAsIm5iZiI6MTczNDU3MzU0MCwicGF0aCI6Ii91LzI2MTI2NTEwIn0.4rF15Sj-zp7DyfQ7OjxWOco0fD6p2tf9Bn1z5izqXWk&s=72&u=df0f76a4ba749fe864803e91ff94be5b2a8060b1&v=4" width="24" alt="Avatar of KonradLinkowski"/> KonradLinkowski
+				<img src="https://private-avatars.githubusercontent.com/u/26126510?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE2NDAsIm5iZiI6MTczNDYxMDQ0MCwicGF0aCI6Ii91LzI2MTI2NTEwIn0.zzjYpqSrbxEKea0PEorrW4Mv4dmkfMm17LH8ZpAoXc8&s=72&u=df0f76a4ba749fe864803e91ff94be5b2a8060b1&v=4" width="24" alt="Avatar of KonradLinkowski"/> KonradLinkowski
 			</a><br/>
 			Konrad Linkowski
 		</td>
@@ -122,27 +122,27 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Poland</td>
 		<td>25</td>
-		<td>40881</td>
+		<td>40926</td>
 	</tr>
 	<tr>
 		<td>2</td>
 		<td>
 			<a target="_blank" href="https://github.com/mgorny">
-				<img src="https://private-avatars.githubusercontent.com/u/110765?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxNjAsIm5iZiI6MTczNDU3Mzk2MCwicGF0aCI6Ii91LzExMDc2NSJ9.s0TvBTAGxBhTZU08E-Aopm8jDornsyzS6s9mkSuLw7g&s=72&u=7386b9cb55c1973a510d2785832424bc80e7c265&v=4" width="24" alt="Avatar of mgorny"/> mgorny
+				<img src="https://private-avatars.githubusercontent.com/u/110765?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwNjAsIm5iZiI6MTczNDYxMDg2MCwicGF0aCI6Ii91LzExMDc2NSJ9.fm7AndSDMynU7CVnyVOnfZ9J9e6EPz-p8OUeZughRVA&s=72&u=7386b9cb55c1973a510d2785832424bc80e7c265&v=4" width="24" alt="Avatar of mgorny"/> mgorny
 			</a><br/>
 			Micha Grny
 		</td>
 		<td>@quansightlabs  </td>
 		<td>No Twitter Username</td>
 		<td>Greater Poland PL</td>
-		<td>37511</td>
-		<td>37511</td>
+		<td>37545</td>
+		<td>37545</td>
 	</tr>
 	<tr>
 		<td>3</td>
 		<td>
 			<a target="_blank" href="https://github.com/wojtekmaj">
-				<img src="https://private-avatars.githubusercontent.com/u/5426427?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ0NDAsIm5iZiI6MTczNDU3MzI0MCwicGF0aCI6Ii91LzU0MjY0MjcifQ.MEziqvFbfNaZb8auyyp0u1O2YyByLFYKNl9OKGT_v7g&s=72&u=a6a688c4a3f715f44096e75af337d30d7cbecc28&v=4" width="24" alt="Avatar of wojtekmaj"/> wojtekmaj
+				<img src="https://private-avatars.githubusercontent.com/u/5426427?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTEzNDAsIm5iZiI6MTczNDYxMDE0MCwicGF0aCI6Ii91LzU0MjY0MjcifQ.EzXHAA70NZF2nq8mNToYl6XroFf493qk3rHv_MIgj8U&s=72&u=a6a688c4a3f715f44096e75af337d30d7cbecc28&v=4" width="24" alt="Avatar of wojtekmaj"/> wojtekmaj
 			</a><br/>
 			Wojciech Maj
 		</td>
@@ -156,7 +156,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>4</td>
 		<td>
 			<a target="_blank" href="https://github.com/pr0d1r2">
-				<img src="https://private-avatars.githubusercontent.com/u/31430?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyODAsIm5iZiI6MTczNDU3NDA4MCwicGF0aCI6Ii91LzMxNDMwIn0.4a7AUhLCNB4P4oxjRohzZ7Y4IWejKOir4DdaT3OKxIc&s=72&u=a143afb3d9a83056365b3f78429188f0a629892b&v=4" width="24" alt="Avatar of pr0d1r2"/> pr0d1r2
+				<img src="https://private-avatars.githubusercontent.com/u/31430?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTEyODAsIm5iZiI6MTczNDYxMDA4MCwicGF0aCI6Ii91LzMxNDMwIn0.X7AoxuX3GuuIvDbhfxHCjMnSPG-APs1vB2SmDaRZ1UM&s=72&u=a143afb3d9a83056365b3f78429188f0a629892b&v=4" width="24" alt="Avatar of pr0d1r2"/> pr0d1r2
 			</a><br/>
 			Marcin Nowicki
 		</td>
@@ -164,27 +164,27 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Warsaw Poland</td>
 		<td>13</td>
-		<td>11124</td>
+		<td>11127</td>
 	</tr>
 	<tr>
 		<td>5</td>
 		<td>
 			<a target="_blank" href="https://github.com/CvX">
-				<img src="https://private-avatars.githubusercontent.com/u/66961?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5ODAsIm5iZiI6MTczNDU3Mzc4MCwicGF0aCI6Ii91LzY2OTYxIn0.T-YqHfTqWRyg3oXdcW8ifwmYMHtHRvUZp3hUlBhbvjQ&s=72&v=4" width="24" alt="Avatar of CvX"/> CvX
+				<img src="https://private-avatars.githubusercontent.com/u/66961?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4ODAsIm5iZiI6MTczNDYxMDY4MCwicGF0aCI6Ii91LzY2OTYxIn0.RB02qoF3GbSDr84J6ZGNQkLrU3fxN4MBzjMV7-HenEU&s=72&v=4" width="24" alt="Avatar of CvX"/> CvX
 			</a><br/>
 			Jarek Radosz
 		</td>
 		<td>Discourse </td>
 		<td><a target="_blank" href="https://twitter.com/CvX">CvX</a></td>
 		<td>Poland</td>
-		<td>7256</td>
-		<td>10618</td>
+		<td>7265</td>
+		<td>10628</td>
 	</tr>
 	<tr>
 		<td>6</td>
 		<td>
 			<a target="_blank" href="https://github.com/IgorKowalczyk">
-				<img src="https://private-avatars.githubusercontent.com/u/49127376?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxNjAsIm5iZiI6MTczNDU3Mzk2MCwicGF0aCI6Ii91LzQ5MTI3Mzc2In0.7aaOLS5up2qM0_IjNFoPD2x_rf7xX9WmpfDjQYqvS1I&s=72&u=d4726d070ee1a0abd9b09a3e723caccd8072d21e&v=4" width="24" alt="Avatar of IgorKowalczyk"/> IgorKowalczyk
+				<img src="https://private-avatars.githubusercontent.com/u/49127376?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwNjAsIm5iZiI6MTczNDYxMDg2MCwicGF0aCI6Ii91LzQ5MTI3Mzc2In0._ediR7LYV1zsVduNATA1DDFm-TymVXADE3lkzk7gvJE&s=72&u=d4726d070ee1a0abd9b09a3e723caccd8072d21e&v=4" width="24" alt="Avatar of IgorKowalczyk"/> IgorKowalczyk
 			</a><br/>
 			Majonezexe
 		</td>
@@ -198,35 +198,35 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>7</td>
 		<td>
 			<a target="_blank" href="https://github.com/RooTinfinite">
-				<img src="https://private-avatars.githubusercontent.com/u/4924867?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2ODAsIm5iZiI6MTczNDU3MzQ4MCwicGF0aCI6Ii91LzQ5MjQ4NjcifQ.aNTJJS7pYALELkcIodJj7kVjPNUQ6oFg3bpf-wgkw6w&s=72&u=d7b2d7f55920502f6f77184c9bb30b4b72913c31&v=4" width="24" alt="Avatar of RooTinfinite"/> RooTinfinite
+				<img src="https://private-avatars.githubusercontent.com/u/4924867?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1ODAsIm5iZiI6MTczNDYxMDM4MCwicGF0aCI6Ii91LzQ5MjQ4NjcifQ.EOVqmTgNZSPig3jJc23SLFPHb3WO9xmebqRBWj7PA-w&s=72&u=d7b2d7f55920502f6f77184c9bb30b4b72913c31&v=4" width="24" alt="Avatar of RooTinfinite"/> RooTinfinite
 			</a><br/>
 			Piotr M
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Poland</td>
-		<td>6219</td>
-		<td>9708</td>
+		<td>6221</td>
+		<td>9710</td>
 	</tr>
 	<tr>
 		<td>8</td>
 		<td>
 			<a target="_blank" href="https://github.com/wendigo">
-				<img src="https://private-avatars.githubusercontent.com/u/66972?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2ODAsIm5iZiI6MTczNDU3MzQ4MCwicGF0aCI6Ii91LzY2OTcyIn0.xOdDz3fQvwCMv17A0Zz__bJI-sY17rPlxRw5p7CyNUU&s=72&u=9746c382ee3282aaeeb646d27f7188645d9c56f1&v=4" width="24" alt="Avatar of wendigo"/> wendigo
+				<img src="https://private-avatars.githubusercontent.com/u/66972?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1ODAsIm5iZiI6MTczNDYxMDM4MCwicGF0aCI6Ii91LzY2OTcyIn0.nQLg5MEXyB_q-QcsV054uvBrCuOKsCjmF3KLelhqAFo&s=72&u=9746c382ee3282aaeeb646d27f7188645d9c56f1&v=4" width="24" alt="Avatar of wendigo"/> wendigo
 			</a><br/>
 			Mateusz Serafin Gajewski
 		</td>
 		<td>@trinodb @starburstdata </td>
 		<td><a target="_blank" href="https://twitter.com/wendigo">wendigo</a></td>
 		<td>Poland</td>
-		<td>3993</td>
-		<td>8566</td>
+		<td>3997</td>
+		<td>8572</td>
 	</tr>
 	<tr>
 		<td>9</td>
 		<td>
 			<a target="_blank" href="https://github.com/krzysztof-magosa">
-				<img src="https://private-avatars.githubusercontent.com/u/6112411?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUwNDAsIm5iZiI6MTczNDU3Mzg0MCwicGF0aCI6Ii91LzYxMTI0MTEifQ.qgXPwEPUvgTVdEWzF9VNjN-kiKTuccYyH6AsqtR1Mh0&s=72&u=dc3b8a9bc459c67ab53ca95caa7cb791e843ad69&v=4" width="24" alt="Avatar of krzysztof-magosa"/> krzysztof-magosa
+				<img src="https://private-avatars.githubusercontent.com/u/6112411?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE5NDAsIm5iZiI6MTczNDYxMDc0MCwicGF0aCI6Ii91LzYxMTI0MTEifQ.447jHsiPM2v89XiGPUgnrCKXS7TRHjfQJiZJA6aqsyM&s=72&u=dc3b8a9bc459c67ab53ca95caa7cb791e843ad69&v=4" width="24" alt="Avatar of krzysztof-magosa"/> krzysztof-magosa
 			</a><br/>
 			Krzysztof Magosa
 		</td>
@@ -240,119 +240,119 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>10</td>
 		<td>
 			<a target="_blank" href="https://github.com/rustatian">
-				<img src="https://private-avatars.githubusercontent.com/u/8040338?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2MjAsIm5iZiI6MTczNDU3MzQyMCwicGF0aCI6Ii91LzgwNDAzMzgifQ.hPWfF4dUxz_BdXvWozowPW4_fr-mHDDX6U9TtbJOOvQ&s=72&u=9ee9aa8fd97944bfc3bc988d61712b4a4ff965c1&v=4" width="24" alt="Avatar of rustatian"/> rustatian
+				<img src="https://private-avatars.githubusercontent.com/u/8040338?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1MjAsIm5iZiI6MTczNDYxMDMyMCwicGF0aCI6Ii91LzgwNDAzMzgifQ.KIDkpD7zaQsXMgxBAkccfLS26cRU4Xro--2KAzGFMck&s=72&u=9ee9aa8fd97944bfc3bc988d61712b4a4ff965c1&v=4" width="24" alt="Avatar of rustatian"/> rustatian
 			</a><br/>
 			Valery Piashchynski
 		</td>
 		<td>@roadrunnerserver </td>
 		<td><a target="_blank" href="https://twitter.com/rustatian">rustatian</a></td>
 		<td>Poland Wrocaw </td>
-		<td>6190</td>
-		<td>6310</td>
+		<td>6206</td>
+		<td>6326</td>
 	</tr>
 	<tr>
 		<td>11</td>
 		<td>
 			<a target="_blank" href="https://github.com/findepi">
-				<img src="https://private-avatars.githubusercontent.com/u/144328?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2ODAsIm5iZiI6MTczNDU3MzQ4MCwicGF0aCI6Ii91LzE0NDMyOCJ9.xpClR8afaIzH1zTBIJvOjm3H_XqzB58-f33_5-rZPR8&s=72&u=bc4e2dfc6c19b5468582b86d217aea1743f3c232&v=4" width="24" alt="Avatar of findepi"/> findepi
+				<img src="https://private-avatars.githubusercontent.com/u/144328?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1ODAsIm5iZiI6MTczNDYxMDM4MCwicGF0aCI6Ii91LzE0NDMyOCJ9.z0FGbOSOO8ZctOtT5H9WFbxKo9xUmYO1AS21JZYTwBw&s=72&u=bc4e2dfc6c19b5468582b86d217aea1743f3c232&v=4" width="24" alt="Avatar of findepi"/> findepi
 			</a><br/>
 			Piotr Findeisen
 		</td>
 		<td>@sdflabs  </td>
 		<td><a target="_blank" href="https://twitter.com/findepi">findepi</a></td>
 		<td>Poland</td>
-		<td>2231</td>
-		<td>6262</td>
+		<td>2233</td>
+		<td>6271</td>
 	</tr>
 	<tr>
 		<td>12</td>
 		<td>
 			<a target="_blank" href="https://github.com/bgalek">
-				<img src="https://private-avatars.githubusercontent.com/u/2291045?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU1MjAsIm5iZiI6MTczNDU3NDMyMCwicGF0aCI6Ii91LzIyOTEwNDUifQ.uckPBTkK3xj081s2TcOvczqtGmCVA4g0Xp2IG-zhEO0&s=72&v=4" width="24" alt="Avatar of bgalek"/> bgalek
+				<img src="https://private-avatars.githubusercontent.com/u/2291045?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTI0MjAsIm5iZiI6MTczNDYxMTIyMCwicGF0aCI6Ii91LzIyOTEwNDUifQ.EBAZ2uP60qL-xpXnR0eVaI22UW6vR2YkMf5VntqVaSU&s=72&v=4" width="24" alt="Avatar of bgalek"/> bgalek
 			</a><br/>
 			Bartosz Gaek
 		</td>
 		<td>@allegro </td>
 		<td>No Twitter Username</td>
 		<td>Warsaw Poland</td>
-		<td>715</td>
-		<td>5776</td>
+		<td>717</td>
+		<td>5814</td>
 	</tr>
 	<tr>
 		<td>13</td>
 		<td>
 			<a target="_blank" href="https://github.com/nekiro">
-				<img src="https://private-avatars.githubusercontent.com/u/14142246?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyMjAsIm5iZiI6MTczNDU3NDAyMCwicGF0aCI6Ii91LzE0MTQyMjQ2In0.vdzOTpACS1J7H4t1NP5GC7T6NAwPXwwjr_ehsJ2FJI0&s=72&u=6549607486befb686a77049bf413e24d2e89c5b8&v=4" width="24" alt="Avatar of nekiro"/> nekiro
+				<img src="https://private-avatars.githubusercontent.com/u/14142246?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxMjAsIm5iZiI6MTczNDYxMDkyMCwicGF0aCI6Ii91LzE0MTQyMjQ2In0.fik12c9ULYSR6CkPOwXdAakmBPMMbb1otv2DF5YJfJo&s=72&u=6549607486befb686a77049bf413e24d2e89c5b8&v=4" width="24" alt="Avatar of nekiro"/> nekiro
 			</a><br/>
 			Marcin Jaocha
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Poland</td>
-		<td>149</td>
-		<td>5699</td>
+		<td>150</td>
+		<td>5700</td>
 	</tr>
 	<tr>
 		<td>14</td>
 		<td>
 			<a target="_blank" href="https://github.com/bdach">
-				<img src="https://private-avatars.githubusercontent.com/u/20418176?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2MjAsIm5iZiI6MTczNDU3MzQyMCwicGF0aCI6Ii91LzIwNDE4MTc2In0.qsbiPmcidTEoARTWD56YUjp6v-3guFEiqejkvof3Jkk&s=72&u=38ca187745ab36414f5a54f0c78013ab8e59a6eb&v=4" width="24" alt="Avatar of bdach"/> bdach
+				<img src="https://private-avatars.githubusercontent.com/u/20418176?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1MjAsIm5iZiI6MTczNDYxMDMyMCwicGF0aCI6Ii91LzIwNDE4MTc2In0.jKJ4xSzIjkjrt6tCkGMiwwWIS74ZFhWjwGvqzdM0jx0&s=72&u=38ca187745ab36414f5a54f0c78013ab8e59a6eb&v=4" width="24" alt="Avatar of bdach"/> bdach
 			</a><br/>
 			Bartomiej Dach
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Poland</td>
-		<td>3748</td>
-		<td>5669</td>
+		<td>3752</td>
+		<td>5674</td>
 	</tr>
 	<tr>
 		<td>15</td>
 		<td>
 			<a target="_blank" href="https://github.com/sirlucjan">
-				<img src="https://private-avatars.githubusercontent.com/u/5910665?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2MjAsIm5iZiI6MTczNDU3MzQyMCwicGF0aCI6Ii91LzU5MTA2NjUifQ.NLWqBFLqtw5HtPoF8Il8-t3gJc7DqDZogmXj5e4WSgg&s=72&u=807e4cec10fe501b6dd8b04af85f8ef7cd03067b&v=4" width="24" alt="Avatar of sirlucjan"/> sirlucjan
+				<img src="https://private-avatars.githubusercontent.com/u/5910665?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1MjAsIm5iZiI6MTczNDYxMDMyMCwicGF0aCI6Ii91LzU5MTA2NjUifQ.k_1yGCh_YoEfhBhA_0Z3VeTaY4y86ZB7P9ZrdubwwjQ&s=72&u=807e4cec10fe501b6dd8b04af85f8ef7cd03067b&v=4" width="24" alt="Avatar of sirlucjan"/> sirlucjan
 			</a><br/>
 			Piotr Grski
 		</td>
 		<td>@cachyos  </td>
 		<td>No Twitter Username</td>
 		<td>Krakow Poland </td>
-		<td>5072</td>
-		<td>5477</td>
+		<td>5073</td>
+		<td>5478</td>
 	</tr>
 	<tr>
 		<td>16</td>
 		<td>
 			<a target="_blank" href="https://github.com/bartlomieju">
-				<img src="https://private-avatars.githubusercontent.com/u/13602871?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4NjAsIm5iZiI6MTczNDU3MzY2MCwicGF0aCI6Ii91LzEzNjAyODcxIn0.oS5CZk3FUsgtjXowtMd8ThMPFtR8_adGU0smu0y10W4&s=72&u=a8d413c51c9bdf1f7aed9729590112de4e414204&v=4" width="24" alt="Avatar of bartlomieju"/> bartlomieju
+				<img src="https://private-avatars.githubusercontent.com/u/13602871?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3NjAsIm5iZiI6MTczNDYxMDU2MCwicGF0aCI6Ii91LzEzNjAyODcxIn0.fX5vRWSX6Bcm1CLGTFVuweHPqPLr3PpO4ddCIwA9SnQ&s=72&u=a8d413c51c9bdf1f7aed9729590112de4e414204&v=4" width="24" alt="Avatar of bartlomieju"/> bartlomieju
 			</a><br/>
 			Bartek Iwaczuk
 		</td>
 		<td>@denoland </td>
 		<td><a target="_blank" href="https://twitter.com/biwanczuk">biwanczuk</a></td>
 		<td>Warsaw PL</td>
-		<td>4107</td>
-		<td>5195</td>
+		<td>4108</td>
+		<td>5196</td>
 	</tr>
 	<tr>
 		<td>17</td>
 		<td>
 			<a target="_blank" href="https://github.com/tgodzik">
-				<img src="https://private-avatars.githubusercontent.com/u/3807253?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxMDAsIm5iZiI6MTczNDU3MzkwMCwicGF0aCI6Ii91LzM4MDcyNTMifQ.AxYq4KXq9S7xf_q1y6ZI841Ksm1yu4VjR_Sv4yb-fdo&s=72&u=094831e6a696f583ddfd86d3e5923fd8545c543a&v=4" width="24" alt="Avatar of tgodzik"/> tgodzik
+				<img src="https://private-avatars.githubusercontent.com/u/3807253?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwMDAsIm5iZiI6MTczNDYxMDgwMCwicGF0aCI6Ii91LzM4MDcyNTMifQ.ZGgXS0xG29VKZpgzd7f3QrLb99kHtW32RqaRTcnACHA&s=72&u=094831e6a696f583ddfd86d3e5923fd8545c543a&v=4" width="24" alt="Avatar of tgodzik"/> tgodzik
 			</a><br/>
 			Tomasz Godzik
 		</td>
 		<td>@virtuslab </td>
 		<td><a target="_blank" href="https://twitter.com/TomekGodzik">TomekGodzik</a></td>
 		<td>Krakow Poland</td>
-		<td>4758</td>
-		<td>4795</td>
+		<td>4762</td>
+		<td>4799</td>
 	</tr>
 	<tr>
 		<td>18</td>
 		<td>
 			<a target="_blank" href="https://github.com/skmedix">
-				<img src="https://private-avatars.githubusercontent.com/u/3246162?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5MjAsIm5iZiI6MTczNDU3MzcyMCwicGF0aCI6Ii91LzMyNDYxNjIifQ.rved2UVlXpn-un1jNR3jCF8QEX3GRYd8eaVboq5h_Rs&s=72&u=a4cabfd5e93f5dc362933c2f1a11baffb4b61d3b&v=4" width="24" alt="Avatar of skmedix"/> skmedix
+				<img src="https://private-avatars.githubusercontent.com/u/3246162?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4MjAsIm5iZiI6MTczNDYxMDYyMCwicGF0aCI6Ii91LzMyNDYxNjIifQ.qgHpCzX2f-wDmMUXWvVEX4YEpAFEliNk4WMevKZJQOc&s=72&u=a4cabfd5e93f5dc362933c2f1a11baffb4b61d3b&v=4" width="24" alt="Avatar of skmedix"/> skmedix
 			</a><br/>
 			skmedix
 		</td>
@@ -366,7 +366,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>19</td>
 		<td>
 			<a target="_blank" href="https://github.com/PrzemyslawKlys">
-				<img src="https://private-avatars.githubusercontent.com/u/15063294?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2ODAsIm5iZiI6MTczNDU3MzQ4MCwicGF0aCI6Ii91LzE1MDYzMjk0In0.bejN71GdLFBNmL1_yOA6KIn7JqhNKYBaMKYv6u-31iA&s=72&u=103b5981a79c86b3c199b8e905ab39ba9088375c&v=4" width="24" alt="Avatar of PrzemyslawKlys"/> PrzemyslawKlys
+				<img src="https://private-avatars.githubusercontent.com/u/15063294?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1ODAsIm5iZiI6MTczNDYxMDM4MCwicGF0aCI6Ii91LzE1MDYzMjk0In0.MNAa746sDKS-nlpYhO1EJEnBuNfmWxIvquEP7z45sFk&s=72&u=103b5981a79c86b3c199b8e905ab39ba9088375c&v=4" width="24" alt="Avatar of PrzemyslawKlys"/> PrzemyslawKlys
 			</a><br/>
 			Przemysaw Kys
 		</td>
@@ -380,35 +380,35 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>20</td>
 		<td>
 			<a target="_blank" href="https://github.com/potiuk">
-				<img src="https://private-avatars.githubusercontent.com/u/595491?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5MjAsIm5iZiI6MTczNDU3MzcyMCwicGF0aCI6Ii91LzU5NTQ5MSJ9.l4uvAmBYvkPxcw4ItISs9Ns1JaxrU9SfHM5cFCGkmnk&s=72&v=4" width="24" alt="Avatar of potiuk"/> potiuk
+				<img src="https://private-avatars.githubusercontent.com/u/595491?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4MjAsIm5iZiI6MTczNDYxMDYyMCwicGF0aCI6Ii91LzU5NTQ5MSJ9.o6-R72jZxfevtzmjckIoCv7c0Lp_1r_fcTMD3GsNIR4&s=72&v=4" width="24" alt="Avatar of potiuk"/> potiuk
 			</a><br/>
 			Jarek Potiuk
 		</td>
 		<td>Apache Software Foundation </td>
 		<td><a target="_blank" href="https://twitter.com/jarekpotiuk">jarekpotiuk</a></td>
 		<td>Warsaw</td>
-		<td>4253</td>
-		<td>4352</td>
+		<td>4257</td>
+		<td>4356</td>
 	</tr>
 	<tr>
 		<td>21</td>
 		<td>
 			<a target="_blank" href="https://github.com/lukaszgryglicki">
-				<img src="https://private-avatars.githubusercontent.com/u/2469783?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5ODAsIm5iZiI6MTczNDU3Mzc4MCwicGF0aCI6Ii91LzI0Njk3ODMifQ.XENaaxZvQlG_vVsxjfyEey48QyCaYoOD0-E5oznyNMk&s=72&u=975047cd166af4d10f59250a3fc082f6f5e40c48&v=4" width="24" alt="Avatar of lukaszgryglicki"/> lukaszgryglicki
+				<img src="https://private-avatars.githubusercontent.com/u/2469783?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4ODAsIm5iZiI6MTczNDYxMDY4MCwicGF0aCI6Ii91LzI0Njk3ODMifQ.YYfZ_KV9cqVohRvf_THdEX0Zg75FsVt2sYn8-tU3FQo&s=72&u=975047cd166af4d10f59250a3fc082f6f5e40c48&v=4" width="24" alt="Avatar of lukaszgryglicki"/> lukaszgryglicki
 			</a><br/>
 			ukasz Gryglicki
 		</td>
 		<td>@cncf @linuxfoundation @kubernetes </td>
 		<td><a target="_blank" href="https://twitter.com/LukaszGryglicki">LukaszGryglicki</a></td>
 		<td>Misk Mazowiecki Poland</td>
-		<td>2281</td>
-		<td>3825</td>
+		<td>2285</td>
+		<td>3829</td>
 	</tr>
 	<tr>
 		<td>22</td>
 		<td>
 			<a target="_blank" href="https://github.com/Simek">
-				<img src="https://private-avatars.githubusercontent.com/u/719641?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxMDAsIm5iZiI6MTczNDU3MzkwMCwicGF0aCI6Ii91LzcxOTY0MSJ9.QNCvFBFLvXFBV3KKTIF0Qwd9DygI4wAbZX3s6FWYCkg&s=72&u=d36716eff385696b5942b8e283d8c6d4cbbf9888&v=4" width="24" alt="Avatar of Simek"/> Simek
+				<img src="https://private-avatars.githubusercontent.com/u/719641?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwMDAsIm5iZiI6MTczNDYxMDgwMCwicGF0aCI6Ii91LzcxOTY0MSJ9.TlCb9b2E4QjKo-J51aPdMfYvzdK-O8QIqRxja8dRJIc&s=72&u=d36716eff385696b5942b8e283d8c6d4cbbf9888&v=4" width="24" alt="Avatar of Simek"/> Simek
 			</a><br/>
 			Bartosz Kaszubowski
 		</td>
@@ -416,13 +416,13 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/simek">simek</a></td>
 		<td>Gdask Poland</td>
 		<td>1991</td>
-		<td>3635</td>
+		<td>3638</td>
 	</tr>
 	<tr>
 		<td>23</td>
 		<td>
 			<a target="_blank" href="https://github.com/jpudysz">
-				<img src="https://private-avatars.githubusercontent.com/u/9088288?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5MjAsIm5iZiI6MTczNDU3MzcyMCwicGF0aCI6Ii91LzkwODgyODgifQ.7FgUSMQBmZcuRE1t_i_gET5WakW2r_NT5oca9Xl0CLo&s=72&u=0671237a03fee7fd345f53d9a8243d713e5c445d&v=4" width="24" alt="Avatar of jpudysz"/> jpudysz
+				<img src="https://private-avatars.githubusercontent.com/u/9088288?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4MjAsIm5iZiI6MTczNDYxMDYyMCwicGF0aCI6Ii91LzkwODgyODgifQ.lU8ZxxQqYyLHJULXXCTm2wflkOLLIk5GiUB22ckrSTE&s=72&u=0671237a03fee7fd345f53d9a8243d713e5c445d&v=4" width="24" alt="Avatar of jpudysz"/> jpudysz
 			</a><br/>
 			Jacek Pudysz
 		</td>
@@ -430,13 +430,13 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/jpudysz">jpudysz</a></td>
 		<td>Poland Rzeszow</td>
 		<td>1177</td>
-		<td>3623</td>
+		<td>3637</td>
 	</tr>
 	<tr>
 		<td>24</td>
 		<td>
 			<a target="_blank" href="https://github.com/inzynierr">
-				<img src="https://private-avatars.githubusercontent.com/u/45458831?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyMjAsIm5iZiI6MTczNDU3NDAyMCwicGF0aCI6Ii91LzQ1NDU4ODMxIn0.KasNBWcTVkdEzQmljNPOD6pgSgelXcBnhH3HGjhVuAA&s=72&u=13632955bb07dbdc96c813e2cb60b3895b38af38&v=4" width="24" alt="Avatar of inzynierr"/> inzynierr
+				<img src="https://private-avatars.githubusercontent.com/u/45458831?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxMjAsIm5iZiI6MTczNDYxMDkyMCwicGF0aCI6Ii91LzQ1NDU4ODMxIn0.CD6xxuqBFEtdURIP2MZggoIL13qFYWRnRS2pn-AYil4&s=72&u=13632955bb07dbdc96c813e2cb60b3895b38af38&v=4" width="24" alt="Avatar of inzynierr"/> inzynierr
 			</a><br/>
 			Kacper
 		</td>
@@ -444,13 +444,13 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Poland Pozna</td>
 		<td>6</td>
-		<td>3571</td>
+		<td>3580</td>
 	</tr>
 	<tr>
 		<td>25</td>
 		<td>
 			<a target="_blank" href="https://github.com/piecioshka">
-				<img src="https://private-avatars.githubusercontent.com/u/244935?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ1NjAsIm5iZiI6MTczNDU3MzM2MCwicGF0aCI6Ii91LzI0NDkzNSJ9.Vt4mmNqoU9iuvraza8e53AhHER7q0HklzznhG-yTZUY&s=72&u=c8447d3b17dfdcb6b26baa40874f8d362702e30a&v=4" width="24" alt="Avatar of piecioshka"/> piecioshka
+				<img src="https://private-avatars.githubusercontent.com/u/244935?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE0NjAsIm5iZiI6MTczNDYxMDI2MCwicGF0aCI6Ii91LzI0NDkzNSJ9.4SLpeiF4FGjZqJKmjcaBbav2IsF7qot97-YB4_HvLlM&s=72&u=c8447d3b17dfdcb6b26baa40874f8d362702e30a&v=4" width="24" alt="Avatar of piecioshka"/> piecioshka
 			</a><br/>
 			Piotr Kowalski
 		</td>
@@ -464,7 +464,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>26</td>
 		<td>
 			<a target="_blank" href="https://github.com/bselwe">
-				<img src="https://private-avatars.githubusercontent.com/u/26686598?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2ODAsIm5iZiI6MTczNDU3MzQ4MCwicGF0aCI6Ii91LzI2Njg2NTk4In0.f4VECvCnj69zuij-qWF5xdzxgQei28Lg8ZpIWeJVKuQ&s=72&u=44400ef1a4ea78d8d932f2410e0746ba944a2f4e&v=4" width="24" alt="Avatar of bselwe"/> bselwe
+				<img src="https://private-avatars.githubusercontent.com/u/26686598?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1ODAsIm5iZiI6MTczNDYxMDM4MCwicGF0aCI6Ii91LzI2Njg2NTk4In0.XK1GC_HhVnHvoQYy9sonTtH-QO8idnRoGze1O-yW-aI&s=72&u=44400ef1a4ea78d8d932f2410e0746ba944a2f4e&v=4" width="24" alt="Avatar of bselwe"/> bselwe
 			</a><br/>
 			Bart Selwesiuk
 		</td>
@@ -472,13 +472,13 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/bselwesiuk">bselwesiuk</a></td>
 		<td>Warsaw Poland</td>
 		<td>22</td>
-		<td>3511</td>
+		<td>3513</td>
 	</tr>
 	<tr>
 		<td>27</td>
 		<td>
 			<a target="_blank" href="https://github.com/burnpiro">
-				<img src="https://private-avatars.githubusercontent.com/u/3284639?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ3NDAsIm5iZiI6MTczNDU3MzU0MCwicGF0aCI6Ii91LzMyODQ2MzkifQ.sTc13mnS2q3fXEvzTTqPGJU3mMH1-HuAMNH2wdi7KUA&s=72&u=af4e3140674c6545928d5bb74322c78282e14403&v=4" width="24" alt="Avatar of burnpiro"/> burnpiro
+				<img src="https://private-avatars.githubusercontent.com/u/3284639?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE2NDAsIm5iZiI6MTczNDYxMDQ0MCwicGF0aCI6Ii91LzMyODQ2MzkifQ.Yf1m0oNiRaPRKYhuThpawG75KykrMx6bem5yKPfEPao&s=72&u=af4e3140674c6545928d5bb74322c78282e14403&v=4" width="24" alt="Avatar of burnpiro"/> burnpiro
 			</a><br/>
 			Kemal Erdem
 		</td>
@@ -486,13 +486,13 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/burnpiro">burnpiro</a></td>
 		<td>Wroclaw Poland</td>
 		<td>33</td>
-		<td>3478</td>
+		<td>3479</td>
 	</tr>
 	<tr>
 		<td>28</td>
 		<td>
 			<a target="_blank" href="https://github.com/marcinbunsch">
-				<img src="https://private-avatars.githubusercontent.com/u/65431?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5ODAsIm5iZiI6MTczNDU3Mzc4MCwicGF0aCI6Ii91LzY1NDMxIn0.FVlV9lKNh03m7YKSqTQverqutZTkuCWQ1SN3hBNj6y8&s=72&u=6afea47cd247fc3bf8a0ba3379df36bf117fae41&v=4" width="24" alt="Avatar of marcinbunsch"/> marcinbunsch
+				<img src="https://private-avatars.githubusercontent.com/u/65431?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4ODAsIm5iZiI6MTczNDYxMDY4MCwicGF0aCI6Ii91LzY1NDMxIn0.I-TGTsBg54MpVnaEqkIX7vQd0VgOK-NDpIqH9fmOOAk&s=72&u=6afea47cd247fc3bf8a0ba3379df36bf117fae41&v=4" width="24" alt="Avatar of marcinbunsch"/> marcinbunsch
 			</a><br/>
 			Marcin Bunsch
 		</td>
@@ -500,13 +500,13 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Krakw</td>
 		<td>14</td>
-		<td>3459</td>
+		<td>3460</td>
 	</tr>
 	<tr>
 		<td>29</td>
 		<td>
 			<a target="_blank" href="https://github.com/DanielTRZ">
-				<img src="https://private-avatars.githubusercontent.com/u/71105883?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5ODAsIm5iZiI6MTczNDU3Mzc4MCwicGF0aCI6Ii91LzcxMTA1ODgzIn0.dO9IqPiVz19n7o9JBvyyT6NPKJIUUz2KXWIqZiKR4Lg&s=72&u=913324380cd585f8f3185a6c76ffd0748e95d2f6&v=4" width="24" alt="Avatar of DanielTRZ"/> DanielTRZ
+				<img src="https://private-avatars.githubusercontent.com/u/71105883?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4ODAsIm5iZiI6MTczNDYxMDY4MCwicGF0aCI6Ii91LzcxMTA1ODgzIn0.sIYxmaQZrvHMUMOKskYm5tpNryl910eOMG6jNTt6y4M&s=72&u=913324380cd585f8f3185a6c76ffd0748e95d2f6&v=4" width="24" alt="Avatar of DanielTRZ"/> DanielTRZ
 			</a><br/>
 			Daniel Trzeciski
 		</td>
@@ -520,7 +520,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>30</td>
 		<td>
 			<a target="_blank" href="https://github.com/rr-">
-				<img src="https://private-avatars.githubusercontent.com/u/1045476?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2ODAsIm5iZiI6MTczNDU3MzQ4MCwicGF0aCI6Ii91LzEwNDU0NzYifQ.gBga6V1yowQRaKNVYqBV_JL7a7b8n7SLz50OsaxSj5Q&s=72&u=a6a49d424689f0d793041b96e5f47d2a35d431b3&v=4" width="24" alt="Avatar of rr-"/> rr-
+				<img src="https://private-avatars.githubusercontent.com/u/1045476?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1ODAsIm5iZiI6MTczNDYxMDM4MCwicGF0aCI6Ii91LzEwNDU0NzYifQ.qWlEMWnFvKpXYnbEMrfpEQzyG10OlrrZk4Fjph1trn0&s=72&u=a6a49d424689f0d793041b96e5f47d2a35d431b3&v=4" width="24" alt="Avatar of rr-"/> rr-
 			</a><br/>
 			Marcin Kurczewski
 		</td>
@@ -534,7 +534,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>31</td>
 		<td>
 			<a target="_blank" href="https://github.com/MarcusSlover">
-				<img src="https://private-avatars.githubusercontent.com/u/38810661?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4NjAsIm5iZiI6MTczNDU3MzY2MCwicGF0aCI6Ii91LzM4ODEwNjYxIn0.Kle588ccCRaIm5GAOTHmnN7NAdZaBcMvDbnl9skxqAU&s=72&u=b80b16d4b67c22d06ab93b85cd2da0a3515c878c&v=4" width="24" alt="Avatar of MarcusSlover"/> MarcusSlover
+				<img src="https://private-avatars.githubusercontent.com/u/38810661?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3NjAsIm5iZiI6MTczNDYxMDU2MCwicGF0aCI6Ii91LzM4ODEwNjYxIn0._Q0YxjjMg4To2ZbUWo9uZ6-AjYUMbB4ui0vW7oq6fho&s=72&u=b80b16d4b67c22d06ab93b85cd2da0a3515c878c&v=4" width="24" alt="Avatar of MarcusSlover"/> MarcusSlover
 			</a><br/>
 			Mariusz Matyszczak
 		</td>
@@ -542,41 +542,41 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/MarcusSlover">MarcusSlover</a></td>
 		<td>Warsaw Poland</td>
 		<td>50</td>
-		<td>3339</td>
+		<td>3342</td>
 	</tr>
 	<tr>
 		<td>32</td>
 		<td>
 			<a target="_blank" href="https://github.com/sefinek">
-				<img src="https://private-avatars.githubusercontent.com/u/92880265?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxMDAsIm5iZiI6MTczNDU3MzkwMCwicGF0aCI6Ii91LzkyODgwMjY1In0.6RvVC3RArYXqYPXueK2vXL0wNtDw3j1JuR1_0TOB9hA&s=72&u=61a9efde4fddde2b49f7899cfe292805cb9593d4&v=4" width="24" alt="Avatar of sefinek"/> sefinek
+				<img src="https://private-avatars.githubusercontent.com/u/92880265?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwMDAsIm5iZiI6MTczNDYxMDgwMCwicGF0aCI6Ii91LzkyODgwMjY1In0.iVtZUTvcRmTm7bTs05Si9X9ZhjuPAu3WKgXiTqwLPGw&s=72&u=61a9efde4fddde2b49f7899cfe292805cb9593d4&v=4" width="24" alt="Avatar of sefinek"/> sefinek
 			</a><br/>
 			Sefinek
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Poland</td>
-		<td>3309</td>
-		<td>3309</td>
+		<td>3310</td>
+		<td>3310</td>
 	</tr>
 	<tr>
 		<td>33</td>
 		<td>
 			<a target="_blank" href="https://github.com/pawurb">
-				<img src="https://private-avatars.githubusercontent.com/u/1131944?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5MjAsIm5iZiI6MTczNDU3MzcyMCwicGF0aCI6Ii91LzExMzE5NDQifQ.UGQrpBaRbbKnJQoIN5EE-8Ga1mW8awB0NTc6ubAbnEY&s=72&u=cfab866e0eb42e909723a84a2111d38f6055594d&v=4" width="24" alt="Avatar of pawurb"/> pawurb
+				<img src="https://private-avatars.githubusercontent.com/u/1131944?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4MjAsIm5iZiI6MTczNDYxMDYyMCwicGF0aCI6Ii91LzExMzE5NDQifQ.RrYAur9LoAighuf-kX0tZamSI0nnYMnFsh7b1PynhEw&s=72&u=cfab866e0eb42e909723a84a2111d38f6055594d&v=4" width="24" alt="Avatar of pawurb"/> pawurb
 			</a><br/>
 			Pawe Urbanek
 		</td>
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/_pawurb">_pawurb</a></td>
 		<td>Poland</td>
-		<td>827</td>
-		<td>3306</td>
+		<td>829</td>
+		<td>3308</td>
 	</tr>
 	<tr>
 		<td>34</td>
 		<td>
 			<a target="_blank" href="https://github.com/jtomaszewski">
-				<img src="https://private-avatars.githubusercontent.com/u/1862580?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUwNDAsIm5iZiI6MTczNDU3Mzg0MCwicGF0aCI6Ii91LzE4NjI1ODAifQ.vD2cD2WpbwO16zb_FiXsv88mbgYsvFfJ6I1M_3TcWMY&s=72&u=bc6dde3f0e18ce23fe2ab79d08d352fb1c231cba&v=4" width="24" alt="Avatar of jtomaszewski"/> jtomaszewski
+				<img src="https://private-avatars.githubusercontent.com/u/1862580?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE5NDAsIm5iZiI6MTczNDYxMDc0MCwicGF0aCI6Ii91LzE4NjI1ODAifQ.zUjSHoXqnwKKm3yFjC-WP-Et7i0AmfV8vlahepFcfa8&s=72&u=bc6dde3f0e18ce23fe2ab79d08d352fb1c231cba&v=4" width="24" alt="Avatar of jtomaszewski"/> jtomaszewski
 			</a><br/>
 			Jacek Tomaszewski
 		</td>
@@ -584,13 +584,13 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/jtompl">jtompl</a></td>
 		<td>Poznan Poland</td>
 		<td>23</td>
-		<td>3272</td>
+		<td>3283</td>
 	</tr>
 	<tr>
 		<td>35</td>
 		<td>
 			<a target="_blank" href="https://github.com/radex">
-				<img src="https://private-avatars.githubusercontent.com/u/183747?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQzODAsIm5iZiI6MTczNDU3MzE4MCwicGF0aCI6Ii91LzE4Mzc0NyJ9.fQjjqvSgjSjpR11Lc27vpEzaMVGpVffLKLO5QFMYegc&s=72&u=4439d576e65e6bb47e7faa8cd14baf9ddb61de32&v=4" width="24" alt="Avatar of radex"/> radex
+				<img src="https://private-avatars.githubusercontent.com/u/183747?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTEyODAsIm5iZiI6MTczNDYxMDA4MCwicGF0aCI6Ii91LzE4Mzc0NyJ9.BPycpK21wvKLkZT5qaBMC9Ain_6XCqbrbIRkcBNet9U&s=72&u=4439d576e65e6bb47e7faa8cd14baf9ddb61de32&v=4" width="24" alt="Avatar of radex"/> radex
 			</a><br/>
 			Radek Pietruszewski
 		</td>
@@ -598,13 +598,13 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/radexp">radexp</a></td>
 		<td>Poland</td>
 		<td>359</td>
-		<td>3130</td>
+		<td>3132</td>
 	</tr>
 	<tr>
 		<td>36</td>
 		<td>
 			<a target="_blank" href="https://github.com/josevalim">
-				<img src="https://private-avatars.githubusercontent.com/u/9582?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQyMDAsIm5iZiI6MTczNDU3MzAwMCwicGF0aCI6Ii91Lzk1ODIifQ.dYCS0uxngLez2NoTsiDbDQjCMHxU-Z8FYAKtqcHXk-Q&s=72&u=c00cf4c84840538f31a3a8a46fec9dcc7b0ff132&v=4" width="24" alt="Avatar of josevalim"/> josevalim
+				<img src="https://private-avatars.githubusercontent.com/u/9582?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTExMDAsIm5iZiI6MTczNDYwOTkwMCwicGF0aCI6Ii91Lzk1ODIifQ.eInapdaV2Tmgku8Eq_pKdisLBt3lyXN_DhpEAI8HVC0&s=72&u=c00cf4c84840538f31a3a8a46fec9dcc7b0ff132&v=4" width="24" alt="Avatar of josevalim"/> josevalim
 			</a><br/>
 			Jos Valim
 		</td>
@@ -618,7 +618,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>37</td>
 		<td>
 			<a target="_blank" href="https://github.com/michalsnik">
-				<img src="https://private-avatars.githubusercontent.com/u/4093559?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5ODAsIm5iZiI6MTczNDU3Mzc4MCwicGF0aCI6Ii91LzQwOTM1NTkifQ.RyJhuBScmZ1tF1pI8XU-VnampaEhxuJorKiYnJ0CReM&s=72&u=bc82358276009e3a30cbf39c8814903a9c7d4461&v=4" width="24" alt="Avatar of michalsnik"/> michalsnik
+				<img src="https://private-avatars.githubusercontent.com/u/4093559?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4ODAsIm5iZiI6MTczNDYxMDY4MCwicGF0aCI6Ii91LzQwOTM1NTkifQ.J-u5Mh_OoGKbUv8fGoOBFcDOoddK1ZNe9HPgRuMT4NQ&s=72&u=bc82358276009e3a30cbf39c8814903a9c7d4461&v=4" width="24" alt="Avatar of michalsnik"/> michalsnik
 			</a><br/>
 			Micha Sajng
 		</td>
@@ -632,7 +632,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>38</td>
 		<td>
 			<a target="_blank" href="https://github.com/vladholubiev">
-				<img src="https://private-avatars.githubusercontent.com/u/3817380?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5ODAsIm5iZiI6MTczNDU3Mzc4MCwicGF0aCI6Ii91LzM4MTczODAifQ.U7JIRRkuGpo9q4wUm-olxIX7IgEfSPw3rDWUNON96Fo&s=72&u=3bec36287492a0033a0fa49252d505e04dc32722&v=4" width="24" alt="Avatar of vladholubiev"/> vladholubiev
+				<img src="https://private-avatars.githubusercontent.com/u/3817380?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4ODAsIm5iZiI6MTczNDYxMDY4MCwicGF0aCI6Ii91LzM4MTczODAifQ.mc5gbatkilQcWVa_8XGACSzvH9RhNhxFP6ufMHjIOmo&s=72&u=3bec36287492a0033a0fa49252d505e04dc32722&v=4" width="24" alt="Avatar of vladholubiev"/> vladholubiev
 			</a><br/>
 			Vlad Holubiev
 		</td>
@@ -646,7 +646,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>39</td>
 		<td>
 			<a target="_blank" href="https://github.com/msn0">
-				<img src="https://private-avatars.githubusercontent.com/u/787433?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU2NDAsIm5iZiI6MTczNDU3NDQ0MCwicGF0aCI6Ii91Lzc4NzQzMyJ9.WsFoqXXbCjea-NUc2HL8KHYpcsIErdzgWvNexF-hh8E&s=72&u=6c1265bfcd6a288e13f6b070a57845fe7f78639c&v=4" width="24" alt="Avatar of msn0"/> msn0
+				<img src="https://private-avatars.githubusercontent.com/u/787433?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTI1NDAsIm5iZiI6MTczNDYxMTM0MCwicGF0aCI6Ii91Lzc4NzQzMyJ9.hQhPlsJDQyHFvDxOSftVlV89ZAtiAi9n-Pn5Q5PZR1Y&s=72&u=6c1265bfcd6a288e13f6b070a57845fe7f78639c&v=4" width="24" alt="Avatar of msn0"/> msn0
 			</a><br/>
 			Micha Jezierski
 		</td>
@@ -659,8 +659,22 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 	<tr>
 		<td>40</td>
 		<td>
+			<a target="_blank" href="https://github.com/kwasniew">
+				<img src="https://private-avatars.githubusercontent.com/u/1394682?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIzMDAsIm5iZiI6MTczNDYxMTEwMCwicGF0aCI6Ii91LzEzOTQ2ODIifQ.vJuiKLaO--6ioF5A3RWRrHEkY0QiKffYtyLHs7KsRPo&s=72&u=e9f48018856a5e4ca4e379be53db9f047fc5b305&v=4" width="24" alt="Avatar of kwasniew"/> kwasniew
+			</a><br/>
+			Mateusz Kwasniewski
+		</td>
+		<td>Mindventures @unleash </td>
+		<td>No Twitter Username</td>
+		<td>Poland</td>
+		<td>2021</td>
+		<td>2951</td>
+	</tr>
+	<tr>
+		<td>41</td>
+		<td>
 			<a target="_blank" href="https://github.com/jcubic">
-				<img src="https://private-avatars.githubusercontent.com/u/280241?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4NjAsIm5iZiI6MTczNDU3MzY2MCwicGF0aCI6Ii91LzI4MDI0MSJ9.qY6LKe7ApKdm_uOcJnW49A2O_4ramAdI3pPbWM_Jp28&s=72&u=b0fc3b7e185967d5a407c1bd8d5c2e69ff32a013&v=4" width="24" alt="Avatar of jcubic"/> jcubic
+				<img src="https://private-avatars.githubusercontent.com/u/280241?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3NjAsIm5iZiI6MTczNDYxMDU2MCwicGF0aCI6Ii91LzI4MDI0MSJ9.fPLXVyY8pjrgeCtoOilNwkw-wKkRyX_rYnX0YECVugM&s=72&u=b0fc3b7e185967d5a407c1bd8d5c2e69ff32a013&v=4" width="24" alt="Avatar of jcubic"/> jcubic
 			</a><br/>
 			Jakub T Jankiewicz
 		</td>
@@ -671,24 +685,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>2949</td>
 	</tr>
 	<tr>
-		<td>41</td>
-		<td>
-			<a target="_blank" href="https://github.com/kwasniew">
-				<img src="https://private-avatars.githubusercontent.com/u/1394682?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU0MDAsIm5iZiI6MTczNDU3NDIwMCwicGF0aCI6Ii91LzEzOTQ2ODIifQ.j3f6d8Ll_VFGROsrppqUXraqSNVfUsWO2c9L_nU-tEM&s=72&u=e9f48018856a5e4ca4e379be53db9f047fc5b305&v=4" width="24" alt="Avatar of kwasniew"/> kwasniew
-			</a><br/>
-			Mateusz Kwasniewski
-		</td>
-		<td>Mindventures @unleash </td>
-		<td>No Twitter Username</td>
-		<td>Poland</td>
-		<td>2016</td>
-		<td>2943</td>
-	</tr>
-	<tr>
 		<td>42</td>
 		<td>
 			<a target="_blank" href="https://github.com/asapach">
-				<img src="https://private-avatars.githubusercontent.com/u/1755336?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU0MDAsIm5iZiI6MTczNDU3NDIwMCwicGF0aCI6Ii91LzE3NTUzMzYifQ.u7AogvpHLfZsJoZP-o95wH2mndC0pWDAAfVe1u-fztc&s=72&u=94a307b0ef889b8a9be5a36c8258c7a8fb86b0a5&v=4" width="24" alt="Avatar of asapach"/> asapach
+				<img src="https://private-avatars.githubusercontent.com/u/1755336?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIzMDAsIm5iZiI6MTczNDYxMTEwMCwicGF0aCI6Ii91LzE3NTUzMzYifQ.u-cAEeRL_f0KW2ryGfViDYzZo68UhDQqJt-N5OgKGTw&s=72&u=94a307b0ef889b8a9be5a36c8258c7a8fb86b0a5&v=4" width="24" alt="Avatar of asapach"/> asapach
 			</a><br/>
 			Aliaksei Sapach
 		</td>
@@ -702,7 +702,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>43</td>
 		<td>
 			<a target="_blank" href="https://github.com/TheDoctor0">
-				<img src="https://private-avatars.githubusercontent.com/u/16612504?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5MjAsIm5iZiI6MTczNDU3MzcyMCwicGF0aCI6Ii91LzE2NjEyNTA0In0.0-x5ZlGSBwTrFc1HXsuo2rBf9YxR4sXDQeWcTeTXuP4&s=72&u=132e80fdf5b7f20b992d936ebbd9b3efe2b5f073&v=4" width="24" alt="Avatar of TheDoctor0"/> TheDoctor0
+				<img src="https://private-avatars.githubusercontent.com/u/16612504?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4MjAsIm5iZiI6MTczNDYxMDYyMCwicGF0aCI6Ii91LzE2NjEyNTA0In0.yXiMSjLZ7RnXV2lJJ4sNuz6Z-SKpGcIzUl6Zp7dGpHE&s=72&u=132e80fdf5b7f20b992d936ebbd9b3efe2b5f073&v=4" width="24" alt="Avatar of TheDoctor0"/> TheDoctor0
 			</a><br/>
 			Dawid Janik
 		</td>
@@ -716,7 +716,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>44</td>
 		<td>
 			<a target="_blank" href="https://github.com/mrmike">
-				<img src="https://private-avatars.githubusercontent.com/u/529635?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU0MDAsIm5iZiI6MTczNDU3NDIwMCwicGF0aCI6Ii91LzUyOTYzNSJ9.9eeZXksREdlrI-Ge4cNkL5jmuOFm-7s7maPxRX2VDFA&s=72&v=4" width="24" alt="Avatar of mrmike"/> mrmike
+				<img src="https://private-avatars.githubusercontent.com/u/529635?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIzMDAsIm5iZiI6MTczNDYxMTEwMCwicGF0aCI6Ii91LzUyOTYzNSJ9.ri9YxkUh11mt_1t1mbCIgsZQTSk1nNNuFZ9EtXlD4Y0&s=72&v=4" width="24" alt="Avatar of mrmike"/> mrmike
 			</a><br/>
 			Michal Moczulski
 		</td>
@@ -724,13 +724,13 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/moczul">moczul</a></td>
 		<td>Pozna Poland</td>
 		<td>4</td>
-		<td>2883</td>
+		<td>2901</td>
 	</tr>
 	<tr>
 		<td>45</td>
 		<td>
 			<a target="_blank" href="https://github.com/hubertlepicki">
-				<img src="https://private-avatars.githubusercontent.com/u/33274?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU1ODAsIm5iZiI6MTczNDU3NDM4MCwicGF0aCI6Ii91LzMzMjc0In0._XGn2wtCEPBMpyKKZ77pZlgVzr-_-UcDaj4Ku0nXivc&s=72&u=cdd5a29595c2c6916272610a6955e3950a6ff583&v=4" width="24" alt="Avatar of hubertlepicki"/> hubertlepicki
+				<img src="https://private-avatars.githubusercontent.com/u/33274?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTI0ODAsIm5iZiI6MTczNDYxMTI4MCwicGF0aCI6Ii91LzMzMjc0In0.YICaQD5vFxDBsvh1t7B5C6iBdRgJzPKKVe4FmF4u-no&s=72&u=cdd5a29595c2c6916272610a6955e3950a6ff583&v=4" width="24" alt="Avatar of hubertlepicki"/> hubertlepicki
 			</a><br/>
 			Hubert picki
 		</td>
@@ -738,13 +738,13 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Biaystok Poland</td>
 		<td>38</td>
-		<td>2835</td>
+		<td>2842</td>
 	</tr>
 	<tr>
 		<td>46</td>
 		<td>
 			<a target="_blank" href="https://github.com/Bartek532">
-				<img src="https://private-avatars.githubusercontent.com/u/57185551?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUwNDAsIm5iZiI6MTczNDU3Mzg0MCwicGF0aCI6Ii91LzU3MTg1NTUxIn0.pe4p7UyUQHOGI1A5LVxOd5pEtJkuZgMstB4hv1R8aZ0&s=72&u=aeb803ef8d3944d8bed3115666a3c001ca39701c&v=4" width="24" alt="Avatar of Bartek532"/> Bartek532
+				<img src="https://private-avatars.githubusercontent.com/u/57185551?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE5NDAsIm5iZiI6MTczNDYxMDc0MCwicGF0aCI6Ii91LzU3MTg1NTUxIn0.Gx58O5CFEDV0heTXNcT_xGzDAsIrP1-Fz8OqbzlkF8U&s=72&u=aeb803ef8d3944d8bed3115666a3c001ca39701c&v=4" width="24" alt="Avatar of Bartek532"/> Bartek532
 			</a><br/>
 			Bartosz Zagrodzki
 		</td>
@@ -752,13 +752,13 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/bzagrodzki">bzagrodzki</a></td>
 		<td>Poland Katowice</td>
 		<td>521</td>
-		<td>2625</td>
+		<td>2631</td>
 	</tr>
 	<tr>
 		<td>47</td>
 		<td>
 			<a target="_blank" href="https://github.com/sjchmiela">
-				<img src="https://private-avatars.githubusercontent.com/u/1151041?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ1NjAsIm5iZiI6MTczNDU3MzM2MCwicGF0aCI6Ii91LzExNTEwNDEifQ.A32c8Tft0sNwmcJsl6Z-fh_PE1CDitJdm64MnuKD9xA&s=72&u=df4028ee0ebaec6f469f7b6f605147c5b28ba4ca&v=4" width="24" alt="Avatar of sjchmiela"/> sjchmiela
+				<img src="https://private-avatars.githubusercontent.com/u/1151041?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE0NjAsIm5iZiI6MTczNDYxMDI2MCwicGF0aCI6Ii91LzExNTEwNDEifQ.NIhbOfrbO2C-xC6w3id8FJFUPuCUQHu1PG5mfDkJ5wI&s=72&u=df4028ee0ebaec6f469f7b6f605147c5b28ba4ca&v=4" width="24" alt="Avatar of sjchmiela"/> sjchmiela
 			</a><br/>
 			Stanisaw Chmiela
 		</td>
@@ -766,13 +766,13 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/sjchmiela">sjchmiela</a></td>
 		<td>Krakw Poland</td>
 		<td>399</td>
-		<td>2622</td>
+		<td>2624</td>
 	</tr>
 	<tr>
 		<td>48</td>
 		<td>
 			<a target="_blank" href="https://github.com/felixxm">
-				<img src="https://private-avatars.githubusercontent.com/u/2865885?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ0NDAsIm5iZiI6MTczNDU3MzI0MCwicGF0aCI6Ii91LzI4NjU4ODUifQ.1uk6E5xtsSp3XG8xWdBp9B_z11yJeULNFZEbR4XFlOA&s=72&u=0df0a3d45b6dae54e1d08e5b4aeb70201aa5d31c&v=4" width="24" alt="Avatar of felixxm"/> felixxm
+				<img src="https://private-avatars.githubusercontent.com/u/2865885?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTEzNDAsIm5iZiI6MTczNDYxMDE0MCwicGF0aCI6Ii91LzI4NjU4ODUifQ.nSxoMIli6C0sZ1jesf8sjqBbOsh0IvuAyNckI8_Lqrg&s=72&u=0df0a3d45b6dae54e1d08e5b4aeb70201aa5d31c&v=4" width="24" alt="Avatar of felixxm"/> felixxm
 			</a><br/>
 			Mariusz Felisiak
 		</td>
@@ -780,13 +780,13 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Toru Poland</td>
 		<td>700</td>
-		<td>2598</td>
+		<td>2608</td>
 	</tr>
 	<tr>
 		<td>49</td>
 		<td>
 			<a target="_blank" href="https://github.com/bernii">
-				<img src="https://private-avatars.githubusercontent.com/u/778717?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyODAsIm5iZiI6MTczNDU3NDA4MCwicGF0aCI6Ii91Lzc3ODcxNyJ9.Ig7rdvn1G9evOVy-qry7a0VLAAVhA0Apo9Pg-RFjxe8&s=72&u=9522d3a925ed66381e98a94d39465919e0b6f373&v=4" width="24" alt="Avatar of bernii"/> bernii
+				<img src="https://private-avatars.githubusercontent.com/u/778717?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxODAsIm5iZiI6MTczNDYxMDk4MCwicGF0aCI6Ii91Lzc3ODcxNyJ9.44JUb_dJsk5uA3w8x4YMo3NfKI7ODwgX6w5vB54KNIo&s=72&u=9522d3a925ed66381e98a94d39465919e0b6f373&v=4" width="24" alt="Avatar of bernii"/> bernii
 			</a><br/>
 			Bernard Kobos
 		</td>
@@ -794,13 +794,13 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Warsaw Poland</td>
 		<td>1</td>
-		<td>2598</td>
+		<td>2608</td>
 	</tr>
 	<tr>
 		<td>50</td>
 		<td>
 			<a target="_blank" href="https://github.com/PythonicNinja">
-				<img src="https://private-avatars.githubusercontent.com/u/1098417?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxNjAsIm5iZiI6MTczNDU3Mzk2MCwicGF0aCI6Ii91LzEwOTg0MTcifQ.VbxBal0z9iXs8jPMTTNB3tLkPlR1uUfZiI13TVwBbMA&s=72&u=7bcd2f400cb7f641919d67dadf632a6b34cd83b5&v=4" width="24" alt="Avatar of PythonicNinja"/> PythonicNinja
+				<img src="https://private-avatars.githubusercontent.com/u/1098417?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwNjAsIm5iZiI6MTczNDYxMDg2MCwicGF0aCI6Ii91LzEwOTg0MTcifQ.nOZTSCsHzlAh8l0bJ_bywnu-q3SP_zb4acvtA1RliWE&s=72&u=7bcd2f400cb7f641919d67dadf632a6b34cd83b5&v=4" width="24" alt="Avatar of PythonicNinja"/> PythonicNinja
 			</a><br/>
 			Wojtek Nowak
 		</td>
@@ -808,13 +808,13 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Poland Sopot</td>
 		<td>1</td>
-		<td>2582</td>
+		<td>2595</td>
 	</tr>
 	<tr>
 		<td>51</td>
 		<td>
 			<a target="_blank" href="https://github.com/ajgon">
-				<img src="https://private-avatars.githubusercontent.com/u/150545?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxNjAsIm5iZiI6MTczNDU3Mzk2MCwicGF0aCI6Ii91LzE1MDU0NSJ9.hPu2TSDuAhkceVRxOe-pIvZNkqxFfvM6UWc1ymaZ_XU&s=72&u=4a15cf529a68c8d8a55e2fbe0daad3de86186467&v=4" width="24" alt="Avatar of ajgon"/> ajgon
+				<img src="https://private-avatars.githubusercontent.com/u/150545?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwNjAsIm5iZiI6MTczNDYxMDg2MCwicGF0aCI6Ii91LzE1MDU0NSJ9.W2CBE6LSSw3pBVlzKC99H_jPFWRkTksxdT9wbRx_lDk&s=72&u=4a15cf529a68c8d8a55e2fbe0daad3de86186467&v=4" width="24" alt="Avatar of ajgon"/> ajgon
 			</a><br/>
 			Igor Rzegocki
 		</td>
@@ -822,13 +822,13 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>RzeszwKrakw</td>
 		<td>2013</td>
-		<td>2554</td>
+		<td>2555</td>
 	</tr>
 	<tr>
 		<td>52</td>
 		<td>
 			<a target="_blank" href="https://github.com/pellared">
-				<img src="https://private-avatars.githubusercontent.com/u/5067549?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyMjAsIm5iZiI6MTczNDU3NDAyMCwicGF0aCI6Ii91LzUwNjc1NDkifQ.z-YGSYxc2o00JLN4_wydJTGjRVhGUZLNSvLdVk8hZ3o&s=72&u=1262f6477a71a4ea6520b060ee0eca2ce1af4096&v=4" width="24" alt="Avatar of pellared"/> pellared
+				<img src="https://private-avatars.githubusercontent.com/u/5067549?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxMjAsIm5iZiI6MTczNDYxMDkyMCwicGF0aCI6Ii91LzUwNjc1NDkifQ.BTou-JlT7Yf7-6Yq_neWJ9_aPv_4t9smfBW_FEsN_LE&s=72&u=1262f6477a71a4ea6520b060ee0eca2ce1af4096&v=4" width="24" alt="Avatar of pellared"/> pellared
 			</a><br/>
 			Robert Pajk
 		</td>
@@ -842,7 +842,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>53</td>
 		<td>
 			<a target="_blank" href="https://github.com/tpluscode">
-				<img src="https://private-avatars.githubusercontent.com/u/588128?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91LzU4ODEyOCJ9.TiNeCo3xvxCjmSrL1CJvb0JV9GJMTZonfjJ2vK9MxqE&s=72&u=f7e737f3457a7807a814388826453f2f0e6c8f65&v=4" width="24" alt="Avatar of tpluscode"/> tpluscode
+				<img src="https://private-avatars.githubusercontent.com/u/588128?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91LzU4ODEyOCJ9.1naz1jEksasYYiUlMzsir8YcAqyKZ3oxnYQp7yzNJQc&s=72&u=f7e737f3457a7807a814388826453f2f0e6c8f65&v=4" width="24" alt="Avatar of tpluscode"/> tpluscode
 			</a><br/>
 			Tomasz Pluskiewicz
 		</td>
@@ -856,7 +856,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>54</td>
 		<td>
 			<a target="_blank" href="https://github.com/thetarnav">
-				<img src="https://private-avatars.githubusercontent.com/u/24491503?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2ODAsIm5iZiI6MTczNDU3MzQ4MCwicGF0aCI6Ii91LzI0NDkxNTAzIn0.sGcEyW9mhzwEckfVU3tlD4D4OPKH_gVUhwQlaKWG9yQ&s=72&u=44b02fe69a21d9bc205497a25d3a25d1e4e1f607&v=4" width="24" alt="Avatar of thetarnav"/> thetarnav
+				<img src="https://private-avatars.githubusercontent.com/u/24491503?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1ODAsIm5iZiI6MTczNDYxMDM4MCwicGF0aCI6Ii91LzI0NDkxNTAzIn0.OEQlymwaMIu_ccprqybV6qwyfVh3X88VEaorQ1fjDqU&s=72&u=44b02fe69a21d9bc205497a25d3a25d1e4e1f607&v=4" width="24" alt="Avatar of thetarnav"/> thetarnav
 			</a><br/>
 			Damian Tarnawski
 		</td>
@@ -870,7 +870,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>55</td>
 		<td>
 			<a target="_blank" href="https://github.com/wojciech-kulik">
-				<img src="https://private-avatars.githubusercontent.com/u/3128467?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91LzMxMjg0NjcifQ.dfESHrXZmpRQsvDQqYkbdyNVLEYpNzsS_qW2dQGoBEs&s=72&u=c045b49c7699eb53604285ca3d4129b9c2736986&v=4" width="24" alt="Avatar of wojciech-kulik"/> wojciech-kulik
+				<img src="https://private-avatars.githubusercontent.com/u/3128467?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91LzMxMjg0NjcifQ.64rFhnUTmtU_fbodjxsUbfoUBfulcIh9hjC4A7PQVT0&s=72&u=c045b49c7699eb53604285ca3d4129b9c2736986&v=4" width="24" alt="Avatar of wojciech-kulik"/> wojciech-kulik
 			</a><br/>
 			Wojciech Kulik
 		</td>
@@ -878,13 +878,13 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/kulik_wojciech">kulik_wojciech</a></td>
 		<td>Wrocaw Poland</td>
 		<td>584</td>
-		<td>2450</td>
+		<td>2451</td>
 	</tr>
 	<tr>
 		<td>56</td>
 		<td>
 			<a target="_blank" href="https://github.com/damianlegawiec">
-				<img src="https://private-avatars.githubusercontent.com/u/55154?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4NjAsIm5iZiI6MTczNDU3MzY2MCwicGF0aCI6Ii91LzU1MTU0In0.drQQP8egOmJNnzzb5aaAHJjklyKf07-JMhZRE0IKpxg&s=72&u=3ed4482def17090d2e6c51e4259328382a552479&v=4" width="24" alt="Avatar of damianlegawiec"/> damianlegawiec
+				<img src="https://private-avatars.githubusercontent.com/u/55154?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3NjAsIm5iZiI6MTczNDYxMDU2MCwicGF0aCI6Ii91LzU1MTU0In0.3Emd2k4qmR0UINB7E2tyvCM5za3h2rs1MGXiIR9-Rzk&s=72&u=3ed4482def17090d2e6c51e4259328382a552479&v=4" width="24" alt="Avatar of damianlegawiec"/> damianlegawiec
 			</a><br/>
 			Damian Legawiec
 		</td>
@@ -898,7 +898,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>57</td>
 		<td>
 			<a target="_blank" href="https://github.com/mostlyobvious">
-				<img src="https://private-avatars.githubusercontent.com/u/116740?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ3NDAsIm5iZiI6MTczNDU3MzU0MCwicGF0aCI6Ii91LzExNjc0MCJ9.mh2riCOz2cYR2rCGj85QN08v0Cjd9WpNoelvTB543gk&s=72&u=b470563eb1d00e6534273d60e0b833e9883e8cc3&v=4" width="24" alt="Avatar of mostlyobvious"/> mostlyobvious
+				<img src="https://private-avatars.githubusercontent.com/u/116740?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE2NDAsIm5iZiI6MTczNDYxMDQ0MCwicGF0aCI6Ii91LzExNjc0MCJ9.IHV42OO3pc6GJgRCtM__uYJ9ogErwnp67oNhVAVTLPY&s=72&u=b470563eb1d00e6534273d60e0b833e9883e8cc3&v=4" width="24" alt="Avatar of mostlyobvious"/> mostlyobvious
 			</a><br/>
 			Pawe Pacana
 		</td>
@@ -906,13 +906,13 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/mostlyobvious">mostlyobvious</a></td>
 		<td>Wrocaw PL</td>
 		<td>432</td>
-		<td>2391</td>
+		<td>2403</td>
 	</tr>
 	<tr>
 		<td>58</td>
 		<td>
 			<a target="_blank" href="https://github.com/orestesgaolin">
-				<img src="https://private-avatars.githubusercontent.com/u/16854239?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ1NjAsIm5iZiI6MTczNDU3MzM2MCwicGF0aCI6Ii91LzE2ODU0MjM5In0.NRyDjL2vua-G2ccxRC39cq8C8oQGsOnBaIUSiutuNes&s=72&u=b30dc32c159dd24bad6b7a92261660ca794477ff&v=4" width="24" alt="Avatar of orestesgaolin"/> orestesgaolin
+				<img src="https://private-avatars.githubusercontent.com/u/16854239?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE0NjAsIm5iZiI6MTczNDYxMDI2MCwicGF0aCI6Ii91LzE2ODU0MjM5In0.6PPlaV0PBDi7_oJHia3CfPjusHdvW93Wo5qw8lZlvtA&s=72&u=b30dc32c159dd24bad6b7a92261660ca794477ff&v=4" width="24" alt="Avatar of orestesgaolin"/> orestesgaolin
 			</a><br/>
 			Dominik Roszkowski
 		</td>
@@ -926,7 +926,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>59</td>
 		<td>
 			<a target="_blank" href="https://github.com/krizzu">
-				<img src="https://private-avatars.githubusercontent.com/u/6444719?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUzNDAsIm5iZiI6MTczNDU3NDE0MCwicGF0aCI6Ii91LzY0NDQ3MTkifQ.BF8QetpgOX8rB5vB_s_KS8OQEmoKuFmdXdY3lhRFcaA&s=72&u=9ef7a292b2f9117b36752dc23ce6a6461cf69e6d&v=4" width="24" alt="Avatar of krizzu"/> krizzu
+				<img src="https://private-avatars.githubusercontent.com/u/6444719?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTEzNDAsIm5iZiI6MTczNDYxMDE0MCwicGF0aCI6Ii91LzY0NDQ3MTkifQ.f1XEwb1Mm773S3Je510N1v_jrTIggRmBrGF-tOIXRUQ&s=72&u=9ef7a292b2f9117b36752dc23ce6a6461cf69e6d&v=4" width="24" alt="Avatar of krizzu"/> krizzu
 			</a><br/>
 			Krzysztof Borowy
 		</td>
@@ -934,13 +934,13 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Wrocaw Poland</td>
 		<td>139</td>
-		<td>2355</td>
+		<td>2359</td>
 	</tr>
 	<tr>
 		<td>60</td>
 		<td>
 			<a target="_blank" href="https://github.com/bswck">
-				<img src="https://private-avatars.githubusercontent.com/u/64036239?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5ODAsIm5iZiI6MTczNDU3Mzc4MCwicGF0aCI6Ii91LzY0MDM2MjM5In0.i67n8_alx0-4PSe9pdqtUkvD6ZourYXqrNEM3819KWc&s=72&u=121c0de90ebe3fbc21003727235cebf6fe725c8e&v=4" width="24" alt="Avatar of bswck"/> bswck
+				<img src="https://private-avatars.githubusercontent.com/u/64036239?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4ODAsIm5iZiI6MTczNDYxMDY4MCwicGF0aCI6Ii91LzY0MDM2MjM5In0.6hbk20Dfn3JUmY1tSxF4FnMdhwuJjaPDLRJ1_ghn9-c&s=72&u=121c0de90ebe3fbc21003727235cebf6fe725c8e&v=4" width="24" alt="Avatar of bswck"/> bswck
 			</a><br/>
 			Bartosz Sawecki
 		</td>
@@ -954,35 +954,35 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>61</td>
 		<td>
 			<a target="_blank" href="https://github.com/sergeyklay">
-				<img src="https://private-avatars.githubusercontent.com/u/1256298?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4NjAsIm5iZiI6MTczNDU3MzY2MCwicGF0aCI6Ii91LzEyNTYyOTgifQ.ND5WMPctkzMdHuURZhOVJkjDWFkUYVyGnpC-ZqUTvGI&s=72&u=4089f43c6d87996e54dae92b3bdd155c1243c02e&v=4" width="24" alt="Avatar of sergeyklay"/> sergeyklay
+				<img src="https://private-avatars.githubusercontent.com/u/1256298?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3NjAsIm5iZiI6MTczNDYxMDU2MCwicGF0aCI6Ii91LzEyNTYyOTgifQ.aj1dFIz3WMvc9YIKzwEs2vvVs4vlqshtNORyaacGKhg&s=72&u=4089f43c6d87996e54dae92b3bdd155c1243c02e&v=4" width="24" alt="Avatar of sergeyklay"/> sergeyklay
 			</a><br/>
 			Serghei Iakovlev
 		</td>
 		<td>@airslateinc @airslateoss  </td>
 		<td>No Twitter Username</td>
 		<td>Wrocaw Poland</td>
-		<td>1409</td>
-		<td>2300</td>
+		<td>1410</td>
+		<td>2303</td>
 	</tr>
 	<tr>
 		<td>62</td>
 		<td>
 			<a target="_blank" href="https://github.com/Andarist">
-				<img src="https://private-avatars.githubusercontent.com/u/9800850?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUwNDAsIm5iZiI6MTczNDU3Mzg0MCwicGF0aCI6Ii91Lzk4MDA4NTAifQ.Sb5hkRlj5PhjjKNY0XPx7vR7sK1c-UFn9GVFhr0E9do&s=72&u=e3f1122575d08330d6a438221c3610b5728bd6d4&v=4" width="24" alt="Avatar of Andarist"/> Andarist
+				<img src="https://private-avatars.githubusercontent.com/u/9800850?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE5NDAsIm5iZiI6MTczNDYxMDc0MCwicGF0aCI6Ii91Lzk4MDA4NTAifQ.9KyVROPXKp15HkbyEXPxijb91Llj990jQasLxo8gBHs&s=72&u=e3f1122575d08330d6a438221c3610b5728bd6d4&v=4" width="24" alt="Avatar of Andarist"/> Andarist
 			</a><br/>
 			Mateusz Burzyski
 		</td>
 		<td>@replayio </td>
 		<td><a target="_blank" href="https://twitter.com/AndaristRake">AndaristRake</a></td>
 		<td>Wrocaw Poland</td>
-		<td>1985</td>
-		<td>2279</td>
+		<td>1988</td>
+		<td>2282</td>
 	</tr>
 	<tr>
 		<td>63</td>
 		<td>
 			<a target="_blank" href="https://github.com/koral--">
-				<img src="https://private-avatars.githubusercontent.com/u/3340954?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ0NDAsIm5iZiI6MTczNDU3MzI0MCwicGF0aCI6Ii91LzMzNDA5NTQifQ.LrCGWQv52Mb-LP2X5S0b7TlPwXZrLN5vgwQQCLk12a0&s=72&u=ecdfff46c4b5e30dd824f260c77742e0b985b2ec&v=4" width="24" alt="Avatar of koral--"/> koral--
+				<img src="https://private-avatars.githubusercontent.com/u/3340954?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTEzNDAsIm5iZiI6MTczNDYxMDE0MCwicGF0aCI6Ii91LzMzNDA5NTQifQ._qzH8XLW8LJZa7asxc23L-ewuBn1Sx3bRsPsX3ZlAsg&s=72&u=ecdfff46c4b5e30dd824f260c77742e0b985b2ec&v=4" width="24" alt="Avatar of koral--"/> koral--
 			</a><br/>
 			Karol Wrtniak
 		</td>
@@ -990,27 +990,41 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/karol_wrotniak">karol_wrotniak</a></td>
 		<td>Wrocaw Poland</td>
 		<td>203</td>
-		<td>2269</td>
+		<td>2270</td>
 	</tr>
 	<tr>
 		<td>64</td>
 		<td>
 			<a target="_blank" href="https://github.com/blazejkustra">
-				<img src="https://private-avatars.githubusercontent.com/u/46095609?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU0MDAsIm5iZiI6MTczNDU3NDIwMCwicGF0aCI6Ii91LzQ2MDk1NjA5In0.adaAPltxAdHj70BaOjlko3GSqtRL6UTzVo-8tbCmk_Y&s=72&u=5b125572b8fb64ff0c2221d291985e5adc8eaf99&v=4" width="24" alt="Avatar of blazejkustra"/> blazejkustra
+				<img src="https://private-avatars.githubusercontent.com/u/46095609?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIzMDAsIm5iZiI6MTczNDYxMTEwMCwicGF0aCI6Ii91LzQ2MDk1NjA5In0.ZuJtTWO35gDi0q03RqfnTFvpyKizAV7RkIFuFgrssj8&s=72&u=5b125572b8fb64ff0c2221d291985e5adc8eaf99&v=4" width="24" alt="Avatar of blazejkustra"/> blazejkustra
 			</a><br/>
 			Baej Kustra
 		</td>
 		<td>Software Mansion </td>
 		<td>No Twitter Username</td>
 		<td>Krakw</td>
-		<td>1897</td>
-		<td>2230</td>
+		<td>1898</td>
+		<td>2231</td>
 	</tr>
 	<tr>
 		<td>65</td>
 		<td>
+			<a target="_blank" href="https://github.com/MichalZalecki">
+				<img src="https://private-avatars.githubusercontent.com/u/3136577?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTEyODAsIm5iZiI6MTczNDYxMDA4MCwicGF0aCI6Ii91LzMxMzY1NzcifQ.ZPJSCQVYirp4EED1EDcyo6McDK9-0cNExIvPx89JOk0&s=72&u=8764d51db128afe94c33cd842d81202dbdc06496&v=4" width="24" alt="Avatar of MichalZalecki"/> MichalZalecki
+			</a><br/>
+			Micha Zacki
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/MichalZalecki">MichalZalecki</a></td>
+		<td>Wrocaw Poland</td>
+		<td>1</td>
+		<td>2225</td>
+	</tr>
+	<tr>
+		<td>66</td>
+		<td>
 			<a target="_blank" href="https://github.com/veelenga">
-				<img src="https://private-avatars.githubusercontent.com/u/3624712?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUwNDAsIm5iZiI6MTczNDU3Mzg0MCwicGF0aCI6Ii91LzM2MjQ3MTIifQ.XvQr1EX8kMc7rlDkw85WuflkE7YeW0VBBMWBBPkkSvA&s=72&v=4" width="24" alt="Avatar of veelenga"/> veelenga
+				<img src="https://private-avatars.githubusercontent.com/u/3624712?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE5NDAsIm5iZiI6MTczNDYxMDc0MCwicGF0aCI6Ii91LzM2MjQ3MTIifQ.Yrfjz-QbPIl1tNtycWrTStJBBAuEfrH1zaYZaC-RAgk&s=72&v=4" width="24" alt="Avatar of veelenga"/> veelenga
 			</a><br/>
 			Vitalii Elenhaupt
 		</td>
@@ -1021,24 +1035,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>2220</td>
 	</tr>
 	<tr>
-		<td>66</td>
-		<td>
-			<a target="_blank" href="https://github.com/MichalZalecki">
-				<img src="https://private-avatars.githubusercontent.com/u/3136577?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQzODAsIm5iZiI6MTczNDU3MzE4MCwicGF0aCI6Ii91LzMxMzY1NzcifQ.nlVD54BlkXM8rCphULCls0OZWk-BDyCzPXdJ8jFMMpg&s=72&u=8764d51db128afe94c33cd842d81202dbdc06496&v=4" width="24" alt="Avatar of MichalZalecki"/> MichalZalecki
-			</a><br/>
-			Micha Zacki
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/MichalZalecki">MichalZalecki</a></td>
-		<td>Wrocaw Poland</td>
-		<td>1</td>
-		<td>2217</td>
-	</tr>
-	<tr>
 		<td>67</td>
 		<td>
 			<a target="_blank" href="https://github.com/pawlos">
-				<img src="https://private-avatars.githubusercontent.com/u/1296768?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4NjAsIm5iZiI6MTczNDU3MzY2MCwicGF0aCI6Ii91LzEyOTY3NjgifQ.2Av5andcwoBlUqkjglrEjVshZICG16X29pjK8csOWCo&s=72&v=4" width="24" alt="Avatar of pawlos"/> pawlos
+				<img src="https://private-avatars.githubusercontent.com/u/1296768?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3NjAsIm5iZiI6MTczNDYxMDU2MCwicGF0aCI6Ii91LzEyOTY3NjgifQ.AbcFdwDOgkItlQpjQataWSdKa4s23kIOMNTQ78T10A4&s=72&v=4" width="24" alt="Avatar of pawlos"/> pawlos
 			</a><br/>
 			Pawe ukasik
 		</td>
@@ -1046,13 +1046,13 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/pawel_lukasik">pawel_lukasik</a></td>
 		<td>Poland</td>
 		<td>469</td>
-		<td>2139</td>
+		<td>2148</td>
 	</tr>
 	<tr>
 		<td>68</td>
 		<td>
 			<a target="_blank" href="https://github.com/matkoniecz">
-				<img src="https://private-avatars.githubusercontent.com/u/899988?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUzNDAsIm5iZiI6MTczNDU3NDE0MCwicGF0aCI6Ii91Lzg5OTk4OCJ9.9EttwhbkTS4y3B-XUXuVDHH2hJbPPjrVKV-6Bo5UnpA&s=72&u=1a682cd39f51bb0224a52c7640a040c849b73ae8&v=4" width="24" alt="Avatar of matkoniecz"/> matkoniecz
+				<img src="https://private-avatars.githubusercontent.com/u/899988?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTEzNDAsIm5iZiI6MTczNDYxMDE0MCwicGF0aCI6Ii91Lzg5OTk4OCJ9.hVjNq7xWrA3tYWUL1YesO7j0HupITjFRJ8My8MXZ12w&s=72&u=1a682cd39f51bb0224a52c7640a040c849b73ae8&v=4" width="24" alt="Avatar of matkoniecz"/> matkoniecz
 			</a><br/>
 			Mateusz Konieczny
 		</td>
@@ -1066,7 +1066,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>69</td>
 		<td>
 			<a target="_blank" href="https://github.com/feimosi">
-				<img src="https://private-avatars.githubusercontent.com/u/5721520?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ1NjAsIm5iZiI6MTczNDU3MzM2MCwicGF0aCI6Ii91LzU3MjE1MjAifQ.CvFGaQYhkyy-YfR4ub_tCMyeMxcTiijoodKrOW5Ftj0&s=72&u=980ef674cffd81476dba966be8a520287e6fe8ff&v=4" width="24" alt="Avatar of feimosi"/> feimosi
+				<img src="https://private-avatars.githubusercontent.com/u/5721520?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE0NjAsIm5iZiI6MTczNDYxMDI2MCwicGF0aCI6Ii91LzU3MjE1MjAifQ.aHmYFJL2wG4jecDT3P-M8LmuaQ_MYk_ygyn6tv0dN08&s=72&u=980ef674cffd81476dba966be8a520287e6fe8ff&v=4" width="24" alt="Avatar of feimosi"/> feimosi
 			</a><br/>
 			Marek Grzybek
 		</td>
@@ -1080,7 +1080,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>70</td>
 		<td>
 			<a target="_blank" href="https://github.com/stared">
-				<img src="https://private-avatars.githubusercontent.com/u/1001610?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5ODAsIm5iZiI6MTczNDU3Mzc4MCwicGF0aCI6Ii91LzEwMDE2MTAifQ.FW3za14E2tQKzDK-p15k4tIGjNY6jjQvRLpLQ_mW5c4&s=72&u=9a664b05a9e0ec94cef8223198d72055a38d9e23&v=4" width="24" alt="Avatar of stared"/> stared
+				<img src="https://private-avatars.githubusercontent.com/u/1001610?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4ODAsIm5iZiI6MTczNDYxMDY4MCwicGF0aCI6Ii91LzEwMDE2MTAifQ.Ryn_VCHbWNkn6wDyHIvh0emHK3k09_W28tiqg_DNzYs&s=72&u=9a664b05a9e0ec94cef8223198d72055a38d9e23&v=4" width="24" alt="Avatar of stared"/> stared
 			</a><br/>
 			Piotr Migda
 		</td>
@@ -1088,13 +1088,13 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/pmigdal">pmigdal</a></td>
 		<td>Warsaw Poland</td>
 		<td>205</td>
-		<td>2117</td>
+		<td>2118</td>
 	</tr>
 	<tr>
 		<td>71</td>
 		<td>
 			<a target="_blank" href="https://github.com/kamilmysliwiec">
-				<img src="https://private-avatars.githubusercontent.com/u/23244943?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4NjAsIm5iZiI6MTczNDU3MzY2MCwicGF0aCI6Ii91LzIzMjQ0OTQzIn0.FA0ZAmQ6RPwNw0jzUjrKkkNSDxevswoZbg2oCb8iIYQ&s=72&u=6b1bf39c56f0f912e44b4e1dd2e23d3c16ef363e&v=4" width="24" alt="Avatar of kamilmysliwiec"/> kamilmysliwiec
+				<img src="https://private-avatars.githubusercontent.com/u/23244943?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3NjAsIm5iZiI6MTczNDYxMDU2MCwicGF0aCI6Ii91LzIzMjQ0OTQzIn0.d_TZIrrfEOHN6bH33LuK7f-whCm2QGKbAW9Wy-aR7_0&s=72&u=6b1bf39c56f0f912e44b4e1dd2e23d3c16ef363e&v=4" width="24" alt="Avatar of kamilmysliwiec"/> kamilmysliwiec
 			</a><br/>
 			Kamil Mysliwiec
 		</td>
@@ -1108,7 +1108,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>72</td>
 		<td>
 			<a target="_blank" href="https://github.com/arturbien">
-				<img src="https://private-avatars.githubusercontent.com/u/28541613?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2MjAsIm5iZiI6MTczNDU3MzQyMCwicGF0aCI6Ii91LzI4NTQxNjEzIn0.BHfGao45eDpFfY3Q3ntTpJAq8XKThSIFdI8iwFuPVB4&s=72&u=9af10f9895cf814d272bd3594b1ec18160f878c4&v=4" width="24" alt="Avatar of arturbien"/> arturbien
+				<img src="https://private-avatars.githubusercontent.com/u/28541613?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1MjAsIm5iZiI6MTczNDYxMDMyMCwicGF0aCI6Ii91LzI4NTQxNjEzIn0.i0Cpn6ROWs0sAH45RhJFJPr_st0FlIT2TM1wf61y_kQ&s=72&u=9af10f9895cf814d272bd3594b1ec18160f878c4&v=4" width="24" alt="Avatar of arturbien"/> arturbien
 			</a><br/>
 			Artur Bie
 		</td>
@@ -1122,21 +1122,21 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>73</td>
 		<td>
 			<a target="_blank" href="https://github.com/szdziedzic">
-				<img src="https://private-avatars.githubusercontent.com/u/55145344?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyODAsIm5iZiI6MTczNDU3NDA4MCwicGF0aCI6Ii91LzU1MTQ1MzQ0In0.iH8Jt0vYjUulRo2mX6m4NcvU3rfTjat2JEOb9Kg_SX0&s=72&u=8d95f2c9ebd04f3cdf4c20be1faf968f16ec6ae8&v=4" width="24" alt="Avatar of szdziedzic"/> szdziedzic
+				<img src="https://private-avatars.githubusercontent.com/u/55145344?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxODAsIm5iZiI6MTczNDYxMDk4MCwicGF0aCI6Ii91LzU1MTQ1MzQ0In0.Ada-HpSBeqnnb5ZhK-7WZ5Zqs8cPbMYk4u_4bWsKElw&s=72&u=8d95f2c9ebd04f3cdf4c20be1faf968f16ec6ae8&v=4" width="24" alt="Avatar of szdziedzic"/> szdziedzic
 			</a><br/>
 			Szymon Dziedzic
 		</td>
 		<td>@softwaremansion @expo </td>
 		<td><a target="_blank" href="https://twitter.com/szdziedzic">szdziedzic</a></td>
 		<td>Krakw Poland</td>
-		<td>949</td>
-		<td>2072</td>
+		<td>951</td>
+		<td>2074</td>
 	</tr>
 	<tr>
 		<td>74</td>
 		<td>
 			<a target="_blank" href="https://github.com/mthenw">
-				<img src="https://private-avatars.githubusercontent.com/u/455261?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ0NDAsIm5iZiI6MTczNDU3MzI0MCwicGF0aCI6Ii91LzQ1NTI2MSJ9.0_DhzEJlIG0F6oKs7Yo4n-8di5ZJGpqQwF05N8-1vn4&s=72&u=526589479e400bcbd57b4241d88acd1fd8d1396f&v=4" width="24" alt="Avatar of mthenw"/> mthenw
+				<img src="https://private-avatars.githubusercontent.com/u/455261?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTEzNDAsIm5iZiI6MTczNDYxMDE0MCwicGF0aCI6Ii91LzQ1NTI2MSJ9.VBFSjGKG2__KE-ANMRFEfFiEyOOSl7h5zHtocSBMppU&s=72&u=526589479e400bcbd57b4241d88acd1fd8d1396f&v=4" width="24" alt="Avatar of mthenw"/> mthenw
 			</a><br/>
 			Maciej Winnicki
 		</td>
@@ -1144,13 +1144,27 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/mthenw">mthenw</a></td>
 		<td>Pozna Poland</td>
 		<td>12</td>
-		<td>2061</td>
+		<td>2063</td>
 	</tr>
 	<tr>
 		<td>75</td>
 		<td>
+			<a target="_blank" href="https://github.com/michaljaz">
+				<img src="https://private-avatars.githubusercontent.com/u/26044292?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTI0MjAsIm5iZiI6MTczNDYxMTIyMCwicGF0aCI6Ii91LzI2MDQ0MjkyIn0.qHtknJ-GhDj-gvDRU_4VEMMiXn0A-ftRYt7HU8z4mlw&s=72&u=1bfe87286caf567d5a9145a3cad200af11bba03b&v=4" width="24" alt="Avatar of michaljaz"/> michaljaz
+			</a><br/>
+			Micha Jadyk
+		</td>
+		<td>@shopmcapp @essagames </td>
+		<td>No Twitter Username</td>
+		<td>Poland</td>
+		<td>252</td>
+		<td>2058</td>
+	</tr>
+	<tr>
+		<td>76</td>
+		<td>
 			<a target="_blank" href="https://github.com/Zaczero">
-				<img src="https://private-avatars.githubusercontent.com/u/10835147?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4NjAsIm5iZiI6MTczNDU3MzY2MCwicGF0aCI6Ii91LzEwODM1MTQ3In0.Oi_529Hn_ikgYjuCQ0gtu-PpmdhlzTPI0Ns3R-MJmtc&s=72&u=902d5692df5d97f323ebd357ef3589c08589f837&v=4" width="24" alt="Avatar of Zaczero"/> Zaczero
+				<img src="https://private-avatars.githubusercontent.com/u/10835147?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3NjAsIm5iZiI6MTczNDYxMDU2MCwicGF0aCI6Ii91LzEwODM1MTQ3In0.djV1lOz0JBLuJFNFmdIshAs3Y3FZIWeD7SrnPnnMgKg&s=72&u=902d5692df5d97f323ebd357ef3589c08589f837&v=4" width="24" alt="Avatar of Zaczero"/> Zaczero
 			</a><br/>
 			Kamil Monicz
 		</td>
@@ -1161,52 +1175,38 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>2056</td>
 	</tr>
 	<tr>
-		<td>76</td>
-		<td>
-			<a target="_blank" href="https://github.com/michaljaz">
-				<img src="https://private-avatars.githubusercontent.com/u/26044292?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU1MjAsIm5iZiI6MTczNDU3NDMyMCwicGF0aCI6Ii91LzI2MDQ0MjkyIn0.Tqr7yMv46JIesrUi0CHolgsZUfDDDAWgZdf3pe3Yxug&s=72&u=1bfe87286caf567d5a9145a3cad200af11bba03b&v=4" width="24" alt="Avatar of michaljaz"/> michaljaz
-			</a><br/>
-			Micha Jadyk
-		</td>
-		<td>@shopmcapp @essagames </td>
-		<td>No Twitter Username</td>
-		<td>Poland</td>
-		<td>252</td>
-		<td>2055</td>
-	</tr>
-	<tr>
 		<td>77</td>
 		<td>
 			<a target="_blank" href="https://github.com/masagrator">
-				<img src="https://private-avatars.githubusercontent.com/u/8557858?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2MjAsIm5iZiI6MTczNDU3MzQyMCwicGF0aCI6Ii91Lzg1NTc4NTgifQ.VZ2lVjv7Ea27C1yIRoQUrCSAjNVgauxReDzcLbRc46k&s=72&u=5805b254ea6e5af12df21b61a591830e3dbcadb5&v=4" width="24" alt="Avatar of masagrator"/> masagrator
+				<img src="https://private-avatars.githubusercontent.com/u/8557858?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1MjAsIm5iZiI6MTczNDYxMDMyMCwicGF0aCI6Ii91Lzg1NTc4NTgifQ.0ubk8GkUkVq-_CPTcB-jAHAQb1c_awFniif74dGONuQ&s=72&u=5805b254ea6e5af12df21b61a591830e3dbcadb5&v=4" width="24" alt="Avatar of masagrator"/> masagrator
 			</a><br/>
 			MasaGratoR
 		</td>
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/masagratordev">masagratordev</a></td>
 		<td>Poland</td>
-		<td>1968</td>
-		<td>2028</td>
+		<td>1973</td>
+		<td>2033</td>
 	</tr>
 	<tr>
 		<td>78</td>
 		<td>
 			<a target="_blank" href="https://github.com/adamziel">
-				<img src="https://private-avatars.githubusercontent.com/u/205419?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ1NjAsIm5iZiI6MTczNDU3MzM2MCwicGF0aCI6Ii91LzIwNTQxOSJ9.C09Yc6BiyONLon3sCqWssOR8GAvn6fRVkkxb8ZgGfJ0&s=72&u=d9d6f0d38339ad233258c4891e227219ccb7c3b4&v=4" width="24" alt="Avatar of adamziel"/> adamziel
+				<img src="https://private-avatars.githubusercontent.com/u/205419?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE0NjAsIm5iZiI6MTczNDYxMDI2MCwicGF0aCI6Ii91LzIwNTQxOSJ9.vH9PsTah9ezMhLB_Tb1V4-hQWIzXyIW5xSoiE3XNds8&s=72&u=d9d6f0d38339ad233258c4891e227219ccb7c3b4&v=4" width="24" alt="Avatar of adamziel"/> adamziel
 			</a><br/>
 			Adam Zieliski
 		</td>
 		<td>Automattic </td>
 		<td><a target="_blank" href="https://twitter.com/adamzielin">adamzielin</a></td>
 		<td>Wrocaw Poland</td>
-		<td>1968</td>
-		<td>2028</td>
+		<td>1969</td>
+		<td>2029</td>
 	</tr>
 	<tr>
 		<td>79</td>
 		<td>
 			<a target="_blank" href="https://github.com/dgafka">
-				<img src="https://private-avatars.githubusercontent.com/u/6060791?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxMDAsIm5iZiI6MTczNDU3MzkwMCwicGF0aCI6Ii91LzYwNjA3OTEifQ.gBSQ9jLhg1GOyoMA1fywuZUEwgQRexYQKm4sTZM3vds&s=72&u=b1d2c7f9da01d2a6701c1d1beb2fb8a0ed754a0f&v=4" width="24" alt="Avatar of dgafka"/> dgafka
+				<img src="https://private-avatars.githubusercontent.com/u/6060791?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwMDAsIm5iZiI6MTczNDYxMDgwMCwicGF0aCI6Ii91LzYwNjA3OTEifQ.ANDd8940J2t18LWJclnlqeTVJgI0Tx7KFYgnt91HXe4&s=72&u=b1d2c7f9da01d2a6701c1d1beb2fb8a0ed754a0f&v=4" width="24" alt="Avatar of dgafka"/> dgafka
 			</a><br/>
 			Dariusz Gafka
 		</td>
@@ -1220,7 +1220,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>80</td>
 		<td>
 			<a target="_blank" href="https://github.com/ka8725">
-				<img src="https://private-avatars.githubusercontent.com/u/243846?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUzNDAsIm5iZiI6MTczNDU3NDE0MCwicGF0aCI6Ii91LzI0Mzg0NiJ9.5eKbOAj4y51cGFkRNuV8U0yv9Ye0kW8T2CjMu5scfTU&s=72&u=37873319a3eb7917589e0c4110bba21fc479e319&v=4" width="24" alt="Avatar of ka8725"/> ka8725
+				<img src="https://private-avatars.githubusercontent.com/u/243846?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIyNDAsIm5iZiI6MTczNDYxMTA0MCwicGF0aCI6Ii91LzI0Mzg0NiJ9.IsPfyHruLmOlXyduFVIv_8mWohkZrxzHXqAxVa4a4nU&s=72&u=37873319a3eb7917589e0c4110bba21fc479e319&v=4" width="24" alt="Avatar of ka8725"/> ka8725
 			</a><br/>
 			Andrei Kaleshka
 		</td>
@@ -1228,27 +1228,27 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/ka8725">ka8725</a></td>
 		<td>WarsawPoland</td>
 		<td>281</td>
-		<td>2001</td>
+		<td>2004</td>
 	</tr>
 	<tr>
 		<td>81</td>
 		<td>
 			<a target="_blank" href="https://github.com/krzysztofzuraw">
-				<img src="https://private-avatars.githubusercontent.com/u/9116238?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxMDAsIm5iZiI6MTczNDU3MzkwMCwicGF0aCI6Ii91LzkxMTYyMzgifQ.-i_TwJoKiVN4H0KjmSibWXwbD-G5v09PaUrX_AFxEwI&s=72&u=2e45d5d4a6454eed945ca8a296536d85f725b8f0&v=4" width="24" alt="Avatar of krzysztofzuraw"/> krzysztofzuraw
+				<img src="https://private-avatars.githubusercontent.com/u/9116238?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwMDAsIm5iZiI6MTczNDYxMDgwMCwicGF0aCI6Ii91LzkxMTYyMzgifQ.szBPfYuKe8YDY9_pD9OYy0NAvBeLcAxkov2CjzEckB8&s=72&u=2e45d5d4a6454eed945ca8a296536d85f725b8f0&v=4" width="24" alt="Avatar of krzysztofzuraw"/> krzysztofzuraw
 			</a><br/>
 			Krzysztof uraw
 		</td>
 		<td>@saleor </td>
 		<td><a target="_blank" href="https://twitter.com/krzysztof_zuraw">krzysztof_zuraw</a></td>
 		<td>Wrocaw</td>
-		<td>1198</td>
-		<td>1995</td>
+		<td>1201</td>
+		<td>2000</td>
 	</tr>
 	<tr>
 		<td>82</td>
 		<td>
 			<a target="_blank" href="https://github.com/baransu">
-				<img src="https://private-avatars.githubusercontent.com/u/9558691?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU0MDAsIm5iZiI6MTczNDU3NDIwMCwicGF0aCI6Ii91Lzk1NTg2OTEifQ.hL7v-rrDNC3YnpvjRQrwlucXiGIL_Iwc7rJjW9Mx-_U&s=72&u=3cdf0603835bcfe4469982c63eda1846f0a4f7d7&v=4" width="24" alt="Avatar of baransu"/> baransu
+				<img src="https://private-avatars.githubusercontent.com/u/9558691?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIzMDAsIm5iZiI6MTczNDYxMTEwMCwicGF0aCI6Ii91Lzk1NTg2OTEifQ.Ngo7zBKcjK7SH7LN0O1ZrhPPJprJUZBibZoLTkYNFyw&s=72&u=3cdf0603835bcfe4469982c63eda1846f0a4f7d7&v=4" width="24" alt="Avatar of baransu"/> baransu
 			</a><br/>
 			Tomasz Cichocinski
 		</td>
@@ -1262,7 +1262,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>83</td>
 		<td>
 			<a target="_blank" href="https://github.com/kamilogorek">
-				<img src="https://private-avatars.githubusercontent.com/u/1523305?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91LzE1MjMzMDUifQ.XSAwEuSYzuy-EmG7yFAL6bC4OcdlP7BpvxoiemVuAfk&s=72&u=010169979c66d4fa2d3b533c3c9979e805158c45&v=4" width="24" alt="Avatar of kamilogorek"/> kamilogorek
+				<img src="https://private-avatars.githubusercontent.com/u/1523305?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91LzE1MjMzMDUifQ.OKWviXeMknuLOo8pBuKhH-l2GxPR7F0MWhf9_ufUlMc&s=72&u=010169979c66d4fa2d3b533c3c9979e805158c45&v=4" width="24" alt="Avatar of kamilogorek"/> kamilogorek
 			</a><br/>
 			Kamil Ogrek
 		</td>
@@ -1270,13 +1270,13 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/kamilogorek">kamilogorek</a></td>
 		<td>Krakw Poland</td>
 		<td>305</td>
-		<td>1975</td>
+		<td>1981</td>
 	</tr>
 	<tr>
 		<td>84</td>
 		<td>
 			<a target="_blank" href="https://github.com/drymek">
-				<img src="https://private-avatars.githubusercontent.com/u/492240?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyODAsIm5iZiI6MTczNDU3NDA4MCwicGF0aCI6Ii91LzQ5MjI0MCJ9.3SdZRvybx4qAFZjIIdEAbLrcYHOTzrOOwv9yz2Hv0Kg&s=72&v=4" width="24" alt="Avatar of drymek"/> drymek
+				<img src="https://private-avatars.githubusercontent.com/u/492240?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxODAsIm5iZiI6MTczNDYxMDk4MCwicGF0aCI6Ii91LzQ5MjI0MCJ9.amTagTaidXFSAMKa_sPxv8Md8ZI49q2dNbvy43NLgg4&s=72&v=4" width="24" alt="Avatar of drymek"/> drymek
 			</a><br/>
 			Marcin Dryka
 		</td>
@@ -1284,13 +1284,13 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Gliwice Poland</td>
 		<td>1</td>
-		<td>1973</td>
+		<td>1974</td>
 	</tr>
 	<tr>
 		<td>85</td>
 		<td>
 			<a target="_blank" href="https://github.com/morgoth">
-				<img src="https://private-avatars.githubusercontent.com/u/10766?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2MjAsIm5iZiI6MTczNDU3MzQyMCwicGF0aCI6Ii91LzEwNzY2In0.lEjCucyBxaxL61Sghbc9Vj5cZ7W6ZAVfsW5QT1k1uOc&s=72&v=4" width="24" alt="Avatar of morgoth"/> morgoth
+				<img src="https://private-avatars.githubusercontent.com/u/10766?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1MjAsIm5iZiI6MTczNDYxMDMyMCwicGF0aCI6Ii91LzEwNzY2In0.E9bthmt_yy4lne86XyGGdNbhu1sRFuRKJqGk3O4kBsY&s=72&v=4" width="24" alt="Avatar of morgoth"/> morgoth
 			</a><br/>
 			Wojciech Wntrzak
 		</td>
@@ -1298,13 +1298,13 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/morgoth85">morgoth85</a></td>
 		<td>Gliwice Poland</td>
 		<td>121</td>
-		<td>1971</td>
+		<td>1973</td>
 	</tr>
 	<tr>
 		<td>86</td>
 		<td>
 			<a target="_blank" href="https://github.com/oskardudycz">
-				<img src="https://private-avatars.githubusercontent.com/u/5562528?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ0NDAsIm5iZiI6MTczNDU3MzI0MCwicGF0aCI6Ii91LzU1NjI1MjgifQ.JLmW74VYDgyM8syQWojV5jS_rl7eUCJa7g_OrM2GBjE&s=72&u=decd12aa824a26a72a9685b64ba5612823d0d0c1&v=4" width="24" alt="Avatar of oskardudycz"/> oskardudycz
+				<img src="https://private-avatars.githubusercontent.com/u/5562528?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTEzNDAsIm5iZiI6MTczNDYxMDE0MCwicGF0aCI6Ii91LzU1NjI1MjgifQ.sncwRiCuwRnd73Nu1EiIWTVS9ENq20mf1SoCwz_Sm6s&s=72&u=decd12aa824a26a72a9685b64ba5612823d0d0c1&v=4" width="24" alt="Avatar of oskardudycz"/> oskardudycz
 			</a><br/>
 			Oskar Dudycz
 		</td>
@@ -1318,7 +1318,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>87</td>
 		<td>
 			<a target="_blank" href="https://github.com/dzikoysk">
-				<img src="https://private-avatars.githubusercontent.com/u/4235722?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ3NDAsIm5iZiI6MTczNDU3MzU0MCwicGF0aCI6Ii91LzQyMzU3MjIifQ.5Giuu6JdxAU2z13jg6PiKl7A5NHLKcA4G1CxNvHe6PU&s=72&u=3a237cb01406c26c448c9911f8a69824dffb3166&v=4" width="24" alt="Avatar of dzikoysk"/> dzikoysk
+				<img src="https://private-avatars.githubusercontent.com/u/4235722?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE2NDAsIm5iZiI6MTczNDYxMDQ0MCwicGF0aCI6Ii91LzQyMzU3MjIifQ.DYDkHL32IK25jZ-wo01OGMlT1XNFQJjh0CydFb5_5Ao&s=72&u=3a237cb01406c26c448c9911f8a69824dffb3166&v=4" width="24" alt="Avatar of dzikoysk"/> dzikoysk
 			</a><br/>
 			No Name
 		</td>
@@ -1332,21 +1332,21 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>88</td>
 		<td>
 			<a target="_blank" href="https://github.com/mafiesto4">
-				<img src="https://private-avatars.githubusercontent.com/u/3464853?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91LzM0NjQ4NTMifQ.O_F7JMNZV88MBapCt3DKPpIdtzCWPJPC0OfU7gshRgc&s=72&u=fb9ea46be0f25821fd9132332bed81111f1d814b&v=4" width="24" alt="Avatar of mafiesto4"/> mafiesto4
+				<img src="https://private-avatars.githubusercontent.com/u/3464853?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91LzM0NjQ4NTMifQ.RS1dyk9-fzQYUx-J-OKX9Vpot_TjMONB7TFoDUy3_5E&s=72&u=fb9ea46be0f25821fd9132332bed81111f1d814b&v=4" width="24" alt="Avatar of mafiesto4"/> mafiesto4
 			</a><br/>
 			Wojciech Figat
 		</td>
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/wfigat">wfigat</a></td>
 		<td>Poland</td>
-		<td>1917</td>
-		<td>1917</td>
+		<td>1919</td>
+		<td>1919</td>
 	</tr>
 	<tr>
 		<td>89</td>
 		<td>
 			<a target="_blank" href="https://github.com/piotrplenik">
-				<img src="https://private-avatars.githubusercontent.com/u/674766?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxMDAsIm5iZiI6MTczNDU3MzkwMCwicGF0aCI6Ii91LzY3NDc2NiJ9.S9VlvGAuWyc5aw7pHDEwim6YwUso5OBVkm6iJgH26pA&s=72&u=a32a6a1bb09ab8567781e43ff24ef26ec82e3aeb&v=4" width="24" alt="Avatar of piotrplenik"/> piotrplenik
+				<img src="https://private-avatars.githubusercontent.com/u/674766?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwMDAsIm5iZiI6MTczNDYxMDgwMCwicGF0aCI6Ii91LzY3NDc2NiJ9.dqQCbeJaQt0h5ymAy-Tjif4ABxQkdR01vjWo7tiICtk&s=72&u=a32a6a1bb09ab8567781e43ff24ef26ec82e3aeb&v=4" width="24" alt="Avatar of piotrplenik"/> piotrplenik
 			</a><br/>
 			Piotr Plenik
 		</td>
@@ -1354,13 +1354,13 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Warsaw</td>
 		<td>6</td>
-		<td>1905</td>
+		<td>1908</td>
 	</tr>
 	<tr>
 		<td>90</td>
 		<td>
 			<a target="_blank" href="https://github.com/sitek94">
-				<img src="https://private-avatars.githubusercontent.com/u/58401630?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUwNDAsIm5iZiI6MTczNDU3Mzg0MCwicGF0aCI6Ii91LzU4NDAxNjMwIn0.NB0ydsoCULOiruO0hxOZCDiY6ePjlvWVcCjMkYo_tdI&s=72&u=e2c27cddfcdf32a59f772e6904052a4f879bc81c&v=4" width="24" alt="Avatar of sitek94"/> sitek94
+				<img src="https://private-avatars.githubusercontent.com/u/58401630?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE5NDAsIm5iZiI6MTczNDYxMDc0MCwicGF0aCI6Ii91LzU4NDAxNjMwIn0.NaqlM508mki_spE-6Ljodsts1ESh0D-lGP-2kVcoD3c&s=72&u=e2c27cddfcdf32a59f772e6904052a4f879bc81c&v=4" width="24" alt="Avatar of sitek94"/> sitek94
 			</a><br/>
 			Maciek Sitkowski
 		</td>
@@ -1374,21 +1374,21 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>91</td>
 		<td>
 			<a target="_blank" href="https://github.com/piotrkulpinski">
-				<img src="https://private-avatars.githubusercontent.com/u/358412?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUzNDAsIm5iZiI6MTczNDU3NDE0MCwicGF0aCI6Ii91LzM1ODQxMiJ9.7ZwMkwM23mGLewYChgwVca0WIuFLGnSL9FWHw0o3wgY&s=72&v=4" width="24" alt="Avatar of piotrkulpinski"/> piotrkulpinski
+				<img src="https://private-avatars.githubusercontent.com/u/358412?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIyNDAsIm5iZiI6MTczNDYxMTA0MCwicGF0aCI6Ii91LzM1ODQxMiJ9.QdPC_XZh0ga8qbT52wDFWbSEXUbEbx8rxHCSJ-4DpPI&s=72&v=4" width="24" alt="Avatar of piotrkulpinski"/> piotrkulpinski
 			</a><br/>
 			Piotr Kulpinski
 		</td>
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/piotrkulpinski">piotrkulpinski</a></td>
 		<td>Krakow Poland</td>
-		<td>1219</td>
-		<td>1899</td>
+		<td>1220</td>
+		<td>1900</td>
 	</tr>
 	<tr>
 		<td>92</td>
 		<td>
 			<a target="_blank" href="https://github.com/mmstick">
-				<img src="https://private-avatars.githubusercontent.com/u/4143535?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQzMjAsIm5iZiI6MTczNDU3MzEyMCwicGF0aCI6Ii91LzQxNDM1MzUifQ.9bgRg4Sd49u5R5NyW3gFQvdzd7XUYWlw2GDsAbyLoJM&s=72&u=f7faaa207511dbf2440f62129eb985fa1f7bc4e6&v=4" width="24" alt="Avatar of mmstick"/> mmstick
+				<img src="https://private-avatars.githubusercontent.com/u/4143535?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTEyMjAsIm5iZiI6MTczNDYxMDAyMCwicGF0aCI6Ii91LzQxNDM1MzUifQ.wq-PalQtyYwDkBYJfm9V-cB18vfpcVnkrr8-ySfmdFU&s=72&u=f7faaa207511dbf2440f62129eb985fa1f7bc4e6&v=4" width="24" alt="Avatar of mmstick"/> mmstick
 			</a><br/>
 			Michael Murphy
 		</td>
@@ -1402,7 +1402,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>93</td>
 		<td>
 			<a target="_blank" href="https://github.com/nikitaeverywhere">
-				<img src="https://private-avatars.githubusercontent.com/u/4989256?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxMDAsIm5iZiI6MTczNDU3MzkwMCwicGF0aCI6Ii91LzQ5ODkyNTYifQ.j5RNSaXXXUm2VB2eqmawNV-y-Mjyrqw9FY_c4pk3p6A&s=72&u=2ad0cbc58d90493725130b9261a5f80c5b71f018&v=4" width="24" alt="Avatar of nikitaeverywhere"/> nikitaeverywhere
+				<img src="https://private-avatars.githubusercontent.com/u/4989256?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwMDAsIm5iZiI6MTczNDYxMDgwMCwicGF0aCI6Ii91LzQ5ODkyNTYifQ.eHXp596Nm0xKCdlEpIM8_eBHQv-L7kAGOi8CZq1rPo0&s=72&u=2ad0cbc58d90493725130b9261a5f80c5b71f018&v=4" width="24" alt="Avatar of nikitaeverywhere"/> nikitaeverywhere
 			</a><br/>
 			Nikita Savchenko
 		</td>
@@ -1416,7 +1416,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>94</td>
 		<td>
 			<a target="_blank" href="https://github.com/kubkon">
-				<img src="https://private-avatars.githubusercontent.com/u/1519747?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91LzE1MTk3NDcifQ.rZ5zTe8z8C4OWNgb7Ut-AccPv69lrXScJSMxnBq8VrA&s=72&u=242eb0dcd1841303f3f48919c2f5120d35900f50&v=4" width="24" alt="Avatar of kubkon"/> kubkon
+				<img src="https://private-avatars.githubusercontent.com/u/1519747?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91LzE1MTk3NDcifQ.H9MCDFVQ5lwgT6UacWDng-ArQisGkzsq9ylMPoBc8Jk&s=72&u=242eb0dcd1841303f3f48919c2f5120d35900f50&v=4" width="24" alt="Avatar of kubkon"/> kubkon
 			</a><br/>
 			Jakub Konka
 		</td>
@@ -1424,27 +1424,27 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Warsaw Poland</td>
 		<td>1702</td>
-		<td>1856</td>
+		<td>1861</td>
 	</tr>
 	<tr>
 		<td>95</td>
 		<td>
-			<a target="_blank" href="https://github.com/MarcinZiabek">
-				<img src="https://private-avatars.githubusercontent.com/u/9263853?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUwNDAsIm5iZiI6MTczNDU3Mzg0MCwicGF0aCI6Ii91LzkyNjM4NTMifQ.khTvne4Vt0oe_Mm7zW6aRrMGBf3hkZF4QIilGWm4pnc&s=72&u=e53078d905cd6b811abd567ec9803c9dc6989172&v=4" width="24" alt="Avatar of MarcinZiabek"/> MarcinZiabek
+			<a target="_blank" href="https://github.com/lukaszklis">
+				<img src="https://private-avatars.githubusercontent.com/u/11782?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4MjAsIm5iZiI6MTczNDYxMDYyMCwicGF0aCI6Ii91LzExNzgyIn0.E6bimKKOjDya5oTbbGYledUhvsrNC7woodbFSZSUFmY&s=72&u=00fc3a127e999a2ceba8e225bc11716ae7b47a9b&v=4" width="24" alt="Avatar of lukaszklis"/> lukaszklis
 			</a><br/>
-			Marcin Zibek
+			ukasz Kli
 		</td>
-		<td>No Company</td>
+		<td>@surferseo </td>
 		<td>No Twitter Username</td>
-		<td>Krakw</td>
-		<td>998</td>
-		<td>1846</td>
+		<td>Wrocaw Poland</td>
+		<td>57</td>
+		<td>1859</td>
 	</tr>
 	<tr>
 		<td>96</td>
 		<td>
 			<a target="_blank" href="https://github.com/kmkolasinski">
-				<img src="https://private-avatars.githubusercontent.com/u/10145864?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxMDAsIm5iZiI6MTczNDU3MzkwMCwicGF0aCI6Ii91LzEwMTQ1ODY0In0.lsDHjbZC-Fx186tOTq0ULa1J5d1eM3WYgak3V3t91ZA&s=72&u=a579598142e0e28ac7e7a2c0482af75b1963a926&v=4" width="24" alt="Avatar of kmkolasinski"/> kmkolasinski
+				<img src="https://private-avatars.githubusercontent.com/u/10145864?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwMDAsIm5iZiI6MTczNDYxMDgwMCwicGF0aCI6Ii91LzEwMTQ1ODY0In0.zF7WnYmjuXR5FEX9reKhM7hLSYTTqZnVLZ1d2RDtIP0&s=72&u=a579598142e0e28ac7e7a2c0482af75b1963a926&v=4" width="24" alt="Avatar of kmkolasinski"/> kmkolasinski
 			</a><br/>
 			Krzysztof Kolasinski
 		</td>
@@ -1452,13 +1452,41 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Poland</td>
 		<td>116</td>
-		<td>1844</td>
+		<td>1848</td>
 	</tr>
 	<tr>
 		<td>97</td>
 		<td>
+			<a target="_blank" href="https://github.com/MarcinZiabek">
+				<img src="https://private-avatars.githubusercontent.com/u/9263853?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE5NDAsIm5iZiI6MTczNDYxMDc0MCwicGF0aCI6Ii91LzkyNjM4NTMifQ.N7kHnnEdYmEqIyKg04xW27BJutQ3sgml2mYZH00UcU8&s=72&u=e53078d905cd6b811abd567ec9803c9dc6989172&v=4" width="24" alt="Avatar of MarcinZiabek"/> MarcinZiabek
+			</a><br/>
+			Marcin Zibek
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Krakw</td>
+		<td>1000</td>
+		<td>1848</td>
+	</tr>
+	<tr>
+		<td>98</td>
+		<td>
+			<a target="_blank" href="https://github.com/tlakomy">
+				<img src="https://private-avatars.githubusercontent.com/u/16646517?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3NjAsIm5iZiI6MTczNDYxMDU2MCwicGF0aCI6Ii91LzE2NjQ2NTE3In0.O-koko5rd53Vj_pBlGZzRYafSO169G1DCO6KkUZabU0&s=72&u=ab62d97532c45a219fa5ac26ec529c1159b0bbc4&v=4" width="24" alt="Avatar of tlakomy"/> tlakomy
+			</a><br/>
+			Tomasz akomy
+		</td>
+		<td>Cloudash </td>
+		<td><a target="_blank" href="https://twitter.com/tlakomy">tlakomy</a></td>
+		<td>Pozna Poland</td>
+		<td>0</td>
+		<td>1818</td>
+	</tr>
+	<tr>
+		<td>99</td>
+		<td>
 			<a target="_blank" href="https://github.com/Milan-960">
-				<img src="https://private-avatars.githubusercontent.com/u/79278557?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2ODAsIm5iZiI6MTczNDU3MzQ4MCwicGF0aCI6Ii91Lzc5Mjc4NTU3In0.yfaJXDv2p3DOn_b8YIqIJrksDh9mnSh664RxlBA1byc&s=72&u=35c65dbc9d6d3f07d4c436bdc2303e26933acdf9&v=4" width="24" alt="Avatar of Milan-960"/> Milan-960
+				<img src="https://private-avatars.githubusercontent.com/u/79278557?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1ODAsIm5iZiI6MTczNDYxMDM4MCwicGF0aCI6Ii91Lzc5Mjc4NTU3In0._thPC7gtIs2o6jXvgQATPHpsUQOZd0E1sFcE1N6rnvM&s=72&u=35c65dbc9d6d3f07d4c436bdc2303e26933acdf9&v=4" width="24" alt="Avatar of Milan-960"/> Milan-960
 			</a><br/>
 			Milan Sachani
 		</td>
@@ -1469,38 +1497,24 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>1818</td>
 	</tr>
 	<tr>
-		<td>98</td>
-		<td>
-			<a target="_blank" href="https://github.com/tlakomy">
-				<img src="https://private-avatars.githubusercontent.com/u/16646517?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4NjAsIm5iZiI6MTczNDU3MzY2MCwicGF0aCI6Ii91LzE2NjQ2NTE3In0.q8dRo015HrYzhM34kZEhiLVVA4xhp-gPIawLktiMm6k&s=72&u=ab62d97532c45a219fa5ac26ec529c1159b0bbc4&v=4" width="24" alt="Avatar of tlakomy"/> tlakomy
-			</a><br/>
-			Tomasz akomy
-		</td>
-		<td>Cloudash </td>
-		<td><a target="_blank" href="https://twitter.com/tlakomy">tlakomy</a></td>
-		<td>Pozna Poland</td>
-		<td>0</td>
-		<td>1816</td>
-	</tr>
-	<tr>
-		<td>99</td>
+		<td>100</td>
 		<td>
 			<a target="_blank" href="https://github.com/KoBeWi">
-				<img src="https://private-avatars.githubusercontent.com/u/2223172?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5MjAsIm5iZiI6MTczNDU3MzcyMCwicGF0aCI6Ii91LzIyMjMxNzIifQ.w7VdAOAoWqsQz4iWHWhPzAtao2aiBLVyNsVQdF5HyrM&s=72&u=fc85633b469acb6e7baef4dba5171f19a2a4ff85&v=4" width="24" alt="Avatar of KoBeWi"/> KoBeWi
+				<img src="https://private-avatars.githubusercontent.com/u/2223172?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4MjAsIm5iZiI6MTczNDYxMDYyMCwicGF0aCI6Ii91LzIyMjMxNzIifQ.6Au36psuwaxXQClIMOGKcWqKO61JooNVW0_9q5EKUaY&s=72&u=fc85633b469acb6e7baef4dba5171f19a2a4ff85&v=4" width="24" alt="Avatar of KoBeWi"/> KoBeWi
 			</a><br/>
 			Tomasz Chabora
 		</td>
 		<td>Godot </td>
 		<td><a target="_blank" href="https://twitter.com/KoBeWi_">KoBeWi_</a></td>
 		<td>Poland</td>
-		<td>1815</td>
-		<td>1815</td>
+		<td>1816</td>
+		<td>1816</td>
 	</tr>
 	<tr>
-		<td>100</td>
+		<td>101</td>
 		<td>
 			<a target="_blank" href="https://github.com/mkljczk">
-				<img src="https://private-avatars.githubusercontent.com/u/21127288?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU0NjAsIm5iZiI6MTczNDU3NDI2MCwicGF0aCI6Ii91LzIxMTI3Mjg4In0.wk91p3inxVQSdJHAWu1fnFFDz1ldbrmmOnh2ozbdU6E&s=72&v=4" width="24" alt="Avatar of mkljczk"/> mkljczk
+				<img src="https://private-avatars.githubusercontent.com/u/21127288?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIzNjAsIm5iZiI6MTczNDYxMTE2MCwicGF0aCI6Ii91LzIxMTI3Mjg4In0.SwAWKjJgpM9uHcCBmX5UrQGhbvpaS3EWy2gAO_YTW7g&s=72&v=4" width="24" alt="Avatar of mkljczk"/> mkljczk
 			</a><br/>
 			No Name
 		</td>
@@ -1511,38 +1525,24 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>1803</td>
 	</tr>
 	<tr>
-		<td>101</td>
-		<td>
-			<a target="_blank" href="https://github.com/lukaszklis">
-				<img src="https://private-avatars.githubusercontent.com/u/11782?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5MjAsIm5iZiI6MTczNDU3MzcyMCwicGF0aCI6Ii91LzExNzgyIn0.BVFVybMIgcJMCrm9nJK3D6VgdqtnL_a3CTiFvNcl5Qo&s=72&u=00fc3a127e999a2ceba8e225bc11716ae7b47a9b&v=4" width="24" alt="Avatar of lukaszklis"/> lukaszklis
-			</a><br/>
-			ukasz Kli
-		</td>
-		<td>@surferseo </td>
-		<td>No Twitter Username</td>
-		<td>Wrocaw Poland</td>
-		<td>57</td>
-		<td>1802</td>
-	</tr>
-	<tr>
 		<td>102</td>
 		<td>
 			<a target="_blank" href="https://github.com/hasparus">
-				<img src="https://private-avatars.githubusercontent.com/u/15332326?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUwNDAsIm5iZiI6MTczNDU3Mzg0MCwicGF0aCI6Ii91LzE1MzMyMzI2In0.WpWZLNwO4qq6pbu-on2r9eKsh2pDhRnmJBV1L7vlumU&s=72&u=0ee15040eaa9b894bd007cf514d00b6d1bc67d60&v=4" width="24" alt="Avatar of hasparus"/> hasparus
+				<img src="https://private-avatars.githubusercontent.com/u/15332326?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE5NDAsIm5iZiI6MTczNDYxMDc0MCwicGF0aCI6Ii91LzE1MzMyMzI2In0.9kYaxd_th8KHbVsY13rQe31vpLldDZgfm70dZFPcFuQ&s=72&u=0ee15040eaa9b894bd007cf514d00b6d1bc67d60&v=4" width="24" alt="Avatar of hasparus"/> hasparus
 			</a><br/>
 			Piotr MonwidOlechnowicz
 		</td>
 		<td>@palestrash </td>
 		<td><a target="_blank" href="https://twitter.com/hasparus">hasparus</a></td>
 		<td>Wrocaw</td>
-		<td>467</td>
-		<td>1797</td>
+		<td>468</td>
+		<td>1799</td>
 	</tr>
 	<tr>
 		<td>103</td>
 		<td>
 			<a target="_blank" href="https://github.com/jonatanklosko">
-				<img src="https://private-avatars.githubusercontent.com/u/17034772?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQyMDAsIm5iZiI6MTczNDU3MzAwMCwicGF0aCI6Ii91LzE3MDM0NzcyIn0.ZZ57QA_wZVlrdlGe2E9MDvPndk_GYy0oX9G0MfZrHo8&s=72&u=c27a8498a53732b63fcf6447ae6519cd717ebd86&v=4" width="24" alt="Avatar of jonatanklosko"/> jonatanklosko
+				<img src="https://private-avatars.githubusercontent.com/u/17034772?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTExMDAsIm5iZiI6MTczNDYwOTkwMCwicGF0aCI6Ii91LzE3MDM0NzcyIn0.I1uBjLJl2xJks1bBPa7ubBhd0WHilTJDX1cU27oxSyM&s=72&u=c27a8498a53732b63fcf6447ae6519cd717ebd86&v=4" width="24" alt="Avatar of jonatanklosko"/> jonatanklosko
 			</a><br/>
 			Jonatan Kosko
 		</td>
@@ -1556,7 +1556,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>104</td>
 		<td>
 			<a target="_blank" href="https://github.com/madhead">
-				<img src="https://private-avatars.githubusercontent.com/u/577360?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU0MDAsIm5iZiI6MTczNDU3NDIwMCwicGF0aCI6Ii91LzU3NzM2MCJ9.Qp0qOgM7hnsHj-uo0oAhqv0F4L-8Djpiju-lHSjzOQY&s=72&v=4" width="24" alt="Avatar of madhead"/> madhead
+				<img src="https://private-avatars.githubusercontent.com/u/577360?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIzMDAsIm5iZiI6MTczNDYxMTEwMCwicGF0aCI6Ii91LzU3NzM2MCJ9.S14x2s-hLjrd2xcSrUnFebE1ZciCg3UZv3gqeRQqzMc&s=72&v=4" width="24" alt="Avatar of madhead"/> madhead
 			</a><br/>
 			Siarhei
 		</td>
@@ -1570,7 +1570,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>105</td>
 		<td>
 			<a target="_blank" href="https://github.com/prokulski">
-				<img src="https://private-avatars.githubusercontent.com/u/19608488?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUzNDAsIm5iZiI6MTczNDU3NDE0MCwicGF0aCI6Ii91LzE5NjA4NDg4In0.Nit9uZO6WRnvqW44o56Q9GpAgvAZbq6lOUO3uiYY-Ok&s=72&u=6262849a1ad7d194a34483b23e94d8cc5b4d61ca&v=4" width="24" alt="Avatar of prokulski"/> prokulski
+				<img src="https://private-avatars.githubusercontent.com/u/19608488?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIyNDAsIm5iZiI6MTczNDYxMTA0MCwicGF0aCI6Ii91LzE5NjA4NDg4In0.o0kt58K2v3Ex8Uy-o8UPqPSi-hf5qRqhsh1w-LqqH-s&s=72&u=6262849a1ad7d194a34483b23e94d8cc5b4d61ca&v=4" width="24" alt="Avatar of prokulski"/> prokulski
 			</a><br/>
 			ukasz Prokulski
 		</td>
@@ -1583,8 +1583,22 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 	<tr>
 		<td>106</td>
 		<td>
+			<a target="_blank" href="https://github.com/mkuthan">
+				<img src="https://private-avatars.githubusercontent.com/u/1560526?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4ODAsIm5iZiI6MTczNDYxMDY4MCwicGF0aCI6Ii91LzE1NjA1MjYifQ.N-4O8BpjQZftMTTHCNZAk9oVMbPUUVCLAhZ1u0FxPok&s=72&v=4" width="24" alt="Avatar of mkuthan"/> mkuthan
+			</a><br/>
+			Marcin Kuthan
+		</td>
+		<td>@allegro </td>
+		<td><a target="_blank" href="https://twitter.com/MarcinKuthan">MarcinKuthan</a></td>
+		<td>Poland</td>
+		<td>157</td>
+		<td>1758</td>
+	</tr>
+	<tr>
+		<td>107</td>
+		<td>
 			<a target="_blank" href="https://github.com/MateuszNaKodach">
-				<img src="https://private-avatars.githubusercontent.com/u/18637116?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ1NjAsIm5iZiI6MTczNDU3MzM2MCwicGF0aCI6Ii91LzE4NjM3MTE2In0.7CX3PMvI4nOiapqPUxVII_etCgnVlixyVMgtY1Bc-Dk&s=72&u=06e7f0c1e4be67e2b7b106623a575829a9e842ec&v=4" width="24" alt="Avatar of MateuszNaKodach"/> MateuszNaKodach
+				<img src="https://private-avatars.githubusercontent.com/u/18637116?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE0NjAsIm5iZiI6MTczNDYxMDI2MCwicGF0aCI6Ii91LzE4NjM3MTE2In0.R1tAnXchYkNKtfgataZd4Qb1R6gsd_Aq9RrH81oNkDw&s=72&u=06e7f0c1e4be67e2b7b106623a575829a9e842ec&v=4" width="24" alt="Avatar of MateuszNaKodach"/> MateuszNaKodach
 			</a><br/>
 			Mateusz Nowak
 		</td>
@@ -1595,10 +1609,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>1755</td>
 	</tr>
 	<tr>
-		<td>107</td>
+		<td>108</td>
 		<td>
 			<a target="_blank" href="https://github.com/witekbobrowski">
-				<img src="https://private-avatars.githubusercontent.com/u/18266391?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU1MjAsIm5iZiI6MTczNDU3NDMyMCwicGF0aCI6Ii91LzE4MjY2MzkxIn0.hzNt_xck7X7dzn7mDT8hw1t-_CGMIW4Egtf-8NL6aWQ&s=72&u=871aff7b95834f35da5c4a2a89b1b2a4015bb5c6&v=4" width="24" alt="Avatar of witekbobrowski"/> witekbobrowski
+				<img src="https://private-avatars.githubusercontent.com/u/18266391?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTI0MjAsIm5iZiI6MTczNDYxMTIyMCwicGF0aCI6Ii91LzE4MjY2MzkxIn0.w4Mu6FFdAOUF21mTd_KwfCZ1KClE_qTWyQppRto5m1c&s=72&u=871aff7b95834f35da5c4a2a89b1b2a4015bb5c6&v=4" width="24" alt="Avatar of witekbobrowski"/> witekbobrowski
 			</a><br/>
 			Witek Bobrowski
 		</td>
@@ -1609,10 +1623,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>1754</td>
 	</tr>
 	<tr>
-		<td>108</td>
+		<td>109</td>
 		<td>
 			<a target="_blank" href="https://github.com/Wruczek">
-				<img src="https://private-avatars.githubusercontent.com/u/7156344?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUwNDAsIm5iZiI6MTczNDU3Mzg0MCwicGF0aCI6Ii91LzcxNTYzNDQifQ.fqnpKuLuk5yf4VK_xiDRw7ig7MSmZVOj94uatf57FhY&s=72&u=bc221ad0f295a792320d371e28c1c30a13ae0b48&v=4" width="24" alt="Avatar of Wruczek"/> Wruczek
+				<img src="https://private-avatars.githubusercontent.com/u/7156344?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE5NDAsIm5iZiI6MTczNDYxMDc0MCwicGF0aCI6Ii91LzcxNTYzNDQifQ.5_Q7kf16iBEPt0oO2gYRSzY-7eB-EM2rnH1ObxTP3KY&s=72&u=bc221ad0f295a792320d371e28c1c30a13ae0b48&v=4" width="24" alt="Avatar of Wruczek"/> Wruczek
 			</a><br/>
 			No Name
 		</td>
@@ -1623,24 +1637,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>1752</td>
 	</tr>
 	<tr>
-		<td>109</td>
-		<td>
-			<a target="_blank" href="https://github.com/mkuthan">
-				<img src="https://private-avatars.githubusercontent.com/u/1560526?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5ODAsIm5iZiI6MTczNDU3Mzc4MCwicGF0aCI6Ii91LzE1NjA1MjYifQ.wDI2tKmIxvwdIcwvUqaSaVziP0_344D51fQYmISUDdE&s=72&v=4" width="24" alt="Avatar of mkuthan"/> mkuthan
-			</a><br/>
-			Marcin Kuthan
-		</td>
-		<td>@allegro </td>
-		<td><a target="_blank" href="https://twitter.com/MarcinKuthan">MarcinKuthan</a></td>
-		<td>Poland</td>
-		<td>157</td>
-		<td>1751</td>
-	</tr>
-	<tr>
 		<td>110</td>
 		<td>
 			<a target="_blank" href="https://github.com/szemek">
-				<img src="https://private-avatars.githubusercontent.com/u/373530?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91LzM3MzUzMCJ9.n9ITOHp-PO4xFQtoywFXE3gcTtg28VlLO0vKzV2X-4Y&s=72&v=4" width="24" alt="Avatar of szemek"/> szemek
+				<img src="https://private-avatars.githubusercontent.com/u/373530?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91LzM3MzUzMCJ9.8eK1b0bsxzkz6PYYdPWXwuauY0zf2IJk6MJXmcSBo1U&s=72&v=4" width="24" alt="Avatar of szemek"/> szemek
 			</a><br/>
 			Przemysaw Dbek
 		</td>
@@ -1654,7 +1654,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>111</td>
 		<td>
 			<a target="_blank" href="https://github.com/mrholek">
-				<img src="https://private-avatars.githubusercontent.com/u/3524167?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQyMDAsIm5iZiI6MTczNDU3MzAwMCwicGF0aCI6Ii91LzM1MjQxNjcifQ.FZCtdNJk5hqGyxbYlnY92m8-wIPsyVDtfOX4nsjAz2E&s=72&v=4" width="24" alt="Avatar of mrholek"/> mrholek
+				<img src="https://private-avatars.githubusercontent.com/u/3524167?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTExMDAsIm5iZiI6MTczNDYwOTkwMCwicGF0aCI6Ii91LzM1MjQxNjcifQ.IV_HXbESvwR45vDO8XaDegLUaZ5x8dUkV710RWOZTSA&s=72&v=4" width="24" alt="Avatar of mrholek"/> mrholek
 			</a><br/>
 			ukasz Holeczek
 		</td>
@@ -1668,7 +1668,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>112</td>
 		<td>
 			<a target="_blank" href="https://github.com/bieniu">
-				<img src="https://private-avatars.githubusercontent.com/u/478555?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxMDAsIm5iZiI6MTczNDU3MzkwMCwicGF0aCI6Ii91LzQ3ODU1NSJ9.qLjTwS3yDJRAJ4Rd2PVVL9RBJbVmp2Uovsftbi6SEm0&s=72&u=e984b230c7872452ebebe4e0a56cd58753b2333b&v=4" width="24" alt="Avatar of bieniu"/> bieniu
+				<img src="https://private-avatars.githubusercontent.com/u/478555?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwMDAsIm5iZiI6MTczNDYxMDgwMCwicGF0aCI6Ii91LzQ3ODU1NSJ9.OTuG_1PVOy7_WHX6F0q-zq1Mu_pHpH_NZXkAM9bL40I&s=72&u=e984b230c7872452ebebe4e0a56cd58753b2333b&v=4" width="24" alt="Avatar of bieniu"/> bieniu
 			</a><br/>
 			Maciej Bieniek
 		</td>
@@ -1682,7 +1682,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>113</td>
 		<td>
 			<a target="_blank" href="https://github.com/ecosse3">
-				<img src="https://private-avatars.githubusercontent.com/u/17691791?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4NjAsIm5iZiI6MTczNDU3MzY2MCwicGF0aCI6Ii91LzE3NjkxNzkxIn0.9sIuzm4mz5slEwJiK4F3b0UTwAAMI-NdPAqyimnopGc&s=72&u=146fc14f5c2b0a25690dead141fa44f58fd33376&v=4" width="24" alt="Avatar of ecosse3"/> ecosse3
+				<img src="https://private-avatars.githubusercontent.com/u/17691791?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3NjAsIm5iZiI6MTczNDYxMDU2MCwicGF0aCI6Ii91LzE3NjkxNzkxIn0.EYyfLMo8xAMrteV0x5EJjzDg8xNeMuTRfIoMAyWoo14&s=72&u=146fc14f5c2b0a25690dead141fa44f58fd33376&v=4" width="24" alt="Avatar of ecosse3"/> ecosse3
 			</a><br/>
 			ukasz Kurpiewski
 		</td>
@@ -1690,27 +1690,27 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Warsaw Poland</td>
 		<td>141</td>
-		<td>1728</td>
+		<td>1729</td>
 	</tr>
 	<tr>
 		<td>114</td>
 		<td>
 			<a target="_blank" href="https://github.com/kirillzyusko">
-				<img src="https://private-avatars.githubusercontent.com/u/22820318?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91LzIyODIwMzE4In0.KUX4KrSsD2WcrZHn_ewissrGOLKr8lftjDZN5y-VtmI&s=72&u=b4eeaec7b022a83602edb18c362615a74b178917&v=4" width="24" alt="Avatar of kirillzyusko"/> kirillzyusko
+				<img src="https://private-avatars.githubusercontent.com/u/22820318?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91LzIyODIwMzE4In0.wrfG0fxdLu9Og1iwYtsPgdZbJJ_cVUFTdkLz9Oj23Nc&s=72&u=b4eeaec7b022a83602edb18c362615a74b178917&v=4" width="24" alt="Avatar of kirillzyusko"/> kirillzyusko
 			</a><br/>
 			Kirill Zyusko
 		</td>
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/ziusko">ziusko</a></td>
 		<td>Poland Warsaw</td>
-		<td>1581</td>
-		<td>1706</td>
+		<td>1587</td>
+		<td>1712</td>
 	</tr>
 	<tr>
 		<td>115</td>
 		<td>
 			<a target="_blank" href="https://github.com/MatiPl01">
-				<img src="https://private-avatars.githubusercontent.com/u/52978053?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxNjAsIm5iZiI6MTczNDU3Mzk2MCwicGF0aCI6Ii91LzUyOTc4MDUzIn0._ErJZEhBOuOFQd5DiMLrPkkJ8EzlZmcXGiHm-HS3ZjE&s=72&u=abf044105c63f59c383662299229e4a1f114f9e9&v=4" width="24" alt="Avatar of MatiPl01"/> MatiPl01
+				<img src="https://private-avatars.githubusercontent.com/u/52978053?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwNjAsIm5iZiI6MTczNDYxMDg2MCwicGF0aCI6Ii91LzUyOTc4MDUzIn0.YjvaXVwYeD6UF1AKPfqma8y4ioUWkkDvPiEUJ4olVzQ&s=72&u=abf044105c63f59c383662299229e4a1f114f9e9&v=4" width="24" alt="Avatar of MatiPl01"/> MatiPl01
 			</a><br/>
 			Mateusz opaciski
 		</td>
@@ -1718,27 +1718,27 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/MatiPl01">MatiPl01</a></td>
 		<td>Cracow Poland</td>
 		<td>458</td>
-		<td>1701</td>
+		<td>1704</td>
 	</tr>
 	<tr>
 		<td>116</td>
 		<td>
 			<a target="_blank" href="https://github.com/lkostrowski">
-				<img src="https://private-avatars.githubusercontent.com/u/9268745?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUwNDAsIm5iZiI6MTczNDU3Mzg0MCwicGF0aCI6Ii91LzkyNjg3NDUifQ.eaDjKcagMolcIKYwkuZGbtfSsv1J5y-cTZkL2b1Beo0&s=72&u=2df9e2c3fee31c244b5b12fd930f8d8e1e79e994&v=4" width="24" alt="Avatar of lkostrowski"/> lkostrowski
+				<img src="https://private-avatars.githubusercontent.com/u/9268745?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE5NDAsIm5iZiI6MTczNDYxMDc0MCwicGF0aCI6Ii91LzkyNjg3NDUifQ.5RkAyZb49F4CTQU4wYZpcGbq2ePaGIDoqTk6NA_GLNI&s=72&u=2df9e2c3fee31c244b5b12fd930f8d8e1e79e994&v=4" width="24" alt="Avatar of lkostrowski"/> lkostrowski
 			</a><br/>
 			Lukasz Ostrowski
 		</td>
 		<td>@saleor  </td>
 		<td><a target="_blank" href="https://twitter.com/lkostrowski">lkostrowski</a></td>
 		<td>Krakw Poland</td>
-		<td>811</td>
-		<td>1690</td>
+		<td>812</td>
+		<td>1696</td>
 	</tr>
 	<tr>
 		<td>117</td>
 		<td>
 			<a target="_blank" href="https://github.com/magul">
-				<img src="https://private-avatars.githubusercontent.com/u/1165138?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU2NDAsIm5iZiI6MTczNDU3NDQ0MCwicGF0aCI6Ii91LzExNjUxMzgifQ.uYsfyIu29LBuTpv9C-OMtfDXxCsgGpRsrMUJNhdH2Lw&s=72&u=65b01a45f484cefb5c68bba4e0f84a1d6199143b&v=4" width="24" alt="Avatar of magul"/> magul
+				<img src="https://private-avatars.githubusercontent.com/u/1165138?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTI1NDAsIm5iZiI6MTczNDYxMTM0MCwicGF0aCI6Ii91LzExNjUxMzgifQ.PaPa2WdnpZT1UPcxlYwez69jjiy7a-qwmttxfjuiwUQ&s=72&u=65b01a45f484cefb5c68bba4e0f84a1d6199143b&v=4" width="24" alt="Avatar of magul"/> magul
 			</a><br/>
 			Tomasz Magulski
 		</td>
@@ -1746,13 +1746,13 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Pozna Poland</td>
 		<td>10</td>
-		<td>1689</td>
+		<td>1691</td>
 	</tr>
 	<tr>
 		<td>118</td>
 		<td>
 			<a target="_blank" href="https://github.com/kokosing">
-				<img src="https://private-avatars.githubusercontent.com/u/7569403?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4NjAsIm5iZiI6MTczNDU3MzY2MCwicGF0aCI6Ii91Lzc1Njk0MDMifQ.Im_FldxjV-gRcEQg3D0fHy3FZD1DYlWeAJEwSRZm2jc&s=72&u=a7151bb7aba9ca3eea9c4c3c2ac9bcd0de5133c3&v=4" width="24" alt="Avatar of kokosing"/> kokosing
+				<img src="https://private-avatars.githubusercontent.com/u/7569403?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3NjAsIm5iZiI6MTczNDYxMDU2MCwicGF0aCI6Ii91Lzc1Njk0MDMifQ.S5jKvZ8hXOKeM0IjyvJb4EjMs2cxR9yjMbmvxBOyhUA&s=72&u=a7151bb7aba9ca3eea9c4c3c2ac9bcd0de5133c3&v=4" width="24" alt="Avatar of kokosing"/> kokosing
 			</a><br/>
 			Grzegorz Kokosiski
 		</td>
@@ -1760,13 +1760,13 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/kokosing4">kokosing4</a></td>
 		<td>Poland</td>
 		<td>124</td>
-		<td>1679</td>
+		<td>1681</td>
 	</tr>
 	<tr>
 		<td>119</td>
 		<td>
 			<a target="_blank" href="https://github.com/kitze">
-				<img src="https://private-avatars.githubusercontent.com/u/1160594?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQzMjAsIm5iZiI6MTczNDU3MzEyMCwicGF0aCI6Ii91LzExNjA1OTQifQ.aMxRwWY5DsDYLdqXnqYEs2EQzqkBdSDha4nnOVymfq4&s=72&u=1249aee990965d95db9d438501f417707462950a&v=4" width="24" alt="Avatar of kitze"/> kitze
+				<img src="https://private-avatars.githubusercontent.com/u/1160594?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTEyMjAsIm5iZiI6MTczNDYxMDAyMCwicGF0aCI6Ii91LzExNjA1OTQifQ.Qbb2HwQtV1l9wMoaibXKpq8OiVQcE-Jp878fY-BNkYA&s=72&u=1249aee990965d95db9d438501f417707462950a&v=4" width="24" alt="Avatar of kitze"/> kitze
 			</a><br/>
 			kitze 
 		</td>
@@ -1780,7 +1780,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>120</td>
 		<td>
 			<a target="_blank" href="https://github.com/norberttech">
-				<img src="https://private-avatars.githubusercontent.com/u/1921950?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ1NjAsIm5iZiI6MTczNDU3MzM2MCwicGF0aCI6Ii91LzE5MjE5NTAifQ.SiRN1OKdo-KVIcNdtBdPI7gFXoj4l5HU8l9ZS6iFnd4&s=72&u=69a261c8671cea20de94fd23aa5a16fef72eb6cb&v=4" width="24" alt="Avatar of norberttech"/> norberttech
+				<img src="https://private-avatars.githubusercontent.com/u/1921950?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE0NjAsIm5iZiI6MTczNDYxMDI2MCwicGF0aCI6Ii91LzE5MjE5NTAifQ.JvEgEIqZlllFMTJQIEkDYC4TvX2RIBFITcLwnXvX3vA&s=72&u=69a261c8671cea20de94fd23aa5a16fef72eb6cb&v=4" width="24" alt="Avatar of norberttech"/> norberttech
 			</a><br/>
 			Norbert Orzechowicz
 		</td>
@@ -1794,7 +1794,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>121</td>
 		<td>
 			<a target="_blank" href="https://github.com/kjk">
-				<img src="https://private-avatars.githubusercontent.com/u/7935?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4NjAsIm5iZiI6MTczNDU3MzY2MCwicGF0aCI6Ii91Lzc5MzUifQ.RWyJpg1nxdMsVtIOeN0so7ncAnMdsbBBFMoEYdEjFfI&s=72&u=5dc6f8c2b4a4a6afe12882549a51bb0fb378feda&v=4" width="24" alt="Avatar of kjk"/> kjk
+				<img src="https://private-avatars.githubusercontent.com/u/7935?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3NjAsIm5iZiI6MTczNDYxMDU2MCwicGF0aCI6Ii91Lzc5MzUifQ.Wb0JUaeignUvAvHxZucAmfFdZyB-EhUyJSChhJSQ6D0&s=72&u=5dc6f8c2b4a4a6afe12882549a51bb0fb378feda&v=4" width="24" alt="Avatar of kjk"/> kjk
 			</a><br/>
 			Krzysztof Kowalczyk
 		</td>
@@ -1808,7 +1808,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>122</td>
 		<td>
 			<a target="_blank" href="https://github.com/MikePapinski">
-				<img src="https://private-avatars.githubusercontent.com/u/48183086?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ1MDAsIm5iZiI6MTczNDU3MzMwMCwicGF0aCI6Ii91LzQ4MTgzMDg2In0.1lO8q1J88_eZbggVIBRz-fI2Y5851Y0Ec5J4hY2Kzjk&s=72&u=7f7268b6732e840964f96599dfaa3b421382e002&v=4" width="24" alt="Avatar of MikePapinski"/> MikePapinski
+				<img src="https://private-avatars.githubusercontent.com/u/48183086?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE0MDAsIm5iZiI6MTczNDYxMDIwMCwicGF0aCI6Ii91LzQ4MTgzMDg2In0.gREY-QEIGgClUAioCC4D0TTIIZRtKHlUKDrCasL3ij8&s=72&u=7f7268b6732e840964f96599dfaa3b421382e002&v=4" width="24" alt="Avatar of MikePapinski"/> MikePapinski
 			</a><br/>
 			Mike Papinski
 		</td>
@@ -1816,27 +1816,27 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Gdansk</td>
 		<td>28</td>
-		<td>1616</td>
+		<td>1617</td>
 	</tr>
 	<tr>
 		<td>123</td>
 		<td>
 			<a target="_blank" href="https://github.com/Albert221">
-				<img src="https://private-avatars.githubusercontent.com/u/4085280?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4NjAsIm5iZiI6MTczNDU3MzY2MCwicGF0aCI6Ii91LzQwODUyODAifQ.ffcxQbkRh1J6k5v-aLdyYHNvxLDxj_LeSYUN6FULZTQ&s=72&u=a0813a72f51a40acad97bf77a5adc22bebcf072a&v=4" width="24" alt="Avatar of Albert221"/> Albert221
+				<img src="https://private-avatars.githubusercontent.com/u/4085280?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3NjAsIm5iZiI6MTczNDYxMDU2MCwicGF0aCI6Ii91LzQwODUyODAifQ.0_BCvR1i2AMRKmVSyBrCzlg_ABdLkjjl1IVAkfOM4P8&s=72&u=a0813a72f51a40acad97bf77a5adc22bebcf072a&v=4" width="24" alt="Avatar of Albert221"/> Albert221
 			</a><br/>
 			Albert Wolszon
 		</td>
 		<td>@leancodepl </td>
 		<td><a target="_blank" href="https://twitter.com/albert_wolszon">albert_wolszon</a></td>
 		<td>Warsaw Poland</td>
-		<td>95</td>
-		<td>1614</td>
+		<td>96</td>
+		<td>1615</td>
 	</tr>
 	<tr>
 		<td>124</td>
 		<td>
 			<a target="_blank" href="https://github.com/okwasniewski">
-				<img src="https://private-avatars.githubusercontent.com/u/52801365?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQzODAsIm5iZiI6MTczNDU3MzE4MCwicGF0aCI6Ii91LzUyODAxMzY1In0.ujAlWiC87cKa5RHM6pnhJKnTh7Fmq-mXZUd2g42iijA&s=72&u=199c0a3a6e213b1ac933b53008f779bec67192d7&v=4" width="24" alt="Avatar of okwasniewski"/> okwasniewski
+				<img src="https://private-avatars.githubusercontent.com/u/52801365?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTEyODAsIm5iZiI6MTczNDYxMDA4MCwicGF0aCI6Ii91LzUyODAxMzY1In0.1crJt1F5xPm6Bpty9zqBUxk1oCqupcgZQw4lyA7tQN4&s=72&u=199c0a3a6e213b1ac933b53008f779bec67192d7&v=4" width="24" alt="Avatar of okwasniewski"/> okwasniewski
 			</a><br/>
 			Oskar Kwaniewski
 		</td>
@@ -1844,41 +1844,41 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/o_kwasniewski">o_kwasniewski</a></td>
 		<td>Szczecin Poland</td>
 		<td>1254</td>
-		<td>1598</td>
+		<td>1612</td>
 	</tr>
 	<tr>
 		<td>125</td>
 		<td>
 			<a target="_blank" href="https://github.com/ravicious">
-				<img src="https://private-avatars.githubusercontent.com/u/27113?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxMDAsIm5iZiI6MTczNDU3MzkwMCwicGF0aCI6Ii91LzI3MTEzIn0.lJv4bIOvZ7eB02qeANsHMg4-0qT_0_s7ZUaKdZ00LGY&s=72&u=d823a03fe5014a9aa230d56972041b1a0b740ffc&v=4" width="24" alt="Avatar of ravicious"/> ravicious
+				<img src="https://private-avatars.githubusercontent.com/u/27113?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwMDAsIm5iZiI6MTczNDYxMDgwMCwicGF0aCI6Ii91LzI3MTEzIn0.sS3FK4WLqo2l7-rdWqgNgEuAPZ96EqRy_rsktTVS_GY&s=72&u=d823a03fe5014a9aa230d56972041b1a0b740ffc&v=4" width="24" alt="Avatar of ravicious"/> ravicious
 			</a><br/>
 			Rafa Cielak
 		</td>
 		<td>@gravitational </td>
 		<td>No Twitter Username</td>
 		<td>Krakw Poland</td>
-		<td>1597</td>
-		<td>1597</td>
+		<td>1601</td>
+		<td>1601</td>
 	</tr>
 	<tr>
 		<td>126</td>
 		<td>
 			<a target="_blank" href="https://github.com/zyga">
-				<img src="https://private-avatars.githubusercontent.com/u/784262?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyODAsIm5iZiI6MTczNDU3NDA4MCwicGF0aCI6Ii91Lzc4NDI2MiJ9.W4p_iw_7VOBGohmQMzyV6PJnbyvtjv3sxX5ZZcFKDak&s=72&v=4" width="24" alt="Avatar of zyga"/> zyga
+				<img src="https://private-avatars.githubusercontent.com/u/784262?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxODAsIm5iZiI6MTczNDYxMDk4MCwicGF0aCI6Ii91Lzc4NDI2MiJ9.QCAtLjXkUobG-14k6nh3qpqYZkhfgeLTYR-Uok-z_SM&s=72&v=4" width="24" alt="Avatar of zyga"/> zyga
 			</a><br/>
 			Zygmunt Bazyli Krynicki
 		</td>
 		<td>Canonical </td>
 		<td><a target="_blank" href="https://twitter.com/zygoon">zygoon</a></td>
 		<td>Poland</td>
-		<td>1115</td>
-		<td>1586</td>
+		<td>1118</td>
+		<td>1589</td>
 	</tr>
 	<tr>
 		<td>127</td>
 		<td>
 			<a target="_blank" href="https://github.com/YasiOnFire">
-				<img src="https://private-avatars.githubusercontent.com/u/3300701?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ3NDAsIm5iZiI6MTczNDU3MzU0MCwicGF0aCI6Ii91LzMzMDA3MDEifQ.ch3Pg8bw4bPTK8CWWtYzOMBHFqxADjL8A5ZczuuKpLs&s=72&v=4" width="24" alt="Avatar of YasiOnFire"/> YasiOnFire
+				<img src="https://private-avatars.githubusercontent.com/u/3300701?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE2NDAsIm5iZiI6MTczNDYxMDQ0MCwicGF0aCI6Ii91LzMzMDA3MDEifQ.Mna7FbCmdOZBm0hr_s6jwxSYf3bYP4prqBzAiczIlRs&s=72&v=4" width="24" alt="Avatar of YasiOnFire"/> YasiOnFire
 			</a><br/>
 			Yasio
 		</td>
@@ -1892,21 +1892,21 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>128</td>
 		<td>
 			<a target="_blank" href="https://github.com/keradus">
-				<img src="https://private-avatars.githubusercontent.com/u/2716794?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4NjAsIm5iZiI6MTczNDU3MzY2MCwicGF0aCI6Ii91LzI3MTY3OTQifQ.TsHgLSzLF9gemMDtrA591CqDXtjSIMm-3tS1FflTJw0&s=72&u=94c0ff41ced5639d37e5f1f32df8e531fa7af70d&v=4" width="24" alt="Avatar of keradus"/> keradus
+				<img src="https://private-avatars.githubusercontent.com/u/2716794?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3NjAsIm5iZiI6MTczNDYxMDU2MCwicGF0aCI6Ii91LzI3MTY3OTQifQ.OO_Jwci0apJR03O2Sv3i6MoLyI8sIs83L-mnXMmUK_0&s=72&u=94c0ff41ced5639d37e5f1f32df8e531fa7af70d&v=4" width="24" alt="Avatar of keradus"/> keradus
 			</a><br/>
 			Dariusz Rumiski
 		</td>
 		<td>Php Cs Fixer <br/>Delivery<br/>Hero<br/></td>
 		<td><a target="_blank" href="https://twitter.com/keradus">keradus</a></td>
 		<td>Szczecin Poland</td>
-		<td>838</td>
-		<td>1577</td>
+		<td>840</td>
+		<td>1579</td>
 	</tr>
 	<tr>
 		<td>129</td>
 		<td>
 			<a target="_blank" href="https://github.com/abdalmoniem">
-				<img src="https://private-avatars.githubusercontent.com/u/11904264?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2MjAsIm5iZiI6MTczNDU3MzQyMCwicGF0aCI6Ii91LzExOTA0MjY0In0.1eQv8lY4ip7lAXgsUzTNU7CkQQuRDEOnY2JyxH6kaUU&s=72&u=2e46ccb0aa44750413540dad4045381351948475&v=4" width="24" alt="Avatar of abdalmoniem"/> abdalmoniem
+				<img src="https://private-avatars.githubusercontent.com/u/11904264?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1MjAsIm5iZiI6MTczNDYxMDMyMCwicGF0aCI6Ii91LzExOTA0MjY0In0.I8figNUuQlCiTb4-3h9YBAGIiWsTxZaAuuRohHpJDNM&s=72&u=2e46ccb0aa44750413540dad4045381351948475&v=4" width="24" alt="Avatar of abdalmoniem"/> abdalmoniem
 			</a><br/>
 			AbdAlMoniem AlHifnawy
 		</td>
@@ -1920,21 +1920,21 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>130</td>
 		<td>
 			<a target="_blank" href="https://github.com/mkaput">
-				<img src="https://private-avatars.githubusercontent.com/u/3450050?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91LzM0NTAwNTAifQ.iQlx5yloOjQrBuGpphsEsG78yrvXZZWx6RjPzKpqqv0&s=72&u=b75fa0b45bb4217ac99ecb1cc0d05c7bb42b4e2c&v=4" width="24" alt="Avatar of mkaput"/> mkaput
+				<img src="https://private-avatars.githubusercontent.com/u/3450050?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91LzM0NTAwNTAifQ.odjKAFuHEOpm0W7iW1F6mo7cpnf3vz3m4J_TuYT4jTU&s=72&u=b75fa0b45bb4217ac99ecb1cc0d05c7bb42b4e2c&v=4" width="24" alt="Avatar of mkaput"/> mkaput
 			</a><br/>
 			Marek Kaput
 		</td>
 		<td>@softwaremansion @starkwarelibs </td>
 		<td><a target="_blank" href="https://twitter.com/jajakobyly">jajakobyly</a></td>
 		<td>Krakw Poland</td>
-		<td>1471</td>
-		<td>1564</td>
+		<td>1473</td>
+		<td>1566</td>
 	</tr>
 	<tr>
 		<td>131</td>
 		<td>
 			<a target="_blank" href="https://github.com/psmyrdek">
-				<img src="https://private-avatars.githubusercontent.com/u/6187417?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU2NDAsIm5iZiI6MTczNDU3NDQ0MCwicGF0aCI6Ii91LzYxODc0MTcifQ.8Db-gmG8u6eTZA0Gjv45QuvusnQjRV3kilRy13gN1AY&s=72&u=51290cfb5bc386f9a819575c2b2f728ba5edad69&v=4" width="24" alt="Avatar of psmyrdek"/> psmyrdek
+				<img src="https://private-avatars.githubusercontent.com/u/6187417?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE2NDAsIm5iZiI6MTczNDYxMDQ0MCwicGF0aCI6Ii91LzYxODc0MTcifQ.wOtVmGwDIEnReBpybCvRvj1B-7_J80srcSKcBtCah68&s=72&u=51290cfb5bc386f9a819575c2b2f728ba5edad69&v=4" width="24" alt="Avatar of psmyrdek"/> psmyrdek
 			</a><br/>
 			Przemek Smyrdek
 		</td>
@@ -1948,7 +1948,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>132</td>
 		<td>
 			<a target="_blank" href="https://github.com/dsokal">
-				<img src="https://private-avatars.githubusercontent.com/u/5256730?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUzNDAsIm5iZiI6MTczNDU3NDE0MCwicGF0aCI6Ii91LzUyNTY3MzAifQ.K-oyWwqb4royHFCvNjq5cwVLkzxUfEFHYZ_BFuQtcS0&s=72&u=b6a74e4a0910d76fddfde2ca6f5f94592082c023&v=4" width="24" alt="Avatar of dsokal"/> dsokal
+				<img src="https://private-avatars.githubusercontent.com/u/5256730?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIyNDAsIm5iZiI6MTczNDYxMTA0MCwicGF0aCI6Ii91LzUyNTY3MzAifQ.r2EewtptgnNutPAYB9WcSsen4xchqS7cBSbV-QppvIo&s=72&u=b6a74e4a0910d76fddfde2ca6f5f94592082c023&v=4" width="24" alt="Avatar of dsokal"/> dsokal
 			</a><br/>
 			Dominik Sokal
 		</td>
@@ -1962,7 +1962,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>133</td>
 		<td>
 			<a target="_blank" href="https://github.com/AndreiMisiukevich">
-				<img src="https://private-avatars.githubusercontent.com/u/10124814?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQzMjAsIm5iZiI6MTczNDU3MzEyMCwicGF0aCI6Ii91LzEwMTI0ODE0In0.Y8HMjRZ8ZsnXD5-Ta6qw-l5caHzGzjdoYdRMXHqS84g&s=72&u=1a30139ed32862515e94c84fd3c8195ba3bcc345&v=4" width="24" alt="Avatar of AndreiMisiukevich"/> AndreiMisiukevich
+				<img src="https://private-avatars.githubusercontent.com/u/10124814?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTEyMjAsIm5iZiI6MTczNDYxMDAyMCwicGF0aCI6Ii91LzEwMTI0ODE0In0.pomJYMdpGhOHlow1nz9_i0a6K_jUjwEIDbDhKDH0j0Q&s=72&u=1a30139ed32862515e94c84fd3c8195ba3bcc345&v=4" width="24" alt="Avatar of AndreiMisiukevich"/> AndreiMisiukevich
 			</a><br/>
 			Andrei
 		</td>
@@ -1970,27 +1970,27 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Warsaw Poland</td>
 		<td>52</td>
-		<td>1539</td>
+		<td>1540</td>
 	</tr>
 	<tr>
 		<td>134</td>
 		<td>
 			<a target="_blank" href="https://github.com/olafsulich">
-				<img src="https://private-avatars.githubusercontent.com/u/46969484?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ0NDAsIm5iZiI6MTczNDU3MzI0MCwicGF0aCI6Ii91LzQ2OTY5NDg0In0.XXEwjtBnET0Tu1m_oYZ-z-IfuInG_M_19P5Q2Ur6Ljo&s=72&u=6587d4d3ad128aa0a1209bf1492e4d594410ef17&v=4" width="24" alt="Avatar of olafsulich"/> olafsulich
+				<img src="https://private-avatars.githubusercontent.com/u/46969484?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTEzNDAsIm5iZiI6MTczNDYxMDE0MCwicGF0aCI6Ii91LzQ2OTY5NDg0In0.1oy3PHQihBiYMzAn0v5tz9_nlfICT4iYvL9e1_5yZ4o&s=72&u=6587d4d3ad128aa0a1209bf1492e4d594410ef17&v=4" width="24" alt="Avatar of olafsulich"/> olafsulich
 			</a><br/>
 			Olaf Sulich
 		</td>
 		<td>Appunite </td>
 		<td><a target="_blank" href="https://twitter.com/sulich_olaf">sulich_olaf</a></td>
 		<td>Poland Toru</td>
-		<td>148</td>
-		<td>1535</td>
+		<td>152</td>
+		<td>1539</td>
 	</tr>
 	<tr>
 		<td>135</td>
 		<td>
 			<a target="_blank" href="https://github.com/LesnyRumcajs">
-				<img src="https://private-avatars.githubusercontent.com/u/9642092?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyODAsIm5iZiI6MTczNDU3NDA4MCwicGF0aCI6Ii91Lzk2NDIwOTIifQ.Mg1loRRQrsswPS6XwbjT8JsZJPwiVvVUaucN5wH2mhw&s=72&u=48287e7e3d041530e74f46acbd511829151c96c5&v=4" width="24" alt="Avatar of LesnyRumcajs"/> LesnyRumcajs
+				<img src="https://private-avatars.githubusercontent.com/u/9642092?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxODAsIm5iZiI6MTczNDYxMDk4MCwicGF0aCI6Ii91Lzk2NDIwOTIifQ.8UPegXehadeUIgRCneHMlebb5sqAzaZRRv2vihYM0AU&s=72&u=48287e7e3d041530e74f46acbd511829151c96c5&v=4" width="24" alt="Avatar of LesnyRumcajs"/> LesnyRumcajs
 			</a><br/>
 			Hubert
 		</td>
@@ -2004,7 +2004,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>136</td>
 		<td>
 			<a target="_blank" href="https://github.com/bibixx">
-				<img src="https://private-avatars.githubusercontent.com/u/14880213?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5ODAsIm5iZiI6MTczNDU3Mzc4MCwicGF0aCI6Ii91LzE0ODgwMjEzIn0.VrVZoQBRVBk13xKtYFbFotSI4nMPmOElQ4IIUnl568U&s=72&u=fd03c6733b35d86191d33feac3581c326bce3437&v=4" width="24" alt="Avatar of bibixx"/> bibixx
+				<img src="https://private-avatars.githubusercontent.com/u/14880213?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4ODAsIm5iZiI6MTczNDYxMDY4MCwicGF0aCI6Ii91LzE0ODgwMjEzIn0.Q9jKZ7Gpm4UJSp2T9w6abMxpwU9Fa6ZMRchz2ksIquU&s=72&u=fd03c6733b35d86191d33feac3581c326bce3437&v=4" width="24" alt="Avatar of bibixx"/> bibixx
 			</a><br/>
 			Bartosz Legi
 		</td>
@@ -2018,21 +2018,21 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>137</td>
 		<td>
 			<a target="_blank" href="https://github.com/Baroshem">
-				<img src="https://private-avatars.githubusercontent.com/u/37120330?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUwNDAsIm5iZiI6MTczNDU3Mzg0MCwicGF0aCI6Ii91LzM3MTIwMzMwIn0.MFYPL5QTv-COXsBS5sgOr1jQNgCz2vSYxQVdM_MF-Sk&s=72&u=b4d30c78e5638f31a26babe875c9e0ea91440c89&v=4" width="24" alt="Avatar of Baroshem"/> Baroshem
+				<img src="https://private-avatars.githubusercontent.com/u/37120330?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE5NDAsIm5iZiI6MTczNDYxMDc0MCwicGF0aCI6Ii91LzM3MTIwMzMwIn0.PtZWhRw1UVDp-FUNBu_4myQIHtUh7n9PFBqK9sxZxiU&s=72&u=b4d30c78e5638f31a26babe875c9e0ea91440c89&v=4" width="24" alt="Avatar of Baroshem"/> Baroshem
 			</a><br/>
 			Jakub Andrzejewski
 		</td>
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/jacobandrewsky">jacobandrewsky</a></td>
 		<td>Wrocaw</td>
-		<td>453</td>
-		<td>1481</td>
+		<td>454</td>
+		<td>1486</td>
 	</tr>
 	<tr>
 		<td>138</td>
 		<td>
 			<a target="_blank" href="https://github.com/chalup">
-				<img src="https://private-avatars.githubusercontent.com/u/518902?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUzNDAsIm5iZiI6MTczNDU3NDE0MCwicGF0aCI6Ii91LzUxODkwMiJ9.T33tG5Q_paUO9AvCXujei7w7EC5JPycsig2lpwqwKb8&s=72&u=cd292af426baf814debde0b57970e96279bf895b&v=4" width="24" alt="Avatar of chalup"/> chalup
+				<img src="https://private-avatars.githubusercontent.com/u/518902?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIyNDAsIm5iZiI6MTczNDYxMTA0MCwicGF0aCI6Ii91LzUxODkwMiJ9.hzp1TdLdulmcLmseigtsqw27x_qMPMt8oo-CErkInro&s=72&u=cd292af426baf814debde0b57970e96279bf895b&v=4" width="24" alt="Avatar of chalup"/> chalup
 			</a><br/>
 			Jerzy Chaupski
 		</td>
@@ -2040,13 +2040,13 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/jchalupski">jchalupski</a></td>
 		<td>Krakw</td>
 		<td>109</td>
-		<td>1470</td>
+		<td>1479</td>
 	</tr>
 	<tr>
 		<td>139</td>
 		<td>
 			<a target="_blank" href="https://github.com/kasper93">
-				<img src="https://private-avatars.githubusercontent.com/u/1126053?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyMjAsIm5iZiI6MTczNDU3NDAyMCwicGF0aCI6Ii91LzExMjYwNTMifQ.i8xf7722rl0b5rdGQud2qHX45RX97H3gaJQFudMCkPY&s=72&v=4" width="24" alt="Avatar of kasper93"/> kasper93
+				<img src="https://private-avatars.githubusercontent.com/u/1126053?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxMjAsIm5iZiI6MTczNDYxMDkyMCwicGF0aCI6Ii91LzExMjYwNTMifQ.q5nXrwrHXzOt2-0uPgscBW6AskqFipFv7ax_-4VAeaI&s=72&v=4" width="24" alt="Avatar of kasper93"/> kasper93
 			</a><br/>
 			Kacper Michajow
 		</td>
@@ -2060,21 +2060,21 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>140</td>
 		<td>
 			<a target="_blank" href="https://github.com/ciembor">
-				<img src="https://private-avatars.githubusercontent.com/u/702108?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91LzcwMjEwOCJ9.Eu_alYAFAAd39hITe1FpanUnp7LjAeXq3qYkz0hsY10&s=72&u=31265314ac44e923fcdab0d2c1649779f9fedbd7&v=4" width="24" alt="Avatar of ciembor"/> ciembor
+				<img src="https://private-avatars.githubusercontent.com/u/702108?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91LzcwMjEwOCJ9.Z3HyMIjB_y4Kq_m8p3Kph2_6CEaP-X7vm8FCB_b2OWw&s=72&u=31265314ac44e923fcdab0d2c1649779f9fedbd7&v=4" width="24" alt="Avatar of ciembor"/> ciembor
 			</a><br/>
 			Maciej Ciemborowicz
 		</td>
 		<td>Akra Polska </td>
 		<td><a target="_blank" href="https://twitter.com/ciembor">ciembor</a></td>
 		<td>Krakw Poland</td>
-		<td>40</td>
-		<td>1440</td>
+		<td>41</td>
+		<td>1441</td>
 	</tr>
 	<tr>
 		<td>141</td>
 		<td>
 			<a target="_blank" href="https://github.com/pplonski">
-				<img src="https://private-avatars.githubusercontent.com/u/6959032?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4NjAsIm5iZiI6MTczNDU3MzY2MCwicGF0aCI6Ii91LzY5NTkwMzIifQ.nUeOq2jSVVCwsip2Bq9EB7iRa202ayxn_tPzWvpUBkw&s=72&u=d9b9235c1334177dee87878cb026a540b4f6ef0b&v=4" width="24" alt="Avatar of pplonski"/> pplonski
+				<img src="https://private-avatars.githubusercontent.com/u/6959032?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3NjAsIm5iZiI6MTczNDYxMDU2MCwicGF0aCI6Ii91LzY5NTkwMzIifQ.oNvcRzjZyxheRZp8LwrbSV77TZ7aIcoNRHmFL0inMUg&s=72&u=d9b9235c1334177dee87878cb026a540b4f6ef0b&v=4" width="24" alt="Avatar of pplonski"/> pplonski
 			</a><br/>
 			Piotr
 		</td>
@@ -2082,13 +2082,13 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Poland</td>
 		<td>467</td>
-		<td>1439</td>
+		<td>1440</td>
 	</tr>
 	<tr>
 		<td>142</td>
 		<td>
 			<a target="_blank" href="https://github.com/tsapeta">
-				<img src="https://private-avatars.githubusercontent.com/u/1714764?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91LzE3MTQ3NjQifQ.aUNZG9RGUCNhogmFlK6zYJRT62OKpFhVFZ8zhHUjWuw&s=72&u=b9976dda8bbe41769df22fec2a929a6f41a89da2&v=4" width="24" alt="Avatar of tsapeta"/> tsapeta
+				<img src="https://private-avatars.githubusercontent.com/u/1714764?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91LzE3MTQ3NjQifQ.RFnYOCHIsZ8RAHbsZDivGWdKHW_wNPvTFZdkKQHVtyM&s=72&u=b9976dda8bbe41769df22fec2a929a6f41a89da2&v=4" width="24" alt="Avatar of tsapeta"/> tsapeta
 			</a><br/>
 			Tomasz Sapeta
 		</td>
@@ -2102,7 +2102,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>143</td>
 		<td>
 			<a target="_blank" href="https://github.com/hasherezade">
-				<img src="https://private-avatars.githubusercontent.com/u/3115348?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2MjAsIm5iZiI6MTczNDU3MzQyMCwicGF0aCI6Ii91LzMxMTUzNDgifQ.lILqZntJfCPHB7H4T289JoO1myyDHtwFY8iIN6yywMQ&s=72&u=ca64f917f82f2fc8b0afd3efec5b8cb54ab9d47c&v=4" width="24" alt="Avatar of hasherezade"/> hasherezade
+				<img src="https://private-avatars.githubusercontent.com/u/3115348?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1MjAsIm5iZiI6MTczNDYxMDMyMCwicGF0aCI6Ii91LzMxMTUzNDgifQ.k4mawEyRRf5qOH593BV4USO_VNJdmpGnx4rq7sYXeGQ&s=72&u=ca64f917f82f2fc8b0afd3efec5b8cb54ab9d47c&v=4" width="24" alt="Avatar of hasherezade"/> hasherezade
 			</a><br/>
 			hasherezade
 		</td>
@@ -2116,7 +2116,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>144</td>
 		<td>
 			<a target="_blank" href="https://github.com/fesor">
-				<img src="https://private-avatars.githubusercontent.com/u/172247?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91LzE3MjI0NyJ9.awwpmB62A6zZV7_a69JCMi8pjnGxUIiJqkHEEcZM4dU&s=72&u=45f374e995e0639f53b4f92b876004ee09f04026&v=4" width="24" alt="Avatar of fesor"/> fesor
+				<img src="https://private-avatars.githubusercontent.com/u/172247?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91LzE3MjI0NyJ9.OXs6DJUpDVJwxFRi5qKLywPbhyW5m93XR9sicD-5m10&s=72&u=45f374e995e0639f53b4f92b876004ee09f04026&v=4" width="24" alt="Avatar of fesor"/> fesor
 			</a><br/>
 			Sergey Protko
 		</td>
@@ -2130,7 +2130,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>145</td>
 		<td>
 			<a target="_blank" href="https://github.com/sulmar">
-				<img src="https://private-avatars.githubusercontent.com/u/779025?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5MjAsIm5iZiI6MTczNDU3MzcyMCwicGF0aCI6Ii91Lzc3OTAyNSJ9.fXzzkKd2CZBaMyROV0SEk8ESJoTB0ctW7tAWYIf6jdg&s=72&u=df7f90748be298a82335dff6742a5019eb26ee51&v=4" width="24" alt="Avatar of sulmar"/> sulmar
+				<img src="https://private-avatars.githubusercontent.com/u/779025?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4MjAsIm5iZiI6MTczNDYxMDYyMCwicGF0aCI6Ii91Lzc3OTAyNSJ9.on3OXTjYTOghx-MbkdBJw4NCTBwuGkixsyWOjjv3Lew&s=72&u=df7f90748be298a82335dff6742a5019eb26ee51&v=4" width="24" alt="Avatar of sulmar"/> sulmar
 			</a><br/>
 			Marcin Sulecki
 		</td>
@@ -2144,7 +2144,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>146</td>
 		<td>
 			<a target="_blank" href="https://github.com/paweljw">
-				<img src="https://private-avatars.githubusercontent.com/u/770796?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU2NDAsIm5iZiI6MTczNDU3NDQ0MCwicGF0aCI6Ii91Lzc3MDc5NiJ9.a2jtX_9SJLCYGzE-AanwTRiED5Cw7cIxaYpvjeYaZhw&s=72&u=ed0ef8969b2416fdca1071bafdb40d22c2ba8818&v=4" width="24" alt="Avatar of paweljw"/> paweljw
+				<img src="https://private-avatars.githubusercontent.com/u/770796?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE2NDAsIm5iZiI6MTczNDYxMDQ0MCwicGF0aCI6Ii91Lzc3MDc5NiJ9.oCnvermfRBg36W2QatwxRD66vChzI8p1A5OflVfOKkc&s=72&u=ed0ef8969b2416fdca1071bafdb40d22c2ba8818&v=4" width="24" alt="Avatar of paweljw"/> paweljw
 			</a><br/>
 			Pawe J Wal
 		</td>
@@ -2152,13 +2152,13 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Krakw MA Poland</td>
 		<td>7</td>
-		<td>1422</td>
+		<td>1424</td>
 	</tr>
 	<tr>
 		<td>147</td>
 		<td>
 			<a target="_blank" href="https://github.com/nineinchnick">
-				<img src="https://private-avatars.githubusercontent.com/u/795177?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2MjAsIm5iZiI6MTczNDU3MzQyMCwicGF0aCI6Ii91Lzc5NTE3NyJ9.HYmpN6-KIG3LRUEpv0Yf1-SFw8NVhhgjKzQLrWafA2o&s=72&u=e332f316f574cc7b59766fe2a3aa126005008664&v=4" width="24" alt="Avatar of nineinchnick"/> nineinchnick
+				<img src="https://private-avatars.githubusercontent.com/u/795177?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1MjAsIm5iZiI6MTczNDYxMDMyMCwicGF0aCI6Ii91Lzc5NTE3NyJ9._-6qY_1IG6kNAiGCILpgAhRAtQZSO7bqSsqXb1WU23Q&s=72&u=e332f316f574cc7b59766fe2a3aa126005008664&v=4" width="24" alt="Avatar of nineinchnick"/> nineinchnick
 			</a><br/>
 			Jan Wa
 		</td>
@@ -2172,7 +2172,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>148</td>
 		<td>
 			<a target="_blank" href="https://github.com/sthalik">
-				<img src="https://private-avatars.githubusercontent.com/u/1896811?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU2NDAsIm5iZiI6MTczNDU3NDQ0MCwicGF0aCI6Ii91LzE4OTY4MTEifQ.3eOQrCKjJQjV9aphR1Bt54_sf0slTBQISPHxhcxBDeo&s=72&v=4" width="24" alt="Avatar of sthalik"/> sthalik
+				<img src="https://private-avatars.githubusercontent.com/u/1896811?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE2NDAsIm5iZiI6MTczNDYxMDQ0MCwicGF0aCI6Ii91LzE4OTY4MTEifQ.Zp3eRUzVU7pWnxPRyZch40R5ZvOV63_6AGErXUFo61M&s=72&v=4" width="24" alt="Avatar of sthalik"/> sthalik
 			</a><br/>
 			Stanislaw Halik
 		</td>
@@ -2186,7 +2186,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>149</td>
 		<td>
 			<a target="_blank" href="https://github.com/satya164">
-				<img src="https://private-avatars.githubusercontent.com/u/1174278?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ0NDAsIm5iZiI6MTczNDU3MzI0MCwicGF0aCI6Ii91LzExNzQyNzgifQ.MfwKM_xKofDS2o3XmeWd76fT703U1ULZxW1S6PNTX_E&s=72&v=4" width="24" alt="Avatar of satya164"/> satya164
+				<img src="https://private-avatars.githubusercontent.com/u/1174278?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTEzNDAsIm5iZiI6MTczNDYxMDE0MCwicGF0aCI6Ii91LzExNzQyNzgifQ.DTRrsJMCU4Nwi1_uxWxSzxCzSbXQMM89uK0cy_b5lVc&s=72&v=4" width="24" alt="Avatar of satya164"/> satya164
 			</a><br/>
 			Satyajit Sahoo
 		</td>
@@ -2200,7 +2200,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>150</td>
 		<td>
 			<a target="_blank" href="https://github.com/lukmccall">
-				<img src="https://private-avatars.githubusercontent.com/u/9578601?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyODAsIm5iZiI6MTczNDU3NDA4MCwicGF0aCI6Ii91Lzk1Nzg2MDEifQ.DwyPD7Iyfe6mS1JH1rhprcfcvbLrv6Jo8L5BFfA0vx0&s=72&u=1f59f477a2afba3e7cff8f8e9904d0eee6e656df&v=4" width="24" alt="Avatar of lukmccall"/> lukmccall
+				<img src="https://private-avatars.githubusercontent.com/u/9578601?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxODAsIm5iZiI6MTczNDYxMDk4MCwicGF0aCI6Ii91Lzk1Nzg2MDEifQ.6-raZCl3bv2urhPTJZSiTGQ3sNUnISz5T1utX-qV7rE&s=72&u=1f59f477a2afba3e7cff8f8e9904d0eee6e656df&v=4" width="24" alt="Avatar of lukmccall"/> lukmccall
 			</a><br/>
 			ukasz Kosmaty
 		</td>
@@ -2214,7 +2214,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>151</td>
 		<td>
 			<a target="_blank" href="https://github.com/RIP21">
-				<img src="https://private-avatars.githubusercontent.com/u/3940079?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2MjAsIm5iZiI6MTczNDU3MzQyMCwicGF0aCI6Ii91LzM5NDAwNzkifQ.JPupikQdarOXteoVhJ49l0WFvxJgT48MDwMXXsACHlo&s=72&u=165b63d92a1989fdf1bd2b51ef3eeae05a4be488&v=4" width="24" alt="Avatar of RIP21"/> RIP21
+				<img src="https://private-avatars.githubusercontent.com/u/3940079?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1MjAsIm5iZiI6MTczNDYxMDMyMCwicGF0aCI6Ii91LzM5NDAwNzkifQ.pkrtUqh0RERdEnhkxqPgVpXI847ihmifS5oCh11j04w&s=72&u=165b63d92a1989fdf1bd2b51ef3eeae05a4be488&v=4" width="24" alt="Avatar of RIP21"/> RIP21
 			</a><br/>
 			Andrey Andrii Los
 		</td>
@@ -2227,8 +2227,22 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 	<tr>
 		<td>152</td>
 		<td>
+			<a target="_blank" href="https://github.com/LogvinovLeon">
+				<img src="https://private-avatars.githubusercontent.com/u/6204356?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTEyODAsIm5iZiI6MTczNDYxMDA4MCwicGF0aCI6Ii91LzYyMDQzNTYifQ.RmpfyD8_wva4uCleU_gsSbsza6Y0m_dnuJnyRIhdpaA&s=72&u=38d3259e570a464c8ba980fe6d560df36010d299&v=4" width="24" alt="Avatar of LogvinovLeon"/> LogvinovLeon
+			</a><br/>
+			Leonid Logvinov
+		</td>
+		<td>Vlayer </td>
+		<td><a target="_blank" href="https://twitter.com/Logvinov_Leon">Logvinov_Leon</a></td>
+		<td>Warsaw</td>
+		<td>560</td>
+		<td>1392</td>
+	</tr>
+	<tr>
+		<td>153</td>
+		<td>
 			<a target="_blank" href="https://github.com/Riu">
-				<img src="https://private-avatars.githubusercontent.com/u/213058?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUzNDAsIm5iZiI6MTczNDU3NDE0MCwicGF0aCI6Ii91LzIxMzA1OCJ9.J694iw-jkai2eILawyBMSbsvUfv1gqHfIiBjO0NFYd4&s=72&u=aeff320b4df02d2daaa659679be18d05b21f8e29&v=4" width="24" alt="Avatar of Riu"/> Riu
+				<img src="https://private-avatars.githubusercontent.com/u/213058?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIyNDAsIm5iZiI6MTczNDYxMTA0MCwicGF0aCI6Ii91LzIxMzA1OCJ9.ueZTms72VF1P43QumVLIy8XZP5AjCaNn5bQ8R2fpyAs&s=72&u=aeff320b4df02d2daaa659679be18d05b21f8e29&v=4" width="24" alt="Avatar of Riu"/> Riu
 			</a><br/>
 			Radek Muszyski
 		</td>
@@ -2239,24 +2253,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>1392</td>
 	</tr>
 	<tr>
-		<td>153</td>
-		<td>
-			<a target="_blank" href="https://github.com/LogvinovLeon">
-				<img src="https://private-avatars.githubusercontent.com/u/6204356?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQzODAsIm5iZiI6MTczNDU3MzE4MCwicGF0aCI6Ii91LzYyMDQzNTYifQ.maoYu2xPu_7j28gyUHbWcHEfE66tCyog2F1f3ogZChc&s=72&u=38d3259e570a464c8ba980fe6d560df36010d299&v=4" width="24" alt="Avatar of LogvinovLeon"/> LogvinovLeon
-			</a><br/>
-			Leonid Logvinov
-		</td>
-		<td>Vlayer </td>
-		<td><a target="_blank" href="https://twitter.com/Logvinov_Leon">Logvinov_Leon</a></td>
-		<td>Warsaw</td>
-		<td>560</td>
-		<td>1389</td>
-	</tr>
-	<tr>
 		<td>154</td>
 		<td>
 			<a target="_blank" href="https://github.com/AeroNotix">
-				<img src="https://private-avatars.githubusercontent.com/u/975962?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU0NjAsIm5iZiI6MTczNDU3NDI2MCwicGF0aCI6Ii91Lzk3NTk2MiJ9.aqTPjYmkWCSEMu6E83Kx9TiiTLJ_LNOcuZFdyOcloek&s=72&u=74ede55b765ef430bf7e81c212b5c613ef7ddfe9&v=4" width="24" alt="Avatar of AeroNotix"/> AeroNotix
+				<img src="https://private-avatars.githubusercontent.com/u/975962?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIzNjAsIm5iZiI6MTczNDYxMTE2MCwicGF0aCI6Ii91Lzk3NTk2MiJ9.Bt1_G92JKKaV0nEqOJz4Pb4casH6f3uup8ADkwOvYJs&s=72&u=74ede55b765ef430bf7e81c212b5c613ef7ddfe9&v=4" width="24" alt="Avatar of AeroNotix"/> AeroNotix
 			</a><br/>
 			Aaron France
 		</td>
@@ -2270,21 +2270,21 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>155</td>
 		<td>
 			<a target="_blank" href="https://github.com/kamilkisiela">
-				<img src="https://private-avatars.githubusercontent.com/u/8167190?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQyMDAsIm5iZiI6MTczNDU3MzAwMCwicGF0aCI6Ii91LzgxNjcxOTAifQ.nDqYemuylFM8BdGS8_ZIR3JxKFSXl-Qmj-MPAUOK3Pw&s=72&u=d6fb3b26298a4a6174630019a50247dad2c670b6&v=4" width="24" alt="Avatar of kamilkisiela"/> kamilkisiela
+				<img src="https://private-avatars.githubusercontent.com/u/8167190?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTExMDAsIm5iZiI6MTczNDYwOTkwMCwicGF0aCI6Ii91LzgxNjcxOTAifQ.pOwkXfqHjyjhWxaXqHS1kcRttgwUMF9ribYFTqi9b-U&s=72&u=d6fb3b26298a4a6174630019a50247dad2c670b6&v=4" width="24" alt="Avatar of kamilkisiela"/> kamilkisiela
 			</a><br/>
 			Kamil Kisiela
 		</td>
 		<td>@theguildorg </td>
 		<td><a target="_blank" href="https://twitter.com/kamilkisiela">kamilkisiela</a></td>
 		<td>Warsaw Poland</td>
-		<td>1299</td>
-		<td>1366</td>
+		<td>1303</td>
+		<td>1370</td>
 	</tr>
 	<tr>
 		<td>156</td>
 		<td>
 			<a target="_blank" href="https://github.com/mdjastrzebski">
-				<img src="https://private-avatars.githubusercontent.com/u/6368606?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUwNDAsIm5iZiI6MTczNDU3Mzg0MCwicGF0aCI6Ii91LzYzNjg2MDYifQ.yrU2EDewy8UhqbTsDZwzTWt8EY9zn1XKndTpiddGdzs&s=72&u=92f45a67a4f565eb71e17dbf68055b8a98b851bd&v=4" width="24" alt="Avatar of mdjastrzebski"/> mdjastrzebski
+				<img src="https://private-avatars.githubusercontent.com/u/6368606?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE5NDAsIm5iZiI6MTczNDYxMDc0MCwicGF0aCI6Ii91LzYzNjg2MDYifQ.CBpCnLZ2yj3Rl5_S5I_QuPvO90VPUDLxRm9XUqKNEbE&s=72&u=92f45a67a4f565eb71e17dbf68055b8a98b851bd&v=4" width="24" alt="Avatar of mdjastrzebski"/> mdjastrzebski
 			</a><br/>
 			Maciej Jastrzebski
 		</td>
@@ -2292,13 +2292,13 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/mdj_dev">mdj_dev</a></td>
 		<td>Wrocaw</td>
 		<td>953</td>
-		<td>1361</td>
+		<td>1369</td>
 	</tr>
 	<tr>
 		<td>157</td>
 		<td>
 			<a target="_blank" href="https://github.com/lukejagodzinski">
-				<img src="https://private-avatars.githubusercontent.com/u/1051229?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU1MjAsIm5iZiI6MTczNDU3NDMyMCwicGF0aCI6Ii91LzEwNTEyMjkifQ.OZsQD5W61vN-_OhOd3xEhpAMzAEY-AxkgTBn0-HUdpY&s=72&u=4b2418aa080be10b4a70d5fe2c8f9db3a115dd83&v=4" width="24" alt="Avatar of lukejagodzinski"/> lukejagodzinski
+				<img src="https://private-avatars.githubusercontent.com/u/1051229?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTI0MjAsIm5iZiI6MTczNDYxMTIyMCwicGF0aCI6Ii91LzEwNTEyMjkifQ.VsRQcrEEerU3AoKfu8waCZ4agm334WAEyJz0ewKDwCY&s=72&u=4b2418aa080be10b4a70d5fe2c8f9db3a115dd83&v=4" width="24" alt="Avatar of lukejagodzinski"/> lukejagodzinski
 			</a><br/>
 			ukasz Jagodziski
 		</td>
@@ -2312,7 +2312,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>158</td>
 		<td>
 			<a target="_blank" href="https://github.com/NOtherDev">
-				<img src="https://private-avatars.githubusercontent.com/u/1309057?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4NjAsIm5iZiI6MTczNDU3MzY2MCwicGF0aCI6Ii91LzEzMDkwNTcifQ.i5y4pRCxDzShHKE2Es0cPFMyyFY1NJHHh4hk34xGKIU&s=72&u=9dbb3f46715a43c4536b857c959251abb28c1f99&v=4" width="24" alt="Avatar of NOtherDev"/> NOtherDev
+				<img src="https://private-avatars.githubusercontent.com/u/1309057?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3NjAsIm5iZiI6MTczNDYxMDU2MCwicGF0aCI6Ii91LzEzMDkwNTcifQ.eR5LiunwyejbLyu6jcY9q6O5F86lOMJ0yd-JZW8Vk9Q&s=72&u=9dbb3f46715a43c4536b857c959251abb28c1f99&v=4" width="24" alt="Avatar of NOtherDev"/> NOtherDev
 			</a><br/>
 			Adam Bar
 		</td>
@@ -2326,49 +2326,35 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>159</td>
 		<td>
 			<a target="_blank" href="https://github.com/michalsn">
-				<img src="https://private-avatars.githubusercontent.com/u/459185?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUwNDAsIm5iZiI6MTczNDU3Mzg0MCwicGF0aCI6Ii91LzQ1OTE4NSJ9.3c2FqAxVUzY50ZA0lmLNSyn92cFExkItaOBdtoR5b0k&s=72&u=db46383d2c539975afce8494c4da70930e5171f6&v=4" width="24" alt="Avatar of michalsn"/> michalsn
+				<img src="https://private-avatars.githubusercontent.com/u/459185?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE5NDAsIm5iZiI6MTczNDYxMDc0MCwicGF0aCI6Ii91LzQ1OTE4NSJ9.3Qv9hASnoZp8zZuDQrtwWHfVV9OdPjMDYRX_q8cieck&s=72&u=db46383d2c539975afce8494c4da70930e5171f6&v=4" width="24" alt="Avatar of michalsn"/> michalsn
 			</a><br/>
 			Michal Sniatala
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Poznan Poland</td>
-		<td>735</td>
-		<td>1346</td>
+		<td>738</td>
+		<td>1350</td>
 	</tr>
 	<tr>
 		<td>160</td>
 		<td>
 			<a target="_blank" href="https://github.com/adamw">
-				<img src="https://private-avatars.githubusercontent.com/u/60503?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91LzYwNTAzIn0.LIMtv4feN7SSZhd0qCajYkCROOkCWVjJx6sG5W5-fvc&s=72&u=d63edeb0d594d2c1805496fc534461e8ed88abdd&v=4" width="24" alt="Avatar of adamw"/> adamw
+				<img src="https://private-avatars.githubusercontent.com/u/60503?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91LzYwNTAzIn0.8oqN8v-U-x8gk0O7xpquZ37zepJD6LxQXBK4JQkjXIE&s=72&u=d63edeb0d594d2c1805496fc534461e8ed88abdd&v=4" width="24" alt="Avatar of adamw"/> adamw
 			</a><br/>
 			Adam Warski
 		</td>
 		<td>Httpswwwsoftwaremill </td>
 		<td><a target="_blank" href="https://twitter.com/adamwarski">adamwarski</a></td>
 		<td>Warsaw Poland</td>
-		<td>1324</td>
-		<td>1345</td>
+		<td>1328</td>
+		<td>1349</td>
 	</tr>
 	<tr>
 		<td>161</td>
 		<td>
-			<a target="_blank" href="https://github.com/radekmie">
-				<img src="https://private-avatars.githubusercontent.com/u/1379064?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUzNDAsIm5iZiI6MTczNDU3NDE0MCwicGF0aCI6Ii91LzEzNzkwNjQifQ.Yhbruu0ocWiFjfnHIZBVp7gjZjA0KxqfHIidghA26CU&s=72&u=e1a0ad56d8011469b041f24515a1c84563087397&v=4" width="24" alt="Avatar of radekmie"/> radekmie
-			</a><br/>
-			Radosaw Miernik
-		</td>
-		<td>Head Of Engineering At<br/>@alenoag<br/></td>
-		<td>No Twitter Username</td>
-		<td>Wrocaw Poland</td>
-		<td>60</td>
-		<td>1345</td>
-	</tr>
-	<tr>
-		<td>162</td>
-		<td>
 			<a target="_blank" href="https://github.com/paireks">
-				<img src="https://private-avatars.githubusercontent.com/u/47977819?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU0MDAsIm5iZiI6MTczNDU3NDIwMCwicGF0aCI6Ii91LzQ3OTc3ODE5In0.4Tg-N4gs-7511ThQPW3W5U91yp67fcR-L0EKTRCPaBo&s=72&u=537d88eda908ea6ac527719abf1ef9b61babe02a&v=4" width="24" alt="Avatar of paireks"/> paireks
+				<img src="https://private-avatars.githubusercontent.com/u/47977819?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIzMDAsIm5iZiI6MTczNDYxMTEwMCwicGF0aCI6Ii91LzQ3OTc3ODE5In0.8b9BLRXsZpj_H9s-D3FbmNQUAVqwxSpYJKIJltVA7_8&s=72&u=537d88eda908ea6ac527719abf1ef9b61babe02a&v=4" width="24" alt="Avatar of paireks"/> paireks
 			</a><br/>
 			Wojciech Radaczyski
 		</td>
@@ -2376,27 +2362,55 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Wrocaw Poland</td>
 		<td>361</td>
-		<td>1341</td>
+		<td>1349</td>
+	</tr>
+	<tr>
+		<td>162</td>
+		<td>
+			<a target="_blank" href="https://github.com/radekmie">
+				<img src="https://private-avatars.githubusercontent.com/u/1379064?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIyNDAsIm5iZiI6MTczNDYxMTA0MCwicGF0aCI6Ii91LzEzNzkwNjQifQ.JAmZXscGN_nMMRVn3_6USCbsWET5lePeM8UikNC0sok&s=72&u=e1a0ad56d8011469b041f24515a1c84563087397&v=4" width="24" alt="Avatar of radekmie"/> radekmie
+			</a><br/>
+			Radosaw Miernik
+		</td>
+		<td>Head Of Engineering At<br/>@alenoag<br/></td>
+		<td>No Twitter Username</td>
+		<td>Wrocaw Poland</td>
+		<td>60</td>
+		<td>1349</td>
 	</tr>
 	<tr>
 		<td>163</td>
 		<td>
+			<a target="_blank" href="https://github.com/katafrakt">
+				<img src="https://private-avatars.githubusercontent.com/u/119904?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwNjAsIm5iZiI6MTczNDYxMDg2MCwicGF0aCI6Ii91LzExOTkwNCJ9.0vIdEC6Ohy1_u8xTDfSA-jg1kzagdJswgD83n2RZ-wM&s=72&u=cd2c7bd988ab92c2c16f596cfcc1440df260bdde&v=4" width="24" alt="Avatar of katafrakt"/> katafrakt
+			</a><br/>
+			Pawe witkowski
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Wrocaw PL</td>
+		<td>133</td>
+		<td>1342</td>
+	</tr>
+	<tr>
+		<td>164</td>
+		<td>
 			<a target="_blank" href="https://github.com/keszybz">
-				<img src="https://private-avatars.githubusercontent.com/u/349618?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91LzM0OTYxOCJ9.57k49EpS6fGPKoICrQYZ3HPff-a7f_YufLRLfsxpzMg&s=72&v=4" width="24" alt="Avatar of keszybz"/> keszybz
+				<img src="https://private-avatars.githubusercontent.com/u/349618?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91LzM0OTYxOCJ9.j4QthSbvxlhGlGSDWGzhqVuMZqEDfY4J-KKjkF2jxZg&s=72&v=4" width="24" alt="Avatar of keszybz"/> keszybz
 			</a><br/>
 			Zbigniew JdrzejewskiSzmek
 		</td>
 		<td>Red Hat </td>
 		<td>No Twitter Username</td>
 		<td>Warsaw</td>
-		<td>1331</td>
-		<td>1340</td>
+		<td>1332</td>
+		<td>1341</td>
 	</tr>
 	<tr>
-		<td>164</td>
+		<td>165</td>
 		<td>
 			<a target="_blank" href="https://github.com/aradzie">
-				<img src="https://private-avatars.githubusercontent.com/u/44386?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5MjAsIm5iZiI6MTczNDU3MzcyMCwicGF0aCI6Ii91LzQ0Mzg2In0.oZJj8CHqg31sZyXKU8dkSSSDF-pNGCPj195G8YEuvjs&s=72&u=512ca7ae7ddc8a161078305af8709efb11f6d2ba&v=4" width="24" alt="Avatar of aradzie"/> aradzie
+				<img src="https://private-avatars.githubusercontent.com/u/44386?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4MjAsIm5iZiI6MTczNDYxMDYyMCwicGF0aCI6Ii91LzQ0Mzg2In0.PZla_AUmJojT8vQd1f9maVxw9I2YhJqwTrPTm_lWEG8&s=72&u=512ca7ae7ddc8a161078305af8709efb11f6d2ba&v=4" width="24" alt="Avatar of aradzie"/> aradzie
 			</a><br/>
 			Aliaksandr Radzivanovich
 		</td>
@@ -2407,10 +2421,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>1339</td>
 	</tr>
 	<tr>
-		<td>165</td>
+		<td>166</td>
 		<td>
 			<a target="_blank" href="https://github.com/mpusz">
-				<img src="https://private-avatars.githubusercontent.com/u/506260?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2ODAsIm5iZiI6MTczNDU3MzQ4MCwicGF0aCI6Ii91LzUwNjI2MCJ9.-wNy5HBHGd7oNlwPSvBRFEiKrXQD0TmVPidq6oOhw-o&s=72&v=4" width="24" alt="Avatar of mpusz"/> mpusz
+				<img src="https://private-avatars.githubusercontent.com/u/506260?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1ODAsIm5iZiI6MTczNDYxMDM4MCwicGF0aCI6Ii91LzUwNjI2MCJ9.rc4YVuAzoM7l3_PBgyfH0v0PJyRalZfVECbfLTd_Wck&s=72&v=4" width="24" alt="Avatar of mpusz"/> mpusz
 			</a><br/>
 			Mateusz Pusz
 		</td>
@@ -2421,24 +2435,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>1338</td>
 	</tr>
 	<tr>
-		<td>166</td>
-		<td>
-			<a target="_blank" href="https://github.com/katafrakt">
-				<img src="https://private-avatars.githubusercontent.com/u/119904?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxNjAsIm5iZiI6MTczNDU3Mzk2MCwicGF0aCI6Ii91LzExOTkwNCJ9.AwYzR2zvN9FBNkU4ji5QKbg32cimrxdw6FfCeo0hJfQ&s=72&u=cd2c7bd988ab92c2c16f596cfcc1440df260bdde&v=4" width="24" alt="Avatar of katafrakt"/> katafrakt
-			</a><br/>
-			Pawe witkowski
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Wrocaw PL</td>
-		<td>133</td>
-		<td>1336</td>
-	</tr>
-	<tr>
 		<td>167</td>
 		<td>
 			<a target="_blank" href="https://github.com/asiekierka">
-				<img src="https://private-avatars.githubusercontent.com/u/113514?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQyNjAsIm5iZiI6MTczNDU3MzA2MCwicGF0aCI6Ii91LzExMzUxNCJ9.712HRO446wqOKYipZXlKHucm9-E8KLXjgU1-lYKHucQ&s=72&u=e952f43b9ccbaa265bef0921c7fc5c3dbf60985c&v=4" width="24" alt="Avatar of asiekierka"/> asiekierka
+				<img src="https://private-avatars.githubusercontent.com/u/113514?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTExNjAsIm5iZiI6MTczNDYwOTk2MCwicGF0aCI6Ii91LzExMzUxNCJ9.-KQnjV98miasJxuzwHqVihTrReULrIIieFXKBqdiGlU&s=72&u=e952f43b9ccbaa265bef0921c7fc5c3dbf60985c&v=4" width="24" alt="Avatar of asiekierka"/> asiekierka
 			</a><br/>
 			Adrian Siekierka
 		</td>
@@ -2452,7 +2452,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>168</td>
 		<td>
 			<a target="_blank" href="https://github.com/noyzys">
-				<img src="https://private-avatars.githubusercontent.com/u/43380558?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2MjAsIm5iZiI6MTczNDU3MzQyMCwicGF0aCI6Ii91LzQzMzgwNTU4In0.K94C7iQx9cA-edTfLq6ehXr2pNKs05Vi5qTZxRbJny0&s=72&u=d907d825637a906171008799e3f00198b95cc3d0&v=4" width="24" alt="Avatar of noyzys"/> noyzys
+				<img src="https://private-avatars.githubusercontent.com/u/43380558?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1MjAsIm5iZiI6MTczNDYxMDMyMCwicGF0aCI6Ii91LzQzMzgwNTU4In0.DJW50T1A1LqfzaDgBs-x-VAa7tiH227Xy7oOtVjtZ8Y&s=72&u=d907d825637a906171008799e3f00198b95cc3d0&v=4" width="24" alt="Avatar of noyzys"/> noyzys
 			</a><br/>
 			Damian 
 		</td>
@@ -2466,7 +2466,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>169</td>
 		<td>
 			<a target="_blank" href="https://github.com/slachiewicz">
-				<img src="https://private-avatars.githubusercontent.com/u/6705942?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxNjAsIm5iZiI6MTczNDU3Mzk2MCwicGF0aCI6Ii91LzY3MDU5NDIifQ.oieKweTwow4d6WfTIYi-KpQWi8utX4LqdXaNfAv9JPE&s=72&v=4" width="24" alt="Avatar of slachiewicz"/> slachiewicz
+				<img src="https://private-avatars.githubusercontent.com/u/6705942?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwNjAsIm5iZiI6MTczNDYxMDg2MCwicGF0aCI6Ii91LzY3MDU5NDIifQ.5PPXjCi-i1ZYYdON5TnuqDzpDMMGCywvG2CzMBVgHMI&s=72&v=4" width="24" alt="Avatar of slachiewicz"/> slachiewicz
 			</a><br/>
 			Sylwester Lachiewicz
 		</td>
@@ -2480,7 +2480,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>170</td>
 		<td>
 			<a target="_blank" href="https://github.com/ayoy">
-				<img src="https://private-avatars.githubusercontent.com/u/14022?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyMjAsIm5iZiI6MTczNDU3NDAyMCwicGF0aCI6Ii91LzE0MDIyIn0.KEw7qqSd3xvy92T89xhOQJsvdwVhIbAXxr7Wetj2_Oo&s=72&v=4" width="24" alt="Avatar of ayoy"/> ayoy
+				<img src="https://private-avatars.githubusercontent.com/u/14022?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxMjAsIm5iZiI6MTczNDYxMDkyMCwicGF0aCI6Ii91LzE0MDIyIn0.QrXR9vyt_GN1vz5h09VXmqlV5pD6XxxWajx1WP9L2F8&s=72&v=4" width="24" alt="Avatar of ayoy"/> ayoy
 			</a><br/>
 			Dominik Kapusta
 		</td>
@@ -2493,8 +2493,22 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 	<tr>
 		<td>171</td>
 		<td>
+			<a target="_blank" href="https://github.com/michaldrabik">
+				<img src="https://private-avatars.githubusercontent.com/u/11537045?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3NjAsIm5iZiI6MTczNDYxMDU2MCwicGF0aCI6Ii91LzExNTM3MDQ1In0.rT-p8vdjusSE-9FP4jAzrU054Q-bDyvIh74bTs_Gmj8&s=72&u=82311082f1c85be6804fb319f3b9f8399cf73de6&v=4" width="24" alt="Avatar of michaldrabik"/> michaldrabik
+			</a><br/>
+			Mike
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Poland</td>
+		<td>224</td>
+		<td>1304</td>
+	</tr>
+	<tr>
+		<td>172</td>
+		<td>
 			<a target="_blank" href="https://github.com/hsz">
-				<img src="https://private-avatars.githubusercontent.com/u/108333?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2MjAsIm5iZiI6MTczNDU3MzQyMCwicGF0aCI6Ii91LzEwODMzMyJ9.vLJav5KZ5cR168EugW_X9m6FVHuZ4Mc1UhbLWRXakcQ&s=72&u=7c61be1212e952b6b4508d6574554ce05c6a3ce3&v=4" width="24" alt="Avatar of hsz"/> hsz
+				<img src="https://private-avatars.githubusercontent.com/u/108333?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1MjAsIm5iZiI6MTczNDYxMDMyMCwicGF0aCI6Ii91LzEwODMzMyJ9.Ds660QYi-HlgbK4hVTVVYVNP4XPdjjExgPHD24djJzs&s=72&u=7c61be1212e952b6b4508d6574554ce05c6a3ce3&v=4" width="24" alt="Avatar of hsz"/> hsz
 			</a><br/>
 			Jakub Chrzanowski
 		</td>
@@ -2505,10 +2519,24 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>1301</td>
 	</tr>
 	<tr>
-		<td>172</td>
+		<td>173</td>
+		<td>
+			<a target="_blank" href="https://github.com/pdabrowski6">
+				<img src="https://private-avatars.githubusercontent.com/u/238076?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1ODAsIm5iZiI6MTczNDYxMDM4MCwicGF0aCI6Ii91LzIzODA3NiJ9.IaNNwC0ICmP8gNuGjNyQepfbHO-AHBy1yNw5wfnOYDQ&s=72&u=59379c584bcad0c1923a7f6bc6a84c73a7beb5b4&v=4" width="24" alt="Avatar of pdabrowski6"/> pdabrowski6
+			</a><br/>
+			Pawe Dbrowski
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/pdabrowski6">pdabrowski6</a></td>
+		<td>Poland</td>
+		<td>119</td>
+		<td>1301</td>
+	</tr>
+	<tr>
+		<td>174</td>
 		<td>
 			<a target="_blank" href="https://github.com/codecalm">
-				<img src="https://private-avatars.githubusercontent.com/u/1282324?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ3NDAsIm5iZiI6MTczNDU3MzU0MCwicGF0aCI6Ii91LzEyODIzMjQifQ.QAmY9T7GhkUfhk9mCz0Rt8X6bl3-sia4y7_2Y6rTvns&s=72&u=929834c4d5d606a76cb6206fa97cfab879a2d26a&v=4" width="24" alt="Avatar of codecalm"/> codecalm
+				<img src="https://private-avatars.githubusercontent.com/u/1282324?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE2NDAsIm5iZiI6MTczNDYxMDQ0MCwicGF0aCI6Ii91LzEyODIzMjQifQ.RO7jOasNXPSgAJRfMpq_k8BNIYRL5rDL1Go7n5dc1Xw&s=72&u=929834c4d5d606a76cb6206fa97cfab879a2d26a&v=4" width="24" alt="Avatar of codecalm"/> codecalm
 			</a><br/>
 			Pawe Kuna
 		</td>
@@ -2516,41 +2544,13 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/codecalm">codecalm</a></td>
 		<td>BielskoBiala Poland</td>
 		<td>426</td>
-		<td>1296</td>
-	</tr>
-	<tr>
-		<td>173</td>
-		<td>
-			<a target="_blank" href="https://github.com/pdabrowski6">
-				<img src="https://private-avatars.githubusercontent.com/u/238076?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2ODAsIm5iZiI6MTczNDU3MzQ4MCwicGF0aCI6Ii91LzIzODA3NiJ9._AgIT09nOo-NtHw6uJlSolmoibMS1yURr5T7WmOXP90&s=72&u=59379c584bcad0c1923a7f6bc6a84c73a7beb5b4&v=4" width="24" alt="Avatar of pdabrowski6"/> pdabrowski6
-			</a><br/>
-			Pawe Dbrowski
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/pdabrowski6">pdabrowski6</a></td>
-		<td>Poland</td>
-		<td>116</td>
-		<td>1292</td>
-	</tr>
-	<tr>
-		<td>174</td>
-		<td>
-			<a target="_blank" href="https://github.com/michaldrabik">
-				<img src="https://private-avatars.githubusercontent.com/u/11537045?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4NjAsIm5iZiI6MTczNDU3MzY2MCwicGF0aCI6Ii91LzExNTM3MDQ1In0.dijXYYFsJ_A-NOvuAd3HDhDUKejtFrMmPSdIAi2MCkI&s=72&u=82311082f1c85be6804fb319f3b9f8399cf73de6&v=4" width="24" alt="Avatar of michaldrabik"/> michaldrabik
-			</a><br/>
-			Mike
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Poland</td>
-		<td>212</td>
-		<td>1291</td>
+		<td>1298</td>
 	</tr>
 	<tr>
 		<td>175</td>
 		<td>
 			<a target="_blank" href="https://github.com/ku1ik">
-				<img src="https://private-avatars.githubusercontent.com/u/17589?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ3NDAsIm5iZiI6MTczNDU3MzU0MCwicGF0aCI6Ii91LzE3NTg5In0.NJRZND1AqXp_CEY5AZ6snNtxrR1BJKuVFJObSkM7wh0&s=72&u=1f51a13592061f7f7e3819fd20f88f31eaa7e053&v=4" width="24" alt="Avatar of ku1ik"/> ku1ik
+				<img src="https://private-avatars.githubusercontent.com/u/17589?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE2NDAsIm5iZiI6MTczNDYxMDQ0MCwicGF0aCI6Ii91LzE3NTg5In0.932aREHk0O45s2wAMWpkuOF8vYaM_6yCvGSbv9M13S0&s=72&u=1f51a13592061f7f7e3819fd20f88f31eaa7e053&v=4" width="24" alt="Avatar of ku1ik"/> ku1ik
 			</a><br/>
 			Marcin Kulik
 		</td>
@@ -2564,7 +2564,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>176</td>
 		<td>
 			<a target="_blank" href="https://github.com/michaldudak">
-				<img src="https://private-avatars.githubusercontent.com/u/4696105?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxNjAsIm5iZiI6MTczNDU3Mzk2MCwicGF0aCI6Ii91LzQ2OTYxMDUifQ.iN8Hm8qwjkPsEWlUWGhe_2wz_ywvievbniq1r6TGK3A&s=72&u=71db238cdf2ab78cf8315d1dc72e9a21a4fb2443&v=4" width="24" alt="Avatar of michaldudak"/> michaldudak
+				<img src="https://private-avatars.githubusercontent.com/u/4696105?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwNjAsIm5iZiI6MTczNDYxMDg2MCwicGF0aCI6Ii91LzQ2OTYxMDUifQ.OaGeF8QTmNG3VxQe4_9m7VoJi6UVS7cd0CF2cA2ZuCk&s=72&u=71db238cdf2ab78cf8315d1dc72e9a21a4fb2443&v=4" width="24" alt="Avatar of michaldudak"/> michaldudak
 			</a><br/>
 			Micha Dudak
 		</td>
@@ -2578,7 +2578,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>177</td>
 		<td>
 			<a target="_blank" href="https://github.com/jakubhajek">
-				<img src="https://private-avatars.githubusercontent.com/u/12278855?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5ODAsIm5iZiI6MTczNDU3Mzc4MCwicGF0aCI6Ii91LzEyMjc4ODU1In0._Q9AfHGMvDQJLfAn9cmDLa1dMwVJfVfa_L9yxz5lXrQ&s=72&u=febef45ac2943806e8535fcd105a17aa587fe444&v=4" width="24" alt="Avatar of jakubhajek"/> jakubhajek
+				<img src="https://private-avatars.githubusercontent.com/u/12278855?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4ODAsIm5iZiI6MTczNDYxMDY4MCwicGF0aCI6Ii91LzEyMjc4ODU1In0._KCqSeCj3gdrrcSL5EdBUkCXuak39M3IfxQ-LjU1u8I&s=72&u=febef45ac2943806e8535fcd105a17aa587fe444&v=4" width="24" alt="Avatar of jakubhajek"/> jakubhajek
 			</a><br/>
 			Jakub Hajek
 		</td>
@@ -2586,13 +2586,13 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/_jakubhajek">_jakubhajek</a></td>
 		<td>Poland</td>
 		<td>18</td>
-		<td>1282</td>
+		<td>1284</td>
 	</tr>
 	<tr>
 		<td>178</td>
 		<td>
 			<a target="_blank" href="https://github.com/mariuszgil">
-				<img src="https://private-avatars.githubusercontent.com/u/108696?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQzMjAsIm5iZiI6MTczNDU3MzEyMCwicGF0aCI6Ii91LzEwODY5NiJ9.7rhXONkXVI3RFoQMe0_RSldv2iw1ySHqlT2ceIsWz6A&s=72&u=efda4fb63600bc2c8b4c3e1cb4c5bde99e120e7a&v=4" width="24" alt="Avatar of mariuszgil"/> mariuszgil
+				<img src="https://private-avatars.githubusercontent.com/u/108696?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTEyMjAsIm5iZiI6MTczNDYxMDAyMCwicGF0aCI6Ii91LzEwODY5NiJ9.BUe5E2kABC7i3LtLPAAilJx7EYrBOhHDUh8x2i62x6Y&s=72&u=efda4fb63600bc2c8b4c3e1cb4c5bde99e120e7a&v=4" width="24" alt="Avatar of mariuszgil"/> mariuszgil
 			</a><br/>
 			Mariusz Gil
 		</td>
@@ -2606,7 +2606,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>179</td>
 		<td>
 			<a target="_blank" href="https://github.com/cristaloleg">
-				<img src="https://private-avatars.githubusercontent.com/u/366002?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUwNDAsIm5iZiI6MTczNDU3Mzg0MCwicGF0aCI6Ii91LzM2NjAwMiJ9.2CHsxyf_ZAzvQSHfWekghReUx2qRFu-wTelsw78kzfs&s=72&u=22b4115f9d411829bd5511490932bca8bd08fc6b&v=4" width="24" alt="Avatar of cristaloleg"/> cristaloleg
+				<img src="https://private-avatars.githubusercontent.com/u/366002?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE5NDAsIm5iZiI6MTczNDYxMDc0MCwicGF0aCI6Ii91LzM2NjAwMiJ9.PFxduEgsk4-6meCfXDPw7WC4GhFCP7jzBq2i2wZ4H_w&s=72&u=22b4115f9d411829bd5511490932bca8bd08fc6b&v=4" width="24" alt="Avatar of cristaloleg"/> cristaloleg
 			</a><br/>
 			Oleg Kovalov
 		</td>
@@ -2620,7 +2620,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>180</td>
 		<td>
 			<a target="_blank" href="https://github.com/osiewicz">
-				<img src="https://private-avatars.githubusercontent.com/u/24362066?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5ODAsIm5iZiI6MTczNDU3Mzc4MCwicGF0aCI6Ii91LzI0MzYyMDY2In0.fG9pW77KQk-vRdnvCp7D9XjnxI-5oYxFOLH0AMt-ZLs&s=72&u=8466fc8a6dc202f8e39ce125568d08599d95ae65&v=4" width="24" alt="Avatar of osiewicz"/> osiewicz
+				<img src="https://private-avatars.githubusercontent.com/u/24362066?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4ODAsIm5iZiI6MTczNDYxMDY4MCwicGF0aCI6Ii91LzI0MzYyMDY2In0.jNL2b-PA5F0z4U-cg2voimdd1weeGhEUfGrbvYj46yI&s=72&u=8466fc8a6dc202f8e39ce125568d08599d95ae65&v=4" width="24" alt="Avatar of osiewicz"/> osiewicz
 			</a><br/>
 			Piotr Osiewicz
 		</td>
@@ -2634,7 +2634,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>181</td>
 		<td>
 			<a target="_blank" href="https://github.com/Igloczek">
-				<img src="https://private-avatars.githubusercontent.com/u/5119280?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5ODAsIm5iZiI6MTczNDU3Mzc4MCwicGF0aCI6Ii91LzUxMTkyODAifQ.N3N-kI0lG71-mdx8v251KohbD_p-UMpIkGRoH07TvEc&s=72&u=ecc1bc5b85dedfa188c082464cd5ef4f6fc3bd3f&v=4" width="24" alt="Avatar of Igloczek"/> Igloczek
+				<img src="https://private-avatars.githubusercontent.com/u/5119280?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4ODAsIm5iZiI6MTczNDYxMDY4MCwicGF0aCI6Ii91LzUxMTkyODAifQ.Ck1_n8FRPKAQ-0SAn89rMSYeufH7Z7lcbgHJ3DNz0E8&s=72&u=ecc1bc5b85dedfa188c082464cd5ef4f6fc3bd3f&v=4" width="24" alt="Avatar of Igloczek"/> Igloczek
 			</a><br/>
 			Bartek Igielski
 		</td>
@@ -2648,7 +2648,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>182</td>
 		<td>
 			<a target="_blank" href="https://github.com/afronski">
-				<img src="https://private-avatars.githubusercontent.com/u/665582?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2MjAsIm5iZiI6MTczNDU3MzQyMCwicGF0aCI6Ii91LzY2NTU4MiJ9.TAKR-SQ1_yhRk8FklE7NxywVvQM1jkVII_gypC0AhdY&s=72&u=44037533d33ab0897f2ef666d64de62da93dc250&v=4" width="24" alt="Avatar of afronski"/> afronski
+				<img src="https://private-avatars.githubusercontent.com/u/665582?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1MjAsIm5iZiI6MTczNDYxMDMyMCwicGF0aCI6Ii91LzY2NTU4MiJ9.wXnEWh85_hu_IOwK_fpX0pGd-MYgJ-ViKN0V78o7k_w&s=72&u=44037533d33ab0897f2ef666d64de62da93dc250&v=4" width="24" alt="Avatar of afronski"/> afronski
 			</a><br/>
 			Wojtek Gawroski
 		</td>
@@ -2656,13 +2656,13 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/afronski">afronski</a></td>
 		<td>Warsaw Poland</td>
 		<td>76</td>
-		<td>1262</td>
+		<td>1263</td>
 	</tr>
 	<tr>
 		<td>183</td>
 		<td>
 			<a target="_blank" href="https://github.com/IKarbowiak">
-				<img src="https://private-avatars.githubusercontent.com/u/40886528?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxNjAsIm5iZiI6MTczNDU3Mzk2MCwicGF0aCI6Ii91LzQwODg2NTI4In0.FaJVdJuEVMCccmOZwj3O5zfdup_xoucBvpCwENRpqZw&s=72&u=559d22666859f8022c4b78a9eec037353c0dbe95&v=4" width="24" alt="Avatar of IKarbowiak"/> IKarbowiak
+				<img src="https://private-avatars.githubusercontent.com/u/40886528?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwNjAsIm5iZiI6MTczNDYxMDg2MCwicGF0aCI6Ii91LzQwODg2NTI4In0.cddTAzI0-eiXofoKE7ZcjP5i4Xn0WughdYGXwKeQ6Ek&s=72&u=559d22666859f8022c4b78a9eec037353c0dbe95&v=4" width="24" alt="Avatar of IKarbowiak"/> IKarbowiak
 			</a><br/>
 			Iga Karbowiak
 		</td>
@@ -2676,7 +2676,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>184</td>
 		<td>
 			<a target="_blank" href="https://github.com/bizley">
-				<img src="https://private-avatars.githubusercontent.com/u/8577314?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4NjAsIm5iZiI6MTczNDU3MzY2MCwicGF0aCI6Ii91Lzg1NzczMTQifQ.DjMGxsq6b2C1HM66C2jsviJ9OitUgchA7BtV4ZrVPbA&s=72&u=87787dbd2d931204e5168c7412db28b4cbc437a6&v=4" width="24" alt="Avatar of bizley"/> bizley
+				<img src="https://private-avatars.githubusercontent.com/u/8577314?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3NjAsIm5iZiI6MTczNDYxMDU2MCwicGF0aCI6Ii91Lzg1NzczMTQifQ.4ZMFB_EwqfszkiLkXBdKBv-Ns5O03SFDLSUW9kf3lTk&s=72&u=87787dbd2d931204e5168c7412db28b4cbc437a6&v=4" width="24" alt="Avatar of bizley"/> bizley
 			</a><br/>
 			Bizley
 		</td>
@@ -2690,7 +2690,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>185</td>
 		<td>
 			<a target="_blank" href="https://github.com/Szymon20000">
-				<img src="https://private-avatars.githubusercontent.com/u/12784455?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ3NDAsIm5iZiI6MTczNDU3MzU0MCwicGF0aCI6Ii91LzEyNzg0NDU1In0.u7L2c2rBSsqNt98jjFCT4C5Bl_eZUgz8VIE6yBP0Ork&s=72&u=c8242d279ad241ed4a507f7889e4a98280e15990&v=4" width="24" alt="Avatar of Szymon20000"/> Szymon20000
+				<img src="https://private-avatars.githubusercontent.com/u/12784455?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE2NDAsIm5iZiI6MTczNDYxMDQ0MCwicGF0aCI6Ii91LzEyNzg0NDU1In0.FkBumpz60I9FZ9i7WYoU1hwaq0WAZ_DNBAfxegZX_ck&s=72&u=c8242d279ad241ed4a507f7889e4a98280e15990&v=4" width="24" alt="Avatar of Szymon20000"/> Szymon20000
 			</a><br/>
 			Szymon Kapaa
 		</td>
@@ -2698,13 +2698,13 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/Turbo_Szymon">Turbo_Szymon</a></td>
 		<td>Poland</td>
 		<td>40</td>
-		<td>1246</td>
+		<td>1248</td>
 	</tr>
 	<tr>
 		<td>186</td>
 		<td>
 			<a target="_blank" href="https://github.com/Sekhmet">
-				<img src="https://private-avatars.githubusercontent.com/u/1968722?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxMDAsIm5iZiI6MTczNDU3MzkwMCwicGF0aCI6Ii91LzE5Njg3MjIifQ.AK0Z88wOqprpCuhzU2QlJpbdZC2w3lb56fP7I5UHuB8&s=72&u=b0f93d844346f4aa907de06eb068b3419dda5a1e&v=4" width="24" alt="Avatar of Sekhmet"/> Sekhmet
+				<img src="https://private-avatars.githubusercontent.com/u/1968722?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwMDAsIm5iZiI6MTczNDYxMDgwMCwicGF0aCI6Ii91LzE5Njg3MjIifQ.mN0j-JWdhjxplpLGjhda_wgwtScwE1gJGF9IsqxqUYA&s=72&u=b0f93d844346f4aa907de06eb068b3419dda5a1e&v=4" width="24" alt="Avatar of Sekhmet"/> Sekhmet
 			</a><br/>
 			Wiktor Tkaczyski
 		</td>
@@ -2718,7 +2718,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>187</td>
 		<td>
 			<a target="_blank" href="https://github.com/SmolinPavel">
-				<img src="https://private-avatars.githubusercontent.com/u/17011229?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91LzE3MDExMjI5In0.E0r_Uw2WViBijrL4QwR8nkTQLh3jvi6LKShmfcIYR2c&s=72&u=67cabebac0e802f05489e28c5ca983d75dd7c880&v=4" width="24" alt="Avatar of SmolinPavel"/> SmolinPavel
+				<img src="https://private-avatars.githubusercontent.com/u/17011229?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91LzE3MDExMjI5In0.sfH6499GkTgjIw32OYtW4OGAYHCWOQxJJYfuo08Gg3s&s=72&u=67cabebac0e802f05489e28c5ca983d75dd7c880&v=4" width="24" alt="Avatar of SmolinPavel"/> SmolinPavel
 			</a><br/>
 			Pavel Smolin
 		</td>
@@ -2732,21 +2732,21 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>188</td>
 		<td>
 			<a target="_blank" href="https://github.com/meshuga">
-				<img src="https://private-avatars.githubusercontent.com/u/1073936?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxMDAsIm5iZiI6MTczNDU3MzkwMCwicGF0aCI6Ii91LzEwNzM5MzYifQ.igzGrY2tYXl0cmrvt78gwkyjF-x3j9qbflQRnSZGNBA&s=72&u=714ea1f4fd04a2c083f3b9bee05cc245c327962e&v=4" width="24" alt="Avatar of meshuga"/> meshuga
+				<img src="https://private-avatars.githubusercontent.com/u/1073936?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwMDAsIm5iZiI6MTczNDYxMDgwMCwicGF0aCI6Ii91LzEwNzM5MzYifQ.DaOPdU7qELUQNL0qnYC-xSovlrIoOgXFRhnAS8IldUY&s=72&u=714ea1f4fd04a2c083f3b9bee05cc245c327962e&v=4" width="24" alt="Avatar of meshuga"/> meshuga
 			</a><br/>
 			Patryk Orwat
 		</td>
 		<td>Nokia </td>
 		<td>No Twitter Username</td>
 		<td>Gdask Poland</td>
-		<td>132</td>
-		<td>1238</td>
+		<td>133</td>
+		<td>1239</td>
 	</tr>
 	<tr>
 		<td>189</td>
 		<td>
 			<a target="_blank" href="https://github.com/lukaszlenart">
-				<img src="https://private-avatars.githubusercontent.com/u/170103?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2ODAsIm5iZiI6MTczNDU3MzQ4MCwicGF0aCI6Ii91LzE3MDEwMyJ9.LCNROJ8ojefBXkU0PgT8C2ISrD_F2oWR_B2nFYRddB8&s=72&u=a9203e7a8ffd5f0bd494ab0e034b0b6fa04ebc1d&v=4" width="24" alt="Avatar of lukaszlenart"/> lukaszlenart
+				<img src="https://private-avatars.githubusercontent.com/u/170103?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1ODAsIm5iZiI6MTczNDYxMDM4MCwicGF0aCI6Ii91LzE3MDEwMyJ9.9r49uKbbGrLiTUjjXzvuA04HlM7PgfAqwxRXQrFssPo&s=72&u=a9203e7a8ffd5f0bd494ab0e034b0b6fa04ebc1d&v=4" width="24" alt="Avatar of lukaszlenart"/> lukaszlenart
 			</a><br/>
 			Lukasz Lenart
 		</td>
@@ -2760,7 +2760,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>190</td>
 		<td>
 			<a target="_blank" href="https://github.com/philips77">
-				<img src="https://private-avatars.githubusercontent.com/u/6576580?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5ODAsIm5iZiI6MTczNDU3Mzc4MCwicGF0aCI6Ii91LzY1NzY1ODAifQ.ywZDSmwFTmxX8I4CIlu3LsSI_spOChtbcQhXjLTB6f0&s=72&u=535c4602d9cf7033772107afaecf1a53f5c4f025&v=4" width="24" alt="Avatar of philips77"/> philips77
+				<img src="https://private-avatars.githubusercontent.com/u/6576580?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4ODAsIm5iZiI6MTczNDYxMDY4MCwicGF0aCI6Ii91LzY1NzY1ODAifQ.KB9d-DHxm79OiPccxhVLmrYPGpyKTX8hFC898QClhPg&s=72&u=535c4602d9cf7033772107afaecf1a53f5c4f025&v=4" width="24" alt="Avatar of philips77"/> philips77
 			</a><br/>
 			Aleksander Nowakowski
 		</td>
@@ -2774,21 +2774,21 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>191</td>
 		<td>
 			<a target="_blank" href="https://github.com/pigmej">
-				<img src="https://private-avatars.githubusercontent.com/u/496754?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5ODAsIm5iZiI6MTczNDU3Mzc4MCwicGF0aCI6Ii91LzQ5Njc1NCJ9.O19npzNlNXEpetjKnv2_BD3WfjAPaIAIJ4mLTIewOOM&s=72&v=4" width="24" alt="Avatar of pigmej"/> pigmej
+				<img src="https://private-avatars.githubusercontent.com/u/496754?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4ODAsIm5iZiI6MTczNDYxMDY4MCwicGF0aCI6Ii91LzQ5Njc1NCJ9.Z-VQldoARRhXs-W4BED4CjRTgfEVt3OPRaSnVYxSTlY&s=72&v=4" width="24" alt="Avatar of pigmej"/> pigmej
 			</a><br/>
 			Jdrzej Nowak
 		</td>
 		<td>@spacemeshos </td>
 		<td>No Twitter Username</td>
 		<td>Wrocaw</td>
-		<td>398</td>
-		<td>1222</td>
+		<td>399</td>
+		<td>1225</td>
 	</tr>
 	<tr>
 		<td>192</td>
 		<td>
 			<a target="_blank" href="https://github.com/mackuba">
-				<img src="https://private-avatars.githubusercontent.com/u/28465?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ0NDAsIm5iZiI6MTczNDU3MzI0MCwicGF0aCI6Ii91LzI4NDY1In0.-ea6bOmtYa4iZ-7Uqz7oV8HY3zVnG2Bztk6GyQ2W83I&s=72&u=6e8fbb1a642aaae35c502a43c678d79fea9e1c51&v=4" width="24" alt="Avatar of mackuba"/> mackuba
+				<img src="https://private-avatars.githubusercontent.com/u/28465?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTEzNDAsIm5iZiI6MTczNDYxMDE0MCwicGF0aCI6Ii91LzI4NDY1In0.YuI6vFauEF4dNWH3UPy5CnBjbGy5V_gxhuUCJOJR5Ic&s=72&u=6e8fbb1a642aaae35c502a43c678d79fea9e1c51&v=4" width="24" alt="Avatar of mackuba"/> mackuba
 			</a><br/>
 			Kuba Suder
 		</td>
@@ -2802,7 +2802,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>193</td>
 		<td>
 			<a target="_blank" href="https://github.com/alovak">
-				<img src="https://private-avatars.githubusercontent.com/u/19233?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91LzE5MjMzIn0.VN2BkFb4D_P-bMthzz4ZdtQklfwoxEgaL07BZtgb2Mk&s=72&u=f3df0061d736037ac5300ce6e4199a91e527b29a&v=4" width="24" alt="Avatar of alovak"/> alovak
+				<img src="https://private-avatars.githubusercontent.com/u/19233?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91LzE5MjMzIn0.gdHgP2NF5RMHQHyxttVQPoA2eaPBeLgClGou8nqiGEo&s=72&u=f3df0061d736037ac5300ce6e4199a91e527b29a&v=4" width="24" alt="Avatar of alovak"/> alovak
 			</a><br/>
 			Pavel Gabriel
 		</td>
@@ -2816,7 +2816,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>194</td>
 		<td>
 			<a target="_blank" href="https://github.com/Xanewok">
-				<img src="https://private-avatars.githubusercontent.com/u/3093213?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4NjAsIm5iZiI6MTczNDU3MzY2MCwicGF0aCI6Ii91LzMwOTMyMTMifQ.nvTPP64olROp7rNwEdnFPK41lTiv37_vBA7idqG8J48&s=72&u=18f32441e54605114ccd99727b020b2372a34ca8&v=4" width="24" alt="Avatar of Xanewok"/> Xanewok
+				<img src="https://private-avatars.githubusercontent.com/u/3093213?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3NjAsIm5iZiI6MTczNDYxMDU2MCwicGF0aCI6Ii91LzMwOTMyMTMifQ.JSWwNpVkqi9-KiNgOKMFi6dJbXU961oMasRkhvX0sJE&s=72&u=18f32441e54605114ccd99727b020b2372a34ca8&v=4" width="24" alt="Avatar of Xanewok"/> Xanewok
 			</a><br/>
 			Igor Matuszewski
 		</td>
@@ -2830,7 +2830,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>195</td>
 		<td>
 			<a target="_blank" href="https://github.com/lucassus">
-				<img src="https://private-avatars.githubusercontent.com/u/41239?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5MjAsIm5iZiI6MTczNDU3MzcyMCwicGF0aCI6Ii91LzQxMjM5In0.xGSmnTf2SEBaGiR5LuLfzAIZDkrHT7Bb7mFdos1l3a4&s=72&u=54b8ce3aeee5f75fe9d997e102c797a2e36714af&v=4" width="24" alt="Avatar of lucassus"/> lucassus
+				<img src="https://private-avatars.githubusercontent.com/u/41239?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4MjAsIm5iZiI6MTczNDYxMDYyMCwicGF0aCI6Ii91LzQxMjM5In0.Lovd8N7iMa1RbXzbMvZIGWnCPX_8uiScx30YZANFLig&s=72&u=54b8ce3aeee5f75fe9d997e102c797a2e36714af&v=4" width="24" alt="Avatar of lucassus"/> lucassus
 			</a><br/>
 			Lukasz Bandzarewicz
 		</td>
@@ -2844,35 +2844,77 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>196</td>
 		<td>
 			<a target="_blank" href="https://github.com/arturdryomov">
-				<img src="https://private-avatars.githubusercontent.com/u/200401?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2ODAsIm5iZiI6MTczNDU3MzQ4MCwicGF0aCI6Ii91LzIwMDQwMSJ9.fOrapc43FEV17sMTjGQbi2I6Mcu7bM6Wmg9WjluyUvY&s=72&u=0092be029f49cfa7c10e81b10d88ce1c25eeb850&v=4" width="24" alt="Avatar of arturdryomov"/> arturdryomov
+				<img src="https://private-avatars.githubusercontent.com/u/200401?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1ODAsIm5iZiI6MTczNDYxMDM4MCwicGF0aCI6Ii91LzIwMDQwMSJ9.dren4eS8wyVOufQfjQUmk2W0HQwUNGbqGLtGanXOGT4&s=72&u=0092be029f49cfa7c10e81b10d88ce1c25eeb850&v=4" width="24" alt="Avatar of arturdryomov"/> arturdryomov
 			</a><br/>
 			Artur Dryomov
 		</td>
 		<td>@lyft  </td>
 		<td>No Twitter Username</td>
 		<td>Wrocaw Poland</td>
-		<td>11</td>
-		<td>1181</td>
+		<td>12</td>
+		<td>1182</td>
 	</tr>
 	<tr>
 		<td>197</td>
 		<td>
 			<a target="_blank" href="https://github.com/kacperkapusciak">
-				<img src="https://private-avatars.githubusercontent.com/u/39658211?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ1MDAsIm5iZiI6MTczNDU3MzMwMCwicGF0aCI6Ii91LzM5NjU4MjExIn0.A4CRy6pbf3CTAlmaKzkssKoWMr94DGcp8arwAXbm8do&s=72&u=37d974ed0f61a0c85da669c74e7dad8874a06234&v=4" width="24" alt="Avatar of kacperkapusciak"/> kacperkapusciak
+				<img src="https://private-avatars.githubusercontent.com/u/39658211?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE0MDAsIm5iZiI6MTczNDYxMDIwMCwicGF0aCI6Ii91LzM5NjU4MjExIn0.i-mLGr_WSiXfNhtF5t61UIJuTvqGe8paUvXlK_O01R8&s=72&u=37d974ed0f61a0c85da669c74e7dad8874a06234&v=4" width="24" alt="Avatar of kacperkapusciak"/> kacperkapusciak
 			</a><br/>
 			Kacper Kapuciak
 		</td>
 		<td>Software Mansion </td>
 		<td><a target="_blank" href="https://twitter.com/kacperkapusciak">kacperkapusciak</a></td>
 		<td>Krakw Poland</td>
-		<td>544</td>
-		<td>1175</td>
+		<td>549</td>
+		<td>1180</td>
 	</tr>
 	<tr>
 		<td>198</td>
 		<td>
+			<a target="_blank" href="https://github.com/lesnitsky">
+				<img src="https://private-avatars.githubusercontent.com/u/6261302?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE5NDAsIm5iZiI6MTczNDYxMDc0MCwicGF0aCI6Ii91LzYyNjEzMDIifQ.Y6kCEM5UFJc63nSXcp43c0apKxhnqmfUdQeQPX70DLU&s=72&u=97be7133a40a2186242cc7d33ebf9ec898de1c88&v=4" width="24" alt="Avatar of lesnitsky"/> lesnitsky
+			</a><br/>
+			Andrei Lesnitsky
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/lesnitsky_dev">lesnitsky_dev</a></td>
+		<td>Poland Gdask</td>
+		<td>153</td>
+		<td>1170</td>
+	</tr>
+	<tr>
+		<td>199</td>
+		<td>
+			<a target="_blank" href="https://github.com/pie6k">
+				<img src="https://private-avatars.githubusercontent.com/u/7311462?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTEyMjAsIm5iZiI6MTczNDYxMDAyMCwicGF0aCI6Ii91LzczMTE0NjIifQ.BY7Z0mc2eJGcBBtXu-DxHKHfZRWvtZ5BR0uC9OS193s&s=72&u=bfd51d99536243402c528d1fe13567bc845f0205&v=4" width="24" alt="Avatar of pie6k"/> pie6k
+			</a><br/>
+			Adam Pietrasiak
+		</td>
+		<td>Timpler </td>
+		<td><a target="_blank" href="https://twitter.com/pie6k">pie6k</a></td>
+		<td>Krakw Poland</td>
+		<td>20</td>
+		<td>1169</td>
+	</tr>
+	<tr>
+		<td>200</td>
+		<td>
+			<a target="_blank" href="https://github.com/nurkiewicz">
+				<img src="https://private-avatars.githubusercontent.com/u/164045?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3NjAsIm5iZiI6MTczNDYxMDU2MCwicGF0aCI6Ii91LzE2NDA0NSJ9.ysqR42jIG3Y_lbwCEa8zYBm2JBnyDVo20rmW5TKdlkQ&s=72&v=4" width="24" alt="Avatar of nurkiewicz"/> nurkiewicz
+			</a><br/>
+			Tomasz Nurkiewicz
+		</td>
+		<td>Mondaycom </td>
+		<td>No Twitter Username</td>
+		<td>Warsaw</td>
+		<td>388</td>
+		<td>1168</td>
+	</tr>
+	<tr>
+		<td>201</td>
+		<td>
 			<a target="_blank" href="https://github.com/darrarski">
-				<img src="https://private-avatars.githubusercontent.com/u/1384684?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ0NDAsIm5iZiI6MTczNDU3MzI0MCwicGF0aCI6Ii91LzEzODQ2ODQifQ.V3A0mN5LxzVdphl4eiQu2cVqcanel1AuqjmRtoxTkxk&s=72&v=4" width="24" alt="Avatar of darrarski"/> darrarski
+				<img src="https://private-avatars.githubusercontent.com/u/1384684?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTEzNDAsIm5iZiI6MTczNDYxMDE0MCwicGF0aCI6Ii91LzEzODQ2ODQifQ.ec1PN2her9iYHVGU8rf_juJD9DLBI6SzUaRe0UV5YGc&s=72&v=4" width="24" alt="Avatar of darrarski"/> darrarski
 			</a><br/>
 			Dariusz Rybicki
 		</td>
@@ -2883,10 +2925,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>1168</td>
 	</tr>
 	<tr>
-		<td>199</td>
+		<td>202</td>
 		<td>
 			<a target="_blank" href="https://github.com/viashchuk">
-				<img src="https://private-avatars.githubusercontent.com/u/22917917?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQzODAsIm5iZiI6MTczNDU3MzE4MCwicGF0aCI6Ii91LzIyOTE3OTE3In0.BuNKrDQlADjaPIynHAAA3gsCXvg2KrT1B1D6Wdx-fcM&s=72&u=22589cf9524639d53503492250360e805f0f0cd3&v=4" width="24" alt="Avatar of viashchuk"/> viashchuk
+				<img src="https://private-avatars.githubusercontent.com/u/22917917?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTEyODAsIm5iZiI6MTczNDYxMDA4MCwicGF0aCI6Ii91LzIyOTE3OTE3In0.wv_HdB2DgQsUr9wTSgq6snaWBpbzIcvYe-QFXj9NaWk&s=72&u=22589cf9524639d53503492250360e805f0f0cd3&v=4" width="24" alt="Avatar of viashchuk"/> viashchuk
 			</a><br/>
 			Viki
 		</td>
@@ -2897,24 +2939,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>1167</td>
 	</tr>
 	<tr>
-		<td>200</td>
-		<td>
-			<a target="_blank" href="https://github.com/nurkiewicz">
-				<img src="https://private-avatars.githubusercontent.com/u/164045?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4NjAsIm5iZiI6MTczNDU3MzY2MCwicGF0aCI6Ii91LzE2NDA0NSJ9.e5QFMdfKaQswZvBxRNTaFjM_jnMZjeWfbburhXi_GLg&s=72&v=4" width="24" alt="Avatar of nurkiewicz"/> nurkiewicz
-			</a><br/>
-			Tomasz Nurkiewicz
-		</td>
-		<td>Mondaycom </td>
-		<td>No Twitter Username</td>
-		<td>Warsaw</td>
-		<td>387</td>
-		<td>1166</td>
-	</tr>
-	<tr>
-		<td>201</td>
+		<td>203</td>
 		<td>
 			<a target="_blank" href="https://github.com/thepylot">
-				<img src="https://private-avatars.githubusercontent.com/u/42200400?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUzNDAsIm5iZiI6MTczNDU3NDE0MCwicGF0aCI6Ii91LzQyMjAwNDAwIn0.sYdKw314J9DgIf6DRgt3yg4FGuv59_Yy9xgoGHPWv3M&s=72&u=e4565f1f76c978a70327c34f8d54766e690ef302&v=4" width="24" alt="Avatar of thepylot"/> thepylot
+				<img src="https://private-avatars.githubusercontent.com/u/42200400?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTEzNDAsIm5iZiI6MTczNDYxMDE0MCwicGF0aCI6Ii91LzQyMjAwNDAwIn0.VLo9ynjxoq8Hg6Rp1vJM__brgp5M8R5GfJYbCnIxYkE&s=72&u=e4565f1f76c978a70327c34f8d54766e690ef302&v=4" width="24" alt="Avatar of thepylot"/> thepylot
 			</a><br/>
 			Rashid
 		</td>
@@ -2925,38 +2953,24 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>1166</td>
 	</tr>
 	<tr>
-		<td>202</td>
+		<td>204</td>
 		<td>
-			<a target="_blank" href="https://github.com/lesnitsky">
-				<img src="https://private-avatars.githubusercontent.com/u/6261302?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUwNDAsIm5iZiI6MTczNDU3Mzg0MCwicGF0aCI6Ii91LzYyNjEzMDIifQ.XGyZVKG39-Wy_W_PhQEIWS_0zKpKMxBPVsTIvKvdR5s&s=72&u=97be7133a40a2186242cc7d33ebf9ec898de1c88&v=4" width="24" alt="Avatar of lesnitsky"/> lesnitsky
+			<a target="_blank" href="https://github.com/MarshalX">
+				<img src="https://private-avatars.githubusercontent.com/u/15520314?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTExNjAsIm5iZiI6MTczNDYwOTk2MCwicGF0aCI6Ii91LzE1NTIwMzE0In0.79HVNXok4SuvBTuF6aSLfC7XCBSN2qWSTN7eMTwdbV0&s=72&u=314075534fae487a02425e6385e32ee8525d01e8&v=4" width="24" alt="Avatar of MarshalX"/> MarshalX
 			</a><br/>
-			Andrei Lesnitsky
+			Ilya Siamionau
 		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/lesnitsky_dev">lesnitsky_dev</a></td>
-		<td>Poland Gdask</td>
-		<td>153</td>
-		<td>1165</td>
-	</tr>
-	<tr>
-		<td>203</td>
-		<td>
-			<a target="_blank" href="https://github.com/pie6k">
-				<img src="https://private-avatars.githubusercontent.com/u/7311462?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQzMjAsIm5iZiI6MTczNDU3MzEyMCwicGF0aCI6Ii91LzczMTE0NjIifQ.2wq0_x-JZSgypz0VsNoDou40frtBp2RwRw2fk-TIRec&s=72&u=bfd51d99536243402c528d1fe13567bc845f0205&v=4" width="24" alt="Avatar of pie6k"/> pie6k
-			</a><br/>
-			Adam Pietrasiak
-		</td>
-		<td>Timpler </td>
-		<td><a target="_blank" href="https://twitter.com/pie6k">pie6k</a></td>
-		<td>Krakw Poland</td>
-		<td>20</td>
+		<td>@cycodehq </td>
+		<td>No Twitter Username</td>
+		<td>Warsaw Poland</td>
+		<td>1037</td>
 		<td>1160</td>
 	</tr>
 	<tr>
-		<td>204</td>
+		<td>205</td>
 		<td>
 			<a target="_blank" href="https://github.com/EgorBo">
-				<img src="https://private-avatars.githubusercontent.com/u/523221?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5MjAsIm5iZiI6MTczNDU3MzcyMCwicGF0aCI6Ii91LzUyMzIyMSJ9.G7irJvNn068Xz4ylNCnWipsY7TRB8_QEYqOsT61osdA&s=72&u=928bd85ed90950adb6fbc06270173ef9bcbbe707&v=4" width="24" alt="Avatar of EgorBo"/> EgorBo
+				<img src="https://private-avatars.githubusercontent.com/u/523221?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4MjAsIm5iZiI6MTczNDYxMDYyMCwicGF0aCI6Ii91LzUyMzIyMSJ9.Wlp7wEr7ei-7BcQiIW-FPfE2LU1QqBVveYE6xGLwZ1s&s=72&u=928bd85ed90950adb6fbc06270173ef9bcbbe707&v=4" width="24" alt="Avatar of EgorBo"/> EgorBo
 			</a><br/>
 			Egor Bogatov
 		</td>
@@ -2967,24 +2981,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>1159</td>
 	</tr>
 	<tr>
-		<td>205</td>
-		<td>
-			<a target="_blank" href="https://github.com/MarshalX">
-				<img src="https://private-avatars.githubusercontent.com/u/15520314?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQyNjAsIm5iZiI6MTczNDU3MzA2MCwicGF0aCI6Ii91LzE1NTIwMzE0In0.3fS6k-hdNu15KqMv1xNAnB1cw-PrRvzxzlxGcLjuyYM&s=72&u=314075534fae487a02425e6385e32ee8525d01e8&v=4" width="24" alt="Avatar of MarshalX"/> MarshalX
-			</a><br/>
-			Ilya Siamionau
-		</td>
-		<td>@cycodehq </td>
-		<td>No Twitter Username</td>
-		<td>Warsaw Poland</td>
-		<td>1036</td>
-		<td>1158</td>
-	</tr>
-	<tr>
 		<td>206</td>
 		<td>
 			<a target="_blank" href="https://github.com/blefnk">
-				<img src="https://private-avatars.githubusercontent.com/u/104720746?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91LzEwNDcyMDc0NiJ9.QGH_Y2OG43MXGkJoTUqAbL82cEhvMts4nSrJ3zdELhs&s=72&u=5872611e1358768c20ddcb1f6c268bf4459943dd&v=4" width="24" alt="Avatar of blefnk"/> blefnk
+				<img src="https://private-avatars.githubusercontent.com/u/104720746?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91LzEwNDcyMDc0NiJ9.4Vems4ih5nb6npJEtZxkL6bu06XPLYNa3yRYkVaXLK4&s=72&u=5872611e1358768c20ddcb1f6c268bf4459943dd&v=4" width="24" alt="Avatar of blefnk"/> blefnk
 			</a><br/>
 			Nazar Kornienko
 		</td>
@@ -2998,7 +2998,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>207</td>
 		<td>
 			<a target="_blank" href="https://github.com/kmagiera">
-				<img src="https://private-avatars.githubusercontent.com/u/726445?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQyNjAsIm5iZiI6MTczNDU3MzA2MCwicGF0aCI6Ii91LzcyNjQ0NSJ9.g5L9qr7yztT_LAb_qIUkkmq3bS9zw_X0RHVG9Bu5Hho&s=72&u=eabd325b221a17a05f0b3d873c4aec544370ea6c&v=4" width="24" alt="Avatar of kmagiera"/> kmagiera
+				<img src="https://private-avatars.githubusercontent.com/u/726445?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTExNjAsIm5iZiI6MTczNDYwOTk2MCwicGF0aCI6Ii91LzcyNjQ0NSJ9.EK6FFZdUgYf4W6c-z7LNtQZuBmPSTuV5AjhYQqba-8Y&s=72&u=eabd325b221a17a05f0b3d873c4aec544370ea6c&v=4" width="24" alt="Avatar of kmagiera"/> kmagiera
 			</a><br/>
 			Krzysztof Magiera
 		</td>
@@ -3012,7 +3012,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>208</td>
 		<td>
 			<a target="_blank" href="https://github.com/advantis">
-				<img src="https://private-avatars.githubusercontent.com/u/853858?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5MjAsIm5iZiI6MTczNDU3MzcyMCwicGF0aCI6Ii91Lzg1Mzg1OCJ9.nIZWcjZ8glRmdDfqN_JSetFZ77AHg22R9aqIWG7Xno8&s=72&v=4" width="24" alt="Avatar of advantis"/> advantis
+				<img src="https://private-avatars.githubusercontent.com/u/853858?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4MjAsIm5iZiI6MTczNDYxMDYyMCwicGF0aCI6Ii91Lzg1Mzg1OCJ9.RMeUPC_MWitl4u6wirDViDbwzUtSugSj4175nmHFjvk&s=72&v=4" width="24" alt="Avatar of advantis"/> advantis
 			</a><br/>
 			Yurii Kotov
 		</td>
@@ -3026,7 +3026,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>209</td>
 		<td>
 			<a target="_blank" href="https://github.com/henieek">
-				<img src="https://private-avatars.githubusercontent.com/u/336158?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyODAsIm5iZiI6MTczNDU3NDA4MCwicGF0aCI6Ii91LzMzNjE1OCJ9.oMm6AimJ7waOmvRRmri2Htg9izab-FaeyfUqdf4fA9s&s=72&u=531aadfac7f990de86dcace8a65b4f2b57acb4c1&v=4" width="24" alt="Avatar of henieek"/> henieek
+				<img src="https://private-avatars.githubusercontent.com/u/336158?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxODAsIm5iZiI6MTczNDYxMDk4MCwicGF0aCI6Ii91LzMzNjE1OCJ9.tmYDl3L8--yzUix4J5tt6piQl-uOMLsKxNY7kon58i8&s=72&u=531aadfac7f990de86dcace8a65b4f2b57acb4c1&v=4" width="24" alt="Avatar of henieek"/> henieek
 			</a><br/>
 			Mateusz Herych
 		</td>
@@ -3034,13 +3034,13 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/mherych">mherych</a></td>
 		<td>Krakw Poland</td>
 		<td>4</td>
-		<td>1139</td>
+		<td>1143</td>
 	</tr>
 	<tr>
 		<td>210</td>
 		<td>
 			<a target="_blank" href="https://github.com/piotmag769">
-				<img src="https://private-avatars.githubusercontent.com/u/56825108?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU2NDAsIm5iZiI6MTczNDU3NDQ0MCwicGF0aCI6Ii91LzU2ODI1MTA4In0.45VajdSE15ba3YCwgkZsCXs5PRwjH7G4xGDHE9MLwF4&s=72&v=4" width="24" alt="Avatar of piotmag769"/> piotmag769
+				<img src="https://private-avatars.githubusercontent.com/u/56825108?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTI1NDAsIm5iZiI6MTczNDYxMTM0MCwicGF0aCI6Ii91LzU2ODI1MTA4In0.1_izeu6TQ_1ZQp4dv6l2d7e8g_3MSjItozPkYDi-UmA&s=72&v=4" width="24" alt="Avatar of piotmag769"/> piotmag769
 			</a><br/>
 			Piotr Magiera
 		</td>
@@ -3054,21 +3054,21 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>211</td>
 		<td>
 			<a target="_blank" href="https://github.com/leszko">
-				<img src="https://private-avatars.githubusercontent.com/u/2834997?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUzNDAsIm5iZiI6MTczNDU3NDE0MCwicGF0aCI6Ii91LzI4MzQ5OTcifQ.tSBym4985vVR82IeB2rxsmp5mmIXpO4ghogaDzYTZm8&s=72&u=3e62d3b8e4ccf599b0b8db60298d5183f5f7730d&v=4" width="24" alt="Avatar of leszko"/> leszko
+				<img src="https://private-avatars.githubusercontent.com/u/2834997?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIyNDAsIm5iZiI6MTczNDYxMTA0MCwicGF0aCI6Ii91LzI4MzQ5OTcifQ.PY1bF7bqc8AuG5vZ2IkQQxDRY14WgK-qfhchuWr6OD8&s=72&u=3e62d3b8e4ccf599b0b8db60298d5183f5f7730d&v=4" width="24" alt="Avatar of leszko"/> leszko
 			</a><br/>
 			Rafa Leszko
 		</td>
 		<td>Livepeer </td>
 		<td><a target="_blank" href="https://twitter.com/RafalLeszko">RafalLeszko</a></td>
 		<td>Krakw Poland</td>
-		<td>735</td>
-		<td>1138</td>
+		<td>736</td>
+		<td>1139</td>
 	</tr>
 	<tr>
 		<td>212</td>
 		<td>
 			<a target="_blank" href="https://github.com/kacgrzes">
-				<img src="https://private-avatars.githubusercontent.com/u/7748788?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyMjAsIm5iZiI6MTczNDU3NDAyMCwicGF0aCI6Ii91Lzc3NDg3ODgifQ.QskSYAP29y7Q1xrkF-suzoxX5RhyM8Uaxjel8Q1MbUg&s=72&u=fb1fe594e4b13ad5f0c9b6223c64c7f4c15aa792&v=4" width="24" alt="Avatar of kacgrzes"/> kacgrzes
+				<img src="https://private-avatars.githubusercontent.com/u/7748788?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxMjAsIm5iZiI6MTczNDYxMDkyMCwicGF0aCI6Ii91Lzc3NDg3ODgifQ.3m0TBYBRdWJi_Dbe51lwD7P0nLSAOP0wJd-8HAbVeSo&s=72&u=fb1fe594e4b13ad5f0c9b6223c64c7f4c15aa792&v=4" width="24" alt="Avatar of kacgrzes"/> kacgrzes
 			</a><br/>
 			Kacper Grzeszczyk
 		</td>
@@ -3082,7 +3082,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>213</td>
 		<td>
 			<a target="_blank" href="https://github.com/JustArchi">
-				<img src="https://private-avatars.githubusercontent.com/u/1069029?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQzODAsIm5iZiI6MTczNDU3MzE4MCwicGF0aCI6Ii91LzEwNjkwMjkifQ.6oGDul3FWrFvTEJTG3MBZorcG3iu30DrhbMZFGvFT20&s=72&u=4ce19ce8b6c04754a4b374da982f94c2729350e0&v=4" width="24" alt="Avatar of JustArchi"/> JustArchi
+				<img src="https://private-avatars.githubusercontent.com/u/1069029?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTEyODAsIm5iZiI6MTczNDYxMDA4MCwicGF0aCI6Ii91LzEwNjkwMjkifQ.XWcqjPDHxDpYMgvpZjOh26NXT3Z2V6TXjI7gBUQp7xc&s=72&u=4ce19ce8b6c04754a4b374da982f94c2729350e0&v=4" width="24" alt="Avatar of JustArchi"/> JustArchi
 			</a><br/>
 			ukasz Domeradzki
 		</td>
@@ -3096,7 +3096,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>214</td>
 		<td>
 			<a target="_blank" href="https://github.com/kkafar">
-				<img src="https://private-avatars.githubusercontent.com/u/50801299?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxMDAsIm5iZiI6MTczNDU3MzkwMCwicGF0aCI6Ii91LzUwODAxMjk5In0.l0qaXUWG-R-rJtxsBUWlyZZ5R9l0JuhhYa62BFIx7eA&s=72&u=f11f028d4a34295746b22f424faf391dda6304e4&v=4" width="24" alt="Avatar of kkafar"/> kkafar
+				<img src="https://private-avatars.githubusercontent.com/u/50801299?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwMDAsIm5iZiI6MTczNDYxMDgwMCwicGF0aCI6Ii91LzUwODAxMjk5In0.subudqtCBw3oJxZXHDy4wM6HTkWLfjOXZGOFpRQ2s7Q&s=72&u=f11f028d4a34295746b22f424faf391dda6304e4&v=4" width="24" alt="Avatar of kkafar"/> kkafar
 			</a><br/>
 			Kacper Kafara
 		</td>
@@ -3110,7 +3110,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>215</td>
 		<td>
 			<a target="_blank" href="https://github.com/jnareb">
-				<img src="https://private-avatars.githubusercontent.com/u/2706?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2ODAsIm5iZiI6MTczNDU3MzQ4MCwicGF0aCI6Ii91LzI3MDYifQ.gJOWAbMis_PWwlVvX1mBBR_3cVQDZWUcH-MlbL3j7rg&s=72&u=b09346f4bbf4915cdd1ed4c7a6109854ff551262&v=4" width="24" alt="Avatar of jnareb"/> jnareb
+				<img src="https://private-avatars.githubusercontent.com/u/2706?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1ODAsIm5iZiI6MTczNDYxMDM4MCwicGF0aCI6Ii91LzI3MDYifQ.pbfnpDvoHAyDV1vo_HkFVdv3y-6u6MSYPM7SWNPWGFk&s=72&u=b09346f4bbf4915cdd1ed4c7a6109854ff551262&v=4" width="24" alt="Avatar of jnareb"/> jnareb
 			</a><br/>
 			Jakub Narbski
 		</td>
@@ -3124,7 +3124,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>216</td>
 		<td>
 			<a target="_blank" href="https://github.com/rasooll">
-				<img src="https://private-avatars.githubusercontent.com/u/19185986?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxMDAsIm5iZiI6MTczNDU3MzkwMCwicGF0aCI6Ii91LzE5MTg1OTg2In0.OI2VylXAnEpWOeier6mMTkksUYRZ1FVEA7SkdEq4vh0&s=72&u=47f287742b56082e4d77cc1bcd869ddb4440a398&v=4" width="24" alt="Avatar of rasooll"/> rasooll
+				<img src="https://private-avatars.githubusercontent.com/u/19185986?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwMDAsIm5iZiI6MTczNDYxMDgwMCwicGF0aCI6Ii91LzE5MTg1OTg2In0.S_xPg9QiHNNybW9VQSpg1a7EEHkdUdXNQljdVTjiDII&s=72&u=47f287742b56082e4d77cc1bcd869ddb4440a398&v=4" width="24" alt="Avatar of rasooll"/> rasooll
 			</a><br/>
 			Rasool Safari
 		</td>
@@ -3138,7 +3138,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>217</td>
 		<td>
 			<a target="_blank" href="https://github.com/floreks">
-				<img src="https://private-avatars.githubusercontent.com/u/2285385?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyODAsIm5iZiI6MTczNDU3NDA4MCwicGF0aCI6Ii91LzIyODUzODUifQ.aKOvmk5C6pYa3zJ68UKk8EeEaknlBMH8YLAQf_0jZ1Y&s=72&u=dab7fc318340c9d1be7cc4b73f4722d1c468bbc8&v=4" width="24" alt="Avatar of floreks"/> floreks
+				<img src="https://private-avatars.githubusercontent.com/u/2285385?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxODAsIm5iZiI6MTczNDYxMDk4MCwicGF0aCI6Ii91LzIyODUzODUifQ.G-2Zs_lFNK8vUSCUfNIWYosWGbLqjxWw6-WGGCPzUd0&s=72&u=dab7fc318340c9d1be7cc4b73f4722d1c468bbc8&v=4" width="24" alt="Avatar of floreks"/> floreks
 			</a><br/>
 			Sebastian Florek
 		</td>
@@ -3152,7 +3152,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>218</td>
 		<td>
 			<a target="_blank" href="https://github.com/blipinsk">
-				<img src="https://private-avatars.githubusercontent.com/u/6371716?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQyNjAsIm5iZiI6MTczNDU3MzA2MCwicGF0aCI6Ii91LzYzNzE3MTYifQ.ToMPeWjTjiB6ZhXYscIo_vfxMQt2Ch4jKodaKAFYnKA&s=72&u=c854413a9184195c2e6f74af79331fa88eb26fd1&v=4" width="24" alt="Avatar of blipinsk"/> blipinsk
+				<img src="https://private-avatars.githubusercontent.com/u/6371716?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTExNjAsIm5iZiI6MTczNDYwOTk2MCwicGF0aCI6Ii91LzYzNzE3MTYifQ.TshS9lqI3fshnxuDKImdqtGBAdMEevnlpOVwg3mDcGY&s=72&u=c854413a9184195c2e6f74af79331fa88eb26fd1&v=4" width="24" alt="Avatar of blipinsk"/> blipinsk
 			</a><br/>
 			Bartek Lipinski
 		</td>
@@ -3166,7 +3166,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>219</td>
 		<td>
 			<a target="_blank" href="https://github.com/Sikora00">
-				<img src="https://private-avatars.githubusercontent.com/u/24508253?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU0NjAsIm5iZiI6MTczNDU3NDI2MCwicGF0aCI6Ii91LzI0NTA4MjUzIn0.xI8KnIJlmNyX4mh7YplVPw2fK2If5EthLTlsuqoWsqM&s=72&u=1d25ab692589e6aaf856da57c3968931ef5f480c&v=4" width="24" alt="Avatar of Sikora00"/> Sikora00
+				<img src="https://private-avatars.githubusercontent.com/u/24508253?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIzNjAsIm5iZiI6MTczNDYxMTE2MCwicGF0aCI6Ii91LzI0NTA4MjUzIn0.EpDjewZVYOOrjTtyQvRaQy6QeruJM2xy8CcyKJr1E7I&s=72&u=1d25ab692589e6aaf856da57c3968931ef5f480c&v=4" width="24" alt="Avatar of Sikora00"/> Sikora00
 			</a><br/>
 			Maciej Sikorski
 		</td>
@@ -3179,8 +3179,22 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 	<tr>
 		<td>220</td>
 		<td>
+			<a target="_blank" href="https://github.com/maciaszczykm">
+				<img src="https://private-avatars.githubusercontent.com/u/2823399?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4ODAsIm5iZiI6MTczNDYxMDY4MCwicGF0aCI6Ii91LzI4MjMzOTkifQ.eqjFf0hW8O912KhYf3PioHewzULwJf6UbcbQXmkwMks&s=72&u=0964646ce90a81be33d873007488dd5fbeeff9ca&v=4" width="24" alt="Avatar of maciaszczykm"/> maciaszczykm
+			</a><br/>
+			Marcin Maciaszczyk
+		</td>
+		<td>@pluralsh </td>
+		<td>No Twitter Username</td>
+		<td>Poland</td>
+		<td>1028</td>
+		<td>1101</td>
+	</tr>
+	<tr>
+		<td>221</td>
+		<td>
 			<a target="_blank" href="https://github.com/ricardocasares">
-				<img src="https://private-avatars.githubusercontent.com/u/84963?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUzNDAsIm5iZiI6MTczNDU3NDE0MCwicGF0aCI6Ii91Lzg0OTYzIn0.PmTDgHVRRKbqBddfE2V9tb43CbSnzdRBoLdR8IL8HSY&s=72&u=f32960c1cea4811583d84203e022d6f10388acfc&v=4" width="24" alt="Avatar of ricardocasares"/> ricardocasares
+				<img src="https://private-avatars.githubusercontent.com/u/84963?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIyNDAsIm5iZiI6MTczNDYxMTA0MCwicGF0aCI6Ii91Lzg0OTYzIn0.sXOcoFDs1UP5KN2jvRTdBSA2-xwoZLZ5o4jjAatqgBY&s=72&u=f32960c1cea4811583d84203e022d6f10388acfc&v=4" width="24" alt="Avatar of ricardocasares"/> ricardocasares
 			</a><br/>
 			Ricardo Casares
 		</td>
@@ -3191,24 +3205,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>1096</td>
 	</tr>
 	<tr>
-		<td>221</td>
-		<td>
-			<a target="_blank" href="https://github.com/maciaszczykm">
-				<img src="https://private-avatars.githubusercontent.com/u/2823399?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5ODAsIm5iZiI6MTczNDU3Mzc4MCwicGF0aCI6Ii91LzI4MjMzOTkifQ.vxKpxYBhjFVGAczuwNKGB5SrrKRxbRio3BTF3VMj5QM&s=72&u=0964646ce90a81be33d873007488dd5fbeeff9ca&v=4" width="24" alt="Avatar of maciaszczykm"/> maciaszczykm
-			</a><br/>
-			Marcin Maciaszczyk
-		</td>
-		<td>@pluralsh </td>
-		<td>No Twitter Username</td>
-		<td>Poland</td>
-		<td>1021</td>
-		<td>1094</td>
-	</tr>
-	<tr>
 		<td>222</td>
 		<td>
 			<a target="_blank" href="https://github.com/bgin">
-				<img src="https://private-avatars.githubusercontent.com/u/11363675?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4NjAsIm5iZiI6MTczNDU3MzY2MCwicGF0aCI6Ii91LzExMzYzNjc1In0.y7K4GxQWY82SEdKVsHRoxy2y6fzfYDo2GOsJbK9TC0o&s=72&u=fd5648a3118126367aaee7878f591e99bd442f85&v=4" width="24" alt="Avatar of bgin"/> bgin
+				<img src="https://private-avatars.githubusercontent.com/u/11363675?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3NjAsIm5iZiI6MTczNDYxMDU2MCwicGF0aCI6Ii91LzExMzYzNjc1In0.Irg8F3WEkqvcCJgEz3XPs89QfEp0kstJdxvat8cvm6c&s=72&u=fd5648a3118126367aaee7878f591e99bd442f85&v=4" width="24" alt="Avatar of bgin"/> bgin
 			</a><br/>
 			Bernard Gingold
 		</td>
@@ -3222,7 +3222,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>223</td>
 		<td>
 			<a target="_blank" href="https://github.com/soltysh">
-				<img src="https://private-avatars.githubusercontent.com/u/576341?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ1MDAsIm5iZiI6MTczNDU3MzMwMCwicGF0aCI6Ii91LzU3NjM0MSJ9.r_WX8ecfpKkOsMZuWqa-3jR0BiLB6vjBYolneLJOe5A&s=72&u=8664bf76b8552bab3ae6471281af5770ee02e600&v=4" width="24" alt="Avatar of soltysh"/> soltysh
+				<img src="https://private-avatars.githubusercontent.com/u/576341?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE0MDAsIm5iZiI6MTczNDYxMDIwMCwicGF0aCI6Ii91LzU3NjM0MSJ9.UQ1S3ElJ_0NqnFnjGbUhnpZQ_efvnDrF-BdjLtRZ0VQ&s=72&u=8664bf76b8552bab3ae6471281af5770ee02e600&v=4" width="24" alt="Avatar of soltysh"/> soltysh
 			</a><br/>
 			Maciej Szulik
 		</td>
@@ -3236,7 +3236,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>224</td>
 		<td>
 			<a target="_blank" href="https://github.com/mikegapinski">
-				<img src="https://private-avatars.githubusercontent.com/u/930055?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyODAsIm5iZiI6MTczNDU3NDA4MCwicGF0aCI6Ii91LzkzMDA1NSJ9.pNQSZTAmecylvk5F2HQ60lG5I6VqTE_7LAuOqOOyztY&s=72&u=32c154c005774d985c4cc9d48f6901d0ce07e58d&v=4" width="24" alt="Avatar of mikegapinski"/> mikegapinski
+				<img src="https://private-avatars.githubusercontent.com/u/930055?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxODAsIm5iZiI6MTczNDYxMDk4MCwicGF0aCI6Ii91LzkzMDA1NSJ9.aiZYYaOvtZJ3qGI_4ha3aLKBacUjZ47EqDlU5ALaG_c&s=72&u=32c154c005774d985c4cc9d48f6901d0ce07e58d&v=4" width="24" alt="Avatar of mikegapinski"/> mikegapinski
 			</a><br/>
 			Micha Gapiski
 		</td>
@@ -3249,8 +3249,22 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 	<tr>
 		<td>225</td>
 		<td>
+			<a target="_blank" href="https://github.com/serathius">
+				<img src="https://private-avatars.githubusercontent.com/u/5873433?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1ODAsIm5iZiI6MTczNDYxMDM4MCwicGF0aCI6Ii91LzU4NzM0MzMifQ.9ZU69n9rVmpWVaOTfhn3h1pfxuRMbSm3wKwW2GXRBks&s=72&u=db75a9ad7956b6116229c5b05d20c74a5a3e1cab&v=4" width="24" alt="Avatar of serathius"/> serathius
+			</a><br/>
+			Marek Siarkowicz
+		</td>
+		<td>Google </td>
+		<td><a target="_blank" href="https://twitter.com/serathius">serathius</a></td>
+		<td>Warsaw</td>
+		<td>1078</td>
+		<td>1078</td>
+	</tr>
+	<tr>
+		<td>226</td>
+		<td>
 			<a target="_blank" href="https://github.com/michalbe">
-				<img src="https://private-avatars.githubusercontent.com/u/347657?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91LzM0NzY1NyJ9.hTYoacYd-YRXY-ZGmRqH_Zg22jki5jrJD4a5PlNZ3OE&s=72&u=6b3fe132ded3ffe782312aa92b605c42ac3abcb2&v=4" width="24" alt="Avatar of michalbe"/> michalbe
+				<img src="https://private-avatars.githubusercontent.com/u/347657?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91LzM0NzY1NyJ9.aMy6BVIcszajG0W6Dkn2VZwfqUHVqo5fTR60Fn2HKTA&s=72&u=6b3fe132ded3ffe782312aa92b605c42ac3abcb2&v=4" width="24" alt="Avatar of michalbe"/> michalbe
 			</a><br/>
 			Micha Budzyski
 		</td>
@@ -3261,24 +3275,24 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>1074</td>
 	</tr>
 	<tr>
-		<td>226</td>
-		<td>
-			<a target="_blank" href="https://github.com/serathius">
-				<img src="https://private-avatars.githubusercontent.com/u/5873433?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2ODAsIm5iZiI6MTczNDU3MzQ4MCwicGF0aCI6Ii91LzU4NzM0MzMifQ.x3W3ainuF1Mb0hxqV9W-DZvTE8vMJwgdICJFAPqbJa4&s=72&u=db75a9ad7956b6116229c5b05d20c74a5a3e1cab&v=4" width="24" alt="Avatar of serathius"/> serathius
-			</a><br/>
-			Marek Siarkowicz
-		</td>
-		<td>Google </td>
-		<td><a target="_blank" href="https://twitter.com/serathius">serathius</a></td>
-		<td>Warsaw</td>
-		<td>1069</td>
-		<td>1069</td>
-	</tr>
-	<tr>
 		<td>227</td>
 		<td>
+			<a target="_blank" href="https://github.com/michalczukm">
+				<img src="https://private-avatars.githubusercontent.com/u/6861120?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91LzY4NjExMjAifQ.RI_S0adJ0dnHnYAGQNjWRV9iR1wrNKdDM4dw5TDuK-s&s=72&u=e2aecc4b997435b7b3f80a4206f568d0de9464f1&v=4" width="24" alt="Avatar of michalczukm"/> michalczukm
+			</a><br/>
+			Micha Michalczuk
+		</td>
+		<td>Tektit Consulting </td>
+		<td><a target="_blank" href="https://twitter.com/michalczukm">michalczukm</a></td>
+		<td>Gdask Poland</td>
+		<td>99</td>
+		<td>1070</td>
+	</tr>
+	<tr>
+		<td>228</td>
+		<td>
 			<a target="_blank" href="https://github.com/kubukoz">
-				<img src="https://private-avatars.githubusercontent.com/u/894884?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2ODAsIm5iZiI6MTczNDU3MzQ4MCwicGF0aCI6Ii91Lzg5NDg4NCJ9.B3uLxCK4NPy_CohUpQf6CfTEczVWQJxQS3Ma6OYjSNc&s=72&u=7f97379e9221193c03914eb723969f597765d1ac&v=4" width="24" alt="Avatar of kubukoz"/> kubukoz
+				<img src="https://private-avatars.githubusercontent.com/u/894884?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1ODAsIm5iZiI6MTczNDYxMDM4MCwicGF0aCI6Ii91Lzg5NDg4NCJ9.-laigVHqC7__Gc7tG4PlnlVFl_vx664WH-vLXCnoZdg&s=72&u=7f97379e9221193c03914eb723969f597765d1ac&v=4" width="24" alt="Avatar of kubukoz"/> kubukoz
 			</a><br/>
 			Jakub Kozowski
 		</td>
@@ -3289,24 +3303,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>1068</td>
 	</tr>
 	<tr>
-		<td>228</td>
-		<td>
-			<a target="_blank" href="https://github.com/michalczukm">
-				<img src="https://private-avatars.githubusercontent.com/u/6861120?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91LzY4NjExMjAifQ.4UfCp4ZmTqu-OVmlFEU2nI_H-ANiq5vL-jw5ioFLhU0&s=72&u=e2aecc4b997435b7b3f80a4206f568d0de9464f1&v=4" width="24" alt="Avatar of michalczukm"/> michalczukm
-			</a><br/>
-			Micha Michalczuk
-		</td>
-		<td>Tektit Consulting </td>
-		<td><a target="_blank" href="https://twitter.com/michalczukm">michalczukm</a></td>
-		<td>Gdask Poland</td>
-		<td>99</td>
-		<td>1067</td>
-	</tr>
-	<tr>
 		<td>229</td>
 		<td>
 			<a target="_blank" href="https://github.com/wtrocki">
-				<img src="https://private-avatars.githubusercontent.com/u/981838?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2ODAsIm5iZiI6MTczNDU3MzQ4MCwicGF0aCI6Ii91Lzk4MTgzOCJ9.5gi7b0SmlA-LL6VDgLbb-RWdziBGRLVaGEETYmIB2UY&s=72&u=58f8ad0ae003f8bc8d741a9c355420caeeff36d5&v=4" width="24" alt="Avatar of wtrocki"/> wtrocki
+				<img src="https://private-avatars.githubusercontent.com/u/981838?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1ODAsIm5iZiI6MTczNDYxMDM4MCwicGF0aCI6Ii91Lzk4MTgzOCJ9.-eiSm1HvYnVrrrO1uQ0-aeACGBO_gckUaNoTV8BPJH8&s=72&u=58f8ad0ae003f8bc8d741a9c355420caeeff36d5&v=4" width="24" alt="Avatar of wtrocki"/> wtrocki
 			</a><br/>
 			Wojciech Trocki
 		</td>
@@ -3319,8 +3319,22 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 	<tr>
 		<td>230</td>
 		<td>
+			<a target="_blank" href="https://github.com/paneq">
+				<img src="https://private-avatars.githubusercontent.com/u/65587?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE2NDAsIm5iZiI6MTczNDYxMDQ0MCwicGF0aCI6Ii91LzY1NTg3In0.pE_LNi8F0hj7wHoZgrRCWbrg_qAZubaA_i2pkEGSbtA&s=72&u=42b11eb0c54ffc2698c3b23b4fd5cf96fff3d7fa&v=4" width="24" alt="Avatar of paneq"/> paneq
+			</a><br/>
+			Robert Pankowecki
+		</td>
+		<td>@toptal </td>
+		<td>No Twitter Username</td>
+		<td>Poland Wrocaw</td>
+		<td>11</td>
+		<td>1062</td>
+	</tr>
+	<tr>
+		<td>231</td>
+		<td>
 			<a target="_blank" href="https://github.com/rjaros">
-				<img src="https://private-avatars.githubusercontent.com/u/5646804?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU1ODAsIm5iZiI6MTczNDU3NDM4MCwicGF0aCI6Ii91LzU2NDY4MDQifQ.6xD9OpaHaDb30h9wDkR2v0-xZtspstxtictBfaADYb8&s=72&u=39b0513e9ee3b74eaa540a2b929fb70922da3ad5&v=4" width="24" alt="Avatar of rjaros"/> rjaros
+				<img src="https://private-avatars.githubusercontent.com/u/5646804?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTI0ODAsIm5iZiI6MTczNDYxMTI4MCwicGF0aCI6Ii91LzU2NDY4MDQifQ.vyUWm7RS96GMnaGATvLthyA7-PpCbK9brvcj8Z-SCvE&s=72&u=39b0513e9ee3b74eaa540a2b929fb70922da3ad5&v=4" width="24" alt="Avatar of rjaros"/> rjaros
 			</a><br/>
 			Robert Jaros
 		</td>
@@ -3331,10 +3345,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>1060</td>
 	</tr>
 	<tr>
-		<td>231</td>
+		<td>232</td>
 		<td>
 			<a target="_blank" href="https://github.com/wojcikstefan">
-				<img src="https://private-avatars.githubusercontent.com/u/1718372?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyMjAsIm5iZiI6MTczNDU3NDAyMCwicGF0aCI6Ii91LzE3MTgzNzIifQ.3PbkDnMdtNPd9WyKb1pjva412LJ8gqiRYE53vfZO0Ng&s=72&u=d1d912d5d9c099daec72767d7fd723d2dd67c686&v=4" width="24" alt="Avatar of wojcikstefan"/> wojcikstefan
+				<img src="https://private-avatars.githubusercontent.com/u/1718372?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxMjAsIm5iZiI6MTczNDYxMDkyMCwicGF0aCI6Ii91LzE3MTgzNzIifQ.mo_k1cyIglchP4OU9U1lj5yIv1pb8KwTqx__9Gp21a0&s=72&u=d1d912d5d9c099daec72767d7fd723d2dd67c686&v=4" width="24" alt="Avatar of wojcikstefan"/> wojcikstefan
 			</a><br/>
 			Stefan Wjcik
 		</td>
@@ -3345,24 +3359,24 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>1059</td>
 	</tr>
 	<tr>
-		<td>232</td>
-		<td>
-			<a target="_blank" href="https://github.com/paneq">
-				<img src="https://private-avatars.githubusercontent.com/u/65587?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ3NDAsIm5iZiI6MTczNDU3MzU0MCwicGF0aCI6Ii91LzY1NTg3In0.myITB-BFMDzOH-2Ecf5YgTDu-0DpUKfajG-GHZSf7oY&s=72&u=42b11eb0c54ffc2698c3b23b4fd5cf96fff3d7fa&v=4" width="24" alt="Avatar of paneq"/> paneq
-			</a><br/>
-			Robert Pankowecki
-		</td>
-		<td>@toptal </td>
-		<td>No Twitter Username</td>
-		<td>Poland Wrocaw</td>
-		<td>11</td>
-		<td>1057</td>
-	</tr>
-	<tr>
 		<td>233</td>
 		<td>
+			<a target="_blank" href="https://github.com/spetz">
+				<img src="https://private-avatars.githubusercontent.com/u/2419600?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE0MDAsIm5iZiI6MTczNDYxMDIwMCwicGF0aCI6Ii91LzI0MTk2MDAifQ.9cosaVwR7YMxhkrzEwJRQtpNN_gp1O_MxwMv_aNz56g&s=72&u=8c91e50171033a090ea69edba21e18e536ab8795&v=4" width="24" alt="Avatar of spetz"/> spetz
+			</a><br/>
+			Piotr Gankiewicz
+		</td>
+		<td>@iggyrs </td>
+		<td><a target="_blank" href="https://twitter.com/spetzu">spetzu</a></td>
+		<td>Krakw</td>
+		<td>645</td>
+		<td>1041</td>
+	</tr>
+	<tr>
+		<td>234</td>
+		<td>
 			<a target="_blank" href="https://github.com/ambv">
-				<img src="https://private-avatars.githubusercontent.com/u/55281?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5ODAsIm5iZiI6MTczNDU3Mzc4MCwicGF0aCI6Ii91LzU1MjgxIn0.SDMqg19IG3XsUBdHI0m1djZX5prBkBuRG45aWwFwr7Q&s=72&u=e9e2a4147de2bb9a92dc0b865daf89bbfa666428&v=4" width="24" alt="Avatar of ambv"/> ambv
+				<img src="https://private-avatars.githubusercontent.com/u/55281?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4ODAsIm5iZiI6MTczNDYxMDY4MCwicGF0aCI6Ii91LzU1MjgxIn0.wjCeoU4oMfpBSsJHSzBkDwUnl613JOeYpPpYJlNsAIY&s=72&u=e9e2a4147de2bb9a92dc0b865daf89bbfa666428&v=4" width="24" alt="Avatar of ambv"/> ambv
 			</a><br/>
 			ukasz Langa
 		</td>
@@ -3373,24 +3387,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>1040</td>
 	</tr>
 	<tr>
-		<td>234</td>
-		<td>
-			<a target="_blank" href="https://github.com/spetz">
-				<img src="https://private-avatars.githubusercontent.com/u/2419600?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ1MDAsIm5iZiI6MTczNDU3MzMwMCwicGF0aCI6Ii91LzI0MTk2MDAifQ.ifTwcQ19BSznGGpwcnX4O0eJyr7RvqBF0tWcZuKlt9w&s=72&u=8c91e50171033a090ea69edba21e18e536ab8795&v=4" width="24" alt="Avatar of spetz"/> spetz
-			</a><br/>
-			Piotr Gankiewicz
-		</td>
-		<td>@iggyrs </td>
-		<td><a target="_blank" href="https://twitter.com/spetzu">spetzu</a></td>
-		<td>Krakw</td>
-		<td>645</td>
-		<td>1040</td>
-	</tr>
-	<tr>
 		<td>235</td>
 		<td>
 			<a target="_blank" href="https://github.com/janisz">
-				<img src="https://private-avatars.githubusercontent.com/u/1616386?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5ODAsIm5iZiI6MTczNDU3Mzc4MCwicGF0aCI6Ii91LzE2MTYzODYifQ.vjpg1VWBiIRmC4HMxwzSoi8uSUW9l67FgDrInt0t5bQ&s=72&v=4" width="24" alt="Avatar of janisz"/> janisz
+				<img src="https://private-avatars.githubusercontent.com/u/1616386?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4ODAsIm5iZiI6MTczNDYxMDY4MCwicGF0aCI6Ii91LzE2MTYzODYifQ.nULAkMolxbr_qbV02LlwRQSNCRIAA98onWWMwVp1gvg&s=72&v=4" width="24" alt="Avatar of janisz"/> janisz
 			</a><br/>
 			Tomasz Janiszewski
 		</td>
@@ -3404,7 +3404,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>236</td>
 		<td>
 			<a target="_blank" href="https://github.com/tranzystorekk">
-				<img src="https://private-avatars.githubusercontent.com/u/5671049?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5MjAsIm5iZiI6MTczNDU3MzcyMCwicGF0aCI6Ii91LzU2NzEwNDkifQ.-hfOfIcGnc-Xr36UZrWIPMPAYPGq6DyceVDYnLuMtu8&s=72&u=0dcaa0cec9b087049268f34f6f9026abb8006e54&v=4" width="24" alt="Avatar of tranzystorekk"/> tranzystorekk
+				<img src="https://private-avatars.githubusercontent.com/u/5671049?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4MjAsIm5iZiI6MTczNDYxMDYyMCwicGF0aCI6Ii91LzU2NzEwNDkifQ.LTz2cLzWx-czbwqrP6pAG685vO2ykB6kTtQATRfum-8&s=72&u=0dcaa0cec9b087049268f34f6f9026abb8006e54&v=4" width="24" alt="Avatar of tranzystorekk"/> tranzystorekk
 			</a><br/>
 			No Name
 		</td>
@@ -3418,7 +3418,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>237</td>
 		<td>
 			<a target="_blank" href="https://github.com/tomekzaw">
-				<img src="https://private-avatars.githubusercontent.com/u/20516055?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxMDAsIm5iZiI6MTczNDU3MzkwMCwicGF0aCI6Ii91LzIwNTE2MDU1In0.3fiO0zyoGYyybuHcuRM2WKxDnzOF-I3s1M8tvM_-nME&s=72&u=c3e23ccbbd88cf59c9f2a8566d76a767f43b6cb2&v=4" width="24" alt="Avatar of tomekzaw"/> tomekzaw
+				<img src="https://private-avatars.githubusercontent.com/u/20516055?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwMDAsIm5iZiI6MTczNDYxMDgwMCwicGF0aCI6Ii91LzIwNTE2MDU1In0.wRjAWy8WPGwYcA6P0yibLq0qw31ipmXt2UloKbpORyE&s=72&u=c3e23ccbbd88cf59c9f2a8566d76a767f43b6cb2&v=4" width="24" alt="Avatar of tomekzaw"/> tomekzaw
 			</a><br/>
 			Tomek Zawadzki
 		</td>
@@ -3432,7 +3432,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>238</td>
 		<td>
 			<a target="_blank" href="https://github.com/wojtekmach">
-				<img src="https://private-avatars.githubusercontent.com/u/76071?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ1MDAsIm5iZiI6MTczNDU3MzMwMCwicGF0aCI6Ii91Lzc2MDcxIn0.qxCzYG6gJckinKcwjP584XfiD-XiAuDCaKCca-iTojk&s=72&v=4" width="24" alt="Avatar of wojtekmach"/> wojtekmach
+				<img src="https://private-avatars.githubusercontent.com/u/76071?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE0MDAsIm5iZiI6MTczNDYxMDIwMCwicGF0aCI6Ii91Lzc2MDcxIn0.8Wru_huvZUly2ccDDq3pu1Z7aS5HCzs7lXwG1-WW9iw&s=72&v=4" width="24" alt="Avatar of wojtekmach"/> wojtekmach
 			</a><br/>
 			Wojtek Mach
 		</td>
@@ -3446,7 +3446,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>239</td>
 		<td>
 			<a target="_blank" href="https://github.com/qarmin">
-				<img src="https://private-avatars.githubusercontent.com/u/41945903?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5MjAsIm5iZiI6MTczNDU3MzcyMCwicGF0aCI6Ii91LzQxOTQ1OTAzIn0.TaDY5QRCI40UcvflffuwCkiEkuEN4z7pElfvIZFeHN4&s=72&u=7bcfa6e94f1e5ef313f572341d449b284f5ca1cf&v=4" width="24" alt="Avatar of qarmin"/> qarmin
+				<img src="https://private-avatars.githubusercontent.com/u/41945903?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4MjAsIm5iZiI6MTczNDYxMDYyMCwicGF0aCI6Ii91LzQxOTQ1OTAzIn0._f9IFWc8yA-ZrD0uYgfzYBjuigOfaopdrS_9o5OllDk&s=72&u=7bcfa6e94f1e5ef313f572341d449b284f5ca1cf&v=4" width="24" alt="Avatar of qarmin"/> qarmin
 			</a><br/>
 			Rafa Mikrut
 		</td>
@@ -3460,21 +3460,21 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>240</td>
 		<td>
 			<a target="_blank" href="https://github.com/balcieren">
-				<img src="https://private-avatars.githubusercontent.com/u/46889813?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUzNDAsIm5iZiI6MTczNDU3NDE0MCwicGF0aCI6Ii91LzQ2ODg5ODEzIn0.flBcuAIzGUDnyAc1qO0QkwikoN_flXgtRLGIqBB7ciM&s=72&u=47476436823758d050b552edff67e871b93c319d&v=4" width="24" alt="Avatar of balcieren"/> balcieren
+				<img src="https://private-avatars.githubusercontent.com/u/46889813?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIyNDAsIm5iZiI6MTczNDYxMTA0MCwicGF0aCI6Ii91LzQ2ODg5ODEzIn0.Q44Djp62y3O82fx0HypbZhkR62E4Eq6O9nzPw9aQl2c&s=72&u=47476436823758d050b552edff67e871b93c319d&v=4" width="24" alt="Avatar of balcieren"/> balcieren
 			</a><br/>
 			Eren Balc
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Wrocaw Poland </td>
-		<td>155</td>
-		<td>994</td>
+		<td>156</td>
+		<td>995</td>
 	</tr>
 	<tr>
 		<td>241</td>
 		<td>
 			<a target="_blank" href="https://github.com/pxseu">
-				<img src="https://private-avatars.githubusercontent.com/u/57842793?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91LzU3ODQyNzkzIn0.y5UwgdGWhj6hSN3RU3jNKx5MFQjV0lcIwjN-oHQEn5k&s=72&u=64c09facbeef3ab2670b628c7c6239d806e43012&v=4" width="24" alt="Avatar of pxseu"/> pxseu
+				<img src="https://private-avatars.githubusercontent.com/u/57842793?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91LzU3ODQyNzkzIn0.CmsbDFV8lDmqr9CSM1sySHRV8sfN23_iUEESa1iIJNA&s=72&u=64c09facbeef3ab2670b628c7c6239d806e43012&v=4" width="24" alt="Avatar of pxseu"/> pxseu
 			</a><br/>
 			Kuba Ellwart
 		</td>
@@ -3488,21 +3488,21 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>242</td>
 		<td>
 			<a target="_blank" href="https://github.com/arkq">
-				<img src="https://private-avatars.githubusercontent.com/u/6979798?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyODAsIm5iZiI6MTczNDU3NDA4MCwicGF0aCI6Ii91LzY5Nzk3OTgifQ.pGRgVOxwtTJ7GrlqGEhNUOfUnLpbmbFXrS_3NGgJV0Y&s=72&u=a827dd67b85bb734f17a837ed6f0fd90bf360400&v=4" width="24" alt="Avatar of arkq"/> arkq
+				<img src="https://private-avatars.githubusercontent.com/u/6979798?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxODAsIm5iZiI6MTczNDYxMDk4MCwicGF0aCI6Ii91LzY5Nzk3OTgifQ.qsJTgFB_X3iOX8iTyauf1Smtcrj0lcC52cu9H4GoUrw&s=72&u=a827dd67b85bb734f17a837ed6f0fd90bf360400&v=4" width="24" alt="Avatar of arkq"/> arkq
 			</a><br/>
 			Arkadiusz Bokowy
 		</td>
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/ArkadiuszBokowy">ArkadiuszBokowy</a></td>
 		<td>Warsaw Poland</td>
-		<td>918</td>
-		<td>985</td>
+		<td>924</td>
+		<td>991</td>
 	</tr>
 	<tr>
 		<td>243</td>
 		<td>
 			<a target="_blank" href="https://github.com/smalluban">
-				<img src="https://private-avatars.githubusercontent.com/u/1906677?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyMjAsIm5iZiI6MTczNDU3NDAyMCwicGF0aCI6Ii91LzE5MDY2NzcifQ.UmnFg-XOv_HMMv-aVXui3c1tqsMBoIxyFHoeN3B84u8&s=72&u=d2cc761e680a079ffa06508949ed1aab6a3ca07d&v=4" width="24" alt="Avatar of smalluban"/> smalluban
+				<img src="https://private-avatars.githubusercontent.com/u/1906677?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxMjAsIm5iZiI6MTczNDYxMDkyMCwicGF0aCI6Ii91LzE5MDY2NzcifQ.COJJkUeNctUcRcwQ2poU7__k-NydIHAtgYzAJ4TtbcM&s=72&u=d2cc761e680a079ffa06508949ed1aab6a3ca07d&v=4" width="24" alt="Avatar of smalluban"/> smalluban
 			</a><br/>
 			Dominik Lubaski
 		</td>
@@ -3516,7 +3516,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>244</td>
 		<td>
 			<a target="_blank" href="https://github.com/AdrianEddy">
-				<img src="https://private-avatars.githubusercontent.com/u/3849067?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyODAsIm5iZiI6MTczNDU3NDA4MCwicGF0aCI6Ii91LzM4NDkwNjcifQ.DwQZL37n3QMGLmwpYLYSCYgwBI3hH08GBrXFlvAaUnk&s=72&u=9a723b83b3cf1e348176c9169a3e6b3dc66679f3&v=4" width="24" alt="Avatar of AdrianEddy"/> AdrianEddy
+				<img src="https://private-avatars.githubusercontent.com/u/3849067?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxODAsIm5iZiI6MTczNDYxMDk4MCwicGF0aCI6Ii91LzM4NDkwNjcifQ.1TX76KoA68H9zg2p2WZckKVAMuMrudncdyL7q1gYvts&s=72&u=9a723b83b3cf1e348176c9169a3e6b3dc66679f3&v=4" width="24" alt="Avatar of AdrianEddy"/> AdrianEddy
 			</a><br/>
 			No Name
 		</td>
@@ -3530,21 +3530,21 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>245</td>
 		<td>
 			<a target="_blank" href="https://github.com/LetItRock">
-				<img src="https://private-avatars.githubusercontent.com/u/2607232?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU1MjAsIm5iZiI6MTczNDU3NDMyMCwicGF0aCI6Ii91LzI2MDcyMzIifQ.KKmM7cgplrptA1aU2SReAVLuUzdEehhPzL9NAeBQhx4&s=72&u=5fe983188c927c0398ead6de54a986a67f653aab&v=4" width="24" alt="Avatar of LetItRock"/> LetItRock
+				<img src="https://private-avatars.githubusercontent.com/u/2607232?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTI0MjAsIm5iZiI6MTczNDYxMTIyMCwicGF0aCI6Ii91LzI2MDcyMzIifQ.zLu0w0M4WmMaI_6kp58JWntmt6K9K0Lj-1Bvl3m576Y&s=72&u=5fe983188c927c0398ead6de54a986a67f653aab&v=4" width="24" alt="Avatar of LetItRock"/> LetItRock
 			</a><br/>
 			Pawe Tymczuk
 		</td>
 		<td>Novu </td>
 		<td><a target="_blank" href="https://twitter.com/paweltymczuk">paweltymczuk</a></td>
 		<td>Krakw Poland</td>
-		<td>923</td>
-		<td>962</td>
+		<td>928</td>
+		<td>967</td>
 	</tr>
 	<tr>
 		<td>246</td>
 		<td>
 			<a target="_blank" href="https://github.com/cube2222">
-				<img src="https://private-avatars.githubusercontent.com/u/7013055?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ1NjAsIm5iZiI6MTczNDU3MzM2MCwicGF0aCI6Ii91LzcwMTMwNTUifQ.KxW66NMuQT-gOtsYN71R1m6Wwb1bfE9oF1B0bHqBXNc&s=72&u=6030373a95697afa5b2c796b8820d0a963a6c5e0&v=4" width="24" alt="Avatar of cube2222"/> cube2222
+				<img src="https://private-avatars.githubusercontent.com/u/7013055?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE0NjAsIm5iZiI6MTczNDYxMDI2MCwicGF0aCI6Ii91LzcwMTMwNTUifQ.xsLGPgEXRVaB0ZGPQSbaSqN9WRNE_kWTFVXNwTBDZrY&s=72&u=6030373a95697afa5b2c796b8820d0a963a6c5e0&v=4" width="24" alt="Avatar of cube2222"/> cube2222
 			</a><br/>
 			Kuba Martin
 		</td>
@@ -3557,8 +3557,22 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 	<tr>
 		<td>247</td>
 		<td>
+			<a target="_blank" href="https://github.com/iMykhailychenko">
+				<img src="https://private-avatars.githubusercontent.com/u/50461642?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwMDAsIm5iZiI6MTczNDYxMDgwMCwicGF0aCI6Ii91LzUwNDYxNjQyIn0.DKLSWcW1QCfYQeEqmlhe1CJvnMbBigqEf_162pfMCnc&s=72&u=e4541a6f950423de3a013e3776c493dd9b9f0300&v=4" width="24" alt="Avatar of iMykhailychenko"/> iMykhailychenko
+			</a><br/>
+			Ihor Mykhailychenko
+		</td>
+		<td>Star </td>
+		<td>No Twitter Username</td>
+		<td>Warsaw Poland</td>
+		<td>123</td>
+		<td>954</td>
+	</tr>
+	<tr>
+		<td>248</td>
+		<td>
 			<a target="_blank" href="https://github.com/osztenkurden">
-				<img src="https://private-avatars.githubusercontent.com/u/25458209?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4NjAsIm5iZiI6MTczNDU3MzY2MCwicGF0aCI6Ii91LzI1NDU4MjA5In0.M787ZpHcM1GO24a_62awOKkqZhw4Itqimq452l-BQx0&s=72&u=e2fa4a999b7c838a7c4a41d9e3d1282ea28a81a2&v=4" width="24" alt="Avatar of osztenkurden"/> osztenkurden
+				<img src="https://private-avatars.githubusercontent.com/u/25458209?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3NjAsIm5iZiI6MTczNDYxMDU2MCwicGF0aCI6Ii91LzI1NDU4MjA5In0.AFUroZfJ5_atY6Yyn2dX8lFcOIylQ8Vrg__J7xF6A9o&s=72&u=e2fa4a999b7c838a7c4a41d9e3d1282ea28a81a2&v=4" width="24" alt="Avatar of osztenkurden"/> osztenkurden
 			</a><br/>
 			Hubert Walczak
 		</td>
@@ -3569,24 +3583,38 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>949</td>
 	</tr>
 	<tr>
-		<td>248</td>
-		<td>
-			<a target="_blank" href="https://github.com/iMykhailychenko">
-				<img src="https://private-avatars.githubusercontent.com/u/50461642?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxMDAsIm5iZiI6MTczNDU3MzkwMCwicGF0aCI6Ii91LzUwNDYxNjQyIn0.Sy86Up6vWZFU5FndAaghAP7evMqcZpPY_Se2zBIyckc&s=72&u=e4541a6f950423de3a013e3776c493dd9b9f0300&v=4" width="24" alt="Avatar of iMykhailychenko"/> iMykhailychenko
-			</a><br/>
-			Ihor Mykhailychenko
-		</td>
-		<td>Star </td>
-		<td>No Twitter Username</td>
-		<td>Warsaw Poland</td>
-		<td>123</td>
-		<td>948</td>
-	</tr>
-	<tr>
 		<td>249</td>
 		<td>
+			<a target="_blank" href="https://github.com/ihorvorotnov">
+				<img src="https://private-avatars.githubusercontent.com/u/1066083?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIzNjAsIm5iZiI6MTczNDYxMTE2MCwicGF0aCI6Ii91LzEwNjYwODMifQ.ZyKn84q7ku3EZ5JFM_NDiP1cqyqd5AxKNhB0FArLsuc&s=72&v=4" width="24" alt="Avatar of ihorvorotnov"/> ihorvorotnov
+			</a><br/>
+			Ihor Vorotnov
+		</td>
+		<td>@10up </td>
+		<td><a target="_blank" href="https://twitter.com/ihorvorotnov">ihorvorotnov</a></td>
+		<td>Krakw Poland</td>
+		<td>17</td>
+		<td>946</td>
+	</tr>
+	<tr>
+		<td>250</td>
+		<td>
+			<a target="_blank" href="https://github.com/wzslr321">
+				<img src="https://private-avatars.githubusercontent.com/u/59893892?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTI1NDAsIm5iZiI6MTczNDYxMTM0MCwicGF0aCI6Ii91LzU5ODkzODkyIn0.pbQbJc6aGvMbZUCO2g5TrvYxYJfoxXIxR8SEcvHiZq8&s=72&u=1a9be15a09cf207864c08bb9fa6d943662007bed&v=4" width="24" alt="Avatar of wzslr321"/> wzslr321
+			</a><br/>
+			Wiktor Zajc
+		</td>
+		<td>Leancode </td>
+		<td>No Twitter Username</td>
+		<td>Warsaw Poland</td>
+		<td>149</td>
+		<td>946</td>
+	</tr>
+	<tr>
+		<td>251</td>
+		<td>
 			<a target="_blank" href="https://github.com/mat3e">
-				<img src="https://private-avatars.githubusercontent.com/u/8582753?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxMDAsIm5iZiI6MTczNDU3MzkwMCwicGF0aCI6Ii91Lzg1ODI3NTMifQ.t_H8lwcyTGLoJg66N7TCi26TsQ3lg41Wn9CqKXp3fWM&s=72&u=f0a0a940c3245a28ebfe2c3ed019ea5a5553b828&v=4" width="24" alt="Avatar of mat3e"/> mat3e
+				<img src="https://private-avatars.githubusercontent.com/u/8582753?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwMDAsIm5iZiI6MTczNDYxMDgwMCwicGF0aCI6Ii91Lzg1ODI3NTMifQ.9NaeK3owQX-ngKNzs47VKG-5UBToCMGR1fYgj0sQI-o&s=72&u=f0a0a940c3245a28ebfe2c3ed019ea5a5553b828&v=4" width="24" alt="Avatar of mat3e"/> mat3e
 			</a><br/>
 			Mateusz Chrzonstowski
 		</td>
@@ -3597,38 +3625,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>945</td>
 	</tr>
 	<tr>
-		<td>250</td>
-		<td>
-			<a target="_blank" href="https://github.com/ihorvorotnov">
-				<img src="https://private-avatars.githubusercontent.com/u/1066083?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU0NjAsIm5iZiI6MTczNDU3NDI2MCwicGF0aCI6Ii91LzEwNjYwODMifQ.AmUbtqoy4sR_7AUaFNB0jLiGvy_MHqp-_4JtkZtkmMo&s=72&v=4" width="24" alt="Avatar of ihorvorotnov"/> ihorvorotnov
-			</a><br/>
-			Ihor Vorotnov
-		</td>
-		<td>@10up </td>
-		<td><a target="_blank" href="https://twitter.com/ihorvorotnov">ihorvorotnov</a></td>
-		<td>Krakw Poland</td>
-		<td>17</td>
-		<td>945</td>
-	</tr>
-	<tr>
-		<td>251</td>
-		<td>
-			<a target="_blank" href="https://github.com/wzslr321">
-				<img src="https://private-avatars.githubusercontent.com/u/59893892?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU2NDAsIm5iZiI6MTczNDU3NDQ0MCwicGF0aCI6Ii91LzU5ODkzODkyIn0.Uq8nu87YshL2jzO1p1V6sqFqvwla6amCSzXfh70G-RY&s=72&u=1a9be15a09cf207864c08bb9fa6d943662007bed&v=4" width="24" alt="Avatar of wzslr321"/> wzslr321
-			</a><br/>
-			Wiktor Zajc
-		</td>
-		<td>Leancode </td>
-		<td>No Twitter Username</td>
-		<td>Warsaw Poland</td>
-		<td>149</td>
-		<td>943</td>
-	</tr>
-	<tr>
 		<td>252</td>
 		<td>
 			<a target="_blank" href="https://github.com/MateuszKubuszok">
-				<img src="https://private-avatars.githubusercontent.com/u/1900121?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyMjAsIm5iZiI6MTczNDU3NDAyMCwicGF0aCI6Ii91LzE5MDAxMjEifQ.MiSZLciOjsQZop6BhDjkYK7yDeY13zQ65wAJUZ1r43k&s=72&u=5b17ac16b713a32b55ae9efb4708c427cfd281a0&v=4" width="24" alt="Avatar of MateuszKubuszok"/> MateuszKubuszok
+				<img src="https://private-avatars.githubusercontent.com/u/1900121?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxMjAsIm5iZiI6MTczNDYxMDkyMCwicGF0aCI6Ii91LzE5MDAxMjEifQ.cTaGgfw69ylq1lBqYFp83lI-Okw5D7v0uPapQCkuFbI&s=72&u=5b17ac16b713a32b55ae9efb4708c427cfd281a0&v=4" width="24" alt="Avatar of MateuszKubuszok"/> MateuszKubuszok
 			</a><br/>
 			Mateusz Kubuszok
 		</td>
@@ -3641,8 +3641,22 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 	<tr>
 		<td>253</td>
 		<td>
+			<a target="_blank" href="https://github.com/gbaranski">
+				<img src="https://private-avatars.githubusercontent.com/u/34353640?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE0NjAsIm5iZiI6MTczNDYxMDI2MCwicGF0aCI6Ii91LzM0MzUzNjQwIn0.nctJ7IheKEVz2J6-XaY6-NesLjj3JpmuIEQ_SL1XZ34&s=72&u=b53b1c858dc351b68a3c4868eb11c010e71779cf&v=4" width="24" alt="Avatar of gbaranski"/> gbaranski
+			</a><br/>
+			Grzegorz Baranski
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Gdansk Poland</td>
+		<td>93</td>
+		<td>937</td>
+	</tr>
+	<tr>
+		<td>254</td>
+		<td>
 			<a target="_blank" href="https://github.com/slayoo">
-				<img src="https://private-avatars.githubusercontent.com/u/89685?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU0NjAsIm5iZiI6MTczNDU3NDI2MCwicGF0aCI6Ii91Lzg5Njg1In0.1Zn9E1Jrb4zxGP9Y7BBQIbCHXwhwhU7xkfEmqIkE3Y8&s=72&u=6195d362cd60a2df5c61a1289af47f821dfb73c5&v=4" width="24" alt="Avatar of slayoo"/> slayoo
+				<img src="https://private-avatars.githubusercontent.com/u/89685?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIzNjAsIm5iZiI6MTczNDYxMTE2MCwicGF0aCI6Ii91Lzg5Njg1In0.M0i5hBD-2j2dLeAVso7Zp3dWmlT2JDJIvg7kCofSNtc&s=72&u=6195d362cd60a2df5c61a1289af47f821dfb73c5&v=4" width="24" alt="Avatar of slayoo"/> slayoo
 			</a><br/>
 			Sylwester Arabas
 		</td>
@@ -3653,24 +3667,24 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>937</td>
 	</tr>
 	<tr>
-		<td>254</td>
+		<td>255</td>
 		<td>
-			<a target="_blank" href="https://github.com/gbaranski">
-				<img src="https://private-avatars.githubusercontent.com/u/34353640?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ1NjAsIm5iZiI6MTczNDU3MzM2MCwicGF0aCI6Ii91LzM0MzUzNjQwIn0.-ndr4PzH1jlK08oafZG60_xRR7bwzeTAvzDfselJjZw&s=72&u=b53b1c858dc351b68a3c4868eb11c010e71779cf&v=4" width="24" alt="Avatar of gbaranski"/> gbaranski
+			<a target="_blank" href="https://github.com/iliabylich">
+				<img src="https://private-avatars.githubusercontent.com/u/1265492?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91LzEyNjU0OTIifQ.RcsCRKe3fgimsVyUn3zFnJ0zF_5oNSt7gw6kZluMffk&s=72&v=4" width="24" alt="Avatar of iliabylich"/> iliabylich
 			</a><br/>
-			Grzegorz Baranski
+			Ilya Bylich
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Gdansk Poland</td>
-		<td>92</td>
+		<td><a target="_blank" href="https://twitter.com/IlyaBylich">IlyaBylich</a></td>
+		<td>Warsaw Poland</td>
+		<td>876</td>
 		<td>936</td>
 	</tr>
 	<tr>
-		<td>255</td>
+		<td>256</td>
 		<td>
 			<a target="_blank" href="https://github.com/piomin">
-				<img src="https://private-avatars.githubusercontent.com/u/2892502?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ0NDAsIm5iZiI6MTczNDU3MzI0MCwicGF0aCI6Ii91LzI4OTI1MDIifQ._cJPT6vR_8mFT5-iUrvl80R2Ag7O7P6Fj2UC4N3nNz4&s=72&u=bffc151a5df6b2c9ae56385d42e76fb7546aac91&v=4" width="24" alt="Avatar of piomin"/> piomin
+				<img src="https://private-avatars.githubusercontent.com/u/2892502?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTEzNDAsIm5iZiI6MTczNDYxMDE0MCwicGF0aCI6Ii91LzI4OTI1MDIifQ.VODHkFPsvMQlPCcasZ0C8rQjGsryCfvXYShzRVQNF04&s=72&u=bffc151a5df6b2c9ae56385d42e76fb7546aac91&v=4" width="24" alt="Avatar of piomin"/> piomin
 			</a><br/>
 			Piotr Mikowski
 		</td>
@@ -3681,10 +3695,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>935</td>
 	</tr>
 	<tr>
-		<td>256</td>
+		<td>257</td>
 		<td>
 			<a target="_blank" href="https://github.com/kkokosa">
-				<img src="https://private-avatars.githubusercontent.com/u/11159779?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ0NDAsIm5iZiI6MTczNDU3MzI0MCwicGF0aCI6Ii91LzExMTU5Nzc5In0.c9zOQfI4msftEUSSBzOX_eUHpJ8MD8gCSvWc0H_XDng&s=72&u=8d5b659370ce1996d81f6c867d0614dd59b59dc6&v=4" width="24" alt="Avatar of kkokosa"/> kkokosa
+				<img src="https://private-avatars.githubusercontent.com/u/11159779?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTEzNDAsIm5iZiI6MTczNDYxMDE0MCwicGF0aCI6Ii91LzExMTU5Nzc5In0.9I6se89X3TbUMiCAUTILUkzSvnZLi8ZEbD21dmQotfU&s=72&u=8d5b659370ce1996d81f6c867d0614dd59b59dc6&v=4" width="24" alt="Avatar of kkokosa"/> kkokosa
 			</a><br/>
 			Konrad Kokosa
 		</td>
@@ -3695,24 +3709,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>934</td>
 	</tr>
 	<tr>
-		<td>257</td>
-		<td>
-			<a target="_blank" href="https://github.com/iliabylich">
-				<img src="https://private-avatars.githubusercontent.com/u/1265492?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91LzEyNjU0OTIifQ.ftiPaLql7GjdhNDS1Nlwv0OUjoZJtjWRiFbSEUa3Bw8&s=72&v=4" width="24" alt="Avatar of iliabylich"/> iliabylich
-			</a><br/>
-			Ilya Bylich
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/IlyaBylich">IlyaBylich</a></td>
-		<td>Warsaw Poland</td>
-		<td>873</td>
-		<td>933</td>
-	</tr>
-	<tr>
 		<td>258</td>
 		<td>
 			<a target="_blank" href="https://github.com/NicolasLM">
-				<img src="https://private-avatars.githubusercontent.com/u/7612656?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2ODAsIm5iZiI6MTczNDU3MzQ4MCwicGF0aCI6Ii91Lzc2MTI2NTYifQ.7pfhl2YDJIszpziILxQ57Znf0q7mPb7lz3mQnrpuN6Y&s=72&u=8cd64238014f47cbe1c3337b9b9bddd401d91948&v=4" width="24" alt="Avatar of NicolasLM"/> NicolasLM
+				<img src="https://private-avatars.githubusercontent.com/u/7612656?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1ODAsIm5iZiI6MTczNDYxMDM4MCwicGF0aCI6Ii91Lzc2MTI2NTYifQ.rZpXuF_W6V1OznVvRflIATZsjJOMCKLv5D80e-MUJAc&s=72&u=8cd64238014f47cbe1c3337b9b9bddd401d91948&v=4" width="24" alt="Avatar of NicolasLM"/> NicolasLM
 			</a><br/>
 			Nicolas Le Manchet
 		</td>
@@ -3726,7 +3726,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>259</td>
 		<td>
 			<a target="_blank" href="https://github.com/mczachurski">
-				<img src="https://private-avatars.githubusercontent.com/u/6191974?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyMjAsIm5iZiI6MTczNDU3NDAyMCwicGF0aCI6Ii91LzYxOTE5NzQifQ.gAkQlmBsPGfrCp2o_JFPbJKKa7z9EJx9rFz9YbVldyQ&s=72&u=4f49646743530ae5578e293a4ed2433a1a9ca5fa&v=4" width="24" alt="Avatar of mczachurski"/> mczachurski
+				<img src="https://private-avatars.githubusercontent.com/u/6191974?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxMjAsIm5iZiI6MTczNDYxMDkyMCwicGF0aCI6Ii91LzYxOTE5NzQifQ.XffXihAhW_RnX_3DPl7vgY8EjXxJnwLBdAmbd2D3ZDQ&s=72&u=4f49646743530ae5578e293a4ed2433a1a9ca5fa&v=4" width="24" alt="Avatar of mczachurski"/> mczachurski
 			</a><br/>
 			Marcin Czachurski
 		</td>
@@ -3740,7 +3740,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>260</td>
 		<td>
 			<a target="_blank" href="https://github.com/szymonrybczak">
-				<img src="https://private-avatars.githubusercontent.com/u/63900941?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91LzYzOTAwOTQxIn0.sop6IiTUq0bGXMOYAqm9bJ6dhl7hnApLCf8ArWuPFWo&s=72&u=9622637a4da82790de4fb756ce171b9ece95ec5a&v=4" width="24" alt="Avatar of szymonrybczak"/> szymonrybczak
+				<img src="https://private-avatars.githubusercontent.com/u/63900941?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91LzYzOTAwOTQxIn0.vXb_57GI6-rB4H7TXfKenMuHPHaVnuSHySEy0jMswiA&s=72&u=9622637a4da82790de4fb756ce171b9ece95ec5a&v=4" width="24" alt="Avatar of szymonrybczak"/> szymonrybczak
 			</a><br/>
 			Szymon Rybczak
 		</td>
@@ -3748,27 +3748,13 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/SzymonRybczak">SzymonRybczak</a></td>
 		<td>Cracow Poland</td>
 		<td>675</td>
-		<td>917</td>
+		<td>918</td>
 	</tr>
 	<tr>
 		<td>261</td>
 		<td>
-			<a target="_blank" href="https://github.com/Horusiath">
-				<img src="https://private-avatars.githubusercontent.com/u/679705?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4NjAsIm5iZiI6MTczNDU3MzY2MCwicGF0aCI6Ii91LzY3OTcwNSJ9.KaKVAEX7Or1LhLh3iz2fXlqXCjx7hzY2nnbZxNFzGAw&s=72&u=1045fdc27b9420a8101a5f573728b3032fd4b208&v=4" width="24" alt="Avatar of Horusiath"/> Horusiath
-			</a><br/>
-			Bartosz Sypytkowski
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/Horusiath">Horusiath</a></td>
-		<td>Warsaw Poland</td>
-		<td>795</td>
-		<td>912</td>
-	</tr>
-	<tr>
-		<td>262</td>
-		<td>
 			<a target="_blank" href="https://github.com/mpapis">
-				<img src="https://private-avatars.githubusercontent.com/u/48054?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91LzQ4MDU0In0.ns5DOlrjYPjdKrkW6gqNGOwpSVBDvZ0WZFqiWeSAYSU&s=72&u=20932a8758edce4695e8a13616ea38da576b2050&v=4" width="24" alt="Avatar of mpapis"/> mpapis
+				<img src="https://private-avatars.githubusercontent.com/u/48054?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91LzQ4MDU0In0.hpC8oTSAFqWzgIaBn5d4BG0-ZFvvV9m8WFaj_2zXSA4&s=72&u=20932a8758edce4695e8a13616ea38da576b2050&v=4" width="24" alt="Avatar of mpapis"/> mpapis
 			</a><br/>
 			Michal Papis
 		</td>
@@ -3776,13 +3762,27 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/mpapis">mpapis</a></td>
 		<td>Krakw Poland</td>
 		<td>5</td>
-		<td>911</td>
+		<td>914</td>
+	</tr>
+	<tr>
+		<td>262</td>
+		<td>
+			<a target="_blank" href="https://github.com/Horusiath">
+				<img src="https://private-avatars.githubusercontent.com/u/679705?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3NjAsIm5iZiI6MTczNDYxMDU2MCwicGF0aCI6Ii91LzY3OTcwNSJ9.BlnzCFDq8cgrB_ELHZEpsLo74RT5u4_1vhHVxeMui2c&s=72&u=1045fdc27b9420a8101a5f573728b3032fd4b208&v=4" width="24" alt="Avatar of Horusiath"/> Horusiath
+			</a><br/>
+			Bartosz Sypytkowski
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/Horusiath">Horusiath</a></td>
+		<td>Warsaw Poland</td>
+		<td>796</td>
+		<td>913</td>
 	</tr>
 	<tr>
 		<td>263</td>
 		<td>
 			<a target="_blank" href="https://github.com/zonel">
-				<img src="https://private-avatars.githubusercontent.com/u/40122657?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2MjAsIm5iZiI6MTczNDU3MzQyMCwicGF0aCI6Ii91LzQwMTIyNjU3In0.sRHM38PEaZk8NY6lajdXEfEvOPnBQ--87ttkYbjJ4ZE&s=72&u=a73f0ba339474b2d93e008cfb3258005616e2d85&v=4" width="24" alt="Avatar of zonel"/> zonel
+				<img src="https://private-avatars.githubusercontent.com/u/40122657?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1MjAsIm5iZiI6MTczNDYxMDMyMCwicGF0aCI6Ii91LzQwMTIyNjU3In0.Gpk4ITvnbxWImXn4ydnFRc19Aw8Iidp1dY0QZ47oS0Q&s=72&u=a73f0ba339474b2d93e008cfb3258005616e2d85&v=4" width="24" alt="Avatar of zonel"/> zonel
 			</a><br/>
 			zonel
 		</td>
@@ -3795,36 +3795,36 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 	<tr>
 		<td>264</td>
 		<td>
-			<a target="_blank" href="https://github.com/piaskowyk">
-				<img src="https://private-avatars.githubusercontent.com/u/36106620?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxNjAsIm5iZiI6MTczNDU3Mzk2MCwicGF0aCI6Ii91LzM2MTA2NjIwIn0.E2iNQoapS5pVIzjH911ELuDHiUj9iUnXuZhrBHmuqzo&s=72&u=35a46a4dd696bef9826d7554eee08a77005df0b9&v=4" width="24" alt="Avatar of piaskowyk"/> piaskowyk
-			</a><br/>
-			Krzysztof Piaskowy
-		</td>
-		<td>Software Mansion </td>
-		<td>No Twitter Username</td>
-		<td>Poland</td>
-		<td>680</td>
-		<td>905</td>
-	</tr>
-	<tr>
-		<td>265</td>
-		<td>
 			<a target="_blank" href="https://github.com/maarcingebala">
-				<img src="https://private-avatars.githubusercontent.com/u/5421321?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ1NjAsIm5iZiI6MTczNDU3MzM2MCwicGF0aCI6Ii91LzU0MjEzMjEifQ.wnaxonmbpW87fc-pH07tjKcMgIjiP7H7cF7Zh84k9UY&s=72&u=07ca8178fd76ad3770533faf608c13f1fb1c0804&v=4" width="24" alt="Avatar of maarcingebala"/> maarcingebala
+				<img src="https://private-avatars.githubusercontent.com/u/5421321?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE0NjAsIm5iZiI6MTczNDYxMDI2MCwicGF0aCI6Ii91LzU0MjEzMjEifQ.lGqkRVVAm42MDSFYB1HgbW8-HsuO7el7jeHWF5CZP5Q&s=72&u=07ca8178fd76ad3770533faf608c13f1fb1c0804&v=4" width="24" alt="Avatar of maarcingebala"/> maarcingebala
 			</a><br/>
 			Marcin Gbala
 		</td>
 		<td>Saleor Commerce </td>
 		<td><a target="_blank" href="https://twitter.com/maarcingebala">maarcingebala</a></td>
 		<td>Wrocaw</td>
-		<td>602</td>
-		<td>903</td>
+		<td>604</td>
+		<td>909</td>
+	</tr>
+	<tr>
+		<td>265</td>
+		<td>
+			<a target="_blank" href="https://github.com/piaskowyk">
+				<img src="https://private-avatars.githubusercontent.com/u/36106620?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwNjAsIm5iZiI6MTczNDYxMDg2MCwicGF0aCI6Ii91LzM2MTA2NjIwIn0.Qu1KtnuSvAsHyYMOF_jFy72oo86mV455ZSoiYTu_k5c&s=72&u=35a46a4dd696bef9826d7554eee08a77005df0b9&v=4" width="24" alt="Avatar of piaskowyk"/> piaskowyk
+			</a><br/>
+			Krzysztof Piaskowy
+		</td>
+		<td>Software Mansion </td>
+		<td>No Twitter Username</td>
+		<td>Poland</td>
+		<td>681</td>
+		<td>906</td>
 	</tr>
 	<tr>
 		<td>266</td>
 		<td>
 			<a target="_blank" href="https://github.com/ochococo">
-				<img src="https://private-avatars.githubusercontent.com/u/3382607?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91LzMzODI2MDcifQ.X-NTJ5qUXYjHgPMsBiLSv3hRyjI9fG3htzP10eXJ9Ls&s=72&u=b91e25ed3780844bd63bf83c361894bf07b1a262&v=4" width="24" alt="Avatar of ochococo"/> ochococo
+				<img src="https://private-avatars.githubusercontent.com/u/3382607?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91LzMzODI2MDcifQ.8GmsCHs5Ffr-4HJ8mvtNEnie01lyaIFHJwQbJP43X-c&s=72&u=b91e25ed3780844bd63bf83c361894bf07b1a262&v=4" width="24" alt="Avatar of ochococo"/> ochococo
 			</a><br/>
 			Oktawian Chojnacki
 		</td>
@@ -3832,27 +3832,27 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Wrocaw Poland Europe</td>
 		<td>5</td>
-		<td>894</td>
+		<td>895</td>
 	</tr>
 	<tr>
 		<td>267</td>
 		<td>
 			<a target="_blank" href="https://github.com/goldmann">
-				<img src="https://private-avatars.githubusercontent.com/u/43489?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2MjAsIm5iZiI6MTczNDU3MzQyMCwicGF0aCI6Ii91LzQzNDg5In0.lTkOyVW_FZh6NEzqCKa1Yqv5dGVkcn5sLVDRnwfgFCw&s=72&v=4" width="24" alt="Avatar of goldmann"/> goldmann
+				<img src="https://private-avatars.githubusercontent.com/u/43489?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1MjAsIm5iZiI6MTczNDYxMDMyMCwicGF0aCI6Ii91LzQzNDg5In0.a-HktYjTN_TKka689rRrq5Ysi_Ha1zWDM9_jUOTZsKE&s=72&v=4" width="24" alt="Avatar of goldmann"/> goldmann
 			</a><br/>
 			Marek Goldmann
 		</td>
 		<td>Red Hat </td>
 		<td>No Twitter Username</td>
 		<td>Poland</td>
-		<td>893</td>
-		<td>893</td>
+		<td>895</td>
+		<td>895</td>
 	</tr>
 	<tr>
 		<td>268</td>
 		<td>
 			<a target="_blank" href="https://github.com/lchrusciel">
-				<img src="https://private-avatars.githubusercontent.com/u/6213903?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ1MDAsIm5iZiI6MTczNDU3MzMwMCwicGF0aCI6Ii91LzYyMTM5MDMifQ.o1vBuLLFUx1tuJh4pfADBpJFs9irqlYnmTWU4bewOnk&s=72&u=6ce6175996a8d9ea33ae870415e28771adf7f7da&v=4" width="24" alt="Avatar of lchrusciel"/> lchrusciel
+				<img src="https://private-avatars.githubusercontent.com/u/6213903?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE0MDAsIm5iZiI6MTczNDYxMDIwMCwicGF0aCI6Ii91LzYyMTM5MDMifQ.Ym3nhYKLIfh8RkAPdo8Yb71PKCBsIjR3ROhTes2Mpy8&s=72&u=6ce6175996a8d9ea33ae870415e28771adf7f7da&v=4" width="24" alt="Avatar of lchrusciel"/> lchrusciel
 			</a><br/>
 			ukasz Chruciel
 		</td>
@@ -3865,8 +3865,22 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 	<tr>
 		<td>269</td>
 		<td>
+			<a target="_blank" href="https://github.com/mmalecki">
+				<img src="https://private-avatars.githubusercontent.com/u/692459?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1MjAsIm5iZiI6MTczNDYxMDMyMCwicGF0aCI6Ii91LzY5MjQ1OSJ9.BzvC7QSQ41fUYhUZltzt9hcOaPlQKZG2ziie1Cd68mg&s=72&u=f36efe78df6cd6fa00d6da68e30bcd121a2d63b2&v=4" width="24" alt="Avatar of mmalecki"/> mmalecki
+			</a><br/>
+			Maciej Maecki
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Pozna Poland</td>
+		<td>159</td>
+		<td>881</td>
+	</tr>
+	<tr>
+		<td>270</td>
+		<td>
 			<a target="_blank" href="https://github.com/StefanMaron">
-				<img src="https://private-avatars.githubusercontent.com/u/24838311?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2ODAsIm5iZiI6MTczNDU3MzQ4MCwicGF0aCI6Ii91LzI0ODM4MzExIn0.r_QjOxXK3IQrZmrTtv7qSlW7sj15aeMUv4pxCIJuJCk&s=72&u=11bbe0c9814c53159a1821206ad4aa758d8431c5&v=4" width="24" alt="Avatar of StefanMaron"/> StefanMaron
+				<img src="https://private-avatars.githubusercontent.com/u/24838311?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1ODAsIm5iZiI6MTczNDYxMDM4MCwicGF0aCI6Ii91LzI0ODM4MzExIn0.J7HUeDsou4c0oPXaScxtDkSrNCrYy5bY59I5TwvVTB4&s=72&u=11bbe0c9814c53159a1821206ad4aa758d8431c5&v=4" width="24" alt="Avatar of StefanMaron"/> StefanMaron
 			</a><br/>
 			Stefan Maro
 		</td>
@@ -3877,10 +3891,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>881</td>
 	</tr>
 	<tr>
-		<td>270</td>
+		<td>271</td>
 		<td>
 			<a target="_blank" href="https://github.com/pawelsalawa">
-				<img src="https://private-avatars.githubusercontent.com/u/481846?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxMDAsIm5iZiI6MTczNDU3MzkwMCwicGF0aCI6Ii91LzQ4MTg0NiJ9.31-qnTKXdmacVmvOPVo1gwpq4WT_fmu_sVpBh6lGi58&s=72&u=4e111a0d737ecb260a37e39205a1a1e4830cd68a&v=4" width="24" alt="Avatar of pawelsalawa"/> pawelsalawa
+				<img src="https://private-avatars.githubusercontent.com/u/481846?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwMDAsIm5iZiI6MTczNDYxMDgwMCwicGF0aCI6Ii91LzQ4MTg0NiJ9.CV6KqCWa2-QyWVnvTkyhDwPyuHgjLfrhS80Y9GTh_zQ&s=72&u=4e111a0d737ecb260a37e39205a1a1e4830cd68a&v=4" width="24" alt="Avatar of pawelsalawa"/> pawelsalawa
 			</a><br/>
 			Pawe Salawa
 		</td>
@@ -3891,24 +3905,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>880</td>
 	</tr>
 	<tr>
-		<td>271</td>
-		<td>
-			<a target="_blank" href="https://github.com/mmalecki">
-				<img src="https://private-avatars.githubusercontent.com/u/692459?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2MjAsIm5iZiI6MTczNDU3MzQyMCwicGF0aCI6Ii91LzY5MjQ1OSJ9.SgSOJQTI4eEhWNBqBeSy2h6wuIIfAk7opF9eWQaPmGw&s=72&u=f36efe78df6cd6fa00d6da68e30bcd121a2d63b2&v=4" width="24" alt="Avatar of mmalecki"/> mmalecki
-			</a><br/>
-			Maciej Maecki
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Pozna Poland</td>
-		<td>159</td>
-		<td>879</td>
-	</tr>
-	<tr>
 		<td>272</td>
 		<td>
 			<a target="_blank" href="https://github.com/panrafal">
-				<img src="https://private-avatars.githubusercontent.com/u/1268900?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyMjAsIm5iZiI6MTczNDU3NDAyMCwicGF0aCI6Ii91LzEyNjg5MDAifQ.SYJ1QKLtdPh_8OgUTLRPwM8LR4xTa3lbXNZ0ETrQU8M&s=72&u=72e3def25d062b2e294fbb25812fdfe553eea919&v=4" width="24" alt="Avatar of panrafal"/> panrafal
+				<img src="https://private-avatars.githubusercontent.com/u/1268900?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxMjAsIm5iZiI6MTczNDYxMDkyMCwicGF0aCI6Ii91LzEyNjg5MDAifQ.dn4hE8lyjfbq6Ga0VVpXYQftRWv2nIWngAm3G91yRs0&s=72&u=72e3def25d062b2e294fbb25812fdfe553eea919&v=4" width="24" alt="Avatar of panrafal"/> panrafal
 			</a><br/>
 			Rafa Lindemann
 		</td>
@@ -3922,7 +3922,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>273</td>
 		<td>
 			<a target="_blank" href="https://github.com/Arminek">
-				<img src="https://private-avatars.githubusercontent.com/u/6368946?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxMDAsIm5iZiI6MTczNDU3MzkwMCwicGF0aCI6Ii91LzYzNjg5NDYifQ.i8Ivusbkt-0CnWW2I810gb6TsUPc-XCvK1wNUN7VL2w&s=72&u=b2c5e81b2aeb97a85eb071c7b5fe8eab90e22e0c&v=4" width="24" alt="Avatar of Arminek"/> Arminek
+				<img src="https://private-avatars.githubusercontent.com/u/6368946?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwMDAsIm5iZiI6MTczNDYxMDgwMCwicGF0aCI6Ii91LzYzNjg5NDYifQ.ZAs32Seyw4fnVL4x2fDJJnWnqwao4ail40yDRW1tzPY&s=72&u=b2c5e81b2aeb97a85eb071c7b5fe8eab90e22e0c&v=4" width="24" alt="Avatar of Arminek"/> Arminek
 			</a><br/>
 			Arkadiusz Krakowiak
 		</td>
@@ -3936,7 +3936,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>274</td>
 		<td>
 			<a target="_blank" href="https://github.com/botprzemek">
-				<img src="https://private-avatars.githubusercontent.com/u/92102878?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91LzkyMTAyODc4In0.nkjT7pYah-qKbu6ZUCUGo9roGTC8xaVl3zoiAGFHiIY&s=72&u=218e66bbf3dc854a26fea9af2feb4061f3b618aa&v=4" width="24" alt="Avatar of botprzemek"/> botprzemek
+				<img src="https://private-avatars.githubusercontent.com/u/92102878?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91LzkyMTAyODc4In0.-5gDCe7j81x5k7ajWgahP-_EA5cPGmyv-ohCx9HUnIs&s=72&u=218e66bbf3dc854a26fea9af2feb4061f3b618aa&v=4" width="24" alt="Avatar of botprzemek"/> botprzemek
 			</a><br/>
 			botprzemek
 		</td>
@@ -3950,7 +3950,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>275</td>
 		<td>
 			<a target="_blank" href="https://github.com/Patryk27">
-				<img src="https://private-avatars.githubusercontent.com/u/3395477?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ1MDAsIm5iZiI6MTczNDU3MzMwMCwicGF0aCI6Ii91LzMzOTU0NzcifQ.suofXt4L1rewjUdX0vMBYK_CZAVmJSzqGaAkpbV_7PU&s=72&u=3320cf7e9560f550c75237b29d8d0ae9769d25b1&v=4" width="24" alt="Avatar of Patryk27"/> Patryk27
+				<img src="https://private-avatars.githubusercontent.com/u/3395477?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE0MDAsIm5iZiI6MTczNDYxMDIwMCwicGF0aCI6Ii91LzMzOTU0NzcifQ.WK8jpqFLEUt1Pu6JndSKdBYWfyrbAhJB2-SI_e9mhRM&s=72&u=3320cf7e9560f550c75237b29d8d0ae9769d25b1&v=4" width="24" alt="Avatar of Patryk27"/> Patryk27
 			</a><br/>
 			Patryk Wychowaniec
 		</td>
@@ -3964,7 +3964,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>276</td>
 		<td>
 			<a target="_blank" href="https://github.com/mmatczuk">
-				<img src="https://private-avatars.githubusercontent.com/u/1617930?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ1NjAsIm5iZiI6MTczNDU3MzM2MCwicGF0aCI6Ii91LzE2MTc5MzAifQ.e9A8Jtodp3zM0OTB5n_w_KxD9kGomc_yvTxxvWK41W4&s=72&u=c509d70ca58d7966c48e56b4bc2b2208e39ba8be&v=4" width="24" alt="Avatar of mmatczuk"/> mmatczuk
+				<img src="https://private-avatars.githubusercontent.com/u/1617930?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE0NjAsIm5iZiI6MTczNDYxMDI2MCwicGF0aCI6Ii91LzE2MTc5MzAifQ.6II4UsM44LM_t8C6tYXc7OSE1iLGqQqY9X0RHSRfX2g&s=72&u=c509d70ca58d7966c48e56b4bc2b2208e39ba8be&v=4" width="24" alt="Avatar of mmatczuk"/> mmatczuk
 			</a><br/>
 			Michal Jan Matczuk
 		</td>
@@ -3978,7 +3978,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>277</td>
 		<td>
 			<a target="_blank" href="https://github.com/ArturT">
-				<img src="https://private-avatars.githubusercontent.com/u/662545?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2MjAsIm5iZiI6MTczNDU3MzQyMCwicGF0aCI6Ii91LzY2MjU0NSJ9.vIrLCKUcEgQijr3AY2exF7rde90jCZiEmGqiuL0dRss&s=72&u=474bf0e0325f37f270823c8ec89714806d373ed1&v=4" width="24" alt="Avatar of ArturT"/> ArturT
+				<img src="https://private-avatars.githubusercontent.com/u/662545?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1MjAsIm5iZiI6MTczNDYxMDMyMCwicGF0aCI6Ii91LzY2MjU0NSJ9.q_exyVqFzidhuWPA-tJ-VerotaNGYvEtsR3TN6IN_KU&s=72&u=474bf0e0325f37f270823c8ec89714806d373ed1&v=4" width="24" alt="Avatar of ArturT"/> ArturT
 			</a><br/>
 			Artur Trzop
 		</td>
@@ -3992,7 +3992,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>278</td>
 		<td>
 			<a target="_blank" href="https://github.com/alufers">
-				<img src="https://private-avatars.githubusercontent.com/u/5400940?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5MjAsIm5iZiI6MTczNDU3MzcyMCwicGF0aCI6Ii91LzU0MDA5NDAifQ.24Jo4POC97a4CAnCz5zXUoZdWuGRkl2zixqIoxwgINI&s=72&v=4" width="24" alt="Avatar of alufers"/> alufers
+				<img src="https://private-avatars.githubusercontent.com/u/5400940?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4MjAsIm5iZiI6MTczNDYxMDYyMCwicGF0aCI6Ii91LzU0MDA5NDAifQ.cXKyYLNSzUfgtXjpql8Vnxhc5PqAEB6p302OE0p-ktc&s=72&v=4" width="24" alt="Avatar of alufers"/> alufers
 			</a><br/>
 			Albert Koczy
 		</td>
@@ -4006,7 +4006,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>279</td>
 		<td>
 			<a target="_blank" href="https://github.com/mwojcikowski">
-				<img src="https://private-avatars.githubusercontent.com/u/2325645?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxMDAsIm5iZiI6MTczNDU3MzkwMCwicGF0aCI6Ii91LzIzMjU2NDUifQ.dfdtRHEbVHXJvlTOxVuy83o8lvAMK3kKHbV_307KtOU&s=72&u=fe998ea4194b634df9940e2162b91e326f98244d&v=4" width="24" alt="Avatar of mwojcikowski"/> mwojcikowski
+				<img src="https://private-avatars.githubusercontent.com/u/2325645?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwMDAsIm5iZiI6MTczNDYxMDgwMCwicGF0aCI6Ii91LzIzMjU2NDUifQ.IiG8fRQ-yOU4TX2Xl6yzcAaFU99c7gfqb4taS_i7llc&s=72&u=fe998ea4194b634df9940e2162b91e326f98244d&v=4" width="24" alt="Avatar of mwojcikowski"/> mwojcikowski
 			</a><br/>
 			Maciej Wjcikowski
 		</td>
@@ -4019,8 +4019,22 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 	<tr>
 		<td>280</td>
 		<td>
+			<a target="_blank" href="https://github.com/Blaizzy">
+				<img src="https://private-avatars.githubusercontent.com/u/23445657?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE2NDAsIm5iZiI6MTczNDYxMDQ0MCwicGF0aCI6Ii91LzIzNDQ1NjU3In0.yfsg5P8jXvSKunxVLYJ_imNrT1HZ_LMchkLi1H7xGBc&s=72&u=84dda94e9330c5538ea94099b5cae699c88586f8&v=4" width="24" alt="Avatar of Blaizzy"/> Blaizzy
+			</a><br/>
+			Prince Canuma
+		</td>
+		<td>Kulissiwacom </td>
+		<td><a target="_blank" href="https://twitter.com/Prince_Canuma">Prince_Canuma</a></td>
+		<td>Poland</td>
+		<td>518</td>
+		<td>817</td>
+	</tr>
+	<tr>
+		<td>281</td>
+		<td>
 			<a target="_blank" href="https://github.com/lukaszsamson">
-				<img src="https://private-avatars.githubusercontent.com/u/1078186?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU0MDAsIm5iZiI6MTczNDU3NDIwMCwicGF0aCI6Ii91LzEwNzgxODYifQ.Cjhq5m8V_gUkhf7-sTkwIdXE88KvYG2hLvd4PREMsWo&s=72&v=4" width="24" alt="Avatar of lukaszsamson"/> lukaszsamson
+				<img src="https://private-avatars.githubusercontent.com/u/1078186?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIzMDAsIm5iZiI6MTczNDYxMTEwMCwicGF0aCI6Ii91LzEwNzgxODYifQ.Isd4l96sZLCWVw2LVprBkX5leAeSbq7245QZ3xnXFv8&s=72&v=4" width="24" alt="Avatar of lukaszsamson"/> lukaszsamson
 			</a><br/>
 			ukasz Samson
 		</td>
@@ -4031,24 +4045,24 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>817</td>
 	</tr>
 	<tr>
-		<td>281</td>
+		<td>282</td>
 		<td>
 			<a target="_blank" href="https://github.com/gikf">
-				<img src="https://private-avatars.githubusercontent.com/u/60067306?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxMDAsIm5iZiI6MTczNDU3MzkwMCwicGF0aCI6Ii91LzYwMDY3MzA2In0.Oga-bMIQ-xLQ6YeC_kX_x4DLmfsjDA0ZHOUan7Zglb8&s=72&v=4" width="24" alt="Avatar of gikf"/> gikf
+				<img src="https://private-avatars.githubusercontent.com/u/60067306?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwMDAsIm5iZiI6MTczNDYxMDgwMCwicGF0aCI6Ii91LzYwMDY3MzA2In0.ETj9ps-1po8Wl-IeDZ7x8rYPX5ouY7SuOEJGn9wX7hM&s=72&v=4" width="24" alt="Avatar of gikf"/> gikf
 			</a><br/>
 			Krzysztof G
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Warsaw Poland</td>
-		<td>779</td>
-		<td>814</td>
+		<td>780</td>
+		<td>815</td>
 	</tr>
 	<tr>
-		<td>282</td>
+		<td>283</td>
 		<td>
 			<a target="_blank" href="https://github.com/Trancever">
-				<img src="https://private-avatars.githubusercontent.com/u/18584155?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2ODAsIm5iZiI6MTczNDU3MzQ4MCwicGF0aCI6Ii91LzE4NTg0MTU1In0.oiwB4kTjE64lQu842BYsJkX3Bp1wGYxo56kiC8tcfSQ&s=72&u=aee44f0a0e437b913abd631010d0fef6316f7a70&v=4" width="24" alt="Avatar of Trancever"/> Trancever
+				<img src="https://private-avatars.githubusercontent.com/u/18584155?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1ODAsIm5iZiI6MTczNDYxMDM4MCwicGF0aCI6Ii91LzE4NTg0MTU1In0.7svihW5abvkP3_Knr7aD5hAdj-U0vgbLDNDFXnW1-ps&s=72&u=aee44f0a0e437b913abd631010d0fef6316f7a70&v=4" width="24" alt="Avatar of Trancever"/> Trancever
 			</a><br/>
 			Dawid Urbaniak
 		</td>
@@ -4059,10 +4073,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>807</td>
 	</tr>
 	<tr>
-		<td>283</td>
+		<td>284</td>
 		<td>
 			<a target="_blank" href="https://github.com/sopel39">
-				<img src="https://private-avatars.githubusercontent.com/u/5989165?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5ODAsIm5iZiI6MTczNDU3Mzc4MCwicGF0aCI6Ii91LzU5ODkxNjUifQ.lsToH6BsuTByE94MQ5sAeLMYQ7aUKoVMT-W_BbFZDYw&s=72&u=e844fb8c99d5fdd78b75e78a0f4c36203f012d9e&v=4" width="24" alt="Avatar of sopel39"/> sopel39
+				<img src="https://private-avatars.githubusercontent.com/u/5989165?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4ODAsIm5iZiI6MTczNDYxMDY4MCwicGF0aCI6Ii91LzU5ODkxNjUifQ.c5MvxrhER6cfXYrAIC-3976pBhSvUSWcSl-GPjTcvl0&s=72&u=e844fb8c99d5fdd78b75e78a0f4c36203f012d9e&v=4" width="24" alt="Avatar of sopel39"/> sopel39
 			</a><br/>
 			Karol Sobczak
 		</td>
@@ -4073,24 +4087,24 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>805</td>
 	</tr>
 	<tr>
-		<td>284</td>
-		<td>
-			<a target="_blank" href="https://github.com/Blaizzy">
-				<img src="https://private-avatars.githubusercontent.com/u/23445657?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ3NDAsIm5iZiI6MTczNDU3MzU0MCwicGF0aCI6Ii91LzIzNDQ1NjU3In0.9xJk2hv3aWIVva4hMMZDgn2NVwkmTIbrnYjdzKN3kdo&s=72&u=84dda94e9330c5538ea94099b5cae699c88586f8&v=4" width="24" alt="Avatar of Blaizzy"/> Blaizzy
-			</a><br/>
-			Prince Canuma
-		</td>
-		<td>Kulissiwacom </td>
-		<td><a target="_blank" href="https://twitter.com/Prince_Canuma">Prince_Canuma</a></td>
-		<td>Poland</td>
-		<td>518</td>
-		<td>801</td>
-	</tr>
-	<tr>
 		<td>285</td>
 		<td>
+			<a target="_blank" href="https://github.com/gziolo">
+				<img src="https://private-avatars.githubusercontent.com/u/699132?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTEzNDAsIm5iZiI6MTczNDYxMDE0MCwicGF0aCI6Ii91LzY5OTEzMiJ9.dTefoXlZFpJK2MlDK-ioY2XUByB2OvDlYPFGF8XmH_A&s=72&u=f37a9d5ab9b8bd429780db87fe385a1eb4cdcff0&v=4" width="24" alt="Avatar of gziolo"/> gziolo
+			</a><br/>
+			Greg Zikowski
+		</td>
+		<td>@automattic </td>
+		<td>No Twitter Username</td>
+		<td>Olenica Poland</td>
+		<td>700</td>
+		<td>803</td>
+	</tr>
+	<tr>
+		<td>286</td>
+		<td>
 			<a target="_blank" href="https://github.com/KamilaBorowska">
-				<img src="https://private-avatars.githubusercontent.com/u/1297598?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyMjAsIm5iZiI6MTczNDU3NDAyMCwicGF0aCI6Ii91LzEyOTc1OTgifQ.7sIuVZdWAKlnMSLg2tjw4RbmzUXaGXqtZbuUH3K780k&s=72&u=dd46432ca6a2d0dc620146d3cbfd40f924352b3e&v=4" width="24" alt="Avatar of KamilaBorowska"/> KamilaBorowska
+				<img src="https://private-avatars.githubusercontent.com/u/1297598?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxMjAsIm5iZiI6MTczNDYxMDkyMCwicGF0aCI6Ii91LzEyOTc1OTgifQ.W1Prrh3m6McS_WMGXG9LLNd5R1Ns7vCjA0dOkyCWFI0&s=72&u=dd46432ca6a2d0dc620146d3cbfd40f924352b3e&v=4" width="24" alt="Avatar of KamilaBorowska"/> KamilaBorowska
 			</a><br/>
 			Kamila Borowska
 		</td>
@@ -4098,27 +4112,13 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Poland</td>
 		<td>70</td>
-		<td>800</td>
-	</tr>
-	<tr>
-		<td>286</td>
-		<td>
-			<a target="_blank" href="https://github.com/gziolo">
-				<img src="https://private-avatars.githubusercontent.com/u/699132?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ0NDAsIm5iZiI6MTczNDU3MzI0MCwicGF0aCI6Ii91LzY5OTEzMiJ9.QZ5ZnCAQZwbH12earYJ_iQ8Msn9Lq_lBA4Lq1QR7E9o&s=72&u=f37a9d5ab9b8bd429780db87fe385a1eb4cdcff0&v=4" width="24" alt="Avatar of gziolo"/> gziolo
-			</a><br/>
-			Greg Zikowski
-		</td>
-		<td>@automattic </td>
-		<td>No Twitter Username</td>
-		<td>Olenica Poland</td>
-		<td>696</td>
-		<td>799</td>
+		<td>802</td>
 	</tr>
 	<tr>
 		<td>287</td>
 		<td>
 			<a target="_blank" href="https://github.com/jstolarek">
-				<img src="https://private-avatars.githubusercontent.com/u/1597921?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyMjAsIm5iZiI6MTczNDU3NDAyMCwicGF0aCI6Ii91LzE1OTc5MjEifQ.KZHI9pjjJN10uerE9Do4mkaMlpCVxMymv64BVArOMLQ&s=72&u=9f488c5841655421255bafbe7c2e0f110497683c&v=4" width="24" alt="Avatar of jstolarek"/> jstolarek
+				<img src="https://private-avatars.githubusercontent.com/u/1597921?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxMjAsIm5iZiI6MTczNDYxMDkyMCwicGF0aCI6Ii91LzE1OTc5MjEifQ.FgCEu23jaHj29c9Tl0aJyOVzfAUyuSKZJjITSTQDch4&s=72&u=9f488c5841655421255bafbe7c2e0f110497683c&v=4" width="24" alt="Avatar of jstolarek"/> jstolarek
 			</a><br/>
 			Jan Stolarek
 		</td>
@@ -4132,7 +4132,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>288</td>
 		<td>
 			<a target="_blank" href="https://github.com/widmogrod">
-				<img src="https://private-avatars.githubusercontent.com/u/164249?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUzNDAsIm5iZiI6MTczNDU3NDE0MCwicGF0aCI6Ii91LzE2NDI0OSJ9.DniJGI8IxiZBOZ1ltZqUP8-zRgMy5r66CVExEOHxAMk&s=72&v=4" width="24" alt="Avatar of widmogrod"/> widmogrod
+				<img src="https://private-avatars.githubusercontent.com/u/164249?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIyNDAsIm5iZiI6MTczNDYxMTA0MCwicGF0aCI6Ii91LzE2NDI0OSJ9.py_ijiWlBe8Weu2zPbfigsahWiDnEp-hnkYTH3Zhd94&s=72&v=4" width="24" alt="Avatar of widmogrod"/> widmogrod
 			</a><br/>
 			Gabriel Habryn
 		</td>
@@ -4140,13 +4140,13 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Krakw Poland</td>
 		<td>620</td>
-		<td>792</td>
+		<td>794</td>
 	</tr>
 	<tr>
 		<td>289</td>
 		<td>
 			<a target="_blank" href="https://github.com/arkgil">
-				<img src="https://private-avatars.githubusercontent.com/u/11610769?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU1ODAsIm5iZiI6MTczNDU3NDM4MCwicGF0aCI6Ii91LzExNjEwNzY5In0.cBHI2Wg5HdK7VTQpTwGIYedTnldSCoX8R2LLmXYwvx4&s=72&u=89e5aa950095608eb26b5a5d8776ee7aebc345d1&v=4" width="24" alt="Avatar of arkgil"/> arkgil
+				<img src="https://private-avatars.githubusercontent.com/u/11610769?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTI0ODAsIm5iZiI6MTczNDYxMTI4MCwicGF0aCI6Ii91LzExNjEwNzY5In0.MJCD6c1Sl5pfknu0CLEsw8pmgTG5guI_7aEy4EG9iGA&s=72&u=89e5aa950095608eb26b5a5d8776ee7aebc345d1&v=4" width="24" alt="Avatar of arkgil"/> arkgil
 			</a><br/>
 			Arek Gil
 		</td>
@@ -4160,7 +4160,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>290</td>
 		<td>
 			<a target="_blank" href="https://github.com/mrexodia">
-				<img src="https://private-avatars.githubusercontent.com/u/2458265?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQzODAsIm5iZiI6MTczNDU3MzE4MCwicGF0aCI6Ii91LzI0NTgyNjUifQ.JZB0xEwi2rAB1RGR8OwMwSXLu2utJmvCXsUpXHDzZUQ&s=72&u=d6e791712a4a68f677a6ab9add346df3e02be994&v=4" width="24" alt="Avatar of mrexodia"/> mrexodia
+				<img src="https://private-avatars.githubusercontent.com/u/2458265?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTEyODAsIm5iZiI6MTczNDYxMDA4MCwicGF0aCI6Ii91LzI0NTgyNjUifQ.Gry3PyADfL0qUtCN1Pe22P3imHL8fPyc4hJGXKTR-NI&s=72&u=d6e791712a4a68f677a6ab9add346df3e02be994&v=4" width="24" alt="Avatar of mrexodia"/> mrexodia
 			</a><br/>
 			Duncan Ogilvie
 		</td>
@@ -4174,7 +4174,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>291</td>
 		<td>
 			<a target="_blank" href="https://github.com/studzien">
-				<img src="https://private-avatars.githubusercontent.com/u/1367110?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxMDAsIm5iZiI6MTczNDU3MzkwMCwicGF0aCI6Ii91LzEzNjcxMTAifQ.5xyeEkZDb6MbMbdh5UND-8omlhrg6ynO4OaDXU-Tf5o&s=72&u=7eb1e7b6b1d950da3d2b91df3f46355811447282&v=4" width="24" alt="Avatar of studzien"/> studzien
+				<img src="https://private-avatars.githubusercontent.com/u/1367110?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwMDAsIm5iZiI6MTczNDYxMDgwMCwicGF0aCI6Ii91LzEzNjcxMTAifQ.ceEyovbfQblNzc7IRYax8xttuXKsWntZHe3tx-bbiXY&s=72&u=7eb1e7b6b1d950da3d2b91df3f46355811447282&v=4" width="24" alt="Avatar of studzien"/> studzien
 			</a><br/>
 			Rafa Studnicki
 		</td>
@@ -4188,7 +4188,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>292</td>
 		<td>
 			<a target="_blank" href="https://github.com/ales-tsurko">
-				<img src="https://private-avatars.githubusercontent.com/u/8686568?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91Lzg2ODY1NjgifQ.511h4Xbnz_WtDo213jnlWOH6yyoIERZmeIjitQ5Lu8g&s=72&u=f9f6cde3523cba1fabbca1c287ef085e2761afd5&v=4" width="24" alt="Avatar of ales-tsurko"/> ales-tsurko
+				<img src="https://private-avatars.githubusercontent.com/u/8686568?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91Lzg2ODY1NjgifQ.iL5-cvkkEeMNOXb4DCgl1AIvFd4Gud4WGQLq0dUoL98&s=72&u=f9f6cde3523cba1fabbca1c287ef085e2761afd5&v=4" width="24" alt="Avatar of ales-tsurko"/> ales-tsurko
 			</a><br/>
 			Ales Tsurko
 		</td>
@@ -4201,8 +4201,36 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 	<tr>
 		<td>293</td>
 		<td>
+			<a target="_blank" href="https://github.com/dzienisz">
+				<img src="https://private-avatars.githubusercontent.com/u/3521624?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4MjAsIm5iZiI6MTczNDYxMDYyMCwicGF0aCI6Ii91LzM1MjE2MjQifQ.STk_BdCUHHRJM1W523GDKeBcx6d4g0fLgX4VDG6ZnJw&s=72&u=e17d2b0c418219593af30c029b4f1dd38170d8e8&v=4" width="24" alt="Avatar of dzienisz"/> dzienisz
+			</a><br/>
+			Kamil Dzieniszewski
+		</td>
+		<td>Telia </td>
+		<td><a target="_blank" href="https://twitter.com/dzienko">dzienko</a></td>
+		<td>Warsaw</td>
+		<td>207</td>
+		<td>778</td>
+	</tr>
+	<tr>
+		<td>294</td>
+		<td>
+			<a target="_blank" href="https://github.com/slyapustin">
+				<img src="https://private-avatars.githubusercontent.com/u/370774?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIyNDAsIm5iZiI6MTczNDYxMTA0MCwicGF0aCI6Ii91LzM3MDc3NCJ9.E5PlhjtF9vYvcf8bEnQ8COy8u49OV_ZgTITmDfYkwHM&s=72&u=acb7ef8437de85dff83080fc8c95a3bb7d590f70&v=4" width="24" alt="Avatar of slyapustin"/> slyapustin
+			</a><br/>
+			Sergey Lyapustin
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/slyapustin">slyapustin</a></td>
+		<td>Gdansk Poland</td>
+		<td>78</td>
+		<td>776</td>
+	</tr>
+	<tr>
+		<td>295</td>
+		<td>
 			<a target="_blank" href="https://github.com/wdanilo">
-				<img src="https://private-avatars.githubusercontent.com/u/1623053?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ1NjAsIm5iZiI6MTczNDU3MzM2MCwicGF0aCI6Ii91LzE2MjMwNTMifQ.tiV8ycEg_v8jnGGZcGUeDspy42B-4kC1EMxIt-lSykw&s=72&u=5a8c02675af4c8a4812f3f9985ae2220d15faf8d&v=4" width="24" alt="Avatar of wdanilo"/> wdanilo
+				<img src="https://private-avatars.githubusercontent.com/u/1623053?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE0NjAsIm5iZiI6MTczNDYxMDI2MCwicGF0aCI6Ii91LzE2MjMwNTMifQ.i0stIbEstzJPPABqduP64S0xFBhR80ued1JpaZ3UeQE&s=72&u=5a8c02675af4c8a4812f3f9985ae2220d15faf8d&v=4" width="24" alt="Avatar of wdanilo"/> wdanilo
 			</a><br/>
 			Wojciech Danio
 		</td>
@@ -4213,38 +4241,24 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>775</td>
 	</tr>
 	<tr>
-		<td>294</td>
-		<td>
-			<a target="_blank" href="https://github.com/slyapustin">
-				<img src="https://private-avatars.githubusercontent.com/u/370774?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUzNDAsIm5iZiI6MTczNDU3NDE0MCwicGF0aCI6Ii91LzM3MDc3NCJ9.d7_OIHJyA1SbEWmmX3sILObtnT1nLhBp86scDn1nDf4&s=72&u=acb7ef8437de85dff83080fc8c95a3bb7d590f70&v=4" width="24" alt="Avatar of slyapustin"/> slyapustin
-			</a><br/>
-			Sergey Lyapustin
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/slyapustin">slyapustin</a></td>
-		<td>Gdansk Poland</td>
-		<td>78</td>
-		<td>775</td>
-	</tr>
-	<tr>
-		<td>295</td>
-		<td>
-			<a target="_blank" href="https://github.com/dzienisz">
-				<img src="https://private-avatars.githubusercontent.com/u/3521624?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5MjAsIm5iZiI6MTczNDU3MzcyMCwicGF0aCI6Ii91LzM1MjE2MjQifQ.nn4f84v9TJRd003SdlQhkp9odmYNsKh5NNZMinUGq0s&s=72&u=e17d2b0c418219593af30c029b4f1dd38170d8e8&v=4" width="24" alt="Avatar of dzienisz"/> dzienisz
-			</a><br/>
-			Kamil Dzieniszewski
-		</td>
-		<td>Telia </td>
-		<td><a target="_blank" href="https://twitter.com/dzienko">dzienko</a></td>
-		<td>Warsaw</td>
-		<td>207</td>
-		<td>771</td>
-	</tr>
-	<tr>
 		<td>296</td>
 		<td>
+			<a target="_blank" href="https://github.com/mszostok">
+				<img src="https://private-avatars.githubusercontent.com/u/17568639?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIzNjAsIm5iZiI6MTczNDYxMTE2MCwicGF0aCI6Ii91LzE3NTY4NjM5In0.h3yYmzU7Xt-NLHkomV2uIQeMwbejUbHa-gzjJN_ruWQ&s=72&u=d0590f9e58c484b4c6cd5f0713352b6c596c65ae&v=4" width="24" alt="Avatar of mszostok"/> mszostok
+			</a><br/>
+			Mateusz Szostok
+		</td>
+		<td>@kubeshop </td>
+		<td><a target="_blank" href="https://twitter.com/m_szostok">m_szostok</a></td>
+		<td>Poland</td>
+		<td>281</td>
+		<td>764</td>
+	</tr>
+	<tr>
+		<td>297</td>
+		<td>
 			<a target="_blank" href="https://github.com/kamilchm">
-				<img src="https://private-avatars.githubusercontent.com/u/1621930?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5ODAsIm5iZiI6MTczNDU3Mzc4MCwicGF0aCI6Ii91LzE2MjE5MzAifQ.wPlZk9thOOi5YZShdi5MkiF0OEGXwMe4lxbk6xvm-W8&s=72&v=4" width="24" alt="Avatar of kamilchm"/> kamilchm
+				<img src="https://private-avatars.githubusercontent.com/u/1621930?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4ODAsIm5iZiI6MTczNDYxMDY4MCwicGF0aCI6Ii91LzE2MjE5MzAifQ.OZrmmtvhdjvh7U9KLclPs_XWUxjjnTlYWQuCE0BqZAI&s=72&v=4" width="24" alt="Avatar of kamilchm"/> kamilchm
 			</a><br/>
 			Kamil Chmielewski
 		</td>
@@ -4255,24 +4269,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>763</td>
 	</tr>
 	<tr>
-		<td>297</td>
-		<td>
-			<a target="_blank" href="https://github.com/mszostok">
-				<img src="https://private-avatars.githubusercontent.com/u/17568639?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU0NjAsIm5iZiI6MTczNDU3NDI2MCwicGF0aCI6Ii91LzE3NTY4NjM5In0.wmi3BTWYt4bqQMBizHxHm2SBHxeMX_FUEkdPuEhU2wo&s=72&u=d0590f9e58c484b4c6cd5f0713352b6c596c65ae&v=4" width="24" alt="Avatar of mszostok"/> mszostok
-			</a><br/>
-			Mateusz Szostok
-		</td>
-		<td>@kubeshop </td>
-		<td><a target="_blank" href="https://twitter.com/m_szostok">m_szostok</a></td>
-		<td>Poland</td>
-		<td>280</td>
-		<td>763</td>
-	</tr>
-	<tr>
 		<td>298</td>
 		<td>
 			<a target="_blank" href="https://github.com/erszcz">
-				<img src="https://private-avatars.githubusercontent.com/u/112145?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ3NDAsIm5iZiI6MTczNDU3MzU0MCwicGF0aCI6Ii91LzExMjE0NSJ9.hnduvJewap3fEQR7c6skidg0RpupW429hYLSjwzVFVw&s=72&u=63813094b6d545d9bd74b9f7694636a84ed01672&v=4" width="24" alt="Avatar of erszcz"/> erszcz
+				<img src="https://private-avatars.githubusercontent.com/u/112145?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE2NDAsIm5iZiI6MTczNDYxMDQ0MCwicGF0aCI6Ii91LzExMjE0NSJ9.N4gJUQCETbx1DWdyivO9VCibxoCekhKbCgqGiCgsMHs&s=72&u=63813094b6d545d9bd74b9f7694636a84ed01672&v=4" width="24" alt="Avatar of erszcz"/> erszcz
 			</a><br/>
 			Radek Szymczyszyn
 		</td>
@@ -4286,7 +4286,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>299</td>
 		<td>
 			<a target="_blank" href="https://github.com/michaldziuba03">
-				<img src="https://private-avatars.githubusercontent.com/u/43048524?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxMDAsIm5iZiI6MTczNDU3MzkwMCwicGF0aCI6Ii91LzQzMDQ4NTI0In0.N5EaomNaQtNehcYmPlNH4uqAWF2n8_d7vs2oxwhU4C0&s=72&u=1d3f7af84f34cdac321d6066a12ffc415548924a&v=4" width="24" alt="Avatar of michaldziuba03"/> michaldziuba03
+				<img src="https://private-avatars.githubusercontent.com/u/43048524?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwMDAsIm5iZiI6MTczNDYxMDgwMCwicGF0aCI6Ii91LzQzMDQ4NTI0In0.Ef-xyLPy2FlJwvhelCaHL_lBO6xuiV2ITpHV5tPU3rA&s=72&u=1d3f7af84f34cdac321d6066a12ffc415548924a&v=4" width="24" alt="Avatar of michaldziuba03"/> michaldziuba03
 			</a><br/>
 			Micha Dziuba
 		</td>
@@ -4300,7 +4300,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>300</td>
 		<td>
 			<a target="_blank" href="https://github.com/m1entus">
-				<img src="https://private-avatars.githubusercontent.com/u/1565368?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQyNjAsIm5iZiI6MTczNDU3MzA2MCwicGF0aCI6Ii91LzE1NjUzNjgifQ.6IqRaNkNE8n3Qy8xWnlkSN0whkVaLXMVFsRnXV6wBsY&s=72&u=869a2af95711cc1c9698e71173be67188dfdeaf6&v=4" width="24" alt="Avatar of m1entus"/> m1entus
+				<img src="https://private-avatars.githubusercontent.com/u/1565368?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTExNjAsIm5iZiI6MTczNDYwOTk2MCwicGF0aCI6Ii91LzE1NjUzNjgifQ.5e2Yoo7NItm8wajLpKLWFISB4koGht88qTrcapZ5McU&s=72&u=869a2af95711cc1c9698e71173be67188dfdeaf6&v=4" width="24" alt="Avatar of m1entus"/> m1entus
 			</a><br/>
 			Micha Zaborowski
 		</td>
@@ -4314,7 +4314,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>301</td>
 		<td>
 			<a target="_blank" href="https://github.com/rootsher">
-				<img src="https://private-avatars.githubusercontent.com/u/4412263?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUzNDAsIm5iZiI6MTczNDU3NDE0MCwicGF0aCI6Ii91LzQ0MTIyNjMifQ.RtaHOafCsEJBJypOuuk1-Omq8FHA2xuf4FMivFJhHBQ&s=72&u=85451c177fa5fcf8fc33fc90d709a008a0781a78&v=4" width="24" alt="Avatar of rootsher"/> rootsher
+				<img src="https://private-avatars.githubusercontent.com/u/4412263?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIyNDAsIm5iZiI6MTczNDYxMTA0MCwicGF0aCI6Ii91LzQ0MTIyNjMifQ.-6TETNwc72tsp9FRESITSNKk2vtsB_9uzzJ8aZyHhP4&s=72&u=85451c177fa5fcf8fc33fc90d709a008a0781a78&v=4" width="24" alt="Avatar of rootsher"/> rootsher
 			</a><br/>
 			Konrad rootsher Kowalski
 		</td>
@@ -4328,7 +4328,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>302</td>
 		<td>
 			<a target="_blank" href="https://github.com/bartaz">
-				<img src="https://private-avatars.githubusercontent.com/u/83575?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ1NjAsIm5iZiI6MTczNDU3MzM2MCwicGF0aCI6Ii91LzgzNTc1In0.TqvWu0cepcPvdIiEjz2XU-XucA8nCT8NUKXmSsRjwiw&s=72&u=3bb36bba00a39af5bd0e3da220b360513412b18e&v=4" width="24" alt="Avatar of bartaz"/> bartaz
+				<img src="https://private-avatars.githubusercontent.com/u/83575?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE0NjAsIm5iZiI6MTczNDYxMDI2MCwicGF0aCI6Ii91LzgzNTc1In0.KhQsqqXRuO6aHIDwKz0rhSs09jMdx46eWV8iCJJI5kY&s=72&u=3bb36bba00a39af5bd0e3da220b360513412b18e&v=4" width="24" alt="Avatar of bartaz"/> bartaz
 			</a><br/>
 			Bartek Szopka
 		</td>
@@ -4342,7 +4342,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>303</td>
 		<td>
 			<a target="_blank" href="https://github.com/gagolews">
-				<img src="https://private-avatars.githubusercontent.com/u/3193581?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ0NDAsIm5iZiI6MTczNDU3MzI0MCwicGF0aCI6Ii91LzMxOTM1ODEifQ.GgTpt8q6fznjNrN-oe1Kk2httxiG32cWXBh5Bmmhjr0&s=72&u=305d5424f0fc08f42a3a4f9a0df8df50934ac861&v=4" width="24" alt="Avatar of gagolews"/> gagolews
+				<img src="https://private-avatars.githubusercontent.com/u/3193581?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTEzNDAsIm5iZiI6MTczNDYxMDE0MCwicGF0aCI6Ii91LzMxOTM1ODEifQ.NTOQIWaXJnw-XNmZHfARdnIfpQ84STWEdfHEK7U8y38&s=72&u=305d5424f0fc08f42a3a4f9a0df8df50934ac861&v=4" width="24" alt="Avatar of gagolews"/> gagolews
 			</a><br/>
 			Marek Gagolewski
 		</td>
@@ -4350,13 +4350,13 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Warsaw Poland</td>
 		<td>200</td>
-		<td>739</td>
+		<td>740</td>
 	</tr>
 	<tr>
 		<td>304</td>
 		<td>
 			<a target="_blank" href="https://github.com/w84death">
-				<img src="https://private-avatars.githubusercontent.com/u/2567162?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2ODAsIm5iZiI6MTczNDU3MzQ4MCwicGF0aCI6Ii91LzI1NjcxNjIifQ.QArfd3SlFhmUDMPEpbDW-1M5mTr3_FU32VIQajawWlk&s=72&u=6fb2e06731bd1f74f87df2d9aade9e872a78d61a&v=4" width="24" alt="Avatar of w84death"/> w84death
+				<img src="https://private-avatars.githubusercontent.com/u/2567162?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1ODAsIm5iZiI6MTczNDYxMDM4MCwicGF0aCI6Ii91LzI1NjcxNjIifQ.7GTy80wr1J5AoNlhACXcLtbeg0gdPc1s2qCs5B1N0QA&s=72&u=6fb2e06731bd1f74f87df2d9aade9e872a78d61a&v=4" width="24" alt="Avatar of w84death"/> w84death
 			</a><br/>
 			Krzysztof Krystian Jankowski
 		</td>
@@ -4370,7 +4370,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>305</td>
 		<td>
 			<a target="_blank" href="https://github.com/kuba2k2">
-				<img src="https://private-avatars.githubusercontent.com/u/30433568?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUzNDAsIm5iZiI6MTczNDU3NDE0MCwicGF0aCI6Ii91LzMwNDMzNTY4In0.WYZeA6Bneh0CMTU2Q4yFGkXYNLssUt5ke_tBe41tNko&s=72&v=4" width="24" alt="Avatar of kuba2k2"/> kuba2k2
+				<img src="https://private-avatars.githubusercontent.com/u/30433568?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIyNDAsIm5iZiI6MTczNDYxMTA0MCwicGF0aCI6Ii91LzMwNDMzNTY4In0.ebXMJAFD2liIOBdQ-09R50zIQRXMIDL4eVGxqyA6Orc&s=72&v=4" width="24" alt="Avatar of kuba2k2"/> kuba2k2
 			</a><br/>
 			Kuba Szczodrzyski
 		</td>
@@ -4384,7 +4384,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>306</td>
 		<td>
 			<a target="_blank" href="https://github.com/SteelPh0enix">
-				<img src="https://private-avatars.githubusercontent.com/u/10062791?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ3NDAsIm5iZiI6MTczNDU3MzU0MCwicGF0aCI6Ii91LzEwMDYyNzkxIn0.xZ3QneHg9XXd592uvmB8noBXZoIBR8uqkbPCHReDkNw&s=72&u=affe9c64e9365be11c59054b98d58fd6a26f2736&v=4" width="24" alt="Avatar of SteelPh0enix"/> SteelPh0enix
+				<img src="https://private-avatars.githubusercontent.com/u/10062791?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE2NDAsIm5iZiI6MTczNDYxMDQ0MCwicGF0aCI6Ii91LzEwMDYyNzkxIn0.ax1rZrQS6xDNFbC9bEcccl5npLO45DISaPRyNyQRRqQ&s=72&u=affe9c64e9365be11c59054b98d58fd6a26f2736&v=4" width="24" alt="Avatar of SteelPh0enix"/> SteelPh0enix
 			</a><br/>
 			Wojciech Olech
 		</td>
@@ -4398,7 +4398,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>307</td>
 		<td>
 			<a target="_blank" href="https://github.com/spatulatom">
-				<img src="https://private-avatars.githubusercontent.com/u/40583214?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUzNDAsIm5iZiI6MTczNDU3NDE0MCwicGF0aCI6Ii91LzQwNTgzMjE0In0.S0JiBo-vmdErfCYNRR67wj76HNwaFbm8SD_zOZhyUcU&s=72&u=4c533d67f5df04ebffc3cbc95ce85e6bc25795cc&v=4" width="24" alt="Avatar of spatulatom"/> spatulatom
+				<img src="https://private-avatars.githubusercontent.com/u/40583214?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTEzNDAsIm5iZiI6MTczNDYxMDE0MCwicGF0aCI6Ii91LzQwNTgzMjE0In0.ZiGZRgEBq37jL1cvzSenBLZiFHVz6JuXw0aRqmop-38&s=72&u=4c533d67f5df04ebffc3cbc95ce85e6bc25795cc&v=4" width="24" alt="Avatar of spatulatom"/> spatulatom
 			</a><br/>
 			No Name
 		</td>
@@ -4412,7 +4412,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>308</td>
 		<td>
 			<a target="_blank" href="https://github.com/zamazan4ik">
-				<img src="https://private-avatars.githubusercontent.com/u/7355383?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxMDAsIm5iZiI6MTczNDU3MzkwMCwicGF0aCI6Ii91LzczNTUzODMifQ.exax04VF0-R48N0XT9ed8p1E6NiAFFfOB5AyYVyrS8M&s=72&u=e660e0683b9637e93454f3ab385ee71cf65b5194&v=4" width="24" alt="Avatar of zamazan4ik"/> zamazan4ik
+				<img src="https://private-avatars.githubusercontent.com/u/7355383?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwMDAsIm5iZiI6MTczNDYxMDgwMCwicGF0aCI6Ii91LzczNTUzODMifQ.YOAIDvz_zLt2r4ezw039euMVg4PqvlTow_xF7pImZH8&s=72&u=e660e0683b9637e93454f3ab385ee71cf65b5194&v=4" width="24" alt="Avatar of zamazan4ik"/> zamazan4ik
 			</a><br/>
 			Alexander Zaitsev
 		</td>
@@ -4426,21 +4426,21 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>309</td>
 		<td>
 			<a target="_blank" href="https://github.com/plokhotnyuk">
-				<img src="https://private-avatars.githubusercontent.com/u/890289?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5ODAsIm5iZiI6MTczNDU3Mzc4MCwicGF0aCI6Ii91Lzg5MDI4OSJ9.MHAOMFBPWKyFU9kIfpMFXlo3S4myNWIohncEdrags8c&s=72&u=111f284af4796a29da51286ffee017d6c7ef66f4&v=4" width="24" alt="Avatar of plokhotnyuk"/> plokhotnyuk
+				<img src="https://private-avatars.githubusercontent.com/u/890289?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4ODAsIm5iZiI6MTczNDYxMDY4MCwicGF0aCI6Ii91Lzg5MDI4OSJ9.Ms6eFrMusWVvmEUsZgeMsE1auP3JPOR8rjzjRCDP59Y&s=72&u=111f284af4796a29da51286ffee017d6c7ef66f4&v=4" width="24" alt="Avatar of plokhotnyuk"/> plokhotnyuk
 			</a><br/>
 			Andriy Plokhotnyuk
 		</td>
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/aplokhotnyuk">aplokhotnyuk</a></td>
 		<td>Krakw Poland</td>
-		<td>719</td>
-		<td>719</td>
+		<td>722</td>
+		<td>722</td>
 	</tr>
 	<tr>
 		<td>310</td>
 		<td>
 			<a target="_blank" href="https://github.com/IvanTymoshchuk">
-				<img src="https://private-avatars.githubusercontent.com/u/116722310?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyMjAsIm5iZiI6MTczNDU3NDAyMCwicGF0aCI6Ii91LzExNjcyMjMxMCJ9.Anj0Pu7EScp0bVPoV2KXrmAuYOpsMP7u-0xB_zFHPuA&s=72&u=3c7865ddb833d217449cb85b84a39f49da38783c&v=4" width="24" alt="Avatar of IvanTymoshchuk"/> IvanTymoshchuk
+				<img src="https://private-avatars.githubusercontent.com/u/116722310?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxMjAsIm5iZiI6MTczNDYxMDkyMCwicGF0aCI6Ii91LzExNjcyMjMxMCJ9.1-oFcpZrPbtMrSf112hyKTgu24ARSPtJCkycQIZN-Pw&s=72&u=3c7865ddb833d217449cb85b84a39f49da38783c&v=4" width="24" alt="Avatar of IvanTymoshchuk"/> IvanTymoshchuk
 			</a><br/>
 			Ivan Tymoshchuk
 		</td>
@@ -4454,7 +4454,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>311</td>
 		<td>
 			<a target="_blank" href="https://github.com/Comandeer">
-				<img src="https://private-avatars.githubusercontent.com/u/1078728?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ3NDAsIm5iZiI6MTczNDU3MzU0MCwicGF0aCI6Ii91LzEwNzg3MjgifQ.61ce7zHTBq4uIRla7HHGcgRZHiRBAvLyYknNncJzjZc&s=72&v=4" width="24" alt="Avatar of Comandeer"/> Comandeer
+				<img src="https://private-avatars.githubusercontent.com/u/1078728?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE2NDAsIm5iZiI6MTczNDYxMDQ0MCwicGF0aCI6Ii91LzEwNzg3MjgifQ.zF3C6j4U-vmds21iU5TgZTBtWxlwcVypSkLcGsxaogQ&s=72&v=4" width="24" alt="Avatar of Comandeer"/> Comandeer
 			</a><br/>
 			Tomasz Jakut
 		</td>
@@ -4468,21 +4468,21 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>312</td>
 		<td>
 			<a target="_blank" href="https://github.com/Ph0enixKM">
-				<img src="https://private-avatars.githubusercontent.com/u/29208124?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyMjAsIm5iZiI6MTczNDU3NDAyMCwicGF0aCI6Ii91LzI5MjA4MTI0In0.W5U8we8vw9aM4kjunxvEOUa4SZ5_XT1XeaUDFt-t1vU&s=72&u=42dede45c77fcc958d0634860cea8c4615bef653&v=4" width="24" alt="Avatar of Ph0enixKM"/> Ph0enixKM
+				<img src="https://private-avatars.githubusercontent.com/u/29208124?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxMjAsIm5iZiI6MTczNDYxMDkyMCwicGF0aCI6Ii91LzI5MjA4MTI0In0.esKhlYdA1zcJ0A0LK6AWHpKGCPGorU8XstGVaN4YWJE&s=72&u=42dede45c77fcc958d0634860cea8c4615bef653&v=4" width="24" alt="Avatar of Ph0enixKM"/> Ph0enixKM
 			</a><br/>
 			Phoenix Himself
 		</td>
 		<td>@amberlang </td>
 		<td>No Twitter Username</td>
 		<td>Poland Leszno</td>
-		<td>703</td>
 		<td>707</td>
+		<td>711</td>
 	</tr>
 	<tr>
 		<td>313</td>
 		<td>
 			<a target="_blank" href="https://github.com/pietrushnic">
-				<img src="https://private-avatars.githubusercontent.com/u/1071894?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyMjAsIm5iZiI6MTczNDU3NDAyMCwicGF0aCI6Ii91LzEwNzE4OTQifQ.2p7WH0_zwM4ecUMBMX-4l3eXpJVaIelty2nG6uY0bKo&s=72&u=9bb6eb283d4488c1e4ab8630fab44e406a65d581&v=4" width="24" alt="Avatar of pietrushnic"/> pietrushnic
+				<img src="https://private-avatars.githubusercontent.com/u/1071894?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxMjAsIm5iZiI6MTczNDYxMDkyMCwicGF0aCI6Ii91LzEwNzE4OTQifQ.Pkvm11GcbDbh7BffrW9dlZW0vHFf3u_pTU1HBSa-8e4&s=72&u=9bb6eb283d4488c1e4ab8630fab44e406a65d581&v=4" width="24" alt="Avatar of pietrushnic"/> pietrushnic
 			</a><br/>
 			Piotr Krl
 		</td>
@@ -4496,7 +4496,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>314</td>
 		<td>
 			<a target="_blank" href="https://github.com/tomickigrzegorz">
-				<img src="https://private-avatars.githubusercontent.com/u/25438490?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU1MjAsIm5iZiI6MTczNDU3NDMyMCwicGF0aCI6Ii91LzI1NDM4NDkwIn0.j0KU6eC1NnIFyZqPq_Vt9rYRkv60mCFmuDwGqoiohGc&s=72&u=59952ae1532b6de6766872f6ac3a9be5a8f2be65&v=4" width="24" alt="Avatar of tomickigrzegorz"/> tomickigrzegorz
+				<img src="https://private-avatars.githubusercontent.com/u/25438490?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTI0MjAsIm5iZiI6MTczNDYxMTIyMCwicGF0aCI6Ii91LzI1NDM4NDkwIn0.Tta9XSN3zNNY9kEmZPQAS3xmiLdyB7WPK2sWbi8v_5Y&s=72&u=59952ae1532b6de6766872f6ac3a9be5a8f2be65&v=4" width="24" alt="Avatar of tomickigrzegorz"/> tomickigrzegorz
 			</a><br/>
 			Grzegorz Tomicki
 		</td>
@@ -4509,8 +4509,22 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 	<tr>
 		<td>315</td>
 		<td>
+			<a target="_blank" href="https://github.com/wvffle">
+				<img src="https://private-avatars.githubusercontent.com/u/13330620?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4MjAsIm5iZiI6MTczNDYxMDYyMCwicGF0aCI6Ii91LzEzMzMwNjIwIn0.038hHwN_2cP-Kt2gIJi0rAdGoS-aoJXDwM71Hkr0F-c&s=72&u=f0fa023424b6b9ecd58330d5474f0653cff07727&v=4" width="24" alt="Avatar of wvffle"/> wvffle
+			</a><br/>
+			Kasper Seweryn
+		</td>
+		<td>Funkwhale </td>
+		<td>No Twitter Username</td>
+		<td>Biaystok Poland</td>
+		<td>247</td>
+		<td>700</td>
+	</tr>
+	<tr>
+		<td>316</td>
+		<td>
 			<a target="_blank" href="https://github.com/FractalFir">
-				<img src="https://private-avatars.githubusercontent.com/u/75212430?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyODAsIm5iZiI6MTczNDU3NDA4MCwicGF0aCI6Ii91Lzc1MjEyNDMwIn0.y5QlhKpkf1dpkHYKY9gpY4NgRRMmQmhRZs6JUjU_Scg&s=72&v=4" width="24" alt="Avatar of FractalFir"/> FractalFir
+				<img src="https://private-avatars.githubusercontent.com/u/75212430?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxODAsIm5iZiI6MTczNDYxMDk4MCwicGF0aCI6Ii91Lzc1MjEyNDMwIn0.qaiDXAMqu4y0_gJDFCf7PI-L-uz76Zzkw5v7yGYkP04&s=72&v=4" width="24" alt="Avatar of FractalFir"/> FractalFir
 			</a><br/>
 			No Name
 		</td>
@@ -4521,10 +4535,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>698</td>
 	</tr>
 	<tr>
-		<td>316</td>
+		<td>317</td>
 		<td>
 			<a target="_blank" href="https://github.com/sp5wwp">
-				<img src="https://private-avatars.githubusercontent.com/u/44336093?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2MjAsIm5iZiI6MTczNDU3MzQyMCwicGF0aCI6Ii91LzQ0MzM2MDkzIn0.Ze-4vm6V7zcWjU-cjoTEDa-5V62w-AwvLxVHl6NIixI&s=72&u=2d7ba239096fd134096525ce0e88959f3545e231&v=4" width="24" alt="Avatar of sp5wwp"/> sp5wwp
+				<img src="https://private-avatars.githubusercontent.com/u/44336093?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1MjAsIm5iZiI6MTczNDYxMDMyMCwicGF0aCI6Ii91LzQ0MzM2MDkzIn0.iCrz1o3uNIuOnWtf-7Katxj8o7FxFqzWjt4UptQsGNU&s=72&u=2d7ba239096fd134096525ce0e88959f3545e231&v=4" width="24" alt="Avatar of sp5wwp"/> sp5wwp
 			</a><br/>
 			Wojciech Kaczmarski
 		</td>
@@ -4535,10 +4549,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>696</td>
 	</tr>
 	<tr>
-		<td>317</td>
+		<td>318</td>
 		<td>
 			<a target="_blank" href="https://github.com/mgol">
-				<img src="https://private-avatars.githubusercontent.com/u/1758366?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ0NDAsIm5iZiI6MTczNDU3MzI0MCwicGF0aCI6Ii91LzE3NTgzNjYifQ.uTy-vZWqZ08923tSvdsiifBJckVA3n6NhuvlIh20GLs&s=72&u=b8bbaee0cb1861098456b83b8674e0a6897fc9f3&v=4" width="24" alt="Avatar of mgol"/> mgol
+				<img src="https://private-avatars.githubusercontent.com/u/1758366?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTEzNDAsIm5iZiI6MTczNDYxMDE0MCwicGF0aCI6Ii91LzE3NTgzNjYifQ.Ce50Xo2HC-lMTftWopM2HdQRbjQdIFDU3pbh8O3Zjs0&s=72&u=b8bbaee0cb1861098456b83b8674e0a6897fc9f3&v=4" width="24" alt="Avatar of mgol"/> mgol
 			</a><br/>
 			Micha GobiowskiOwczarek
 		</td>
@@ -4549,24 +4563,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>693</td>
 	</tr>
 	<tr>
-		<td>318</td>
-		<td>
-			<a target="_blank" href="https://github.com/wvffle">
-				<img src="https://private-avatars.githubusercontent.com/u/13330620?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5MjAsIm5iZiI6MTczNDU3MzcyMCwicGF0aCI6Ii91LzEzMzMwNjIwIn0.6majwVxqJ1dQ9yxnzUG1q8z21zbcsOLLW7mrLUsURH4&s=72&u=f0fa023424b6b9ecd58330d5474f0653cff07727&v=4" width="24" alt="Avatar of wvffle"/> wvffle
-			</a><br/>
-			Kasper Seweryn
-		</td>
-		<td>Funkwhale </td>
-		<td>No Twitter Username</td>
-		<td>Biaystok Poland</td>
-		<td>247</td>
-		<td>690</td>
-	</tr>
-	<tr>
 		<td>319</td>
 		<td>
 			<a target="_blank" href="https://github.com/RaVbaker">
-				<img src="https://private-avatars.githubusercontent.com/u/56023?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU1MjAsIm5iZiI6MTczNDU3NDMyMCwicGF0aCI6Ii91LzU2MDIzIn0.mv_I5c1vLtt2qO044crX4zHfhjz3600FI9s8UB1FNSE&s=72&u=76d7cc9f056a7e53b9f9a57250a17e73e63e458d&v=4" width="24" alt="Avatar of RaVbaker"/> RaVbaker
+				<img src="https://private-avatars.githubusercontent.com/u/56023?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTI0MjAsIm5iZiI6MTczNDYxMTIyMCwicGF0aCI6Ii91LzU2MDIzIn0.QhN2ZYjmrX_-Yq8Q4N21BHImdnydaBa3z86vejqRWsU&s=72&u=76d7cc9f056a7e53b9f9a57250a17e73e63e458d&v=4" width="24" alt="Avatar of RaVbaker"/> RaVbaker
 			</a><br/>
 			Rafal Piekarski
 		</td>
@@ -4580,7 +4580,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>320</td>
 		<td>
 			<a target="_blank" href="https://github.com/matrixik">
-				<img src="https://private-avatars.githubusercontent.com/u/201930?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyMjAsIm5iZiI6MTczNDU3NDAyMCwicGF0aCI6Ii91LzIwMTkzMCJ9.b8huJNn7TVoJ8GGEWVuZY-hevI1761Eu-wjx-6XqsnM&s=72&u=bf6fb768d07b54d627c34bb253fcdf05f20e002d&v=4" width="24" alt="Avatar of matrixik"/> matrixik
+				<img src="https://private-avatars.githubusercontent.com/u/201930?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxMjAsIm5iZiI6MTczNDYxMDkyMCwicGF0aCI6Ii91LzIwMTkzMCJ9.7fDE1OY6sfwuHxwjOb9QDKCot9_sPjmF5iXj-tVydcA&s=72&u=bf6fb768d07b54d627c34bb253fcdf05f20e002d&v=4" width="24" alt="Avatar of matrixik"/> matrixik
 			</a><br/>
 			Dobrosaw ybort
 		</td>
@@ -4594,21 +4594,21 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>321</td>
 		<td>
 			<a target="_blank" href="https://github.com/dsonyy">
-				<img src="https://private-avatars.githubusercontent.com/u/25373558?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxNjAsIm5iZiI6MTczNDU3Mzk2MCwicGF0aCI6Ii91LzI1MzczNTU4In0.11nb2oWVPiHI2ipMQxA5EVgK1zOAK8rbvoIAW4zKdC4&s=72&u=5400e0a7604454b302ee5fa3e9b54196c8974b84&v=4" width="24" alt="Avatar of dsonyy"/> dsonyy
+				<img src="https://private-avatars.githubusercontent.com/u/25373558?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwNjAsIm5iZiI6MTczNDYxMDg2MCwicGF0aCI6Ii91LzI1MzczNTU4In0.WqnoDTfdElGPWOt7tgS2zlCQjuQnjJx3OoY_myMJJR4&s=72&u=5400e0a7604454b302ee5fa3e9b54196c8974b84&v=4" width="24" alt="Avatar of dsonyy"/> dsonyy
 			</a><br/>
 			Szymon Bednorz
 		</td>
 		<td>Agh Space Systems </td>
 		<td>No Twitter Username</td>
 		<td>Krakw Poland</td>
-		<td>407</td>
-		<td>681</td>
+		<td>408</td>
+		<td>682</td>
 	</tr>
 	<tr>
 		<td>322</td>
 		<td>
 			<a target="_blank" href="https://github.com/JanWilczek">
-				<img src="https://private-avatars.githubusercontent.com/u/24981875?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4NjAsIm5iZiI6MTczNDU3MzY2MCwicGF0aCI6Ii91LzI0OTgxODc1In0.XcSHFXjYwceDONLr0n9a1WKnZTIfSdISkxGll4QRV4k&s=72&v=4" width="24" alt="Avatar of JanWilczek"/> JanWilczek
+				<img src="https://private-avatars.githubusercontent.com/u/24981875?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3NjAsIm5iZiI6MTczNDYxMDU2MCwicGF0aCI6Ii91LzI0OTgxODc1In0.NxKux1LLVi3aPWpeENQFAcnYrP2ovmL58HgfKUy5NFQ&s=72&v=4" width="24" alt="Avatar of JanWilczek"/> JanWilczek
 			</a><br/>
 			Jan Wilczek
 		</td>
@@ -4622,7 +4622,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>323</td>
 		<td>
 			<a target="_blank" href="https://github.com/geneotech">
-				<img src="https://private-avatars.githubusercontent.com/u/3588717?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyODAsIm5iZiI6MTczNDU3NDA4MCwicGF0aCI6Ii91LzM1ODg3MTcifQ.uZ3CPZFjXD5U9zXeVOsbStLv8xsQXQHoQk3QEp99YXg&s=72&u=8bbb79bfd08f92ca2eda0290c41f904d976bd8f5&v=4" width="24" alt="Avatar of geneotech"/> geneotech
+				<img src="https://private-avatars.githubusercontent.com/u/3588717?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxODAsIm5iZiI6MTczNDYxMDk4MCwicGF0aCI6Ii91LzM1ODg3MTcifQ.k48StP0CzlI-0-GYJhQZh7MGg7sUBA-zocejkZm9V6s&s=72&u=8bbb79bfd08f92ca2eda0290c41f904d976bd8f5&v=4" width="24" alt="Avatar of geneotech"/> geneotech
 			</a><br/>
 			Patryk Czachurski
 		</td>
@@ -4636,7 +4636,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>324</td>
 		<td>
 			<a target="_blank" href="https://github.com/derberg">
-				<img src="https://private-avatars.githubusercontent.com/u/6995927?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ1NjAsIm5iZiI6MTczNDU3MzM2MCwicGF0aCI6Ii91LzY5OTU5MjcifQ.1cQXjf52c-tmUVVao93z5STOL8xjk5o3OMObtel0VkA&s=72&u=a6101323e4ae4d8b9f7b1fb2048a5ea2591d84a9&v=4" width="24" alt="Avatar of derberg"/> derberg
+				<img src="https://private-avatars.githubusercontent.com/u/6995927?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE0NjAsIm5iZiI6MTczNDYxMDI2MCwicGF0aCI6Ii91LzY5OTU5MjcifQ.byb6-kWtETvS2jbULgeJSgUQnF_0sg9SlLgbBPhroEM&s=72&u=a6101323e4ae4d8b9f7b1fb2048a5ea2591d84a9&v=4" width="24" alt="Avatar of derberg"/> derberg
 			</a><br/>
 			Lukasz Gornicki
 		</td>
@@ -4650,21 +4650,21 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>325</td>
 		<td>
 			<a target="_blank" href="https://github.com/pieh">
-				<img src="https://private-avatars.githubusercontent.com/u/419821?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxNjAsIm5iZiI6MTczNDU3Mzk2MCwicGF0aCI6Ii91LzQxOTgyMSJ9.x4ih3OWMVuEk06iNS9Lqa6Mm3l3KTbyuEQOBb4FgAT8&s=72&u=07527b928c3f4456e471633b73c74f7c7b5ee7db&v=4" width="24" alt="Avatar of pieh"/> pieh
+				<img src="https://private-avatars.githubusercontent.com/u/419821?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwNjAsIm5iZiI6MTczNDYxMDg2MCwicGF0aCI6Ii91LzQxOTgyMSJ9.4uC20LBYoflS8VYtMXwmjJbxnMwdbZLL0yIXwqZXe_A&s=72&u=07527b928c3f4456e471633b73c74f7c7b5ee7db&v=4" width="24" alt="Avatar of pieh"/> pieh
 			</a><br/>
 			Michal Piechowiak
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Wroclaw Poland</td>
-		<td>666</td>
-		<td>666</td>
+		<td>668</td>
+		<td>668</td>
 	</tr>
 	<tr>
 		<td>326</td>
 		<td>
 			<a target="_blank" href="https://github.com/tgrabiec">
-				<img src="https://private-avatars.githubusercontent.com/u/283695?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUzNDAsIm5iZiI6MTczNDU3NDE0MCwicGF0aCI6Ii91LzI4MzY5NSJ9.5Ja0IvxG3SvrL6gkxJvrDiGJecQGiEPTuMN0Aym5P-M&s=72&u=8a8e29d8cf4a17744e9c6670132ecb4ccaf820d6&v=4" width="24" alt="Avatar of tgrabiec"/> tgrabiec
+				<img src="https://private-avatars.githubusercontent.com/u/283695?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIyNDAsIm5iZiI6MTczNDYxMTA0MCwicGF0aCI6Ii91LzI4MzY5NSJ9.tU6ATOppD-nyM3TKDEUFS7TCVVPbN5l0LPjiB9r8n2g&s=72&u=8a8e29d8cf4a17744e9c6670132ecb4ccaf820d6&v=4" width="24" alt="Avatar of tgrabiec"/> tgrabiec
 			</a><br/>
 			Tomasz Grabiec
 		</td>
@@ -4677,8 +4677,22 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 	<tr>
 		<td>327</td>
 		<td>
+			<a target="_blank" href="https://github.com/WoLewicki">
+				<img src="https://private-avatars.githubusercontent.com/u/32481228?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwMDAsIm5iZiI6MTczNDYxMDgwMCwicGF0aCI6Ii91LzMyNDgxMjI4In0.626dELHbnSJpxK9aTq4-zc2PXAhGPtasMhO8F665wrc&s=72&u=a11a30f43153b0bec3d97ec23b999bec7d2320d7&v=4" width="24" alt="Avatar of WoLewicki"/> WoLewicki
+			</a><br/>
+			Wojciech Lewicki
+		</td>
+		<td>Software Mansion </td>
+		<td>No Twitter Username</td>
+		<td>Krakw Poland</td>
+		<td>624</td>
+		<td>664</td>
+	</tr>
+	<tr>
+		<td>328</td>
+		<td>
 			<a target="_blank" href="https://github.com/avatorl">
-				<img src="https://private-avatars.githubusercontent.com/u/59934292?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91LzU5OTM0MjkyIn0.8D0DSZ9BvDe2GGkpNnz20dMDmXrjqlKnwV9q2dUJa9A&s=72&u=7cc3719cce9c12c8a8823487a82c169f670834a8&v=4" width="24" alt="Avatar of avatorl"/> avatorl
+				<img src="https://private-avatars.githubusercontent.com/u/59934292?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91LzU5OTM0MjkyIn0.IZMmziuznEDPm2VzGMmUJEv5oDtVEgIJ6zhxhRSAj3A&s=72&u=7cc3719cce9c12c8a8823487a82c169f670834a8&v=4" width="24" alt="Avatar of avatorl"/> avatorl
 			</a><br/>
 			Andrzej Leszkiewicz
 		</td>
@@ -4689,10 +4703,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>664</td>
 	</tr>
 	<tr>
-		<td>328</td>
+		<td>329</td>
 		<td>
 			<a target="_blank" href="https://github.com/ihor">
-				<img src="https://private-avatars.githubusercontent.com/u/490943?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQyNjAsIm5iZiI6MTczNDU3MzA2MCwicGF0aCI6Ii91LzQ5MDk0MyJ9.HWCNUeu1jHH8le6dqqSvUgV5hue7aDEaQ51GzINNTO4&s=72&u=901dca2ed63075b4d85f67190f5225b6d14f88bc&v=4" width="24" alt="Avatar of ihor"/> ihor
+				<img src="https://private-avatars.githubusercontent.com/u/490943?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTExNjAsIm5iZiI6MTczNDYwOTk2MCwicGF0aCI6Ii91LzQ5MDk0MyJ9.u0aBUeKDmmGW26douF4aiBRf4QNHAWChZ4OaG7UHxxg&s=72&u=901dca2ed63075b4d85f67190f5225b6d14f88bc&v=4" width="24" alt="Avatar of ihor"/> ihor
 			</a><br/>
 			Ihor Burlachenko
 		</td>
@@ -4703,24 +4717,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>663</td>
 	</tr>
 	<tr>
-		<td>329</td>
-		<td>
-			<a target="_blank" href="https://github.com/WoLewicki">
-				<img src="https://private-avatars.githubusercontent.com/u/32481228?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxMDAsIm5iZiI6MTczNDU3MzkwMCwicGF0aCI6Ii91LzMyNDgxMjI4In0.8SYtkfLW5xu8r5z6ewvVYqJcZCi0umz1j7CLsO608wI&s=72&u=a11a30f43153b0bec3d97ec23b999bec7d2320d7&v=4" width="24" alt="Avatar of WoLewicki"/> WoLewicki
-			</a><br/>
-			Wojciech Lewicki
-		</td>
-		<td>Software Mansion </td>
-		<td>No Twitter Username</td>
-		<td>Krakw Poland</td>
-		<td>623</td>
-		<td>663</td>
-	</tr>
-	<tr>
 		<td>330</td>
 		<td>
 			<a target="_blank" href="https://github.com/KamilLelonek">
-				<img src="https://private-avatars.githubusercontent.com/u/3199333?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5MjAsIm5iZiI6MTczNDU3MzcyMCwicGF0aCI6Ii91LzMxOTkzMzMifQ.jUrAohio8tc6aaFMdKOde31DsrZMR54RuNjUdH9uHoU&s=72&v=4" width="24" alt="Avatar of KamilLelonek"/> KamilLelonek
+				<img src="https://private-avatars.githubusercontent.com/u/3199333?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4MjAsIm5iZiI6MTczNDYxMDYyMCwicGF0aCI6Ii91LzMxOTkzMzMifQ.mvK4aVsnWL0dfG6jsPERHm0o0e3Ji_9oidbH5LcZPeE&s=72&v=4" width="24" alt="Avatar of KamilLelonek"/> KamilLelonek
 			</a><br/>
 			Kamil Lelonek
 		</td>
@@ -4728,13 +4728,13 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/KamilLelonek">KamilLelonek</a></td>
 		<td>Poland  Remote</td>
 		<td>9</td>
-		<td>660</td>
+		<td>661</td>
 	</tr>
 	<tr>
 		<td>331</td>
 		<td>
 			<a target="_blank" href="https://github.com/jkadamczyk">
-				<img src="https://private-avatars.githubusercontent.com/u/16062886?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2MjAsIm5iZiI6MTczNDU3MzQyMCwicGF0aCI6Ii91LzE2MDYyODg2In0.k2VPSV9WRbm8WFfb7Aouw7UxY7xN-mF4nrnLDz6T2lo&s=72&u=de48373e0e525ecd73c123cce40efc686f12d526&v=4" width="24" alt="Avatar of jkadamczyk"/> jkadamczyk
+				<img src="https://private-avatars.githubusercontent.com/u/16062886?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1MjAsIm5iZiI6MTczNDYxMDMyMCwicGF0aCI6Ii91LzE2MDYyODg2In0.W-SNENSSlZmix1r49N4QsG6jSxIeN9VD6bO-2s_6XpM&s=72&u=de48373e0e525ecd73c123cce40efc686f12d526&v=4" width="24" alt="Avatar of jkadamczyk"/> jkadamczyk
 			</a><br/>
 			Kuba Adamczyk
 		</td>
@@ -4748,7 +4748,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>332</td>
 		<td>
 			<a target="_blank" href="https://github.com/stloyd">
-				<img src="https://private-avatars.githubusercontent.com/u/67402?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91LzY3NDAyIn0.MeUn0Tz0m0_IqfZiQL9n89y0KUQEF-hS0GfHtXr4IL0&s=72&u=0b259d2c60bf6ac45a636a886beb1f2a9f3fc671&v=4" width="24" alt="Avatar of stloyd"/> stloyd
+				<img src="https://private-avatars.githubusercontent.com/u/67402?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91LzY3NDAyIn0.-ePA8VoZjoTCCw4unVIwd5734W8PCsMTC4JBmD665go&s=72&u=0b259d2c60bf6ac45a636a886beb1f2a9f3fc671&v=4" width="24" alt="Avatar of stloyd"/> stloyd
 			</a><br/>
 			Joseph Bielawski
 		</td>
@@ -4761,22 +4761,8 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 	<tr>
 		<td>333</td>
 		<td>
-			<a target="_blank" href="https://github.com/tilk">
-				<img src="https://private-avatars.githubusercontent.com/u/509167?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU2NDAsIm5iZiI6MTczNDU3NDQ0MCwicGF0aCI6Ii91LzUwOTE2NyJ9.WGBrPlvdnLFqI_MhM9gFXTKMrBrsBXWoPGHvuH3um40&s=72&v=4" width="24" alt="Avatar of tilk"/> tilk
-			</a><br/>
-			Marek Materzok
-		</td>
-		<td>University Of Wrocaw </td>
-		<td>No Twitter Username</td>
-		<td>Wrocaw Poland</td>
-		<td>625</td>
-		<td>652</td>
-	</tr>
-	<tr>
-		<td>334</td>
-		<td>
 			<a target="_blank" href="https://github.com/nathell">
-				<img src="https://private-avatars.githubusercontent.com/u/43891?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91LzQzODkxIn0.qFszgas3R7DcTn4jjdL7ETKUmVMAO0_KlyUFjrr30io&s=72&u=e7b943a08f63c78337f1fe1a4d7e8bc97567a202&v=4" width="24" alt="Avatar of nathell"/> nathell
+				<img src="https://private-avatars.githubusercontent.com/u/43891?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91LzQzODkxIn0.4XTSWKi-U1Jo75sE6Tf4KkK2dp6vypQXM8U9BUa1QR0&s=72&u=e7b943a08f63c78337f1fe1a4d7e8bc97567a202&v=4" width="24" alt="Avatar of nathell"/> nathell
 			</a><br/>
 			Daniel Janus
 		</td>
@@ -4784,27 +4770,41 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Warsaw Poland</td>
 		<td>40</td>
-		<td>651</td>
+		<td>655</td>
+	</tr>
+	<tr>
+		<td>334</td>
+		<td>
+			<a target="_blank" href="https://github.com/tilk">
+				<img src="https://private-avatars.githubusercontent.com/u/509167?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTI1NDAsIm5iZiI6MTczNDYxMTM0MCwicGF0aCI6Ii91LzUwOTE2NyJ9.mcGj7S0ssjUlxqzbYFyQ7AR9jhXI1NfDDicPiqr0SZc&s=72&v=4" width="24" alt="Avatar of tilk"/> tilk
+			</a><br/>
+			Marek Materzok
+		</td>
+		<td>University Of Wrocaw </td>
+		<td>No Twitter Username</td>
+		<td>Wrocaw Poland</td>
+		<td>626</td>
+		<td>653</td>
 	</tr>
 	<tr>
 		<td>335</td>
 		<td>
 			<a target="_blank" href="https://github.com/JavaSaBr">
-				<img src="https://private-avatars.githubusercontent.com/u/7160534?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUzNDAsIm5iZiI6MTczNDU3NDE0MCwicGF0aCI6Ii91LzcxNjA1MzQifQ.ZO3Ad-Gxa_VNsaaFqSXQ7V0Hj7DgJidK2RDkXg5ePC8&s=72&u=93ce5a140f1460ceb743ece4d0e2fe87a21b9ba8&v=4" width="24" alt="Avatar of JavaSaBr"/> JavaSaBr
+				<img src="https://private-avatars.githubusercontent.com/u/7160534?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIyNDAsIm5iZiI6MTczNDYxMTA0MCwicGF0aCI6Ii91LzcxNjA1MzQifQ.hzT2Hn1d_cN-Ol1cFLFxonZXuMHDapfXJPc4N07tyQg&s=72&u=93ce5a140f1460ceb743ece4d0e2fe87a21b9ba8&v=4" width="24" alt="Avatar of JavaSaBr"/> JavaSaBr
 			</a><br/>
 			Aliaksandr Brui
 		</td>
 		<td>Ibexa Poland </td>
 		<td>No Twitter Username</td>
 		<td>Krakow Poland</td>
-		<td>33</td>
-		<td>643</td>
+		<td>35</td>
+		<td>645</td>
 	</tr>
 	<tr>
 		<td>336</td>
 		<td>
 			<a target="_blank" href="https://github.com/kacperlukawski">
-				<img src="https://private-avatars.githubusercontent.com/u/2649301?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4NjAsIm5iZiI6MTczNDU3MzY2MCwicGF0aCI6Ii91LzI2NDkzMDEifQ.EH4wzcePIKDNKTqAuShIhgQbUmK3dCMcXpCJNPXtMd4&s=72&u=5e688d2b90ddcafd5028a9da292010144cad6d18&v=4" width="24" alt="Avatar of kacperlukawski"/> kacperlukawski
+				<img src="https://private-avatars.githubusercontent.com/u/2649301?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3NjAsIm5iZiI6MTczNDYxMDU2MCwicGF0aCI6Ii91LzI2NDkzMDEifQ.1GDZORSJ7lpMJaas-bAxwm42-EdPGqcVYJV7dq6RTKc&s=72&u=5e688d2b90ddcafd5028a9da292010144cad6d18&v=4" width="24" alt="Avatar of kacperlukawski"/> kacperlukawski
 			</a><br/>
 			Kacper ukawski
 		</td>
@@ -4818,7 +4818,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>337</td>
 		<td>
 			<a target="_blank" href="https://github.com/Emzi0767">
-				<img src="https://private-avatars.githubusercontent.com/u/784448?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU1ODAsIm5iZiI6MTczNDU3NDM4MCwicGF0aCI6Ii91Lzc4NDQ0OCJ9.TJKzeH4yi78YpNmeR33Kb3bh9FbZFYGqlujaF9YDfFI&s=72&u=62fe7c245e7df584ce3b52d69ad117a0d78209a7&v=4" width="24" alt="Avatar of Emzi0767"/> Emzi0767
+				<img src="https://private-avatars.githubusercontent.com/u/784448?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTI0ODAsIm5iZiI6MTczNDYxMTI4MCwicGF0aCI6Ii91Lzc4NDQ0OCJ9.jtJil-wNBFUlc0-C3JjL1oEuB9-cxkFSiw2z_LFNAs8&s=72&u=62fe7c245e7df584ce3b52d69ad117a0d78209a7&v=4" width="24" alt="Avatar of Emzi0767"/> Emzi0767
 			</a><br/>
 			Mateusz Brawaski
 		</td>
@@ -4832,7 +4832,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>338</td>
 		<td>
 			<a target="_blank" href="https://github.com/CookiePLMonster">
-				<img src="https://private-avatars.githubusercontent.com/u/7947461?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQyNjAsIm5iZiI6MTczNDU3MzA2MCwicGF0aCI6Ii91Lzc5NDc0NjEifQ.owrQIDFrVz9Zienwtp7hKQC7TrtC78UYuGTck_Ih5n0&s=72&u=1d3536824770fb188d9a453113a6fe9b5527221a&v=4" width="24" alt="Avatar of CookiePLMonster"/> CookiePLMonster
+				<img src="https://private-avatars.githubusercontent.com/u/7947461?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTExNjAsIm5iZiI6MTczNDYwOTk2MCwicGF0aCI6Ii91Lzc5NDc0NjEifQ.b8EcyUBTNsmeCndYqfwb2U8jJpNu42Pg-VjOrq0qXDI&s=72&u=1d3536824770fb188d9a453113a6fe9b5527221a&v=4" width="24" alt="Avatar of CookiePLMonster"/> CookiePLMonster
 			</a><br/>
 			Silent
 		</td>
@@ -4846,7 +4846,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>339</td>
 		<td>
 			<a target="_blank" href="https://github.com/Kubuxu">
-				<img src="https://private-avatars.githubusercontent.com/u/2259282?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxNjAsIm5iZiI6MTczNDU3Mzk2MCwicGF0aCI6Ii91LzIyNTkyODIifQ.2TowjMGroUJWVOuhPzd_UoahqgdMXd8b7LPtzc7BbqM&s=72&v=4" width="24" alt="Avatar of Kubuxu"/> Kubuxu
+				<img src="https://private-avatars.githubusercontent.com/u/2259282?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwNjAsIm5iZiI6MTczNDYxMDg2MCwicGF0aCI6Ii91LzIyNTkyODIifQ.d8oRgEfRSqGprTZzp0bw5gKJhlFggM3QZLUtoCLUDZA&s=72&v=4" width="24" alt="Avatar of Kubuxu"/> Kubuxu
 			</a><br/>
 			Jakub Sztandera
 		</td>
@@ -4859,8 +4859,36 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 	<tr>
 		<td>340</td>
 		<td>
+			<a target="_blank" href="https://github.com/hbaniecki">
+				<img src="https://private-avatars.githubusercontent.com/u/32574004?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwMDAsIm5iZiI6MTczNDYxMDgwMCwicGF0aCI6Ii91LzMyNTc0MDA0In0.Wztd9R_sWqw3EmqqGwSuEZZxf3_XcuOEZcATv9xN3pg&s=72&u=8c0d141f75c490d0dca23fd31c184a85d51c0e03&v=4" width="24" alt="Avatar of hbaniecki"/> hbaniecki
+			</a><br/>
+			Hubert Baniecki
+		</td>
+		<td>University Of Warsaw </td>
+		<td><a target="_blank" href="https://twitter.com/hbaniecki">hbaniecki</a></td>
+		<td>Poland</td>
+		<td>210</td>
+		<td>627</td>
+	</tr>
+	<tr>
+		<td>341</td>
+		<td>
+			<a target="_blank" href="https://github.com/rafalp">
+				<img src="https://private-avatars.githubusercontent.com/u/750553?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTEzNDAsIm5iZiI6MTczNDYxMDE0MCwicGF0aCI6Ii91Lzc1MDU1MyJ9.B4Ib8sIqqpUMGz9vOootdfg4IyBTafCHdZ2cwC1VJhA&s=72&u=12e50e4db9e36ef1c8418822c6ecfecfbb86920b&v=4" width="24" alt="Avatar of rafalp"/> rafalp
+			</a><br/>
+			Rafa Pito
+		</td>
+		<td>Mobile Vikings </td>
+		<td><a target="_blank" href="https://twitter.com/RafalPiton">RafalPiton</a></td>
+		<td>PolandWrocaw</td>
+		<td>464</td>
+		<td>626</td>
+	</tr>
+	<tr>
+		<td>342</td>
+		<td>
 			<a target="_blank" href="https://github.com/cahitihac">
-				<img src="https://private-avatars.githubusercontent.com/u/20772217?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ3NDAsIm5iZiI6MTczNDU3MzU0MCwicGF0aCI6Ii91LzIwNzcyMjE3In0.6oy_zW9TvcCobu6wIHoMF2ODf5g-MvpH4aRMdAu1rjI&s=72&u=b05c968b93ef7872cbe3f5bc74f0d9bd17d2d521&v=4" width="24" alt="Avatar of cahitihac"/> cahitihac
+				<img src="https://private-avatars.githubusercontent.com/u/20772217?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE2NDAsIm5iZiI6MTczNDYxMDQ0MCwicGF0aCI6Ii91LzIwNzcyMjE3In0.MStd5LhJosqQ2P-AtcID0V5_guGcO3IxdLbttZbVbxk&s=72&u=b05c968b93ef7872cbe3f5bc74f0d9bd17d2d521&v=4" width="24" alt="Avatar of cahitihac"/> cahitihac
 			</a><br/>
 			Cahit
 		</td>
@@ -4871,38 +4899,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>626</td>
 	</tr>
 	<tr>
-		<td>341</td>
-		<td>
-			<a target="_blank" href="https://github.com/rafalp">
-				<img src="https://private-avatars.githubusercontent.com/u/750553?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ0NDAsIm5iZiI6MTczNDU3MzI0MCwicGF0aCI6Ii91Lzc1MDU1MyJ9.FhFF61x1LkO9wpkAdMb3ZxA2g_0Em-bOUlbywzuc-Vo&s=72&u=12e50e4db9e36ef1c8418822c6ecfecfbb86920b&v=4" width="24" alt="Avatar of rafalp"/> rafalp
-			</a><br/>
-			Rafa Pito
-		</td>
-		<td>Mobile Vikings </td>
-		<td><a target="_blank" href="https://twitter.com/RafalPiton">RafalPiton</a></td>
-		<td>PolandWrocaw</td>
-		<td>463</td>
-		<td>625</td>
-	</tr>
-	<tr>
-		<td>342</td>
-		<td>
-			<a target="_blank" href="https://github.com/hbaniecki">
-				<img src="https://private-avatars.githubusercontent.com/u/32574004?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxMDAsIm5iZiI6MTczNDU3MzkwMCwicGF0aCI6Ii91LzMyNTc0MDA0In0.aMvKRD83RH2c1icKC68wwhNzC4FkFJnNaDQygnKzCMw&s=72&u=8c0d141f75c490d0dca23fd31c184a85d51c0e03&v=4" width="24" alt="Avatar of hbaniecki"/> hbaniecki
-			</a><br/>
-			Hubert Baniecki
-		</td>
-		<td>University Of Warsaw </td>
-		<td><a target="_blank" href="https://twitter.com/hbaniecki">hbaniecki</a></td>
-		<td>Poland</td>
-		<td>210</td>
-		<td>625</td>
-	</tr>
-	<tr>
 		<td>343</td>
 		<td>
 			<a target="_blank" href="https://github.com/beerose">
-				<img src="https://private-avatars.githubusercontent.com/u/9019397?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQzMjAsIm5iZiI6MTczNDU3MzEyMCwicGF0aCI6Ii91LzkwMTkzOTcifQ.80WjY3tHNZLmq9Wun7np7syohn8iCdZf0rY7bxWQvd8&s=72&u=1e661c2a407f432019745f2fa311e82fe23e1856&v=4" width="24" alt="Avatar of beerose"/> beerose
+				<img src="https://private-avatars.githubusercontent.com/u/9019397?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTEyMjAsIm5iZiI6MTczNDYxMDAyMCwicGF0aCI6Ii91LzkwMTkzOTcifQ.sA-4K00-QL3Fbp2FOv6Zl_9AKGnHoH2chFt1Z4_RDKE&s=72&u=1e661c2a407f432019745f2fa311e82fe23e1856&v=4" width="24" alt="Avatar of beerose"/> beerose
 			</a><br/>
 			Aleksandra
 		</td>
@@ -4916,7 +4916,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>344</td>
 		<td>
 			<a target="_blank" href="https://github.com/Crypto-git-dev">
-				<img src="https://private-avatars.githubusercontent.com/u/187044953?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUzNDAsIm5iZiI6MTczNDU3NDE0MCwicGF0aCI6Ii91LzE4NzA0NDk1MyJ9.VyL_ZaLBBeU5MHA_F0BT1mOybQF0NuDgJlWc48mSSLk&s=72&u=e3eab654b9c6401de5752be129ead5ebf6669e52&v=4" width="24" alt="Avatar of Crypto-git-dev"/> Crypto-git-dev
+				<img src="https://private-avatars.githubusercontent.com/u/187044953?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIyNDAsIm5iZiI6MTczNDYxMTA0MCwicGF0aCI6Ii91LzE4NzA0NDk1MyJ9.Ia_1twoZVCO0Q8nBeQi82wKcoFtwG1H2WRqKf_XMvEY&s=72&u=e3eab654b9c6401de5752be129ead5ebf6669e52&v=4" width="24" alt="Avatar of Crypto-git-dev"/> Crypto-git-dev
 			</a><br/>
 			 Innovator 
 		</td>
@@ -4930,7 +4930,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>345</td>
 		<td>
 			<a target="_blank" href="https://github.com/cezarypiatek">
-				<img src="https://private-avatars.githubusercontent.com/u/7759991?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ3NDAsIm5iZiI6MTczNDU3MzU0MCwicGF0aCI6Ii91Lzc3NTk5OTEifQ.HzV65bDhiTyKSzmoFajRpcEQ-gyi7v99yPavL-Ozlmc&s=72&u=cc55d8fd8f0a6f5b04aa05a49d0dcb155972bb0b&v=4" width="24" alt="Avatar of cezarypiatek"/> cezarypiatek
+				<img src="https://private-avatars.githubusercontent.com/u/7759991?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE2NDAsIm5iZiI6MTczNDYxMDQ0MCwicGF0aCI6Ii91Lzc3NTk5OTEifQ.wIzEtR4qhtJ_6FlnqZja74lRfnAsQSgfEzm3PYWFzfE&s=72&u=cc55d8fd8f0a6f5b04aa05a49d0dcb155972bb0b&v=4" width="24" alt="Avatar of cezarypiatek"/> cezarypiatek
 			</a><br/>
 			Cezary Pitek
 		</td>
@@ -4944,7 +4944,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>346</td>
 		<td>
 			<a target="_blank" href="https://github.com/Idered">
-				<img src="https://private-avatars.githubusercontent.com/u/230404?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxMDAsIm5iZiI6MTczNDU3MzkwMCwicGF0aCI6Ii91LzIzMDQwNCJ9.bB6mQNDsxt945ZombiqyuDPdr6_onslWWRfPf1cleAY&s=72&u=3f321d9ed9cf2eb1e6b6b935b5fc8f4cef4b3723&v=4" width="24" alt="Avatar of Idered"/> Idered
+				<img src="https://private-avatars.githubusercontent.com/u/230404?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwMDAsIm5iZiI6MTczNDYxMDgwMCwicGF0aCI6Ii91LzIzMDQwNCJ9.YtOZ6D11KgM0HOdnoAUigORw_f5SqtB0yuOJHVR-qp8&s=72&u=3f321d9ed9cf2eb1e6b6b935b5fc8f4cef4b3723&v=4" width="24" alt="Avatar of Idered"/> Idered
 			</a><br/>
 			Kasper Mikiewicz
 		</td>
@@ -4958,7 +4958,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>347</td>
 		<td>
 			<a target="_blank" href="https://github.com/janisozaur">
-				<img src="https://private-avatars.githubusercontent.com/u/550290?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxNjAsIm5iZiI6MTczNDU3Mzk2MCwicGF0aCI6Ii91LzU1MDI5MCJ9.Qba4wbCOg5O6_KuwWT13VTPe5mr8NO6ZewZ_-4mXaA4&s=72&v=4" width="24" alt="Avatar of janisozaur"/> janisozaur
+				<img src="https://private-avatars.githubusercontent.com/u/550290?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwNjAsIm5iZiI6MTczNDYxMDg2MCwicGF0aCI6Ii91LzU1MDI5MCJ9.aj3AzX1zlQ-p_98HeE7-xoWP3WEL3IeDb3L5Gj7zQiI&s=72&v=4" width="24" alt="Avatar of janisozaur"/> janisozaur
 			</a><br/>
 			Micha Janiszewski
 		</td>
@@ -4972,7 +4972,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>348</td>
 		<td>
 			<a target="_blank" href="https://github.com/dawidd6">
-				<img src="https://private-avatars.githubusercontent.com/u/9713907?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ1NjAsIm5iZiI6MTczNDU3MzM2MCwicGF0aCI6Ii91Lzk3MTM5MDcifQ.TV-sldkAMZHNfffY9Qo2TBlh0UHhL0U0dweW0UjLIbE&s=72&u=caab643eb55ea344a0f739c9f01b14b551d5ae51&v=4" width="24" alt="Avatar of dawidd6"/> dawidd6
+				<img src="https://private-avatars.githubusercontent.com/u/9713907?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE0NjAsIm5iZiI6MTczNDYxMDI2MCwicGF0aCI6Ii91Lzk3MTM5MDcifQ.Hx9Dxsfkf3EyaZ1ZdHGJBg3Su0oTbrmJg86_wsWV1pY&s=72&u=caab643eb55ea344a0f739c9f01b14b551d5ae51&v=4" width="24" alt="Avatar of dawidd6"/> dawidd6
 			</a><br/>
 			Dawid Dziurla
 		</td>
@@ -4986,7 +4986,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>349</td>
 		<td>
 			<a target="_blank" href="https://github.com/Bartozo">
-				<img src="https://private-avatars.githubusercontent.com/u/10104462?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyODAsIm5iZiI6MTczNDU3NDA4MCwicGF0aCI6Ii91LzEwMTA0NDYyIn0._BEt9F2mmGJcO9avQRr70CPZ6QNRe5FivYCZbGwSUao&s=72&u=8a178509c9001f6e6c64c3bfe5bdf1a240e21c58&v=4" width="24" alt="Avatar of Bartozo"/> Bartozo
+				<img src="https://private-avatars.githubusercontent.com/u/10104462?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxODAsIm5iZiI6MTczNDYxMDk4MCwicGF0aCI6Ii91LzEwMTA0NDYyIn0.zlbNQdrpuCRGgmlrG7uaTMN4Kk1VF6Uauds5Frrwn3g&s=72&u=8a178509c9001f6e6c64c3bfe5bdf1a240e21c58&v=4" width="24" alt="Avatar of Bartozo"/> Bartozo
 			</a><br/>
 			Bartosz
 		</td>
@@ -5000,7 +5000,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>350</td>
 		<td>
 			<a target="_blank" href="https://github.com/dekoza">
-				<img src="https://private-avatars.githubusercontent.com/u/210980?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU0MDAsIm5iZiI6MTczNDU3NDIwMCwicGF0aCI6Ii91LzIxMDk4MCJ9.5aEQOkrvchiqvnaPzh4EDhXgK7zKd6fJdQyiBbnKRBY&s=72&u=c03c78a8ae1039b500dfe343665536ebc51979b2&v=4" width="24" alt="Avatar of dekoza"/> dekoza
+				<img src="https://private-avatars.githubusercontent.com/u/210980?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIzMDAsIm5iZiI6MTczNDYxMTEwMCwicGF0aCI6Ii91LzIxMDk4MCJ9.JMFlpIxTlq7P9lxF0aOh5xsUDR9nN5RrulX5MN1qhTI&s=72&u=c03c78a8ae1039b500dfe343665536ebc51979b2&v=4" width="24" alt="Avatar of dekoza"/> dekoza
 			</a><br/>
 			Dominik Kozaczko
 		</td>
@@ -5014,7 +5014,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>351</td>
 		<td>
 			<a target="_blank" href="https://github.com/Jackenmen">
-				<img src="https://private-avatars.githubusercontent.com/u/6032823?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUwNDAsIm5iZiI6MTczNDU3Mzg0MCwicGF0aCI6Ii91LzYwMzI4MjMifQ.pczQgYXSiMjGO71ryvWjuoNDwzlfDGZ5z3_P6pNMrXo&s=72&u=9e0a04b949bbfd9494d898664c1ab051d260fdbc&v=4" width="24" alt="Avatar of Jackenmen"/> Jackenmen
+				<img src="https://private-avatars.githubusercontent.com/u/6032823?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE5NDAsIm5iZiI6MTczNDYxMDc0MCwicGF0aCI6Ii91LzYwMzI4MjMifQ.prsXL5zUXDrOuV8GhyzWTARu2CEhKYBR9WvywfbQdCY&s=72&u=9e0a04b949bbfd9494d898664c1ab051d260fdbc&v=4" width="24" alt="Avatar of Jackenmen"/> Jackenmen
 			</a><br/>
 			Jakub Kuczys
 		</td>
@@ -5028,7 +5028,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>352</td>
 		<td>
 			<a target="_blank" href="https://github.com/feelfreelinux">
-				<img src="https://private-avatars.githubusercontent.com/u/11230853?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ3NDAsIm5iZiI6MTczNDU3MzU0MCwicGF0aCI6Ii91LzExMjMwODUzIn0.-Ybm_rI4w5kuiMbMaerrRBIUBVeESjcIXr8tQi_DZqg&s=72&u=40f51fa3fdb63baf33c1949c21f7f835b206fd13&v=4" width="24" alt="Avatar of feelfreelinux"/> feelfreelinux
+				<img src="https://private-avatars.githubusercontent.com/u/11230853?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE2NDAsIm5iZiI6MTczNDYxMDQ0MCwicGF0aCI6Ii91LzExMjMwODUzIn0.pvcZh1ySOJhthNdlMa3Ni0CYg1GGaRyeWmSMG9mBrIw&s=72&u=40f51fa3fdb63baf33c1949c21f7f835b206fd13&v=4" width="24" alt="Avatar of feelfreelinux"/> feelfreelinux
 			</a><br/>
 			Filip Grzywok
 		</td>
@@ -5042,7 +5042,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>353</td>
 		<td>
 			<a target="_blank" href="https://github.com/Dich0tomy">
-				<img src="https://private-avatars.githubusercontent.com/u/75364377?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU2NDAsIm5iZiI6MTczNDU3NDQ0MCwicGF0aCI6Ii91Lzc1MzY0Mzc3In0.bThtMazBnucrhIfyK1KaFLhHtWl8X9zv7zlQ2XkMxNA&s=72&u=03e552c08ecabfc6a1b2b8227c8413654a5a12f4&v=4" width="24" alt="Avatar of Dich0tomy"/> Dich0tomy
+				<img src="https://private-avatars.githubusercontent.com/u/75364377?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTI1NDAsIm5iZiI6MTczNDYxMTM0MCwicGF0aCI6Ii91Lzc1MzY0Mzc3In0.dD6WWsHDXcM3UTNT3k1qVcQS3b2_Bw6WsN2StbznU9A&s=72&u=03e552c08ecabfc6a1b2b8227c8413654a5a12f4&v=4" width="24" alt="Avatar of Dich0tomy"/> Dich0tomy
 			</a><br/>
 			No Name
 		</td>
@@ -5056,7 +5056,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>354</td>
 		<td>
 			<a target="_blank" href="https://github.com/Scooletz">
-				<img src="https://private-avatars.githubusercontent.com/u/519707?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5ODAsIm5iZiI6MTczNDU3Mzc4MCwicGF0aCI6Ii91LzUxOTcwNyJ9.gSCPc2Aev9Gsz8g2XbiXNY467F9jpkb5TdQj3nO270M&s=72&u=2b70e642fdaf9f5110c04697275a7b860b83ad5d&v=4" width="24" alt="Avatar of Scooletz"/> Scooletz
+				<img src="https://private-avatars.githubusercontent.com/u/519707?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4ODAsIm5iZiI6MTczNDYxMDY4MCwicGF0aCI6Ii91LzUxOTcwNyJ9.dRhK9Ei9BEOvQSU-dKJH3jwDfx2vUVEJ2b9a1m0nOCY&s=72&u=2b70e642fdaf9f5110c04697275a7b860b83ad5d&v=4" width="24" alt="Avatar of Scooletz"/> Scooletz
 			</a><br/>
 			Szymon Kulec
 		</td>
@@ -5069,8 +5069,22 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 	<tr>
 		<td>355</td>
 		<td>
+			<a target="_blank" href="https://github.com/ficool2">
+				<img src="https://private-avatars.githubusercontent.com/u/34815548?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxMjAsIm5iZiI6MTczNDYxMDkyMCwicGF0aCI6Ii91LzM0ODE1NTQ4In0.7dFTKBIoyte_kM44MyzzlsucLVrEFmD9_0xER9fHcWE&s=72&u=b60100a9d70889e1aefefcac2536325b3a530355&v=4" width="24" alt="Avatar of ficool2"/> ficool2
+			</a><br/>
+			Jakub
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Poland</td>
+		<td>88</td>
+		<td>591</td>
+	</tr>
+	<tr>
+		<td>356</td>
+		<td>
 			<a target="_blank" href="https://github.com/zefhemel">
-				<img src="https://private-avatars.githubusercontent.com/u/59073?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2ODAsIm5iZiI6MTczNDU3MzQ4MCwicGF0aCI6Ii91LzU5MDczIn0.q-nU7pq-IJLZNMSDFPg1YxEGkMY6stt_f4S-uQnSxf8&s=72&u=c237cc0572008a5b730d5cdd0e07eecc315bc223&v=4" width="24" alt="Avatar of zefhemel"/> zefhemel
+				<img src="https://private-avatars.githubusercontent.com/u/59073?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1ODAsIm5iZiI6MTczNDYxMDM4MCwicGF0aCI6Ii91LzU5MDczIn0.REjxyB-sGrrQhf4P_k2xeaFDgUH0UnI8nW_9fZsDZMc&s=72&u=c237cc0572008a5b730d5cdd0e07eecc315bc223&v=4" width="24" alt="Avatar of zefhemel"/> zefhemel
 			</a><br/>
 			Zef Hemel
 		</td>
@@ -5081,24 +5095,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>589</td>
 	</tr>
 	<tr>
-		<td>356</td>
-		<td>
-			<a target="_blank" href="https://github.com/ficool2">
-				<img src="https://private-avatars.githubusercontent.com/u/34815548?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyMjAsIm5iZiI6MTczNDU3NDAyMCwicGF0aCI6Ii91LzM0ODE1NTQ4In0.bFXL5G4VwgFBIHerNf_eJIqYfvj1FHM8Da1XyP0adeo&s=72&u=b60100a9d70889e1aefefcac2536325b3a530355&v=4" width="24" alt="Avatar of ficool2"/> ficool2
-			</a><br/>
-			Jakub
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Poland</td>
-		<td>88</td>
-		<td>589</td>
-	</tr>
-	<tr>
 		<td>357</td>
 		<td>
 			<a target="_blank" href="https://github.com/mwydmuch">
-				<img src="https://private-avatars.githubusercontent.com/u/8513199?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91Lzg1MTMxOTkifQ.z34aGbOKQHvCsk-aoMu91V4yjiLKJ4EdqlLYdWuVqRU&s=72&u=224ee05fa0f463020ea471be544459c091723954&v=4" width="24" alt="Avatar of mwydmuch"/> mwydmuch
+				<img src="https://private-avatars.githubusercontent.com/u/8513199?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91Lzg1MTMxOTkifQ.hc-haKfxLm-BD-0Zofmaz0anaiPSiI-QbS69wDiLp_w&s=72&u=224ee05fa0f463020ea471be544459c091723954&v=4" width="24" alt="Avatar of mwydmuch"/> mwydmuch
 			</a><br/>
 			Marek Wydmuch
 		</td>
@@ -5112,7 +5112,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>358</td>
 		<td>
 			<a target="_blank" href="https://github.com/ghostbuster91">
-				<img src="https://private-avatars.githubusercontent.com/u/5662622?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxNjAsIm5iZiI6MTczNDU3Mzk2MCwicGF0aCI6Ii91LzU2NjI2MjIifQ.fKXh4fIv0VwR1nKVtK7nqUc4mycfxGmJ5yOr6cVNLS0&s=72&u=e1f52bd93ac54b3f2cbe71b44277e5107457b809&v=4" width="24" alt="Avatar of ghostbuster91"/> ghostbuster91
+				<img src="https://private-avatars.githubusercontent.com/u/5662622?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwNjAsIm5iZiI6MTczNDYxMDg2MCwicGF0aCI6Ii91LzU2NjI2MjIifQ.OKnUMQBokVrGC21OiqewHZ37_4qadZHiWl1oRiIHk8A&s=72&u=e1f52bd93ac54b3f2cbe71b44277e5107457b809&v=4" width="24" alt="Avatar of ghostbuster91"/> ghostbuster91
 			</a><br/>
 			Kasper Kondzielski
 		</td>
@@ -5125,8 +5125,22 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 	<tr>
 		<td>359</td>
 		<td>
+			<a target="_blank" href="https://github.com/xxczaki">
+				<img src="https://private-avatars.githubusercontent.com/u/22645979?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE0NjAsIm5iZiI6MTczNDYxMDI2MCwicGF0aCI6Ii91LzIyNjQ1OTc5In0.VwN5fQpSPYOtgi0W3_4X8BYKXNp-cy4TT5TIeE__3sE&s=72&u=7f19a8cab252999a9743ead3f8ee5fb2a9b4aa25&v=4" width="24" alt="Avatar of xxczaki"/> xxczaki
+			</a><br/>
+			Antoni Kpiski
+		</td>
+		<td>@omnicalculator @parsifydev </td>
+		<td><a target="_blank" href="https://twitter.com/xxczaki">xxczaki</a></td>
+		<td>Warsaw Poland</td>
+		<td>197</td>
+		<td>584</td>
+	</tr>
+	<tr>
+		<td>360</td>
+		<td>
 			<a target="_blank" href="https://github.com/Zales0123">
-				<img src="https://private-avatars.githubusercontent.com/u/6212718?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU1MjAsIm5iZiI6MTczNDU3NDMyMCwicGF0aCI6Ii91LzYyMTI3MTgifQ.LzNdwEItqY00ENBxMc8E9pN317-xrPPJfhTQw6ziQMU&s=72&u=8dce05b218e13faa6ab2092dfe6e0b1cdcd66780&v=4" width="24" alt="Avatar of Zales0123"/> Zales0123
+				<img src="https://private-avatars.githubusercontent.com/u/6212718?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTI0MjAsIm5iZiI6MTczNDYxMTIyMCwicGF0aCI6Ii91LzYyMTI3MTgifQ.M6zVipMMFiW_kl5xKr23OUYiiAOsHyUA8gDTehT_lCA&s=72&u=8dce05b218e13faa6ab2092dfe6e0b1cdcd66780&v=4" width="24" alt="Avatar of Zales0123"/> Zales0123
 			</a><br/>
 			Mateusz Zalewski
 		</td>
@@ -5137,10 +5151,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>581</td>
 	</tr>
 	<tr>
-		<td>360</td>
+		<td>361</td>
 		<td>
 			<a target="_blank" href="https://github.com/weijie-chen">
-				<img src="https://private-avatars.githubusercontent.com/u/59842360?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5ODAsIm5iZiI6MTczNDU3Mzc4MCwicGF0aCI6Ii91LzU5ODQyMzYwIn0.eXjLNUdiXR70hAlmgvPaS9U7dtl5riO0lRp13CPYzLE&s=72&u=c2020ab895defe1dc5e3fce6eb21a5c885adc7cd&v=4" width="24" alt="Avatar of weijie-chen"/> weijie-chen
+				<img src="https://private-avatars.githubusercontent.com/u/59842360?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4ODAsIm5iZiI6MTczNDYxMDY4MCwicGF0aCI6Ii91LzU5ODQyMzYwIn0.p-Qmwv6WEsMnZ8VijnpyWHuzKKAlQR9SSbKHwgcVXTk&s=72&u=c2020ab895defe1dc5e3fce6eb21a5c885adc7cd&v=4" width="24" alt="Avatar of weijie-chen"/> weijie-chen
 			</a><br/>
 			Weijie Chen
 		</td>
@@ -5151,24 +5165,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>577</td>
 	</tr>
 	<tr>
-		<td>361</td>
-		<td>
-			<a target="_blank" href="https://github.com/xxczaki">
-				<img src="https://private-avatars.githubusercontent.com/u/22645979?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ1NjAsIm5iZiI6MTczNDU3MzM2MCwicGF0aCI6Ii91LzIyNjQ1OTc5In0.L9Iybcv2LzQ0lGbQCTSZPwZzTXd6WpehsucDhEtGbQs&s=72&u=7f19a8cab252999a9743ead3f8ee5fb2a9b4aa25&v=4" width="24" alt="Avatar of xxczaki"/> xxczaki
-			</a><br/>
-			Antoni Kpiski
-		</td>
-		<td>@omnicalculator @parsifydev </td>
-		<td><a target="_blank" href="https://twitter.com/xxczaki">xxczaki</a></td>
-		<td>Warsaw Poland</td>
-		<td>197</td>
-		<td>575</td>
-	</tr>
-	<tr>
 		<td>362</td>
 		<td>
 			<a target="_blank" href="https://github.com/webhdx">
-				<img src="https://private-avatars.githubusercontent.com/u/10212760?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91LzEwMjEyNzYwIn0.sQJn0wowyyQLNB2ec3tVLQQdVB0rTtxVVxA-dNFkNQc&s=72&u=dc517b8b350d13d0cbf2b4a7dad45a9c66f48a97&v=4" width="24" alt="Avatar of webhdx"/> webhdx
+				<img src="https://private-avatars.githubusercontent.com/u/10212760?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91LzEwMjEyNzYwIn0.KYBnfKSfftnNXwHn_G4mYGuptX-fh_YC8etMIo6jGCA&s=72&u=dc517b8b350d13d0cbf2b4a7dad45a9c66f48a97&v=4" width="24" alt="Avatar of webhdx"/> webhdx
 			</a><br/>
 			Maciej Kobus
 		</td>
@@ -5182,7 +5182,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>363</td>
 		<td>
 			<a target="_blank" href="https://github.com/chastell">
-				<img src="https://private-avatars.githubusercontent.com/u/56633?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ3NDAsIm5iZiI6MTczNDU3MzU0MCwicGF0aCI6Ii91LzU2NjMzIn0.FdaigG4O4kvibGeld2hIMVKonE2xkCqJ7eY7JTqJmj8&s=72&v=4" width="24" alt="Avatar of chastell"/> chastell
+				<img src="https://private-avatars.githubusercontent.com/u/56633?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE2NDAsIm5iZiI6MTczNDYxMDQ0MCwicGF0aCI6Ii91LzU2NjMzIn0.Re9oJioeqUHGtTe4SCXi8oo_Kxe16uMA_L3aZGX8yX8&s=72&v=4" width="24" alt="Avatar of chastell"/> chastell
 			</a><br/>
 			Piotr Szotkowski
 		</td>
@@ -5196,7 +5196,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>364</td>
 		<td>
 			<a target="_blank" href="https://github.com/damianszczepanik">
-				<img src="https://private-avatars.githubusercontent.com/u/9612911?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ3NDAsIm5iZiI6MTczNDU3MzU0MCwicGF0aCI6Ii91Lzk2MTI5MTEifQ.jmlK-wcX704U1pF8KxxyMwI9aeFp9OW4scV1OS8_s4A&s=72&v=4" width="24" alt="Avatar of damianszczepanik"/> damianszczepanik
+				<img src="https://private-avatars.githubusercontent.com/u/9612911?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE2NDAsIm5iZiI6MTczNDYxMDQ0MCwicGF0aCI6Ii91Lzk2MTI5MTEifQ.C7XVpFPKPWt9fAoXeLrls7dHdbBm2lpJyDI6JlJhVzU&s=72&v=4" width="24" alt="Avatar of damianszczepanik"/> damianszczepanik
 			</a><br/>
 			Damian Szczepanik
 		</td>
@@ -5210,7 +5210,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>365</td>
 		<td>
 			<a target="_blank" href="https://github.com/mmagnuski">
-				<img src="https://private-avatars.githubusercontent.com/u/8452354?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUzNDAsIm5iZiI6MTczNDU3NDE0MCwicGF0aCI6Ii91Lzg0NTIzNTQifQ.zE0eQCUx-Xp1W2xyEYRhNSCSMHUPzwUlgIFsQ4S6Lo0&s=72&u=13a89d3971182c20f81c504ca119334a8fc18b50&v=4" width="24" alt="Avatar of mmagnuski"/> mmagnuski
+				<img src="https://private-avatars.githubusercontent.com/u/8452354?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIyNDAsIm5iZiI6MTczNDYxMTA0MCwicGF0aCI6Ii91Lzg0NTIzNTQifQ.DGHop-NkNVXZRQWwzZK6otpBFZwDIaJb5s0jqLn46mg&s=72&u=13a89d3971182c20f81c504ca119334a8fc18b50&v=4" width="24" alt="Avatar of mmagnuski"/> mmagnuski
 			</a><br/>
 			Mikolaj Magnuski
 		</td>
@@ -5218,13 +5218,13 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Poland</td>
 		<td>373</td>
-		<td>566</td>
+		<td>567</td>
 	</tr>
 	<tr>
 		<td>366</td>
 		<td>
 			<a target="_blank" href="https://github.com/Kyiro">
-				<img src="https://private-avatars.githubusercontent.com/u/54126666?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91LzU0MTI2NjY2In0.d_LuGCMuauXPvNKq-KEyyMhvNGBArMiXnUrtXmSbFPk&s=72&u=f9c531c95d857b3176ad1fd2c7a9792953b216e8&v=4" width="24" alt="Avatar of Kyiro"/> Kyiro
+				<img src="https://private-avatars.githubusercontent.com/u/54126666?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91LzU0MTI2NjY2In0.KJHY9CHh6id3BoVh0jys7svOS3U2Y6rfaZztPWWzWbk&s=72&u=f9c531c95d857b3176ad1fd2c7a9792953b216e8&v=4" width="24" alt="Avatar of Kyiro"/> Kyiro
 			</a><br/>
 			No Name
 		</td>
@@ -5232,13 +5232,27 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/ky1ro">ky1ro</a></td>
 		<td>Poland</td>
 		<td>73</td>
-		<td>564</td>
+		<td>565</td>
 	</tr>
 	<tr>
 		<td>367</td>
 		<td>
+			<a target="_blank" href="https://github.com/arcusfelis">
+				<img src="https://private-avatars.githubusercontent.com/u/639796?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4ODAsIm5iZiI6MTczNDYxMDY4MCwicGF0aCI6Ii91LzYzOTc5NiJ9.S9QbSV3LLneOee51faqp_qIsh8zUx9CetsZztSAXqus&s=72&v=4" width="24" alt="Avatar of arcusfelis"/> arcusfelis
+			</a><br/>
+			Michael Uvarov
+		</td>
+		<td>Erlang Solutions </td>
+		<td>No Twitter Username</td>
+		<td>Krakow Poland</td>
+		<td>564</td>
+		<td>564</td>
+	</tr>
+	<tr>
+		<td>368</td>
+		<td>
 			<a target="_blank" href="https://github.com/dumbasPL">
-				<img src="https://private-avatars.githubusercontent.com/u/29180158?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4NjAsIm5iZiI6MTczNDU3MzY2MCwicGF0aCI6Ii91LzI5MTgwMTU4In0.1KHVIuAr775pxg1l601lUX1EDIsxi-cE7R5PO-OXtIg&s=72&u=ceb0087095f6802aa7bdf44e5675a5fcd20a637f&v=4" width="24" alt="Avatar of dumbasPL"/> dumbasPL
+				<img src="https://private-avatars.githubusercontent.com/u/29180158?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3NjAsIm5iZiI6MTczNDYxMDU2MCwicGF0aCI6Ii91LzI5MTgwMTU4In0.RDpQ9f_5ORp0Y1vTp2Z0Ft6mKN1JpU4Kw6pTMxcKOVE&s=72&u=ceb0087095f6802aa7bdf44e5675a5fcd20a637f&v=4" width="24" alt="Avatar of dumbasPL"/> dumbasPL
 			</a><br/>
 			nezu
 		</td>
@@ -5249,10 +5263,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>562</td>
 	</tr>
 	<tr>
-		<td>368</td>
+		<td>369</td>
 		<td>
 			<a target="_blank" href="https://github.com/fastred">
-				<img src="https://private-avatars.githubusercontent.com/u/197767?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5ODAsIm5iZiI6MTczNDU3Mzc4MCwicGF0aCI6Ii91LzE5Nzc2NyJ9.5yn6MnAXTFYJWtkQct1f2nK7GU3i3CezbYuF-JT5-l0&s=72&u=56f516dd56f7b41f3e44758b6d1b72b539877ca7&v=4" width="24" alt="Avatar of fastred"/> fastred
+				<img src="https://private-avatars.githubusercontent.com/u/197767?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4ODAsIm5iZiI6MTczNDYxMDY4MCwicGF0aCI6Ii91LzE5Nzc2NyJ9.QAoJEUcIWZuaBfTG5T69QfMolSXInxiE8JPBoW5GmoE&s=72&u=56f516dd56f7b41f3e44758b6d1b72b539877ca7&v=4" width="24" alt="Avatar of fastred"/> fastred
 			</a><br/>
 			Arek Holko
 		</td>
@@ -5263,24 +5277,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>560</td>
 	</tr>
 	<tr>
-		<td>369</td>
-		<td>
-			<a target="_blank" href="https://github.com/arcusfelis">
-				<img src="https://private-avatars.githubusercontent.com/u/639796?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5ODAsIm5iZiI6MTczNDU3Mzc4MCwicGF0aCI6Ii91LzYzOTc5NiJ9.PiJmSPIYtxAA76i_itiq_lBZgplEJockMQnGbFv2SXk&s=72&v=4" width="24" alt="Avatar of arcusfelis"/> arcusfelis
-			</a><br/>
-			Michael Uvarov
-		</td>
-		<td>Erlang Solutions </td>
-		<td>No Twitter Username</td>
-		<td>Krakow Poland</td>
-		<td>560</td>
-		<td>560</td>
-	</tr>
-	<tr>
 		<td>370</td>
 		<td>
 			<a target="_blank" href="https://github.com/EmilMalanczak">
-				<img src="https://private-avatars.githubusercontent.com/u/53233583?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxMDAsIm5iZiI6MTczNDU3MzkwMCwicGF0aCI6Ii91LzUzMjMzNTgzIn0.jorRGTcbslnO5MKt0yFBHvDwCO_VrOGGF6zETvk_AQ0&s=72&u=70be9450718af11e0630a59268fbc77bf67b549b&v=4" width="24" alt="Avatar of EmilMalanczak"/> EmilMalanczak
+				<img src="https://private-avatars.githubusercontent.com/u/53233583?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwMDAsIm5iZiI6MTczNDYxMDgwMCwicGF0aCI6Ii91LzUzMjMzNTgzIn0.IRkYeAFcMxcQE-ouCnmDC-TgbUoLyJQuae4PiMrqVpw&s=72&u=70be9450718af11e0630a59268fbc77bf67b549b&v=4" width="24" alt="Avatar of EmilMalanczak"/> EmilMalanczak
 			</a><br/>
 			Emil Maaczak
 		</td>
@@ -5294,7 +5294,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>371</td>
 		<td>
 			<a target="_blank" href="https://github.com/naugtur">
-				<img src="https://private-avatars.githubusercontent.com/u/509375?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQzODAsIm5iZiI6MTczNDU3MzE4MCwicGF0aCI6Ii91LzUwOTM3NSJ9.iO7WBdwuB_9hKzMBXg8PnK-7mVt905sAmm3FqMSQuaU&s=72&u=55f776984d12b256ee7bb30aa105fc726ecfcb50&v=4" width="24" alt="Avatar of naugtur"/> naugtur
+				<img src="https://private-avatars.githubusercontent.com/u/509375?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTEyODAsIm5iZiI6MTczNDYxMDA4MCwicGF0aCI6Ii91LzUwOTM3NSJ9.uksnwDI3rirxrFuuWei4qVQqR1ryWGEfwu61fu4NN4Y&s=72&u=55f776984d12b256ee7bb30aa105fc726ecfcb50&v=4" width="24" alt="Avatar of naugtur"/> naugtur
 			</a><br/>
 			Zbyszek Tenerowicz
 		</td>
@@ -5307,8 +5307,22 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 	<tr>
 		<td>372</td>
 		<td>
+			<a target="_blank" href="https://github.com/exelban">
+				<img src="https://private-avatars.githubusercontent.com/u/13332412?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTExNjAsIm5iZiI6MTczNDYwOTk2MCwicGF0aCI6Ii91LzEzMzMyNDEyIn0.k2tTnoInRfxPqTpTaaGEHjKRX3cH_vjFd-isiYKhd_Y&s=72&u=839d583ed658483af96a6fe40cd384d910522e1a&v=4" width="24" alt="Avatar of exelban"/> exelban
+			</a><br/>
+			Serhiy Mytrovtsiy
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Warsaw Poland</td>
+		<td>362</td>
+		<td>554</td>
+	</tr>
+	<tr>
+		<td>373</td>
+		<td>
 			<a target="_blank" href="https://github.com/hub33k">
-				<img src="https://private-avatars.githubusercontent.com/u/3370806?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUwNDAsIm5iZiI6MTczNDU3Mzg0MCwicGF0aCI6Ii91LzMzNzA4MDYifQ.Aq0uGlJrOsB5zneRAYQbANyTuZUGsfm9lPfrNsnjSmE&s=72&u=e4b65e6940c1da1760db8aaf18f1e2556f071d3f&v=4" width="24" alt="Avatar of hub33k"/> hub33k
+				<img src="https://private-avatars.githubusercontent.com/u/3370806?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE5NDAsIm5iZiI6MTczNDYxMDc0MCwicGF0aCI6Ii91LzMzNzA4MDYifQ.HpCKnk--BqiVHDXxHZEWolvauaszVi6Ua76DY5zFDI8&s=72&u=e4b65e6940c1da1760db8aaf18f1e2556f071d3f&v=4" width="24" alt="Avatar of hub33k"/> hub33k
 			</a><br/>
 			Hubert
 		</td>
@@ -5316,27 +5330,13 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Warsaw Poland</td>
 		<td>8</td>
-		<td>553</td>
-	</tr>
-	<tr>
-		<td>373</td>
-		<td>
-			<a target="_blank" href="https://github.com/exelban">
-				<img src="https://private-avatars.githubusercontent.com/u/13332412?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQyNjAsIm5iZiI6MTczNDU3MzA2MCwicGF0aCI6Ii91LzEzMzMyNDEyIn0.yRA9h3y-FEETNAxS_ap0sk3oXrRF6QSRGsoJKnYjg2E&s=72&u=839d583ed658483af96a6fe40cd384d910522e1a&v=4" width="24" alt="Avatar of exelban"/> exelban
-			</a><br/>
-			Serhiy Mytrovtsiy
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Warsaw Poland</td>
-		<td>360</td>
-		<td>552</td>
+		<td>554</td>
 	</tr>
 	<tr>
 		<td>374</td>
 		<td>
 			<a target="_blank" href="https://github.com/mzylowski">
-				<img src="https://private-avatars.githubusercontent.com/u/13780868?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU0MDAsIm5iZiI6MTczNDU3NDIwMCwicGF0aCI6Ii91LzEzNzgwODY4In0.iW_HfTL4208Nn5-gItRgepKatoeUQK8zVIxKZhdhxWY&s=72&u=2759168c9be37ffc42c539dcb48856504fadbeaf&v=4" width="24" alt="Avatar of mzylowski"/> mzylowski
+				<img src="https://private-avatars.githubusercontent.com/u/13780868?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIzMDAsIm5iZiI6MTczNDYxMTEwMCwicGF0aCI6Ii91LzEzNzgwODY4In0.X4Lbg9QsQnkcmR_P4-hj6HZHMKjvAYScfcQP-5DOz8s&s=72&u=2759168c9be37ffc42c539dcb48856504fadbeaf&v=4" width="24" alt="Avatar of mzylowski"/> mzylowski
 			</a><br/>
 			Micha yowski
 		</td>
@@ -5344,27 +5344,27 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Gdask Poland</td>
 		<td>10</td>
-		<td>548</td>
+		<td>552</td>
 	</tr>
 	<tr>
 		<td>375</td>
 		<td>
 			<a target="_blank" href="https://github.com/Eghizio">
-				<img src="https://private-avatars.githubusercontent.com/u/32049761?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU0MDAsIm5iZiI6MTczNDU3NDIwMCwicGF0aCI6Ii91LzMyMDQ5NzYxIn0.HpDTebhZej8O0gCU1z3TRvRDgdr60A816r-AvrVuEvE&s=72&u=bf361c3f1dd86a3efcab0383741a7166943d636d&v=4" width="24" alt="Avatar of Eghizio"/> Eghizio
+				<img src="https://private-avatars.githubusercontent.com/u/32049761?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIzMDAsIm5iZiI6MTczNDYxMTEwMCwicGF0aCI6Ii91LzMyMDQ5NzYxIn0.8R2du6yI1cIvO2AUqB4bPPZilfmLNKUp1EMH17euOQ4&s=72&u=bf361c3f1dd86a3efcab0383741a7166943d636d&v=4" width="24" alt="Avatar of Eghizio"/> Eghizio
 			</a><br/>
 			Jakub Wsik
 		</td>
 		<td>Schibsted </td>
 		<td><a target="_blank" href="https://twitter.com/eghizio">eghizio</a></td>
 		<td>Krakw Poland</td>
-		<td>529</td>
-		<td>547</td>
+		<td>533</td>
+		<td>551</td>
 	</tr>
 	<tr>
 		<td>376</td>
 		<td>
 			<a target="_blank" href="https://github.com/DCzajkowski">
-				<img src="https://private-avatars.githubusercontent.com/u/4501047?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5ODAsIm5iZiI6MTczNDU3Mzc4MCwicGF0aCI6Ii91LzQ1MDEwNDcifQ.X-1cRnJiZZ38eK1TfdgixE44c4ym1Z2v3DwwF9WBN-o&s=72&u=547577de2efe5ee60b4acb272e997cef1de30fea&v=4" width="24" alt="Avatar of DCzajkowski"/> DCzajkowski
+				<img src="https://private-avatars.githubusercontent.com/u/4501047?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4ODAsIm5iZiI6MTczNDYxMDY4MCwicGF0aCI6Ii91LzQ1MDEwNDcifQ.bQp05726G4uMaqnVqtczmcSwJQ58kNPhwbx80XsRJCU&s=72&u=547577de2efe5ee60b4acb272e997cef1de30fea&v=4" width="24" alt="Avatar of DCzajkowski"/> DCzajkowski
 			</a><br/>
 			Dariusz Czajkowski
 		</td>
@@ -5378,7 +5378,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>377</td>
 		<td>
 			<a target="_blank" href="https://github.com/Puliczek">
-				<img src="https://private-avatars.githubusercontent.com/u/12344862?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQzODAsIm5iZiI6MTczNDU3MzE4MCwicGF0aCI6Ii91LzEyMzQ0ODYyIn0.X0CK-AIb7qrOzzm4dHxfV33Xr8WXvg1ck0MUl1_B6bs&s=72&u=870342d77a525262e2e73a456abb09354527ead9&v=4" width="24" alt="Avatar of Puliczek"/> Puliczek
+				<img src="https://private-avatars.githubusercontent.com/u/12344862?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTEyODAsIm5iZiI6MTczNDYxMDA4MCwicGF0aCI6Ii91LzEyMzQ0ODYyIn0.KppiLQUwYGqU8uAJqjGLhPWFQeba5KsEjJJaWV3q1KE&s=72&u=870342d77a525262e2e73a456abb09354527ead9&v=4" width="24" alt="Avatar of Puliczek"/> Puliczek
 			</a><br/>
 			Maciej Pulikowski
 		</td>
@@ -5391,8 +5391,22 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 	<tr>
 		<td>378</td>
 		<td>
+			<a target="_blank" href="https://github.com/lukaszb">
+				<img src="https://private-avatars.githubusercontent.com/u/190381?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTI0MjAsIm5iZiI6MTczNDYxMTIyMCwicGF0aCI6Ii91LzE5MDM4MSJ9.kcu0HjbPVOLykqzLVuHFIenPGv8mQcAVToWnmsCh1X0&s=72&u=58303494d9633720b7357637eaf46a70f72b4c29&v=4" width="24" alt="Avatar of lukaszb"/> lukaszb
+			</a><br/>
+			Lukasz Balcerzak
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Warsaw</td>
+		<td>59</td>
+		<td>541</td>
+	</tr>
+	<tr>
+		<td>379</td>
+		<td>
 			<a target="_blank" href="https://github.com/xnerhu">
-				<img src="https://private-avatars.githubusercontent.com/u/12050791?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU1MjAsIm5iZiI6MTczNDU3NDMyMCwicGF0aCI6Ii91LzEyMDUwNzkxIn0.HO6qEjc2KIPBCed8iJlLQ8zUZBwLLkp1VFu3R0srIN4&s=72&u=de64cc3ab061cc9b8e1c22a1964fc6745cf3cfc7&v=4" width="24" alt="Avatar of xnerhu"/> xnerhu
+				<img src="https://private-avatars.githubusercontent.com/u/12050791?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTI0MjAsIm5iZiI6MTczNDYxMTIyMCwicGF0aCI6Ii91LzEyMDUwNzkxIn0.pmwhLOh3mvXNoETndTHVsuivrb4siU6Hts2vBG6FQcw&s=72&u=de64cc3ab061cc9b8e1c22a1964fc6745cf3cfc7&v=4" width="24" alt="Avatar of xnerhu"/> xnerhu
 			</a><br/>
 			Mikoaj Palkiewicz
 		</td>
@@ -5403,10 +5417,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>540</td>
 	</tr>
 	<tr>
-		<td>379</td>
+		<td>380</td>
 		<td>
 			<a target="_blank" href="https://github.com/itbeard">
-				<img src="https://private-avatars.githubusercontent.com/u/45439635?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2MjAsIm5iZiI6MTczNDU3MzQyMCwicGF0aCI6Ii91LzQ1NDM5NjM1In0.Hx9Y6O8lUD1i3MxoHnH9KB2bFjiRbDf8csQdgpswfrQ&s=72&u=5aba424a519e920bd3ba2efcc43b0f3360753a23&v=4" width="24" alt="Avatar of itbeard"/> itbeard
+				<img src="https://private-avatars.githubusercontent.com/u/45439635?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1MjAsIm5iZiI6MTczNDYxMDMyMCwicGF0aCI6Ii91LzQ1NDM5NjM1In0.zaN6mp1dvan7aE9_9EvRHYtAEMGmZ5QRu23-L10NwQI&s=72&u=5aba424a519e920bd3ba2efcc43b0f3360753a23&v=4" width="24" alt="Avatar of itbeard"/> itbeard
 			</a><br/>
 			Lex IT Beard Kartynnik
 		</td>
@@ -5417,24 +5431,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>538</td>
 	</tr>
 	<tr>
-		<td>380</td>
-		<td>
-			<a target="_blank" href="https://github.com/lukaszb">
-				<img src="https://private-avatars.githubusercontent.com/u/190381?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU1MjAsIm5iZiI6MTczNDU3NDMyMCwicGF0aCI6Ii91LzE5MDM4MSJ9.kjaMasMzoqa2CRh2JtyFMgnbhEMZCi5euOYNaxXOJR0&s=72&u=58303494d9633720b7357637eaf46a70f72b4c29&v=4" width="24" alt="Avatar of lukaszb"/> lukaszb
-			</a><br/>
-			Lukasz Balcerzak
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Warsaw</td>
-		<td>59</td>
-		<td>536</td>
-	</tr>
-	<tr>
 		<td>381</td>
 		<td>
 			<a target="_blank" href="https://github.com/karol-majewski">
-				<img src="https://private-avatars.githubusercontent.com/u/20233319?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUwNDAsIm5iZiI6MTczNDU3Mzg0MCwicGF0aCI6Ii91LzIwMjMzMzE5In0.0iC-rrKa8c6AfedcDoYnxioaNPgetd3WInLHTbi_Txw&s=72&u=7e298a94757460baaef7e9acfa1bc51468d6bb35&v=4" width="24" alt="Avatar of karol-majewski"/> karol-majewski
+				<img src="https://private-avatars.githubusercontent.com/u/20233319?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE5NDAsIm5iZiI6MTczNDYxMDc0MCwicGF0aCI6Ii91LzIwMjMzMzE5In0.BfK2TMXssIXf9ygLDyMkRAI_A-etMCPjy5vbh5LcNJc&s=72&u=7e298a94757460baaef7e9acfa1bc51468d6bb35&v=4" width="24" alt="Avatar of karol-majewski"/> karol-majewski
 			</a><br/>
 			Karol Majewski
 		</td>
@@ -5448,7 +5448,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>382</td>
 		<td>
 			<a target="_blank" href="https://github.com/maciejkorsan">
-				<img src="https://private-avatars.githubusercontent.com/u/655235?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2MjAsIm5iZiI6MTczNDU3MzQyMCwicGF0aCI6Ii91LzY1NTIzNSJ9.PI_3nYlEdfF6cqlDoy34Fbo21Xj_hbK6alr_FErUy5g&s=72&u=deba6d244425aacfafdaa94262f78a30a4a570ec&v=4" width="24" alt="Avatar of maciejkorsan"/> maciejkorsan
+				<img src="https://private-avatars.githubusercontent.com/u/655235?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1MjAsIm5iZiI6MTczNDYxMDMyMCwicGF0aCI6Ii91LzY1NTIzNSJ9.yhcpu-hDQGABo9DJqI2rdonfAUPKw1HM1ZeWsGrSh_Y&s=72&u=deba6d244425aacfafdaa94262f78a30a4a570ec&v=4" width="24" alt="Avatar of maciejkorsan"/> maciejkorsan
 			</a><br/>
 			Maciek Korsan
 		</td>
@@ -5462,7 +5462,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>383</td>
 		<td>
 			<a target="_blank" href="https://github.com/DominikN">
-				<img src="https://private-avatars.githubusercontent.com/u/7963800?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5MjAsIm5iZiI6MTczNDU3MzcyMCwicGF0aCI6Ii91Lzc5NjM4MDAifQ.QQnpjX-7PIWykuw_SG0Rp1bKsbhgNMQZ_OaEc74WiH4&s=72&u=4b96341ae3ebd2e39f59c7f8cedd644025e58299&v=4" width="24" alt="Avatar of DominikN"/> DominikN
+				<img src="https://private-avatars.githubusercontent.com/u/7963800?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4MjAsIm5iZiI6MTczNDYxMDYyMCwicGF0aCI6Ii91Lzc5NjM4MDAifQ.SMYHMXmqq_HK_gQUvnJaoWNkCeGYlN_2pip3zsdAzzA&s=72&u=4b96341ae3ebd2e39f59c7f8cedd644025e58299&v=4" width="24" alt="Avatar of DominikN"/> DominikN
 			</a><br/>
 			Dominik Nowak
 		</td>
@@ -5476,7 +5476,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>384</td>
 		<td>
 			<a target="_blank" href="https://github.com/hrw">
-				<img src="https://private-avatars.githubusercontent.com/u/185508?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91LzE4NTUwOCJ9.Gi7qMeGeV10YnEwRX5iHIF4xbXUcdLXxzEQ0Rus_4BA&s=72&u=9fd50c0dbfc83bdc18d0d036b627fde3e9924beb&v=4" width="24" alt="Avatar of hrw"/> hrw
+				<img src="https://private-avatars.githubusercontent.com/u/185508?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91LzE4NTUwOCJ9.UHeg1WUXVgC5VWNv7JHdtuxN0rTC0xLT7-zd3c01Yxc&s=72&u=9fd50c0dbfc83bdc18d0d036b627fde3e9924beb&v=4" width="24" alt="Avatar of hrw"/> hrw
 			</a><br/>
 			Marcin Juszkiewicz
 		</td>
@@ -5490,7 +5490,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>385</td>
 		<td>
 			<a target="_blank" href="https://github.com/michalchudziak">
-				<img src="https://private-avatars.githubusercontent.com/u/7837457?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyODAsIm5iZiI6MTczNDU3NDA4MCwicGF0aCI6Ii91Lzc4Mzc0NTcifQ.1dbPWE3efS7xw9CWFcJPB9Uv87OkHscc63_de8lx3H8&s=72&u=7b867431309ad44cba611492b5d65429c0225074&v=4" width="24" alt="Avatar of michalchudziak"/> michalchudziak
+				<img src="https://private-avatars.githubusercontent.com/u/7837457?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxODAsIm5iZiI6MTczNDYxMDk4MCwicGF0aCI6Ii91Lzc4Mzc0NTcifQ.ApDXNhfcrRx3NGKTPhFqgMmBGeXrqcdB5zqLQvaxVaQ&s=72&u=7b867431309ad44cba611492b5d65429c0225074&v=4" width="24" alt="Avatar of michalchudziak"/> michalchudziak
 			</a><br/>
 			Micha Chudziak
 		</td>
@@ -5504,7 +5504,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>386</td>
 		<td>
 			<a target="_blank" href="https://github.com/JuliuszB12">
-				<img src="https://private-avatars.githubusercontent.com/u/68758875?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2ODAsIm5iZiI6MTczNDU3MzQ4MCwicGF0aCI6Ii91LzY4NzU4ODc1In0.zKKqptk7OW-4ihg4Wb-gijD-SoOR2smnX923BI31qbY&s=72&u=a272ce0ab25afd7c3dbd664e2a37e9376659e78d&v=4" width="24" alt="Avatar of JuliuszB12"/> JuliuszB12
+				<img src="https://private-avatars.githubusercontent.com/u/68758875?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1ODAsIm5iZiI6MTczNDYxMDM4MCwicGF0aCI6Ii91LzY4NzU4ODc1In0.ifVyRxvgWXjHJ2d6iph9EEgemkt-ClzvlL41v1ZVVAc&s=72&u=a272ce0ab25afd7c3dbd664e2a37e9376659e78d&v=4" width="24" alt="Avatar of JuliuszB12"/> JuliuszB12
 			</a><br/>
 			JuliuszB12
 		</td>
@@ -5518,7 +5518,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>387</td>
 		<td>
 			<a target="_blank" href="https://github.com/3asyPe">
-				<img src="https://private-avatars.githubusercontent.com/u/57831546?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU0MDAsIm5iZiI6MTczNDU3NDIwMCwicGF0aCI6Ii91LzU3ODMxNTQ2In0.CQ_nmMxCT_wYJsoEATWNAxgf33y41w4oFYxMoq2mQHU&s=72&u=22c0c58cfba0bf49dbfc88de2c19df2572992a77&v=4" width="24" alt="Avatar of 3asyPe"/> 3asyPe
+				<img src="https://private-avatars.githubusercontent.com/u/57831546?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIzMDAsIm5iZiI6MTczNDYxMTEwMCwicGF0aCI6Ii91LzU3ODMxNTQ2In0.H7nO1sxWKa4DQJp1CiHfPZOY2HWEBAFHilZA_RQFWeo&s=72&u=22c0c58cfba0bf49dbfc88de2c19df2572992a77&v=4" width="24" alt="Avatar of 3asyPe"/> 3asyPe
 			</a><br/>
 			Alex
 		</td>
@@ -5532,7 +5532,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>388</td>
 		<td>
 			<a target="_blank" href="https://github.com/klonyyy">
-				<img src="https://private-avatars.githubusercontent.com/u/10755893?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91LzEwNzU1ODkzIn0.XIQmHcu_n-n5aoE237OWFcKWjUtE5LmSQvXPge-72EQ&s=72&u=cacbdc484dff41c2657fbcc4619efa32d7873724&v=4" width="24" alt="Avatar of klonyyy"/> klonyyy
+				<img src="https://private-avatars.githubusercontent.com/u/10755893?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91LzEwNzU1ODkzIn0.ZxStW3Hgs4mBphZ9hCdtp8PnYFj0Vcwe1secz_XAqBg&s=72&u=cacbdc484dff41c2657fbcc4619efa32d7873724&v=4" width="24" alt="Avatar of klonyyy"/> klonyyy
 			</a><br/>
 			Piotrek Wasilewski
 		</td>
@@ -5545,8 +5545,22 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 	<tr>
 		<td>389</td>
 		<td>
+			<a target="_blank" href="https://github.com/mciastek">
+				<img src="https://private-avatars.githubusercontent.com/u/3169629?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwMDAsIm5iZiI6MTczNDYxMDgwMCwicGF0aCI6Ii91LzMxNjk2MjkifQ.gyFGMmXTfXRhJZLhdMq-1ZioWNU5mAlSEg1D8e23Sgo&s=72&u=6c2d5ad64dbb0c0526fba976e3ada9d6391fe444&v=4" width="24" alt="Avatar of mciastek"/> mciastek
+			</a><br/>
+			Mirek Ciastek
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/mciastek">mciastek</a></td>
+		<td>Warsaw</td>
+		<td>1</td>
+		<td>511</td>
+	</tr>
+	<tr>
+		<td>390</td>
+		<td>
 			<a target="_blank" href="https://github.com/goodideagiver">
-				<img src="https://private-avatars.githubusercontent.com/u/55458485?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyMjAsIm5iZiI6MTczNDU3NDAyMCwicGF0aCI6Ii91LzU1NDU4NDg1In0.N0waALRLCJQp-P2RHK7fZ1anEvafOfec9OzeZMqnJ4Y&s=72&u=4c4e242b6632c4e1bf9b7c1e9d39168e7bf5d1e2&v=4" width="24" alt="Avatar of goodideagiver"/> goodideagiver
+				<img src="https://private-avatars.githubusercontent.com/u/55458485?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxMjAsIm5iZiI6MTczNDYxMDkyMCwicGF0aCI6Ii91LzU1NDU4NDg1In0.X7LRWkAwLr1NHK0pYiMJZj7M8oGe6AIy6uYV_w6qdWQ&s=72&u=4c4e242b6632c4e1bf9b7c1e9d39168e7bf5d1e2&v=4" width="24" alt="Avatar of goodideagiver"/> goodideagiver
 			</a><br/>
 			prplblck
 		</td>
@@ -5557,10 +5571,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>510</td>
 	</tr>
 	<tr>
-		<td>390</td>
+		<td>391</td>
 		<td>
 			<a target="_blank" href="https://github.com/DoomHammer">
-				<img src="https://private-avatars.githubusercontent.com/u/695373?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2MjAsIm5iZiI6MTczNDU3MzQyMCwicGF0aCI6Ii91LzY5NTM3MyJ9.B0HLoHijjWxvqE5ZMyg7HZmU-Y70jGWscXOd1YkL6vk&s=72&v=4" width="24" alt="Avatar of DoomHammer"/> DoomHammer
+				<img src="https://private-avatars.githubusercontent.com/u/695373?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1MjAsIm5iZiI6MTczNDYxMDMyMCwicGF0aCI6Ii91LzY5NTM3MyJ9.GI5L8fJMTNSPiGmIQWaW2AQm0VOlpEmRDbDg6792YRc&s=72&v=4" width="24" alt="Avatar of DoomHammer"/> DoomHammer
 			</a><br/>
 			Piotr Gaczkowski
 		</td>
@@ -5571,24 +5585,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>510</td>
 	</tr>
 	<tr>
-		<td>391</td>
-		<td>
-			<a target="_blank" href="https://github.com/mciastek">
-				<img src="https://private-avatars.githubusercontent.com/u/3169629?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxMDAsIm5iZiI6MTczNDU3MzkwMCwicGF0aCI6Ii91LzMxNjk2MjkifQ.7EJUgWZLjsFXGfZeCtKQuFD6vi2kNRu3M5sO43Tr3xw&s=72&u=6c2d5ad64dbb0c0526fba976e3ada9d6391fe444&v=4" width="24" alt="Avatar of mciastek"/> mciastek
-			</a><br/>
-			Mirek Ciastek
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/mciastek">mciastek</a></td>
-		<td>Warsaw</td>
-		<td>1</td>
-		<td>510</td>
-	</tr>
-	<tr>
 		<td>392</td>
 		<td>
 			<a target="_blank" href="https://github.com/michael-rubel">
-				<img src="https://private-avatars.githubusercontent.com/u/37669560?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUzNDAsIm5iZiI6MTczNDU3NDE0MCwicGF0aCI6Ii91LzM3NjY5NTYwIn0.y8usrZl7aSF-4iPMbUDJo-D7k4qDeIGY4IeslJ5gH-w&s=72&v=4" width="24" alt="Avatar of michael-rubel"/> michael-rubel
+				<img src="https://private-avatars.githubusercontent.com/u/37669560?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIyNDAsIm5iZiI6MTczNDYxMTA0MCwicGF0aCI6Ii91LzM3NjY5NTYwIn0.5s4wwK1s2mh4jDf_iXAQYH-VAMkWnQ2fyOmy0e528Jk&s=72&v=4" width="24" alt="Avatar of michael-rubel"/> michael-rubel
 			</a><br/>
 			Michael Rubl
 		</td>
@@ -5602,7 +5602,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>393</td>
 		<td>
 			<a target="_blank" href="https://github.com/nabijaczleweli">
-				<img src="https://private-avatars.githubusercontent.com/u/6709544?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2MjAsIm5iZiI6MTczNDU3MzQyMCwicGF0aCI6Ii91LzY3MDk1NDQifQ.bI3mn9VCJ90o8bl2agQDCbRauMgEEeyGkpvRSSwwCKo&s=72&u=d71325634cc3761400747849440ff8f8a84178b0&v=4" width="24" alt="Avatar of nabijaczleweli"/> nabijaczleweli
+				<img src="https://private-avatars.githubusercontent.com/u/6709544?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1MjAsIm5iZiI6MTczNDYxMDMyMCwicGF0aCI6Ii91LzY3MDk1NDQifQ.EududBRQkfARGklMhwdp3jbSfx9FlaUBpU8xSdRNX-U&s=72&u=d71325634cc3761400747849440ff8f8a84178b0&v=4" width="24" alt="Avatar of nabijaczleweli"/> nabijaczleweli
 			</a><br/>
 			
 		</td>
@@ -5616,7 +5616,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>394</td>
 		<td>
 			<a target="_blank" href="https://github.com/luk6xff">
-				<img src="https://private-avatars.githubusercontent.com/u/4447615?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxNjAsIm5iZiI6MTczNDU3Mzk2MCwicGF0aCI6Ii91LzQ0NDc2MTUifQ.wfw4lC98C7LMYPL5QPmhiCkdTqyreGxa1CAxW9SQjxo&s=72&u=2aae2e059d59b903574914a881c461d13a013a73&v=4" width="24" alt="Avatar of luk6xff"/> luk6xff
+				<img src="https://private-avatars.githubusercontent.com/u/4447615?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwNjAsIm5iZiI6MTczNDYxMDg2MCwicGF0aCI6Ii91LzQ0NDc2MTUifQ.oGNxNMtJyJ0lKhgWY55OGb0FYNd6Wa2tQvSBJUMoB-U&s=72&u=2aae2e059d59b903574914a881c461d13a013a73&v=4" width="24" alt="Avatar of luk6xff"/> luk6xff
 			</a><br/>
 			Lukasz Uszko
 		</td>
@@ -5630,21 +5630,21 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>395</td>
 		<td>
 			<a target="_blank" href="https://github.com/piotrwitek">
-				<img src="https://private-avatars.githubusercontent.com/u/739075?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ1NjAsIm5iZiI6MTczNDU3MzM2MCwicGF0aCI6Ii91LzczOTA3NSJ9.OlWxh59O69zZrCHz6Vhe4GDaHm8dHY2M0_SneQdR4UU&s=72&u=42c26a90fb7555efd5c4ab1d3b3f44fbed0cf456&v=4" width="24" alt="Avatar of piotrwitek"/> piotrwitek
+				<img src="https://private-avatars.githubusercontent.com/u/739075?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE0NjAsIm5iZiI6MTczNDYxMDI2MCwicGF0aCI6Ii91LzczOTA3NSJ9.tnZEKaj-8owJS4F8m_7q8EumH3RccH_8zrL14DItwTE&s=72&u=42c26a90fb7555efd5c4ab1d3b3f44fbed0cf456&v=4" width="24" alt="Avatar of piotrwitek"/> piotrwitek
 			</a><br/>
 			Piotr Witek
 		</td>
 		<td>Oazo Apps </td>
 		<td><a target="_blank" href="https://twitter.com/piotrekwitek">piotrekwitek</a></td>
 		<td>Remote from Poland</td>
-		<td>495</td>
 		<td>497</td>
+		<td>499</td>
 	</tr>
 	<tr>
 		<td>396</td>
 		<td>
 			<a target="_blank" href="https://github.com/manuel12">
-				<img src="https://private-avatars.githubusercontent.com/u/4129325?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ0NDAsIm5iZiI6MTczNDU3MzI0MCwicGF0aCI6Ii91LzQxMjkzMjUifQ.74n5myqh1L9qLMb53aBLTJny3pu9HqsFO1q5_O82Af0&s=72&u=28350562f5e3867597414eaca1e1b5a682c391a7&v=4" width="24" alt="Avatar of manuel12"/> manuel12
+				<img src="https://private-avatars.githubusercontent.com/u/4129325?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTEzNDAsIm5iZiI6MTczNDYxMDE0MCwicGF0aCI6Ii91LzQxMjkzMjUifQ.1qPpiLjzcL7trcA6hfDTksOXbs3VwALc9-qAlNbjlZw&s=72&u=28350562f5e3867597414eaca1e1b5a682c391a7&v=4" width="24" alt="Avatar of manuel12"/> manuel12
 			</a><br/>
 			Manuel
 		</td>
@@ -5657,8 +5657,22 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 	<tr>
 		<td>397</td>
 		<td>
+			<a target="_blank" href="https://github.com/jacklul">
+				<img src="https://private-avatars.githubusercontent.com/u/8418678?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3NjAsIm5iZiI6MTczNDYxMDU2MCwicGF0aCI6Ii91Lzg0MTg2NzgifQ.h2xnidSLtgQGMgeiTAeHfBzb3LCuH1Qi21t5TIU5qX8&s=72&u=e61507783522a1c0972d15914ff36d44aa182ecf&v=4" width="24" alt="Avatar of jacklul"/> jacklul
+			</a><br/>
+			Jacklul
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Katowice Poland</td>
+		<td>433</td>
+		<td>495</td>
+	</tr>
+	<tr>
+		<td>398</td>
+		<td>
 			<a target="_blank" href="https://github.com/MonsieurZbanowanYY">
-				<img src="https://private-avatars.githubusercontent.com/u/81767518?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxNjAsIm5iZiI6MTczNDU3Mzk2MCwicGF0aCI6Ii91LzgxNzY3NTE4In0.-eWPbt5XDVqUm6Y9j6-jqYGCmFREji5vX6ywuCXU1rY&s=72&u=dc805e710e6d02f9406a851bf4ac36da736a3428&v=4" width="24" alt="Avatar of MonsieurZbanowanYY"/> MonsieurZbanowanYY
+				<img src="https://private-avatars.githubusercontent.com/u/81767518?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwNjAsIm5iZiI6MTczNDYxMDg2MCwicGF0aCI6Ii91LzgxNzY3NTE4In0.HyoCxyXCmJ1tlrjhdxcs2rnfMT_NzlWAzx2sbkWKZzs&s=72&u=dc805e710e6d02f9406a851bf4ac36da736a3428&v=4" width="24" alt="Avatar of MonsieurZbanowanYY"/> MonsieurZbanowanYY
 			</a><br/>
 			Martin Gogoowicz
 		</td>
@@ -5669,24 +5683,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>494</td>
 	</tr>
 	<tr>
-		<td>398</td>
-		<td>
-			<a target="_blank" href="https://github.com/jacklul">
-				<img src="https://private-avatars.githubusercontent.com/u/8418678?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4NjAsIm5iZiI6MTczNDU3MzY2MCwicGF0aCI6Ii91Lzg0MTg2NzgifQ.JdUOq4EKaFVO0fTgALkFRBORMRD94jlRBcL5wjYoY2A&s=72&u=e61507783522a1c0972d15914ff36d44aa182ecf&v=4" width="24" alt="Avatar of jacklul"/> jacklul
-			</a><br/>
-			Jacklul
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Katowice Poland</td>
-		<td>432</td>
-		<td>494</td>
-	</tr>
-	<tr>
 		<td>399</td>
 		<td>
 			<a target="_blank" href="https://github.com/mkwiatkowski">
-				<img src="https://private-avatars.githubusercontent.com/u/51481?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxNjAsIm5iZiI6MTczNDU3Mzk2MCwicGF0aCI6Ii91LzUxNDgxIn0.uNENC1JyTtKlMKwsFvoLCR9_5fBJZ3J23Zy0vOvvOrg&s=72&v=4" width="24" alt="Avatar of mkwiatkowski"/> mkwiatkowski
+				<img src="https://private-avatars.githubusercontent.com/u/51481?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwNjAsIm5iZiI6MTczNDYxMDg2MCwicGF0aCI6Ii91LzUxNDgxIn0.Vsxu_XloGl7uOmA0MMTDl9hvMNnhas5cQCk2KsB0590&s=72&v=4" width="24" alt="Avatar of mkwiatkowski"/> mkwiatkowski
 			</a><br/>
 			Michal Kwiatkowski
 		</td>
@@ -5700,7 +5700,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>400</td>
 		<td>
 			<a target="_blank" href="https://github.com/MichalLytek">
-				<img src="https://private-avatars.githubusercontent.com/u/10618781?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ1MDAsIm5iZiI6MTczNDU3MzMwMCwicGF0aCI6Ii91LzEwNjE4NzgxIn0.tR4KwRc1EoM2IbRLPRLAcbmHQ-Bw9Bgp35ddIKqwqAE&s=72&u=2800e54d15ad79a12b24829f5d84ad6ff26cb655&v=4" width="24" alt="Avatar of MichalLytek"/> MichalLytek
+				<img src="https://private-avatars.githubusercontent.com/u/10618781?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE0MDAsIm5iZiI6MTczNDYxMDIwMCwicGF0aCI6Ii91LzEwNjE4NzgxIn0.uxRW9jXO6nbojlfhx76ZbselrjkbZZEYkAlY_MqrRqw&s=72&u=2800e54d15ad79a12b24829f5d84ad6ff26cb655&v=4" width="24" alt="Avatar of MichalLytek"/> MichalLytek
 			</a><br/>
 			Micha Lytek
 		</td>
@@ -5714,7 +5714,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>401</td>
 		<td>
 			<a target="_blank" href="https://github.com/panr">
-				<img src="https://private-avatars.githubusercontent.com/u/1303365?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQzMjAsIm5iZiI6MTczNDU3MzEyMCwicGF0aCI6Ii91LzEzMDMzNjUifQ.wAOnYejymatA8Ugb5B0My-r5CAaWNWDZL-b9L0MQ6LE&s=72&u=a7d962df508f736813b707540bb4f44c59cce120&v=4" width="24" alt="Avatar of panr"/> panr
+				<img src="https://private-avatars.githubusercontent.com/u/1303365?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTEyMjAsIm5iZiI6MTczNDYxMDAyMCwicGF0aCI6Ii91LzEzMDMzNjUifQ.Auiz5OgpFFrmN0fytgtHnD2yivhv4ihPJJfuUIW0RJI&s=72&u=a7d962df508f736813b707540bb4f44c59cce120&v=4" width="24" alt="Avatar of panr"/> panr
 			</a><br/>
 			Radek Kozie
 		</td>
@@ -5728,7 +5728,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>402</td>
 		<td>
 			<a target="_blank" href="https://github.com/mkubera">
-				<img src="https://private-avatars.githubusercontent.com/u/7399959?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU1ODAsIm5iZiI6MTczNDU3NDM4MCwicGF0aCI6Ii91LzczOTk5NTkifQ.yGI9pikAei9-qBcTO50gbe9emWiEFrq_gbM0zBTjV_0&s=72&u=3bdaf0a090022e26fb88845a60ddf1f54aae2f2b&v=4" width="24" alt="Avatar of mkubera"/> mkubera
+				<img src="https://private-avatars.githubusercontent.com/u/7399959?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTI0ODAsIm5iZiI6MTczNDYxMTI4MCwicGF0aCI6Ii91LzczOTk5NTkifQ.elSYu8O5gfNnGHGAqqFsu2lx8zdLaBA2SUSPNTHo-8A&s=72&u=3bdaf0a090022e26fb88845a60ddf1f54aae2f2b&v=4" width="24" alt="Avatar of mkubera"/> mkubera
 			</a><br/>
 			Mikolaj Kubera
 		</td>
@@ -5742,7 +5742,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>403</td>
 		<td>
 			<a target="_blank" href="https://github.com/komar007">
-				<img src="https://private-avatars.githubusercontent.com/u/108297?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyMjAsIm5iZiI6MTczNDU3NDAyMCwicGF0aCI6Ii91LzEwODI5NyJ9.xR9U9wrCJqh-Po1pJiDL0KvMW0uyYUgZOzyuUA-gGrQ&s=72&v=4" width="24" alt="Avatar of komar007"/> komar007
+				<img src="https://private-avatars.githubusercontent.com/u/108297?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxMjAsIm5iZiI6MTczNDYxMDkyMCwicGF0aCI6Ii91LzEwODI5NyJ9.vUVdIXUmwGNxschR2yOqS53PqtIuP7gN-K0HU3QxPfE&s=72&v=4" width="24" alt="Avatar of komar007"/> komar007
 			</a><br/>
 			Michal Trybus
 		</td>
@@ -5756,7 +5756,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>404</td>
 		<td>
 			<a target="_blank" href="https://github.com/sentialx">
-				<img src="https://private-avatars.githubusercontent.com/u/11065386?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ1MDAsIm5iZiI6MTczNDU3MzMwMCwicGF0aCI6Ii91LzExMDY1Mzg2In0.s4frEWEpDQ9-LFty74qNuc1aaSxfTEEAzRe3RsIu9pM&s=72&u=1ace82e20e3429937d8a891d3043bbf8497ebac1&v=4" width="24" alt="Avatar of sentialx"/> sentialx
+				<img src="https://private-avatars.githubusercontent.com/u/11065386?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE0MDAsIm5iZiI6MTczNDYxMDIwMCwicGF0aCI6Ii91LzExMDY1Mzg2In0.mESS0lp9oBVLS-r0KyRulYBKEhMSWnPvIykyioydKLs&s=72&u=1ace82e20e3429937d8a891d3043bbf8497ebac1&v=4" width="24" alt="Avatar of sentialx"/> sentialx
 			</a><br/>
 			Eryk Rakowski
 		</td>
@@ -5770,7 +5770,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>405</td>
 		<td>
 			<a target="_blank" href="https://github.com/munisisazade">
-				<img src="https://private-avatars.githubusercontent.com/u/16176593?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5ODAsIm5iZiI6MTczNDU3Mzc4MCwicGF0aCI6Ii91LzE2MTc2NTkzIn0.PreYqSYFEdfC1H-qgUsxTRkmUJwdo2XyCuQu0HA3N74&s=72&u=b0c7c16b13127d2bb76cdf30d7c822ae2d5dc870&v=4" width="24" alt="Avatar of munisisazade"/> munisisazade
+				<img src="https://private-avatars.githubusercontent.com/u/16176593?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4ODAsIm5iZiI6MTczNDYxMDY4MCwicGF0aCI6Ii91LzE2MTc2NTkzIn0.W91s3N_CBzKP8wPxR4Y4Z5ggicSpM1ffpAtPl1-Hn88&s=72&u=b0c7c16b13127d2bb76cdf30d7c822ae2d5dc870&v=4" width="24" alt="Avatar of munisisazade"/> munisisazade
 			</a><br/>
 			Munis Isazade
 		</td>
@@ -5784,7 +5784,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>406</td>
 		<td>
 			<a target="_blank" href="https://github.com/tomasz-lewicki">
-				<img src="https://private-avatars.githubusercontent.com/u/26127866?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUzNDAsIm5iZiI6MTczNDU3NDE0MCwicGF0aCI6Ii91LzI2MTI3ODY2In0.SnkDyeDeEcZUrKETlyipthB3uGHfqf8qn6J-XNhkNZ4&s=72&u=008167fe0c34f39f8bd4f8c1bb62a34e3e5e8f6b&v=4" width="24" alt="Avatar of tomasz-lewicki"/> tomasz-lewicki
+				<img src="https://private-avatars.githubusercontent.com/u/26127866?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIyNDAsIm5iZiI6MTczNDYxMTA0MCwicGF0aCI6Ii91LzI2MTI3ODY2In0.yghb_ORo5i08vNnsi3yFSS2XUwmE3Gzd55Q30G2MJ3w&s=72&u=008167fe0c34f39f8bd4f8c1bb62a34e3e5e8f6b&v=4" width="24" alt="Avatar of tomasz-lewicki"/> tomasz-lewicki
 			</a><br/>
 			Tomasz Lewicki
 		</td>
@@ -5798,7 +5798,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>407</td>
 		<td>
 			<a target="_blank" href="https://github.com/Scthe">
-				<img src="https://private-avatars.githubusercontent.com/u/9325337?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUwNDAsIm5iZiI6MTczNDU3Mzg0MCwicGF0aCI6Ii91LzkzMjUzMzcifQ.pkUXfiQP2Oue7K27wNNR0UrTkU7kjLxkDZ05fRMW5kI&s=72&u=4901e7eb3ed046a3d3844dff350f913ab568308b&v=4" width="24" alt="Avatar of Scthe"/> Scthe
+				<img src="https://private-avatars.githubusercontent.com/u/9325337?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE5NDAsIm5iZiI6MTczNDYxMDc0MCwicGF0aCI6Ii91LzkzMjUzMzcifQ.GNKfm4wy5TCypJD9KNa0UsGwZHvgec3flLWTFMtndaU&s=72&u=4901e7eb3ed046a3d3844dff350f913ab568308b&v=4" width="24" alt="Avatar of Scthe"/> Scthe
 			</a><br/>
 			Marcin Matuszczyk
 		</td>
@@ -5812,7 +5812,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>408</td>
 		<td>
 			<a target="_blank" href="https://github.com/mattpap">
-				<img src="https://private-avatars.githubusercontent.com/u/27475?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2ODAsIm5iZiI6MTczNDU3MzQ4MCwicGF0aCI6Ii91LzI3NDc1In0.A4F4JH6FfNhucIzq_Xl4_0l6ReXY80_A0MkVryzEo0U&s=72&v=4" width="24" alt="Avatar of mattpap"/> mattpap
+				<img src="https://private-avatars.githubusercontent.com/u/27475?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1ODAsIm5iZiI6MTczNDYxMDM4MCwicGF0aCI6Ii91LzI3NDc1In0.0xAHV-IqgOA7hZrt6G2bK8glFChOXUuj5YbKsSON6Ok&s=72&v=4" width="24" alt="Avatar of mattpap"/> mattpap
 			</a><br/>
 			Mateusz Paprocki
 		</td>
@@ -5826,7 +5826,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>409</td>
 		<td>
 			<a target="_blank" href="https://github.com/KonstantinKlepikov">
-				<img src="https://private-avatars.githubusercontent.com/u/20581667?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5MjAsIm5iZiI6MTczNDU3MzcyMCwicGF0aCI6Ii91LzIwNTgxNjY3In0.3-MZbLPgufiMo_igqo93jQLdE6U_qf9vUupF95nrS0s&s=72&u=a6fd1775f0823c1aec37b200af2d01b5bc5fc387&v=4" width="24" alt="Avatar of KonstantinKlepikov"/> KonstantinKlepikov
+				<img src="https://private-avatars.githubusercontent.com/u/20581667?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4MjAsIm5iZiI6MTczNDYxMDYyMCwicGF0aCI6Ii91LzIwNTgxNjY3In0.eQAEpCJcZMwewUfOq3i5wkZDyoJGS1IOozV23jZrCn0&s=72&u=a6fd1775f0823c1aec37b200af2d01b5bc5fc387&v=4" width="24" alt="Avatar of KonstantinKlepikov"/> KonstantinKlepikov
 			</a><br/>
 			Konstantin Kl
 		</td>
@@ -5840,7 +5840,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>410</td>
 		<td>
 			<a target="_blank" href="https://github.com/zaps166">
-				<img src="https://private-avatars.githubusercontent.com/u/6239090?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUwNDAsIm5iZiI6MTczNDU3Mzg0MCwicGF0aCI6Ii91LzYyMzkwOTAifQ.pjQzNlmUu2X_2OLAPa9GfUNRAqLZCA5BJ7qz7r9cmWw&s=72&u=6e4bd1e6b88b0cad1b1a394f676c0c2c403579e7&v=4" width="24" alt="Avatar of zaps166"/> zaps166
+				<img src="https://private-avatars.githubusercontent.com/u/6239090?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE5NDAsIm5iZiI6MTczNDYxMDc0MCwicGF0aCI6Ii91LzYyMzkwOTAifQ.ExipfggPa7PHpsD65njZkhowQ_s0XJlImKXf1onXD_E&s=72&u=6e4bd1e6b88b0cad1b1a394f676c0c2c403579e7&v=4" width="24" alt="Avatar of zaps166"/> zaps166
 			</a><br/>
 			Baej Szczygie
 		</td>
@@ -5854,7 +5854,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>411</td>
 		<td>
 			<a target="_blank" href="https://github.com/bogdal">
-				<img src="https://private-avatars.githubusercontent.com/u/1451824?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4NjAsIm5iZiI6MTczNDU3MzY2MCwicGF0aCI6Ii91LzE0NTE4MjQifQ.bzAeqbt48pBtjQgoYXZQsG08nQ955HWN0PR1OAMjfKs&s=72&u=d89309eeb4b83098be8cae4dcd5bb179452d043a&v=4" width="24" alt="Avatar of bogdal"/> bogdal
+				<img src="https://private-avatars.githubusercontent.com/u/1451824?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3NjAsIm5iZiI6MTczNDYxMDU2MCwicGF0aCI6Ii91LzE0NTE4MjQifQ.YLXlp1JVeU__07LJ_aSBGjNKzSiEtRJuh6S6QdTYnaE&s=72&u=d89309eeb4b83098be8cae4dcd5bb179452d043a&v=4" width="24" alt="Avatar of bogdal"/> bogdal
 			</a><br/>
 			Adam Bogda
 		</td>
@@ -5868,7 +5868,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>412</td>
 		<td>
 			<a target="_blank" href="https://github.com/kamilbaczek">
-				<img src="https://private-avatars.githubusercontent.com/u/74410956?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUwNDAsIm5iZiI6MTczNDU3Mzg0MCwicGF0aCI6Ii91Lzc0NDEwOTU2In0.tDE-kixt4d0wZcJO629rEE2xhJoi0VrJLAeajsvHZec&s=72&u=a7257ef7be1be4e318861a5e4f0c10eb02f17492&v=4" width="24" alt="Avatar of kamilbaczek"/> kamilbaczek
+				<img src="https://private-avatars.githubusercontent.com/u/74410956?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE5NDAsIm5iZiI6MTczNDYxMDc0MCwicGF0aCI6Ii91Lzc0NDEwOTU2In0.yMqlw1cqSTwrr49T4YVKQ4vchTO6L_MULd-ivF14Gnw&s=72&u=a7257ef7be1be4e318861a5e4f0c10eb02f17492&v=4" width="24" alt="Avatar of kamilbaczek"/> kamilbaczek
 			</a><br/>
 			Kamil Bczek
 		</td>
@@ -5882,21 +5882,21 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>413</td>
 		<td>
 			<a target="_blank" href="https://github.com/patrys">
-				<img src="https://private-avatars.githubusercontent.com/u/81205?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQzMjAsIm5iZiI6MTczNDU3MzEyMCwicGF0aCI6Ii91LzgxMjA1In0.JMgbcm65dO-nEefKBNd73UMDxUDbytLBrIPNNSabG5k&s=72&u=83aefd1ab1e4219ec7135f173ddf7b1335ef0301&v=4" width="24" alt="Avatar of patrys"/> patrys
+				<img src="https://private-avatars.githubusercontent.com/u/81205?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTEyMjAsIm5iZiI6MTczNDYxMDAyMCwicGF0aCI6Ii91LzgxMjA1In0.9XPvWBMO-qjzWYAyVf8brx_x5VIzMPGM_ANeFZJ5tVQ&s=72&u=83aefd1ab1e4219ec7135f173ddf7b1335ef0301&v=4" width="24" alt="Avatar of patrys"/> patrys
 			</a><br/>
 			Patryk Zawadzki
 		</td>
 		<td>Saleor Commerce </td>
 		<td><a target="_blank" href="https://twitter.com/patrys">patrys</a></td>
 		<td>Wrocaw Poland</td>
-		<td>274</td>
-		<td>469</td>
+		<td>275</td>
+		<td>470</td>
 	</tr>
 	<tr>
 		<td>414</td>
 		<td>
 			<a target="_blank" href="https://github.com/mikolajdobrucki">
-				<img src="https://private-avatars.githubusercontent.com/u/5467602?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU0MDAsIm5iZiI6MTczNDU3NDIwMCwicGF0aCI6Ii91LzU0Njc2MDIifQ.kg5btOt7YSR4BjGsqMXxbMTGO6Ii1sB_-t6yMCx29J4&s=72&u=a8a0f19e50875827688b111e9b24dd9bc6b9e08e&v=4" width="24" alt="Avatar of mikolajdobrucki"/> mikolajdobrucki
+				<img src="https://private-avatars.githubusercontent.com/u/5467602?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE0MDAsIm5iZiI6MTczNDYxMDIwMCwicGF0aCI6Ii91LzU0Njc2MDIifQ.h_KtslP8iPA8iTE9O_-fTxqTt7I4AlCSTNmbGluLFGI&s=72&u=a8a0f19e50875827688b111e9b24dd9bc6b9e08e&v=4" width="24" alt="Avatar of mikolajdobrucki"/> mikolajdobrucki
 			</a><br/>
 			Mikolaj Dobrucki
 		</td>
@@ -5910,7 +5910,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>415</td>
 		<td>
 			<a target="_blank" href="https://github.com/iceener">
-				<img src="https://private-avatars.githubusercontent.com/u/29215115?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2ODAsIm5iZiI6MTczNDU3MzQ4MCwicGF0aCI6Ii91LzI5MjE1MTE1In0.w49l2m7gkovzHgL9F4DYlHHdRf2MIgeAHcFige_MgiY&s=72&u=6f92b72054ec76ec309e66d3b2dc5743ed6a7dcd&v=4" width="24" alt="Avatar of iceener"/> iceener
+				<img src="https://private-avatars.githubusercontent.com/u/29215115?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1ODAsIm5iZiI6MTczNDYxMDM4MCwicGF0aCI6Ii91LzI5MjE1MTE1In0.wefSyUlExrYQwWTZCrb7wC0lPljWqIYpa-FnrIdTWGw&s=72&u=6f92b72054ec76ec309e66d3b2dc5743ed6a7dcd&v=4" width="24" alt="Avatar of iceener"/> iceener
 			</a><br/>
 			overment
 		</td>
@@ -5924,7 +5924,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>416</td>
 		<td>
 			<a target="_blank" href="https://github.com/szaaamerik">
-				<img src="https://private-avatars.githubusercontent.com/u/126014478?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ3NDAsIm5iZiI6MTczNDU3MzU0MCwicGF0aCI6Ii91LzEyNjAxNDQ3OCJ9.Dil-j9yjL9pAJyRwPKNd2bg8e-tg243HYCiE2YbDRjk&s=72&u=4e136e0deeb8ab98ff20e4bb2c29f9a36480bf18&v=4" width="24" alt="Avatar of szaaamerik"/> szaaamerik
+				<img src="https://private-avatars.githubusercontent.com/u/126014478?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE2NDAsIm5iZiI6MTczNDYxMDQ0MCwicGF0aCI6Ii91LzEyNjAxNDQ3OCJ9.h1h9KNI4XjCv35ysYk5Sk51JlUBGe4Uo0DA_veiLamk&s=72&u=4e136e0deeb8ab98ff20e4bb2c29f9a36480bf18&v=4" width="24" alt="Avatar of szaaamerik"/> szaaamerik
 			</a><br/>
 			merika
 		</td>
@@ -5937,8 +5937,22 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 	<tr>
 		<td>417</td>
 		<td>
+			<a target="_blank" href="https://github.com/tomusdrw">
+				<img src="https://private-avatars.githubusercontent.com/u/581548?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTEyODAsIm5iZiI6MTczNDYxMDA4MCwicGF0aCI6Ii91LzU4MTU0OCJ9.Wup3TqOqETDpSzjChngZgRyPvaqr_nb4H52RpmxGwZ4&s=72&v=4" width="24" alt="Avatar of tomusdrw"/> tomusdrw
+			</a><br/>
+			Tomek Drwiga
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/tomusdrw">tomusdrw</a></td>
+		<td>Poland</td>
+		<td>459</td>
+		<td>459</td>
+	</tr>
+	<tr>
+		<td>418</td>
+		<td>
 			<a target="_blank" href="https://github.com/macbury">
-				<img src="https://private-avatars.githubusercontent.com/u/110908?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4NjAsIm5iZiI6MTczNDU3MzY2MCwicGF0aCI6Ii91LzExMDkwOCJ9.UQgrwFN3eEyyrLHfPLO8nO2bHYu_24las0xp-goem1E&s=72&u=39b0f3e902e05f5bb1cf0c806799c51005d9deef&v=4" width="24" alt="Avatar of macbury"/> macbury
+				<img src="https://private-avatars.githubusercontent.com/u/110908?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3NjAsIm5iZiI6MTczNDYxMDU2MCwicGF0aCI6Ii91LzExMDkwOCJ9.pto7UYZuc837gNOp5nAZj_57G-kszCqNDbtEtYPsP5g&s=72&u=39b0f3e902e05f5bb1cf0c806799c51005d9deef&v=4" width="24" alt="Avatar of macbury"/> macbury
 			</a><br/>
 			No Name
 		</td>
@@ -5949,10 +5963,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>458</td>
 	</tr>
 	<tr>
-		<td>418</td>
+		<td>419</td>
 		<td>
 			<a target="_blank" href="https://github.com/kadyb">
-				<img src="https://private-avatars.githubusercontent.com/u/35004826?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91LzM1MDA0ODI2In0.WGBFqpmgPw5ovOQir7-9pxOMjt94lWkihEDv3-AhXW8&s=72&u=dcf17deb757e4972f25196a557f5f1be816080d9&v=4" width="24" alt="Avatar of kadyb"/> kadyb
+				<img src="https://private-avatars.githubusercontent.com/u/35004826?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91LzM1MDA0ODI2In0.3-fxpAL5LKN0abtXdXH29Z9K7KPrkDm1HUP1twDogNM&s=72&u=dcf17deb757e4972f25196a557f5f1be816080d9&v=4" width="24" alt="Avatar of kadyb"/> kadyb
 			</a><br/>
 			Krzysztof Dyba
 		</td>
@@ -5963,24 +5977,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>455</td>
 	</tr>
 	<tr>
-		<td>419</td>
-		<td>
-			<a target="_blank" href="https://github.com/tomusdrw">
-				<img src="https://private-avatars.githubusercontent.com/u/581548?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQzODAsIm5iZiI6MTczNDU3MzE4MCwicGF0aCI6Ii91LzU4MTU0OCJ9.jEbe0YJotsOGCTTJ1KRDVZYua4t9375OW2rbC9SkcFw&s=72&v=4" width="24" alt="Avatar of tomusdrw"/> tomusdrw
-			</a><br/>
-			Tomek Drwiga
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/tomusdrw">tomusdrw</a></td>
-		<td>Poland</td>
-		<td>452</td>
-		<td>452</td>
-	</tr>
-	<tr>
 		<td>420</td>
 		<td>
 			<a target="_blank" href="https://github.com/wolfgarbe">
-				<img src="https://private-avatars.githubusercontent.com/u/7057583?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxMDAsIm5iZiI6MTczNDU3MzkwMCwicGF0aCI6Ii91LzcwNTc1ODMifQ.l7aliKptMBvSL26Uxrb6eUC2p-PQrknqPVqdNnOa8eY&s=72&u=27ae406dbba45ebd0e9dfc608bdcfe5baa740134&v=4" width="24" alt="Avatar of wolfgarbe"/> wolfgarbe
+				<img src="https://private-avatars.githubusercontent.com/u/7057583?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwMDAsIm5iZiI6MTczNDYxMDgwMCwicGF0aCI6Ii91LzcwNTc1ODMifQ.3OKDbw4LPjS4HHhvJ3jB8XBNxjH2xjM6uPxtpHwgCWY&s=72&u=27ae406dbba45ebd0e9dfc608bdcfe5baa740134&v=4" width="24" alt="Avatar of wolfgarbe"/> wolfgarbe
 			</a><br/>
 			Wolf Garbe
 		</td>
@@ -5994,7 +5994,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>421</td>
 		<td>
 			<a target="_blank" href="https://github.com/wololock">
-				<img src="https://private-avatars.githubusercontent.com/u/1258405?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ3NDAsIm5iZiI6MTczNDU3MzU0MCwicGF0aCI6Ii91LzEyNTg0MDUifQ.cRN8PCPi-nfJ2M4IymoP9QrXfn-2snFcaqw7Bht4qIc&s=72&u=7c5449f99670b8511482cb26853facf72508ce71&v=4" width="24" alt="Avatar of wololock"/> wololock
+				<img src="https://private-avatars.githubusercontent.com/u/1258405?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE2NDAsIm5iZiI6MTczNDYxMDQ0MCwicGF0aCI6Ii91LzEyNTg0MDUifQ.fIQS0vHjNa5AgI8Fup87IemfgMrYDoJCCdIo_UyvEvU&s=72&u=7c5449f99670b8511482cb26853facf72508ce71&v=4" width="24" alt="Avatar of wololock"/> wololock
 			</a><br/>
 			Szymon Stepniak
 		</td>
@@ -6008,7 +6008,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>422</td>
 		<td>
 			<a target="_blank" href="https://github.com/pnowojski">
-				<img src="https://private-avatars.githubusercontent.com/u/8957547?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU1ODAsIm5iZiI6MTczNDU3NDM4MCwicGF0aCI6Ii91Lzg5NTc1NDcifQ.KS-orR5IPPXM57sgxKZIf4fJ9oA6cGa7OdzZqys9EWE&s=72&u=4560f775da9ebc5f3aa2e1563f57cdad03862ce8&v=4" width="24" alt="Avatar of pnowojski"/> pnowojski
+				<img src="https://private-avatars.githubusercontent.com/u/8957547?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTI0ODAsIm5iZiI6MTczNDYxMTI4MCwicGF0aCI6Ii91Lzg5NTc1NDcifQ.u0GfnlYLJ8GUd_Z5-c6eAHjwvHzksmjC8pdf2y8ef54&s=72&u=4560f775da9ebc5f3aa2e1563f57cdad03862ce8&v=4" width="24" alt="Avatar of pnowojski"/> pnowojski
 			</a><br/>
 			Piotr Nowojski
 		</td>
@@ -6016,13 +6016,13 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/PiotrNowojski">PiotrNowojski</a></td>
 		<td>Warsaw</td>
 		<td>142</td>
-		<td>443</td>
+		<td>444</td>
 	</tr>
 	<tr>
 		<td>423</td>
 		<td>
 			<a target="_blank" href="https://github.com/Psyhackological">
-				<img src="https://private-avatars.githubusercontent.com/u/47569716?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU1MjAsIm5iZiI6MTczNDU3NDMyMCwicGF0aCI6Ii91LzQ3NTY5NzE2In0.Y19x4BTDA6sg_Ok8JkxsE3eG3Lw8MycXziWxeS8w-CA&s=72&u=66dc5e86731eaf8c6bc78a1bff34420ed2e5402b&v=4" width="24" alt="Avatar of Psyhackological"/> Psyhackological
+				<img src="https://private-avatars.githubusercontent.com/u/47569716?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTI0MjAsIm5iZiI6MTczNDYxMTIyMCwicGF0aCI6Ii91LzQ3NTY5NzE2In0.fyajZG9RM_RbLy-C-Wk_T-G0N8S0mxe88XpEF_qCCcA&s=72&u=66dc5e86731eaf8c6bc78a1bff34420ed2e5402b&v=4" width="24" alt="Avatar of Psyhackological"/> Psyhackological
 			</a><br/>
 			Konrad Konieczny
 		</td>
@@ -6035,8 +6035,36 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 	<tr>
 		<td>424</td>
 		<td>
+			<a target="_blank" href="https://github.com/barthap">
+				<img src="https://private-avatars.githubusercontent.com/u/278340?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwNjAsIm5iZiI6MTczNDYxMDg2MCwicGF0aCI6Ii91LzI3ODM0MCJ9.q5buv8N_nDdYpLpsp8NhEfKLVGGv4IMcf6ybqA2sLpQ&s=72&u=d564930f12ebe4c332ee21df7215138a119a6c61&v=4" width="24" alt="Avatar of barthap"/> barthap
+			</a><br/>
+			Bartomiej Klocek
+		</td>
+		<td>Software Mansion </td>
+		<td><a target="_blank" href="https://twitter.com/barthap10">barthap10</a></td>
+		<td>Krakw Poland</td>
+		<td>439</td>
+		<td>439</td>
+	</tr>
+	<tr>
+		<td>425</td>
+		<td>
+			<a target="_blank" href="https://github.com/shentao">
+				<img src="https://private-avatars.githubusercontent.com/u/3737591?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4ODAsIm5iZiI6MTczNDYxMDY4MCwicGF0aCI6Ii91LzM3Mzc1OTEifQ.2yuDJfQ5PNavtKfDAFJ45gHAftYI2Cd2yCbEEwZxF6I&s=72&u=6ef86c71bbbb74efae3c6224390ce9a8cba82272&v=4" width="24" alt="Avatar of shentao"/> shentao
+			</a><br/>
+			Damian Dulisz
+		</td>
+		<td>@vuejs Coursedog </td>
+		<td><a target="_blank" href="https://twitter.com/damiandulisz">damiandulisz</a></td>
+		<td>Wrocaw</td>
+		<td>5</td>
+		<td>438</td>
+	</tr>
+	<tr>
+		<td>426</td>
+		<td>
 			<a target="_blank" href="https://github.com/annwoj">
-				<img src="https://private-avatars.githubusercontent.com/u/104991729?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyMjAsIm5iZiI6MTczNDU3NDAyMCwicGF0aCI6Ii91LzEwNDk5MTcyOSJ9.aGc33wAGTYrZwt_5dhumAFlhfUjDH-2_KWW_XEnCQGI&s=72&u=aa00b5796bcdcdde2aba65bd75dc35b85787f129&v=4" width="24" alt="Avatar of annwoj"/> annwoj
+				<img src="https://private-avatars.githubusercontent.com/u/104991729?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxMjAsIm5iZiI6MTczNDYxMDkyMCwicGF0aCI6Ii91LzEwNDk5MTcyOSJ9.n5yKt_aUoYRXhpj-1vIFqXi2256xyuCyGnjWRnOoZQQ&s=72&u=aa00b5796bcdcdde2aba65bd75dc35b85787f129&v=4" width="24" alt="Avatar of annwoj"/> annwoj
 			</a><br/>
 			Anna Wojdyo
 		</td>
@@ -6047,38 +6075,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>438</td>
 	</tr>
 	<tr>
-		<td>425</td>
-		<td>
-			<a target="_blank" href="https://github.com/shentao">
-				<img src="https://private-avatars.githubusercontent.com/u/3737591?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5ODAsIm5iZiI6MTczNDU3Mzc4MCwicGF0aCI6Ii91LzM3Mzc1OTEifQ.qafm0SV_NU2fi0q54cZSlkzfWCfqY_lZ6KZQLk_Y790&s=72&u=6ef86c71bbbb74efae3c6224390ce9a8cba82272&v=4" width="24" alt="Avatar of shentao"/> shentao
-			</a><br/>
-			Damian Dulisz
-		</td>
-		<td>@vuejs Coursedog </td>
-		<td><a target="_blank" href="https://twitter.com/damiandulisz">damiandulisz</a></td>
-		<td>Wrocaw</td>
-		<td>5</td>
-		<td>437</td>
-	</tr>
-	<tr>
-		<td>426</td>
-		<td>
-			<a target="_blank" href="https://github.com/barthap">
-				<img src="https://private-avatars.githubusercontent.com/u/278340?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxNjAsIm5iZiI6MTczNDU3Mzk2MCwicGF0aCI6Ii91LzI3ODM0MCJ9.z-VJAh72GGmqBffpWhVU8rFduCyoK36YXZormoZS9mA&s=72&u=d564930f12ebe4c332ee21df7215138a119a6c61&v=4" width="24" alt="Avatar of barthap"/> barthap
-			</a><br/>
-			Bartomiej Klocek
-		</td>
-		<td>Software Mansion </td>
-		<td><a target="_blank" href="https://twitter.com/barthap10">barthap10</a></td>
-		<td>Krakw Poland</td>
-		<td>437</td>
-		<td>437</td>
-	</tr>
-	<tr>
 		<td>427</td>
 		<td>
 			<a target="_blank" href="https://github.com/Azgaar">
-				<img src="https://private-avatars.githubusercontent.com/u/26469650?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQyMDAsIm5iZiI6MTczNDU3MzAwMCwicGF0aCI6Ii91LzI2NDY5NjUwIn0.rnvb2mDlgD6HWuuj6eMRx19pG9b2iep07IQEq0PRJkU&s=72&u=9691bf34ce66f151e9900586c14fec80a7de55cf&v=4" width="24" alt="Avatar of Azgaar"/> Azgaar
+				<img src="https://private-avatars.githubusercontent.com/u/26469650?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTExMDAsIm5iZiI6MTczNDYwOTkwMCwicGF0aCI6Ii91LzI2NDY5NjUwIn0.EaErUQp54UiDm28dBOCnz_uEfXe584BkTDeatIjuctc&s=72&u=9691bf34ce66f151e9900586c14fec80a7de55cf&v=4" width="24" alt="Avatar of Azgaar"/> Azgaar
 			</a><br/>
 			No Name
 		</td>
@@ -6092,7 +6092,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>428</td>
 		<td>
 			<a target="_blank" href="https://github.com/karolmajek">
-				<img src="https://private-avatars.githubusercontent.com/u/11379772?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5MjAsIm5iZiI6MTczNDU3MzcyMCwicGF0aCI6Ii91LzExMzc5NzcyIn0.76HPTS7Q1CCh1bUxnAFUCEXy_ZhUPasZpN0OH-WZlWE&s=72&u=0f065bc774e3884ec770669ec652940a009820f3&v=4" width="24" alt="Avatar of karolmajek"/> karolmajek
+				<img src="https://private-avatars.githubusercontent.com/u/11379772?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4MjAsIm5iZiI6MTczNDYxMDYyMCwicGF0aCI6Ii91LzExMzc5NzcyIn0.rqvZkmm8ohPIx3nDreIg5q1hNdZOwKLBnml86ZAbVe8&s=72&u=0f065bc774e3884ec770669ec652940a009820f3&v=4" width="24" alt="Avatar of karolmajek"/> karolmajek
 			</a><br/>
 			Karol Majek
 		</td>
@@ -6105,8 +6105,22 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 	<tr>
 		<td>429</td>
 		<td>
+			<a target="_blank" href="https://github.com/tomkowz">
+				<img src="https://private-avatars.githubusercontent.com/u/2303177?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1MjAsIm5iZiI6MTczNDYxMDMyMCwicGF0aCI6Ii91LzIzMDMxNzcifQ.33UlcbrDn0CneKSxyAODI8sBoTOsGNXzF73oJeRH7Iw&s=72&u=ae493fb139a691c883fd04b72011138c74bd7765&v=4" width="24" alt="Avatar of tomkowz"/> tomkowz
+			</a><br/>
+			Tomasz Szulc
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Szczecin Poland</td>
+		<td>0</td>
+		<td>432</td>
+	</tr>
+	<tr>
+		<td>430</td>
+		<td>
 			<a target="_blank" href="https://github.com/bieli">
-				<img src="https://private-avatars.githubusercontent.com/u/183053?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUzNDAsIm5iZiI6MTczNDU3NDE0MCwicGF0aCI6Ii91LzE4MzA1MyJ9.zHwfFf6_3YSWLEktG86mAS9XVMJHGYR2szNc8lYHmtA&s=72&u=707fd3a1ecb8d589b77fbe161e413bc39e265c58&v=4" width="24" alt="Avatar of bieli"/> bieli
+				<img src="https://private-avatars.githubusercontent.com/u/183053?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIyNDAsIm5iZiI6MTczNDYxMTA0MCwicGF0aCI6Ii91LzE4MzA1MyJ9.WWb6qMlJL-IKcQtFXVjiopM0vtoCbmKvS5i8KCIaxN0&s=72&u=707fd3a1ecb8d589b77fbe161e413bc39e265c58&v=4" width="24" alt="Avatar of bieli"/> bieli
 			</a><br/>
 			Marcin Bielak
 		</td>
@@ -6117,10 +6131,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>432</td>
 	</tr>
 	<tr>
-		<td>430</td>
+		<td>431</td>
 		<td>
 			<a target="_blank" href="https://github.com/Frizi">
-				<img src="https://private-avatars.githubusercontent.com/u/919491?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUwNDAsIm5iZiI6MTczNDU3Mzg0MCwicGF0aCI6Ii91LzkxOTQ5MSJ9.-jLZ-YdJK1f4wIcEfRLoW7co9xu0xWH6gLb1TorOZik&s=72&u=5862a3ab95b31937d3a92bef4a46bb771bfce5fd&v=4" width="24" alt="Avatar of Frizi"/> Frizi
+				<img src="https://private-avatars.githubusercontent.com/u/919491?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE5NDAsIm5iZiI6MTczNDYxMDc0MCwicGF0aCI6Ii91LzkxOTQ5MSJ9.I0Ckunxi17OPPgS_e3_zCchuAB1vBnxCyRa-nT6OFz8&s=72&u=5862a3ab95b31937d3a92bef4a46bb771bfce5fd&v=4" width="24" alt="Avatar of Frizi"/> Frizi
 			</a><br/>
 			Pawe Grabarz
 		</td>
@@ -6131,10 +6145,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>431</td>
 	</tr>
 	<tr>
-		<td>431</td>
+		<td>432</td>
 		<td>
 			<a target="_blank" href="https://github.com/juliancwirko">
-				<img src="https://private-avatars.githubusercontent.com/u/4427985?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5MjAsIm5iZiI6MTczNDU3MzcyMCwicGF0aCI6Ii91LzQ0Mjc5ODUifQ.e3F28SmuM2viZaNQ5BsRPx2l6xsSqYACCb6NPUntcZQ&s=72&u=ebbe701308d9267a5fe5dfb5b525afdf8fc5d54f&v=4" width="24" alt="Avatar of juliancwirko"/> juliancwirko
+				<img src="https://private-avatars.githubusercontent.com/u/4427985?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4MjAsIm5iZiI6MTczNDYxMDYyMCwicGF0aCI6Ii91LzQ0Mjc5ODUifQ.D6Lj61hAAA8eqgBo9bA5UBZzNWzWnAZ3RlglnYxnSyg&s=72&u=ebbe701308d9267a5fe5dfb5b525afdf8fc5d54f&v=4" width="24" alt="Avatar of juliancwirko"/> juliancwirko
 			</a><br/>
 			Julianio
 		</td>
@@ -6145,24 +6159,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>430</td>
 	</tr>
 	<tr>
-		<td>432</td>
-		<td>
-			<a target="_blank" href="https://github.com/tomkowz">
-				<img src="https://private-avatars.githubusercontent.com/u/2303177?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2MjAsIm5iZiI6MTczNDU3MzQyMCwicGF0aCI6Ii91LzIzMDMxNzcifQ.IdwetPBIGQG8lH20VoMwLot-LvdYCx_VN_K8NYHEpjc&s=72&u=ae493fb139a691c883fd04b72011138c74bd7765&v=4" width="24" alt="Avatar of tomkowz"/> tomkowz
-			</a><br/>
-			Tomasz Szulc
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Szczecin Poland</td>
-		<td>0</td>
-		<td>430</td>
-	</tr>
-	<tr>
 		<td>433</td>
 		<td>
 			<a target="_blank" href="https://github.com/bdrtsky">
-				<img src="https://private-avatars.githubusercontent.com/u/45076741?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU2NDAsIm5iZiI6MTczNDU3NDQ0MCwicGF0aCI6Ii91LzQ1MDc2NzQxIn0.m_z1bhJMNTvPqwwSEeX1TMbA1PPCZKaqwMqdD_Lvun4&s=72&u=3a58c8006fa6698af1d1ecfa7ed2410eb2f55101&v=4" width="24" alt="Avatar of bdrtsky"/> bdrtsky
+				<img src="https://private-avatars.githubusercontent.com/u/45076741?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTI1NDAsIm5iZiI6MTczNDYxMTM0MCwicGF0aCI6Ii91LzQ1MDc2NzQxIn0.BULSAB7VZZRbEJzcgS2V5QcSluPVqH3AguGX7VbE-G0&s=72&u=3a58c8006fa6698af1d1ecfa7ed2410eb2f55101&v=4" width="24" alt="Avatar of bdrtsky"/> bdrtsky
 			</a><br/>
 			Serhii Bedrytskyi
 		</td>
@@ -6176,7 +6176,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>434</td>
 		<td>
 			<a target="_blank" href="https://github.com/adamsitnik">
-				<img src="https://private-avatars.githubusercontent.com/u/6011991?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQzMjAsIm5iZiI6MTczNDU3MzEyMCwicGF0aCI6Ii91LzYwMTE5OTEifQ._100aEr0to5_GZKLobvKcPBo0aFhDEZ-OChhiEvEhG4&s=72&u=9d61ca586bf1dfbd7ba3f950c8c32085eecad4eb&v=4" width="24" alt="Avatar of adamsitnik"/> adamsitnik
+				<img src="https://private-avatars.githubusercontent.com/u/6011991?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTEyMjAsIm5iZiI6MTczNDYxMDAyMCwicGF0aCI6Ii91LzYwMTE5OTEifQ.MnCMLBso-UztUgdu4cfM1O9KVpQJWrz2bVKLBIX5uVA&s=72&u=9d61ca586bf1dfbd7ba3f950c8c32085eecad4eb&v=4" width="24" alt="Avatar of adamsitnik"/> adamsitnik
 			</a><br/>
 			Adam Sitnik
 		</td>
@@ -6190,7 +6190,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>435</td>
 		<td>
 			<a target="_blank" href="https://github.com/pbiecek">
-				<img src="https://private-avatars.githubusercontent.com/u/4624318?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2ODAsIm5iZiI6MTczNDU3MzQ4MCwicGF0aCI6Ii91LzQ2MjQzMTgifQ.DYXJG2Rp9cCDS0kAMb50g27p1w25TdZQEFCOQSNgrA8&s=72&u=4831d730d77db8101740a02222119d68ec9f0a53&v=4" width="24" alt="Avatar of pbiecek"/> pbiecek
+				<img src="https://private-avatars.githubusercontent.com/u/4624318?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1ODAsIm5iZiI6MTczNDYxMDM4MCwicGF0aCI6Ii91LzQ2MjQzMTgifQ.YTUSu3Xi6HnrM6gDm2yAM8jzs95gLsE5DZ7kkC0AT98&s=72&u=4831d730d77db8101740a02222119d68ec9f0a53&v=4" width="24" alt="Avatar of pbiecek"/> pbiecek
 			</a><br/>
 			Przemysaw Biecek
 		</td>
@@ -6204,7 +6204,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>436</td>
 		<td>
 			<a target="_blank" href="https://github.com/datejer">
-				<img src="https://private-avatars.githubusercontent.com/u/35652893?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU0NjAsIm5iZiI6MTczNDU3NDI2MCwicGF0aCI6Ii91LzM1NjUyODkzIn0.K2TzEO6LrYpqrIYD7MOvnEWELLx6_rfvT43Sfl-l8_g&s=72&u=a9a0d8683fc10d3698305fe5f4935466ea7bc872&v=4" width="24" alt="Avatar of datejer"/> datejer
+				<img src="https://private-avatars.githubusercontent.com/u/35652893?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIzNjAsIm5iZiI6MTczNDYxMTE2MCwicGF0aCI6Ii91LzM1NjUyODkzIn0.cv-3fteoggqLsuCMfKWFettsAFhXqXpssKBrBXbyk0g&s=72&u=a9a0d8683fc10d3698305fe5f4935466ea7bc872&v=4" width="24" alt="Avatar of datejer"/> datejer
 			</a><br/>
 			Artur Dudek
 		</td>
@@ -6212,13 +6212,27 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td><a target="_blank" href="https://twitter.com/arturdudek_">arturdudek_</a></td>
 		<td>Pozna Poland</td>
 		<td>61</td>
-		<td>420</td>
+		<td>421</td>
 	</tr>
 	<tr>
 		<td>437</td>
 		<td>
+			<a target="_blank" href="https://github.com/marcingrzejszczak">
+				<img src="https://private-avatars.githubusercontent.com/u/3297437?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE0NjAsIm5iZiI6MTczNDYxMDI2MCwicGF0aCI6Ii91LzMyOTc0MzcifQ.NgXbdnOWsy283jlCaIm45iyguAfoP1xsYSFxwV_Uf1o&s=72&v=4" width="24" alt="Avatar of marcingrzejszczak"/> marcingrzejszczak
+			</a><br/>
+			Marcin Grzejszczak
+		</td>
+		<td>Vmware </td>
+		<td><a target="_blank" href="https://twitter.com/mgrzejszczak">mgrzejszczak</a></td>
+		<td>Warsaw Poland</td>
+		<td>412</td>
+		<td>412</td>
+	</tr>
+	<tr>
+		<td>438</td>
+		<td>
 			<a target="_blank" href="https://github.com/jakub-gonet">
-				<img src="https://private-avatars.githubusercontent.com/u/12465392?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxMDAsIm5iZiI6MTczNDU3MzkwMCwicGF0aCI6Ii91LzEyNDY1MzkyIn0.kkUhxYoMlZb2xhsv1zgD_L3hYAl1cbKwxRZYSI_sRwg&s=72&u=2026b4dfdbd26679707bc2db125b098ce91aef8c&v=4" width="24" alt="Avatar of jakub-gonet"/> jakub-gonet
+				<img src="https://private-avatars.githubusercontent.com/u/12465392?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwMDAsIm5iZiI6MTczNDYxMDgwMCwicGF0aCI6Ii91LzEyNDY1MzkyIn0.qZWvUdWXc2Lmg0OV6XmNChrsx5pvXbyOtZ3cbfSjUUo&s=72&u=2026b4dfdbd26679707bc2db125b098ce91aef8c&v=4" width="24" alt="Avatar of jakub-gonet"/> jakub-gonet
 			</a><br/>
 			Jakub Gonet
 		</td>
@@ -6229,24 +6243,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>412</td>
 	</tr>
 	<tr>
-		<td>438</td>
-		<td>
-			<a target="_blank" href="https://github.com/marcingrzejszczak">
-				<img src="https://private-avatars.githubusercontent.com/u/3297437?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ1NjAsIm5iZiI6MTczNDU3MzM2MCwicGF0aCI6Ii91LzMyOTc0MzcifQ.BQAWKubV9oNowQUJ9kfXb-wfMHFgPoqKY6eCz6qww0Q&s=72&v=4" width="24" alt="Avatar of marcingrzejszczak"/> marcingrzejszczak
-			</a><br/>
-			Marcin Grzejszczak
-		</td>
-		<td>Vmware </td>
-		<td><a target="_blank" href="https://twitter.com/mgrzejszczak">mgrzejszczak</a></td>
-		<td>Warsaw Poland</td>
-		<td>410</td>
-		<td>410</td>
-	</tr>
-	<tr>
 		<td>439</td>
 		<td>
 			<a target="_blank" href="https://github.com/stasm">
-				<img src="https://private-avatars.githubusercontent.com/u/265818?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUwNDAsIm5iZiI6MTczNDU3Mzg0MCwicGF0aCI6Ii91LzI2NTgxOCJ9.Uny1qyCJFXWAzUdaXANwfwQ1eWMZ9zbKbpiKOtfnwP8&s=72&u=849bd30928082654f5c5127998662a83c2462732&v=4" width="24" alt="Avatar of stasm"/> stasm
+				<img src="https://private-avatars.githubusercontent.com/u/265818?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE5NDAsIm5iZiI6MTczNDYxMDc0MCwicGF0aCI6Ii91LzI2NTgxOCJ9.sdo_Rouo-Xzh3dV4DFd1pzDfpvmme83bVRlaDe7Xr-Y&s=72&u=849bd30928082654f5c5127998662a83c2462732&v=4" width="24" alt="Avatar of stasm"/> stasm
 			</a><br/>
 			Stanisaw Maolepszy
 		</td>
@@ -6260,7 +6260,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>440</td>
 		<td>
 			<a target="_blank" href="https://github.com/bzaczynski">
-				<img src="https://private-avatars.githubusercontent.com/u/2493451?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUzNDAsIm5iZiI6MTczNDU3NDE0MCwicGF0aCI6Ii91LzI0OTM0NTEifQ.0grAWQ84TiuAqfgBFVgnmRmGhj-sKV5yeCFfI_lR7EA&s=72&u=9d7c05908d34b0d0e13191abc8c2b7719189b4ec&v=4" width="24" alt="Avatar of bzaczynski"/> bzaczynski
+				<img src="https://private-avatars.githubusercontent.com/u/2493451?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIyNDAsIm5iZiI6MTczNDYxMTA0MCwicGF0aCI6Ii91LzI0OTM0NTEifQ.fodSb9OGT-ZcW63QgiBOFz83iJBXhQR6A2tvGFDRvck&s=72&u=9d7c05908d34b0d0e13191abc8c2b7719189b4ec&v=4" width="24" alt="Avatar of bzaczynski"/> bzaczynski
 			</a><br/>
 			Bartosz Zaczyski
 		</td>
@@ -6274,7 +6274,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>441</td>
 		<td>
 			<a target="_blank" href="https://github.com/zalun">
-				<img src="https://private-avatars.githubusercontent.com/u/97885?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUwNDAsIm5iZiI6MTczNDU3Mzg0MCwicGF0aCI6Ii91Lzk3ODg1In0.BOb7r3vz_1O-CAdb8uMGOZ2U21jAlPojiOEKfljuXG0&s=72&u=266e50bef5f5ee917b74001a60576ef6371f29ea&v=4" width="24" alt="Avatar of zalun"/> zalun
+				<img src="https://private-avatars.githubusercontent.com/u/97885?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE5NDAsIm5iZiI6MTczNDYxMDc0MCwicGF0aCI6Ii91Lzk3ODg1In0.b9fLyMSybMVEcsUEdHssho7mMeB0rR5iNbvRf7vHjWQ&s=72&u=266e50bef5f5ee917b74001a60576ef6371f29ea&v=4" width="24" alt="Avatar of zalun"/> zalun
 			</a><br/>
 			Piotr Zalewa
 		</td>
@@ -6288,7 +6288,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>442</td>
 		<td>
 			<a target="_blank" href="https://github.com/hauleth">
-				<img src="https://private-avatars.githubusercontent.com/u/291639?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91LzI5MTYzOSJ9.EWVpW8RpEY9KG5RivVTMLfvPrN-isWutOaAAD-VWLBc&s=72&u=f7e2114bbd4adf918ee846937e0f0521fdf26d25&v=4" width="24" alt="Avatar of hauleth"/> hauleth
+				<img src="https://private-avatars.githubusercontent.com/u/291639?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91LzI5MTYzOSJ9.GxNo_ZCSGcxVFp0Ym9SnKHcR0su-F_Gj3zTCixRq_U8&s=72&u=f7e2114bbd4adf918ee846937e0f0521fdf26d25&v=4" width="24" alt="Avatar of hauleth"/> hauleth
 			</a><br/>
 			ukasz Jan Niemier
 		</td>
@@ -6302,21 +6302,21 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>443</td>
 		<td>
 			<a target="_blank" href="https://github.com/smokku">
-				<img src="https://private-avatars.githubusercontent.com/u/147687?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUzNDAsIm5iZiI6MTczNDU3NDE0MCwicGF0aCI6Ii91LzE0NzY4NyJ9.LRfo9W9KfPboOdLKx7Tf32NIZaT7MaeJ2MnvEu5h8yY&s=72&u=4027d01073d19c1009fc092f0e11ee4b3c11183b&v=4" width="24" alt="Avatar of smokku"/> smokku
+				<img src="https://private-avatars.githubusercontent.com/u/147687?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIyNDAsIm5iZiI6MTczNDYxMTA0MCwicGF0aCI6Ii91LzE0NzY4NyJ9.B4OZ4LPnCyrwMLbkZ7on4SBvpqnYcJN-fRIJ858UvEI&s=72&u=4027d01073d19c1009fc092f0e11ee4b3c11183b&v=4" width="24" alt="Avatar of smokku"/> smokku
 			</a><br/>
 			Tomasz Sterna
 		</td>
 		<td>Xiaokacom </td>
 		<td><a target="_blank" href="https://twitter.com/X65pc">X65pc</a></td>
 		<td>Warsaw</td>
-		<td>402</td>
 		<td>403</td>
+		<td>404</td>
 	</tr>
 	<tr>
 		<td>444</td>
 		<td>
 			<a target="_blank" href="https://github.com/jaceklaskowski">
-				<img src="https://private-avatars.githubusercontent.com/u/62313?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5ODAsIm5iZiI6MTczNDU3Mzc4MCwicGF0aCI6Ii91LzYyMzEzIn0.DQcjRf6AvCV0p6bF1o3CNkSufvBYx2hhU9fkyiCbKk4&s=72&u=a4b1df9a19f5f6d702d8b85d4c4aa534ad448c50&v=4" width="24" alt="Avatar of jaceklaskowski"/> jaceklaskowski
+				<img src="https://private-avatars.githubusercontent.com/u/62313?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4ODAsIm5iZiI6MTczNDYxMDY4MCwicGF0aCI6Ii91LzYyMzEzIn0.JECw_EMC4ATRNM0hQA2qL7NHIZ4FGWrmY-Z7VPrxQqI&s=72&u=a4b1df9a19f5f6d702d8b85d4c4aa534ad448c50&v=4" width="24" alt="Avatar of jaceklaskowski"/> jaceklaskowski
 			</a><br/>
 			Jacek Laskowski
 		</td>
@@ -6330,7 +6330,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>445</td>
 		<td>
 			<a target="_blank" href="https://github.com/wiktorlazarski">
-				<img src="https://private-avatars.githubusercontent.com/u/27450453?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyODAsIm5iZiI6MTczNDU3NDA4MCwicGF0aCI6Ii91LzI3NDUwNDUzIn0.PZGMcQzNbvMZ6kZ_RHf_OPFwmkh2qMAUHMSoOCiW8DY&s=72&u=b96e72c8144bdfe79d7f0964cc2e715c1f73ce1f&v=4" width="24" alt="Avatar of wiktorlazarski"/> wiktorlazarski
+				<img src="https://private-avatars.githubusercontent.com/u/27450453?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxODAsIm5iZiI6MTczNDYxMDk4MCwicGF0aCI6Ii91LzI3NDUwNDUzIn0.QCb--CYz2SRHyjP-Af30HhzqaSW90xd-0vnIcV-kZAc&s=72&u=b96e72c8144bdfe79d7f0964cc2e715c1f73ce1f&v=4" width="24" alt="Avatar of wiktorlazarski"/> wiktorlazarski
 			</a><br/>
 			Wiktor azarski
 		</td>
@@ -6344,7 +6344,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>446</td>
 		<td>
 			<a target="_blank" href="https://github.com/igorgolovanov">
-				<img src="https://private-avatars.githubusercontent.com/u/363810?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUwNDAsIm5iZiI6MTczNDU3Mzg0MCwicGF0aCI6Ii91LzM2MzgxMCJ9.vDoqXXJ0k8WWuEg1ddaSbwMg-8eN-PQ-larz0_eH1L0&s=72&u=aa4415845b3bd94732743e9d4b191c0e54f0864b&v=4" width="24" alt="Avatar of igorgolovanov"/> igorgolovanov
+				<img src="https://private-avatars.githubusercontent.com/u/363810?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE5NDAsIm5iZiI6MTczNDYxMDc0MCwicGF0aCI6Ii91LzM2MzgxMCJ9.cVehCRNK6L6HQ5O76PM9h1CMftI3Vaxh5pesHo9fMIY&s=72&u=aa4415845b3bd94732743e9d4b191c0e54f0864b&v=4" width="24" alt="Avatar of igorgolovanov"/> igorgolovanov
 			</a><br/>
 			Igor Golovanov
 		</td>
@@ -6358,7 +6358,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>447</td>
 		<td>
 			<a target="_blank" href="https://github.com/AdamSiekierski">
-				<img src="https://private-avatars.githubusercontent.com/u/24841038?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUzNDAsIm5iZiI6MTczNDU3NDE0MCwicGF0aCI6Ii91LzI0ODQxMDM4In0.j-1uovOwZnW0W98b66xcP2LONdKHZNw872hDTJTi2H4&s=72&u=4cd89329e2f1aa179fc0569649d616d4688da44b&v=4" width="24" alt="Avatar of AdamSiekierski"/> AdamSiekierski
+				<img src="https://private-avatars.githubusercontent.com/u/24841038?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIyNDAsIm5iZiI6MTczNDYxMTA0MCwicGF0aCI6Ii91LzI0ODQxMDM4In0.cvZT7I8EunSs5-69tG-9VYIDeAi_uBozyUg3pH83Ax8&s=72&u=4cd89329e2f1aa179fc0569649d616d4688da44b&v=4" width="24" alt="Avatar of AdamSiekierski"/> AdamSiekierski
 			</a><br/>
 			Adam Siekierski
 		</td>
@@ -6372,7 +6372,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>448</td>
 		<td>
 			<a target="_blank" href="https://github.com/mobily">
-				<img src="https://private-avatars.githubusercontent.com/u/1467712?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2MjAsIm5iZiI6MTczNDU3MzQyMCwicGF0aCI6Ii91LzE0Njc3MTIifQ.Lv924J6Up8TJvdGHHpajpVDTXNqndwP_cd9O8Q0-uIE&s=72&u=474d4e7d8f0d88e3a140eca5e9264e5d84508296&v=4" width="24" alt="Avatar of mobily"/> mobily
+				<img src="https://private-avatars.githubusercontent.com/u/1467712?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1MjAsIm5iZiI6MTczNDYxMDMyMCwicGF0aCI6Ii91LzE0Njc3MTIifQ.wIuKiOVu0Oaqt7-F-996gahssRvMdiCJpPcaTI-_WrI&s=72&u=474d4e7d8f0d88e3a140eca5e9264e5d84508296&v=4" width="24" alt="Avatar of mobily"/> mobily
 			</a><br/>
 			Marcin Dziewulski
 		</td>
@@ -6386,7 +6386,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>449</td>
 		<td>
 			<a target="_blank" href="https://github.com/konradybcio">
-				<img src="https://private-avatars.githubusercontent.com/u/32096130?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ0NDAsIm5iZiI6MTczNDU3MzI0MCwicGF0aCI6Ii91LzMyMDk2MTMwIn0.-YTX_M2nDSEdJg2VaBVbEz4wUKK5YgiK8PVYMu8W270&s=72&u=75e99cf4deb4ba59a89e1987bf94f94e59966e6d&v=4" width="24" alt="Avatar of konradybcio"/> konradybcio
+				<img src="https://private-avatars.githubusercontent.com/u/32096130?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTEzNDAsIm5iZiI6MTczNDYxMDE0MCwicGF0aCI6Ii91LzMyMDk2MTMwIn0.5AQINEwper02_wiK5eP7qjnAAsyzMyFjiAbVytCwy5U&s=72&u=75e99cf4deb4ba59a89e1987bf94f94e59966e6d&v=4" width="24" alt="Avatar of konradybcio"/> konradybcio
 			</a><br/>
 			Konrad Dybcio
 		</td>
@@ -6400,7 +6400,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>450</td>
 		<td>
 			<a target="_blank" href="https://github.com/pomianowski">
-				<img src="https://private-avatars.githubusercontent.com/u/13592821?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5ODAsIm5iZiI6MTczNDU3Mzc4MCwicGF0aCI6Ii91LzEzNTkyODIxIn0.l2WITgz21NRjbfR2e_uZvogGvqLTf_BwRcuJlq-ndFw&s=72&u=08ca0aa00f652d6659195f45b5577df09b80acce&v=4" width="24" alt="Avatar of pomianowski"/> pomianowski
+				<img src="https://private-avatars.githubusercontent.com/u/13592821?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4ODAsIm5iZiI6MTczNDYxMDY4MCwicGF0aCI6Ii91LzEzNTkyODIxIn0.Pm1sslPW1fq5x5L3zoE9N7_vAK5-BDPlka2V8sn1xj0&s=72&u=08ca0aa00f652d6659195f45b5577df09b80acce&v=4" width="24" alt="Avatar of pomianowski"/> pomianowski
 			</a><br/>
 			pomian
 		</td>
@@ -6414,7 +6414,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>451</td>
 		<td>
 			<a target="_blank" href="https://github.com/juliuszlosinski">
-				<img src="https://private-avatars.githubusercontent.com/u/72278818?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2ODAsIm5iZiI6MTczNDU3MzQ4MCwicGF0aCI6Ii91LzcyMjc4ODE4In0.TeTYTrbiTXipOfxSdKzhZUvnYmvfJcXa67S6Eoi9ZYs&s=72&u=4e9e220bf615361d83f5a90ecaacafad5ac3e32e&v=4" width="24" alt="Avatar of juliuszlosinski"/> juliuszlosinski
+				<img src="https://private-avatars.githubusercontent.com/u/72278818?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1ODAsIm5iZiI6MTczNDYxMDM4MCwicGF0aCI6Ii91LzcyMjc4ODE4In0.YTSSk0FGhnT688n_3D3Ltqs2jb00fZo8R_QQhuA77-4&s=72&u=4e9e220bf615361d83f5a90ecaacafad5ac3e32e&v=4" width="24" alt="Avatar of juliuszlosinski"/> juliuszlosinski
 			</a><br/>
 			Juliusz osiski
 		</td>
@@ -6427,8 +6427,22 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 	<tr>
 		<td>452</td>
 		<td>
+			<a target="_blank" href="https://github.com/mlykotom">
+				<img src="https://private-avatars.githubusercontent.com/u/3973717?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIyNDAsIm5iZiI6MTczNDYxMTA0MCwicGF0aCI6Ii91LzM5NzM3MTcifQ.ir-oGFbJLAREtMvwr58wxCSbPIOBec1cIw6_Xwpb8hA&s=72&u=efea8c8211788a32614b43cb7c4ef3672c35581b&v=4" width="24" alt="Avatar of mlykotom"/> mlykotom
+			</a><br/>
+			Tom Mlynari
+		</td>
+		<td>@google  </td>
+		<td><a target="_blank" href="https://twitter.com/mlykotom">mlykotom</a></td>
+		<td>Warsaw</td>
+		<td>291</td>
+		<td>379</td>
+	</tr>
+	<tr>
+		<td>453</td>
+		<td>
 			<a target="_blank" href="https://github.com/alecpl">
-				<img src="https://private-avatars.githubusercontent.com/u/546788?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyODAsIm5iZiI6MTczNDU3NDA4MCwicGF0aCI6Ii91LzU0Njc4OCJ9.bpa_YS6pWoE8ANbyQfCka67gv2pombVUiGRBBstATH0&s=72&u=dc11ee904d06487ded30ae8e3f38295900bf9ab2&v=4" width="24" alt="Avatar of alecpl"/> alecpl
+				<img src="https://private-avatars.githubusercontent.com/u/546788?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxODAsIm5iZiI6MTczNDYxMDk4MCwicGF0aCI6Ii91LzU0Njc4OCJ9.zsl_yFZcqmW6UZX0D7G1Sbe7QZnJ3AyuMzfAxHsgeVw&s=72&u=dc11ee904d06487ded30ae8e3f38295900bf9ab2&v=4" width="24" alt="Avatar of alecpl"/> alecpl
 			</a><br/>
 			Aleksander Machniak
 		</td>
@@ -6439,10 +6453,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>376</td>
 	</tr>
 	<tr>
-		<td>453</td>
+		<td>454</td>
 		<td>
 			<a target="_blank" href="https://github.com/lenhattung">
-				<img src="https://private-avatars.githubusercontent.com/u/49211930?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5ODAsIm5iZiI6MTczNDU3Mzc4MCwicGF0aCI6Ii91LzQ5MjExOTMwIn0.VQVv6vLGEwIcZvMYxb2T2z9pk3wmkatidEvago1Z04s&s=72&u=50ab65dfaf821da9bb20f4e6f04b83fe290f61c9&v=4" width="24" alt="Avatar of lenhattung"/> lenhattung
+				<img src="https://private-avatars.githubusercontent.com/u/49211930?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4ODAsIm5iZiI6MTczNDYxMDY4MCwicGF0aCI6Ii91LzQ5MjExOTMwIn0.-yGMgG2bwvVz_Zfp5RdlI59sviEX_ognUoGXtBknsxo&s=72&u=50ab65dfaf821da9bb20f4e6f04b83fe290f61c9&v=4" width="24" alt="Avatar of lenhattung"/> lenhattung
 			</a><br/>
 			Le Nhat Tung
 		</td>
@@ -6453,24 +6467,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>375</td>
 	</tr>
 	<tr>
-		<td>454</td>
-		<td>
-			<a target="_blank" href="https://github.com/mlykotom">
-				<img src="https://private-avatars.githubusercontent.com/u/3973717?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUzNDAsIm5iZiI6MTczNDU3NDE0MCwicGF0aCI6Ii91LzM5NzM3MTcifQ.FNZH0kdYanur-LQ8UWkGU1JrPlfRFt4SMS9BOjusuLg&s=72&u=efea8c8211788a32614b43cb7c4ef3672c35581b&v=4" width="24" alt="Avatar of mlykotom"/> mlykotom
-			</a><br/>
-			Tom Mlynari
-		</td>
-		<td>@google  </td>
-		<td><a target="_blank" href="https://twitter.com/mlykotom">mlykotom</a></td>
-		<td>Warsaw</td>
-		<td>285</td>
-		<td>373</td>
-	</tr>
-	<tr>
 		<td>455</td>
 		<td>
 			<a target="_blank" href="https://github.com/4IceG">
-				<img src="https://private-avatars.githubusercontent.com/u/59826889?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ1NjAsIm5iZiI6MTczNDU3MzM2MCwicGF0aCI6Ii91LzU5ODI2ODg5In0.rBTP29PBYEUrckIVU2WnHGcENaDqbo7S4gcPn8p2iGA&s=72&u=3db312dd3e6b4a0fc60b12d2f75998008e843ba9&v=4" width="24" alt="Avatar of 4IceG"/> 4IceG
+				<img src="https://private-avatars.githubusercontent.com/u/59826889?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE0NjAsIm5iZiI6MTczNDYxMDI2MCwicGF0aCI6Ii91LzU5ODI2ODg5In0.G883MsiK_w1I6eoPCofw7upJXgt855dPRLnJNWgNC6Q&s=72&u=3db312dd3e6b4a0fc60b12d2f75998008e843ba9&v=4" width="24" alt="Avatar of 4IceG"/> 4IceG
 			</a><br/>
 			Rafa Wabik
 		</td>
@@ -6484,7 +6484,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>456</td>
 		<td>
 			<a target="_blank" href="https://github.com/Hankering1716">
-				<img src="https://private-avatars.githubusercontent.com/u/116718014?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyMjAsIm5iZiI6MTczNDU3NDAyMCwicGF0aCI6Ii91LzExNjcxODAxNCJ9.L0FWedyfA9V8vgi1il4B1_bOHTvQn0kfO7GsEm5Z2FE&s=72&v=4" width="24" alt="Avatar of Hankering1716"/> Hankering1716
+				<img src="https://private-avatars.githubusercontent.com/u/116718014?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxMjAsIm5iZiI6MTczNDYxMDkyMCwicGF0aCI6Ii91LzExNjcxODAxNCJ9.0Yc86UxynIodh6bjv0Wp4gAg0Kixn_u9dHG0lUeqfb4&s=72&v=4" width="24" alt="Avatar of Hankering1716"/> Hankering1716
 			</a><br/>
 			No Name
 		</td>
@@ -6498,7 +6498,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>457</td>
 		<td>
 			<a target="_blank" href="https://github.com/maks-rafalko">
-				<img src="https://private-avatars.githubusercontent.com/u/3725595?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91LzM3MjU1OTUifQ.bfGQGRbdpqbiBPj9IF6TUOkSxFvy4dwT5Q9-7BtQhQM&s=72&u=6a51065b7ccac83a60ba8c1f05621004e3d95078&v=4" width="24" alt="Avatar of maks-rafalko"/> maks-rafalko
+				<img src="https://private-avatars.githubusercontent.com/u/3725595?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91LzM3MjU1OTUifQ.RTGDLMY838Z9YgA8XoQqUHcvJTYY4hVpM1GfS2Z-4aY&s=72&u=6a51065b7ccac83a60ba8c1f05621004e3d95078&v=4" width="24" alt="Avatar of maks-rafalko"/> maks-rafalko
 			</a><br/>
 			Maks Rafalko
 		</td>
@@ -6511,8 +6511,22 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 	<tr>
 		<td>458</td>
 		<td>
+			<a target="_blank" href="https://github.com/ecler">
+				<img src="https://private-avatars.githubusercontent.com/u/2544319?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1MjAsIm5iZiI6MTczNDYxMDMyMCwicGF0aCI6Ii91LzI1NDQzMTkifQ.I53UvWReI2TZTdzocnLxFiAzkt1vBJ5QYm-EJAHH2O8&s=72&u=08f890dd39fede8b820779d6b7c3f842855e9e77&v=4" width="24" alt="Avatar of ecler"/> ecler
+			</a><br/>
+			Pawe Biaecki
+		</td>
+		<td>Astro Photons </td>
+		<td>No Twitter Username</td>
+		<td>Bogatynia Poland</td>
+		<td>0</td>
+		<td>367</td>
+	</tr>
+	<tr>
+		<td>459</td>
+		<td>
 			<a target="_blank" href="https://github.com/nafisfaysal">
-				<img src="https://private-avatars.githubusercontent.com/u/7595238?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2MjAsIm5iZiI6MTczNDU3MzQyMCwicGF0aCI6Ii91Lzc1OTUyMzgifQ.bBAs-GntrIUggVVXjoOH3mAx5T9i59Hp962a_KoqLLc&s=72&u=48ba2736f80dfdd6c69bd7238aafe5120b21f19b&v=4" width="24" alt="Avatar of nafisfaysal"/> nafisfaysal
+				<img src="https://private-avatars.githubusercontent.com/u/7595238?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1MjAsIm5iZiI6MTczNDYxMDMyMCwicGF0aCI6Ii91Lzc1OTUyMzgifQ.26IhRbaTduvPVnE6sHL7qT1ZDeCgaJWJrYLw8Y_Yct4&s=72&u=48ba2736f80dfdd6c69bd7238aafe5120b21f19b&v=4" width="24" alt="Avatar of nafisfaysal"/> nafisfaysal
 			</a><br/>
 			Nafis Faysal
 		</td>
@@ -6523,10 +6537,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>367</td>
 	</tr>
 	<tr>
-		<td>459</td>
+		<td>460</td>
 		<td>
 			<a target="_blank" href="https://github.com/kolinko">
-				<img src="https://private-avatars.githubusercontent.com/u/274250?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91LzI3NDI1MCJ9.R3SQWWZx0c_hULfFy95cWItIk-AHetbwu31QPtzLIAM&s=72&v=4" width="24" alt="Avatar of kolinko"/> kolinko
+				<img src="https://private-avatars.githubusercontent.com/u/274250?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91LzI3NDI1MCJ9.DIXZ3baGfBDxb0ONsVoc7uya-fT-ZaEsE43UnL0vsrU&s=72&v=4" width="24" alt="Avatar of kolinko"/> kolinko
 			</a><br/>
 			Tomasz Kolinko
 		</td>
@@ -6537,10 +6551,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>366</td>
 	</tr>
 	<tr>
-		<td>460</td>
+		<td>461</td>
 		<td>
 			<a target="_blank" href="https://github.com/aleqsio">
-				<img src="https://private-avatars.githubusercontent.com/u/5597580?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUwNDAsIm5iZiI6MTczNDU3Mzg0MCwicGF0aCI6Ii91LzU1OTc1ODAifQ.REnnw5r0DfCq7MeUYXvpwsMYC1aLBUUrgH-8pAW3RXc&s=72&u=c0a36533f83997655f4551dfa94ee448e8f402a8&v=4" width="24" alt="Avatar of aleqsio"/> aleqsio
+				<img src="https://private-avatars.githubusercontent.com/u/5597580?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE5NDAsIm5iZiI6MTczNDYxMDc0MCwicGF0aCI6Ii91LzU1OTc1ODAifQ.HzXDZoe1JMcYIqQaJ0pT7gaDbGlETpzt21Uz0eZmrgQ&s=72&u=c0a36533f83997655f4551dfa94ee448e8f402a8&v=4" width="24" alt="Avatar of aleqsio"/> aleqsio
 			</a><br/>
 			No Name
 		</td>
@@ -6551,10 +6565,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>366</td>
 	</tr>
 	<tr>
-		<td>461</td>
+		<td>462</td>
 		<td>
 			<a target="_blank" href="https://github.com/Tuhaj">
-				<img src="https://private-avatars.githubusercontent.com/u/6118271?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU0MDAsIm5iZiI6MTczNDU3NDIwMCwicGF0aCI6Ii91LzYxMTgyNzEifQ.rvvyd0OUSuH3QSy6jVpy1XqWFJy9d1DLbfcA47xYMdk&s=72&u=8380732ebdce0401fec9e76c7acd26faf6afae28&v=4" width="24" alt="Avatar of Tuhaj"/> Tuhaj
+				<img src="https://private-avatars.githubusercontent.com/u/6118271?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE0MDAsIm5iZiI6MTczNDYxMDIwMCwicGF0aCI6Ii91LzYxMTgyNzEifQ.3PfzBBu8tVWYO5zUIvydTgVFBof3RPaMmPGHe_597OM&s=72&u=8380732ebdce0401fec9e76c7acd26faf6afae28&v=4" width="24" alt="Avatar of Tuhaj"/> Tuhaj
 			</a><br/>
 			Piotr Zientara
 		</td>
@@ -6565,10 +6579,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>364</td>
 	</tr>
 	<tr>
-		<td>462</td>
+		<td>463</td>
 		<td>
 			<a target="_blank" href="https://github.com/ksopyla">
-				<img src="https://private-avatars.githubusercontent.com/u/64201?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ1MDAsIm5iZiI6MTczNDU3MzMwMCwicGF0aCI6Ii91LzY0MjAxIn0.FU6ggz7DZA33aLbPIOjo6tWMKL5wsMpm-SqmXOZjEyc&s=72&u=5ff34e823afbd379711ebcf3925b4d4cb904f0bc&v=4" width="24" alt="Avatar of ksopyla"/> ksopyla
+				<img src="https://private-avatars.githubusercontent.com/u/64201?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE0MDAsIm5iZiI6MTczNDYxMDIwMCwicGF0aCI6Ii91LzY0MjAxIn0.TuXm6dI-8tLmcsENgvyiaPBg4U3lOiHg4pHFQScKSdA&s=72&u=5ff34e823afbd379711ebcf3925b4d4cb904f0bc&v=4" width="24" alt="Avatar of ksopyla"/> ksopyla
 			</a><br/>
 			Krzysztof Sopya
 		</td>
@@ -6579,10 +6593,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>360</td>
 	</tr>
 	<tr>
-		<td>463</td>
+		<td>464</td>
 		<td>
 			<a target="_blank" href="https://github.com/surblazer">
-				<img src="https://private-avatars.githubusercontent.com/u/34722402?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyODAsIm5iZiI6MTczNDU3NDA4MCwicGF0aCI6Ii91LzM0NzIyNDAyIn0.G-od-JUgvomxfNBz2eHW5ZuRQoL032nd0nUxpBN_aNw&s=72&u=f032d4a5c2c7ee9fba5d361d6bd22c58ee83a662&v=4" width="24" alt="Avatar of surblazer"/> surblazer
+				<img src="https://private-avatars.githubusercontent.com/u/34722402?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxODAsIm5iZiI6MTczNDYxMDk4MCwicGF0aCI6Ii91LzM0NzIyNDAyIn0.2lUCw5Uj0SwTe8InlE_edeotia7hJqKsZ8CFZqS0fGc&s=72&u=f032d4a5c2c7ee9fba5d361d6bd22c58ee83a662&v=4" width="24" alt="Avatar of surblazer"/> surblazer
 			</a><br/>
 			Matsvei Niaverau
 		</td>
@@ -6593,10 +6607,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>360</td>
 	</tr>
 	<tr>
-		<td>464</td>
+		<td>465</td>
 		<td>
 			<a target="_blank" href="https://github.com/styczynski">
-				<img src="https://private-avatars.githubusercontent.com/u/7319352?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ3NDAsIm5iZiI6MTczNDU3MzU0MCwicGF0aCI6Ii91LzczMTkzNTIifQ.nls3sfwXvZ8f7m4OMhNPKXTgW9yyxxQbPyAwzOmdUt0&s=72&u=f5c7a8ef989711265f0eaf89b3841c0cebdb1c77&v=4" width="24" alt="Avatar of styczynski"/> styczynski
+				<img src="https://private-avatars.githubusercontent.com/u/7319352?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE2NDAsIm5iZiI6MTczNDYxMDQ0MCwicGF0aCI6Ii91LzczMTkzNTIifQ.N_Y8nZ9HGBI7KobGy51-w_ffnhuTLoHr_PDYD0TrRqI&s=72&u=f5c7a8ef989711265f0eaf89b3841c0cebdb1c77&v=4" width="24" alt="Avatar of styczynski"/> styczynski
 			</a><br/>
 			Piotr Aleksander Styczyski
 		</td>
@@ -6607,10 +6621,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>359</td>
 	</tr>
 	<tr>
-		<td>465</td>
+		<td>466</td>
 		<td>
 			<a target="_blank" href="https://github.com/BekBrace">
-				<img src="https://private-avatars.githubusercontent.com/u/60483846?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQzODAsIm5iZiI6MTczNDU3MzE4MCwicGF0aCI6Ii91LzYwNDgzODQ2In0.T3b7zznjCzxbmmPH_h994zyRka0cnN-o9gIj4E0hSuE&s=72&u=210d3b083b9d08e353dae0481d8f93efd509f737&v=4" width="24" alt="Avatar of BekBrace"/> BekBrace
+				<img src="https://private-avatars.githubusercontent.com/u/60483846?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTEyODAsIm5iZiI6MTczNDYxMDA4MCwicGF0aCI6Ii91LzYwNDgzODQ2In0.vT-6-0HgEMH8rHPJW4MnI1Axjm1Jcs-xJ5yzwBjqwIU&s=72&u=210d3b083b9d08e353dae0481d8f93efd509f737&v=4" width="24" alt="Avatar of BekBrace"/> BekBrace
 			</a><br/>
 			Bek Brace
 		</td>
@@ -6621,24 +6635,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>358</td>
 	</tr>
 	<tr>
-		<td>466</td>
-		<td>
-			<a target="_blank" href="https://github.com/ecler">
-				<img src="https://private-avatars.githubusercontent.com/u/2544319?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2MjAsIm5iZiI6MTczNDU3MzQyMCwicGF0aCI6Ii91LzI1NDQzMTkifQ.ABZxUZ3XAfWGd5gsPRgoGp3KBFRtAC2nthwaukRBdOk&s=72&u=08f890dd39fede8b820779d6b7c3f842855e9e77&v=4" width="24" alt="Avatar of ecler"/> ecler
-			</a><br/>
-			Pawe Biaecki
-		</td>
-		<td>Astro Photons </td>
-		<td>No Twitter Username</td>
-		<td>Bogatynia Poland</td>
-		<td>0</td>
-		<td>358</td>
-	</tr>
-	<tr>
 		<td>467</td>
 		<td>
 			<a target="_blank" href="https://github.com/krzysztofzablocki">
-				<img src="https://private-avatars.githubusercontent.com/u/1468993?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4NjAsIm5iZiI6MTczNDU3MzY2MCwicGF0aCI6Ii91LzE0Njg5OTMifQ.-YicXyHhnfNTF4w6bK2Px5fewghvRTDxeyOgKAyUqHc&s=72&u=e3b8c60cc5878bad71c073d8b901b882780d5e1c&v=4" width="24" alt="Avatar of krzysztofzablocki"/> krzysztofzablocki
+				<img src="https://private-avatars.githubusercontent.com/u/1468993?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3NjAsIm5iZiI6MTczNDYxMDU2MCwicGF0aCI6Ii91LzE0Njg5OTMifQ.qFgHxPoAhsPy5obG3XhDhLFy1E0NXMIyT1zSjibxWs4&s=72&u=e3b8c60cc5878bad71c073d8b901b882780d5e1c&v=4" width="24" alt="Avatar of krzysztofzablocki"/> krzysztofzablocki
 			</a><br/>
 			Krzysztof Zabocki
 		</td>
@@ -6652,7 +6652,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>468</td>
 		<td>
 			<a target="_blank" href="https://github.com/jirafey">
-				<img src="https://private-avatars.githubusercontent.com/u/97115044?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ0NDAsIm5iZiI6MTczNDU3MzI0MCwicGF0aCI6Ii91Lzk3MTE1MDQ0In0.Q2FyFgmjB0i3UUZupNGkLH3blU4m_d50Y_O-GQVyVQw&s=72&u=415075b9cdea1afb67d50045926a108c78294c3b&v=4" width="24" alt="Avatar of jirafey"/> jirafey
+				<img src="https://private-avatars.githubusercontent.com/u/97115044?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTEzNDAsIm5iZiI6MTczNDYxMDE0MCwicGF0aCI6Ii91Lzk3MTE1MDQ0In0.PsvdprqZSd5MQyP1UptuECymqDkdX20kj_jWQRhkbEA&s=72&u=415075b9cdea1afb67d50045926a108c78294c3b&v=4" width="24" alt="Avatar of jirafey"/> jirafey
 			</a><br/>
 			Jirafey
 		</td>
@@ -6666,35 +6666,35 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>469</td>
 		<td>
 			<a target="_blank" href="https://github.com/micorix">
-				<img src="https://private-avatars.githubusercontent.com/u/20800459?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQzMjAsIm5iZiI6MTczNDU3MzEyMCwicGF0aCI6Ii91LzIwODAwNDU5In0.Cuzd7Nha3kCIPWoRLydLOR5e89rQtaRUhar88uBrMz0&s=72&u=86aa23cee5e566975dd1f6632d95740db5464385&v=4" width="24" alt="Avatar of micorix"/> micorix
+				<img src="https://private-avatars.githubusercontent.com/u/20800459?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTEyMjAsIm5iZiI6MTczNDYxMDAyMCwicGF0aCI6Ii91LzIwODAwNDU5In0.elT5D5XvFd9PTxxoEuJ87SJuZYisYPParS6hqUFl05c&s=72&u=86aa23cee5e566975dd1f6632d95740db5464385&v=4" width="24" alt="Avatar of micorix"/> micorix
 			</a><br/>
 			Micha Orziak
 		</td>
 		<td>@qedsoftware </td>
 		<td><a target="_blank" href="https://twitter.com/keenondev">keenondev</a></td>
 		<td>Warsaw Poland</td>
-		<td>139</td>
-		<td>352</td>
+		<td>140</td>
+		<td>353</td>
 	</tr>
 	<tr>
 		<td>470</td>
 		<td>
 			<a target="_blank" href="https://github.com/Krzysztof-Cieslak">
-				<img src="https://private-avatars.githubusercontent.com/u/5427083?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQzMjAsIm5iZiI6MTczNDU3MzEyMCwicGF0aCI6Ii91LzU0MjcwODMifQ.2Oc4fZlqO15u3AqDPgj-7F3DZ1_NcrrPeLAhJgn2Nsw&s=72&u=14e4c84892fc24d16fbe8d2909eec042cb4f7adc&v=4" width="24" alt="Avatar of Krzysztof-Cieslak"/> Krzysztof-Cieslak
+				<img src="https://private-avatars.githubusercontent.com/u/5427083?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTEyMjAsIm5iZiI6MTczNDYxMDAyMCwicGF0aCI6Ii91LzU0MjcwODMifQ.q399wBt7ePjxIB10LtOFexYiWHTNy1DzJzbHSdH4J5w&s=72&u=14e4c84892fc24d16fbe8d2909eec042cb4f7adc&v=4" width="24" alt="Avatar of Krzysztof-Cieslak"/> Krzysztof-Cieslak
 			</a><br/>
 			Krzysztof Cielak
 		</td>
 		<td>@github @githubnext </td>
 		<td><a target="_blank" href="https://twitter.com/k_cieslak">k_cieslak</a></td>
 		<td>Lodz Poland</td>
-		<td>56</td>
-		<td>350</td>
+		<td>58</td>
+		<td>352</td>
 	</tr>
 	<tr>
 		<td>471</td>
 		<td>
 			<a target="_blank" href="https://github.com/peterblazejewicz">
-				<img src="https://private-avatars.githubusercontent.com/u/14539?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91LzE0NTM5In0.ODEIf4_kd4bZlFMB0R-5Q8jyEn7HjdVarzfNXEw4CzQ&s=72&v=4" width="24" alt="Avatar of peterblazejewicz"/> peterblazejewicz
+				<img src="https://private-avatars.githubusercontent.com/u/14539?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91LzE0NTM5In0.SOsEUuUYJ3-LHF2kOAZzlm5MLiupZqsCPOdVBBSjEzs&s=72&v=4" width="24" alt="Avatar of peterblazejewicz"/> peterblazejewicz
 			</a><br/>
 			Piotr Baejewicz Peter Blazejewicz
 		</td>
@@ -6708,7 +6708,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>472</td>
 		<td>
 			<a target="_blank" href="https://github.com/kciesielski">
-				<img src="https://private-avatars.githubusercontent.com/u/1413553?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU1MjAsIm5iZiI6MTczNDU3NDMyMCwicGF0aCI6Ii91LzE0MTM1NTMifQ.QWJr1mCbS_CRdcootxLsq4Q0DTjqfbsQGTqIGLfKc7I&s=72&u=f98a8cecd43ec8bb2e3a6b813cc93034f9209d70&v=4" width="24" alt="Avatar of kciesielski"/> kciesielski
+				<img src="https://private-avatars.githubusercontent.com/u/1413553?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTI0MjAsIm5iZiI6MTczNDYxMTIyMCwicGF0aCI6Ii91LzE0MTM1NTMifQ._BsnS4tUcVQjuBkNwV_bSWWr2BZjHhYsI2RbKeJDlzs&s=72&u=f98a8cecd43ec8bb2e3a6b813cc93034f9209d70&v=4" width="24" alt="Avatar of kciesielski"/> kciesielski
 			</a><br/>
 			Krzysztof Ciesielski
 		</td>
@@ -6722,7 +6722,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>473</td>
 		<td>
 			<a target="_blank" href="https://github.com/Esemesek">
-				<img src="https://private-avatars.githubusercontent.com/u/9092510?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyMjAsIm5iZiI6MTczNDU3NDAyMCwicGF0aCI6Ii91LzkwOTI1MTAifQ.BmYGUkG-eG4RJYSPhs0YZMlwxA30OQFr3qhi-xQaORg&s=72&u=9cce7cba91494d7ba5c0d29662a45e603c465fbf&v=4" width="24" alt="Avatar of Esemesek"/> Esemesek
+				<img src="https://private-avatars.githubusercontent.com/u/9092510?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxMjAsIm5iZiI6MTczNDYxMDkyMCwicGF0aCI6Ii91LzkwOTI1MTAifQ.qZcRln_CgKiunETpZ7tCKlVHDX9k859jq0SHai2oTrc&s=72&u=9cce7cba91494d7ba5c0d29662a45e603c465fbf&v=4" width="24" alt="Avatar of Esemesek"/> Esemesek
 			</a><br/>
 			Kacper Wiszczuk
 		</td>
@@ -6736,21 +6736,21 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>474</td>
 		<td>
 			<a target="_blank" href="https://github.com/ducin">
-				<img src="https://private-avatars.githubusercontent.com/u/375027?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxMDAsIm5iZiI6MTczNDU3MzkwMCwicGF0aCI6Ii91LzM3NTAyNyJ9.oLwUypacf-Da44VI_DBT44yPrwNl6bTqyLtVocnte3M&s=72&v=4" width="24" alt="Avatar of ducin"/> ducin
+				<img src="https://private-avatars.githubusercontent.com/u/375027?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwMDAsIm5iZiI6MTczNDYxMDgwMCwicGF0aCI6Ii91LzM3NTAyNyJ9.GY9pcvs2_5BgStnFAnytAa0YgCwowL6m6ohscqC17yc&s=72&v=4" width="24" alt="Avatar of ducin"/> ducin
 			</a><br/>
 			Tomasz Ducin
 		</td>
 		<td>@tomaszducin </td>
 		<td><a target="_blank" href="https://twitter.com/tomasz_ducin">tomasz_ducin</a></td>
 		<td>Poland</td>
-		<td>341</td>
-		<td>341</td>
+		<td>342</td>
+		<td>342</td>
 	</tr>
 	<tr>
 		<td>475</td>
 		<td>
 			<a target="_blank" href="https://github.com/panicz">
-				<img src="https://private-avatars.githubusercontent.com/u/9381224?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU0MDAsIm5iZiI6MTczNDU3NDIwMCwicGF0aCI6Ii91LzkzODEyMjQifQ.vTHm3f1NokmcYCtLVmJzyXNlZGUpdxV3peGaIqWaUrk&s=72&u=0617e89ddb238952eb72d723307966dfb0e8dca7&v=4" width="24" alt="Avatar of panicz"/> panicz
+				<img src="https://private-avatars.githubusercontent.com/u/9381224?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIzMDAsIm5iZiI6MTczNDYxMTEwMCwicGF0aCI6Ii91LzkzODEyMjQifQ.crAL_LgK4pZR81kk-NCzPTQG-zYSLYLUh5PhMjJRkb8&s=72&u=0617e89ddb238952eb72d723307966dfb0e8dca7&v=4" width="24" alt="Avatar of panicz"/> panicz
 			</a><br/>
 			Panicz
 		</td>
@@ -6764,7 +6764,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>476</td>
 		<td>
 			<a target="_blank" href="https://github.com/tpeczek">
-				<img src="https://private-avatars.githubusercontent.com/u/1446301?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQzMjAsIm5iZiI6MTczNDU3MzEyMCwicGF0aCI6Ii91LzE0NDYzMDEifQ.lWoiBowk3TUbhLWs9W-30e6MRWCFLZ9DDPEEXOQz-b8&s=72&v=4" width="24" alt="Avatar of tpeczek"/> tpeczek
+				<img src="https://private-avatars.githubusercontent.com/u/1446301?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTEyMjAsIm5iZiI6MTczNDYxMDAyMCwicGF0aCI6Ii91LzE0NDYzMDEifQ.9junGD-swiIGcB4yj3DfaJNZfIWheCX1drEc11pCMu8&s=72&v=4" width="24" alt="Avatar of tpeczek"/> tpeczek
 			</a><br/>
 			Tomasz Pczek
 		</td>
@@ -6778,7 +6778,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>477</td>
 		<td>
 			<a target="_blank" href="https://github.com/DamianGlowala">
-				<img src="https://private-avatars.githubusercontent.com/u/48835293?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2ODAsIm5iZiI6MTczNDU3MzQ4MCwicGF0aCI6Ii91LzQ4ODM1MjkzIn0.uyMinFDK1twsg7Eu--bDwy9jyk_jmbmqOFr9a5UDeF0&s=72&u=35e90ee7a0b11b84c26484c178bcecee8e77daa8&v=4" width="24" alt="Avatar of DamianGlowala"/> DamianGlowala
+				<img src="https://private-avatars.githubusercontent.com/u/48835293?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1ODAsIm5iZiI6MTczNDYxMDM4MCwicGF0aCI6Ii91LzQ4ODM1MjkzIn0.QhGoJEHbkVcFNDCIaG7m02I4HghU7xljkLRLCHGN5HE&s=72&u=35e90ee7a0b11b84c26484c178bcecee8e77daa8&v=4" width="24" alt="Avatar of DamianGlowala"/> DamianGlowala
 			</a><br/>
 			Damian Gowala
 		</td>
@@ -6792,7 +6792,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>478</td>
 		<td>
 			<a target="_blank" href="https://github.com/sulco">
-				<img src="https://private-avatars.githubusercontent.com/u/1511906?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2ODAsIm5iZiI6MTczNDU3MzQ4MCwicGF0aCI6Ii91LzE1MTE5MDYifQ.Iceo7a1fIKTaFu6_4naplAgHKL7i_mX7H05ZhVaILYs&s=72&u=d6df33a5f54e0c9b5fb79fe1c4461249d5f726b7&v=4" width="24" alt="Avatar of sulco"/> sulco
+				<img src="https://private-avatars.githubusercontent.com/u/1511906?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1ODAsIm5iZiI6MTczNDYxMDM4MCwicGF0aCI6Ii91LzE1MTE5MDYifQ.blfftDBV5ECTcqbTk-ovLOfj1gB9PiSKvN4jWF28-CE&s=72&u=d6df33a5f54e0c9b5fb79fe1c4461249d5f726b7&v=4" width="24" alt="Avatar of sulco"/> sulco
 			</a><br/>
 			 Tomek Sulkowski
 		</td>
@@ -6806,7 +6806,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>479</td>
 		<td>
 			<a target="_blank" href="https://github.com/alec-c4">
-				<img src="https://private-avatars.githubusercontent.com/u/25312?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUwNDAsIm5iZiI6MTczNDU3Mzg0MCwicGF0aCI6Ii91LzI1MzEyIn0.kPk_IrZWhIHFhtWwD6X2J2rUhW0mNDXxj8V-fAd5mTI&s=72&u=2c0dc99077decca52a0e4dd5291be46e0d6ef48d&v=4" width="24" alt="Avatar of alec-c4"/> alec-c4
+				<img src="https://private-avatars.githubusercontent.com/u/25312?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE5NDAsIm5iZiI6MTczNDYxMDc0MCwicGF0aCI6Ii91LzI1MzEyIn0.Hn_71uVIAUI5N6kgNxPyuws9qH5p04yYR_3gzSk96rc&s=72&u=2c0dc99077decca52a0e4dd5291be46e0d6ef48d&v=4" width="24" alt="Avatar of alec-c4"/> alec-c4
 			</a><br/>
 			Alexey Poimtsev
 		</td>
@@ -6820,7 +6820,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>480</td>
 		<td>
 			<a target="_blank" href="https://github.com/SushiBtw">
-				<img src="https://private-avatars.githubusercontent.com/u/45533122?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyMjAsIm5iZiI6MTczNDU3NDAyMCwicGF0aCI6Ii91LzQ1NTMzMTIyIn0.-0srZeOsvsO6VWHorFRPdyIKpAyOt5qE0h6gIAncGXc&s=72&u=aca0a69b861cd2329613a71b7db16ec2db981c90&v=4" width="24" alt="Avatar of SushiBtw"/> SushiBtw
+				<img src="https://private-avatars.githubusercontent.com/u/45533122?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxMjAsIm5iZiI6MTczNDYxMDkyMCwicGF0aCI6Ii91LzQ1NTMzMTIyIn0.4E2XMwi1jFCaVhVL4xITWzyliLGQeZf5yY8RHRvX_G4&s=72&u=aca0a69b861cd2329613a71b7db16ec2db981c90&v=4" width="24" alt="Avatar of SushiBtw"/> SushiBtw
 			</a><br/>
 			No Name
 		</td>
@@ -6834,7 +6834,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>481</td>
 		<td>
 			<a target="_blank" href="https://github.com/jpc">
-				<img src="https://private-avatars.githubusercontent.com/u/107984?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU0MDAsIm5iZiI6MTczNDU3NDIwMCwicGF0aCI6Ii91LzEwNzk4NCJ9.dsHWRyNIwoUuPewowPNu27vANwUnijmz0_m8xnGE_Hs&s=72&u=03a8a3f9cb360618eb9495d3ef7af4b89788b714&v=4" width="24" alt="Avatar of jpc"/> jpc
+				<img src="https://private-avatars.githubusercontent.com/u/107984?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIzMDAsIm5iZiI6MTczNDYxMTEwMCwicGF0aCI6Ii91LzEwNzk4NCJ9.766jZfWgsCnhmer8uSrbNxK-X1XPjgLkWNBp7NF68pI&s=72&u=03a8a3f9cb360618eb9495d3ef7af4b89788b714&v=4" width="24" alt="Avatar of jpc"/> jpc
 			</a><br/>
 			Jakub Piotr Capa
 		</td>
@@ -6848,7 +6848,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>482</td>
 		<td>
 			<a target="_blank" href="https://github.com/turhancan97">
-				<img src="https://private-avatars.githubusercontent.com/u/22428774?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5ODAsIm5iZiI6MTczNDU3Mzc4MCwicGF0aCI6Ii91LzIyNDI4Nzc0In0.2Lhn0YdSqxoaUFyhwDPhtFCF0NdxfWjQSG7GvjnEdGA&s=72&u=54d1468aafd41091ccb563870ebaded31ed593a7&v=4" width="24" alt="Avatar of turhancan97"/> turhancan97
+				<img src="https://private-avatars.githubusercontent.com/u/22428774?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4ODAsIm5iZiI6MTczNDYxMDY4MCwicGF0aCI6Ii91LzIyNDI4Nzc0In0.jSxFlFKW_yMVSZGGAZhirCxnfL_x0lIhm4T-amfFCw0&s=72&u=54d1468aafd41091ccb563870ebaded31ed593a7&v=4" width="24" alt="Avatar of turhancan97"/> turhancan97
 			</a><br/>
 			Turhan Can Kargn
 		</td>
@@ -6862,7 +6862,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>483</td>
 		<td>
 			<a target="_blank" href="https://github.com/mdtanrikulu">
-				<img src="https://private-avatars.githubusercontent.com/u/2774845?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2MjAsIm5iZiI6MTczNDU3MzQyMCwicGF0aCI6Ii91LzI3NzQ4NDUifQ._xM3dcfrBgUGLV-1y_V8_zLtuEmJtsODY8Uo73NAfcM&s=72&u=2fff75fc8fbeb69ed20189dbaac862c22c5a9987&v=4" width="24" alt="Avatar of mdtanrikulu"/> mdtanrikulu
+				<img src="https://private-avatars.githubusercontent.com/u/2774845?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1MjAsIm5iZiI6MTczNDYxMDMyMCwicGF0aCI6Ii91LzI3NzQ4NDUifQ.hItLbHP8TjqPJwAAl0urLPrmrw79uLrbTlLfCx0-_Aw&s=72&u=2fff75fc8fbeb69ed20189dbaac862c22c5a9987&v=4" width="24" alt="Avatar of mdtanrikulu"/> mdtanrikulu
 			</a><br/>
 			Muhammed Tanrkulu
 		</td>
@@ -6876,7 +6876,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>484</td>
 		<td>
 			<a target="_blank" href="https://github.com/awawa-dev">
-				<img src="https://private-avatars.githubusercontent.com/u/69086569?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5ODAsIm5iZiI6MTczNDU3Mzc4MCwicGF0aCI6Ii91LzY5MDg2NTY5In0.4DwE_6sH1eG5uJ0WyHNyID95aw8U118ej9WFeOm8pBk&s=72&u=fac7b68d02b0b200de51cf46a3f79b44c8b17081&v=4" width="24" alt="Avatar of awawa-dev"/> awawa-dev
+				<img src="https://private-avatars.githubusercontent.com/u/69086569?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4ODAsIm5iZiI6MTczNDYxMDY4MCwicGF0aCI6Ii91LzY5MDg2NTY5In0.6SvyNiBsYoUbJkHk2qBg15VP3gP2Mxe2Ju_3pjOa1AU&s=72&u=fac7b68d02b0b200de51cf46a3f79b44c8b17081&v=4" width="24" alt="Avatar of awawa-dev"/> awawa-dev
 			</a><br/>
 			Awawa
 		</td>
@@ -6890,7 +6890,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>485</td>
 		<td>
 			<a target="_blank" href="https://github.com/drybjed">
-				<img src="https://private-avatars.githubusercontent.com/u/1043958?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5MjAsIm5iZiI6MTczNDU3MzcyMCwicGF0aCI6Ii91LzEwNDM5NTgifQ.H9miXKbsjKHyyUyY4sQO6NsU9drVlwqGp0HYqWaEXZ0&s=72&u=3094c8830e233b25445986095762b39f6b80e209&v=4" width="24" alt="Avatar of drybjed"/> drybjed
+				<img src="https://private-avatars.githubusercontent.com/u/1043958?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4MjAsIm5iZiI6MTczNDYxMDYyMCwicGF0aCI6Ii91LzEwNDM5NTgifQ.vId3NGEk4DTsOqEq5LcpXNx5d3fjk6oWEntT6_-T5GY&s=72&u=3094c8830e233b25445986095762b39f6b80e209&v=4" width="24" alt="Avatar of drybjed"/> drybjed
 			</a><br/>
 			Maciej Delmanowski
 		</td>
@@ -6904,7 +6904,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>486</td>
 		<td>
 			<a target="_blank" href="https://github.com/theoneandonlywoj">
-				<img src="https://private-avatars.githubusercontent.com/u/23722848?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5MjAsIm5iZiI6MTczNDU3MzcyMCwicGF0aCI6Ii91LzIzNzIyODQ4In0.wzmUMgxpaYGQnxcR__Xjdr6wM_4LPVnCClZFtoaFfoY&s=72&u=6c51c2c702584de5113516a259f7d0eb740f1acc&v=4" width="24" alt="Avatar of theoneandonlywoj"/> theoneandonlywoj
+				<img src="https://private-avatars.githubusercontent.com/u/23722848?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4MjAsIm5iZiI6MTczNDYxMDYyMCwicGF0aCI6Ii91LzIzNzIyODQ4In0.UkwJFOAv37OqNmsmZLYPn8LqohRgs6Af51EsUeq9zo4&s=72&u=6c51c2c702584de5113516a259f7d0eb740f1acc&v=4" width="24" alt="Avatar of theoneandonlywoj"/> theoneandonlywoj
 			</a><br/>
 			Wojciech Orzechowski
 		</td>
@@ -6918,7 +6918,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>487</td>
 		<td>
 			<a target="_blank" href="https://github.com/pczarn">
-				<img src="https://private-avatars.githubusercontent.com/u/3356767?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91LzMzNTY3NjcifQ.UEFxSUAQHflV0bPZHTEIfD5y7VBoz22R8y2Of4brLFw&s=72&u=36cff68a721147f907bff29b5be1b4ae56330911&v=4" width="24" alt="Avatar of pczarn"/> pczarn
+				<img src="https://private-avatars.githubusercontent.com/u/3356767?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91LzMzNTY3NjcifQ.s5kM5XmT5q6FB8DZPaq3TUBY1qnYUHYGBlcDbkiVbOA&s=72&u=36cff68a721147f907bff29b5be1b4ae56330911&v=4" width="24" alt="Avatar of pczarn"/> pczarn
 			</a><br/>
 			Peter Blackson
 		</td>
@@ -6932,7 +6932,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>488</td>
 		<td>
 			<a target="_blank" href="https://github.com/marekkirejczyk">
-				<img src="https://private-avatars.githubusercontent.com/u/197522?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ1MDAsIm5iZiI6MTczNDU3MzMwMCwicGF0aCI6Ii91LzE5NzUyMiJ9.H1271Td6hu6GhwwmaBV5Lv800OCnP3CxC3qEt7PrYhc&s=72&u=a36384c3d39460fb2bc0630a5d87be2748164aa7&v=4" width="24" alt="Avatar of marekkirejczyk"/> marekkirejczyk
+				<img src="https://private-avatars.githubusercontent.com/u/197522?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE0MDAsIm5iZiI6MTczNDYxMDIwMCwicGF0aCI6Ii91LzE5NzUyMiJ9.22eP2Q3DFp2U1UI_PScBWSNEwBivJpck3Z2NGTSBFSo&s=72&u=a36384c3d39460fb2bc0630a5d87be2748164aa7&v=4" width="24" alt="Avatar of marekkirejczyk"/> marekkirejczyk
 			</a><br/>
 			Marek Kirejczyk
 		</td>
@@ -6946,7 +6946,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>489</td>
 		<td>
 			<a target="_blank" href="https://github.com/woju">
-				<img src="https://private-avatars.githubusercontent.com/u/1550337?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ1MDAsIm5iZiI6MTczNDU3MzMwMCwicGF0aCI6Ii91LzE1NTAzMzcifQ.i9gSLcPAHszm755Sux9zCOeGmE3OF6F-uESp0z6wh0c&s=72&u=31a58f6f5a9312c38fe6fd2676a9f9fbe56c9a02&v=4" width="24" alt="Avatar of woju"/> woju
+				<img src="https://private-avatars.githubusercontent.com/u/1550337?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE0MDAsIm5iZiI6MTczNDYxMDIwMCwicGF0aCI6Ii91LzE1NTAzMzcifQ.ThyRzt77DqN7pl0T3BatVdZvFEdqc6Tup95ZOavPCVY&s=72&u=31a58f6f5a9312c38fe6fd2676a9f9fbe56c9a02&v=4" width="24" alt="Avatar of woju"/> woju
 			</a><br/>
 			Wojtek Porczyk
 		</td>
@@ -6960,7 +6960,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>490</td>
 		<td>
 			<a target="_blank" href="https://github.com/pawelkonior">
-				<img src="https://private-avatars.githubusercontent.com/u/1580820?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5ODAsIm5iZiI6MTczNDU3Mzc4MCwicGF0aCI6Ii91LzE1ODA4MjAifQ.lQofqcrUxtwZxc9fjiX4l4P3c8Aw2XL4P22hO3nm9_0&s=72&u=4d8bb55abb9fcd8f77348facbc21f625dbb4067f&v=4" width="24" alt="Avatar of pawelkonior"/> pawelkonior
+				<img src="https://private-avatars.githubusercontent.com/u/1580820?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4ODAsIm5iZiI6MTczNDYxMDY4MCwicGF0aCI6Ii91LzE1ODA4MjAifQ.QFc-Bz7q1Y1cztaKbh5QedbmjlWzzSt1GqK5GkfkJks&s=72&u=4d8bb55abb9fcd8f77348facbc21f625dbb4067f&v=4" width="24" alt="Avatar of pawelkonior"/> pawelkonior
 			</a><br/>
 			Pawe Konior
 		</td>
@@ -6974,7 +6974,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>491</td>
 		<td>
 			<a target="_blank" href="https://github.com/filrak">
-				<img src="https://private-avatars.githubusercontent.com/u/15185752?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQyNjAsIm5iZiI6MTczNDU3MzA2MCwicGF0aCI6Ii91LzE1MTg1NzUyIn0.CjcV9tTs_pAQE2FnBdhH76ri-CWOdIF7gdC0dx2POYc&s=72&u=8525e972dfb7b6b0976ca5738e4b91f6205ed9ee&v=4" width="24" alt="Avatar of filrak"/> filrak
+				<img src="https://private-avatars.githubusercontent.com/u/15185752?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTExNjAsIm5iZiI6MTczNDYwOTk2MCwicGF0aCI6Ii91LzE1MTg1NzUyIn0.3c20gExMF9PPT7pwUOvC3TNVypcRdRjRx5O5E-Ujwi0&s=72&u=8525e972dfb7b6b0976ca5738e4b91f6205ed9ee&v=4" width="24" alt="Avatar of filrak"/> filrak
 			</a><br/>
 			Filip Rakowski
 		</td>
@@ -6988,7 +6988,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>492</td>
 		<td>
 			<a target="_blank" href="https://github.com/szymex73">
-				<img src="https://private-avatars.githubusercontent.com/u/5494832?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5MjAsIm5iZiI6MTczNDU3MzcyMCwicGF0aCI6Ii91LzU0OTQ4MzIifQ.yT65VbtWjSAcuKA0yIQJ-mLPXBiBiT1NPjjF36sqAeE&s=72&u=102b31c1a62fd702edcf6c18c2ac0ea604dd5dd1&v=4" width="24" alt="Avatar of szymex73"/> szymex73
+				<img src="https://private-avatars.githubusercontent.com/u/5494832?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4MjAsIm5iZiI6MTczNDYxMDYyMCwicGF0aCI6Ii91LzU0OTQ4MzIifQ.hmvinSiExH7yVrJMUatSLx7UeZ9lCXUnhLcjcESIyVU&s=72&u=102b31c1a62fd702edcf6c18c2ac0ea604dd5dd1&v=4" width="24" alt="Avatar of szymex73"/> szymex73
 			</a><br/>
 			Szymon Borecki
 		</td>
@@ -7002,7 +7002,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>493</td>
 		<td>
 			<a target="_blank" href="https://github.com/rkaczorek">
-				<img src="https://private-avatars.githubusercontent.com/u/17554493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU1MjAsIm5iZiI6MTczNDU3NDMyMCwicGF0aCI6Ii91LzE3NTU0NDkzIn0.YBQAewAtvHWmcMYa11EAkKfPtMLyY91Tpy1y_R12cj4&s=72&u=4e5270fcaafe873208253212eff530d0c9a7f573&v=4" width="24" alt="Avatar of rkaczorek"/> rkaczorek
+				<img src="https://private-avatars.githubusercontent.com/u/17554493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTI0MjAsIm5iZiI6MTczNDYxMTIyMCwicGF0aCI6Ii91LzE3NTU0NDkzIn0.Wh7d6jelhL7L4Ow1V9uo28I_emv0ssBrLTaLrCjA3rc&s=72&u=4e5270fcaafe873208253212eff530d0c9a7f573&v=4" width="24" alt="Avatar of rkaczorek"/> rkaczorek
 			</a><br/>
 			Radek Kaczorek
 		</td>
@@ -7016,7 +7016,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>494</td>
 		<td>
 			<a target="_blank" href="https://github.com/pedrocoutinhosilva">
-				<img src="https://private-avatars.githubusercontent.com/u/44022548?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ1NjAsIm5iZiI6MTczNDU3MzM2MCwicGF0aCI6Ii91LzQ0MDIyNTQ4In0.LqjBIwBZ4HdNVAXDSpR9hyCkia30KMw2_lnQwHj8yTE&s=72&u=8d7c8b84204e24895fc5aa72167b184db9b62cb7&v=4" width="24" alt="Avatar of pedrocoutinhosilva"/> pedrocoutinhosilva
+				<img src="https://private-avatars.githubusercontent.com/u/44022548?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE0NjAsIm5iZiI6MTczNDYxMDI2MCwicGF0aCI6Ii91LzQ0MDIyNTQ4In0.SZ4YwGVz1fH3-hKnPBmnkR9kPsgvyNgxSbxo5lq5QO4&s=72&u=8d7c8b84204e24895fc5aa72167b184db9b62cb7&v=4" width="24" alt="Avatar of pedrocoutinhosilva"/> pedrocoutinhosilva
 			</a><br/>
 			Pedro Silva
 		</td>
@@ -7030,7 +7030,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>495</td>
 		<td>
 			<a target="_blank" href="https://github.com/konhi">
-				<img src="https://private-avatars.githubusercontent.com/u/61631665?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxNjAsIm5iZiI6MTczNDU3Mzk2MCwicGF0aCI6Ii91LzYxNjMxNjY1In0.jz1infg_RehQZ1T6QSi9xCdCQVKRUuSABgabeNvkFwc&s=72&u=f3f87e7a275e11bf71013248429e75ddc96eb611&v=4" width="24" alt="Avatar of konhi"/> konhi
+				<img src="https://private-avatars.githubusercontent.com/u/61631665?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwNjAsIm5iZiI6MTczNDYxMDg2MCwicGF0aCI6Ii91LzYxNjMxNjY1In0.m7IG2sIXsF7Y0qyP5On35i3KmNtexpWDhTrzu45TkMc&s=72&u=f3f87e7a275e11bf71013248429e75ddc96eb611&v=4" width="24" alt="Avatar of konhi"/> konhi
 			</a><br/>
 			Jan Szymaski
 		</td>
@@ -7044,7 +7044,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>496</td>
 		<td>
 			<a target="_blank" href="https://github.com/pwittchen">
-				<img src="https://private-avatars.githubusercontent.com/u/695319?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxMDAsIm5iZiI6MTczNDU3MzkwMCwicGF0aCI6Ii91LzY5NTMxOSJ9.fHKek9O2WpRhqDtXbeQntYxKe5kBwbcjBIcyvpqrrPA&s=72&u=23e9537742f0a255c8f8347e846b02062972d6ed&v=4" width="24" alt="Avatar of pwittchen"/> pwittchen
+				<img src="https://private-avatars.githubusercontent.com/u/695319?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwMDAsIm5iZiI6MTczNDYxMDgwMCwicGF0aCI6Ii91LzY5NTMxOSJ9.zZapLrrsaQ_bhjWVpDJ8Z7aPAmermXg6aGxPpNlZeqA&s=72&u=23e9537742f0a255c8f8347e846b02062972d6ed&v=4" width="24" alt="Avatar of pwittchen"/> pwittchen
 			</a><br/>
 			Piotr Wittchen
 		</td>
@@ -7058,7 +7058,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>497</td>
 		<td>
 			<a target="_blank" href="https://github.com/nesbox">
-				<img src="https://private-avatars.githubusercontent.com/u/1101448?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5ODAsIm5iZiI6MTczNDU3Mzc4MCwicGF0aCI6Ii91LzExMDE0NDgifQ.BRCpEIfIA2jIFmgH_t4zZZrv2g3HgbZvCopif_ypEE0&s=72&u=0eca70a6c88f2c8fbfa2cb2fa4e1f19fa1a630e7&v=4" width="24" alt="Avatar of nesbox"/> nesbox
+				<img src="https://private-avatars.githubusercontent.com/u/1101448?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4ODAsIm5iZiI6MTczNDYxMDY4MCwicGF0aCI6Ii91LzExMDE0NDgifQ.JtVJycLRKLFn7it--PC-3UlCoMYSTOyWmkMEPUeSd6U&s=72&u=0eca70a6c88f2c8fbfa2cb2fa4e1f19fa1a630e7&v=4" width="24" alt="Avatar of nesbox"/> nesbox
 			</a><br/>
 			Vadim Grigoruk
 		</td>
@@ -7072,7 +7072,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>498</td>
 		<td>
 			<a target="_blank" href="https://github.com/mkrl">
-				<img src="https://private-avatars.githubusercontent.com/u/18409292?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2MjAsIm5iZiI6MTczNDU3MzQyMCwicGF0aCI6Ii91LzE4NDA5MjkyIn0.fJuja1TqdBpwgRMbmbAMRQIVz4Gbs6u9_6gMDqkHwzg&s=72&u=5afc2cc8301cbd2b23a2f44ca5c1d7ac9520daac&v=4" width="24" alt="Avatar of mkrl"/> mkrl
+				<img src="https://private-avatars.githubusercontent.com/u/18409292?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1MjAsIm5iZiI6MTczNDYxMDMyMCwicGF0aCI6Ii91LzE4NDA5MjkyIn0.WedBVSqy3vx1edsf4xPFSzvtfZkfH94MRM_FqXLExQI&s=72&u=5afc2cc8301cbd2b23a2f44ca5c1d7ac9520daac&v=4" width="24" alt="Avatar of mkrl"/> mkrl
 			</a><br/>
 			Mikhail Korolev
 		</td>
@@ -7086,7 +7086,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>499</td>
 		<td>
 			<a target="_blank" href="https://github.com/divadsn">
-				<img src="https://private-avatars.githubusercontent.com/u/28547847?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUwNDAsIm5iZiI6MTczNDU3Mzg0MCwicGF0aCI6Ii91LzI4NTQ3ODQ3In0.NVi2Jsz5c2XHYp5x-UPtdRfPBUiVYwCKOoEZf95LWZw&s=72&u=e238fcab898a4694a054a582a281904dc9f28f8b&v=4" width="24" alt="Avatar of divadsn"/> divadsn
+				<img src="https://private-avatars.githubusercontent.com/u/28547847?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE5NDAsIm5iZiI6MTczNDYxMDc0MCwicGF0aCI6Ii91LzI4NTQ3ODQ3In0.ZvMQ_sapYfpLJ3w3rTWVvCZxIAwXXlmMk8LglfK4BTQ&s=72&u=e238fcab898a4694a054a582a281904dc9f28f8b&v=4" width="24" alt="Avatar of divadsn"/> divadsn
 			</a><br/>
 			David Sn
 		</td>
@@ -7100,7 +7100,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>500</td>
 		<td>
 			<a target="_blank" href="https://github.com/suchov">
-				<img src="https://private-avatars.githubusercontent.com/u/1478985?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxNjAsIm5iZiI6MTczNDU3Mzk2MCwicGF0aCI6Ii91LzE0Nzg5ODUifQ.tLBItF2ZR6Ovn3HJLq4aw-7TqBhLuwWa5n2sP6XetUs&s=72&u=74b1faf9f7c8a60ffcf8758b2ae564533897be42&v=4" width="24" alt="Avatar of suchov"/> suchov
+				<img src="https://private-avatars.githubusercontent.com/u/1478985?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwNjAsIm5iZiI6MTczNDYxMDg2MCwicGF0aCI6Ii91LzE0Nzg5ODUifQ.Cuq4mbC5kdkeP93MXXSzhBzi1FXeDnzpt9LiKw2-988&s=72&u=74b1faf9f7c8a60ffcf8758b2ae564533897be42&v=4" width="24" alt="Avatar of suchov"/> suchov
 			</a><br/>
 			Artem Sychov
 		</td>
@@ -7114,7 +7114,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>501</td>
 		<td>
 			<a target="_blank" href="https://github.com/bezebee">
-				<img src="https://private-avatars.githubusercontent.com/u/60074948?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU1MjAsIm5iZiI6MTczNDU3NDMyMCwicGF0aCI6Ii91LzYwMDc0OTQ4In0.P3bgfT19Qg09BXOsu68T9FfQja7m1UWdDXf9Z8Ge2gU&s=72&u=0dd99d63b866f661ee36006092addbe3b0cd9377&v=4" width="24" alt="Avatar of bezebee"/> bezebee
+				<img src="https://private-avatars.githubusercontent.com/u/60074948?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTI0MjAsIm5iZiI6MTczNDYxMTIyMCwicGF0aCI6Ii91LzYwMDc0OTQ4In0.jlQC-fATaqVmOkWOMORDr4qpC9Ggf_3-ys8Y4jiZ5Vo&s=72&u=0dd99d63b866f661ee36006092addbe3b0cd9377&v=4" width="24" alt="Avatar of bezebee"/> bezebee
 			</a><br/>
 			Kasia Bogucka
 		</td>
@@ -7128,7 +7128,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>502</td>
 		<td>
 			<a target="_blank" href="https://github.com/syzymon">
-				<img src="https://private-avatars.githubusercontent.com/u/44476995?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91LzQ0NDc2OTk1In0.RqJTuODZFgTpkrVQ3RWOj2zhQ-2MrW5ZAVSZLVxxWh0&s=72&u=d0e11a56afbeeeae7bb55cddd81a3197279494c9&v=4" width="24" alt="Avatar of syzymon"/> syzymon
+				<img src="https://private-avatars.githubusercontent.com/u/44476995?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91LzQ0NDc2OTk1In0.IpP1mcV9jrTRpPso5_KAQEFGfH4K0p3DgX7-XGoIWJY&s=72&u=d0e11a56afbeeeae7bb55cddd81a3197279494c9&v=4" width="24" alt="Avatar of syzymon"/> syzymon
 			</a><br/>
 			Szymon Tworkowski
 		</td>
@@ -7142,7 +7142,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>503</td>
 		<td>
 			<a target="_blank" href="https://github.com/Volmarg">
-				<img src="https://private-avatars.githubusercontent.com/u/37488679?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyMjAsIm5iZiI6MTczNDU3NDAyMCwicGF0aCI6Ii91LzM3NDg4Njc5In0.Lw8wW0PGA5aRpkOzoFZvJenozSfu7k2KVaWB065y81U&s=72&u=2b85367283aff8bc20de19644713ceeb6fd0eba0&v=4" width="24" alt="Avatar of Volmarg"/> Volmarg
+				<img src="https://private-avatars.githubusercontent.com/u/37488679?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxMjAsIm5iZiI6MTczNDYxMDkyMCwicGF0aCI6Ii91LzM3NDg4Njc5In0.eTRUOWCNroWf_y9i0OfQYmaeXiaBgcxwGIePR2BSYQM&s=72&u=2b85367283aff8bc20de19644713ceeb6fd0eba0&v=4" width="24" alt="Avatar of Volmarg"/> Volmarg
 			</a><br/>
 			Dariusz
 		</td>
@@ -7156,7 +7156,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>504</td>
 		<td>
 			<a target="_blank" href="https://github.com/michbur">
-				<img src="https://private-avatars.githubusercontent.com/u/5267317?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2ODAsIm5iZiI6MTczNDU3MzQ4MCwicGF0aCI6Ii91LzUyNjczMTcifQ.1czknUveShXoSuMfvAqIU54jTpdh9sX1Yjw4mFQvIfQ&s=72&u=bd7cdc8c51e23a97d7283acb6693c64fde6ab6a9&v=4" width="24" alt="Avatar of michbur"/> michbur
+				<img src="https://private-avatars.githubusercontent.com/u/5267317?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1ODAsIm5iZiI6MTczNDYxMDM4MCwicGF0aCI6Ii91LzUyNjczMTcifQ.A7MSdd6mOni-cBXk2OrEyOBX6PcMuXMmhewFy_kRwG4&s=72&u=bd7cdc8c51e23a97d7283acb6693c64fde6ab6a9&v=4" width="24" alt="Avatar of michbur"/> michbur
 			</a><br/>
 			Micha Burdukiewicz
 		</td>
@@ -7170,7 +7170,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>505</td>
 		<td>
 			<a target="_blank" href="https://github.com/ayogun">
-				<img src="https://private-avatars.githubusercontent.com/u/62607936?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5ODAsIm5iZiI6MTczNDU3Mzc4MCwicGF0aCI6Ii91LzYyNjA3OTM2In0.ltcawhzCgnW030t21j2lS17yoQLhsDsLW2ocHUxNgf0&s=72&u=c2c66aa6bc80e5159f6c45ec9d907c4f82b8d8f3&v=4" width="24" alt="Avatar of ayogun"/> ayogun
+				<img src="https://private-avatars.githubusercontent.com/u/62607936?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4ODAsIm5iZiI6MTczNDYxMDY4MCwicGF0aCI6Ii91LzYyNjA3OTM2In0.-1YHHk4TavZi5gxaDCAJwImQG6HP8Gr9OsDe2S32J1o&s=72&u=c2c66aa6bc80e5159f6c45ec9d907c4f82b8d8f3&v=4" width="24" alt="Avatar of ayogun"/> ayogun
 			</a><br/>
 			Ali Ogun
 		</td>
@@ -7184,7 +7184,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>506</td>
 		<td>
 			<a target="_blank" href="https://github.com/aniav">
-				<img src="https://private-avatars.githubusercontent.com/u/182546?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxNjAsIm5iZiI6MTczNDU3Mzk2MCwicGF0aCI6Ii91LzE4MjU0NiJ9.sisy-ENzWvcdEBr42GrFxtZ4sFl7wPrdHg_tdRqBAzU&s=72&v=4" width="24" alt="Avatar of aniav"/> aniav
+				<img src="https://private-avatars.githubusercontent.com/u/182546?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwNjAsIm5iZiI6MTczNDYxMDg2MCwicGF0aCI6Ii91LzE4MjU0NiJ9.e1HESdRstQsCnNVBFJIN_2Ze_vfk6CKm0ReutCZD0aA&s=72&v=4" width="24" alt="Avatar of aniav"/> aniav
 			</a><br/>
 			Ania Warzecha
 		</td>
@@ -7198,7 +7198,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>507</td>
 		<td>
 			<a target="_blank" href="https://github.com/retyui">
-				<img src="https://private-avatars.githubusercontent.com/u/4661784?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5ODAsIm5iZiI6MTczNDU3Mzc4MCwicGF0aCI6Ii91LzQ2NjE3ODQifQ.uVGTO0Qmbo1f4sZ48v3_x4YDaG7mOm9YE8aXGXF8Vjs&s=72&v=4" width="24" alt="Avatar of retyui"/> retyui
+				<img src="https://private-avatars.githubusercontent.com/u/4661784?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4ODAsIm5iZiI6MTczNDYxMDY4MCwicGF0aCI6Ii91LzQ2NjE3ODQifQ.MPV9yTH8X_QI1t_Y46rkxVTY24zfLM8fXvdGiuD8N3M&s=72&v=4" width="24" alt="Avatar of retyui"/> retyui
 			</a><br/>
 			Davyd NRB
 		</td>
@@ -7212,7 +7212,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>508</td>
 		<td>
 			<a target="_blank" href="https://github.com/neongreen">
-				<img src="https://private-avatars.githubusercontent.com/u/1523306?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxNjAsIm5iZiI6MTczNDU3Mzk2MCwicGF0aCI6Ii91LzE1MjMzMDYifQ.obnWih-DeghPnJJ11Fpzsm7PqQha6_Cx6dWnyvQXP10&s=72&u=5f293a31f737a8c26614dc8e42af9a09e54fcb47&v=4" width="24" alt="Avatar of neongreen"/> neongreen
+				<img src="https://private-avatars.githubusercontent.com/u/1523306?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwNjAsIm5iZiI6MTczNDYxMDg2MCwicGF0aCI6Ii91LzE1MjMzMDYifQ.-dlswHhjgB1MS17gF1Q-CvGbLyAuHwxqqMUM9lw8yTY&s=72&u=5f293a31f737a8c26614dc8e42af9a09e54fcb47&v=4" width="24" alt="Avatar of neongreen"/> neongreen
 			</a><br/>
 			Emily
 		</td>
@@ -7226,7 +7226,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>509</td>
 		<td>
 			<a target="_blank" href="https://github.com/dziudek">
-				<img src="https://private-avatars.githubusercontent.com/u/22004?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ1MDAsIm5iZiI6MTczNDU3MzMwMCwicGF0aCI6Ii91LzIyMDA0In0.U2AtKZK-jZ_JbZxQGnBxyHi7KigHr2-6C1v3M-F6NT8&s=72&u=c886893370112f3880f23b6913bd5b81522adcc8&v=4" width="24" alt="Avatar of dziudek"/> dziudek
+				<img src="https://private-avatars.githubusercontent.com/u/22004?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE0MDAsIm5iZiI6MTczNDYxMDIwMCwicGF0aCI6Ii91LzIyMDA0In0.LzTQphVt_teDYjcaLRG5BD9y3Ta6cZ21_g4ZGZMmKdw&s=72&u=c886893370112f3880f23b6913bd5b81522adcc8&v=4" width="24" alt="Avatar of dziudek"/> dziudek
 			</a><br/>
 			Tomasz Dziuda
 		</td>
@@ -7240,7 +7240,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>510</td>
 		<td>
 			<a target="_blank" href="https://github.com/tboba">
-				<img src="https://private-avatars.githubusercontent.com/u/23281839?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU1MjAsIm5iZiI6MTczNDU3NDMyMCwicGF0aCI6Ii91LzIzMjgxODM5In0.6Ta8DL2rLQWxPl6PMPZPO4ZqE22O1fU2XE00AWYJtM4&s=72&u=dcacb232fc98c7908dfe4f16ad2713a424b83585&v=4" width="24" alt="Avatar of tboba"/> tboba
+				<img src="https://private-avatars.githubusercontent.com/u/23281839?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1MjAsIm5iZiI6MTczNDYxMDMyMCwicGF0aCI6Ii91LzIzMjgxODM5In0.12pcjg28O6TiqFu2gymbRmRSPjR-VUbLEp1i_kowlB0&s=72&u=dcacb232fc98c7908dfe4f16ad2713a424b83585&v=4" width="24" alt="Avatar of tboba"/> tboba
 			</a><br/>
 			Tymoteusz Boba
 		</td>
@@ -7254,7 +7254,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>511</td>
 		<td>
 			<a target="_blank" href="https://github.com/dweiss">
-				<img src="https://private-avatars.githubusercontent.com/u/199470?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5MjAsIm5iZiI6MTczNDU3MzcyMCwicGF0aCI6Ii91LzE5OTQ3MCJ9.UU4tYULI07q76saT2zX-KkaD96vJg167c29AGLpxWew&s=72&v=4" width="24" alt="Avatar of dweiss"/> dweiss
+				<img src="https://private-avatars.githubusercontent.com/u/199470?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4MjAsIm5iZiI6MTczNDYxMDYyMCwicGF0aCI6Ii91LzE5OTQ3MCJ9.2DIoTY6Bk031UswTvIPEzF4wdOOYmJrh7BIdY7arHbY&s=72&v=4" width="24" alt="Avatar of dweiss"/> dweiss
 			</a><br/>
 			Dawid Weiss
 		</td>
@@ -7268,7 +7268,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>512</td>
 		<td>
 			<a target="_blank" href="https://github.com/BartoszJarocki">
-				<img src="https://private-avatars.githubusercontent.com/u/1017620?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQzODAsIm5iZiI6MTczNDU3MzE4MCwicGF0aCI6Ii91LzEwMTc2MjAifQ.9FdZBQIR2g0u1RXrYuc29EywR2ksGTs7BTXQHuMl1C4&s=72&u=1683b6d937c238b552e4988a6d6a75fe7375410b&v=4" width="24" alt="Avatar of BartoszJarocki"/> BartoszJarocki
+				<img src="https://private-avatars.githubusercontent.com/u/1017620?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTEyODAsIm5iZiI6MTczNDYxMDA4MCwicGF0aCI6Ii91LzEwMTc2MjAifQ.JLDSLdZiQDzhIgEV1XfBfd0jI0Z_WAkSsJk45YbfxrE&s=72&u=1683b6d937c238b552e4988a6d6a75fe7375410b&v=4" width="24" alt="Avatar of BartoszJarocki"/> BartoszJarocki
 			</a><br/>
 			Bartosz Jarocki
 		</td>
@@ -7282,7 +7282,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>513</td>
 		<td>
 			<a target="_blank" href="https://github.com/rsp">
-				<img src="https://private-avatars.githubusercontent.com/u/119231?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2ODAsIm5iZiI6MTczNDU3MzQ4MCwicGF0aCI6Ii91LzExOTIzMSJ9.8yDer7VzBLWFg-L69yoLzLhpYwv5b6Sb8JpRufkkXvE&s=72&u=248b4f39f05f2d2c1794a35f70fd089e551c96ce&v=4" width="24" alt="Avatar of rsp"/> rsp
+				<img src="https://private-avatars.githubusercontent.com/u/119231?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1ODAsIm5iZiI6MTczNDYxMDM4MCwicGF0aCI6Ii91LzExOTIzMSJ9.EBgeHqmHCm6qGlQNYY32ulTPP93JpLbf3TEc3b09MF4&s=72&u=248b4f39f05f2d2c1794a35f70fd089e551c96ce&v=4" width="24" alt="Avatar of rsp"/> rsp
 			</a><br/>
 			Rafa Pocztarski
 		</td>
@@ -7296,7 +7296,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>514</td>
 		<td>
 			<a target="_blank" href="https://github.com/medikoo">
-				<img src="https://private-avatars.githubusercontent.com/u/122434?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQyNjAsIm5iZiI6MTczNDU3MzA2MCwicGF0aCI6Ii91LzEyMjQzNCJ9.e-DsDJbZdqIwXu8cExCFdhgTd7fRYmsyBy0RFxXIgu8&s=72&u=6202deb7a394c25a15b19d420e5ea28914384ec4&v=4" width="24" alt="Avatar of medikoo"/> medikoo
+				<img src="https://private-avatars.githubusercontent.com/u/122434?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTExNjAsIm5iZiI6MTczNDYwOTk2MCwicGF0aCI6Ii91LzEyMjQzNCJ9.0VntHP89-Q4NNCUfVbktLfkiqbnCVj6U1fy1_dbr--0&s=72&u=6202deb7a394c25a15b19d420e5ea28914384ec4&v=4" width="24" alt="Avatar of medikoo"/> medikoo
 			</a><br/>
 			Mariusz Nowak
 		</td>
@@ -7310,7 +7310,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>515</td>
 		<td>
 			<a target="_blank" href="https://github.com/karolpiczak">
-				<img src="https://private-avatars.githubusercontent.com/u/215618?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5ODAsIm5iZiI6MTczNDU3Mzc4MCwicGF0aCI6Ii91LzIxNTYxOCJ9.ey9wk9UAlTCX4C0zLprtU26-B67cf3h6tQLXuY1xDWo&s=72&v=4" width="24" alt="Avatar of karolpiczak"/> karolpiczak
+				<img src="https://private-avatars.githubusercontent.com/u/215618?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4ODAsIm5iZiI6MTczNDYxMDY4MCwicGF0aCI6Ii91LzIxNTYxOCJ9.Mx6RSgGxDWFiqqPtHecRFTScUJOC4xFSc0rScWk0ba4&s=72&v=4" width="24" alt="Avatar of karolpiczak"/> karolpiczak
 			</a><br/>
 			Karol Piczak
 		</td>
@@ -7324,7 +7324,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>516</td>
 		<td>
 			<a target="_blank" href="https://github.com/Jakub-Laska">
-				<img src="https://private-avatars.githubusercontent.com/u/14152026?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2MjAsIm5iZiI6MTczNDU3MzQyMCwicGF0aCI6Ii91LzE0MTUyMDI2In0.n4AaUu1RQ5_r7ZKzfZvBbXUNxGlCHbmIsfyKGA3sPj0&s=72&u=fdc41fb620bc7613284462da08289485feb9ce30&v=4" width="24" alt="Avatar of Jakub-Laska"/> Jakub-Laska
+				<img src="https://private-avatars.githubusercontent.com/u/14152026?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1MjAsIm5iZiI6MTczNDYxMDMyMCwicGF0aCI6Ii91LzE0MTUyMDI2In0.pH4hXpvZIyO18sNaB0ifDnP_2HzbLI_agqXD7nOs1ec&s=72&u=fdc41fb620bc7613284462da08289485feb9ce30&v=4" width="24" alt="Avatar of Jakub-Laska"/> Jakub-Laska
 			</a><br/>
 			Kuba Laska
 		</td>
@@ -7338,7 +7338,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>517</td>
 		<td>
 			<a target="_blank" href="https://github.com/andrew-raphael-lukasik">
-				<img src="https://private-avatars.githubusercontent.com/u/3066539?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU1ODAsIm5iZiI6MTczNDU3NDM4MCwicGF0aCI6Ii91LzMwNjY1MzkifQ.v07a9L5vzl7VOAxpx3qAffZ3FoyEoxTKTBfn1ZzqKrw&s=72&u=7f6efb019732c2f9709fb002a4c8c6aa69e63318&v=4" width="24" alt="Avatar of andrew-raphael-lukasik"/> andrew-raphael-lukasik
+				<img src="https://private-avatars.githubusercontent.com/u/3066539?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTI0ODAsIm5iZiI6MTczNDYxMTI4MCwicGF0aCI6Ii91LzMwNjY1MzkifQ.-5_LibHjKB7w6b8E2m4rthJhdxM7ipPk_eWmwx_uTak&s=72&u=7f6efb019732c2f9709fb002a4c8c6aa69e63318&v=4" width="24" alt="Avatar of andrew-raphael-lukasik"/> andrew-raphael-lukasik
 			</a><br/>
 			Andrew Raphael Lukasik
 		</td>
@@ -7352,7 +7352,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>518</td>
 		<td>
 			<a target="_blank" href="https://github.com/xAranaktu">
-				<img src="https://private-avatars.githubusercontent.com/u/12433069?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5MjAsIm5iZiI6MTczNDU3MzcyMCwicGF0aCI6Ii91LzEyNDMzMDY5In0.U7APlnJ1OA0YpZUvQUO6ptlE7fO2USJ3m7SJjLaA_YY&s=72&u=4eeaafb5e026c32c5947c2f519e50b9445c5d9d6&v=4" width="24" alt="Avatar of xAranaktu"/> xAranaktu
+				<img src="https://private-avatars.githubusercontent.com/u/12433069?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4MjAsIm5iZiI6MTczNDYxMDYyMCwicGF0aCI6Ii91LzEyNDMzMDY5In0.uftSCwwXK81yEq-2UkRE8vHeyyeojPFe77jHD2uJEVI&s=72&u=4eeaafb5e026c32c5947c2f519e50b9445c5d9d6&v=4" width="24" alt="Avatar of xAranaktu"/> xAranaktu
 			</a><br/>
 			Pawe
 		</td>
@@ -7366,7 +7366,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>519</td>
 		<td>
 			<a target="_blank" href="https://github.com/kirillDanshin">
-				<img src="https://private-avatars.githubusercontent.com/u/9026581?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQyNjAsIm5iZiI6MTczNDU3MzA2MCwicGF0aCI6Ii91LzkwMjY1ODEifQ.dmt3hFDaAyVd7Egi4kuqZlq55RpiCEPhSHgXrmhpjTE&s=72&u=59455ec65bd65cad2c1a4f38a53e7df3826176cd&v=4" width="24" alt="Avatar of kirillDanshin"/> kirillDanshin
+				<img src="https://private-avatars.githubusercontent.com/u/9026581?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTExNjAsIm5iZiI6MTczNDYwOTk2MCwicGF0aCI6Ii91LzkwMjY1ODEifQ.lsaYB3vDXalDmlwoVlbEItl2BCaoKcY8GAjNOsBZzio&s=72&u=59455ec65bd65cad2c1a4f38a53e7df3826176cd&v=4" width="24" alt="Avatar of kirillDanshin"/> kirillDanshin
 			</a><br/>
 			Kirill Danshin
 		</td>
@@ -7380,7 +7380,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>520</td>
 		<td>
 			<a target="_blank" href="https://github.com/sergey-tihon">
-				<img src="https://private-avatars.githubusercontent.com/u/1197905?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ1NjAsIm5iZiI6MTczNDU3MzM2MCwicGF0aCI6Ii91LzExOTc5MDUifQ.4hQxQlQac3JLycftv7IcDMPoXfd3-KzLs8qdHNuujZY&s=72&u=c38ab919787195f0f62999693a5a2676de86ea51&v=4" width="24" alt="Avatar of sergey-tihon"/> sergey-tihon
+				<img src="https://private-avatars.githubusercontent.com/u/1197905?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE0NjAsIm5iZiI6MTczNDYxMDI2MCwicGF0aCI6Ii91LzExOTc5MDUifQ.0zszpHB59u4L0vnldVGQuZlQfJLp719s3U9joiZEuQI&s=72&u=c38ab919787195f0f62999693a5a2676de86ea51&v=4" width="24" alt="Avatar of sergey-tihon"/> sergey-tihon
 			</a><br/>
 			Sergey Tihon
 		</td>
@@ -7394,7 +7394,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>521</td>
 		<td>
 			<a target="_blank" href="https://github.com/anvar-muzaffarli">
-				<img src="https://private-avatars.githubusercontent.com/u/76660152?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91Lzc2NjYwMTUyIn0.-f0Z-FEd4Uj3VXPGGdCyP1rX31sdQrJ13yxIqqOWgLA&s=72&u=cecd8c277d5f2605342db4929313cfb1d4af45f0&v=4" width="24" alt="Avatar of anvar-muzaffarli"/> anvar-muzaffarli
+				<img src="https://private-avatars.githubusercontent.com/u/76660152?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91Lzc2NjYwMTUyIn0.wsr5anS9Ke2NEQrkUaslLXZ4l0ElfesG7Af45EL7Hcg&s=72&u=cecd8c277d5f2605342db4929313cfb1d4af45f0&v=4" width="24" alt="Avatar of anvar-muzaffarli"/> anvar-muzaffarli
 			</a><br/>
 			Anvar Khalid
 		</td>
@@ -7408,7 +7408,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>522</td>
 		<td>
 			<a target="_blank" href="https://github.com/danielkasprzak">
-				<img src="https://private-avatars.githubusercontent.com/u/45857590?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ3NDAsIm5iZiI6MTczNDU3MzU0MCwicGF0aCI6Ii91LzQ1ODU3NTkwIn0.Fnw0qzZJ3om9ckaXdpMTwRsR5T_jyPFi-yMqO1SKpo4&s=72&u=0e1babf1105a5c76afa543be349dec7e2a35261c&v=4" width="24" alt="Avatar of danielkasprzak"/> danielkasprzak
+				<img src="https://private-avatars.githubusercontent.com/u/45857590?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE2NDAsIm5iZiI6MTczNDYxMDQ0MCwicGF0aCI6Ii91LzQ1ODU3NTkwIn0.BeT3kLpE0FIBtSaTS_tbzcKb-J8DVIQUb7u8egBqx3U&s=72&u=0e1babf1105a5c76afa543be349dec7e2a35261c&v=4" width="24" alt="Avatar of danielkasprzak"/> danielkasprzak
 			</a><br/>
 			Daniel Kasprzak
 		</td>
@@ -7422,7 +7422,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>523</td>
 		<td>
 			<a target="_blank" href="https://github.com/Daynlight">
-				<img src="https://private-avatars.githubusercontent.com/u/62157770?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5ODAsIm5iZiI6MTczNDU3Mzc4MCwicGF0aCI6Ii91LzYyMTU3NzcwIn0.i0iXRQGH3Mzb6nq36RhwU24zD2asWk-1uHCJc7NRMdw&s=72&u=aba7da3fdcbe1ff434195d4b1dbcbbfe7cab1e0c&v=4" width="24" alt="Avatar of Daynlight"/> Daynlight
+				<img src="https://private-avatars.githubusercontent.com/u/62157770?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4ODAsIm5iZiI6MTczNDYxMDY4MCwicGF0aCI6Ii91LzYyMTU3NzcwIn0._LM7fieE4g2H3QCwb_5nrWHJWVRHneandexILd7SE6s&s=72&u=aba7da3fdcbe1ff434195d4b1dbcbbfe7cab1e0c&v=4" width="24" alt="Avatar of Daynlight"/> Daynlight
 			</a><br/>
 			D A Y N L I G H T
 		</td>
@@ -7435,8 +7435,22 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 	<tr>
 		<td>524</td>
 		<td>
+			<a target="_blank" href="https://github.com/js6pak">
+				<img src="https://private-avatars.githubusercontent.com/u/35262707?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTI0MjAsIm5iZiI6MTczNDYxMTIyMCwicGF0aCI6Ii91LzM1MjYyNzA3In0.Ah4lMxiPZjvdWK_FEMQE0h8ubzgXKmM2zWpwHah1XFE&s=72&u=dc4d3c42ad7764d252e91015108eac6687b9c6e7&v=4" width="24" alt="Avatar of js6pak"/> js6pak
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Poland</td>
+		<td>252</td>
+		<td>259</td>
+	</tr>
+	<tr>
+		<td>525</td>
+		<td>
 			<a target="_blank" href="https://github.com/andrzejsliwa">
-				<img src="https://private-avatars.githubusercontent.com/u/9280?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5ODAsIm5iZiI6MTczNDU3Mzc4MCwicGF0aCI6Ii91LzkyODAifQ.y1N0zCdsIKSqhLfoE0PD-FJIlh8EEDLX8Ju46a9bCHk&s=72&u=7d2cf9900042600063d3e8576c7aae88c9f2495e&v=4" width="24" alt="Avatar of andrzejsliwa"/> andrzejsliwa
+				<img src="https://private-avatars.githubusercontent.com/u/9280?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4ODAsIm5iZiI6MTczNDYxMDY4MCwicGF0aCI6Ii91LzkyODAifQ.cKQ6FnU898PxfzX7vmVUx823_FoWP_997saGtIWj1SQ&s=72&u=7d2cf9900042600063d3e8576c7aae88c9f2495e&v=4" width="24" alt="Avatar of andrzejsliwa"/> andrzejsliwa
 			</a><br/>
 			Andrzej liwa
 		</td>
@@ -7447,10 +7461,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>258</td>
 	</tr>
 	<tr>
-		<td>525</td>
+		<td>526</td>
 		<td>
 			<a target="_blank" href="https://github.com/bmstefanski">
-				<img src="https://private-avatars.githubusercontent.com/u/28964599?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUwNDAsIm5iZiI6MTczNDU3Mzg0MCwicGF0aCI6Ii91LzI4OTY0NTk5In0.ykwnRrwfWsJrDXQ5phL1YxgY4tEdxgbpIMszMOfojf8&s=72&u=9228a088f6f69e575e6a992ce212bdda4bd0751e&v=4" width="24" alt="Avatar of bmstefanski"/> bmstefanski
+				<img src="https://private-avatars.githubusercontent.com/u/28964599?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE5NDAsIm5iZiI6MTczNDYxMDc0MCwicGF0aCI6Ii91LzI4OTY0NTk5In0.MyPPLu6H37d9wHXF2AFAU_tDcuQWacSM4HMMRR7uyjw&s=72&u=9228a088f6f69e575e6a992ce212bdda4bd0751e&v=4" width="24" alt="Avatar of bmstefanski"/> bmstefanski
 			</a><br/>
 			Bart Stefanski
 		</td>
@@ -7461,24 +7475,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>256</td>
 	</tr>
 	<tr>
-		<td>526</td>
-		<td>
-			<a target="_blank" href="https://github.com/js6pak">
-				<img src="https://private-avatars.githubusercontent.com/u/35262707?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU1MjAsIm5iZiI6MTczNDU3NDMyMCwicGF0aCI6Ii91LzM1MjYyNzA3In0.joczSNY4bp2F793Cw5P4ljPYwbNgEldOgjZqCaCFBTY&s=72&u=dc4d3c42ad7764d252e91015108eac6687b9c6e7&v=4" width="24" alt="Avatar of js6pak"/> js6pak
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Poland</td>
-		<td>250</td>
-		<td>256</td>
-	</tr>
-	<tr>
 		<td>527</td>
 		<td>
 			<a target="_blank" href="https://github.com/EgemenErin">
-				<img src="https://private-avatars.githubusercontent.com/u/113554575?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU3MDAsIm5iZiI6MTczNDU3NDUwMCwicGF0aCI6Ii91LzExMzU1NDU3NSJ9.YeU3RMyAli4uSjaOSyiOCv03JTonRXqVfZRS3BTuqjA&s=72&u=3cb48b11a4a607048dee3d5ed4688f700444a4ae&v=4" width="24" alt="Avatar of EgemenErin"/> EgemenErin
+				<img src="https://private-avatars.githubusercontent.com/u/113554575?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTI2MDAsIm5iZiI6MTczNDYxMTQwMCwicGF0aCI6Ii91LzExMzU1NDU3NSJ9.FooOYhxP6z048e3nngyqD3K2ElGOulvm_EB9MLD36zY&s=72&u=3cb48b11a4a607048dee3d5ed4688f700444a4ae&v=4" width="24" alt="Avatar of EgemenErin"/> EgemenErin
 			</a><br/>
 			Egemen Erin
 		</td>
@@ -7492,7 +7492,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>528</td>
 		<td>
 			<a target="_blank" href="https://github.com/SzymonPobiega">
-				<img src="https://private-avatars.githubusercontent.com/u/163318?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU0MDAsIm5iZiI6MTczNDU3NDIwMCwicGF0aCI6Ii91LzE2MzMxOCJ9.njIQb7GiRlQPukRsMeT_ynY7f7yRaSH4LlOCRfgtZqs&s=72&v=4" width="24" alt="Avatar of SzymonPobiega"/> SzymonPobiega
+				<img src="https://private-avatars.githubusercontent.com/u/163318?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIzMDAsIm5iZiI6MTczNDYxMTEwMCwicGF0aCI6Ii91LzE2MzMxOCJ9.GaC04OAEeZTQruEkCNvMW5fQXl6CrqlpKIZTKNQbzio&s=72&v=4" width="24" alt="Avatar of SzymonPobiega"/> SzymonPobiega
 			</a><br/>
 			Szymon Pobiega
 		</td>
@@ -7506,7 +7506,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>529</td>
 		<td>
 			<a target="_blank" href="https://github.com/wojtek-t">
-				<img src="https://private-avatars.githubusercontent.com/u/10743879?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2MjAsIm5iZiI6MTczNDU3MzQyMCwicGF0aCI6Ii91LzEwNzQzODc5In0.rPdciabRlBFqyW6znyODYY2bBzrlMkC1RGn0ss2Ng4w&s=72&u=8993cb01c1cc21f6eae151262cab1ee0ffdf6ab6&v=4" width="24" alt="Avatar of wojtek-t"/> wojtek-t
+				<img src="https://private-avatars.githubusercontent.com/u/10743879?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1MjAsIm5iZiI6MTczNDYxMDMyMCwicGF0aCI6Ii91LzEwNzQzODc5In0.XEjkI_FCLLrsUtvOPT28M0wBt6Ym7V1iy_blx2yOe2E&s=72&u=8993cb01c1cc21f6eae151262cab1ee0ffdf6ab6&v=4" width="24" alt="Avatar of wojtek-t"/> wojtek-t
 			</a><br/>
 			Wojciech Tyczynski
 		</td>
@@ -7520,7 +7520,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>530</td>
 		<td>
 			<a target="_blank" href="https://github.com/PsichiX">
-				<img src="https://private-avatars.githubusercontent.com/u/2111867?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyMjAsIm5iZiI6MTczNDU3NDAyMCwicGF0aCI6Ii91LzIxMTE4NjcifQ.N0nX2g5ntoR40lfc7LUoGYFaI0n6cPfnudKAvPKmqtE&s=72&u=fe20303894b6572c48531b3314a4bbb703d0c779&v=4" width="24" alt="Avatar of PsichiX"/> PsichiX
+				<img src="https://private-avatars.githubusercontent.com/u/2111867?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxMjAsIm5iZiI6MTczNDYxMDkyMCwicGF0aCI6Ii91LzIxMTE4NjcifQ.aKQvxC6mV0f0cemDDuDx94FFf4otXbNqi--KFu_oAKk&s=72&u=fe20303894b6572c48531b3314a4bbb703d0c779&v=4" width="24" alt="Avatar of PsichiX"/> PsichiX
 			</a><br/>
 			Patryk Budzyski
 		</td>
@@ -7534,7 +7534,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>531</td>
 		<td>
 			<a target="_blank" href="https://github.com/pxtrez">
-				<img src="https://private-avatars.githubusercontent.com/u/79142358?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4NjAsIm5iZiI6MTczNDU3MzY2MCwicGF0aCI6Ii91Lzc5MTQyMzU4In0.Q4EQWPDnvuAatg_ykihiSq-qArpI7P4JXed8lLP_Dxo&s=72&u=2bc8587b7ec317592ff20f98951f129a06a656d8&v=4" width="24" alt="Avatar of pxtrez"/> pxtrez
+				<img src="https://private-avatars.githubusercontent.com/u/79142358?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3NjAsIm5iZiI6MTczNDYxMDU2MCwicGF0aCI6Ii91Lzc5MTQyMzU4In0.wb150J5B5hBJt5tG-iPGW2IJecR5yQLSVJTg9TEAT94&s=72&u=2bc8587b7ec317592ff20f98951f129a06a656d8&v=4" width="24" alt="Avatar of pxtrez"/> pxtrez
 			</a><br/>
 			Piotr
 		</td>
@@ -7548,7 +7548,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>532</td>
 		<td>
 			<a target="_blank" href="https://github.com/mbiesiad">
-				<img src="https://private-avatars.githubusercontent.com/u/18367606?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU1ODAsIm5iZiI6MTczNDU3NDM4MCwicGF0aCI6Ii91LzE4MzY3NjA2In0.l4P3kyTSy_tjmiNtExdr1kdCE2SfnIic9Elq2pm_Z24&s=72&u=211a5f850d9947917c63b53e5e63f2257ea6bd3d&v=4" width="24" alt="Avatar of mbiesiad"/> mbiesiad
+				<img src="https://private-avatars.githubusercontent.com/u/18367606?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTI0ODAsIm5iZiI6MTczNDYxMTI4MCwicGF0aCI6Ii91LzE4MzY3NjA2In0.jmrihiOTDrKuwXRn3KI8_nVvCDPRlcRIdx6m3uUatfE&s=72&u=211a5f850d9947917c63b53e5e63f2257ea6bd3d&v=4" width="24" alt="Avatar of mbiesiad"/> mbiesiad
 			</a><br/>
 			Michal
 		</td>
@@ -7562,7 +7562,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>533</td>
 		<td>
 			<a target="_blank" href="https://github.com/pacarti">
-				<img src="https://private-avatars.githubusercontent.com/u/59978338?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4NjAsIm5iZiI6MTczNDU3MzY2MCwicGF0aCI6Ii91LzU5OTc4MzM4In0.wNSn34OGPQhy9mItveoPT4q0d3GlQ2CwRyeUX4KiaH0&s=72&u=df034b5aa8690f5ffffbd36b487f5038f8b14aea&v=4" width="24" alt="Avatar of pacarti"/> pacarti
+				<img src="https://private-avatars.githubusercontent.com/u/59978338?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3NjAsIm5iZiI6MTczNDYxMDU2MCwicGF0aCI6Ii91LzU5OTc4MzM4In0.MnJ8H8Dqj-sLM0bY9GJe50ZrrmASS8lclFn42aDF9No&s=72&u=df034b5aa8690f5ffffbd36b487f5038f8b14aea&v=4" width="24" alt="Avatar of pacarti"/> pacarti
 			</a><br/>
 			Artur Paciorkowski
 		</td>
@@ -7576,7 +7576,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>534</td>
 		<td>
 			<a target="_blank" href="https://github.com/drknzz">
-				<img src="https://private-avatars.githubusercontent.com/u/65187002?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxNjAsIm5iZiI6MTczNDU3Mzk2MCwicGF0aCI6Ii91LzY1MTg3MDAyIn0._a93u6gDI2do6r0bgbILvPTdE6j4ZdaDdXPdPfBsMEA&s=72&u=780305980203e524149a7250c11f0b845dfc7374&v=4" width="24" alt="Avatar of drknzz"/> drknzz
+				<img src="https://private-avatars.githubusercontent.com/u/65187002?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwNjAsIm5iZiI6MTczNDYxMDg2MCwicGF0aCI6Ii91LzY1MTg3MDAyIn0.g34ML_rOhHsAWqXcVgkf2OxNpxdywTO3LlCidIJteEo&s=72&u=780305980203e524149a7250c11f0b845dfc7374&v=4" width="24" alt="Avatar of drknzz"/> drknzz
 			</a><br/>
 			Kamil Jankowski
 		</td>
@@ -7590,7 +7590,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>535</td>
 		<td>
 			<a target="_blank" href="https://github.com/thymikee">
-				<img src="https://private-avatars.githubusercontent.com/u/5106466?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQzMjAsIm5iZiI6MTczNDU3MzEyMCwicGF0aCI6Ii91LzUxMDY0NjYifQ.PYRS-g4z1lZHhQXzOkUfIzflcqO_TcsCxgX58_FXRhY&s=72&u=e04fa087efc1c378afce5e5246d39d4f3ecfe49d&v=4" width="24" alt="Avatar of thymikee"/> thymikee
+				<img src="https://private-avatars.githubusercontent.com/u/5106466?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTEyMjAsIm5iZiI6MTczNDYxMDAyMCwicGF0aCI6Ii91LzUxMDY0NjYifQ.QbwFFIJ3TZRz_ey8GzkYnsU_dbLqaeOrC_VEJVcuwTo&s=72&u=e04fa087efc1c378afce5e5246d39d4f3ecfe49d&v=4" width="24" alt="Avatar of thymikee"/> thymikee
 			</a><br/>
 			Micha Pierzchaa
 		</td>
@@ -7604,7 +7604,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>536</td>
 		<td>
 			<a target="_blank" href="https://github.com/rasom">
-				<img src="https://private-avatars.githubusercontent.com/u/2364994?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ3NDAsIm5iZiI6MTczNDU3MzU0MCwicGF0aCI6Ii91LzIzNjQ5OTQifQ.zOB7S5yym-ecT_thVXB2HtAJr8PaZzZrmiW5gUN6UvA&s=72&u=3add0350753274731cced1cf6316edfc291d0bca&v=4" width="24" alt="Avatar of rasom"/> rasom
+				<img src="https://private-avatars.githubusercontent.com/u/2364994?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE2NDAsIm5iZiI6MTczNDYxMDQ0MCwicGF0aCI6Ii91LzIzNjQ5OTQifQ._vKt-K4Em7yqM6bQ5BsPyh8kFQ2exapgIBfM0gFzamQ&s=72&u=3add0350753274731cced1cf6316edfc291d0bca&v=4" width="24" alt="Avatar of rasom"/> rasom
 			</a><br/>
 			Roman Volosovskyi
 		</td>
@@ -7618,7 +7618,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>537</td>
 		<td>
 			<a target="_blank" href="https://github.com/Wieku">
-				<img src="https://private-avatars.githubusercontent.com/u/5307179?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5MjAsIm5iZiI6MTczNDU3MzcyMCwicGF0aCI6Ii91LzUzMDcxNzkifQ.JlayQO7M11B9dmUsJpb8f-HHtCQ46AosV1f5xhdI8DA&s=72&u=a42fd24cfe0dee93c0b35eb6658d6e828c8ed9d9&v=4" width="24" alt="Avatar of Wieku"/> Wieku
+				<img src="https://private-avatars.githubusercontent.com/u/5307179?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4MjAsIm5iZiI6MTczNDYxMDYyMCwicGF0aCI6Ii91LzUzMDcxNzkifQ.AEapLMepBaV5rQrcZBs108q1NeElbcRIqqRwkkgxqCs&s=72&u=a42fd24cfe0dee93c0b35eb6658d6e828c8ed9d9&v=4" width="24" alt="Avatar of Wieku"/> Wieku
 			</a><br/>
 			Sebastian Krajewski
 		</td>
@@ -7632,7 +7632,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>538</td>
 		<td>
 			<a target="_blank" href="https://github.com/phaux">
-				<img src="https://private-avatars.githubusercontent.com/u/1270987?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91LzEyNzA5ODcifQ.mN2xkhTW1myck98d28jbKEeNF6ZRPoMTH6VIj_rhWH8&s=72&u=b26c5491ed1d8287d16ff42f4d93f54a8be48295&v=4" width="24" alt="Avatar of phaux"/> phaux
+				<img src="https://private-avatars.githubusercontent.com/u/1270987?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91LzEyNzA5ODcifQ.vKa0Mryxnr4zchuYMhuf6Ta00Uj_zEz-r7ixjvwiwm4&s=72&u=b26c5491ed1d8287d16ff42f4d93f54a8be48295&v=4" width="24" alt="Avatar of phaux"/> phaux
 			</a><br/>
 			Nikita
 		</td>
@@ -7646,7 +7646,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>539</td>
 		<td>
 			<a target="_blank" href="https://github.com/XaFF-XaFF">
-				<img src="https://private-avatars.githubusercontent.com/u/40365455?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4NjAsIm5iZiI6MTczNDU3MzY2MCwicGF0aCI6Ii91LzQwMzY1NDU1In0.UtFx5pghfqAQ-HzAHP9SWGJgKEmCqg78leh3_HhsOSQ&s=72&u=c7efe3ed6a1390ffa7a1612034f3cf3fc4429281&v=4" width="24" alt="Avatar of XaFF-XaFF"/> XaFF-XaFF
+				<img src="https://private-avatars.githubusercontent.com/u/40365455?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3NjAsIm5iZiI6MTczNDYxMDU2MCwicGF0aCI6Ii91LzQwMzY1NDU1In0.TFKWKyHbaGFwIwwq-n8WBCBzhcAFkGeyeCGVOUDrD4I&s=72&u=c7efe3ed6a1390ffa7a1612034f3cf3fc4429281&v=4" width="24" alt="Avatar of XaFF-XaFF"/> XaFF-XaFF
 			</a><br/>
 			XaFF
 		</td>
@@ -7660,7 +7660,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>540</td>
 		<td>
 			<a target="_blank" href="https://github.com/bananu7">
-				<img src="https://private-avatars.githubusercontent.com/u/2399997?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUwNDAsIm5iZiI6MTczNDU3Mzg0MCwicGF0aCI6Ii91LzIzOTk5OTcifQ.WCsOB1dbK-puwRCpgVI2Ru8MGnbR1OhVW8b4ki3ni5U&s=72&u=75e6cb80774d900147d0ca06dec8578b17dc46b8&v=4" width="24" alt="Avatar of bananu7"/> bananu7
+				<img src="https://private-avatars.githubusercontent.com/u/2399997?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE5NDAsIm5iZiI6MTczNDYxMDc0MCwicGF0aCI6Ii91LzIzOTk5OTcifQ.mvbgw88dwLq4Fw9Q3mNqvLsyJ0ISZwKyNfYdmj3Nlgs&s=72&u=75e6cb80774d900147d0ca06dec8578b17dc46b8&v=4" width="24" alt="Avatar of bananu7"/> bananu7
 			</a><br/>
 			Bartek Banachewicz
 		</td>
@@ -7674,21 +7674,21 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>541</td>
 		<td>
 			<a target="_blank" href="https://github.com/tomekl007">
-				<img src="https://private-avatars.githubusercontent.com/u/2332235?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ1NjAsIm5iZiI6MTczNDU3MzM2MCwicGF0aCI6Ii91LzIzMzIyMzUifQ.uvseitWkDrnvNwS8lX345ITt14gq57L1acVCK-pC5Cg&s=72&u=b0b45b0d5fc66ffde0d5f973c5d49e130a84aa88&v=4" width="24" alt="Avatar of tomekl007"/> tomekl007
+				<img src="https://private-avatars.githubusercontent.com/u/2332235?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE0NjAsIm5iZiI6MTczNDYxMDI2MCwicGF0aCI6Ii91LzIzMzIyMzUifQ.XXc-7n3BCEuAhIVY2dzPsSwpPl1SadNp6C0rMR2yGuY&s=72&u=b0b45b0d5fc66ffde0d5f973c5d49e130a84aa88&v=4" width="24" alt="Avatar of tomekl007"/> tomekl007
 			</a><br/>
 			Tomasz Lelek
 		</td>
 		<td>@dremio </td>
 		<td><a target="_blank" href="https://twitter.com/tomekl007">tomekl007</a></td>
 		<td>Poland</td>
-		<td>43</td>
+		<td>42</td>
 		<td>217</td>
 	</tr>
 	<tr>
 		<td>542</td>
 		<td>
 			<a target="_blank" href="https://github.com/PeterPorzuczek">
-				<img src="https://private-avatars.githubusercontent.com/u/24259570?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyMjAsIm5iZiI6MTczNDU3NDAyMCwicGF0aCI6Ii91LzI0MjU5NTcwIn0.u8wqWLUeQRALXn9lX9PMW0PBa4D08Pj7S5BqWLv21eI&s=72&u=fdc89134e33cd354852282a8b21b4859ba19d151&v=4" width="24" alt="Avatar of PeterPorzuczek"/> PeterPorzuczek
+				<img src="https://private-avatars.githubusercontent.com/u/24259570?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxMjAsIm5iZiI6MTczNDYxMDkyMCwicGF0aCI6Ii91LzI0MjU5NTcwIn0.-ajc9S_X2biLY4bEXZfSt1sB37cexz1Gwysf1f6vHwo&s=72&u=fdc89134e33cd354852282a8b21b4859ba19d151&v=4" width="24" alt="Avatar of PeterPorzuczek"/> PeterPorzuczek
 			</a><br/>
 			Piotr Porzuczek
 		</td>
@@ -7702,7 +7702,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>543</td>
 		<td>
 			<a target="_blank" href="https://github.com/pkolaczk">
-				<img src="https://private-avatars.githubusercontent.com/u/1352795?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ1MDAsIm5iZiI6MTczNDU3MzMwMCwicGF0aCI6Ii91LzEzNTI3OTUifQ.XW4WjJHjvm2Ev992DTXgq-hghQLMe7kBORGRR3znnF4&s=72&v=4" width="24" alt="Avatar of pkolaczk"/> pkolaczk
+				<img src="https://private-avatars.githubusercontent.com/u/1352795?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE0MDAsIm5iZiI6MTczNDYxMDIwMCwicGF0aCI6Ii91LzEzNTI3OTUifQ.cfTYSmoGBBQsjrTtBp_0dQwthuGK5GYb4KlpPE79w60&s=72&v=4" width="24" alt="Avatar of pkolaczk"/> pkolaczk
 			</a><br/>
 			Piotr Koaczkowski
 		</td>
@@ -7716,7 +7716,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>544</td>
 		<td>
 			<a target="_blank" href="https://github.com/chegewara">
-				<img src="https://private-avatars.githubusercontent.com/u/1406020?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxMDAsIm5iZiI6MTczNDU3MzkwMCwicGF0aCI6Ii91LzE0MDYwMjAifQ.xbbzcGzDTMsgy-D-xOOi-P4twAIbu7I7PUprvztPTAk&s=72&v=4" width="24" alt="Avatar of chegewara"/> chegewara
+				<img src="https://private-avatars.githubusercontent.com/u/1406020?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwMDAsIm5iZiI6MTczNDYxMDgwMCwicGF0aCI6Ii91LzE0MDYwMjAifQ.BzW8IDXGzA6lGlJHTiMkdXbPRSftpvKeaa2qlXVqqiU&s=72&v=4" width="24" alt="Avatar of chegewara"/> chegewara
 			</a><br/>
 			No Name
 		</td>
@@ -7730,7 +7730,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>545</td>
 		<td>
 			<a target="_blank" href="https://github.com/pbrudny">
-				<img src="https://private-avatars.githubusercontent.com/u/29052?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU1MjAsIm5iZiI6MTczNDU3NDMyMCwicGF0aCI6Ii91LzI5MDUyIn0.APmo3jQHZ66TFGLR3RFNJDO3XDYT9FNaqkNhIMnnqP8&s=72&u=739e09e57fbbd21d5f125534fd0d27b726b7168a&v=4" width="24" alt="Avatar of pbrudny"/> pbrudny
+				<img src="https://private-avatars.githubusercontent.com/u/29052?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTI0MjAsIm5iZiI6MTczNDYxMTIyMCwicGF0aCI6Ii91LzI5MDUyIn0.7HApxiGfJYSn7QneKxYqCjIi5ERFJGVPcE4ufl7C5lo&s=72&u=739e09e57fbbd21d5f125534fd0d27b726b7168a&v=4" width="24" alt="Avatar of pbrudny"/> pbrudny
 			</a><br/>
 			Piotr Brudny
 		</td>
@@ -7744,7 +7744,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>546</td>
 		<td>
 			<a target="_blank" href="https://github.com/fleurdelune7">
-				<img src="https://private-avatars.githubusercontent.com/u/73917725?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5ODAsIm5iZiI6MTczNDU3Mzc4MCwicGF0aCI6Ii91LzczOTE3NzI1In0.b0awORVvWLFNZEp2oYLi3XGIKGNCOCwpCWgs8StNNa4&s=72&u=0f1cc29bc242e5f0f8f49b0801db49abeb0a52e9&v=4" width="24" alt="Avatar of fleurdelune7"/> fleurdelune7
+				<img src="https://private-avatars.githubusercontent.com/u/73917725?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4ODAsIm5iZiI6MTczNDYxMDY4MCwicGF0aCI6Ii91LzczOTE3NzI1In0.rpNppc3I9KZpp8WuQ4WoyTMJ6xhQD28My_05iSHO_8Y&s=72&u=0f1cc29bc242e5f0f8f49b0801db49abeb0a52e9&v=4" width="24" alt="Avatar of fleurdelune7"/> fleurdelune7
 			</a><br/>
 			Mehmet Arda Anket
 		</td>
@@ -7758,7 +7758,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>547</td>
 		<td>
 			<a target="_blank" href="https://github.com/bartosz-io">
-				<img src="https://private-avatars.githubusercontent.com/u/8076187?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUzNDAsIm5iZiI6MTczNDU3NDE0MCwicGF0aCI6Ii91LzgwNzYxODcifQ.xXHR9cOhGaWBlFmjA0Z_qZilh7b5jSlV07whs_IrVAg&s=72&u=651198f7bbf5c4674652d13d4651cdcba13e4b05&v=4" width="24" alt="Avatar of bartosz-io"/> bartosz-io
+				<img src="https://private-avatars.githubusercontent.com/u/8076187?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIyNDAsIm5iZiI6MTczNDYxMTA0MCwicGF0aCI6Ii91LzgwNzYxODcifQ.DA36z87l3XmHb83V2mBeWlypqfZxyv7XUOW39rXQ2Y8&s=72&u=651198f7bbf5c4674652d13d4651cdcba13e4b05&v=4" width="24" alt="Avatar of bartosz-io"/> bartosz-io
 			</a><br/>
 			Bartosz Pietrucha
 		</td>
@@ -7772,7 +7772,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>548</td>
 		<td>
 			<a target="_blank" href="https://github.com/end3r">
-				<img src="https://private-avatars.githubusercontent.com/u/373344?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5ODAsIm5iZiI6MTczNDU3Mzc4MCwicGF0aCI6Ii91LzM3MzM0NCJ9.xZifqQPlxeifmyRaMHa7_OS88usQdwY4oPqULgxxrVM&s=72&u=29727b1464e5fd4bdfed58f897296603a3c7ec63&v=4" width="24" alt="Avatar of end3r"/> end3r
+				<img src="https://private-avatars.githubusercontent.com/u/373344?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4ODAsIm5iZiI6MTczNDYxMDY4MCwicGF0aCI6Ii91LzM3MzM0NCJ9.H1i71P5qnC_Hee1tVH8L7Avzp2mHXizChkl8Cr6G4LY&s=72&u=29727b1464e5fd4bdfed58f897296603a3c7ec63&v=4" width="24" alt="Avatar of end3r"/> end3r
 			</a><br/>
 			Andrzej Mazur
 		</td>
@@ -7786,7 +7786,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>549</td>
 		<td>
 			<a target="_blank" href="https://github.com/crimanvel">
-				<img src="https://private-avatars.githubusercontent.com/u/114362818?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4NjAsIm5iZiI6MTczNDU3MzY2MCwicGF0aCI6Ii91LzExNDM2MjgxOCJ9.15g3ZXLW1cY9_mDKnAcsSaoN14hmBzmb3jh_zFTkKAs&s=72&u=c72a6a17594cd5044c74c3f8dd497d118cec34fc&v=4" width="24" alt="Avatar of crimanvel"/> crimanvel
+				<img src="https://private-avatars.githubusercontent.com/u/114362818?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3NjAsIm5iZiI6MTczNDYxMDU2MCwicGF0aCI6Ii91LzExNDM2MjgxOCJ9._X9BhtMMKk2Z3gfkrCiPJM5zhPD07gunUE7Q2sy-5wQ&s=72&u=c72a6a17594cd5044c74c3f8dd497d118cec34fc&v=4" width="24" alt="Avatar of crimanvel"/> crimanvel
 			</a><br/>
 			Cristian Manuel Veliz Manu Dev
 		</td>
@@ -7800,7 +7800,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>550</td>
 		<td>
 			<a target="_blank" href="https://github.com/mkawalec">
-				<img src="https://private-avatars.githubusercontent.com/u/496144?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2MjAsIm5iZiI6MTczNDU3MzQyMCwicGF0aCI6Ii91LzQ5NjE0NCJ9.sC6ME7maZgxsLeyRGFxb76hkwkRCB8qwpB7MflSSvyY&s=72&u=57cbdc023d2fbf860d4ce5b8c9ce705b1da4c00a&v=4" width="24" alt="Avatar of mkawalec"/> mkawalec
+				<img src="https://private-avatars.githubusercontent.com/u/496144?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1MjAsIm5iZiI6MTczNDYxMDMyMCwicGF0aCI6Ii91LzQ5NjE0NCJ9.-oXke9gHp7BsRRayra1EdA5pzyw2fXIkQ9RH8jn3EmQ&s=72&u=57cbdc023d2fbf860d4ce5b8c9ce705b1da4c00a&v=4" width="24" alt="Avatar of mkawalec"/> mkawalec
 			</a><br/>
 			Michal Kawalec
 		</td>
@@ -7813,8 +7813,22 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 	<tr>
 		<td>551</td>
 		<td>
+			<a target="_blank" href="https://github.com/angrymouse">
+				<img src="https://private-avatars.githubusercontent.com/u/40735471?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwNjAsIm5iZiI6MTczNDYxMDg2MCwicGF0aCI6Ii91LzQwNzM1NDcxIn0.WVPn8Q5Gk8fzGuEZewvrjGy_C2MN9Hg8f__ArcJQwRo&s=72&u=86ac590420571a5655b7bd48376ff3d741bca3dd&v=4" width="24" alt="Avatar of angrymouse"/> angrymouse
+			</a><br/>
+			Mykyta Rykov
+		</td>
+		<td>Decentralized Society </td>
+		<td><a target="_blank" href="https://twitter.com/angrymouse_hns">angrymouse_hns</a></td>
+		<td>Poland formerly Ukraine Kharkiv</td>
+		<td>160</td>
+		<td>198</td>
+	</tr>
+	<tr>
+		<td>552</td>
+		<td>
 			<a target="_blank" href="https://github.com/gkasprow">
-				<img src="https://private-avatars.githubusercontent.com/u/4325054?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU1MjAsIm5iZiI6MTczNDU3NDMyMCwicGF0aCI6Ii91LzQzMjUwNTQifQ.ECUN96VDBfvsYAYy5ws6mvavK_MiQXdffqYkLyNs0qs&s=72&u=4512a388138687bbc702de0d524ce5c6740d21dc&v=4" width="24" alt="Avatar of gkasprow"/> gkasprow
+				<img src="https://private-avatars.githubusercontent.com/u/4325054?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTI0MjAsIm5iZiI6MTczNDYxMTIyMCwicGF0aCI6Ii91LzQzMjUwNTQifQ.TLHMYVwZ5qXQomR231KmTmbzYpRaApDPi6byAWsGpLc&s=72&u=4512a388138687bbc702de0d524ce5c6740d21dc&v=4" width="24" alt="Avatar of gkasprow"/> gkasprow
 			</a><br/>
 			Greg Kasprowicz
 		</td>
@@ -7825,10 +7839,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>198</td>
 	</tr>
 	<tr>
-		<td>552</td>
+		<td>553</td>
 		<td>
 			<a target="_blank" href="https://github.com/Valian">
-				<img src="https://private-avatars.githubusercontent.com/u/3935986?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5ODAsIm5iZiI6MTczNDU3Mzc4MCwicGF0aCI6Ii91LzM5MzU5ODYifQ.B67yfpw-Zdu-G1Lr2fw1jg-cDM-IM0GG5g3VSPwhFjQ&s=72&u=bd5de272ed3df5037992dd9ce32c3f0865aed937&v=4" width="24" alt="Avatar of Valian"/> Valian
+				<img src="https://private-avatars.githubusercontent.com/u/3935986?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4ODAsIm5iZiI6MTczNDYxMDY4MCwicGF0aCI6Ii91LzM5MzU5ODYifQ.pcpleuiuTpVUx9XLbj8BtU9C3AG-_3ootuHqtyO7BPo&s=72&u=bd5de272ed3df5037992dd9ce32c3f0865aed937&v=4" width="24" alt="Avatar of Valian"/> Valian
 			</a><br/>
 			Jakub Skaecki
 		</td>
@@ -7839,24 +7853,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>197</td>
 	</tr>
 	<tr>
-		<td>553</td>
-		<td>
-			<a target="_blank" href="https://github.com/angrymouse">
-				<img src="https://private-avatars.githubusercontent.com/u/40735471?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxNjAsIm5iZiI6MTczNDU3Mzk2MCwicGF0aCI6Ii91LzQwNzM1NDcxIn0.yHbKo6AlH2XtopZFRQOOCg6ie81TegaU1JjbMYXMGws&s=72&u=86ac590420571a5655b7bd48376ff3d741bca3dd&v=4" width="24" alt="Avatar of angrymouse"/> angrymouse
-			</a><br/>
-			Mykyta Rykov
-		</td>
-		<td>Decentralized Society </td>
-		<td><a target="_blank" href="https://twitter.com/angrymouse_hns">angrymouse_hns</a></td>
-		<td>Poland formerly Ukraine Kharkiv</td>
-		<td>160</td>
-		<td>195</td>
-	</tr>
-	<tr>
 		<td>554</td>
 		<td>
 			<a target="_blank" href="https://github.com/SpacingBat3">
-				<img src="https://private-avatars.githubusercontent.com/u/57194920?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5MjAsIm5iZiI6MTczNDU3MzcyMCwicGF0aCI6Ii91LzU3MTk0OTIwIn0.i9wM8fM9RyxeSCVsXCrv3YNCMH1EKGPVXC76Lv4bfdg&s=72&v=4" width="24" alt="Avatar of SpacingBat3"/> SpacingBat3
+				<img src="https://private-avatars.githubusercontent.com/u/57194920?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4MjAsIm5iZiI6MTczNDYxMDYyMCwicGF0aCI6Ii91LzU3MTk0OTIwIn0.PWxIYCcBrfW9AEI1_Xhnw-xb2skJ-EB-2QujkN6Ishk&s=72&v=4" width="24" alt="Avatar of SpacingBat3"/> SpacingBat3
 			</a><br/>
 			No Name
 		</td>
@@ -7870,7 +7870,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>555</td>
 		<td>
 			<a target="_blank" href="https://github.com/ayufan">
-				<img src="https://private-avatars.githubusercontent.com/u/2419009?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ3NDAsIm5iZiI6MTczNDU3MzU0MCwicGF0aCI6Ii91LzI0MTkwMDkifQ.dlQieSxmx2TRhTiXzjZDSUi_06IpjUOH6FlutTqwq2A&s=72&u=ecea20fdf1c9b3581ff5cc4a26039f024af7a7de&v=4" width="24" alt="Avatar of ayufan"/> ayufan
+				<img src="https://private-avatars.githubusercontent.com/u/2419009?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE2NDAsIm5iZiI6MTczNDYxMDQ0MCwicGF0aCI6Ii91LzI0MTkwMDkifQ.XZI3ILXZEpdk17WBykbLJ85xyKfH3SwGFj0Be20JzXc&s=72&u=ecea20fdf1c9b3581ff5cc4a26039f024af7a7de&v=4" width="24" alt="Avatar of ayufan"/> ayufan
 			</a><br/>
 			Kamil Trzciski
 		</td>
@@ -7884,7 +7884,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>556</td>
 		<td>
 			<a target="_blank" href="https://github.com/ludwiktrammer">
-				<img src="https://private-avatars.githubusercontent.com/u/5337669?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91LzUzMzc2NjkifQ.kJRXKKb4IDDn6vL2xfLQ0FENjGT87by-5SFPD_YZKWc&s=72&v=4" width="24" alt="Avatar of ludwiktrammer"/> ludwiktrammer
+				<img src="https://private-avatars.githubusercontent.com/u/5337669?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91LzUzMzc2NjkifQ.mVlZgJ_bsK-JIqXGVYGUoU99mVB_HgYqiyhAxXM-FhA&s=72&v=4" width="24" alt="Avatar of ludwiktrammer"/> ludwiktrammer
 			</a><br/>
 			Ludwik Trammer
 		</td>
@@ -7898,7 +7898,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>557</td>
 		<td>
 			<a target="_blank" href="https://github.com/lukewalczak">
-				<img src="https://private-avatars.githubusercontent.com/u/22746080?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyMjAsIm5iZiI6MTczNDU3NDAyMCwicGF0aCI6Ii91LzIyNzQ2MDgwIn0.q51G1NIgKkROiFu0pWLAiM4zHRk-wqt3w5oY0-wAlwk&s=72&u=28d28a09397f40803c2b76710155ed534330c59c&v=4" width="24" alt="Avatar of lukewalczak"/> lukewalczak
+				<img src="https://private-avatars.githubusercontent.com/u/22746080?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxMjAsIm5iZiI6MTczNDYxMDkyMCwicGF0aCI6Ii91LzIyNzQ2MDgwIn0.9-cSLVsj19JTBBkvnxDrLT9oI79NS2jdQz0sCfkvjWE&s=72&u=28d28a09397f40803c2b76710155ed534330c59c&v=4" width="24" alt="Avatar of lukewalczak"/> lukewalczak
 			</a><br/>
 			Luke Walczak
 		</td>
@@ -7912,7 +7912,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>558</td>
 		<td>
 			<a target="_blank" href="https://github.com/vi">
-				<img src="https://private-avatars.githubusercontent.com/u/173219?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ0NDAsIm5iZiI6MTczNDU3MzI0MCwicGF0aCI6Ii91LzE3MzIxOSJ9.sMXrf1KVgcNEFAwEplajCglrtmJNbMrgQvIZjoKrDBQ&s=72&v=4" width="24" alt="Avatar of vi"/> vi
+				<img src="https://private-avatars.githubusercontent.com/u/173219?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTEzNDAsIm5iZiI6MTczNDYxMDE0MCwicGF0aCI6Ii91LzE3MzIxOSJ9.DXP9DY51qp9UsKG8BfikhCDwI77XHZy5m-g_yMRi6QE&s=72&v=4" width="24" alt="Avatar of vi"/> vi
 			</a><br/>
 			Vitaly Shukela
 		</td>
@@ -7926,7 +7926,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>559</td>
 		<td>
 			<a target="_blank" href="https://github.com/Polprzewodnikowy">
-				<img src="https://private-avatars.githubusercontent.com/u/3756990?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxMDAsIm5iZiI6MTczNDU3MzkwMCwicGF0aCI6Ii91LzM3NTY5OTAifQ.AJ3QP8OAdsYyzwWxrGyl81QN8gvnJvI-tUSiqBdlRvg&s=72&u=9f1e99622f1ced91fd798a6f714c8a6589648748&v=4" width="24" alt="Avatar of Polprzewodnikowy"/> Polprzewodnikowy
+				<img src="https://private-avatars.githubusercontent.com/u/3756990?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwMDAsIm5iZiI6MTczNDYxMDgwMCwicGF0aCI6Ii91LzM3NTY5OTAifQ.K_UOqV4YF5KhTtfK8TllNJYWn2KPi0TuOP0zxvvNYdk&s=72&u=9f1e99622f1ced91fd798a6f714c8a6589648748&v=4" width="24" alt="Avatar of Polprzewodnikowy"/> Polprzewodnikowy
 			</a><br/>
 			Mateusz Faderewski
 		</td>
@@ -7940,7 +7940,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>560</td>
 		<td>
 			<a target="_blank" href="https://github.com/filimonov">
-				<img src="https://private-avatars.githubusercontent.com/u/1549571?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU0NjAsIm5iZiI6MTczNDU3NDI2MCwicGF0aCI6Ii91LzE1NDk1NzEifQ.1STlFB4_1FCLLdyEovDdEsPOOWIm3HVEQNpJhjRWsRY&s=72&v=4" width="24" alt="Avatar of filimonov"/> filimonov
+				<img src="https://private-avatars.githubusercontent.com/u/1549571?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIzNjAsIm5iZiI6MTczNDYxMTE2MCwicGF0aCI6Ii91LzE1NDk1NzEifQ.8DihAv6Jre9CH374SeHxBQBWFixxAF_EMLScxHE2fWw&s=72&v=4" width="24" alt="Avatar of filimonov"/> filimonov
 			</a><br/>
 			filimonov
 		</td>
@@ -7954,7 +7954,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>561</td>
 		<td>
 			<a target="_blank" href="https://github.com/xnetcat">
-				<img src="https://private-avatars.githubusercontent.com/u/42355410?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU1MjAsIm5iZiI6MTczNDU3NDMyMCwicGF0aCI6Ii91LzQyMzU1NDEwIn0.RtvBTrVrMl7dmBg8f7v8iqL2NzgutHXaKG1RCU3mag0&s=72&u=883f0655d5f61809113a461be110cd3773e75347&v=4" width="24" alt="Avatar of xnetcat"/> xnetcat
+				<img src="https://private-avatars.githubusercontent.com/u/42355410?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTI0MjAsIm5iZiI6MTczNDYxMTIyMCwicGF0aCI6Ii91LzQyMzU1NDEwIn0.IQPC1razRZwF1TiTqyxhiOQqpJkcFqACQJzezAq7SXg&s=72&u=883f0655d5f61809113a461be110cd3773e75347&v=4" width="24" alt="Avatar of xnetcat"/> xnetcat
 			</a><br/>
 			kuba
 		</td>
@@ -7968,7 +7968,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>562</td>
 		<td>
 			<a target="_blank" href="https://github.com/piotrjura">
-				<img src="https://private-avatars.githubusercontent.com/u/388735?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4NjAsIm5iZiI6MTczNDU3MzY2MCwicGF0aCI6Ii91LzM4ODczNSJ9.vbyVxbUG-21M56YAWsKSlhNAX5nA-DhdNoglSoV_ez0&s=72&u=2489c41f6dba6bd26915f5b3b00d318cd7d13dd3&v=4" width="24" alt="Avatar of piotrjura"/> piotrjura
+				<img src="https://private-avatars.githubusercontent.com/u/388735?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3NjAsIm5iZiI6MTczNDYxMDU2MCwicGF0aCI6Ii91LzM4ODczNSJ9.hofi5gQBe4Z4CxZTVM0KLNoo85Cm0H0KrDSmCr5w8Do&s=72&u=2489c41f6dba6bd26915f5b3b00d318cd7d13dd3&v=4" width="24" alt="Avatar of piotrjura"/> piotrjura
 			</a><br/>
 			Piotr Jura
 		</td>
@@ -7981,8 +7981,22 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 	<tr>
 		<td>563</td>
 		<td>
+			<a target="_blank" href="https://github.com/tomash">
+				<img src="https://private-avatars.githubusercontent.com/u/38259?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxMjAsIm5iZiI6MTczNDYxMDkyMCwicGF0aCI6Ii91LzM4MjU5In0.r9MtfxfdPUFTU65RPd6wsAabPt3Pkj9NJJCbXDvnvck&s=72&u=35f5de01349d82fede55d7d5a03bcadddd5a1ccb&v=4" width="24" alt="Avatar of tomash"/> tomash
+			</a><br/>
+			Tomasz Stachewicz
+		</td>
+		<td>Shopify </td>
+		<td><a target="_blank" href="https://twitter.com/_tomash">_tomash</a></td>
+		<td>Warsaw Poland</td>
+		<td>37</td>
+		<td>182</td>
+	</tr>
+	<tr>
+		<td>564</td>
+		<td>
 			<a target="_blank" href="https://github.com/AcidWeb">
-				<img src="https://private-avatars.githubusercontent.com/u/3713734?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUzNDAsIm5iZiI6MTczNDU3NDE0MCwicGF0aCI6Ii91LzM3MTM3MzQifQ.GxntUgHvnzVHRs7QFNijOn2FsqiEoJXDH0ZvLWhGDU4&s=72&v=4" width="24" alt="Avatar of AcidWeb"/> AcidWeb
+				<img src="https://private-avatars.githubusercontent.com/u/3713734?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIyNDAsIm5iZiI6MTczNDYxMTA0MCwicGF0aCI6Ii91LzM3MTM3MzQifQ.8nshhr32z7PNwiIDwBiuZ2l2Se9c62ofIXsQaNluE3o&s=72&v=4" width="24" alt="Avatar of AcidWeb"/> AcidWeb
 			</a><br/>
 			Pawe Jastrzbski
 		</td>
@@ -7993,10 +8007,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>182</td>
 	</tr>
 	<tr>
-		<td>564</td>
+		<td>565</td>
 		<td>
 			<a target="_blank" href="https://github.com/Reinmar">
-				<img src="https://private-avatars.githubusercontent.com/u/156149?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ1NjAsIm5iZiI6MTczNDU3MzM2MCwicGF0aCI6Ii91LzE1NjE0OSJ9.2KATMhtnS0qcdaxpwqOfvcfkSV2hSRzkiIE0EpEf_O4&s=72&u=b1069e01fff1c82c942d829fa46aea3a2dfca3c4&v=4" width="24" alt="Avatar of Reinmar"/> Reinmar
+				<img src="https://private-avatars.githubusercontent.com/u/156149?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE0NjAsIm5iZiI6MTczNDYxMDI2MCwicGF0aCI6Ii91LzE1NjE0OSJ9.Mb5Jmj9GIG5gPfEWJz47AEmtIshyEMHuYNQeL8l_dik&s=72&u=b1069e01fff1c82c942d829fa46aea3a2dfca3c4&v=4" width="24" alt="Avatar of Reinmar"/> Reinmar
 			</a><br/>
 			Piotrek Koszuliski
 		</td>
@@ -8007,10 +8021,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>181</td>
 	</tr>
 	<tr>
-		<td>565</td>
+		<td>566</td>
 		<td>
 			<a target="_blank" href="https://github.com/donishmand23">
-				<img src="https://private-avatars.githubusercontent.com/u/62826222?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyODAsIm5iZiI6MTczNDU3NDA4MCwicGF0aCI6Ii91LzYyODI2MjIyIn0.LaDJ66cRl_DyV_lwVA4nGN7ei4P7lb5UeMZUWpOeWfw&s=72&u=04426be7e6c0c1e698de5d8b7d4da2d2b1b8b3c0&v=4" width="24" alt="Avatar of donishmand23"/> donishmand23
+				<img src="https://private-avatars.githubusercontent.com/u/62826222?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxODAsIm5iZiI6MTczNDYxMDk4MCwicGF0aCI6Ii91LzYyODI2MjIyIn0.5Na92V0zkgUfrFjvXdrLO-ur5hMF_OcKf0p0VLEYdsk&s=72&u=04426be7e6c0c1e698de5d8b7d4da2d2b1b8b3c0&v=4" width="24" alt="Avatar of donishmand23"/> donishmand23
 			</a><br/>
 			Donishmand Dasturchi
 		</td>
@@ -8021,10 +8035,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>181</td>
 	</tr>
 	<tr>
-		<td>566</td>
+		<td>567</td>
 		<td>
 			<a target="_blank" href="https://github.com/KebsCS">
-				<img src="https://private-avatars.githubusercontent.com/u/22469895?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ3NDAsIm5iZiI6MTczNDU3MzU0MCwicGF0aCI6Ii91LzIyNDY5ODk1In0.yTI7Im8ZNjfKRbeRAo_AGds6ByaStMO5gY3OMTl_94g&s=72&u=592b4f67ab296aa3347934c25dec2c93b53d909e&v=4" width="24" alt="Avatar of KebsCS"/> KebsCS
+				<img src="https://private-avatars.githubusercontent.com/u/22469895?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE2NDAsIm5iZiI6MTczNDYxMDQ0MCwicGF0aCI6Ii91LzIyNDY5ODk1In0.X34B-ExWgD29vTxkVHX5WcLyi1h5F6be5ZXMDPRTP-Y&s=72&u=592b4f67ab296aa3347934c25dec2c93b53d909e&v=4" width="24" alt="Avatar of KebsCS"/> KebsCS
 			</a><br/>
 			No Name
 		</td>
@@ -8035,24 +8049,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>180</td>
 	</tr>
 	<tr>
-		<td>567</td>
-		<td>
-			<a target="_blank" href="https://github.com/tomash">
-				<img src="https://private-avatars.githubusercontent.com/u/38259?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyMjAsIm5iZiI6MTczNDU3NDAyMCwicGF0aCI6Ii91LzM4MjU5In0.c17alBibTsWyoJ006hUz-cPpcWywh9wIZYjAxbHU4y0&s=72&u=35f5de01349d82fede55d7d5a03bcadddd5a1ccb&v=4" width="24" alt="Avatar of tomash"/> tomash
-			</a><br/>
-			Tomasz Stachewicz
-		</td>
-		<td>Shopify </td>
-		<td><a target="_blank" href="https://twitter.com/_tomash">_tomash</a></td>
-		<td>Warsaw Poland</td>
-		<td>37</td>
-		<td>179</td>
-	</tr>
-	<tr>
 		<td>568</td>
 		<td>
 			<a target="_blank" href="https://github.com/TheLastGimbus">
-				<img src="https://private-avatars.githubusercontent.com/u/40139196?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU2NDAsIm5iZiI6MTczNDU3NDQ0MCwicGF0aCI6Ii91LzQwMTM5MTk2In0.Y0kkTDVSNmvdV8FwG1vGhz-A4TVbTdSxQXmcjP4Kzcw&s=72&u=e56cb6ceef91c5c6f34c2227fc95c78e34f5e60e&v=4" width="24" alt="Avatar of TheLastGimbus"/> TheLastGimbus
+				<img src="https://private-avatars.githubusercontent.com/u/40139196?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTI1NDAsIm5iZiI6MTczNDYxMTM0MCwicGF0aCI6Ii91LzQwMTM5MTk2In0.vgBxzv_kFrYYqt32LUAW_eWUrbKFlLve49-DPIqARRQ&s=72&u=e56cb6ceef91c5c6f34c2227fc95c78e34f5e60e&v=4" width="24" alt="Avatar of TheLastGimbus"/> TheLastGimbus
 			</a><br/>
 			Mateusz Soszyski
 		</td>
@@ -8066,21 +8066,21 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>569</td>
 		<td>
 			<a target="_blank" href="https://github.com/lowleveldesign">
-				<img src="https://private-avatars.githubusercontent.com/u/6109268?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5MjAsIm5iZiI6MTczNDU3MzcyMCwicGF0aCI6Ii91LzYxMDkyNjgifQ.FASpFxCPdVOnhj8Z7Ue3TSwH_kqDKbi3kQPbh4jGE2w&s=72&u=dfe6993007cb4c50502ffc5467e8949d0bfb01fd&v=4" width="24" alt="Avatar of lowleveldesign"/> lowleveldesign
+				<img src="https://private-avatars.githubusercontent.com/u/6109268?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4MjAsIm5iZiI6MTczNDYxMDYyMCwicGF0aCI6Ii91LzYxMDkyNjgifQ.4Ij3tVo_p-3GoesHijtJWSIJZYt74xSSzZdFw_CjnsI&s=72&u=dfe6993007cb4c50502ffc5467e8949d0bfb01fd&v=4" width="24" alt="Avatar of lowleveldesign"/> lowleveldesign
 			</a><br/>
 			Sebastian Solnica
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Poland</td>
-		<td>174</td>
-		<td>174</td>
+		<td>175</td>
+		<td>175</td>
 	</tr>
 	<tr>
 		<td>570</td>
 		<td>
 			<a target="_blank" href="https://github.com/nazywam">
-				<img src="https://private-avatars.githubusercontent.com/u/2192416?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUwNDAsIm5iZiI6MTczNDU3Mzg0MCwicGF0aCI6Ii91LzIxOTI0MTYifQ.HRJEEjcRr8fLS4HZV18cAgNl8Np1LxYF3Ivw83YdAck&s=72&u=08e6ed6d292be74d17c066f58787e6101d9fb774&v=4" width="24" alt="Avatar of nazywam"/> nazywam
+				<img src="https://private-avatars.githubusercontent.com/u/2192416?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE5NDAsIm5iZiI6MTczNDYxMDc0MCwicGF0aCI6Ii91LzIxOTI0MTYifQ.gfqM2KRHpGWQxFHhGyUTZYGxPx4EE7DHfT1RbXqaT1o&s=72&u=08e6ed6d292be74d17c066f58787e6101d9fb774&v=4" width="24" alt="Avatar of nazywam"/> nazywam
 			</a><br/>
 			Micha Praszmo
 		</td>
@@ -8094,7 +8094,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>571</td>
 		<td>
 			<a target="_blank" href="https://github.com/maximkrouk">
-				<img src="https://private-avatars.githubusercontent.com/u/40476363?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU1ODAsIm5iZiI6MTczNDU3NDM4MCwicGF0aCI6Ii91LzQwNDc2MzYzIn0.Xzb6vvATOJeZ0jNmEt7ULfqb97hYKtjJ07kqt8nijZA&s=72&u=dd347eb9cafbc5f76ef8b8234b8809480b2e5ec0&v=4" width="24" alt="Avatar of maximkrouk"/> maximkrouk
+				<img src="https://private-avatars.githubusercontent.com/u/40476363?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTI0ODAsIm5iZiI6MTczNDYxMTI4MCwicGF0aCI6Ii91LzQwNDc2MzYzIn0.EC-AxVAPTzGTjq3eM6QW4z4Q_RK9d6MtyY2EtxfLteM&s=72&u=dd347eb9cafbc5f76ef8b8234b8809480b2e5ec0&v=4" width="24" alt="Avatar of maximkrouk"/> maximkrouk
 			</a><br/>
 			Maxim Krouk
 		</td>
@@ -8108,7 +8108,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>572</td>
 		<td>
 			<a target="_blank" href="https://github.com/tkowalczyk">
-				<img src="https://private-avatars.githubusercontent.com/u/1682564?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyODAsIm5iZiI6MTczNDU3NDA4MCwicGF0aCI6Ii91LzE2ODI1NjQifQ.AXJ_2pPYjqmFTtIoOLLfeV7W0NYhhjK84ji8LynrWvE&s=72&v=4" width="24" alt="Avatar of tkowalczyk"/> tkowalczyk
+				<img src="https://private-avatars.githubusercontent.com/u/1682564?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxODAsIm5iZiI6MTczNDYxMDk4MCwicGF0aCI6Ii91LzE2ODI1NjQifQ.A8znXz3gblSFnOk1VEexj_rGBMJh5VlOiQzTTVa9l_Y&s=72&v=4" width="24" alt="Avatar of tkowalczyk"/> tkowalczyk
 			</a><br/>
 			Tomasz Kowalczyk
 		</td>
@@ -8122,7 +8122,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>573</td>
 		<td>
 			<a target="_blank" href="https://github.com/py10a">
-				<img src="https://private-avatars.githubusercontent.com/u/92212828?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91LzkyMjEyODI4In0.x9UuVOUQF-STeNRz3-0xWsw98Oej6ajs7WuuQIOlmnU&s=72&u=637edb8a5863f545c21968d1299414dd54eef043&v=4" width="24" alt="Avatar of py10a"/> py10a
+				<img src="https://private-avatars.githubusercontent.com/u/92212828?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91LzkyMjEyODI4In0.EKzqGW3zGhXHkKoMI9rqyReXatezdOYqCZQyoI1DF5I&s=72&u=637edb8a5863f545c21968d1299414dd54eef043&v=4" width="24" alt="Avatar of py10a"/> py10a
 			</a><br/>
 			Andriy Pylo
 		</td>
@@ -8136,7 +8136,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>574</td>
 		<td>
 			<a target="_blank" href="https://github.com/dzmitry-varabei">
-				<img src="https://private-avatars.githubusercontent.com/u/2429680?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyMjAsIm5iZiI6MTczNDU3NDAyMCwicGF0aCI6Ii91LzI0Mjk2ODAifQ.7LepTA-FplOmc7Rvd0zipSr5K5iazigXBkckywDSaWQ&s=72&u=cefc71eaceffd3ccf68ce6c738d0026eb3accb20&v=4" width="24" alt="Avatar of dzmitry-varabei"/> dzmitry-varabei
+				<img src="https://private-avatars.githubusercontent.com/u/2429680?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxMjAsIm5iZiI6MTczNDYxMDkyMCwicGF0aCI6Ii91LzI0Mjk2ODAifQ.UwqXM1Yx_VaRHzcDRiS2xBRRQymjAnJCMelgenTlrwU&s=72&u=cefc71eaceffd3ccf68ce6c738d0026eb3accb20&v=4" width="24" alt="Avatar of dzmitry-varabei"/> dzmitry-varabei
 			</a><br/>
 			Dzmitry Varabei
 		</td>
@@ -8150,7 +8150,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>575</td>
 		<td>
 			<a target="_blank" href="https://github.com/palmiak">
-				<img src="https://private-avatars.githubusercontent.com/u/2342458?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4NjAsIm5iZiI6MTczNDU3MzY2MCwicGF0aCI6Ii91LzIzNDI0NTgifQ.RRdTVQQLWmV3h1LGqgXGAK6K-AfIxes2StJ-9GzR5XU&s=72&v=4" width="24" alt="Avatar of palmiak"/> palmiak
+				<img src="https://private-avatars.githubusercontent.com/u/2342458?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3NjAsIm5iZiI6MTczNDYxMDU2MCwicGF0aCI6Ii91LzIzNDI0NTgifQ.XGUTq2e54AJp3crnjY7fpfH_HRxwNle2CKLCi7ZWSxA&s=72&v=4" width="24" alt="Avatar of palmiak"/> palmiak
 			</a><br/>
 			Maciek Palmowski
 		</td>
@@ -8164,7 +8164,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>576</td>
 		<td>
 			<a target="_blank" href="https://github.com/buddhi1980">
-				<img src="https://private-avatars.githubusercontent.com/u/11696990?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91LzExNjk2OTkwIn0.UodizZs_H5ERPOsnecfOXctik7OGJwGq8u9lzUNyPJI&s=72&u=9ca491d0493bd2cf324d900225eb30d2e7e503bd&v=4" width="24" alt="Avatar of buddhi1980"/> buddhi1980
+				<img src="https://private-avatars.githubusercontent.com/u/11696990?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91LzExNjk2OTkwIn0.Odh3xGJKxom_vqcGeXiI8lOZLo1b4jlYY_jpSr_gC6o&s=72&u=9ca491d0493bd2cf324d900225eb30d2e7e503bd&v=4" width="24" alt="Avatar of buddhi1980"/> buddhi1980
 			</a><br/>
 			Krzysztof Marczak
 		</td>
@@ -8178,7 +8178,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>577</td>
 		<td>
 			<a target="_blank" href="https://github.com/pwicherski">
-				<img src="https://private-avatars.githubusercontent.com/u/6884051?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5MjAsIm5iZiI6MTczNDU3MzcyMCwicGF0aCI6Ii91LzY4ODQwNTEifQ.n4QMfjUkaTP4IGaDIjcd69qzcY9-7v52XqrlTv1SSKM&s=72&u=f862df0a7325d02149becc2094a05c99eea59b01&v=4" width="24" alt="Avatar of pwicherski"/> pwicherski
+				<img src="https://private-avatars.githubusercontent.com/u/6884051?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4MjAsIm5iZiI6MTczNDYxMDYyMCwicGF0aCI6Ii91LzY4ODQwNTEifQ.KDSNW2f_vqAzM0CXo4S93-NDtcK44tJEHvutVapjaDc&s=72&u=f862df0a7325d02149becc2094a05c99eea59b01&v=4" width="24" alt="Avatar of pwicherski"/> pwicherski
 			</a><br/>
 			Piotr Wicherski
 		</td>
@@ -8192,7 +8192,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>578</td>
 		<td>
 			<a target="_blank" href="https://github.com/OrestTa">
-				<img src="https://private-avatars.githubusercontent.com/u/830847?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5MjAsIm5iZiI6MTczNDU3MzcyMCwicGF0aCI6Ii91LzgzMDg0NyJ9.KHq1CNeZVIoy8y5zVveaQoxAiLU-SFlG9xpE7BgZakw&s=72&v=4" width="24" alt="Avatar of OrestTa"/> OrestTa
+				<img src="https://private-avatars.githubusercontent.com/u/830847?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4MjAsIm5iZiI6MTczNDYxMDYyMCwicGF0aCI6Ii91LzgzMDg0NyJ9.NjLQhN2PoQhPPWSptJz0slObIBZmSzet0TAlQwVcNQM&s=72&v=4" width="24" alt="Avatar of OrestTa"/> OrestTa
 			</a><br/>
 			Orest Tarasiuk  t1
 		</td>
@@ -8206,7 +8206,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>579</td>
 		<td>
 			<a target="_blank" href="https://github.com/arcz">
-				<img src="https://private-avatars.githubusercontent.com/u/4679721?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU1ODAsIm5iZiI6MTczNDU3NDM4MCwicGF0aCI6Ii91LzQ2Nzk3MjEifQ.8c57L28fj-o7Q3y_fqoUivxxh0dnlGh7EQga7c1z7CE&s=72&u=58e57cba51d882e358cbed07ec561a88d2580359&v=4" width="24" alt="Avatar of arcz"/> arcz
+				<img src="https://private-avatars.githubusercontent.com/u/4679721?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTI0ODAsIm5iZiI6MTczNDYxMTI4MCwicGF0aCI6Ii91LzQ2Nzk3MjEifQ.TTl5stKJk8ld92y3DVTRjDiB0gzEmKq04RugXb5HI5g&s=72&u=58e57cba51d882e358cbed07ec561a88d2580359&v=4" width="24" alt="Avatar of arcz"/> arcz
 			</a><br/>
 			Artur Cygan
 		</td>
@@ -8220,7 +8220,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>580</td>
 		<td>
 			<a target="_blank" href="https://github.com/Chmarusso">
-				<img src="https://private-avatars.githubusercontent.com/u/1804368?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxNjAsIm5iZiI6MTczNDU3Mzk2MCwicGF0aCI6Ii91LzE4MDQzNjgifQ.SHt2vGhRrkukltTpHF3auI9DnyPWShiy26ipUx_rBTI&s=72&u=49702e959d64bb8a7a79388caea362705307f35a&v=4" width="24" alt="Avatar of Chmarusso"/> Chmarusso
+				<img src="https://private-avatars.githubusercontent.com/u/1804368?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwNjAsIm5iZiI6MTczNDYxMDg2MCwicGF0aCI6Ii91LzE4MDQzNjgifQ.STVmXmY33jDRv6GIf38b23h6zL0SRX1W23d5mKf2AhI&s=72&u=49702e959d64bb8a7a79388caea362705307f35a&v=4" width="24" alt="Avatar of Chmarusso"/> Chmarusso
 			</a><br/>
 			Artur
 		</td>
@@ -8234,7 +8234,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>581</td>
 		<td>
 			<a target="_blank" href="https://github.com/MateuszDabrowski">
-				<img src="https://private-avatars.githubusercontent.com/u/13339456?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ3NDAsIm5iZiI6MTczNDU3MzU0MCwicGF0aCI6Ii91LzEzMzM5NDU2In0.8FprifFhcNFW1jpscx0DgL8jXsGtEghm1vdVjLOZYN0&s=72&u=dcf24819530a44203c6300f1612569a86a1a30c3&v=4" width="24" alt="Avatar of MateuszDabrowski"/> MateuszDabrowski
+				<img src="https://private-avatars.githubusercontent.com/u/13339456?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE2NDAsIm5iZiI6MTczNDYxMDQ0MCwicGF0aCI6Ii91LzEzMzM5NDU2In0.Gc4Gt_riyOtMDKWOQy9-BILkBl2VnNU5_2D-6XId1YY&s=72&u=dcf24819530a44203c6300f1612569a86a1a30c3&v=4" width="24" alt="Avatar of MateuszDabrowski"/> MateuszDabrowski
 			</a><br/>
 			Mateusz Dbrowski
 		</td>
@@ -8248,7 +8248,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>582</td>
 		<td>
 			<a target="_blank" href="https://github.com/l3l0">
-				<img src="https://private-avatars.githubusercontent.com/u/209405?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUwNDAsIm5iZiI6MTczNDU3Mzg0MCwicGF0aCI6Ii91LzIwOTQwNSJ9.XDU46z2F8CaXVNYuYpUNkU9ou6DoqaHD8D3whBlswnI&s=72&u=12ad97e12aa21645f32753476d04096c69083e55&v=4" width="24" alt="Avatar of l3l0"/> l3l0
+				<img src="https://private-avatars.githubusercontent.com/u/209405?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE5NDAsIm5iZiI6MTczNDYxMDc0MCwicGF0aCI6Ii91LzIwOTQwNSJ9.eacIsveqDDCTZ0FVJ32mLNR5Z_EnqQGNHwFHXmHo60Q&s=72&u=12ad97e12aa21645f32753476d04096c69083e55&v=4" width="24" alt="Avatar of l3l0"/> l3l0
 			</a><br/>
 			Leszek Prabucki
 		</td>
@@ -8262,7 +8262,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>583</td>
 		<td>
 			<a target="_blank" href="https://github.com/jimaek">
-				<img src="https://private-avatars.githubusercontent.com/u/1834071?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ1MDAsIm5iZiI6MTczNDU3MzMwMCwicGF0aCI6Ii91LzE4MzQwNzEifQ.z6sXc--JEykuHq1-tG9GY2vQdxrLbZn0C7UwKEUOEPM&s=72&u=f77b721c1a5be797832c316b57f426d3a49c773b&v=4" width="24" alt="Avatar of jimaek"/> jimaek
+				<img src="https://private-avatars.githubusercontent.com/u/1834071?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE0MDAsIm5iZiI6MTczNDYxMDIwMCwicGF0aCI6Ii91LzE4MzQwNzEifQ.-SeQrPiYSNF1n4pHKphqWwZeb0WYw6V7_WvFBLuzabE&s=72&u=f77b721c1a5be797832c316b57f426d3a49c773b&v=4" width="24" alt="Avatar of jimaek"/> jimaek
 			</a><br/>
 			Dmitriy Akulov
 		</td>
@@ -8276,7 +8276,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>584</td>
 		<td>
 			<a target="_blank" href="https://github.com/ycarowr">
-				<img src="https://private-avatars.githubusercontent.com/u/8862539?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91Lzg4NjI1MzkifQ.8WuTyOdjpBRa05jZhINlLxo2SxAqBuJOe1jWBWRBVww&s=72&u=0a66dbfdf1cc708dca892eeaa396e3edda19d424&v=4" width="24" alt="Avatar of ycarowr"/> ycarowr
+				<img src="https://private-avatars.githubusercontent.com/u/8862539?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91Lzg4NjI1MzkifQ.7bEoAUxNBm5kTsQgKfeDsVSlEaenBm3SFB9awHibuqA&s=72&u=0a66dbfdf1cc708dca892eeaa396e3edda19d424&v=4" width="24" alt="Avatar of ycarowr"/> ycarowr
 			</a><br/>
 			ycarowr
 		</td>
@@ -8290,7 +8290,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>585</td>
 		<td>
 			<a target="_blank" href="https://github.com/m-wilczynski">
-				<img src="https://private-avatars.githubusercontent.com/u/6330789?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUzNDAsIm5iZiI6MTczNDU3NDE0MCwicGF0aCI6Ii91LzYzMzA3ODkifQ.SSKRYnrUX1yMGEe_PgGUdmVswHTgSlUK_928Ot2Ia78&s=72&u=a8404be0c18b766d9548eda38ba3d95f5a362ae3&v=4" width="24" alt="Avatar of m-wilczynski"/> m-wilczynski
+				<img src="https://private-avatars.githubusercontent.com/u/6330789?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIyNDAsIm5iZiI6MTczNDYxMTA0MCwicGF0aCI6Ii91LzYzMzA3ODkifQ.KOetAKjAteywpk9Kye_3ju8-keqaUmu_UVNU0uH-344&s=72&u=a8404be0c18b766d9548eda38ba3d95f5a362ae3&v=4" width="24" alt="Avatar of m-wilczynski"/> m-wilczynski
 			</a><br/>
 			Micha Wilczyski
 		</td>
@@ -8304,7 +8304,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>586</td>
 		<td>
 			<a target="_blank" href="https://github.com/mariuszkrzaczkowski">
-				<img src="https://private-avatars.githubusercontent.com/u/10198654?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU1MjAsIm5iZiI6MTczNDU3NDMyMCwicGF0aCI6Ii91LzEwMTk4NjU0In0.gmNGZpWTpisZe5pufFo9gPB5rQtn93zfhPybbBUGnO0&s=72&v=4" width="24" alt="Avatar of mariuszkrzaczkowski"/> mariuszkrzaczkowski
+				<img src="https://private-avatars.githubusercontent.com/u/10198654?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTI0MjAsIm5iZiI6MTczNDYxMTIyMCwicGF0aCI6Ii91LzEwMTk4NjU0In0.nKRv4RA6q8d3RT8v2uFbMDkSox4YpyHYOwFDlLG_-64&s=72&v=4" width="24" alt="Avatar of mariuszkrzaczkowski"/> mariuszkrzaczkowski
 			</a><br/>
 			Mariusz Krzaczkowski
 		</td>
@@ -8318,7 +8318,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>587</td>
 		<td>
 			<a target="_blank" href="https://github.com/mswiderski">
-				<img src="https://private-avatars.githubusercontent.com/u/904474?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxMDAsIm5iZiI6MTczNDU3MzkwMCwicGF0aCI6Ii91LzkwNDQ3NCJ9.Q3_7F8b0PFPBHhygZXmb6MZfuTp3I-tk7lZLpNJINsQ&s=72&v=4" width="24" alt="Avatar of mswiderski"/> mswiderski
+				<img src="https://private-avatars.githubusercontent.com/u/904474?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwMDAsIm5iZiI6MTczNDYxMDgwMCwicGF0aCI6Ii91LzkwNDQ3NCJ9.Gq11nIdGzsHt6gFzKZoMaHEROYojQS9_q6jThem8BcE&s=72&v=4" width="24" alt="Avatar of mswiderski"/> mswiderski
 			</a><br/>
 			Maciej Swiderski
 		</td>
@@ -8332,7 +8332,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>588</td>
 		<td>
 			<a target="_blank" href="https://github.com/h0ek">
-				<img src="https://private-avatars.githubusercontent.com/u/4890300?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyODAsIm5iZiI6MTczNDU3NDA4MCwicGF0aCI6Ii91LzQ4OTAzMDAifQ.Ty8EIDJzmtk0fWBezP5u5S8p7N7vwz0aDl9m3EXaBe0&s=72&u=ca1dd4f2238b659861906bff476575d50d728073&v=4" width="24" alt="Avatar of h0ek"/> h0ek
+				<img src="https://private-avatars.githubusercontent.com/u/4890300?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxODAsIm5iZiI6MTczNDYxMDk4MCwicGF0aCI6Ii91LzQ4OTAzMDAifQ.rSfcpvbLK9DvylcMDviO5XCU7TowvtDc-h0vWc1MZB0&s=72&u=ca1dd4f2238b659861906bff476575d50d728073&v=4" width="24" alt="Avatar of h0ek"/> h0ek
 			</a><br/>
 			hoek
 		</td>
@@ -8346,7 +8346,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>589</td>
 		<td>
 			<a target="_blank" href="https://github.com/Kabanosk">
-				<img src="https://private-avatars.githubusercontent.com/u/56364007?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5MjAsIm5iZiI6MTczNDU3MzcyMCwicGF0aCI6Ii91LzU2MzY0MDA3In0.FxFnt2erg5CxAwnjwebNMZFcUeYgG90YSum0ruF73DE&s=72&u=86cae318281a873d672456b3f4edf56e5dd0e058&v=4" width="24" alt="Avatar of Kabanosk"/> Kabanosk
+				<img src="https://private-avatars.githubusercontent.com/u/56364007?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4MjAsIm5iZiI6MTczNDYxMDYyMCwicGF0aCI6Ii91LzU2MzY0MDA3In0.fcIFwhbPjzjKm5QMQwjTWdTIJotFReacTyKOUfNM1lE&s=72&u=86cae318281a873d672456b3f4edf56e5dd0e058&v=4" width="24" alt="Avatar of Kabanosk"/> Kabanosk
 			</a><br/>
 			Wojciech Fioka
 		</td>
@@ -8360,7 +8360,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>590</td>
 		<td>
 			<a target="_blank" href="https://github.com/oxica">
-				<img src="https://private-avatars.githubusercontent.com/u/88445174?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ1MDAsIm5iZiI6MTczNDU3MzMwMCwicGF0aCI6Ii91Lzg4NDQ1MTc0In0.wvnSknyCT4opFC2m567zPRvtNdN246tIOPIJlh9E0Ng&s=72&u=6f19cafbe23e3f45d8e27cb5ef924a342ba7d193&v=4" width="24" alt="Avatar of oxica"/> oxica
+				<img src="https://private-avatars.githubusercontent.com/u/88445174?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE0MDAsIm5iZiI6MTczNDYxMDIwMCwicGF0aCI6Ii91Lzg4NDQ1MTc0In0.REZcKjY_uozNzu3gi73y0nS-QnXXnQaRHjcMfeTrwNE&s=72&u=6f19cafbe23e3f45d8e27cb5ef924a342ba7d193&v=4" width="24" alt="Avatar of oxica"/> oxica
 			</a><br/>
 			Oksana Jarantowska
 		</td>
@@ -8374,7 +8374,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>591</td>
 		<td>
 			<a target="_blank" href="https://github.com/VEINHORN">
-				<img src="https://private-avatars.githubusercontent.com/u/3595400?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ0NDAsIm5iZiI6MTczNDU3MzI0MCwicGF0aCI6Ii91LzM1OTU0MDAifQ.eUxo1uwe7qBGEHfkT8x3koAgnguHOk1DE9AINeXZP2s&s=72&u=9d91d5b1df4452c8938d4cd46c2bd11b293e445b&v=4" width="24" alt="Avatar of VEINHORN"/> VEINHORN
+				<img src="https://private-avatars.githubusercontent.com/u/3595400?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTEzNDAsIm5iZiI6MTczNDYxMDE0MCwicGF0aCI6Ii91LzM1OTU0MDAifQ.xM_d2_ZLujp_uzS3qcDXQxVOoDxNbEZcTOWeSIgaMyg&s=72&u=9d91d5b1df4452c8938d4cd46c2bd11b293e445b&v=4" width="24" alt="Avatar of VEINHORN"/> VEINHORN
 			</a><br/>
 			Boris Korogvich
 		</td>
@@ -8388,7 +8388,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>592</td>
 		<td>
 			<a target="_blank" href="https://github.com/AdrianOrlow">
-				<img src="https://private-avatars.githubusercontent.com/u/10941338?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU0NjAsIm5iZiI6MTczNDU3NDI2MCwicGF0aCI6Ii91LzEwOTQxMzM4In0.x64kFPD2hEcD3dz-johCpuJzFD1EtvWksdUUvIPUz-U&s=72&u=8e98076705638920d5e1c8478627b363f07b4121&v=4" width="24" alt="Avatar of AdrianOrlow"/> AdrianOrlow
+				<img src="https://private-avatars.githubusercontent.com/u/10941338?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIzNjAsIm5iZiI6MTczNDYxMTE2MCwicGF0aCI6Ii91LzEwOTQxMzM4In0.D7QcJ8anpdPSnUfeZy2GBxkwCr4fiTP2WfgUnJzELtM&s=72&u=8e98076705638920d5e1c8478627b363f07b4121&v=4" width="24" alt="Avatar of AdrianOrlow"/> AdrianOrlow
 			</a><br/>
 			Adrian Orw
 		</td>
@@ -8402,7 +8402,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>593</td>
 		<td>
 			<a target="_blank" href="https://github.com/szmarczak">
-				<img src="https://private-avatars.githubusercontent.com/u/36894700?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxMDAsIm5iZiI6MTczNDU3MzkwMCwicGF0aCI6Ii91LzM2ODk0NzAwIn0.nJRGbktue3qu3L2rRAv1eUmdF8GA6TjM4pv9DG6izf8&s=72&u=d904463d62998824fe6e4055d55475515ace7d87&v=4" width="24" alt="Avatar of szmarczak"/> szmarczak
+				<img src="https://private-avatars.githubusercontent.com/u/36894700?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTExMDAsIm5iZiI6MTczNDYwOTkwMCwicGF0aCI6Ii91LzM2ODk0NzAwIn0.C4btt2m9DpyIOBLC8EyHbsm74iOWeDZzgGmc8d4HF9A&s=72&u=d904463d62998824fe6e4055d55475515ace7d87&v=4" width="24" alt="Avatar of szmarczak"/> szmarczak
 			</a><br/>
 			Szymon Marczak
 		</td>
@@ -8416,7 +8416,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>594</td>
 		<td>
 			<a target="_blank" href="https://github.com/Denys0808">
-				<img src="https://private-avatars.githubusercontent.com/u/166102023?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQzODAsIm5iZiI6MTczNDU3MzE4MCwicGF0aCI6Ii91LzE2NjEwMjAyMyJ9.w5A9yx3oPLmiE_drJIDAMaIUtL2Vp8gZU7Kv1VyElf4&s=72&u=48340d81d1f6e0f0ed033fc54f08d5ee07e38f01&v=4" width="24" alt="Avatar of Denys0808"/> Denys0808
+				<img src="https://private-avatars.githubusercontent.com/u/166102023?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTEyODAsIm5iZiI6MTczNDYxMDA4MCwicGF0aCI6Ii91LzE2NjEwMjAyMyJ9.RhQecbnsbGSL6FDScqyUGMdhRNaqx5QjiDfuVvCEOtQ&s=72&u=48340d81d1f6e0f0ed033fc54f08d5ee07e38f01&v=4" width="24" alt="Avatar of Denys0808"/> Denys0808
 			</a><br/>
 			Denys Rozdolskyi
 		</td>
@@ -8430,7 +8430,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>595</td>
 		<td>
 			<a target="_blank" href="https://github.com/bkamins">
-				<img src="https://private-avatars.githubusercontent.com/u/6187170?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5MjAsIm5iZiI6MTczNDU3MzcyMCwicGF0aCI6Ii91LzYxODcxNzAifQ.g_-6jzl9hUHRM7GHAzkesmclClYeIfM1qGgLBWcsp1Q&s=72&u=5c3740d232a74800a9909dd05851d49e7d8805f6&v=4" width="24" alt="Avatar of bkamins"/> bkamins
+				<img src="https://private-avatars.githubusercontent.com/u/6187170?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4MjAsIm5iZiI6MTczNDYxMDYyMCwicGF0aCI6Ii91LzYxODcxNzAifQ.sJ3dp0mjolaVORCpzZirF3pHjnZy9ZDTU0B4OLJfV-0&s=72&u=5c3740d232a74800a9909dd05851d49e7d8805f6&v=4" width="24" alt="Avatar of bkamins"/> bkamins
 			</a><br/>
 			Bogumi Kamiski
 		</td>
@@ -8444,7 +8444,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>596</td>
 		<td>
 			<a target="_blank" href="https://github.com/jochym">
-				<img src="https://private-avatars.githubusercontent.com/u/5993422?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4NjAsIm5iZiI6MTczNDU3MzY2MCwicGF0aCI6Ii91LzU5OTM0MjIifQ.VZAgKtHaSHzBnEGTruJlJs1poBKsjRoJlWnnGTi09mg&s=72&u=c7a02b6fc48cf04d0cea69b7aec5839752439449&v=4" width="24" alt="Avatar of jochym"/> jochym
+				<img src="https://private-avatars.githubusercontent.com/u/5993422?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3NjAsIm5iZiI6MTczNDYxMDU2MCwicGF0aCI6Ii91LzU5OTM0MjIifQ.VDms8yVyOVNIgzTRxns3cjGAe89NpR1DdxSHnv9t0AE&s=72&u=c7a02b6fc48cf04d0cea69b7aec5839752439449&v=4" width="24" alt="Avatar of jochym"/> jochym
 			</a><br/>
 			Pawe T Jochym
 		</td>
@@ -8458,7 +8458,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>597</td>
 		<td>
 			<a target="_blank" href="https://github.com/pszufe">
-				<img src="https://private-avatars.githubusercontent.com/u/3813584?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU0MDAsIm5iZiI6MTczNDU3NDIwMCwicGF0aCI6Ii91LzM4MTM1ODQifQ.5upzjTDmhIcbAySF6y-KVkiVk1XNKgALDIjDH6sMUQU&s=72&u=d930f385f7b12758263eedada47b857883b23a44&v=4" width="24" alt="Avatar of pszufe"/> pszufe
+				<img src="https://private-avatars.githubusercontent.com/u/3813584?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE0MDAsIm5iZiI6MTczNDYxMDIwMCwicGF0aCI6Ii91LzM4MTM1ODQifQ.Vg7N4FL3mnZ-7jZJXi7lzgCFz9mZ40JPiQVrm_nZHBQ&s=72&u=d930f385f7b12758263eedada47b857883b23a44&v=4" width="24" alt="Avatar of pszufe"/> pszufe
 			</a><br/>
 			Przemysaw Szufel
 		</td>
@@ -8472,7 +8472,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>598</td>
 		<td>
 			<a target="_blank" href="https://github.com/TeddyDD">
-				<img src="https://private-avatars.githubusercontent.com/u/4397533?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxMDAsIm5iZiI6MTczNDU3MzkwMCwicGF0aCI6Ii91LzQzOTc1MzMifQ.nunT0U1eUfyhAqwNFlk6EMb6LW0CcFODS-dfrlkxVeE&s=72&u=ab2ba8222927237dcf4c0ffeded37b831132c956&v=4" width="24" alt="Avatar of TeddyDD"/> TeddyDD
+				<img src="https://private-avatars.githubusercontent.com/u/4397533?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwMDAsIm5iZiI6MTczNDYxMDgwMCwicGF0aCI6Ii91LzQzOTc1MzMifQ.6iGI77lMaw9tD_euy9S8KLlsP1T496JeNibrnlSolV4&s=72&u=ab2ba8222927237dcf4c0ffeded37b831132c956&v=4" width="24" alt="Avatar of TeddyDD"/> TeddyDD
 			</a><br/>
 			Daniel Lewan
 		</td>
@@ -8486,7 +8486,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>599</td>
 		<td>
 			<a target="_blank" href="https://github.com/mikigal">
-				<img src="https://private-avatars.githubusercontent.com/u/10632503?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU0MDAsIm5iZiI6MTczNDU3NDIwMCwicGF0aCI6Ii91LzEwNjMyNTAzIn0.eAoBukOLAw15RDSVylUhxGTHTu6NqFXVo0tMFeFafxg&s=72&u=02de5a4be67350a92ac51831246a3e7c8f1f863b&v=4" width="24" alt="Avatar of mikigal"/> mikigal
+				<img src="https://private-avatars.githubusercontent.com/u/10632503?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIzMDAsIm5iZiI6MTczNDYxMTEwMCwicGF0aCI6Ii91LzEwNjMyNTAzIn0.kIqqCk0eIw1HMQIoyDwgEMJuSfdrT6XPzXUezIEK2wI&s=72&u=02de5a4be67350a92ac51831246a3e7c8f1f863b&v=4" width="24" alt="Avatar of mikigal"/> mikigal
 			</a><br/>
 			Mikoaj Gazka
 		</td>
@@ -8500,21 +8500,21 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>600</td>
 		<td>
 			<a target="_blank" href="https://github.com/dawidwys">
-				<img src="https://private-avatars.githubusercontent.com/u/6242259?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxMDAsIm5iZiI6MTczNDU3MzkwMCwicGF0aCI6Ii91LzYyNDIyNTkifQ.2WImvLU1DRcZBQAi7DXTFLTdi539Ax_VTCkvIyCHJUs&s=72&u=9afed5c548b788de404826d3a3d03520821c78a3&v=4" width="24" alt="Avatar of dawidwys"/> dawidwys
+				<img src="https://private-avatars.githubusercontent.com/u/6242259?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwMDAsIm5iZiI6MTczNDYxMDgwMCwicGF0aCI6Ii91LzYyNDIyNTkifQ.jZ4FewZ3SwJhN2rimoTnBHy0sq1X1sXoEQ48KyslySI&s=72&u=9afed5c548b788de404826d3a3d03520821c78a3&v=4" width="24" alt="Avatar of dawidwys"/> dawidwys
 			</a><br/>
 			Dawid Wysakowicz
 		</td>
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/dwysakowicz">dwysakowicz</a></td>
 		<td>Warsaw</td>
-		<td>144</td>
-		<td>144</td>
+		<td>145</td>
+		<td>145</td>
 	</tr>
 	<tr>
 		<td>601</td>
 		<td>
 			<a target="_blank" href="https://github.com/danielpacak">
-				<img src="https://private-avatars.githubusercontent.com/u/1322923?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5MjAsIm5iZiI6MTczNDU3MzcyMCwicGF0aCI6Ii91LzEzMjI5MjMifQ.dKMWQNizw6yFMWMD7zTOX6xofuCtWtGNXF7fHW-_upE&s=72&u=b5bf5c80a95df9ddb8c74cf556192e71b9b6fc44&v=4" width="24" alt="Avatar of danielpacak"/> danielpacak
+				<img src="https://private-avatars.githubusercontent.com/u/1322923?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4MjAsIm5iZiI6MTczNDYxMDYyMCwicGF0aCI6Ii91LzEzMjI5MjMifQ.kj9g8jZwEXZ6VBfTW34FtJTeOo8yyhDpV3v69EZjfUs&s=72&u=b5bf5c80a95df9ddb8c74cf556192e71b9b6fc44&v=4" width="24" alt="Avatar of danielpacak"/> danielpacak
 			</a><br/>
 			Daniel Pacak
 		</td>
@@ -8528,7 +8528,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>602</td>
 		<td>
 			<a target="_blank" href="https://github.com/mhanak96">
-				<img src="https://private-avatars.githubusercontent.com/u/95878274?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU0NjAsIm5iZiI6MTczNDU3NDI2MCwicGF0aCI6Ii91Lzk1ODc4Mjc0In0.RGggdBIYPeZg6p8CHOeMBbEVN8MtmamUNnX2_5oBaBI&s=72&u=f66eca1fb2119d08b382662ebaa287aac243f705&v=4" width="24" alt="Avatar of mhanak96"/> mhanak96
+				<img src="https://private-avatars.githubusercontent.com/u/95878274?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIzNjAsIm5iZiI6MTczNDYxMTE2MCwicGF0aCI6Ii91Lzk1ODc4Mjc0In0.GHjGehyw6PO0RaXF5oXHqk7-RjNTakDvWaxSdaH9IKE&s=72&u=f66eca1fb2119d08b382662ebaa287aac243f705&v=4" width="24" alt="Avatar of mhanak96"/> mhanak96
 			</a><br/>
 			Mateusz Hanak
 		</td>
@@ -8542,7 +8542,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>603</td>
 		<td>
 			<a target="_blank" href="https://github.com/trekawek">
-				<img src="https://private-avatars.githubusercontent.com/u/142138?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyODAsIm5iZiI6MTczNDU3NDA4MCwicGF0aCI6Ii91LzE0MjEzOCJ9.j_er3XjIxQxzWsvwbqCB_c8G2MHUDYK9PgiMtN9njrk&s=72&u=db8e057b7d981d6b3b6eb3f842baea4c473f2c9c&v=4" width="24" alt="Avatar of trekawek"/> trekawek
+				<img src="https://private-avatars.githubusercontent.com/u/142138?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxODAsIm5iZiI6MTczNDYxMDk4MCwicGF0aCI6Ii91LzE0MjEzOCJ9.kJmhctGvRemRzj1mmlo9DxU1z8sndO1q8uHTBWXMqkg&s=72&u=db8e057b7d981d6b3b6eb3f842baea4c473f2c9c&v=4" width="24" alt="Avatar of trekawek"/> trekawek
 			</a><br/>
 			Tomek Rekawek
 		</td>
@@ -8556,7 +8556,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>604</td>
 		<td>
 			<a target="_blank" href="https://github.com/nullbytepl">
-				<img src="https://private-avatars.githubusercontent.com/u/17909699?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyODAsIm5iZiI6MTczNDU3NDA4MCwicGF0aCI6Ii91LzE3OTA5Njk5In0.7A0quIfrLdKArX2CY6IUCit5vL9LUo9ogb71vFtWStI&s=72&v=4" width="24" alt="Avatar of nullbytepl"/> nullbytepl
+				<img src="https://private-avatars.githubusercontent.com/u/17909699?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxODAsIm5iZiI6MTczNDYxMDk4MCwicGF0aCI6Ii91LzE3OTA5Njk5In0.SR25Al33ftp7MPdSq5LHZuR0QwRUjcvkS8EA_pBsqI4&s=72&v=4" width="24" alt="Avatar of nullbytepl"/> nullbytepl
 			</a><br/>
 			Kamila Wojciechowska
 		</td>
@@ -8570,7 +8570,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>605</td>
 		<td>
 			<a target="_blank" href="https://github.com/wojciech12">
-				<img src="https://private-avatars.githubusercontent.com/u/30651937?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUzNDAsIm5iZiI6MTczNDU3NDE0MCwicGF0aCI6Ii91LzMwNjUxOTM3In0.2mYH9lrvYazHMd6NAq2oQKcsJlga-C-tdmjQ6d6PhKw&s=72&u=bea0a7d63f5e20a253c98d43d5f154e3cf462b06&v=4" width="24" alt="Avatar of wojciech12"/> wojciech12
+				<img src="https://private-avatars.githubusercontent.com/u/30651937?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIyNDAsIm5iZiI6MTczNDYxMTA0MCwicGF0aCI6Ii91LzMwNjUxOTM3In0.cd1WMmif-ZK1wPO99Rbh9N2VEIupwoB9v3K2UD7LRfE&s=72&u=bea0a7d63f5e20a253c98d43d5f154e3cf462b06&v=4" width="24" alt="Avatar of wojciech12"/> wojciech12
 			</a><br/>
 			Wojciech Barczyski
 		</td>
@@ -8584,7 +8584,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>606</td>
 		<td>
 			<a target="_blank" href="https://github.com/fidley">
-				<img src="https://private-avatars.githubusercontent.com/u/7912195?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyODAsIm5iZiI6MTczNDU3NDA4MCwicGF0aCI6Ii91Lzc5MTIxOTUifQ.6JdiwgURN2QRS5uMtl0CVrOm01bmZw7aBki9cer8DoM&s=72&u=9ae952553c1bc3ab179b56bee022ecc277cdd04d&v=4" width="24" alt="Avatar of fidley"/> fidley
+				<img src="https://private-avatars.githubusercontent.com/u/7912195?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxODAsIm5iZiI6MTczNDYxMDk4MCwicGF0aCI6Ii91Lzc5MTIxOTUifQ.i2NtgfdWV1E-ybtmOJ4NqkGFOFfyIERcqDMnm2mE1dg&s=72&u=9ae952553c1bc3ab179b56bee022ecc277cdd04d&v=4" width="24" alt="Avatar of fidley"/> fidley
 			</a><br/>
 			ukasz Pgiel
 		</td>
@@ -8598,7 +8598,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>607</td>
 		<td>
 			<a target="_blank" href="https://github.com/sdomi">
-				<img src="https://private-avatars.githubusercontent.com/u/22369758?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ3NDAsIm5iZiI6MTczNDU3MzU0MCwicGF0aCI6Ii91LzIyMzY5NzU4In0.a-z1mFJifMEZkYCzxA_6nQeJdA2Jshlh7MPLf8oXLiU&s=72&u=70a6c7f80ea420e47fb5cb4bc23ebe373843f9b1&v=4" width="24" alt="Avatar of sdomi"/> sdomi
+				<img src="https://private-avatars.githubusercontent.com/u/22369758?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE2NDAsIm5iZiI6MTczNDYxMDQ0MCwicGF0aCI6Ii91LzIyMzY5NzU4In0.CYQKubmaCMUsW31cnJP3tD6SQi1fkKEU7CuWuzAslYM&s=72&u=70a6c7f80ea420e47fb5cb4bc23ebe373843f9b1&v=4" width="24" alt="Avatar of sdomi"/> sdomi
 			</a><br/>
 			No Name
 		</td>
@@ -8612,7 +8612,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>608</td>
 		<td>
 			<a target="_blank" href="https://github.com/emcifuntik">
-				<img src="https://private-avatars.githubusercontent.com/u/4309694?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ3NDAsIm5iZiI6MTczNDU3MzU0MCwicGF0aCI6Ii91LzQzMDk2OTQifQ.4nOzlUIgCgaNthFWTG0Sjiu6J0aWZle03BtGTlDLEa0&s=72&u=46e1245f3f149e6ceab34c0a1d0aaf3002555d9c&v=4" width="24" alt="Avatar of emcifuntik"/> emcifuntik
+				<img src="https://private-avatars.githubusercontent.com/u/4309694?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE2NDAsIm5iZiI6MTczNDYxMDQ0MCwicGF0aCI6Ii91LzQzMDk2OTQifQ.GXeNUyrH86Shh5NiWEeHiVUL7HgMKAF0vjLdhQ6RfIo&s=72&u=46e1245f3f149e6ceab34c0a1d0aaf3002555d9c&v=4" width="24" alt="Avatar of emcifuntik"/> emcifuntik
 			</a><br/>
 			Yauhen Pahrabniak
 		</td>
@@ -8626,7 +8626,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>609</td>
 		<td>
 			<a target="_blank" href="https://github.com/pzduniak">
-				<img src="https://private-avatars.githubusercontent.com/u/917230?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyMjAsIm5iZiI6MTczNDU3NDAyMCwicGF0aCI6Ii91LzkxNzIzMCJ9.1ZZGAF-bsAKtWR9wZ6bmBFmuRod_msnXmG4oWpEXo5Y&s=72&u=f277e7deb18659ce831a37cfe59cfe05119e3c2d&v=4" width="24" alt="Avatar of pzduniak"/> pzduniak
+				<img src="https://private-avatars.githubusercontent.com/u/917230?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxMjAsIm5iZiI6MTczNDYxMDkyMCwicGF0aCI6Ii91LzkxNzIzMCJ9.ePIHTXjS0qFKwUj1-PTu3uZLsAgjC-PqbRRMJIx4kFY&s=72&u=f277e7deb18659ce831a37cfe59cfe05119e3c2d&v=4" width="24" alt="Avatar of pzduniak"/> pzduniak
 			</a><br/>
 			Piotr Zduniak
 		</td>
@@ -8640,7 +8640,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>610</td>
 		<td>
 			<a target="_blank" href="https://github.com/RobertoPrevato">
-				<img src="https://private-avatars.githubusercontent.com/u/2576032?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2ODAsIm5iZiI6MTczNDU3MzQ4MCwicGF0aCI6Ii91LzI1NzYwMzIifQ.2wkzeuMSPqqDhM_cissxdO_aY-08uhV5hQsUYzyJE3M&s=72&u=d8d880e8ed05bb170877dd3d561d8301c4beeeed&v=4" width="24" alt="Avatar of RobertoPrevato"/> RobertoPrevato
+				<img src="https://private-avatars.githubusercontent.com/u/2576032?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1ODAsIm5iZiI6MTczNDYxMDM4MCwicGF0aCI6Ii91LzI1NzYwMzIifQ.tx9uAZaB6DBrYo-Ns0sqJ7WISi6yhB4i4dDpLslVy9I&s=72&u=d8d880e8ed05bb170877dd3d561d8301c4beeeed&v=4" width="24" alt="Avatar of RobertoPrevato"/> RobertoPrevato
 			</a><br/>
 			Roberto Prevato
 		</td>
@@ -8654,7 +8654,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>611</td>
 		<td>
 			<a target="_blank" href="https://github.com/nyxiereal">
-				<img src="https://private-avatars.githubusercontent.com/u/98595166?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ1NjAsIm5iZiI6MTczNDU3MzM2MCwicGF0aCI6Ii91Lzk4NTk1MTY2In0.ue-M3TjGq9DlXYY3te8XjJFAr6IN5Awym1Hwyt1iods&s=72&u=e0217528f4a7d604f66782a09e883b0af869c916&v=4" width="24" alt="Avatar of nyxiereal"/> nyxiereal
+				<img src="https://private-avatars.githubusercontent.com/u/98595166?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE0NjAsIm5iZiI6MTczNDYxMDI2MCwicGF0aCI6Ii91Lzk4NTk1MTY2In0.8i90vVZj_2tQ2re_xIF0ObnB8VRhg_UEbdCpC10auAc&s=72&u=e0217528f4a7d604f66782a09e883b0af869c916&v=4" width="24" alt="Avatar of nyxiereal"/> nyxiereal
 			</a><br/>
 			Nyxie
 		</td>
@@ -8668,7 +8668,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>612</td>
 		<td>
 			<a target="_blank" href="https://github.com/slavfox">
-				<img src="https://private-avatars.githubusercontent.com/u/35173529?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUwNDAsIm5iZiI6MTczNDU3Mzg0MCwicGF0aCI6Ii91LzM1MTczNTI5In0.KDCcrm9EvsrZ8-l-A6rVYrPoMmuyQ3L0M2eEbfTF698&s=72&u=2d87414e8fac1ea5d7ab6f9a568470207c7d917e&v=4" width="24" alt="Avatar of slavfox"/> slavfox
+				<img src="https://private-avatars.githubusercontent.com/u/35173529?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE5NDAsIm5iZiI6MTczNDYxMDc0MCwicGF0aCI6Ii91LzM1MTczNTI5In0.ISpLuwlnwEHipE-wghkKvIHMgOllUQMSJYYnPgarifE&s=72&u=2d87414e8fac1ea5d7ab6f9a568470207c7d917e&v=4" width="24" alt="Avatar of slavfox"/> slavfox
 			</a><br/>
 			Slavfox
 		</td>
@@ -8682,7 +8682,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>613</td>
 		<td>
 			<a target="_blank" href="https://github.com/ashleve">
-				<img src="https://private-avatars.githubusercontent.com/u/43458894?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2ODAsIm5iZiI6MTczNDU3MzQ4MCwicGF0aCI6Ii91LzQzNDU4ODk0In0.jtQ7NPXfFyBQf8Pb10NwiKS7B8DZfxv6TkDwOMRCEJk&s=72&u=3fced39a3116710305458d325932acf1bb416434&v=4" width="24" alt="Avatar of ashleve"/> ashleve
+				<img src="https://private-avatars.githubusercontent.com/u/43458894?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1ODAsIm5iZiI6MTczNDYxMDM4MCwicGF0aCI6Ii91LzQzNDU4ODk0In0.cYshZpTYyP7VDD5UX1of2H92OdKPKghEWK4ms2iuOWE&s=72&u=3fced39a3116710305458d325932acf1bb416434&v=4" width="24" alt="Avatar of ashleve"/> ashleve
 			</a><br/>
 			Lukas
 		</td>
@@ -8696,7 +8696,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>614</td>
 		<td>
 			<a target="_blank" href="https://github.com/tborzyszkowski">
-				<img src="https://private-avatars.githubusercontent.com/u/1172070?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4NjAsIm5iZiI6MTczNDU3MzY2MCwicGF0aCI6Ii91LzExNzIwNzAifQ.KllK7MzU6EuRnbYuEVGf_p3eww-n7SyUMADrE1i-pD0&s=72&u=fc5389fa1e5b5e5583372f091f547b9b9064a77e&v=4" width="24" alt="Avatar of tborzyszkowski"/> tborzyszkowski
+				<img src="https://private-avatars.githubusercontent.com/u/1172070?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3NjAsIm5iZiI6MTczNDYxMDU2MCwicGF0aCI6Ii91LzExNzIwNzAifQ.x0KmsvBCphxk_vHkCj1wbrzoQ-y0zBFubWSGv518hm4&s=72&u=fc5389fa1e5b5e5583372f091f547b9b9064a77e&v=4" width="24" alt="Avatar of tborzyszkowski"/> tborzyszkowski
 			</a><br/>
 			Tomasz Borzyszkowski
 		</td>
@@ -8710,7 +8710,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>615</td>
 		<td>
 			<a target="_blank" href="https://github.com/Kwpolska">
-				<img src="https://private-avatars.githubusercontent.com/u/327323?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxMDAsIm5iZiI6MTczNDU3MzkwMCwicGF0aCI6Ii91LzMyNzMyMyJ9.Bht4zZLLDenXlv_I94kMqoxjAowJOZ_Wp00canNA-Ys&s=72&u=44faab5d90b0e48d557b56cccf97beb67527840a&v=4" width="24" alt="Avatar of Kwpolska"/> Kwpolska
+				<img src="https://private-avatars.githubusercontent.com/u/327323?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwMDAsIm5iZiI6MTczNDYxMDgwMCwicGF0aCI6Ii91LzMyNzMyMyJ9.ElFg1qc-850iwUsfW3B0NN-FSelHtC0WaQlRvkCq1x4&s=72&u=44faab5d90b0e48d557b56cccf97beb67527840a&v=4" width="24" alt="Avatar of Kwpolska"/> Kwpolska
 			</a><br/>
 			Chris Warrick
 		</td>
@@ -8723,8 +8723,22 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 	<tr>
 		<td>616</td>
 		<td>
+			<a target="_blank" href="https://github.com/d33tah">
+				<img src="https://private-avatars.githubusercontent.com/u/295322?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwNjAsIm5iZiI6MTczNDYxMDg2MCwicGF0aCI6Ii91LzI5NTMyMiJ9.hSetQzP87dydtgJ1x_SyewvLzQ2p-yQdfrfRGDxp9aw&s=72&v=4" width="24" alt="Avatar of d33tah"/> d33tah
+			</a><br/>
+			Jacek Wielemborek
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Poland d</td>
+		<td>134</td>
+		<td>134</td>
+	</tr>
+	<tr>
+		<td>617</td>
+		<td>
 			<a target="_blank" href="https://github.com/kolorobot">
-				<img src="https://private-avatars.githubusercontent.com/u/1202934?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ3NDAsIm5iZiI6MTczNDU3MzU0MCwicGF0aCI6Ii91LzEyMDI5MzQifQ.vcGHkDBk1xzoPOXAPExQxuo7cKXsNotxVrzPwUnLQcc&s=72&u=93aa00084006055432cf717da49f8b50918845bd&v=4" width="24" alt="Avatar of kolorobot"/> kolorobot
+				<img src="https://private-avatars.githubusercontent.com/u/1202934?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE2NDAsIm5iZiI6MTczNDYxMDQ0MCwicGF0aCI6Ii91LzEyMDI5MzQifQ.GOfIpAAe2NUrPd5O6LiAC9zejXp7VItxMOm6ZQYiJc8&s=72&u=93aa00084006055432cf717da49f8b50918845bd&v=4" width="24" alt="Avatar of kolorobot"/> kolorobot
 			</a><br/>
 			Rafal Borowiec
 		</td>
@@ -8735,38 +8749,24 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>133</td>
 	</tr>
 	<tr>
-		<td>617</td>
-		<td>
-			<a target="_blank" href="https://github.com/d33tah">
-				<img src="https://private-avatars.githubusercontent.com/u/295322?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxNjAsIm5iZiI6MTczNDU3Mzk2MCwicGF0aCI6Ii91LzI5NTMyMiJ9.04BZO2sd-lY0uIlaY-WuyeMGz_z7To7Y8jaKfXGOWEk&s=72&v=4" width="24" alt="Avatar of d33tah"/> d33tah
-			</a><br/>
-			Jacek Wielemborek
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Poland d</td>
-		<td>131</td>
-		<td>131</td>
-	</tr>
-	<tr>
 		<td>618</td>
 		<td>
 			<a target="_blank" href="https://github.com/PiotrMachowski">
-				<img src="https://private-avatars.githubusercontent.com/u/6118709?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxMDAsIm5iZiI6MTczNDU3MzkwMCwicGF0aCI6Ii91LzYxMTg3MDkifQ.DT8TT4RZvlqjNXjgrgrbk055-OqCVdtNK56Xk4-vny0&s=72&u=82946b841a3827f598b4871d997f423c425cc40e&v=4" width="24" alt="Avatar of PiotrMachowski"/> PiotrMachowski
+				<img src="https://private-avatars.githubusercontent.com/u/6118709?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwMDAsIm5iZiI6MTczNDYxMDgwMCwicGF0aCI6Ii91LzYxMTg3MDkifQ.jeE8R7gNqUlWCdh3rG_flWSmfPkOoM0CXgiMXEu_UiY&s=72&u=82946b841a3827f598b4871d997f423c425cc40e&v=4" width="24" alt="Avatar of PiotrMachowski"/> PiotrMachowski
 			</a><br/>
 			Piotr Machowski
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Poland</td>
-		<td>130</td>
-		<td>130</td>
+		<td>129</td>
+		<td>129</td>
 	</tr>
 	<tr>
 		<td>619</td>
 		<td>
 			<a target="_blank" href="https://github.com/szymon-rd">
-				<img src="https://private-avatars.githubusercontent.com/u/4761866?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5ODAsIm5iZiI6MTczNDU3Mzc4MCwicGF0aCI6Ii91LzQ3NjE4NjYifQ.zjLxNDJ5fHx2RsecgrQ-6amnVi1I2KwueGa1HZ6L8PY&s=72&u=10245bf9863fb8a583c2d07db2273de23bb00229&v=4" width="24" alt="Avatar of szymon-rd"/> szymon-rd
+				<img src="https://private-avatars.githubusercontent.com/u/4761866?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4ODAsIm5iZiI6MTczNDYxMDY4MCwicGF0aCI6Ii91LzQ3NjE4NjYifQ.tSr1kB4BTBcP7_6xpAm5vppvNmkvlvTAdqbUj5M0ZQE&s=72&u=10245bf9863fb8a583c2d07db2273de23bb00229&v=4" width="24" alt="Avatar of szymon-rd"/> szymon-rd
 			</a><br/>
 			Simon R
 		</td>
@@ -8780,7 +8780,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>620</td>
 		<td>
 			<a target="_blank" href="https://github.com/mstaniak">
-				<img src="https://private-avatars.githubusercontent.com/u/20418265?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5ODAsIm5iZiI6MTczNDU3Mzc4MCwicGF0aCI6Ii91LzIwNDE4MjY1In0.oEYne6pxcqgwsSQRcBTeEr8xXOsFnH1sWclce39MoAk&s=72&u=3ad73370ffc1e0f7f68afb98a1e495666c4977b2&v=4" width="24" alt="Avatar of mstaniak"/> mstaniak
+				<img src="https://private-avatars.githubusercontent.com/u/20418265?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4ODAsIm5iZiI6MTczNDYxMDY4MCwicGF0aCI6Ii91LzIwNDE4MjY1In0.zMHaTJHxgEkxEd9oUc_dtRIOtMopMu18U77uFm2tUFY&s=72&u=3ad73370ffc1e0f7f68afb98a1e495666c4977b2&v=4" width="24" alt="Avatar of mstaniak"/> mstaniak
 			</a><br/>
 			Mateusz Staniak
 		</td>
@@ -8794,7 +8794,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>621</td>
 		<td>
 			<a target="_blank" href="https://github.com/fizyk20">
-				<img src="https://private-avatars.githubusercontent.com/u/3586757?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU0MDAsIm5iZiI6MTczNDU3NDIwMCwicGF0aCI6Ii91LzM1ODY3NTcifQ.VP6EGzF2eq1N7wbtPUrpLmfwUAerXFPNw-zYD5DS7do&s=72&v=4" width="24" alt="Avatar of fizyk20"/> fizyk20
+				<img src="https://private-avatars.githubusercontent.com/u/3586757?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIzMDAsIm5iZiI6MTczNDYxMTEwMCwicGF0aCI6Ii91LzM1ODY3NTcifQ.PsIntfxR1OwsuzrbNeA325_PZ_Lgw4x4IcU9p_Orr8k&s=72&v=4" width="24" alt="Avatar of fizyk20"/> fizyk20
 			</a><br/>
 			Bartomiej Kamiski
 		</td>
@@ -8807,8 +8807,22 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 	<tr>
 		<td>622</td>
 		<td>
+			<a target="_blank" href="https://github.com/jakubczakon">
+				<img src="https://private-avatars.githubusercontent.com/u/20753508?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE5NDAsIm5iZiI6MTczNDYxMDc0MCwicGF0aCI6Ii91LzIwNzUzNTA4In0.cnGvcDA2NEpGKc9VFgr7qR7Qb8QNO-t75Ogc5w04x1A&s=72&u=42063e185efeedf2c8939d3f310f76e1833dba15&v=4" width="24" alt="Avatar of jakubczakon"/> jakubczakon
+			</a><br/>
+			Jakub
+		</td>
+		<td>Neptuneml </td>
+		<td>No Twitter Username</td>
+		<td>Warsaw</td>
+		<td>124</td>
+		<td>124</td>
+	</tr>
+	<tr>
+		<td>623</td>
+		<td>
 			<a target="_blank" href="https://github.com/tstamborski">
-				<img src="https://private-avatars.githubusercontent.com/u/30195684?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ3NDAsIm5iZiI6MTczNDU3MzU0MCwicGF0aCI6Ii91LzMwMTk1Njg0In0.rvKjzA00jXg15kq3qJKE9JjRmzl4NNh2k7og8JfkNcg&s=72&u=8f423abde5ef8772ba59c2eb96355c09651096ae&v=4" width="24" alt="Avatar of tstamborski"/> tstamborski
+				<img src="https://private-avatars.githubusercontent.com/u/30195684?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE2NDAsIm5iZiI6MTczNDYxMDQ0MCwicGF0aCI6Ii91LzMwMTk1Njg0In0.kND-UAM-t0c91rNJOcbHEW0IQTA1hVfS6AxZyOG2LKw&s=72&u=8f423abde5ef8772ba59c2eb96355c09651096ae&v=4" width="24" alt="Avatar of tstamborski"/> tstamborski
 			</a><br/>
 			Tobiasz Stamborski
 		</td>
@@ -8819,10 +8833,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>123</td>
 	</tr>
 	<tr>
-		<td>623</td>
+		<td>624</td>
 		<td>
 			<a target="_blank" href="https://github.com/NadiaPeki">
-				<img src="https://private-avatars.githubusercontent.com/u/119632856?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxNjAsIm5iZiI6MTczNDU3Mzk2MCwicGF0aCI6Ii91LzExOTYzMjg1NiJ9.nYnmBJg2Vn1z7RzH6pWYraVm5D6mDmfzL3ZuIUpkT48&s=72&u=ede1e9adb952715ef1993a34508ea4b7ab264493&v=4" width="24" alt="Avatar of NadiaPeki"/> NadiaPeki
+				<img src="https://private-avatars.githubusercontent.com/u/119632856?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwNjAsIm5iZiI6MTczNDYxMDg2MCwicGF0aCI6Ii91LzExOTYzMjg1NiJ9.FNOlnvEXBe-sZnHrPF0reJbVUBu9aM-yyF52Bn8mi6U&s=72&u=ede1e9adb952715ef1993a34508ea4b7ab264493&v=4" width="24" alt="Avatar of NadiaPeki"/> NadiaPeki
 			</a><br/>
 			Nadzeya Pekarskaya
 		</td>
@@ -8833,24 +8847,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>123</td>
 	</tr>
 	<tr>
-		<td>624</td>
-		<td>
-			<a target="_blank" href="https://github.com/jakubczakon">
-				<img src="https://private-avatars.githubusercontent.com/u/20753508?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUwNDAsIm5iZiI6MTczNDU3Mzg0MCwicGF0aCI6Ii91LzIwNzUzNTA4In0._9oUIutkKJNiO9ZGjmJDpHYm_J5gXESR0MHWeg9QEE0&s=72&u=42063e185efeedf2c8939d3f310f76e1833dba15&v=4" width="24" alt="Avatar of jakubczakon"/> jakubczakon
-			</a><br/>
-			Jakub
-		</td>
-		<td>Neptuneml </td>
-		<td>No Twitter Username</td>
-		<td>Warsaw</td>
-		<td>123</td>
-		<td>123</td>
-	</tr>
-	<tr>
 		<td>625</td>
 		<td>
 			<a target="_blank" href="https://github.com/mateuszbuda">
-				<img src="https://private-avatars.githubusercontent.com/u/5720638?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxNjAsIm5iZiI6MTczNDU3Mzk2MCwicGF0aCI6Ii91LzU3MjA2MzgifQ.qqxRo8FrHVJwkp2rT7y8BDy0Zeq90eGJ2lRCWSDAyI8&s=72&u=da6569aefbed1581c87686b921848567645e980d&v=4" width="24" alt="Avatar of mateuszbuda"/> mateuszbuda
+				<img src="https://private-avatars.githubusercontent.com/u/5720638?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwNjAsIm5iZiI6MTczNDYxMDg2MCwicGF0aCI6Ii91LzU3MjA2MzgifQ.5iics9ukaKfl54h_X5T7zWvXB5Ns8f45LoAb6-wD4ns&s=72&u=da6569aefbed1581c87686b921848567645e980d&v=4" width="24" alt="Avatar of mateuszbuda"/> mateuszbuda
 			</a><br/>
 			No Name
 		</td>
@@ -8864,7 +8864,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>626</td>
 		<td>
 			<a target="_blank" href="https://github.com/ikhlestov">
-				<img src="https://private-avatars.githubusercontent.com/u/9900548?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4NjAsIm5iZiI6MTczNDU3MzY2MCwicGF0aCI6Ii91Lzk5MDA1NDgifQ.wrqb6wvZPkWYe3VaB7f2JN-On4atIA8wufZNm5v3yMo&s=72&v=4" width="24" alt="Avatar of ikhlestov"/> ikhlestov
+				<img src="https://private-avatars.githubusercontent.com/u/9900548?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3NjAsIm5iZiI6MTczNDYxMDU2MCwicGF0aCI6Ii91Lzk5MDA1NDgifQ.RJ1NgbD08s6MhBptd1yaUmAXupYXbECYN8D-HaaHiHo&s=72&v=4" width="24" alt="Avatar of ikhlestov"/> ikhlestov
 			</a><br/>
 			Illarion
 		</td>
@@ -8878,7 +8878,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>627</td>
 		<td>
 			<a target="_blank" href="https://github.com/terjanq">
-				<img src="https://private-avatars.githubusercontent.com/u/11320896?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ1NjAsIm5iZiI6MTczNDU3MzM2MCwicGF0aCI6Ii91LzExMzIwODk2In0.OET-BlBv6Atl6taujjI65bZ1oODQgIOgLpDsCHW35I0&s=72&u=c346c565aaae982187b72cbcf96df14f4534f322&v=4" width="24" alt="Avatar of terjanq"/> terjanq
+				<img src="https://private-avatars.githubusercontent.com/u/11320896?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE0NjAsIm5iZiI6MTczNDYxMDI2MCwicGF0aCI6Ii91LzExMzIwODk2In0.4tlgK1Owz1BUEnH2sGLXTh_mZ9V9hjLIMaos6P4hp78&s=72&u=c346c565aaae982187b72cbcf96df14f4534f322&v=4" width="24" alt="Avatar of terjanq"/> terjanq
 			</a><br/>
 			No Name
 		</td>
@@ -8892,7 +8892,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>628</td>
 		<td>
 			<a target="_blank" href="https://github.com/cahirwpz">
-				<img src="https://private-avatars.githubusercontent.com/u/265236?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUzNDAsIm5iZiI6MTczNDU3NDE0MCwicGF0aCI6Ii91LzI2NTIzNiJ9.4X6xVVfrar6nRmD0T0tpGu-EmhpL__eTJDdCdZKAsIw&s=72&u=b57679d198adf11eda24dc40c12acb5fa484fe39&v=4" width="24" alt="Avatar of cahirwpz"/> cahirwpz
+				<img src="https://private-avatars.githubusercontent.com/u/265236?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIyNDAsIm5iZiI6MTczNDYxMTA0MCwicGF0aCI6Ii91LzI2NTIzNiJ9.nOG0A8o58TUKZEKyitZRqkNwVGbsRMU21VToHBF5_xE&s=72&u=b57679d198adf11eda24dc40c12acb5fa484fe39&v=4" width="24" alt="Avatar of cahirwpz"/> cahirwpz
 			</a><br/>
 			Krystian Bacawski
 		</td>
@@ -8906,7 +8906,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>629</td>
 		<td>
 			<a target="_blank" href="https://github.com/philipshurpik">
-				<img src="https://private-avatars.githubusercontent.com/u/6635302?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxMDAsIm5iZiI6MTczNDU3MzkwMCwicGF0aCI6Ii91LzY2MzUzMDIifQ.qt-2cbPoF3yNom3G3Jb-1_7b_C8HHpd6VwngGxNHNdE&s=72&u=af144633d0169ff2e1e55de9e01a125c4f1c7fa5&v=4" width="24" alt="Avatar of philipshurpik"/> philipshurpik
+				<img src="https://private-avatars.githubusercontent.com/u/6635302?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwMDAsIm5iZiI6MTczNDYxMDgwMCwicGF0aCI6Ii91LzY2MzUzMDIifQ.XuKYlNeSQlJB6V4QJekwAlWlLcdkvCc7tSkYOEheAQM&s=72&u=af144633d0169ff2e1e55de9e01a125c4f1c7fa5&v=4" width="24" alt="Avatar of philipshurpik"/> philipshurpik
 			</a><br/>
 			Philip Shurpik
 		</td>
@@ -8920,7 +8920,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>630</td>
 		<td>
 			<a target="_blank" href="https://github.com/WojciechMula">
-				<img src="https://private-avatars.githubusercontent.com/u/4331762?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQzODAsIm5iZiI6MTczNDU3MzE4MCwicGF0aCI6Ii91LzQzMzE3NjIifQ.ZbYFcPom5jFqBbwzS6M1yB16fRBUlfXu4xjPZEruR0g&s=72&v=4" width="24" alt="Avatar of WojciechMula"/> WojciechMula
+				<img src="https://private-avatars.githubusercontent.com/u/4331762?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTEyODAsIm5iZiI6MTczNDYxMDA4MCwicGF0aCI6Ii91LzQzMzE3NjIifQ.413FC9HS9C-T5GPws5BEIHMW6DmJeSVo22D-nuKjEfE&s=72&v=4" width="24" alt="Avatar of WojciechMula"/> WojciechMula
 			</a><br/>
 			Wojciech Mua
 		</td>
@@ -8933,8 +8933,22 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 	<tr>
 		<td>631</td>
 		<td>
+			<a target="_blank" href="https://github.com/mwielgus">
+				<img src="https://private-avatars.githubusercontent.com/u/11994812?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIyNDAsIm5iZiI6MTczNDYxMTA0MCwicGF0aCI6Ii91LzExOTk0ODEyIn0.29ss5Ay2SgbxrYaSiU1n8LE9Qumms-HSZuPrul6XqtE&s=72&u=a187139caa692338721038e32edbf56e361d5e8a&v=4" width="24" alt="Avatar of mwielgus"/> mwielgus
+			</a><br/>
+			Marcin Wielgus
+		</td>
+		<td>Google </td>
+		<td>No Twitter Username</td>
+		<td>Poland</td>
+		<td>108</td>
+		<td>108</td>
+	</tr>
+	<tr>
+		<td>632</td>
+		<td>
 			<a target="_blank" href="https://github.com/s-KaiNet">
-				<img src="https://private-avatars.githubusercontent.com/u/10658276?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxNjAsIm5iZiI6MTczNDU3Mzk2MCwicGF0aCI6Ii91LzEwNjU4Mjc2In0.07GBmhbH_lxvt03yPi81hUopbp2iZKK47y1OfiCY4aY&s=72&u=15bfc5d6e2243724c9d07cd5c7f3a39b7dea0854&v=4" width="24" alt="Avatar of s-KaiNet"/> s-KaiNet
+				<img src="https://private-avatars.githubusercontent.com/u/10658276?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwNjAsIm5iZiI6MTczNDYxMDg2MCwicGF0aCI6Ii91LzEwNjU4Mjc2In0.o5bhcz7f4Oe9imQ25SiM0gMpC7cIJWfwXUNb1WGbRvA&s=72&u=15bfc5d6e2243724c9d07cd5c7f3a39b7dea0854&v=4" width="24" alt="Avatar of s-KaiNet"/> s-KaiNet
 			</a><br/>
 			Sergei Sergeev
 		</td>
@@ -8945,24 +8959,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>106</td>
 	</tr>
 	<tr>
-		<td>632</td>
-		<td>
-			<a target="_blank" href="https://github.com/mwielgus">
-				<img src="https://private-avatars.githubusercontent.com/u/11994812?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUzNDAsIm5iZiI6MTczNDU3NDE0MCwicGF0aCI6Ii91LzExOTk0ODEyIn0.SapowJTVAp4yOT2-NmiZieH9TTV5v6g-iKY0qN4h3LI&s=72&u=a187139caa692338721038e32edbf56e361d5e8a&v=4" width="24" alt="Avatar of mwielgus"/> mwielgus
-			</a><br/>
-			Marcin Wielgus
-		</td>
-		<td>Google </td>
-		<td>No Twitter Username</td>
-		<td>Poland</td>
-		<td>106</td>
-		<td>106</td>
-	</tr>
-	<tr>
 		<td>633</td>
 		<td>
 			<a target="_blank" href="https://github.com/nevzatcelik">
-				<img src="https://private-avatars.githubusercontent.com/u/114315038?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2MjAsIm5iZiI6MTczNDU3MzQyMCwicGF0aCI6Ii91LzExNDMxNTAzOCJ9.y8YWEcZxfwU-eH2lxPb3F3GQLN4wodsDRstLmeCfaV4&s=72&u=8aa6a870a639ea988ce11831885ef7587fc33afa&v=4" width="24" alt="Avatar of nevzatcelik"/> nevzatcelik
+				<img src="https://private-avatars.githubusercontent.com/u/114315038?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1MjAsIm5iZiI6MTczNDYxMDMyMCwicGF0aCI6Ii91LzExNDMxNTAzOCJ9._X2iH1QB7Sd3P8Vg3qmpnCg5V0q4hIfH4nE6vfwY2Vc&s=72&u=8aa6a870a639ea988ce11831885ef7587fc33afa&v=4" width="24" alt="Avatar of nevzatcelik"/> nevzatcelik
 			</a><br/>
 			Nevzat 
 		</td>
@@ -8976,7 +8976,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>634</td>
 		<td>
 			<a target="_blank" href="https://github.com/Nomzegh">
-				<img src="https://private-avatars.githubusercontent.com/u/101575015?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5MjAsIm5iZiI6MTczNDU3MzcyMCwicGF0aCI6Ii91LzEwMTU3NTAxNSJ9.xFtHpuVt4vNOrJMG0rX3uzh4VSReXoB4zHPZXW97fbw&s=72&u=178944bfe07c3ce69bd97af8886035def75ee7a2&v=4" width="24" alt="Avatar of Nomzegh"/> Nomzegh
+				<img src="https://private-avatars.githubusercontent.com/u/101575015?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4MjAsIm5iZiI6MTczNDYxMDYyMCwicGF0aCI6Ii91LzEwMTU3NTAxNSJ9.0orfbmxNzFy6VT1sw0GBNQH1KVqQDN0hOkbTnxGvzBU&s=72&u=178944bfe07c3ce69bd97af8886035def75ee7a2&v=4" width="24" alt="Avatar of Nomzegh"/> Nomzegh
 			</a><br/>
 			Anatolii
 		</td>
@@ -8989,8 +8989,22 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 	<tr>
 		<td>635</td>
 		<td>
+			<a target="_blank" href="https://github.com/lpiob">
+				<img src="https://private-avatars.githubusercontent.com/u/1444251?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwMDAsIm5iZiI6MTczNDYxMDgwMCwicGF0aCI6Ii91LzE0NDQyNTEifQ.yRov6_wKbVm0Yipwl7zyvGA54YSq_OjJB-ulUyxphWo&s=72&u=fb8fa9cf07a7e58ab61729d895cc1db9f40dfd0a&v=4" width="24" alt="Avatar of lpiob"/> lpiob
+			</a><br/>
+			ukasz Biegaj
+		</td>
+		<td>Unity Group </td>
+		<td>No Twitter Username</td>
+		<td>Poland</td>
+		<td>97</td>
+		<td>102</td>
+	</tr>
+	<tr>
+		<td>636</td>
+		<td>
 			<a target="_blank" href="https://github.com/vifon">
-				<img src="https://private-avatars.githubusercontent.com/u/624347?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU0NjAsIm5iZiI6MTczNDU3NDI2MCwicGF0aCI6Ii91LzYyNDM0NyJ9.azUKmcnYghsYANmJzuBmLaFferv0KRxwtQfhnPkB_jQ&s=72&v=4" width="24" alt="Avatar of vifon"/> vifon
+				<img src="https://private-avatars.githubusercontent.com/u/624347?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIzNjAsIm5iZiI6MTczNDYxMTE2MCwicGF0aCI6Ii91LzYyNDM0NyJ9.P3FPPqU8oIg52_y1tqelgNkM8lAJ4QtWKcb1YOGmF8k&s=72&v=4" width="24" alt="Avatar of vifon"/> vifon
 			</a><br/>
 			Wojciech Siewierski
 		</td>
@@ -9001,10 +9015,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>100</td>
 	</tr>
 	<tr>
-		<td>636</td>
+		<td>637</td>
 		<td>
 			<a target="_blank" href="https://github.com/Gutek">
-				<img src="https://private-avatars.githubusercontent.com/u/461827?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4NjAsIm5iZiI6MTczNDU3MzY2MCwicGF0aCI6Ii91LzQ2MTgyNyJ9.DEfAc1oMV2hvLCKGnS_jn9MQdnqFCNFE_ID8bbTs9Nk&s=72&u=057a981505c5a6f3a2ebe6a05fbf455468f91f22&v=4" width="24" alt="Avatar of Gutek"/> Gutek
+				<img src="https://private-avatars.githubusercontent.com/u/461827?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3NjAsIm5iZiI6MTczNDYxMDU2MCwicGF0aCI6Ii91LzQ2MTgyNyJ9.pVrZuY3A92yIcwH71HYvSOs8FBHMAeVUMffGM1tIiLg&s=72&u=057a981505c5a6f3a2ebe6a05fbf455468f91f22&v=4" width="24" alt="Avatar of Gutek"/> Gutek
 			</a><br/>
 			Jakub Gutkowski
 		</td>
@@ -9015,10 +9029,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>100</td>
 	</tr>
 	<tr>
-		<td>637</td>
+		<td>638</td>
 		<td>
 			<a target="_blank" href="https://github.com/tomkovich">
-				<img src="https://private-avatars.githubusercontent.com/u/44100617?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxNjAsIm5iZiI6MTczNDU3Mzk2MCwicGF0aCI6Ii91LzQ0MTAwNjE3In0.24TwQ4C-9lSjdMxC54boYa4788KVUjMNNDPtzmWGgyo&s=72&u=d015ea3392eeebd9607cc05ec975a699a3eeea63&v=4" width="24" alt="Avatar of tomkovich"/> tomkovich
+				<img src="https://private-avatars.githubusercontent.com/u/44100617?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwNjAsIm5iZiI6MTczNDYxMDg2MCwicGF0aCI6Ii91LzQ0MTAwNjE3In0.2Z0t_uciLcdjAjAFZX6OSEnuEHgqM0yR_ZotA9oERsE&s=72&u=d015ea3392eeebd9607cc05ec975a699a3eeea63&v=4" width="24" alt="Avatar of tomkovich"/> tomkovich
 			</a><br/>
 			Tomkovich
 		</td>
@@ -9029,10 +9043,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>97</td>
 	</tr>
 	<tr>
-		<td>638</td>
+		<td>639</td>
 		<td>
 			<a target="_blank" href="https://github.com/mzet-">
-				<img src="https://private-avatars.githubusercontent.com/u/4785347?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2ODAsIm5iZiI6MTczNDU3MzQ4MCwicGF0aCI6Ii91LzQ3ODUzNDcifQ.XW5lByvXyMnl1GDvRgCtRopbWoXkxAfepePKfBYWsrM&s=72&u=126c38fef9c86352e814c3031fb01f5a51191d61&v=4" width="24" alt="Avatar of mzet-"/> mzet-
+				<img src="https://private-avatars.githubusercontent.com/u/4785347?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1ODAsIm5iZiI6MTczNDYxMDM4MCwicGF0aCI6Ii91LzQ3ODUzNDcifQ.p6hNIfGoMNnG1AYQMH0WWDTTrqfGKG04ObV2jMVRCUw&s=72&u=126c38fef9c86352e814c3031fb01f5a51191d61&v=4" width="24" alt="Avatar of mzet-"/> mzet-
 			</a><br/>
 			mzet
 		</td>
@@ -9043,10 +9057,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>97</td>
 	</tr>
 	<tr>
-		<td>639</td>
+		<td>640</td>
 		<td>
 			<a target="_blank" href="https://github.com/PJDude">
-				<img src="https://private-avatars.githubusercontent.com/u/113237362?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2MjAsIm5iZiI6MTczNDU3MzQyMCwicGF0aCI6Ii91LzExMzIzNzM2MiJ9.zDiSO9GqbntoqvUiGh93rsFR33WqFIMtdy7jx-Cpry0&s=72&u=288f3095518863ac08ab81ea2cf610081563d314&v=4" width="24" alt="Avatar of PJDude"/> PJDude
+				<img src="https://private-avatars.githubusercontent.com/u/113237362?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1MjAsIm5iZiI6MTczNDYxMDMyMCwicGF0aCI6Ii91LzExMzIzNzM2MiJ9.p3gHIHccvMrPwUc9-Ny3T-_vbJtIDEAYYOXuYb9KEpw&s=72&u=288f3095518863ac08ab81ea2cf610081563d314&v=4" width="24" alt="Avatar of PJDude"/> PJDude
 			</a><br/>
 			Piotr Jochymek
 		</td>
@@ -9057,24 +9071,24 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>97</td>
 	</tr>
 	<tr>
-		<td>640</td>
-		<td>
-			<a target="_blank" href="https://github.com/lpiob">
-				<img src="https://private-avatars.githubusercontent.com/u/1444251?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxMDAsIm5iZiI6MTczNDU3MzkwMCwicGF0aCI6Ii91LzE0NDQyNTEifQ.EU1Pui2vFM0XxpX-N_thLbUQ5jriOhXMH0-ft-GiDyQ&s=72&u=fb8fa9cf07a7e58ab61729d895cc1db9f40dfd0a&v=4" width="24" alt="Avatar of lpiob"/> lpiob
-			</a><br/>
-			ukasz Biegaj
-		</td>
-		<td>Unity Group </td>
-		<td>No Twitter Username</td>
-		<td>Poland</td>
-		<td>92</td>
-		<td>97</td>
-	</tr>
-	<tr>
 		<td>641</td>
 		<td>
+			<a target="_blank" href="https://github.com/kdzwinel">
+				<img src="https://private-avatars.githubusercontent.com/u/985504?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91Lzk4NTUwNCJ9.hXTN7MTwIkgtEw5oCsgzqG46tILWDEo7tuUu0HFzTRE&s=72&u=5217b4407b94a5837696843d9af563d43dd1b436&v=4" width="24" alt="Avatar of kdzwinel"/> kdzwinel
+			</a><br/>
+			Konrad Dzwinel
+		</td>
+		<td>Privacy Engineering @duckduckgo </td>
+		<td>No Twitter Username</td>
+		<td>Krakw Poland</td>
+		<td>96</td>
+		<td>96</td>
+	</tr>
+	<tr>
+		<td>642</td>
+		<td>
 			<a target="_blank" href="https://github.com/apohllo">
-				<img src="https://private-avatars.githubusercontent.com/u/40543?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4NjAsIm5iZiI6MTczNDU3MzY2MCwicGF0aCI6Ii91LzQwNTQzIn0.zAvhjFQTo37DaVkLeiaVpy0DdD7yqQSreVly3jHnRmg&s=72&u=da8959c22df067b37729070f703a8863ad2df3e1&v=4" width="24" alt="Avatar of apohllo"/> apohllo
+				<img src="https://private-avatars.githubusercontent.com/u/40543?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3NjAsIm5iZiI6MTczNDYxMDU2MCwicGF0aCI6Ii91LzQwNTQzIn0.toplIcsbmSbn1KBasFDt0m4-QQ_fPYKwqsaTjS-3D-w&s=72&u=da8959c22df067b37729070f703a8863ad2df3e1&v=4" width="24" alt="Avatar of apohllo"/> apohllo
 			</a><br/>
 			Aleksander SmywiskiPohl
 		</td>
@@ -9085,10 +9099,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>96</td>
 	</tr>
 	<tr>
-		<td>642</td>
+		<td>643</td>
 		<td>
 			<a target="_blank" href="https://github.com/PatrykIA">
-				<img src="https://private-avatars.githubusercontent.com/u/173186412?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ0NDAsIm5iZiI6MTczNDU3MzI0MCwicGF0aCI6Ii91LzE3MzE4NjQxMiJ9.SL9fSAW9pY-4gDRq6gmh1ARXlU59iOXY9wq6MtKJ2wU&s=72&u=da42f2a0c49b29d06d1410a44ab26cf7397e43c1&v=4" width="24" alt="Avatar of PatrykIA"/> PatrykIA
+				<img src="https://private-avatars.githubusercontent.com/u/173186412?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTEzNDAsIm5iZiI6MTczNDYxMDE0MCwicGF0aCI6Ii91LzE3MzE4NjQxMiJ9.aP7c0nfiheoyMSYHFG4oApyDLVqRctlaCghn_yfUATg&s=72&u=da42f2a0c49b29d06d1410a44ab26cf7397e43c1&v=4" width="24" alt="Avatar of PatrykIA"/> PatrykIA
 			</a><br/>
 			Patryk Rogowski
 		</td>
@@ -9099,10 +9113,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>95</td>
 	</tr>
 	<tr>
-		<td>643</td>
+		<td>644</td>
 		<td>
 			<a target="_blank" href="https://github.com/amis92">
-				<img src="https://private-avatars.githubusercontent.com/u/2671396?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91LzI2NzEzOTYifQ.sRDlYmSbXDQOfD0l6hP7VCFQ0aWEVbyvPGDInEfhsow&s=72&u=8dd1d0a806820103bfd33f737f868a2c460133f7&v=4" width="24" alt="Avatar of amis92"/> amis92
+				<img src="https://private-avatars.githubusercontent.com/u/2671396?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91LzI2NzEzOTYifQ.QyyIKOA-Wccxs0sye5dxp8J_KJtz4XvrwbPnCDlmUHA&s=72&u=8dd1d0a806820103bfd33f737f868a2c460133f7&v=4" width="24" alt="Avatar of amis92"/> amis92
 			</a><br/>
 			Amadeusz Sadowski
 		</td>
@@ -9113,10 +9127,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>95</td>
 	</tr>
 	<tr>
-		<td>644</td>
+		<td>645</td>
 		<td>
 			<a target="_blank" href="https://github.com/zawadz88">
-				<img src="https://private-avatars.githubusercontent.com/u/3322260?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyMjAsIm5iZiI6MTczNDU3NDAyMCwicGF0aCI6Ii91LzMzMjIyNjAifQ.u-2g2F3GGuyXptAaY94QtOIxvNPTjxhXu2HpCWXza2U&s=72&u=2e00c0084757abc98a06ee266b1e5b3c01f93a53&v=4" width="24" alt="Avatar of zawadz88"/> zawadz88
+				<img src="https://private-avatars.githubusercontent.com/u/3322260?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxMjAsIm5iZiI6MTczNDYxMDkyMCwicGF0aCI6Ii91LzMzMjIyNjAifQ.BNS8XdaG-oovXq7o575VN14Hmj7cIQjCwCk49n-O3XM&s=72&u=2e00c0084757abc98a06ee266b1e5b3c01f93a53&v=4" width="24" alt="Avatar of zawadz88"/> zawadz88
 			</a><br/>
 			Piotr Zawadzki
 		</td>
@@ -9127,24 +9141,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>95</td>
 	</tr>
 	<tr>
-		<td>645</td>
-		<td>
-			<a target="_blank" href="https://github.com/kdzwinel">
-				<img src="https://private-avatars.githubusercontent.com/u/985504?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91Lzk4NTUwNCJ9.t8b0fPQwTDL5R-2vCsNhTY9HXJ5JiNswgyn0jg3NGvA&s=72&u=5217b4407b94a5837696843d9af563d43dd1b436&v=4" width="24" alt="Avatar of kdzwinel"/> kdzwinel
-			</a><br/>
-			Konrad Dzwinel
-		</td>
-		<td>Privacy Engineering @duckduckgo </td>
-		<td>No Twitter Username</td>
-		<td>Krakw Poland</td>
-		<td>94</td>
-		<td>94</td>
-	</tr>
-	<tr>
 		<td>646</td>
 		<td>
 			<a target="_blank" href="https://github.com/cassiodeveloper">
-				<img src="https://private-avatars.githubusercontent.com/u/2001658?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2MjAsIm5iZiI6MTczNDU3MzQyMCwicGF0aCI6Ii91LzIwMDE2NTgifQ.7jzdk8HMvnpNanctd7_Ga6sNBl4TtM-KdJuJZ5eanNM&s=72&u=8114f009246fd978c97bddc61b7e8e696e0fda94&v=4" width="24" alt="Avatar of cassiodeveloper"/> cassiodeveloper
+				<img src="https://private-avatars.githubusercontent.com/u/2001658?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1MjAsIm5iZiI6MTczNDYxMDMyMCwicGF0aCI6Ii91LzIwMDE2NTgifQ.AuUk_E4g6iNsZdeb6zeixfwBUX71aHWfhlFzPKDhba4&s=72&u=8114f009246fd978c97bddc61b7e8e696e0fda94&v=4" width="24" alt="Avatar of cassiodeveloper"/> cassiodeveloper
 			</a><br/>
 			Cssio B Pereira
 		</td>
@@ -9158,7 +9158,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>647</td>
 		<td>
 			<a target="_blank" href="https://github.com/adam-sawicki-a">
-				<img src="https://private-avatars.githubusercontent.com/u/29480618?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUzNDAsIm5iZiI6MTczNDU3NDE0MCwicGF0aCI6Ii91LzI5NDgwNjE4In0.gawErNjPWMqsdjoW77bSkcBN_TIthAitiIHqD7ost5I&s=72&v=4" width="24" alt="Avatar of adam-sawicki-a"/> adam-sawicki-a
+				<img src="https://private-avatars.githubusercontent.com/u/29480618?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIyNDAsIm5iZiI6MTczNDYxMTA0MCwicGF0aCI6Ii91LzI5NDgwNjE4In0.T4X22N29bqLpWLbGax62-sC7hAD4AUqluZNOasfsG1c&s=72&v=4" width="24" alt="Avatar of adam-sawicki-a"/> adam-sawicki-a
 			</a><br/>
 			Adam Sawicki
 		</td>
@@ -9172,7 +9172,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>648</td>
 		<td>
 			<a target="_blank" href="https://github.com/kubikill">
-				<img src="https://private-avatars.githubusercontent.com/u/1623142?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5MjAsIm5iZiI6MTczNDU3MzcyMCwicGF0aCI6Ii91LzE2MjMxNDIifQ.KYaF6fC_7FkqNci6B-Ggl7tdxQzZ2vrr1XpRPc6Ebtk&s=72&u=cf5fe5bf262a54501e23d023b5b67b06bdeed8f8&v=4" width="24" alt="Avatar of kubikill"/> kubikill
+				<img src="https://private-avatars.githubusercontent.com/u/1623142?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4MjAsIm5iZiI6MTczNDYxMDYyMCwicGF0aCI6Ii91LzE2MjMxNDIifQ.aqvkGMJSZQdFn3TCy9SGyjrn7pETCzCLrZm-4WkPxf8&s=72&u=cf5fe5bf262a54501e23d023b5b67b06bdeed8f8&v=4" width="24" alt="Avatar of kubikill"/> kubikill
 			</a><br/>
 			Jakub Topoliski
 		</td>
@@ -9186,7 +9186,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>649</td>
 		<td>
 			<a target="_blank" href="https://github.com/ivasik-k7">
-				<img src="https://private-avatars.githubusercontent.com/u/59869036?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2ODAsIm5iZiI6MTczNDU3MzQ4MCwicGF0aCI6Ii91LzU5ODY5MDM2In0.QjDdypk7dIgNa007xex6sdnNxBgtq_515ZN6RbW4F7o&s=72&u=fa58f9b70eec621b1034edc06e7ae4d3078ea6de&v=4" width="24" alt="Avatar of ivasik-k7"/> ivasik-k7
+				<img src="https://private-avatars.githubusercontent.com/u/59869036?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1ODAsIm5iZiI6MTczNDYxMDM4MCwicGF0aCI6Ii91LzU5ODY5MDM2In0.pm1NUjZop9R87p3oF9LGKj86o4h5KAEAWaZAy7Cblzo&s=72&u=fa58f9b70eec621b1034edc06e7ae4d3078ea6de&v=4" width="24" alt="Avatar of ivasik-k7"/> ivasik-k7
 			</a><br/>
 			Ivan Kovtun
 		</td>
@@ -9200,7 +9200,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>650</td>
 		<td>
 			<a target="_blank" href="https://github.com/elgatito">
-				<img src="https://private-avatars.githubusercontent.com/u/1247242?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91LzEyNDcyNDIifQ.YyBzO_gOKM4mVZQFf3NLv4t4_vCM7N8PeUuPK3EesAs&s=72&u=d9b8894270efbee3778e0b929d7cc07f0bea7071&v=4" width="24" alt="Avatar of elgatito"/> elgatito
+				<img src="https://private-avatars.githubusercontent.com/u/1247242?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91LzEyNDcyNDIifQ.3JDrr9IFgMAVJogXsXImdgcsVBRSDmz3YD6rgOMnfNY&s=72&u=d9b8894270efbee3778e0b929d7cc07f0bea7071&v=4" width="24" alt="Avatar of elgatito"/> elgatito
 			</a><br/>
 			Denis
 		</td>
@@ -9214,7 +9214,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>651</td>
 		<td>
 			<a target="_blank" href="https://github.com/gregxsunday">
-				<img src="https://private-avatars.githubusercontent.com/u/26839305?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyMjAsIm5iZiI6MTczNDU3NDAyMCwicGF0aCI6Ii91LzI2ODM5MzA1In0.gzVHcS5710IL4QmRoGUTm5z6TPLcS7pcAanB4o6ps68&s=72&u=e80c938f894ff735000b77f246732c63f1c8a69f&v=4" width="24" alt="Avatar of gregxsunday"/> gregxsunday
+				<img src="https://private-avatars.githubusercontent.com/u/26839305?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxMjAsIm5iZiI6MTczNDYxMDkyMCwicGF0aCI6Ii91LzI2ODM5MzA1In0.JT7JF7lycPHza4QZEluadVEZCfzMAY6m_fjWKmgsyfA&s=72&u=e80c938f894ff735000b77f246732c63f1c8a69f&v=4" width="24" alt="Avatar of gregxsunday"/> gregxsunday
 			</a><br/>
 			Grzegorz Niedziela
 		</td>
@@ -9228,7 +9228,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>652</td>
 		<td>
 			<a target="_blank" href="https://github.com/thunderer">
-				<img src="https://private-avatars.githubusercontent.com/u/1087180?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5ODAsIm5iZiI6MTczNDU3Mzc4MCwicGF0aCI6Ii91LzEwODcxODAifQ.YH8jp-fR5GoXmQahZGd-WvUeH-uKpjUc11s1Utw-abg&s=72&u=1004de5b46b0770733d009e96163f7efa2a8b486&v=4" width="24" alt="Avatar of thunderer"/> thunderer
+				<img src="https://private-avatars.githubusercontent.com/u/1087180?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4ODAsIm5iZiI6MTczNDYxMDY4MCwicGF0aCI6Ii91LzEwODcxODAifQ.9rVse_Lf9XctNAas6u_iVWaHD16aeGwkalUVcPGx7CA&s=72&u=1004de5b46b0770733d009e96163f7efa2a8b486&v=4" width="24" alt="Avatar of thunderer"/> thunderer
 			</a><br/>
 			Tomasz Kowalczyk
 		</td>
@@ -9242,7 +9242,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>653</td>
 		<td>
 			<a target="_blank" href="https://github.com/BERENZ">
-				<img src="https://private-avatars.githubusercontent.com/u/3464669?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU0MDAsIm5iZiI6MTczNDU3NDIwMCwicGF0aCI6Ii91LzM0NjQ2NjkifQ.ftH4sS9rD2IIxB2ht8aM85CiWQDmS_DrsIQ8KmmuUzg&s=72&u=777cc1edcee8457f658477ae4967b983e5d87239&v=4" width="24" alt="Avatar of BERENZ"/> BERENZ
+				<img src="https://private-avatars.githubusercontent.com/u/3464669?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIzMDAsIm5iZiI6MTczNDYxMTEwMCwicGF0aCI6Ii91LzM0NjQ2NjkifQ.WwEAqQUydFRbZ0toIkmJcpoluT3C40tMgI8AUr5DBUg&s=72&u=777cc1edcee8457f658477ae4967b983e5d87239&v=4" width="24" alt="Avatar of BERENZ"/> BERENZ
 			</a><br/>
 			Maciej Bersewicz
 		</td>
@@ -9256,7 +9256,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>654</td>
 		<td>
 			<a target="_blank" href="https://github.com/NikodemBartnik">
-				<img src="https://private-avatars.githubusercontent.com/u/39432165?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2ODAsIm5iZiI6MTczNDU3MzQ4MCwicGF0aCI6Ii91LzM5NDMyMTY1In0._g7WmqjI9MSABinPIUSX9sSmFXGuZ6JiIiIw6fmFHAs&s=72&u=f1b6612cb29678ae2d6dfea5162d88249fd48174&v=4" width="24" alt="Avatar of NikodemBartnik"/> NikodemBartnik
+				<img src="https://private-avatars.githubusercontent.com/u/39432165?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1ODAsIm5iZiI6MTczNDYxMDM4MCwicGF0aCI6Ii91LzM5NDMyMTY1In0.us1jggP3wjJWmp0QR7wLXLjeV3zd940W0fFuiaiiAIY&s=72&u=f1b6612cb29678ae2d6dfea5162d88249fd48174&v=4" width="24" alt="Avatar of NikodemBartnik"/> NikodemBartnik
 			</a><br/>
 			Nikodem Bartnik
 		</td>
@@ -9270,7 +9270,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>655</td>
 		<td>
 			<a target="_blank" href="https://github.com/mcore1976">
-				<img src="https://private-avatars.githubusercontent.com/u/43117081?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91LzQzMTE3MDgxIn0.sngKZ-rrL_L9QWaLnYB98ftoOxmluWkPpj_ZiBNFSGk&s=72&u=53233609df246a8e9d6ea81724700b4cdda41e0d&v=4" width="24" alt="Avatar of mcore1976"/> mcore1976
+				<img src="https://private-avatars.githubusercontent.com/u/43117081?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91LzQzMTE3MDgxIn0.uyjvXtBYmX9CjjXQAu3hgptK41fHcvuyGTktl7jB1go&s=72&u=53233609df246a8e9d6ea81724700b4cdda41e0d&v=4" width="24" alt="Avatar of mcore1976"/> mcore1976
 			</a><br/>
 			Adam Loboda
 		</td>
@@ -9284,7 +9284,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>656</td>
 		<td>
 			<a target="_blank" href="https://github.com/lkurzyniec">
-				<img src="https://private-avatars.githubusercontent.com/u/5943484?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyODAsIm5iZiI6MTczNDU3NDA4MCwicGF0aCI6Ii91LzU5NDM0ODQifQ.DGA51bZwsDwfXki88n-3Ljpf495bpr0bAFWauKRtHMM&s=72&u=8c1415eb1f0cba4aedd2aaeefbcb3f7759d98212&v=4" width="24" alt="Avatar of lkurzyniec"/> lkurzyniec
+				<img src="https://private-avatars.githubusercontent.com/u/5943484?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxODAsIm5iZiI6MTczNDYxMDk4MCwicGF0aCI6Ii91LzU5NDM0ODQifQ.jogr4jGWeIOvXmzQ3PRc1Jm0C3FZHEyTUgShWuofIYw&s=72&u=8c1415eb1f0cba4aedd2aaeefbcb3f7759d98212&v=4" width="24" alt="Avatar of lkurzyniec"/> lkurzyniec
 			</a><br/>
 			ukasz Kurzyniecpl
 		</td>
@@ -9298,7 +9298,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>657</td>
 		<td>
 			<a target="_blank" href="https://github.com/thebergamo">
-				<img src="https://private-avatars.githubusercontent.com/u/1778730?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ1NjAsIm5iZiI6MTczNDU3MzM2MCwicGF0aCI6Ii91LzE3Nzg3MzAifQ.b1kQISNewzz6JcVk56Zyj4AyFOD9Rxyf738bobDePEg&s=72&u=5d0fdfbb4cd69ac726c3bbe8d608afc451c9d494&v=4" width="24" alt="Avatar of thebergamo"/> thebergamo
+				<img src="https://private-avatars.githubusercontent.com/u/1778730?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE0NjAsIm5iZiI6MTczNDYxMDI2MCwicGF0aCI6Ii91LzE3Nzg3MzAifQ.XqgWZXtJGgUrRYJTqqdW0btbhOWoTVJyydkU6ewi1C0&s=72&u=5d0fdfbb4cd69ac726c3bbe8d608afc451c9d494&v=4" width="24" alt="Avatar of thebergamo"/> thebergamo
 			</a><br/>
 			Marcos Brgamo
 		</td>
@@ -9312,7 +9312,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>658</td>
 		<td>
 			<a target="_blank" href="https://github.com/unkn0w">
-				<img src="https://private-avatars.githubusercontent.com/u/1361159?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2MjAsIm5iZiI6MTczNDU3MzQyMCwicGF0aCI6Ii91LzEzNjExNTkifQ.W2gSEpLDfwKzYvdk1Cw-PO3yxiz3N6UP_oVcb93qIb8&s=72&u=b7aa8855b4d16ecbd4a8e9ed9e408ca4c375a95b&v=4" width="24" alt="Avatar of unkn0w"/> unkn0w
+				<img src="https://private-avatars.githubusercontent.com/u/1361159?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1MjAsIm5iZiI6MTczNDYxMDMyMCwicGF0aCI6Ii91LzEzNjExNTkifQ.edG0aTTuvoiWMq3jkZRAE3S8tu5Z3GC3pQh1xpw8nU0&s=72&u=b7aa8855b4d16ecbd4a8e9ed9e408ca4c375a95b&v=4" width="24" alt="Avatar of unkn0w"/> unkn0w
 			</a><br/>
 			Jakub unknow Mrugalski
 		</td>
@@ -9326,7 +9326,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>659</td>
 		<td>
 			<a target="_blank" href="https://github.com/jhomlala">
-				<img src="https://private-avatars.githubusercontent.com/u/1329033?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5ODAsIm5iZiI6MTczNDU3Mzc4MCwicGF0aCI6Ii91LzEzMjkwMzMifQ.0W0MFCrmN7HPogTczQsG5D5qDFNdjLOiNbtPUEShTMU&s=72&u=41fa42ef1a8bef6e6ef9360d2c822b1ac37d695f&v=4" width="24" alt="Avatar of jhomlala"/> jhomlala
+				<img src="https://private-avatars.githubusercontent.com/u/1329033?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4ODAsIm5iZiI6MTczNDYxMDY4MCwicGF0aCI6Ii91LzEzMjkwMzMifQ.1qiQUFaqGcDGjiGPc4xamyjiUrIPlNOpOM4joJCE960&s=72&u=41fa42ef1a8bef6e6ef9360d2c822b1ac37d695f&v=4" width="24" alt="Avatar of jhomlala"/> jhomlala
 			</a><br/>
 			Jakub Homlala
 		</td>
@@ -9340,7 +9340,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>660</td>
 		<td>
 			<a target="_blank" href="https://github.com/troZee">
-				<img src="https://private-avatars.githubusercontent.com/u/12766071?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2ODAsIm5iZiI6MTczNDU3MzQ4MCwicGF0aCI6Ii91LzEyNzY2MDcxIn0.LSIR7K8gW9FAABgnAYfwDLBky2h1TXkSqET14Jbypp0&s=72&u=2c024d9a62d807e83d7076a0093bedc81d377f6b&v=4" width="24" alt="Avatar of troZee"/> troZee
+				<img src="https://private-avatars.githubusercontent.com/u/12766071?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1ODAsIm5iZiI6MTczNDYxMDM4MCwicGF0aCI6Ii91LzEyNzY2MDcxIn0.M0urW3xWHXVMdbLIqFso-GMV2BnSQr6ZMadcipx5IAY&s=72&u=2c024d9a62d807e83d7076a0093bedc81d377f6b&v=4" width="24" alt="Avatar of troZee"/> troZee
 			</a><br/>
 			No Name
 		</td>
@@ -9348,13 +9348,13 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>No Twitter Username</td>
 		<td>Poland</td>
 		<td>70</td>
-		<td>83</td>
+		<td>84</td>
 	</tr>
 	<tr>
 		<td>661</td>
 		<td>
 			<a target="_blank" href="https://github.com/maknetaRo">
-				<img src="https://private-avatars.githubusercontent.com/u/21258762?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxMDAsIm5iZiI6MTczNDU3MzkwMCwicGF0aCI6Ii91LzIxMjU4NzYyIn0.9N00PU8TVAp-9NvJFZx1GgIef2Y3XX2nBR5Pb1HP_tQ&s=72&u=9a8460b1739be93ef5ca9f2381cd532c87d5b460&v=4" width="24" alt="Avatar of maknetaRo"/> maknetaRo
+				<img src="https://private-avatars.githubusercontent.com/u/21258762?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwMDAsIm5iZiI6MTczNDYxMDgwMCwicGF0aCI6Ii91LzIxMjU4NzYyIn0.QKu8e_xOSpmrsqIQuaJUBd_rCtNHG5h_H2VCUaktoNA&s=72&u=9a8460b1739be93ef5ca9f2381cd532c87d5b460&v=4" width="24" alt="Avatar of maknetaRo"/> maknetaRo
 			</a><br/>
 			Magdalena
 		</td>
@@ -9368,7 +9368,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>662</td>
 		<td>
 			<a target="_blank" href="https://github.com/fcambus">
-				<img src="https://private-avatars.githubusercontent.com/u/825456?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91LzgyNTQ1NiJ9.xFR-edRVFtFH3vnBeZ8xP7MZ-Q4d5ErasMJshO4Cbvc&s=72&v=4" width="24" alt="Avatar of fcambus"/> fcambus
+				<img src="https://private-avatars.githubusercontent.com/u/825456?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91LzgyNTQ1NiJ9.NslrfM6o4d2RIM9-GcqC07nVu7Lo0cJybmVf6-banmQ&s=72&v=4" width="24" alt="Avatar of fcambus"/> fcambus
 			</a><br/>
 			Frederic Cambus
 		</td>
@@ -9381,8 +9381,22 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 	<tr>
 		<td>663</td>
 		<td>
+			<a target="_blank" href="https://github.com/fenbf">
+				<img src="https://private-avatars.githubusercontent.com/u/1734604?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4ODAsIm5iZiI6MTczNDYxMDY4MCwicGF0aCI6Ii91LzE3MzQ2MDQifQ.EirBlo9Rhlc16Pz_AY5z4N06kAZ4CGIzX0DnjYf6D7E&s=72&v=4" width="24" alt="Avatar of fenbf"/> fenbf
+			</a><br/>
+			Bartomiej Filipek
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Poland</td>
+		<td>3</td>
+		<td>78</td>
+	</tr>
+	<tr>
+		<td>664</td>
+		<td>
 			<a target="_blank" href="https://github.com/wokalski">
-				<img src="https://private-avatars.githubusercontent.com/u/1693190?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ0NDAsIm5iZiI6MTczNDU3MzI0MCwicGF0aCI6Ii91LzE2OTMxOTAifQ.fdn3O-xMnYuv3pm0SbId_LfdmmhOfTpciqvpE16cyqg&s=72&u=dae0b44b9ab911d6efee2da881cc406c07157507&v=4" width="24" alt="Avatar of wokalski"/> wokalski
+				<img src="https://private-avatars.githubusercontent.com/u/1693190?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTEzNDAsIm5iZiI6MTczNDYxMDE0MCwicGF0aCI6Ii91LzE2OTMxOTAifQ.VbgdDqp9a8zVqHudWGl_6s_CK4xyBe-XXQAnvG2ycYM&s=72&u=dae0b44b9ab911d6efee2da881cc406c07157507&v=4" width="24" alt="Avatar of wokalski"/> wokalski
 			</a><br/>
 			Wojtek Czekalski
 		</td>
@@ -9393,10 +9407,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>664</td>
+		<td>665</td>
 		<td>
 			<a target="_blank" href="https://github.com/zsiciarz">
-				<img src="https://private-avatars.githubusercontent.com/u/182194?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5ODAsIm5iZiI6MTczNDU3Mzc4MCwicGF0aCI6Ii91LzE4MjE5NCJ9.x-LBRaZfwhRC9Jz30RApMMnk1CD5wiioqr5jlUcT4KE&s=72&u=a7b58eb4e9b2c00b306e0ce64ca530833ca6bfbc&v=4" width="24" alt="Avatar of zsiciarz"/> zsiciarz
+				<img src="https://private-avatars.githubusercontent.com/u/182194?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4ODAsIm5iZiI6MTczNDYxMDY4MCwicGF0aCI6Ii91LzE4MjE5NCJ9.ftwSvz1ktLPe6jHcK9AYlg_1-keHCv7bsk_nF2LsN9E&s=72&u=a7b58eb4e9b2c00b306e0ce64ca530833ca6bfbc&v=4" width="24" alt="Avatar of zsiciarz"/> zsiciarz
 			</a><br/>
 			Zbigniew Siciarz
 		</td>
@@ -9407,10 +9421,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>665</td>
+		<td>666</td>
 		<td>
 			<a target="_blank" href="https://github.com/demchenkoalex">
-				<img src="https://private-avatars.githubusercontent.com/u/14123304?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxNjAsIm5iZiI6MTczNDU3Mzk2MCwicGF0aCI6Ii91LzE0MTIzMzA0In0.-bU6jI3jncP20_Dy4Cz4xjOLtgbtS8PLm5oStPLJTTo&s=72&v=4" width="24" alt="Avatar of demchenkoalex"/> demchenkoalex
+				<img src="https://private-avatars.githubusercontent.com/u/14123304?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwNjAsIm5iZiI6MTczNDYxMDg2MCwicGF0aCI6Ii91LzE0MTIzMzA0In0.0LwaJ_bV1nqJQ-EQsWD34k-930Po000vEHdVk_uXzXE&s=72&v=4" width="24" alt="Avatar of demchenkoalex"/> demchenkoalex
 			</a><br/>
 			Alex
 		</td>
@@ -9421,24 +9435,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>77</td>
 	</tr>
 	<tr>
-		<td>666</td>
-		<td>
-			<a target="_blank" href="https://github.com/fenbf">
-				<img src="https://private-avatars.githubusercontent.com/u/1734604?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5ODAsIm5iZiI6MTczNDU3Mzc4MCwicGF0aCI6Ii91LzE3MzQ2MDQifQ.VUAtNxW20maDDZn6BejM6CKwyqu1dUZneud8o0ba0Ww&s=72&v=4" width="24" alt="Avatar of fenbf"/> fenbf
-			</a><br/>
-			Bartomiej Filipek
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Poland</td>
-		<td>3</td>
-		<td>76</td>
-	</tr>
-	<tr>
 		<td>667</td>
 		<td>
 			<a target="_blank" href="https://github.com/SKGleba">
-				<img src="https://private-avatars.githubusercontent.com/u/30833773?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91LzMwODMzNzczIn0.WrHmsVFgCUnfWHBv-OsFzlIUc4GnOPEBf-EXYjiSWiY&s=72&v=4" width="24" alt="Avatar of SKGleba"/> SKGleba
+				<img src="https://private-avatars.githubusercontent.com/u/30833773?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91LzMwODMzNzczIn0.hLsq9SUETzrAiH3PlXCzSS9T7X2uv6wv7ozdh82gA7w&s=72&v=4" width="24" alt="Avatar of SKGleba"/> SKGleba
 			</a><br/>
 			Sebastian Kubala
 		</td>
@@ -9452,7 +9452,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>668</td>
 		<td>
 			<a target="_blank" href="https://github.com/noisy">
-				<img src="https://private-avatars.githubusercontent.com/u/201263?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2ODAsIm5iZiI6MTczNDU3MzQ4MCwicGF0aCI6Ii91LzIwMTI2MyJ9.-fqGfUU6c-Lwnk4VC58FZwxkexdcEQwKMLc3YgCEQWY&s=72&u=e964ac9d9fe9ab99dd920da07795c3017f21a199&v=4" width="24" alt="Avatar of noisy"/> noisy
+				<img src="https://private-avatars.githubusercontent.com/u/201263?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1ODAsIm5iZiI6MTczNDYxMDM4MCwicGF0aCI6Ii91LzIwMTI2MyJ9.gr3WI3Zfd4bdB-rbhPo2GrQFI3Ea8p9KWtJUJuNDqrY&s=72&u=e964ac9d9fe9ab99dd920da07795c3017f21a199&v=4" width="24" alt="Avatar of noisy"/> noisy
 			</a><br/>
 			Krzysztof Szumny
 		</td>
@@ -9466,7 +9466,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>669</td>
 		<td>
 			<a target="_blank" href="https://github.com/sszczep">
-				<img src="https://private-avatars.githubusercontent.com/u/21238816?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91LzIxMjM4ODE2In0.rxcAK8bFcI3YHw3ZAqJvD3b_FxWds12lmaYz7spqUoU&s=72&v=4" width="24" alt="Avatar of sszczep"/> sszczep
+				<img src="https://private-avatars.githubusercontent.com/u/21238816?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91LzIxMjM4ODE2In0.0SgrVa5ce3FZvsWtI4Wz4jOeaZGq5SEkq-7dLDkWDyM&s=72&v=4" width="24" alt="Avatar of sszczep"/> sszczep
 			</a><br/>
 			Sebastian Szczepaski
 		</td>
@@ -9480,7 +9480,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>670</td>
 		<td>
 			<a target="_blank" href="https://github.com/egzumer">
-				<img src="https://private-avatars.githubusercontent.com/u/14902414?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4NjAsIm5iZiI6MTczNDU3MzY2MCwicGF0aCI6Ii91LzE0OTAyNDE0In0.snCmD8dWJg5QJp8lTgsRBtDz2JsVt3zPeWVrneAYgp8&s=72&u=fff0620c7e61b9f71a2735684f1e2efadfda8a4a&v=4" width="24" alt="Avatar of egzumer"/> egzumer
+				<img src="https://private-avatars.githubusercontent.com/u/14902414?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3NjAsIm5iZiI6MTczNDYxMDU2MCwicGF0aCI6Ii91LzE0OTAyNDE0In0.P3lMAmWtn5LD0dPH5w0CpUB-pSZ_jom8SnHQoq78nk8&s=72&u=fff0620c7e61b9f71a2735684f1e2efadfda8a4a&v=4" width="24" alt="Avatar of egzumer"/> egzumer
 			</a><br/>
 			No Name
 		</td>
@@ -9494,7 +9494,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>671</td>
 		<td>
 			<a target="_blank" href="https://github.com/Friz-zy">
-				<img src="https://private-avatars.githubusercontent.com/u/870618?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5ODAsIm5iZiI6MTczNDU3Mzc4MCwicGF0aCI6Ii91Lzg3MDYxOCJ9.UIqX_7DefEhd05vgsTIdxw-HjMjShqJX90mnSDT4aQ8&s=72&v=4" width="24" alt="Avatar of Friz-zy"/> Friz-zy
+				<img src="https://private-avatars.githubusercontent.com/u/870618?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4ODAsIm5iZiI6MTczNDYxMDY4MCwicGF0aCI6Ii91Lzg3MDYxOCJ9.S47hhe-VagCZqmO4kmjsDEPf2Rp7WWLKbp2ET81GNtQ&s=72&v=4" width="24" alt="Avatar of Friz-zy"/> Friz-zy
 			</a><br/>
 			Filipp Frizzy
 		</td>
@@ -9508,7 +9508,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>672</td>
 		<td>
 			<a target="_blank" href="https://github.com/mulander">
-				<img src="https://private-avatars.githubusercontent.com/u/107247?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyODAsIm5iZiI6MTczNDU3NDA4MCwicGF0aCI6Ii91LzEwNzI0NyJ9.ogC0bwFLangenRAgOqMHukKCnrfMM6yh7tInEIzd2Pk&s=72&v=4" width="24" alt="Avatar of mulander"/> mulander
+				<img src="https://private-avatars.githubusercontent.com/u/107247?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxODAsIm5iZiI6MTczNDYxMDk4MCwicGF0aCI6Ii91LzEwNzI0NyJ9.hUEFFMmCT2aHFKivF_rEQ5OkmNtTMdljDocMbX6KMZc&s=72&v=4" width="24" alt="Avatar of mulander"/> mulander
 			</a><br/>
 			No Name
 		</td>
@@ -9522,7 +9522,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>673</td>
 		<td>
 			<a target="_blank" href="https://github.com/Semen8515">
-				<img src="https://private-avatars.githubusercontent.com/u/144808676?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ3NDAsIm5iZiI6MTczNDU3MzU0MCwicGF0aCI6Ii91LzE0NDgwODY3NiJ9.wFwsEksF1RPYyJHM1aM9WSVZK2R2eFzISEvrFaKqf0c&s=72&u=8bfdd9314d0da07568cca38797ec7e4cf115fecf&v=4" width="24" alt="Avatar of Semen8515"/> Semen8515
+				<img src="https://private-avatars.githubusercontent.com/u/144808676?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE2NDAsIm5iZiI6MTczNDYxMDQ0MCwicGF0aCI6Ii91LzE0NDgwODY3NiJ9.hMAFh-U_6z4UdveWaPPUHQ1vgQgxCwvDfncwqjP1pj8&s=72&u=8bfdd9314d0da07568cca38797ec7e4cf115fecf&v=4" width="24" alt="Avatar of Semen8515"/> Semen8515
 			</a><br/>
 			Alona
 		</td>
@@ -9536,7 +9536,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>674</td>
 		<td>
 			<a target="_blank" href="https://github.com/v3l0c1r4pt0r">
-				<img src="https://private-avatars.githubusercontent.com/u/5477856?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU1ODAsIm5iZiI6MTczNDU3NDM4MCwicGF0aCI6Ii91LzU0Nzc4NTYifQ.D-jp-UhqMGT1OVrBPpAzxksNZadviro5ZbTb4VbHfq4&s=72&v=4" width="24" alt="Avatar of v3l0c1r4pt0r"/> v3l0c1r4pt0r
+				<img src="https://private-avatars.githubusercontent.com/u/5477856?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTI0ODAsIm5iZiI6MTczNDYxMTI4MCwicGF0aCI6Ii91LzU0Nzc4NTYifQ.2BfLDJedvoq_lDJ-ef-_0AdhuPLFr7pSopDU2NtSr68&s=72&v=4" width="24" alt="Avatar of v3l0c1r4pt0r"/> v3l0c1r4pt0r
 			</a><br/>
 			Kamil Lorenc
 		</td>
@@ -9550,7 +9550,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>675</td>
 		<td>
 			<a target="_blank" href="https://github.com/cbm80amiga">
-				<img src="https://private-avatars.githubusercontent.com/u/19922888?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5ODAsIm5iZiI6MTczNDU3Mzc4MCwicGF0aCI6Ii91LzE5OTIyODg4In0.335VmXjf3EK3wKRPGUb9AzzORKU5ThfRqY-TGl-v_OU&s=72&u=c3c8ab913d473e8793bdfd7b3f0fb678aa53de2e&v=4" width="24" alt="Avatar of cbm80amiga"/> cbm80amiga
+				<img src="https://private-avatars.githubusercontent.com/u/19922888?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4ODAsIm5iZiI6MTczNDYxMDY4MCwicGF0aCI6Ii91LzE5OTIyODg4In0.lLFss5Qk8yKZVWf7N8rcCPfAs_VXSwvoKJbOTVapMYk&s=72&u=c3c8ab913d473e8793bdfd7b3f0fb678aa53de2e&v=4" width="24" alt="Avatar of cbm80amiga"/> cbm80amiga
 			</a><br/>
 			No Name
 		</td>
@@ -9564,7 +9564,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>676</td>
 		<td>
 			<a target="_blank" href="https://github.com/mlojek">
-				<img src="https://private-avatars.githubusercontent.com/u/48631831?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUwNDAsIm5iZiI6MTczNDU3Mzg0MCwicGF0aCI6Ii91LzQ4NjMxODMxIn0.i9uqMl69n-ZIC-1WwioTlKJYFNoUq1lOetvZoXUQBr0&s=72&u=174426af38cb7db3785e281c4573402bd2123668&v=4" width="24" alt="Avatar of mlojek"/> mlojek
+				<img src="https://private-avatars.githubusercontent.com/u/48631831?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE5NDAsIm5iZiI6MTczNDYxMDc0MCwicGF0aCI6Ii91LzQ4NjMxODMxIn0.aT5lsy0XTDVWyli330tTSUHy1aKujgKj-CotbwNAnkA&s=72&u=174426af38cb7db3785e281c4573402bd2123668&v=4" width="24" alt="Avatar of mlojek"/> mlojek
 			</a><br/>
 			Marcin ojek
 		</td>
@@ -9578,7 +9578,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>677</td>
 		<td>
 			<a target="_blank" href="https://github.com/wuub">
-				<img src="https://private-avatars.githubusercontent.com/u/588857?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxMDAsIm5iZiI6MTczNDU3MzkwMCwicGF0aCI6Ii91LzU4ODg1NyJ9.CtjpHLtIwT_1d-Wc066p5OEJrZx0RLx0I7fsf97fgxU&s=72&u=4c63e9d84a3c71594744e86e7165cf22809b4f75&v=4" width="24" alt="Avatar of wuub"/> wuub
+				<img src="https://private-avatars.githubusercontent.com/u/588857?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwMDAsIm5iZiI6MTczNDYxMDgwMCwicGF0aCI6Ii91LzU4ODg1NyJ9.3vFEWpQ1t3FEwYhzZJm8RoLwMGjDc81V-49kf6_LZ48&s=72&u=4c63e9d84a3c71594744e86e7165cf22809b4f75&v=4" width="24" alt="Avatar of wuub"/> wuub
 			</a><br/>
 			Wojciech Bederski
 		</td>
@@ -9592,7 +9592,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>678</td>
 		<td>
 			<a target="_blank" href="https://github.com/MichalDanielDobrzanski">
-				<img src="https://private-avatars.githubusercontent.com/u/16417787?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxNjAsIm5iZiI6MTczNDU3Mzk2MCwicGF0aCI6Ii91LzE2NDE3Nzg3In0.4ItbZ3N-3Jx_pD76zsWwNYkfOCssUTS4hs7o6KsTFzg&s=72&u=f27a1536d597cba194904bfb7b12cd5e6caacaae&v=4" width="24" alt="Avatar of MichalDanielDobrzanski"/> MichalDanielDobrzanski
+				<img src="https://private-avatars.githubusercontent.com/u/16417787?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwNjAsIm5iZiI6MTczNDYxMDg2MCwicGF0aCI6Ii91LzE2NDE3Nzg3In0.i5grnKBpQLu3Fyo8P-cMc4J6h9L56LmCStb0yLYRHio&s=72&u=f27a1536d597cba194904bfb7b12cd5e6caacaae&v=4" width="24" alt="Avatar of MichalDanielDobrzanski"/> MichalDanielDobrzanski
 			</a><br/>
 			Micha Dobrzanski
 		</td>
@@ -9606,7 +9606,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>679</td>
 		<td>
 			<a target="_blank" href="https://github.com/mimecorg">
-				<img src="https://private-avatars.githubusercontent.com/u/36986002?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5MjAsIm5iZiI6MTczNDU3MzcyMCwicGF0aCI6Ii91LzM2OTg2MDAyIn0.cafZ-6L--E2OVgCU_Oh22p1V64s9_R-PWVw2M6IFht0&s=72&v=4" width="24" alt="Avatar of mimecorg"/> mimecorg
+				<img src="https://private-avatars.githubusercontent.com/u/36986002?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4MjAsIm5iZiI6MTczNDYxMDYyMCwicGF0aCI6Ii91LzM2OTg2MDAyIn0.PfQNob4WKzvUE_kATSIEuMkn2UbE0ZcAnPNmxvDa8EE&s=72&v=4" width="24" alt="Avatar of mimecorg"/> mimecorg
 			</a><br/>
 			Micha Mciski
 		</td>
@@ -9620,7 +9620,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>680</td>
 		<td>
 			<a target="_blank" href="https://github.com/plumthedev">
-				<img src="https://private-avatars.githubusercontent.com/u/26173777?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU0MDAsIm5iZiI6MTczNDU3NDIwMCwicGF0aCI6Ii91LzI2MTczNzc3In0.vwFai2S3vMcsNOmHMlbrWsonOxPqUo1_QoIDVMd--AY&s=72&u=819ccc4c025f454cfaabba2b2bb4230ee978cad9&v=4" width="24" alt="Avatar of plumthedev"/> plumthedev
+				<img src="https://private-avatars.githubusercontent.com/u/26173777?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIzMDAsIm5iZiI6MTczNDYxMTEwMCwicGF0aCI6Ii91LzI2MTczNzc3In0.ag9WRhRs1yv3AI_DYpikEwkp0F4frzVZsjvfNByZf1s&s=72&u=819ccc4c025f454cfaabba2b2bb4230ee978cad9&v=4" width="24" alt="Avatar of plumthedev"/> plumthedev
 			</a><br/>
 			Kacper Pruszynski
 		</td>
@@ -9634,7 +9634,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>681</td>
 		<td>
 			<a target="_blank" href="https://github.com/pilloPl">
-				<img src="https://private-avatars.githubusercontent.com/u/8503093?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUwNDAsIm5iZiI6MTczNDU3Mzg0MCwicGF0aCI6Ii91Lzg1MDMwOTMifQ.obsu3I4w2NKVXjGPYiBpKtHgaBy1hQoO8byzOVC4clk&s=72&u=e4433d5ce4655fd76232462eee6f032c3334ab87&v=4" width="24" alt="Avatar of pilloPl"/> pilloPl
+				<img src="https://private-avatars.githubusercontent.com/u/8503093?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE5NDAsIm5iZiI6MTczNDYxMDc0MCwicGF0aCI6Ii91Lzg1MDMwOTMifQ.__rFch48HOE2ehIzT4Mby66osVDemlKBVyFPGUJI8WU&s=72&u=e4433d5ce4655fd76232462eee6f032c3334ab87&v=4" width="24" alt="Avatar of pilloPl"/> pilloPl
 			</a><br/>
 			Jakub Pilimon
 		</td>
@@ -9648,7 +9648,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>682</td>
 		<td>
 			<a target="_blank" href="https://github.com/teamon">
-				<img src="https://private-avatars.githubusercontent.com/u/8083?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4NjAsIm5iZiI6MTczNDU3MzY2MCwicGF0aCI6Ii91LzgwODMifQ.DObA_NruQugYs2GK29nPEvZ_nclSZgmZjsqzvn_twVQ&s=72&u=a0a6be37b3daf6a9ea93e4bcae6877f51e0dc050&v=4" width="24" alt="Avatar of teamon"/> teamon
+				<img src="https://private-avatars.githubusercontent.com/u/8083?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3NjAsIm5iZiI6MTczNDYxMDU2MCwicGF0aCI6Ii91LzgwODMifQ.t0YmXu50a1nGrmDFVZd3ocIxotMCXpl9ilvRb4E18Ak&s=72&u=a0a6be37b3daf6a9ea93e4bcae6877f51e0dc050&v=4" width="24" alt="Avatar of teamon"/> teamon
 			</a><br/>
 			Tymon Tobolski
 		</td>
@@ -9662,7 +9662,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>683</td>
 		<td>
 			<a target="_blank" href="https://github.com/porimol">
-				<img src="https://private-avatars.githubusercontent.com/u/3611305?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2MjAsIm5iZiI6MTczNDU3MzQyMCwicGF0aCI6Ii91LzM2MTEzMDUifQ.vi9l-DhR2F7N7z14I0ZHzaNtcLRYfYCR04GyLFYIb7Y&s=72&u=c50053419cdaf8fe9f76bb5632526c3409ad1952&v=4" width="24" alt="Avatar of porimol"/> porimol
+				<img src="https://private-avatars.githubusercontent.com/u/3611305?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1MjAsIm5iZiI6MTczNDYxMDMyMCwicGF0aCI6Ii91LzM2MTEzMDUifQ.8rMBBqp-8cVz1mAaDR1QWdTCMGXvZSVEHivYB3OjTM8&s=72&u=c50053419cdaf8fe9f76bb5632526c3409ad1952&v=4" width="24" alt="Avatar of porimol"/> porimol
 			</a><br/>
 			Porimol Chandro
 		</td>
@@ -9676,7 +9676,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>684</td>
 		<td>
 			<a target="_blank" href="https://github.com/ardcore">
-				<img src="https://private-avatars.githubusercontent.com/u/49605?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU0MDAsIm5iZiI6MTczNDU3NDIwMCwicGF0aCI6Ii91LzQ5NjA1In0._TtkBRJNZjb3XStqc6qSTn2v75cSG4Bla3HMc78I-ww&s=72&v=4" width="24" alt="Avatar of ardcore"/> ardcore
+				<img src="https://private-avatars.githubusercontent.com/u/49605?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE0MDAsIm5iZiI6MTczNDYxMDIwMCwicGF0aCI6Ii91LzQ5NjA1In0.WI5T25OGQy3yNwaTJyZaK9CFnuHBR5legIzqA4BLtj8&s=72&v=4" width="24" alt="Avatar of ardcore"/> ardcore
 			</a><br/>
 			Szymon Pikowski
 		</td>
@@ -9690,7 +9690,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>685</td>
 		<td>
 			<a target="_blank" href="https://github.com/adrianolszewski">
-				<img src="https://private-avatars.githubusercontent.com/u/95669100?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91Lzk1NjY5MTAwIn0.5dFPhA08VlDw0x-mEn3NwUudfsf7hmEfm7GhZ1dX_PE&s=72&u=065ed50151af015a37720c5631cdfeb536cd0725&v=4" width="24" alt="Avatar of adrianolszewski"/> adrianolszewski
+				<img src="https://private-avatars.githubusercontent.com/u/95669100?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91Lzk1NjY5MTAwIn0.wF70XD4FjTtou9zVDe6Reg7VplxR8xUTNxdxgjT8xN0&s=72&u=065ed50151af015a37720c5631cdfeb536cd0725&v=4" width="24" alt="Avatar of adrianolszewski"/> adrianolszewski
 			</a><br/>
 			Adrian Olszewski
 		</td>
@@ -9704,7 +9704,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>686</td>
 		<td>
 			<a target="_blank" href="https://github.com/Xyueta">
-				<img src="https://private-avatars.githubusercontent.com/u/101590573?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUwNDAsIm5iZiI6MTczNDU3Mzg0MCwicGF0aCI6Ii91LzEwMTU5MDU3MyJ9.emIJEohcchLDF4S59vr5BZrCAmJgao9j3ff-pDFFTOQ&s=72&u=70a20dca979b52b2612a7c95037764cc39d1c5da&v=4" width="24" alt="Avatar of Xyueta"/> Xyueta
+				<img src="https://private-avatars.githubusercontent.com/u/101590573?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE5NDAsIm5iZiI6MTczNDYxMDc0MCwicGF0aCI6Ii91LzEwMTU5MDU3MyJ9.rJKLkNG2Dbc-5Aa-lFB43EyfhlkXprRCtzWYk9-WTqA&s=72&u=70a20dca979b52b2612a7c95037764cc39d1c5da&v=4" width="24" alt="Avatar of Xyueta"/> Xyueta
 			</a><br/>
 			Xyueta
 		</td>
@@ -9718,7 +9718,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>687</td>
 		<td>
 			<a target="_blank" href="https://github.com/MuhammetYorulmaz">
-				<img src="https://private-avatars.githubusercontent.com/u/93758096?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5MjAsIm5iZiI6MTczNDU3MzcyMCwicGF0aCI6Ii91LzkzNzU4MDk2In0.IJvwtCPG3lPwrJg9n0dode1xELY-XupC7P0NHgpO8IA&s=72&u=6c1e9a71b82beceedcf6f6d3037f055d15d06bb6&v=4" width="24" alt="Avatar of MuhammetYorulmaz"/> MuhammetYorulmaz
+				<img src="https://private-avatars.githubusercontent.com/u/93758096?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4MjAsIm5iZiI6MTczNDYxMDYyMCwicGF0aCI6Ii91LzkzNzU4MDk2In0.vGX6Ml9_SNt44aFDlCiuzW9VVSq_3fp5TJhHYDtih_g&s=72&u=6c1e9a71b82beceedcf6f6d3037f055d15d06bb6&v=4" width="24" alt="Avatar of MuhammetYorulmaz"/> MuhammetYorulmaz
 			</a><br/>
 			No Name
 		</td>
@@ -9732,7 +9732,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>688</td>
 		<td>
 			<a target="_blank" href="https://github.com/szolowicz">
-				<img src="https://private-avatars.githubusercontent.com/u/41239728?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxMDAsIm5iZiI6MTczNDU3MzkwMCwicGF0aCI6Ii91LzQxMjM5NzI4In0.YsgfR28PtNBqo5Ac-uGLOFxKW42pD2CGMG3q5ltGwh0&s=72&v=4" width="24" alt="Avatar of szolowicz"/> szolowicz
+				<img src="https://private-avatars.githubusercontent.com/u/41239728?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwMDAsIm5iZiI6MTczNDYxMDgwMCwicGF0aCI6Ii91LzQxMjM5NzI4In0.o2aN7aQkyxSBVZLHk3Hz6EVWG193MMN3H4vtV4t6NyY&s=72&v=4" width="24" alt="Avatar of szolowicz"/> szolowicz
 			</a><br/>
 			Alexander Szolowicz
 		</td>
@@ -9746,7 +9746,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>689</td>
 		<td>
 			<a target="_blank" href="https://github.com/chipnertkj">
-				<img src="https://private-avatars.githubusercontent.com/u/32001812?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2ODAsIm5iZiI6MTczNDU3MzQ4MCwicGF0aCI6Ii91LzMyMDAxODEyIn0.9XLXzXsRhdF5NEzm8vJEuLjjzyJy4vZ9hkzQVKZnR9k&s=72&u=2ff80c866b4441f140edb985cd4e1429f0fd3ec5&v=4" width="24" alt="Avatar of chipnertkj"/> chipnertkj
+				<img src="https://private-avatars.githubusercontent.com/u/32001812?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1ODAsIm5iZiI6MTczNDYxMDM4MCwicGF0aCI6Ii91LzMyMDAxODEyIn0.iuJyIZrFwunf9qkB2a_hwWMMjWRcUA57y_0W2myn6w0&s=72&u=2ff80c866b4441f140edb985cd4e1429f0fd3ec5&v=4" width="24" alt="Avatar of chipnertkj"/> chipnertkj
 			</a><br/>
 			Piotr Wyszomirski
 		</td>
@@ -9760,7 +9760,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>690</td>
 		<td>
 			<a target="_blank" href="https://github.com/Namek">
-				<img src="https://private-avatars.githubusercontent.com/u/31058?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5ODAsIm5iZiI6MTczNDU3Mzc4MCwicGF0aCI6Ii91LzMxMDU4In0.dS0whcpTCendwgxwAQfyGNaf93MWYWLdWEDHrGysRrc&s=72&u=520697f20a363f9a7893ee43fd47e37aeb87bcd9&v=4" width="24" alt="Avatar of Namek"/> Namek
+				<img src="https://private-avatars.githubusercontent.com/u/31058?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4ODAsIm5iZiI6MTczNDYxMDY4MCwicGF0aCI6Ii91LzMxMDU4In0._IGhqmY8siCH0TnRO4eKyDyOWuKl03OmvWaRED4tzWw&s=72&u=520697f20a363f9a7893ee43fd47e37aeb87bcd9&v=4" width="24" alt="Avatar of Namek"/> Namek
 			</a><br/>
 			Kamil Dbrowski
 		</td>
@@ -9774,7 +9774,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>691</td>
 		<td>
 			<a target="_blank" href="https://github.com/rahmanusta">
-				<img src="https://private-avatars.githubusercontent.com/u/1158804?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91LzExNTg4MDQifQ.1-TCSBMqN90STHs1rNAbYb49TX-r9K6ms1Ux0ikDBF8&s=72&u=7a6f2aadf7b9fa2698741d98d37bee2795d7cfe4&v=4" width="24" alt="Avatar of rahmanusta"/> rahmanusta
+				<img src="https://private-avatars.githubusercontent.com/u/1158804?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91LzExNTg4MDQifQ.cV-g8Y_iKt5-WfX2Ug1y31R8GSoU93DLN5OSbmC4ZB0&s=72&u=7a6f2aadf7b9fa2698741d98d37bee2795d7cfe4&v=4" width="24" alt="Avatar of rahmanusta"/> rahmanusta
 			</a><br/>
 			Rahman Usta
 		</td>
@@ -9788,7 +9788,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>692</td>
 		<td>
 			<a target="_blank" href="https://github.com/DanielMichalski">
-				<img src="https://private-avatars.githubusercontent.com/u/5454114?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4NjAsIm5iZiI6MTczNDU3MzY2MCwicGF0aCI6Ii91LzU0NTQxMTQifQ.9zCiV-cOmLwo9d6uqcdtoiPgVES1v0BdX2Q9QANdB4g&s=72&u=75899e05652115449d7b4a56638b84b2e15e03b1&v=4" width="24" alt="Avatar of DanielMichalski"/> DanielMichalski
+				<img src="https://private-avatars.githubusercontent.com/u/5454114?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3NjAsIm5iZiI6MTczNDYxMDU2MCwicGF0aCI6Ii91LzU0NTQxMTQifQ.w0_swefot_ziF7h-H_LXN-AS3xu5Wq7KXPMsCkwcuBE&s=72&u=75899e05652115449d7b4a56638b84b2e15e03b1&v=4" width="24" alt="Avatar of DanielMichalski"/> DanielMichalski
 			</a><br/>
 			Daniel Michalski
 		</td>
@@ -9802,7 +9802,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>693</td>
 		<td>
 			<a target="_blank" href="https://github.com/lewuss">
-				<img src="https://private-avatars.githubusercontent.com/u/67756566?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ3NDAsIm5iZiI6MTczNDU3MzU0MCwicGF0aCI6Ii91LzY3NzU2NTY2In0.VVe-LZVsJWI_RzhEU0fm-Uj-p5Lf-4GpHHInBnsqPlQ&s=72&u=8cd4afe0a46aa8d1c62bc6373b3263336e6563d6&v=4" width="24" alt="Avatar of lewuss"/> lewuss
+				<img src="https://private-avatars.githubusercontent.com/u/67756566?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE2NDAsIm5iZiI6MTczNDYxMDQ0MCwicGF0aCI6Ii91LzY3NzU2NTY2In0.lqg2SZO5fTMXIhLu9NYuOKW-QHFQROg_DlUKsDLmA8s&s=72&u=8cd4afe0a46aa8d1c62bc6373b3263336e6563d6&v=4" width="24" alt="Avatar of lewuss"/> lewuss
 			</a><br/>
 			Lewus
 		</td>
@@ -9816,7 +9816,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>694</td>
 		<td>
 			<a target="_blank" href="https://github.com/Konstans8">
-				<img src="https://private-avatars.githubusercontent.com/u/94383106?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU2NDAsIm5iZiI6MTczNDU3NDQ0MCwicGF0aCI6Ii91Lzk0MzgzMTA2In0.cFGRCkbaHq61hDVvK12MpILKhTvVQN5YokuyIoLC35A&s=72&u=7cf17861a462ec14e7931a2b5ba1de501f66af84&v=4" width="24" alt="Avatar of Konstans8"/> Konstans8
+				<img src="https://private-avatars.githubusercontent.com/u/94383106?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE2NDAsIm5iZiI6MTczNDYxMDQ0MCwicGF0aCI6Ii91Lzk0MzgzMTA2In0.7hqQc7wkFUUM0KT0jZRO-PuP7SHfq_IcWAFP0440lR0&s=72&u=7cf17861a462ec14e7931a2b5ba1de501f66af84&v=4" width="24" alt="Avatar of Konstans8"/> Konstans8
 			</a><br/>
 			Kanstantsin Hushcha
 		</td>
@@ -9830,7 +9830,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>695</td>
 		<td>
 			<a target="_blank" href="https://github.com/kondrak">
-				<img src="https://private-avatars.githubusercontent.com/u/423295?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5MjAsIm5iZiI6MTczNDU3MzcyMCwicGF0aCI6Ii91LzQyMzI5NSJ9.vnX2-tT-upY8szI-OvKhDf-zObx-TeGuWBLVAOWoRag&s=72&u=a91b7214a624ec1cdf4270500659cf22e3317fb6&v=4" width="24" alt="Avatar of kondrak"/> kondrak
+				<img src="https://private-avatars.githubusercontent.com/u/423295?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4MjAsIm5iZiI6MTczNDYxMDYyMCwicGF0aCI6Ii91LzQyMzI5NSJ9.0dz6qrv80sXU3JEmxHjcmWRhIYqXAJcyChdYlEP9bQc&s=72&u=a91b7214a624ec1cdf4270500659cf22e3317fb6&v=4" width="24" alt="Avatar of kondrak"/> kondrak
 			</a><br/>
 			Krzysztof Kondrak
 		</td>
@@ -9844,7 +9844,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>696</td>
 		<td>
 			<a target="_blank" href="https://github.com/Lerg">
-				<img src="https://private-avatars.githubusercontent.com/u/859486?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ3NDAsIm5iZiI6MTczNDU3MzU0MCwicGF0aCI6Ii91Lzg1OTQ4NiJ9.pBA0g07Q0zPkLYShwTSRjWWJ4BCnTV4LBsm-fGKaCH0&s=72&v=4" width="24" alt="Avatar of Lerg"/> Lerg
+				<img src="https://private-avatars.githubusercontent.com/u/859486?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE2NDAsIm5iZiI6MTczNDYxMDQ0MCwicGF0aCI6Ii91Lzg1OTQ4NiJ9.uPk01Mbw6z2TczwA-hrCAm53Htqf801F-XFrooW2bEM&s=72&v=4" width="24" alt="Avatar of Lerg"/> Lerg
 			</a><br/>
 			Sergey Lerg
 		</td>
@@ -9858,7 +9858,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>697</td>
 		<td>
 			<a target="_blank" href="https://github.com/porada">
-				<img src="https://private-avatars.githubusercontent.com/u/2060580?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU1ODAsIm5iZiI6MTczNDU3NDM4MCwicGF0aCI6Ii91LzIwNjA1ODAifQ.RFin0YJ31Xvoh0afig5tYKUf5hvUcfXSPLmEsm2QD4Y&s=72&v=4" width="24" alt="Avatar of porada"/> porada
+				<img src="https://private-avatars.githubusercontent.com/u/2060580?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTI0ODAsIm5iZiI6MTczNDYxMTI4MCwicGF0aCI6Ii91LzIwNjA1ODAifQ.Bo7eEE4djqly2wOTR0ki6SBr66sCCmJW28A56XLGmlw&s=72&v=4" width="24" alt="Avatar of porada"/> porada
 			</a><br/>
 			Dominik Porada
 		</td>
@@ -9872,7 +9872,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>698</td>
 		<td>
 			<a target="_blank" href="https://github.com/behram">
-				<img src="https://private-avatars.githubusercontent.com/u/4572080?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2MjAsIm5iZiI6MTczNDU3MzQyMCwicGF0aCI6Ii91LzQ1NzIwODAifQ.ZAtyl7ZIUYCmxXwvUWftnrv1IuR2qgw4yq5NEDhAQgU&s=72&u=2f8a36f639682eedcc1e291f626f0daa3a373d92&v=4" width="24" alt="Avatar of behram"/> behram
+				<img src="https://private-avatars.githubusercontent.com/u/4572080?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1MjAsIm5iZiI6MTczNDYxMDMyMCwicGF0aCI6Ii91LzQ1NzIwODAifQ.ZUp5fSfgnjgLDv4u_V9bhWNE-qstz_8ct-A5OqZkQvA&s=72&u=2f8a36f639682eedcc1e291f626f0daa3a373d92&v=4" width="24" alt="Avatar of behram"/> behram
 			</a><br/>
 			Behram ELEN
 		</td>
@@ -9886,7 +9886,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>699</td>
 		<td>
 			<a target="_blank" href="https://github.com/CoderMaggie">
-				<img src="https://private-avatars.githubusercontent.com/u/13198869?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU0MDAsIm5iZiI6MTczNDU3NDIwMCwicGF0aCI6Ii91LzEzMTk4ODY5In0.jdQThsTXZbvjQ7wTl6ibT4tGHJbwPpb9twHOoBL0FeA&s=72&u=8b39d74bfd9e474afd672ebce71062410f7ce8f6&v=4" width="24" alt="Avatar of CoderMaggie"/> CoderMaggie
+				<img src="https://private-avatars.githubusercontent.com/u/13198869?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIzMDAsIm5iZiI6MTczNDYxMTEwMCwicGF0aCI6Ii91LzEzMTk4ODY5In0.mE5SEgpy28xhklvxXHtn7eEhFPGk-_BAiV2yCeuDd-w&s=72&u=8b39d74bfd9e474afd672ebce71062410f7ce8f6&v=4" width="24" alt="Avatar of CoderMaggie"/> CoderMaggie
 			</a><br/>
 			Magdalena Sadowska
 		</td>
@@ -9900,7 +9900,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>700</td>
 		<td>
 			<a target="_blank" href="https://github.com/PanNiebieski">
-				<img src="https://private-avatars.githubusercontent.com/u/1837595?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxMDAsIm5iZiI6MTczNDU3MzkwMCwicGF0aCI6Ii91LzE4Mzc1OTUifQ.N14BYc0NyFfwF4KswGISf2-QkP-qpdMPbag3xbALWN4&s=72&u=efa4071b301e78bcbfd52d2c0c3a381e8b6c3ed9&v=4" width="24" alt="Avatar of PanNiebieski"/> PanNiebieski
+				<img src="https://private-avatars.githubusercontent.com/u/1837595?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwMDAsIm5iZiI6MTczNDYxMDgwMCwicGF0aCI6Ii91LzE4Mzc1OTUifQ.b8Oldl5ON_GkkKBS9lyRLGnqwG5P-RhDuamNp-5EPKA&s=72&u=efa4071b301e78bcbfd52d2c0c3a381e8b6c3ed9&v=4" width="24" alt="Avatar of PanNiebieski"/> PanNiebieski
 			</a><br/>
 			Cezary Walenciuk
 		</td>
@@ -9914,7 +9914,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>701</td>
 		<td>
 			<a target="_blank" href="https://github.com/sawickiap">
-				<img src="https://private-avatars.githubusercontent.com/u/10674866?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ3NDAsIm5iZiI6MTczNDU3MzU0MCwicGF0aCI6Ii91LzEwNjc0ODY2In0.IJp3ommE8DbeeSGRPqgfNonUum6Q4kOyJV8BmtRLAsg&s=72&v=4" width="24" alt="Avatar of sawickiap"/> sawickiap
+				<img src="https://private-avatars.githubusercontent.com/u/10674866?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE2NDAsIm5iZiI6MTczNDYxMDQ0MCwicGF0aCI6Ii91LzEwNjc0ODY2In0.WRTepom_PNTtjKgWUO8PosoYqvpodhBpkbJbOqIYkVk&s=72&v=4" width="24" alt="Avatar of sawickiap"/> sawickiap
 			</a><br/>
 			Adam Sawicki
 		</td>
@@ -9928,7 +9928,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>702</td>
 		<td>
 			<a target="_blank" href="https://github.com/bblimke">
-				<img src="https://private-avatars.githubusercontent.com/u/15547?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU0MDAsIm5iZiI6MTczNDU3NDIwMCwicGF0aCI6Ii91LzE1NTQ3In0.SmEOElttNvLj598Hsq-VSpfMyWDgzyEXUy39rShunUw&s=72&u=1dac1dd37128b934367c58ffed3213d87d9e8cc6&v=4" width="24" alt="Avatar of bblimke"/> bblimke
+				<img src="https://private-avatars.githubusercontent.com/u/15547?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIzMDAsIm5iZiI6MTczNDYxMTEwMCwicGF0aCI6Ii91LzE1NTQ3In0.YwsWOJ8Sep78vj9vw8zXxzz3mqnWNzQcZ5X7-MaXUIw&s=72&u=1dac1dd37128b934367c58ffed3213d87d9e8cc6&v=4" width="24" alt="Avatar of bblimke"/> bblimke
 			</a><br/>
 			Bartosz Blimke
 		</td>
@@ -9942,7 +9942,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>703</td>
 		<td>
 			<a target="_blank" href="https://github.com/jarek-pacocha">
-				<img src="https://private-avatars.githubusercontent.com/u/89355282?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5MjAsIm5iZiI6MTczNDU3MzcyMCwicGF0aCI6Ii91Lzg5MzU1MjgyIn0.f-hUQIAYYLdzYj6i97rBksUqUYgIeVnhPJFtG9MP1sM&s=72&u=7ebfac06bca2776662972142ab0049af529c78e3&v=4" width="24" alt="Avatar of jarek-pacocha"/> jarek-pacocha
+				<img src="https://private-avatars.githubusercontent.com/u/89355282?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4MjAsIm5iZiI6MTczNDYxMDYyMCwicGF0aCI6Ii91Lzg5MzU1MjgyIn0.PMHmCNTnAo_vSMkKywDNt16CNjYio0_6vXJpVCMEoAM&s=72&u=7ebfac06bca2776662972142ab0049af529c78e3&v=4" width="24" alt="Avatar of jarek-pacocha"/> jarek-pacocha
 			</a><br/>
 			Jarek Pacocha
 		</td>
@@ -9956,7 +9956,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>704</td>
 		<td>
 			<a target="_blank" href="https://github.com/mickey951112">
-				<img src="https://private-avatars.githubusercontent.com/u/135157949?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2MjAsIm5iZiI6MTczNDU3MzQyMCwicGF0aCI6Ii91LzEzNTE1Nzk0OSJ9.9OEo7TIpAE0tDmQwPggttsOz_DaQVIfAVZeYhxlcoVE&s=72&v=4" width="24" alt="Avatar of mickey951112"/> mickey951112
+				<img src="https://private-avatars.githubusercontent.com/u/135157949?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1MjAsIm5iZiI6MTczNDYxMDMyMCwicGF0aCI6Ii91LzEzNTE1Nzk0OSJ9.Z5lNcXZ50caeTah16xXekd2N7hE9qHwLwEF3atoEzTc&s=72&v=4" width="24" alt="Avatar of mickey951112"/> mickey951112
 			</a><br/>
 			Andrea Lin
 		</td>
@@ -9970,7 +9970,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>705</td>
 		<td>
 			<a target="_blank" href="https://github.com/playpauseandstop">
-				<img src="https://private-avatars.githubusercontent.com/u/21325?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxMDAsIm5iZiI6MTczNDU3MzkwMCwicGF0aCI6Ii91LzIxMzI1In0.crNT_d0Yqm-ul7Zl09mN7sJut1UbXTqkXr19XM-C1eA&s=72&u=a7cd7b296a235d5cf6256fd69e17618ed66562d8&v=4" width="24" alt="Avatar of playpauseandstop"/> playpauseandstop
+				<img src="https://private-avatars.githubusercontent.com/u/21325?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwMDAsIm5iZiI6MTczNDYxMDgwMCwicGF0aCI6Ii91LzIxMzI1In0.PZs9R6cU69D7fTR4KNrHHruV9oZmIykI3r7oS9X_oF0&s=72&u=a7cd7b296a235d5cf6256fd69e17618ed66562d8&v=4" width="24" alt="Avatar of playpauseandstop"/> playpauseandstop
 			</a><br/>
 			Igor Davydenko
 		</td>
@@ -9984,7 +9984,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>706</td>
 		<td>
 			<a target="_blank" href="https://github.com/Michal2SAB">
-				<img src="https://private-avatars.githubusercontent.com/u/38110165?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4NjAsIm5iZiI6MTczNDU3MzY2MCwicGF0aCI6Ii91LzM4MTEwMTY1In0.ieoRWu-Cy4KG4UAWrMc4XIq5knb91hXXVKNOM2m1fp0&s=72&u=1620275038c75cc8c7739f813c017297c33e01b9&v=4" width="24" alt="Avatar of Michal2SAB"/> Michal2SAB
+				<img src="https://private-avatars.githubusercontent.com/u/38110165?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3NjAsIm5iZiI6MTczNDYxMDU2MCwicGF0aCI6Ii91LzM4MTEwMTY1In0.aZktXGd6A8tUTdWCBIq2yWEHOR2ENNcFKvLNgDgy_Jg&s=72&u=1620275038c75cc8c7739f813c017297c33e01b9&v=4" width="24" alt="Avatar of Michal2SAB"/> Michal2SAB
 			</a><br/>
 			Micha
 		</td>
@@ -9998,7 +9998,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>707</td>
 		<td>
 			<a target="_blank" href="https://github.com/krzys-h">
-				<img src="https://private-avatars.githubusercontent.com/u/1517255?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ3NDAsIm5iZiI6MTczNDU3MzU0MCwicGF0aCI6Ii91LzE1MTcyNTUifQ.-dWdE65fPVbsc9SweOGnLQ9gBakWis3szzG136QPMKQ&s=72&u=b76b3d1db6172e6b83d4178162ded8238d1e613b&v=4" width="24" alt="Avatar of krzys-h"/> krzys-h
+				<img src="https://private-avatars.githubusercontent.com/u/1517255?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE2NDAsIm5iZiI6MTczNDYxMDQ0MCwicGF0aCI6Ii91LzE1MTcyNTUifQ.3AbvfeitTfIeP0kKS8PXBWOOzty32tcSMyXVJWGNBYY&s=72&u=b76b3d1db6172e6b83d4178162ded8238d1e613b&v=4" width="24" alt="Avatar of krzys-h"/> krzys-h
 			</a><br/>
 			Krzysztof Haadyn krzysh
 		</td>
@@ -10012,7 +10012,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>708</td>
 		<td>
 			<a target="_blank" href="https://github.com/maciekgajewski">
-				<img src="https://private-avatars.githubusercontent.com/u/1903794?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU0NjAsIm5iZiI6MTczNDU3NDI2MCwicGF0aCI6Ii91LzE5MDM3OTQifQ._fm2kjhdDm7hcT0ItJW_pQhAkzxpY-lEZm8ly_aFNu8&s=72&u=3cb492211063280a281f9e1f0fd02c439df53459&v=4" width="24" alt="Avatar of maciekgajewski"/> maciekgajewski
+				<img src="https://private-avatars.githubusercontent.com/u/1903794?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIzNjAsIm5iZiI6MTczNDYxMTE2MCwicGF0aCI6Ii91LzE5MDM3OTQifQ.NQYr2AwKADkXFselg1oawMHNzkqOzivZcnqjruadzSg&s=72&u=3cb492211063280a281f9e1f0fd02c439df53459&v=4" width="24" alt="Avatar of maciekgajewski"/> maciekgajewski
 			</a><br/>
 			Maciej Gajewski
 		</td>
@@ -10026,7 +10026,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>709</td>
 		<td>
 			<a target="_blank" href="https://github.com/przemyslawzaworski">
-				<img src="https://private-avatars.githubusercontent.com/u/22749729?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ3NDAsIm5iZiI6MTczNDU3MzU0MCwicGF0aCI6Ii91LzIyNzQ5NzI5In0.Knfisccsj6T--r_lu59AgjqNPSn3vfb_ksOCiy-stBk&s=72&v=4" width="24" alt="Avatar of przemyslawzaworski"/> przemyslawzaworski
+				<img src="https://private-avatars.githubusercontent.com/u/22749729?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE2NDAsIm5iZiI6MTczNDYxMDQ0MCwicGF0aCI6Ii91LzIyNzQ5NzI5In0.1KvA9eIxshGBPMEXQkLuM8lGukOlW6eWwfHRptWh5Q4&s=72&v=4" width="24" alt="Avatar of przemyslawzaworski"/> przemyslawzaworski
 			</a><br/>
 			Przemyslaw Zaworski
 		</td>
@@ -10040,7 +10040,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>710</td>
 		<td>
 			<a target="_blank" href="https://github.com/marcinwyszynski">
-				<img src="https://private-avatars.githubusercontent.com/u/571786?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyODAsIm5iZiI6MTczNDU3NDA4MCwicGF0aCI6Ii91LzU3MTc4NiJ9.6DLxUfCh3RF83EpSNTnx2g1K0b_uSV9ErHXCLuxZSaw&s=72&u=7020a2448400e279113f62bfa63240a69f3f3a11&v=4" width="24" alt="Avatar of marcinwyszynski"/> marcinwyszynski
+				<img src="https://private-avatars.githubusercontent.com/u/571786?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxODAsIm5iZiI6MTczNDYxMDk4MCwicGF0aCI6Ii91LzU3MTc4NiJ9.4J8BBYWNbbAENZWV9qy8oiLtmeqQukh0ffx0tN_5Nzo&s=72&u=7020a2448400e279113f62bfa63240a69f3f3a11&v=4" width="24" alt="Avatar of marcinwyszynski"/> marcinwyszynski
 			</a><br/>
 			Marcin Wyszynski
 		</td>
@@ -10054,7 +10054,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>711</td>
 		<td>
 			<a target="_blank" href="https://github.com/klubinskak">
-				<img src="https://private-avatars.githubusercontent.com/u/76222513?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU2NDAsIm5iZiI6MTczNDU3NDQ0MCwicGF0aCI6Ii91Lzc2MjIyNTEzIn0.bf0gQdLTNij1JPb_RbuiecH6Ac93j9BO5eaRPTtDc1U&s=72&u=cdef671bb8bd06124d02bd39b6fd4b04155a55d0&v=4" width="24" alt="Avatar of klubinskak"/> klubinskak
+				<img src="https://private-avatars.githubusercontent.com/u/76222513?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTI1NDAsIm5iZiI6MTczNDYxMTM0MCwicGF0aCI6Ii91Lzc2MjIyNTEzIn0.W-B2LLM9bpbZPI2KhZw1QtncOh8XnoutYZYbJr5jCaI&s=72&u=cdef671bb8bd06124d02bd39b6fd4b04155a55d0&v=4" width="24" alt="Avatar of klubinskak"/> klubinskak
 			</a><br/>
 			Klaudia Klubiska
 		</td>
@@ -10068,7 +10068,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>712</td>
 		<td>
 			<a target="_blank" href="https://github.com/hotline1337">
-				<img src="https://private-avatars.githubusercontent.com/u/32012110?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ1MDAsIm5iZiI6MTczNDU3MzMwMCwicGF0aCI6Ii91LzMyMDEyMTEwIn0.ZqUF3Qk8ZI66cdrQ3T5hh1E0anEGh52BWLbeuOEcEiA&s=72&u=1dcae9c649466dac8bdd7b618f65ffd088871414&v=4" width="24" alt="Avatar of hotline1337"/> hotline1337
+				<img src="https://private-avatars.githubusercontent.com/u/32012110?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE0MDAsIm5iZiI6MTczNDYxMDIwMCwicGF0aCI6Ii91LzMyMDEyMTEwIn0.dwoiDZNhWl_6sxyi9hSUvTEL3I_L-igOP2uC2Xwd6ns&s=72&u=1dcae9c649466dac8bdd7b618f65ffd088871414&v=4" width="24" alt="Avatar of hotline1337"/> hotline1337
 			</a><br/>
 			hotline
 		</td>
@@ -10082,7 +10082,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>713</td>
 		<td>
 			<a target="_blank" href="https://github.com/Juby210">
-				<img src="https://private-avatars.githubusercontent.com/u/31005896?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxMDAsIm5iZiI6MTczNDU3MzkwMCwicGF0aCI6Ii91LzMxMDA1ODk2In0.bZlUNKMfnOTy0K5WiH-UWJDx9FoD30Tfmla8b8NFClE&s=72&u=a5ba421880cccfdb15fe4d2ed0eb5dc52780277f&v=4" width="24" alt="Avatar of Juby210"/> Juby210
+				<img src="https://private-avatars.githubusercontent.com/u/31005896?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwMDAsIm5iZiI6MTczNDYxMDgwMCwicGF0aCI6Ii91LzMxMDA1ODk2In0.PthbOIaHDlYDDuh-w5z7xl0-DVRpKx5tJVMChTytFUU&s=72&u=a5ba421880cccfdb15fe4d2ed0eb5dc52780277f&v=4" width="24" alt="Avatar of Juby210"/> Juby210
 			</a><br/>
 			No Name
 		</td>
@@ -10096,7 +10096,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>714</td>
 		<td>
 			<a target="_blank" href="https://github.com/melgor">
-				<img src="https://private-avatars.githubusercontent.com/u/2587438?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU0NjAsIm5iZiI6MTczNDU3NDI2MCwicGF0aCI6Ii91LzI1ODc0MzgifQ.Vkk4Uhdn0u8_TgGUb9QVaBPJlyRxDKGuEXIKshrj9qQ&s=72&u=bf8469e1c49960f52b50e5e71968d3636313efe0&v=4" width="24" alt="Avatar of melgor"/> melgor
+				<img src="https://private-avatars.githubusercontent.com/u/2587438?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE0NjAsIm5iZiI6MTczNDYxMDI2MCwicGF0aCI6Ii91LzI1ODc0MzgifQ.NtFZIeBUzpqWIlQCUNkC1cgTsUEkZUkt_1eZ0MbWo8M&s=72&u=bf8469e1c49960f52b50e5e71968d3636313efe0&v=4" width="24" alt="Avatar of melgor"/> melgor
 			</a><br/>
 			Bartosz Ludwiczuk
 		</td>
@@ -10110,7 +10110,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>715</td>
 		<td>
 			<a target="_blank" href="https://github.com/poliarush">
-				<img src="https://private-avatars.githubusercontent.com/u/325722?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2ODAsIm5iZiI6MTczNDU3MzQ4MCwicGF0aCI6Ii91LzMyNTcyMiJ9.nU6Tun-a1KuEzP8VOkWrBPwLwapFYBr38rjA0DTDwA8&s=72&u=a02c5261d8f25adc3e64986586a98ce148d159d5&v=4" width="24" alt="Avatar of poliarush"/> poliarush
+				<img src="https://private-avatars.githubusercontent.com/u/325722?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1ODAsIm5iZiI6MTczNDYxMDM4MCwicGF0aCI6Ii91LzMyNTcyMiJ9.fq9YwkaP3Ebi-LxefPmgR0AEgVPBbfyjNaTGuNo3pDM&s=72&u=a02c5261d8f25adc3e64986586a98ce148d159d5&v=4" width="24" alt="Avatar of poliarush"/> poliarush
 			</a><br/>
 			Mykhailo Poliarush
 		</td>
@@ -10124,7 +10124,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>716</td>
 		<td>
 			<a target="_blank" href="https://github.com/tdziurko">
-				<img src="https://private-avatars.githubusercontent.com/u/615954?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyODAsIm5iZiI6MTczNDU3NDA4MCwicGF0aCI6Ii91LzYxNTk1NCJ9.7GTeq0FXJUkf8DPyMIVj4rWiuc9QOXotXwc2OCjxQmQ&s=72&v=4" width="24" alt="Avatar of tdziurko"/> tdziurko
+				<img src="https://private-avatars.githubusercontent.com/u/615954?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxODAsIm5iZiI6MTczNDYxMDk4MCwicGF0aCI6Ii91LzYxNTk1NCJ9.uD4fJ2qIyIjFapd6Z784kgMtMfHcWzYhvoI5VSPFwaw&s=72&v=4" width="24" alt="Avatar of tdziurko"/> tdziurko
 			</a><br/>
 			Tomasz Dziurko
 		</td>
@@ -10138,7 +10138,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>717</td>
 		<td>
 			<a target="_blank" href="https://github.com/jopohl">
-				<img src="https://private-avatars.githubusercontent.com/u/18219846?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxMDAsIm5iZiI6MTczNDU3MzkwMCwicGF0aCI6Ii91LzE4MjE5ODQ2In0.tdmYW1Y0pneDdsiHviy8EoKN7n5x_0OhuY_qoR9xvQk&s=72&u=c68f1f17f7cc3e20f7f95f76f90c787758038987&v=4" width="24" alt="Avatar of jopohl"/> jopohl
+				<img src="https://private-avatars.githubusercontent.com/u/18219846?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwMDAsIm5iZiI6MTczNDYxMDgwMCwicGF0aCI6Ii91LzE4MjE5ODQ2In0.ZV1Jc6l785wjeHy4SRtHJduJPW8jLURRYKSRGUMHOLQ&s=72&u=c68f1f17f7cc3e20f7f95f76f90c787758038987&v=4" width="24" alt="Avatar of jopohl"/> jopohl
 			</a><br/>
 			DrIng Johannes Pohl
 		</td>
@@ -10152,7 +10152,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>718</td>
 		<td>
 			<a target="_blank" href="https://github.com/koorchik">
-				<img src="https://private-avatars.githubusercontent.com/u/189374?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ0NDAsIm5iZiI6MTczNDU3MzI0MCwicGF0aCI6Ii91LzE4OTM3NCJ9.oluvwlHSutyQZNKCUwx0GXRTtK7qkZTHNe_Uq6G1NjI&s=72&u=e258a8a67ee4777ed5d481c00dfcd23b0bd33184&v=4" width="24" alt="Avatar of koorchik"/> koorchik
+				<img src="https://private-avatars.githubusercontent.com/u/189374?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTEzNDAsIm5iZiI6MTczNDYxMDE0MCwicGF0aCI6Ii91LzE4OTM3NCJ9.5zB8FANBq3aYBM0hCkHX5XpoDKkP-B5kLvHYzOt-dgc&s=72&u=e258a8a67ee4777ed5d481c00dfcd23b0bd33184&v=4" width="24" alt="Avatar of koorchik"/> koorchik
 			</a><br/>
 			Viktor Turskyi
 		</td>
@@ -10166,7 +10166,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>719</td>
 		<td>
 			<a target="_blank" href="https://github.com/ewilded">
-				<img src="https://private-avatars.githubusercontent.com/u/1158719?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5MjAsIm5iZiI6MTczNDU3MzcyMCwicGF0aCI6Ii91LzExNTg3MTkifQ.95e1QYfsuP3P466RKEUJEmrZ4IF3VgByyY01lJ0hbpU&s=72&u=dc3f71ec21c9ed2e0a558995d96a2992825971d9&v=4" width="24" alt="Avatar of ewilded"/> ewilded
+				<img src="https://private-avatars.githubusercontent.com/u/1158719?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4MjAsIm5iZiI6MTczNDYxMDYyMCwicGF0aCI6Ii91LzExNTg3MTkifQ.ks2ZyC6mGr9cjw31VIcvFxoIL30nW2uvjfckE0JnXrc&s=72&u=dc3f71ec21c9ed2e0a558995d96a2992825971d9&v=4" width="24" alt="Avatar of ewilded"/> ewilded
 			</a><br/>
 			Julian Horoszkiewicz
 		</td>
@@ -10180,7 +10180,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>720</td>
 		<td>
 			<a target="_blank" href="https://github.com/ora600pl">
-				<img src="https://private-avatars.githubusercontent.com/u/33175431?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5ODAsIm5iZiI6MTczNDU3Mzc4MCwicGF0aCI6Ii91LzMzMTc1NDMxIn0.NzacEO-sT4grwAYUjDdwAexCLEwtkA6jFkL6YeM23fY&s=72&u=14de8f32f03330985f260e6d9a7408514b3ba147&v=4" width="24" alt="Avatar of ora600pl"/> ora600pl
+				<img src="https://private-avatars.githubusercontent.com/u/33175431?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4ODAsIm5iZiI6MTczNDYxMDY4MCwicGF0aCI6Ii91LzMzMTc1NDMxIn0.KaMYCElGSOa4UacObxKrv5NHo_6M4LJFv26UKGO-giM&s=72&u=14de8f32f03330985f260e6d9a7408514b3ba147&v=4" width="24" alt="Avatar of ora600pl"/> ora600pl
 			</a><br/>
 			Kamil Stawiarski
 		</td>
@@ -10194,7 +10194,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>721</td>
 		<td>
 			<a target="_blank" href="https://github.com/dmfigol">
-				<img src="https://private-avatars.githubusercontent.com/u/1923704?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ3NDAsIm5iZiI6MTczNDU3MzU0MCwicGF0aCI6Ii91LzE5MjM3MDQifQ.yhen6vgOIK87T4rDxHjA3iELnDFxXm6AIBf28vVRsgk&s=72&u=8cd28525ba9702d439aa49420345772a978e87c7&v=4" width="24" alt="Avatar of dmfigol"/> dmfigol
+				<img src="https://private-avatars.githubusercontent.com/u/1923704?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE2NDAsIm5iZiI6MTczNDYxMDQ0MCwicGF0aCI6Ii91LzE5MjM3MDQifQ.FPN192r7yGYk-C9Te1YjpgBMCEQ3VCwOsvzHWLF0Dqg&s=72&u=8cd28525ba9702d439aa49420345772a978e87c7&v=4" width="24" alt="Avatar of dmfigol"/> dmfigol
 			</a><br/>
 			Dmitry Figol
 		</td>
@@ -10208,7 +10208,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>722</td>
 		<td>
 			<a target="_blank" href="https://github.com/wende">
-				<img src="https://private-avatars.githubusercontent.com/u/4634386?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU0MDAsIm5iZiI6MTczNDU3NDIwMCwicGF0aCI6Ii91LzQ2MzQzODYifQ.pZpxCOy61CEpK9TthfkRLDB0tW9jL9BZETMYho6ZDcg&s=72&u=fdc353ac2aece211986a856d9c62dba8fff09ab7&v=4" width="24" alt="Avatar of wende"/> wende
+				<img src="https://private-avatars.githubusercontent.com/u/4634386?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE0MDAsIm5iZiI6MTczNDYxMDIwMCwicGF0aCI6Ii91LzQ2MzQzODYifQ.EKlJSGBtEHLPIe7qS_z9ZDvSqUmKkKvNeaWXBkN7P6M&s=72&u=fdc353ac2aece211986a856d9c62dba8fff09ab7&v=4" width="24" alt="Avatar of wende"/> wende
 			</a><br/>
 			Krzysztof Wende
 		</td>
@@ -10222,7 +10222,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>723</td>
 		<td>
 			<a target="_blank" href="https://github.com/MaKiPL">
-				<img src="https://private-avatars.githubusercontent.com/u/7060605?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyMjAsIm5iZiI6MTczNDU3NDAyMCwicGF0aCI6Ii91LzcwNjA2MDUifQ.yPeueh2HQG842Nwa-iWhemmZB40WTuHhwkWJGN7NjGE&s=72&u=eecefbdb2b3f38c5484a4bed4fc4b07e2feb29bc&v=4" width="24" alt="Avatar of MaKiPL"/> MaKiPL
+				<img src="https://private-avatars.githubusercontent.com/u/7060605?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxMjAsIm5iZiI6MTczNDYxMDkyMCwicGF0aCI6Ii91LzcwNjA2MDUifQ.FWy2NEQ6e0YyHTbHUh1Tb5Ob8NPIzf3dmiEmwjQzXY4&s=72&u=eecefbdb2b3f38c5484a4bed4fc4b07e2feb29bc&v=4" width="24" alt="Avatar of MaKiPL"/> MaKiPL
 			</a><br/>
 			Marcin Maki Gomulak
 		</td>
@@ -10236,7 +10236,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>724</td>
 		<td>
 			<a target="_blank" href="https://github.com/studentutu">
-				<img src="https://private-avatars.githubusercontent.com/u/18601652?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyODAsIm5iZiI6MTczNDU3NDA4MCwicGF0aCI6Ii91LzE4NjAxNjUyIn0.mrFT7Rop7VvSK5X4KAIdZ6ni3BwVcNnsfLPo11MOwg4&s=72&u=ba0ba0441d6fdc900dc9c27f7b5e67fbf084bcdd&v=4" width="24" alt="Avatar of studentutu"/> studentutu
+				<img src="https://private-avatars.githubusercontent.com/u/18601652?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxODAsIm5iZiI6MTczNDYxMDk4MCwicGF0aCI6Ii91LzE4NjAxNjUyIn0.Vw-21gmtDHvdfLboGRV0TphVbK5W0WUhB68TyQq0dks&s=72&u=ba0ba0441d6fdc900dc9c27f7b5e67fbf084bcdd&v=4" width="24" alt="Avatar of studentutu"/> studentutu
 			</a><br/>
 			Roman Fedorov
 		</td>
@@ -10250,7 +10250,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>725</td>
 		<td>
 			<a target="_blank" href="https://github.com/emir1031">
-				<img src="https://private-avatars.githubusercontent.com/u/78050550?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2ODAsIm5iZiI6MTczNDU3MzQ4MCwicGF0aCI6Ii91Lzc4MDUwNTUwIn0.GZXdbIgXR2VD59U_9oqUGBr4a3Ak1AsKjBlT0DSoomk&s=72&u=1a964e914f85d98c540433f3fa88d0aca65797f2&v=4" width="24" alt="Avatar of emir1031"/> emir1031
+				<img src="https://private-avatars.githubusercontent.com/u/78050550?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1ODAsIm5iZiI6MTczNDYxMDM4MCwicGF0aCI6Ii91Lzc4MDUwNTUwIn0.xF_PkaBk_U8tQlAt2SuL9ziXXDdSuNp22qKYwfAFei8&s=72&u=1a964e914f85d98c540433f3fa88d0aca65797f2&v=4" width="24" alt="Avatar of emir1031"/> emir1031
 			</a><br/>
 			EmirHan B
 		</td>
@@ -10264,7 +10264,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>726</td>
 		<td>
 			<a target="_blank" href="https://github.com/wkrzywiec">
-				<img src="https://private-avatars.githubusercontent.com/u/25372667?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ3NDAsIm5iZiI6MTczNDU3MzU0MCwicGF0aCI6Ii91LzI1MzcyNjY3In0.D0OM9hnG_EPBdDUPjmR-pLIZRINT2-uxembT6b6s-kA&s=72&u=76f8261b92fd9aebecd5b8b015ecfc700bd87faa&v=4" width="24" alt="Avatar of wkrzywiec"/> wkrzywiec
+				<img src="https://private-avatars.githubusercontent.com/u/25372667?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE2NDAsIm5iZiI6MTczNDYxMDQ0MCwicGF0aCI6Ii91LzI1MzcyNjY3In0.16tdPmxEnqNP3MbdtL4r02S1Fy787dSB7Ffm3nR-hwE&s=72&u=76f8261b92fd9aebecd5b8b015ecfc700bd87faa&v=4" width="24" alt="Avatar of wkrzywiec"/> wkrzywiec
 			</a><br/>
 			Wojtek Krzywiec
 		</td>
@@ -10278,7 +10278,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>727</td>
 		<td>
 			<a target="_blank" href="https://github.com/karol-f">
-				<img src="https://private-avatars.githubusercontent.com/u/893082?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ3NDAsIm5iZiI6MTczNDU3MzU0MCwicGF0aCI6Ii91Lzg5MzA4MiJ9.7v-wWXh0wXV57VUxw3U27SaRqX0LcurRLFnR9dJIa7A&s=72&u=0cda88d40a24ee696580f2e62f5569f49117cf40&v=4" width="24" alt="Avatar of karol-f"/> karol-f
+				<img src="https://private-avatars.githubusercontent.com/u/893082?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE2NDAsIm5iZiI6MTczNDYxMDQ0MCwicGF0aCI6Ii91Lzg5MzA4MiJ9.uMzfnnHM1Y_3DPKuX--VTucWiQwV9mBNLWxTiTAUovE&s=72&u=0cda88d40a24ee696580f2e62f5569f49117cf40&v=4" width="24" alt="Avatar of karol-f"/> karol-f
 			</a><br/>
 			Karol Fabjaczuk
 		</td>
@@ -10292,7 +10292,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>728</td>
 		<td>
 			<a target="_blank" href="https://github.com/elceef">
-				<img src="https://private-avatars.githubusercontent.com/u/8627380?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5MjAsIm5iZiI6MTczNDU3MzcyMCwicGF0aCI6Ii91Lzg2MjczODAifQ.Da8SLLWT20OU8afBSJe1OV2lAjerXdWcAVHxfhypMns&s=72&u=b4c9f4b9fdc0bfee2237887d49833a1893e3d4fa&v=4" width="24" alt="Avatar of elceef"/> elceef
+				<img src="https://private-avatars.githubusercontent.com/u/8627380?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4MjAsIm5iZiI6MTczNDYxMDYyMCwicGF0aCI6Ii91Lzg2MjczODAifQ._fPRY3Pt0_V-SaQkAY_VxG4_YE9EVsnN5aTNKn0sfC4&s=72&u=b4c9f4b9fdc0bfee2237887d49833a1893e3d4fa&v=4" width="24" alt="Avatar of elceef"/> elceef
 			</a><br/>
 			Marcin Ulikowski
 		</td>
@@ -10306,7 +10306,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>729</td>
 		<td>
 			<a target="_blank" href="https://github.com/cytrowski">
-				<img src="https://private-avatars.githubusercontent.com/u/2965690?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5ODAsIm5iZiI6MTczNDU3Mzc4MCwicGF0aCI6Ii91LzI5NjU2OTAifQ.39Md33RnCfIn-FOxNwvFdo2_rUIqjT14lXsCiBbVeS0&s=72&v=4" width="24" alt="Avatar of cytrowski"/> cytrowski
+				<img src="https://private-avatars.githubusercontent.com/u/2965690?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4ODAsIm5iZiI6MTczNDYxMDY4MCwicGF0aCI6Ii91LzI5NjU2OTAifQ.2tdZ1n2orqWSPKXRvPb9rB3sTrUWMzTJKQsZ6fyknyg&s=72&v=4" width="24" alt="Avatar of cytrowski"/> cytrowski
 			</a><br/>
 			Bartosz Cytrowski
 		</td>
@@ -10320,7 +10320,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>730</td>
 		<td>
 			<a target="_blank" href="https://github.com/snapshotpl">
-				<img src="https://private-avatars.githubusercontent.com/u/312655?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUzNDAsIm5iZiI6MTczNDU3NDE0MCwicGF0aCI6Ii91LzMxMjY1NSJ9.XtwXVVLGAhbaa0415oVmmbFiqzHiueyQbaPRZPB59Xs&s=72&v=4" width="24" alt="Avatar of snapshotpl"/> snapshotpl
+				<img src="https://private-avatars.githubusercontent.com/u/312655?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIyNDAsIm5iZiI6MTczNDYxMTA0MCwicGF0aCI6Ii91LzMxMjY1NSJ9.BSC1OXrxeIvftJSdMOmizo7DfHEnBxTi_6mx5BbRTWk&s=72&v=4" width="24" alt="Avatar of snapshotpl"/> snapshotpl
 			</a><br/>
 			Witold Wasiczko
 		</td>
@@ -10334,7 +10334,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>731</td>
 		<td>
 			<a target="_blank" href="https://github.com/0fca">
-				<img src="https://private-avatars.githubusercontent.com/u/25554250?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4NjAsIm5iZiI6MTczNDU3MzY2MCwicGF0aCI6Ii91LzI1NTU0MjUwIn0.QpNs1_to2FnUFp0BNmlApDoi7T5C5ffpIp6Q2eD4zFs&s=72&u=9a23e8e382f9d36d17b2cf6af8bddc678c3f8dda&v=4" width="24" alt="Avatar of 0fca"/> 0fca
+				<img src="https://private-avatars.githubusercontent.com/u/25554250?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3NjAsIm5iZiI6MTczNDYxMDU2MCwicGF0aCI6Ii91LzI1NTU0MjUwIn0.nzOeNcgggOwA0aBwjn1jJvCxvyiZLBs7ZXPFgefmMkM&s=72&u=9a23e8e382f9d36d17b2cf6af8bddc678c3f8dda&v=4" width="24" alt="Avatar of 0fca"/> 0fca
 			</a><br/>
 			Lukas
 		</td>
@@ -10348,7 +10348,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>732</td>
 		<td>
 			<a target="_blank" href="https://github.com/Michcioperz">
-				<img src="https://private-avatars.githubusercontent.com/u/3064202?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91LzMwNjQyMDIifQ.GOUGEEN6oBjVzOUFoeoLZqZgaV3j6WMjYYnEfSeJNUw&s=72&u=3c0391a2a2e5ccac027e40320f6f4e07097d20e1&v=4" width="24" alt="Avatar of Michcioperz"/> Michcioperz
+				<img src="https://private-avatars.githubusercontent.com/u/3064202?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91LzMwNjQyMDIifQ.tJ-whu7kWDQLS4m86q3Mnppv8AXkvu5yxx0vXQs8q4Y&s=72&u=3c0391a2a2e5ccac027e40320f6f4e07097d20e1&v=4" width="24" alt="Avatar of Michcioperz"/> Michcioperz
 			</a><br/>
 			Michalina Sidor
 		</td>
@@ -10362,7 +10362,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>733</td>
 		<td>
 			<a target="_blank" href="https://github.com/Nedved942">
-				<img src="https://private-avatars.githubusercontent.com/u/141773007?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2MjAsIm5iZiI6MTczNDU3MzQyMCwicGF0aCI6Ii91LzE0MTc3MzAwNyJ9.nDsW-P2oupUQViI1YeokQXp9_Tgca8oa3lXFa91H2gU&s=72&u=a46b05d591b393cee50f239301d3ce2a49d3299b&v=4" width="24" alt="Avatar of Nedved942"/> Nedved942
+				<img src="https://private-avatars.githubusercontent.com/u/141773007?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1MjAsIm5iZiI6MTczNDYxMDMyMCwicGF0aCI6Ii91LzE0MTc3MzAwNyJ9.mnXJLHVHwLvRlmcHU4Bt1wA2OIgHOigzt7IpOFTPg-w&s=72&u=a46b05d591b393cee50f239301d3ce2a49d3299b&v=4" width="24" alt="Avatar of Nedved942"/> Nedved942
 			</a><br/>
 			Pawe Kozio
 		</td>
@@ -10376,7 +10376,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>734</td>
 		<td>
 			<a target="_blank" href="https://github.com/gesior">
-				<img src="https://private-avatars.githubusercontent.com/u/2642737?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxNjAsIm5iZiI6MTczNDU3Mzk2MCwicGF0aCI6Ii91LzI2NDI3MzcifQ.S2aoZLLtk_zWTwzXqgyXiGggjUI6o2YEkZy4cHVQdxI&s=72&u=9f3c042eb1e6a0a645743b36ec283743356c0a8b&v=4" width="24" alt="Avatar of gesior"/> gesior
+				<img src="https://private-avatars.githubusercontent.com/u/2642737?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwNjAsIm5iZiI6MTczNDYxMDg2MCwicGF0aCI6Ii91LzI2NDI3MzcifQ.H5z2GRMGLuSvfQnr50rjqN0mAnYeFIuyRKcZPfMx5DM&s=72&u=9f3c042eb1e6a0a645743b36ec283743356c0a8b&v=4" width="24" alt="Avatar of gesior"/> gesior
 			</a><br/>
 			Jerzy Skalski
 		</td>
@@ -10390,7 +10390,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>735</td>
 		<td>
 			<a target="_blank" href="https://github.com/michalpipa">
-				<img src="https://private-avatars.githubusercontent.com/u/373275?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4NjAsIm5iZiI6MTczNDU3MzY2MCwicGF0aCI6Ii91LzM3MzI3NSJ9.yYCg3bOhMFbLjag_NUZ1h7HcXwt7-WKjAHVHXyw_tOU&s=72&v=4" width="24" alt="Avatar of michalpipa"/> michalpipa
+				<img src="https://private-avatars.githubusercontent.com/u/373275?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3NjAsIm5iZiI6MTczNDYxMDU2MCwicGF0aCI6Ii91LzM3MzI3NSJ9.FxsAIPPafLJGtEsUGNvVsXx3BT04CjMamiHayGrJZ10&s=72&v=4" width="24" alt="Avatar of michalpipa"/> michalpipa
 			</a><br/>
 			Micha Pipa
 		</td>
@@ -10404,7 +10404,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>736</td>
 		<td>
 			<a target="_blank" href="https://github.com/KamilAdd-Byte">
-				<img src="https://private-avatars.githubusercontent.com/u/66215467?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxNjAsIm5iZiI6MTczNDU3Mzk2MCwicGF0aCI6Ii91LzY2MjE1NDY3In0.JkrFtySmAtjWlwuO53ZzFW6JjCIA6U0GFO4w0NtmY5I&s=72&u=7b491b71faea2ac98ad0d291a20af84f686bde08&v=4" width="24" alt="Avatar of KamilAdd-Byte"/> KamilAdd-Byte
+				<img src="https://private-avatars.githubusercontent.com/u/66215467?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwNjAsIm5iZiI6MTczNDYxMDg2MCwicGF0aCI6Ii91LzY2MjE1NDY3In0.C5hYV6U_Y-eTLRJ8EsLBJCxbUwqrxc1sXRjgrC_lDNE&s=72&u=7b491b71faea2ac98ad0d291a20af84f686bde08&v=4" width="24" alt="Avatar of KamilAdd-Byte"/> KamilAdd-Byte
 			</a><br/>
 			Sulejewski Kamil
 		</td>
@@ -10418,7 +10418,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>737</td>
 		<td>
 			<a target="_blank" href="https://github.com/ElektroKill">
-				<img src="https://private-avatars.githubusercontent.com/u/37494960?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ0NDAsIm5iZiI6MTczNDU3MzI0MCwicGF0aCI6Ii91LzM3NDk0OTYwIn0.M7nJ41pUQ-u4lk5tW09nlyHhxXcDoGi2ogkidbmTdHM&s=72&u=e0984d3032dd270874c3d6ca9fecff7243278bac&v=4" width="24" alt="Avatar of ElektroKill"/> ElektroKill
+				<img src="https://private-avatars.githubusercontent.com/u/37494960?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTEzNDAsIm5iZiI6MTczNDYxMDE0MCwicGF0aCI6Ii91LzM3NDk0OTYwIn0.kLdNMnorvjvm6qcNgMgBX7HdtjV42nHcvx53Bp8K96E&s=72&u=e0984d3032dd270874c3d6ca9fecff7243278bac&v=4" width="24" alt="Avatar of ElektroKill"/> ElektroKill
 			</a><br/>
 			ElektroKill
 		</td>
@@ -10432,7 +10432,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>738</td>
 		<td>
 			<a target="_blank" href="https://github.com/aleksanderwozniak">
-				<img src="https://private-avatars.githubusercontent.com/u/22658673?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyMjAsIm5iZiI6MTczNDU3NDAyMCwicGF0aCI6Ii91LzIyNjU4NjczIn0.3-AU4SEmsRHKGaii8eEds7qojvKnrdNUcNHvciqJofk&s=72&u=35f16f741e8dc03bc570f70b9de1881643da262d&v=4" width="24" alt="Avatar of aleksanderwozniak"/> aleksanderwozniak
+				<img src="https://private-avatars.githubusercontent.com/u/22658673?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxMjAsIm5iZiI6MTczNDYxMDkyMCwicGF0aCI6Ii91LzIyNjU4NjczIn0.PUcfKx1JqEWzLn1mT4oYfLPs3IrfzMEe7zTFuJQWZFE&s=72&u=35f16f741e8dc03bc570f70b9de1881643da262d&v=4" width="24" alt="Avatar of aleksanderwozniak"/> aleksanderwozniak
 			</a><br/>
 			Aleksander Woniak
 		</td>
@@ -10446,7 +10446,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>739</td>
 		<td>
 			<a target="_blank" href="https://github.com/helloroman">
-				<img src="https://private-avatars.githubusercontent.com/u/9623791?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ3NDAsIm5iZiI6MTczNDU3MzU0MCwicGF0aCI6Ii91Lzk2MjM3OTEifQ.hK40q8z_0wIvytrC49ypRC6uQAmsb6rzJGBNzJ8lxcc&s=72&u=124ee6831d16d2ceee8fd6aee4ed7a9f8657acd4&v=4" width="24" alt="Avatar of helloroman"/> helloroman
+				<img src="https://private-avatars.githubusercontent.com/u/9623791?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE2NDAsIm5iZiI6MTczNDYxMDQ0MCwicGF0aCI6Ii91Lzk2MjM3OTEifQ.3GhcTv9NKRYL_BFFpcw9QNOGDWFLIE1PrmW5oN2tam8&s=72&u=124ee6831d16d2ceee8fd6aee4ed7a9f8657acd4&v=4" width="24" alt="Avatar of helloroman"/> helloroman
 			</a><br/>
 			Adam
 		</td>
@@ -10460,7 +10460,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>740</td>
 		<td>
 			<a target="_blank" href="https://github.com/pokonski">
-				<img src="https://private-avatars.githubusercontent.com/u/135402?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU0MDAsIm5iZiI6MTczNDU3NDIwMCwicGF0aCI6Ii91LzEzNTQwMiJ9.ySm4OONWkcpSo2wki04TDKuFecmZs6iDqiIcGtJAeuA&s=72&u=99368c81bab07bb7ef2b5e4f74857982df51a1bb&v=4" width="24" alt="Avatar of pokonski"/> pokonski
+				<img src="https://private-avatars.githubusercontent.com/u/135402?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIzMDAsIm5iZiI6MTczNDYxMTEwMCwicGF0aCI6Ii91LzEzNTQwMiJ9.Rn3l6OO276QqdMOaejB-DFFYtZubmrtPZYKukE9KIGc&s=72&u=99368c81bab07bb7ef2b5e4f74857982df51a1bb&v=4" width="24" alt="Avatar of pokonski"/> pokonski
 			</a><br/>
 			No Name
 		</td>
@@ -10474,7 +10474,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>741</td>
 		<td>
 			<a target="_blank" href="https://github.com/neuronetio">
-				<img src="https://private-avatars.githubusercontent.com/u/25027696?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5MjAsIm5iZiI6MTczNDU3MzcyMCwicGF0aCI6Ii91LzI1MDI3Njk2In0.DBOE6KPNTpxqV3jRxWG7H_X_kdP9uA_R1o3Ba9kvxDQ&s=72&u=36aa55e423dd8659f28d9430941584f71bc1422c&v=4" width="24" alt="Avatar of neuronetio"/> neuronetio
+				<img src="https://private-avatars.githubusercontent.com/u/25027696?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4MjAsIm5iZiI6MTczNDYxMDYyMCwicGF0aCI6Ii91LzI1MDI3Njk2In0.VrgF87CzoyROXJJD9EPKOtTkWfzdWDHTHHclSOC5Zrk&s=72&u=36aa55e423dd8659f28d9430941584f71bc1422c&v=4" width="24" alt="Avatar of neuronetio"/> neuronetio
 			</a><br/>
 			neuronetio
 		</td>
@@ -10488,7 +10488,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>742</td>
 		<td>
 			<a target="_blank" href="https://github.com/dreamer">
-				<img src="https://private-avatars.githubusercontent.com/u/3967?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91LzM5NjcifQ.R4zURJyaw_cOjx-RcD5Bm2gsi2VwkJ08heL6trKA1Dk&s=72&u=6fdb631e61960adf0406d7562fbc475365f641e8&v=4" width="24" alt="Avatar of dreamer"/> dreamer
+				<img src="https://private-avatars.githubusercontent.com/u/3967?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91LzM5NjcifQ.XSl6erRTpEEmmU2rHTAxfkY_VZe9eAhLpywymHnIol4&s=72&u=6fdb631e61960adf0406d7562fbc475365f641e8&v=4" width="24" alt="Avatar of dreamer"/> dreamer
 			</a><br/>
 			Patryk Obara
 		</td>
@@ -10502,7 +10502,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>743</td>
 		<td>
 			<a target="_blank" href="https://github.com/jimmyg1997">
-				<img src="https://private-avatars.githubusercontent.com/u/23617318?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyODAsIm5iZiI6MTczNDU3NDA4MCwicGF0aCI6Ii91LzIzNjE3MzE4In0.akW4t2Z3tPxdrwnKlWVj__q1jJ2g5wP0QNJjDADfp1A&s=72&u=0a88c4aaad6237201221863e08557c35c8bf3884&v=4" width="24" alt="Avatar of jimmyg1997"/> jimmyg1997
+				<img src="https://private-avatars.githubusercontent.com/u/23617318?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxODAsIm5iZiI6MTczNDYxMDk4MCwicGF0aCI6Ii91LzIzNjE3MzE4In0.GHAAHiKP2m4bTMxXz1GGwuWFOS_EORweMBipf9rgDaU&s=72&u=0a88c4aaad6237201221863e08557c35c8bf3884&v=4" width="24" alt="Avatar of jimmyg1997"/> jimmyg1997
 			</a><br/>
 			Dimitrios Georgiou
 		</td>
@@ -10516,7 +10516,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>744</td>
 		<td>
 			<a target="_blank" href="https://github.com/sheerun">
-				<img src="https://private-avatars.githubusercontent.com/u/292365?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ1NjAsIm5iZiI6MTczNDU3MzM2MCwicGF0aCI6Ii91LzI5MjM2NSJ9.a1CuE3KPzv_BlIpYHKyQB8UTX1Sm06AVcHHdurBg3So&s=72&u=9fd69b57a8ae73fd5434f73c179949574b372976&v=4" width="24" alt="Avatar of sheerun"/> sheerun
+				<img src="https://private-avatars.githubusercontent.com/u/292365?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE0NjAsIm5iZiI6MTczNDYxMDI2MCwicGF0aCI6Ii91LzI5MjM2NSJ9.sHlGX5j66NiJk8JTBn9Ra8tbaKq3ovmYsjxeCoEQj0U&s=72&u=9fd69b57a8ae73fd5434f73c179949574b372976&v=4" width="24" alt="Avatar of sheerun"/> sheerun
 			</a><br/>
 			Adam Stankiewicz
 		</td>
@@ -10530,7 +10530,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>745</td>
 		<td>
 			<a target="_blank" href="https://github.com/dyjakan">
-				<img src="https://private-avatars.githubusercontent.com/u/587985?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ3NDAsIm5iZiI6MTczNDU3MzU0MCwicGF0aCI6Ii91LzU4Nzk4NSJ9.56svXPDDkDHRythI0K-8ROxzFuJTpCRaGQfwaVrTat0&s=72&u=4eb6dd85ab81d944809317f9601a97f93caa675b&v=4" width="24" alt="Avatar of dyjakan"/> dyjakan
+				<img src="https://private-avatars.githubusercontent.com/u/587985?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE2NDAsIm5iZiI6MTczNDYxMDQ0MCwicGF0aCI6Ii91LzU4Nzk4NSJ9.5KBjagjXFfA6CE4ot7TEiRzjeKHiJ-1qZvjlo8Rfp8U&s=72&u=4eb6dd85ab81d944809317f9601a97f93caa675b&v=4" width="24" alt="Avatar of dyjakan"/> dyjakan
 			</a><br/>
 			Andrzej Dyjak
 		</td>
@@ -10544,7 +10544,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>746</td>
 		<td>
 			<a target="_blank" href="https://github.com/lutfullahkamilcaglar">
-				<img src="https://private-avatars.githubusercontent.com/u/73592197?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU1MjAsIm5iZiI6MTczNDU3NDMyMCwicGF0aCI6Ii91LzczNTkyMTk3In0.x58IOG8HV8GlR5UC-BK9UWrZzaXyLgPQhGBl_twLSW0&s=72&u=d8eb3b465f69d9f5abad016a0d07520b2988a1c9&v=4" width="24" alt="Avatar of lutfullahkamilcaglar"/> lutfullahkamilcaglar
+				<img src="https://private-avatars.githubusercontent.com/u/73592197?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTI0MjAsIm5iZiI6MTczNDYxMTIyMCwicGF0aCI6Ii91LzczNTkyMTk3In0.TlKNnmnWYXIJIlzT6WFIU7IYdUT5S_uzecJjF84Fat4&s=72&u=d8eb3b465f69d9f5abad016a0d07520b2988a1c9&v=4" width="24" alt="Avatar of lutfullahkamilcaglar"/> lutfullahkamilcaglar
 			</a><br/>
 			lutfullah kamil caglar
 		</td>
@@ -10558,7 +10558,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>747</td>
 		<td>
 			<a target="_blank" href="https://github.com/bpieczek">
-				<img src="https://private-avatars.githubusercontent.com/u/92160230?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxNjAsIm5iZiI6MTczNDU3Mzk2MCwicGF0aCI6Ii91LzkyMTYwMjMwIn0.pvPphExyeUCPPOeau3o5bNoyxyaWbe7GipRkxPeprHU&s=72&u=48cf0c769c74519b10a3986a6794bcd6676fd37c&v=4" width="24" alt="Avatar of bpieczek"/> bpieczek
+				<img src="https://private-avatars.githubusercontent.com/u/92160230?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwNjAsIm5iZiI6MTczNDYxMDg2MCwicGF0aCI6Ii91LzkyMTYwMjMwIn0.Bzo6V9NqSXgU-Y0OqSrovSNmYc-SW_Qqp4QA26avLH0&s=72&u=48cf0c769c74519b10a3986a6794bcd6676fd37c&v=4" width="24" alt="Avatar of bpieczek"/> bpieczek
 			</a><br/>
 			Bartosz Pieczek
 		</td>
@@ -10572,7 +10572,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>748</td>
 		<td>
 			<a target="_blank" href="https://github.com/pepe2k">
-				<img src="https://private-avatars.githubusercontent.com/u/2934612?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ3NDAsIm5iZiI6MTczNDU3MzU0MCwicGF0aCI6Ii91LzI5MzQ2MTIifQ.c5_Wf-4zFII3_vfcPWmjvW1j8LgW0NAQotefADQ9G_4&s=72&u=b68294ec4ed9dcfb27aa1c96ba4f01e45b8e0b2c&v=4" width="24" alt="Avatar of pepe2k"/> pepe2k
+				<img src="https://private-avatars.githubusercontent.com/u/2934612?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE2NDAsIm5iZiI6MTczNDYxMDQ0MCwicGF0aCI6Ii91LzI5MzQ2MTIifQ.gmIMG3c_yLvecRMpuER16auzQNcQCd0YP6L92o0VBSQ&s=72&u=b68294ec4ed9dcfb27aa1c96ba4f01e45b8e0b2c&v=4" width="24" alt="Avatar of pepe2k"/> pepe2k
 			</a><br/>
 			Piotr Dymacz
 		</td>
@@ -10586,7 +10586,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>749</td>
 		<td>
 			<a target="_blank" href="https://github.com/kmonsoor">
-				<img src="https://private-avatars.githubusercontent.com/u/1219418?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyMjAsIm5iZiI6MTczNDU3NDAyMCwicGF0aCI6Ii91LzEyMTk0MTgifQ.2dCN9uNuRah-8JHpp8fLE_C4-nqmmsFRz6yC-3T4pXs&s=72&u=84b99f49f1e9df60df37e41e511d176ce44d248e&v=4" width="24" alt="Avatar of kmonsoor"/> kmonsoor
+				<img src="https://private-avatars.githubusercontent.com/u/1219418?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxMjAsIm5iZiI6MTczNDYxMDkyMCwicGF0aCI6Ii91LzEyMTk0MTgifQ.uUs8gI2DF5yrG1hT7prM9QOJiXLD_wECrJii2gmHcr8&s=72&u=84b99f49f1e9df60df37e41e511d176ce44d248e&v=4" width="24" alt="Avatar of kmonsoor"/> kmonsoor
 			</a><br/>
 			Khaled Monsoor
 		</td>
@@ -10600,7 +10600,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>750</td>
 		<td>
 			<a target="_blank" href="https://github.com/lstkz">
-				<img src="https://private-avatars.githubusercontent.com/u/4478684?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyMjAsIm5iZiI6MTczNDU3NDAyMCwicGF0aCI6Ii91LzQ0Nzg2ODQifQ.FSo9iPFu_ASODgKtyHTY6DULe7U0W-hPkrtOAXWWLLM&s=72&u=f2c9488c23e19b2f48301f4505b50a55f5cdeeda&v=4" width="24" alt="Avatar of lstkz"/> lstkz
+				<img src="https://private-avatars.githubusercontent.com/u/4478684?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxMjAsIm5iZiI6MTczNDYxMDkyMCwicGF0aCI6Ii91LzQ0Nzg2ODQifQ.7OcICjQ-g3T6QA5cwdT6kb7LmS0ghXIGiTpaxQO_Ktg&s=72&u=f2c9488c23e19b2f48301f4505b50a55f5cdeeda&v=4" width="24" alt="Avatar of lstkz"/> lstkz
 			</a><br/>
 			ukasz Sentkiewicz
 		</td>
@@ -10614,7 +10614,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>751</td>
 		<td>
 			<a target="_blank" href="https://github.com/trimstray">
-				<img src="https://private-avatars.githubusercontent.com/u/31127917?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ1NjAsIm5iZiI6MTczNDU3MzM2MCwicGF0aCI6Ii91LzMxMTI3OTE3In0.e6nOdnvgbsyHryvyP5CLhJXwtlPkxktRJznunMP6o6o&s=72&v=4" width="24" alt="Avatar of trimstray"/> trimstray
+				<img src="https://private-avatars.githubusercontent.com/u/31127917?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE0NjAsIm5iZiI6MTczNDYxMDI2MCwicGF0aCI6Ii91LzMxMTI3OTE3In0.u56IA5rjzDYXTAuOLmmCkUVeafrcifuEzkAaFxkkjWk&s=72&v=4" width="24" alt="Avatar of trimstray"/> trimstray
 			</a><br/>
 			Micha y
 		</td>
@@ -10628,7 +10628,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>752</td>
 		<td>
 			<a target="_blank" href="https://github.com/Byterprogram">
-				<img src="https://private-avatars.githubusercontent.com/u/137158715?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91LzEzNzE1ODcxNSJ9.lTddhktk1A4a_aIpMWYTrAJK2Saku9VVC5azKRYg4FM&s=72&u=7871133daf5d5e34671716379ef54beca70738c6&v=4" width="24" alt="Avatar of Byterprogram"/> Byterprogram
+				<img src="https://private-avatars.githubusercontent.com/u/137158715?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91LzEzNzE1ODcxNSJ9.8Mwg0ApKmothWHECQeiAkoz3W4QYY7g1XrEDKNXncQI&s=72&u=7871133daf5d5e34671716379ef54beca70738c6&v=4" width="24" alt="Avatar of Byterprogram"/> Byterprogram
 			</a><br/>
 			Byter
 		</td>
@@ -10642,7 +10642,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>753</td>
 		<td>
 			<a target="_blank" href="https://github.com/desowin">
-				<img src="https://private-avatars.githubusercontent.com/u/1053087?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2MjAsIm5iZiI6MTczNDU3MzQyMCwicGF0aCI6Ii91LzEwNTMwODcifQ.bp8FhpCe-Ea0T-_HQdPgW25fjhjSvase33mf6y7uo3w&s=72&v=4" width="24" alt="Avatar of desowin"/> desowin
+				<img src="https://private-avatars.githubusercontent.com/u/1053087?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1MjAsIm5iZiI6MTczNDYxMDMyMCwicGF0aCI6Ii91LzEwNTMwODcifQ.5sThqrPRjBneqvewWlTs4p-U0-gozhY3GfCxpcvf0-M&s=72&v=4" width="24" alt="Avatar of desowin"/> desowin
 			</a><br/>
 			Tomasz Mo
 		</td>
@@ -10656,7 +10656,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>754</td>
 		<td>
 			<a target="_blank" href="https://github.com/Dziurwa14">
-				<img src="https://private-avatars.githubusercontent.com/u/54191536?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5MjAsIm5iZiI6MTczNDU3MzcyMCwicGF0aCI6Ii91LzU0MTkxNTM2In0.-2mOCs6kY_k1xo18NOWKjBqDTMwk69_Q_hR61XNMeLk&s=72&u=5e59267979f187968c4ba9f534e4ceebea4e5b10&v=4" width="24" alt="Avatar of Dziurwa14"/> Dziurwa14
+				<img src="https://private-avatars.githubusercontent.com/u/54191536?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4MjAsIm5iZiI6MTczNDYxMDYyMCwicGF0aCI6Ii91LzU0MTkxNTM2In0.MNhu3JVx7O23aOaSLUtnqZoKE583O72UOW5LtWCbzQ0&s=72&u=5e59267979f187968c4ba9f534e4ceebea4e5b10&v=4" width="24" alt="Avatar of Dziurwa14"/> Dziurwa14
 			</a><br/>
 			Dziurwa
 		</td>
@@ -10669,8 +10669,22 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 	<tr>
 		<td>755</td>
 		<td>
+			<a target="_blank" href="https://github.com/Informatic">
+				<img src="https://private-avatars.githubusercontent.com/u/1131102?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTI0MjAsIm5iZiI6MTczNDYxMTIyMCwicGF0aCI6Ii91LzExMzExMDIifQ.ubGsvshAIb0LbDQnFephc4KYVGEs84_-ZphghcuoiTE&s=72&u=e834c7d63d57f5432f379931b17c590cba7bab08&v=4" width="24" alt="Avatar of Informatic"/> Informatic
+			</a><br/>
+			Piotr Dobrowolski
+		</td>
+		<td>Warsaw Hackerspace </td>
+		<td>No Twitter Username</td>
+		<td>Warsaw Poland</td>
+		<td>25</td>
+		<td>25</td>
+	</tr>
+	<tr>
+		<td>756</td>
+		<td>
 			<a target="_blank" href="https://github.com/JaCzekanski">
-				<img src="https://private-avatars.githubusercontent.com/u/3662990?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUzNDAsIm5iZiI6MTczNDU3NDE0MCwicGF0aCI6Ii91LzM2NjI5OTAifQ.rdooCgs2Zlncx6GV7KcEED9xDZRCbMFQCQ_KyfK12H0&s=72&u=e2842d334a8dac233e01031e6658a8291e91e24f&v=4" width="24" alt="Avatar of JaCzekanski"/> JaCzekanski
+				<img src="https://private-avatars.githubusercontent.com/u/3662990?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIyNDAsIm5iZiI6MTczNDYxMTA0MCwicGF0aCI6Ii91LzM2NjI5OTAifQ.wO_IvgpbkoYnFF5QJLTmnVIBwDQnFh3nacuwnST74is&s=72&u=e2842d334a8dac233e01031e6658a8291e91e24f&v=4" width="24" alt="Avatar of JaCzekanski"/> JaCzekanski
 			</a><br/>
 			Jakub Czekaski
 		</td>
@@ -10681,10 +10695,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>756</td>
+		<td>757</td>
 		<td>
 			<a target="_blank" href="https://github.com/Dorota1997">
-				<img src="https://private-avatars.githubusercontent.com/u/25982852?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ1NjAsIm5iZiI6MTczNDU3MzM2MCwicGF0aCI6Ii91LzI1OTgyODUyIn0.5EtX53a1ksaxL-XRtH67HxBv8MtgsQzXTrNepvGGdiI&s=72&u=caf92d90b3a303e96379af473e28ffc0c064c61b&v=4" width="24" alt="Avatar of Dorota1997"/> Dorota1997
+				<img src="https://private-avatars.githubusercontent.com/u/25982852?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE0NjAsIm5iZiI6MTczNDYxMDI2MCwicGF0aCI6Ii91LzI1OTgyODUyIn0.q_mu6_vt01oZxCjNg0wX9ba0JMJ9FG4gBOtb7naLXuE&s=72&u=caf92d90b3a303e96379af473e28ffc0c064c61b&v=4" width="24" alt="Avatar of Dorota1997"/> Dorota1997
 			</a><br/>
 			Dorota Gil
 		</td>
@@ -10695,10 +10709,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>757</td>
+		<td>758</td>
 		<td>
 			<a target="_blank" href="https://github.com/ikkisoft">
-				<img src="https://private-avatars.githubusercontent.com/u/6027823?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91LzYwMjc4MjMifQ.VRweXcLEOx2IcEaRxkp6P8csX06e1PF0XYLtQQndCss&s=72&u=6bf26cf24ad6be79d3733901f694b04f222ab896&v=4" width="24" alt="Avatar of ikkisoft"/> ikkisoft
+				<img src="https://private-avatars.githubusercontent.com/u/6027823?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91LzYwMjc4MjMifQ.0vvuE02qlRFSYwWZvvH8J6_Qtpt46Et_aztpAooGsmk&s=72&u=6bf26cf24ad6be79d3733901f694b04f222ab896&v=4" width="24" alt="Avatar of ikkisoft"/> ikkisoft
 			</a><br/>
 			Luca Carettoni
 		</td>
@@ -10709,24 +10723,10 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>758</td>
-		<td>
-			<a target="_blank" href="https://github.com/Informatic">
-				<img src="https://private-avatars.githubusercontent.com/u/1131102?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU1MjAsIm5iZiI6MTczNDU3NDMyMCwicGF0aCI6Ii91LzExMzExMDIifQ.mMRiqwwuw94YvEkZrr-HjgAoF7Q2snv-5f2PHV97pYA&s=72&u=e834c7d63d57f5432f379931b17c590cba7bab08&v=4" width="24" alt="Avatar of Informatic"/> Informatic
-			</a><br/>
-			Piotr Dobrowolski
-		</td>
-		<td>Warsaw Hackerspace </td>
-		<td>No Twitter Username</td>
-		<td>Warsaw Poland</td>
-		<td>24</td>
-		<td>24</td>
-	</tr>
-	<tr>
 		<td>759</td>
 		<td>
 			<a target="_blank" href="https://github.com/hckr">
-				<img src="https://private-avatars.githubusercontent.com/u/1078650?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5ODAsIm5iZiI6MTczNDU3Mzc4MCwicGF0aCI6Ii91LzEwNzg2NTAifQ.Pi3IYFnRR5R-VwgWyHGQke6zpfolE33RyBKb8p1fElU&s=72&u=77b057b34a301f61b08429ff90dae919daf29da9&v=4" width="24" alt="Avatar of hckr"/> hckr
+				<img src="https://private-avatars.githubusercontent.com/u/1078650?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4ODAsIm5iZiI6MTczNDYxMDY4MCwicGF0aCI6Ii91LzEwNzg2NTAifQ.w1GmNaSOjj3PqpBfV0_rTGG0uHKaeUIP4xK8XgJQSpQ&s=72&u=77b057b34a301f61b08429ff90dae919daf29da9&v=4" width="24" alt="Avatar of hckr"/> hckr
 			</a><br/>
 			Jakub Mokosiewicz
 		</td>
@@ -10740,7 +10740,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>760</td>
 		<td>
 			<a target="_blank" href="https://github.com/furas">
-				<img src="https://private-avatars.githubusercontent.com/u/654432?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5ODAsIm5iZiI6MTczNDU3Mzc4MCwicGF0aCI6Ii91LzY1NDQzMiJ9.ihs43dhHuR2qfgPVuY9zgGmA7B7DZjCdtpIuHwHpilI&s=72&u=fa99ecbce9d7bf672eb8de2000fd7bbdabec410e&v=4" width="24" alt="Avatar of furas"/> furas
+				<img src="https://private-avatars.githubusercontent.com/u/654432?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4ODAsIm5iZiI6MTczNDYxMDY4MCwicGF0aCI6Ii91LzY1NDQzMiJ9.M07oY-Mc9DGT1i64asegPndsAeurfZ2N5ibOVrPTIK0&s=72&u=fa99ecbce9d7bf672eb8de2000fd7bbdabec410e&v=4" width="24" alt="Avatar of furas"/> furas
 			</a><br/>
 			Bartomiej furas Burek
 		</td>
@@ -10754,7 +10754,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>761</td>
 		<td>
 			<a target="_blank" href="https://github.com/zneix">
-				<img src="https://private-avatars.githubusercontent.com/u/44851575?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5MjAsIm5iZiI6MTczNDU3MzcyMCwicGF0aCI6Ii91LzQ0ODUxNTc1In0.83h5aL7NrJTa9kAjXkVGJOoGUxLLMakmW_GQnrPdRwU&s=72&u=acee32a6b7edd082aabf5c24183c6878a1b6dbb6&v=4" width="24" alt="Avatar of zneix"/> zneix
+				<img src="https://private-avatars.githubusercontent.com/u/44851575?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4MjAsIm5iZiI6MTczNDYxMDYyMCwicGF0aCI6Ii91LzQ0ODUxNTc1In0.kW2SBpBDXYp8sQ5dlY7UEAu3KMi_8IynJCfn5ztfcyQ&s=72&u=acee32a6b7edd082aabf5c24183c6878a1b6dbb6&v=4" width="24" alt="Avatar of zneix"/> zneix
 			</a><br/>
 			No Name
 		</td>
@@ -10768,7 +10768,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>762</td>
 		<td>
 			<a target="_blank" href="https://github.com/GabrielaOchoaDaderska">
-				<img src="https://private-avatars.githubusercontent.com/u/108947060?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxMDAsIm5iZiI6MTczNDU3MzkwMCwicGF0aCI6Ii91LzEwODk0NzA2MCJ9.L3rWcL_RAvCNT4SFo_fEcFw50MZMFJcELlrwS07vstc&s=72&u=906c5333627d9ceff820dd56bc64d1ee36ffa7b5&v=4" width="24" alt="Avatar of GabrielaOchoaDaderska"/> GabrielaOchoaDaderska
+				<img src="https://private-avatars.githubusercontent.com/u/108947060?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwMDAsIm5iZiI6MTczNDYxMDgwMCwicGF0aCI6Ii91LzEwODk0NzA2MCJ9.BDxuem_rDWl4O4XmZ6-ZyZuZ4PvqvToMHL_Z2lZ1Z-0&s=72&u=906c5333627d9ceff820dd56bc64d1ee36ffa7b5&v=4" width="24" alt="Avatar of GabrielaOchoaDaderska"/> GabrielaOchoaDaderska
 			</a><br/>
 			Gabriela Ochoa Dderska
 		</td>
@@ -10782,7 +10782,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>763</td>
 		<td>
 			<a target="_blank" href="https://github.com/JozefFlakus">
-				<img src="https://private-avatars.githubusercontent.com/u/7793430?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyODAsIm5iZiI6MTczNDU3NDA4MCwicGF0aCI6Ii91Lzc3OTM0MzAifQ.ZzhkSixXPn5M7h7O7uJ07T3SPZl0vmuoEttKIYIslrA&s=72&u=af3aa94f9aa5a8513036b5ae112773f098b40dbe&v=4" width="24" alt="Avatar of JozefFlakus"/> JozefFlakus
+				<img src="https://private-avatars.githubusercontent.com/u/7793430?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxODAsIm5iZiI6MTczNDYxMDk4MCwicGF0aCI6Ii91Lzc3OTM0MzAifQ.eU9enhp6vCiExmsUsIhYFrIFjYiu2UHGryBv_OkZO4w&s=72&u=af3aa94f9aa5a8513036b5ae112773f098b40dbe&v=4" width="24" alt="Avatar of JozefFlakus"/> JozefFlakus
 			</a><br/>
 			Jzef Flakus
 		</td>
@@ -10796,7 +10796,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>764</td>
 		<td>
 			<a target="_blank" href="https://github.com/krzjoa">
-				<img src="https://private-avatars.githubusercontent.com/u/17183113?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91LzE3MTgzMTEzIn0.bywSKk53CR9TPjVfp41LMidRIOlQtWH6EeNSSWH_JSs&s=72&u=ad32507b9e440e4d4cf517fbc9b0e753205989da&v=4" width="24" alt="Avatar of krzjoa"/> krzjoa
+				<img src="https://private-avatars.githubusercontent.com/u/17183113?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91LzE3MTgzMTEzIn0.8FVFSAxzN_VO2BPpyEuUCFq4jo76ZAwb0ikmR7XqtdY&s=72&u=ad32507b9e440e4d4cf517fbc9b0e753205989da&v=4" width="24" alt="Avatar of krzjoa"/> krzjoa
 			</a><br/>
 			Krzysztof Joachimiak
 		</td>
@@ -10810,7 +10810,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>765</td>
 		<td>
 			<a target="_blank" href="https://github.com/Ondrik8">
-				<img src="https://private-avatars.githubusercontent.com/u/59111771?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyMjAsIm5iZiI6MTczNDU3NDAyMCwicGF0aCI6Ii91LzU5MTExNzcxIn0.ThiHG4zNnW1osxF6YgwPa8Igb0IzNfGY4FFK_psg81c&s=72&u=6484ac21d766f31e86e0864d78d0b4eeef0e52a0&v=4" width="24" alt="Avatar of Ondrik8"/> Ondrik8
+				<img src="https://private-avatars.githubusercontent.com/u/59111771?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxMjAsIm5iZiI6MTczNDYxMDkyMCwicGF0aCI6Ii91LzU5MTExNzcxIn0.1L86-8IDa_BIJx6nYn2-re4ZYGMAfLjYGh-rpWqugF0&s=72&u=6484ac21d766f31e86e0864d78d0b4eeef0e52a0&v=4" width="24" alt="Avatar of Ondrik8"/> Ondrik8
 			</a><br/>
 			No Name
 		</td>
@@ -10824,7 +10824,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>766</td>
 		<td>
 			<a target="_blank" href="https://github.com/lest">
-				<img src="https://private-avatars.githubusercontent.com/u/36079?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyODAsIm5iZiI6MTczNDU3NDA4MCwicGF0aCI6Ii91LzM2MDc5In0.hG9IX_TL1LPrsVf0xMiBbS4v_YCfqrRrZG3-cz_LyOo&s=72&u=5db7203eec06ae9d2e49f2c23ae7eaac6e5dae15&v=4" width="24" alt="Avatar of lest"/> lest
+				<img src="https://private-avatars.githubusercontent.com/u/36079?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxODAsIm5iZiI6MTczNDYxMDk4MCwicGF0aCI6Ii91LzM2MDc5In0.FFyfjbyU3agl5a3rY1Ny_pXEXXujTbmOnXPMXS7ViBo&s=72&u=5db7203eec06ae9d2e49f2c23ae7eaac6e5dae15&v=4" width="24" alt="Avatar of lest"/> lest
 			</a><br/>
 			Sergey Nartimov
 		</td>
@@ -10838,7 +10838,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>767</td>
 		<td>
 			<a target="_blank" href="https://github.com/oleklamza">
-				<img src="https://private-avatars.githubusercontent.com/u/1088246?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxMDAsIm5iZiI6MTczNDU3MzkwMCwicGF0aCI6Ii91LzEwODgyNDYifQ.mkeQW7MgAJsTXgb3OGNE2QUgnbkljsdL-bA109eXVpE&s=72&u=1d16f63a963e04ad59e9084a05b258d54843e4fc&v=4" width="24" alt="Avatar of oleklamza"/> oleklamza
+				<img src="https://private-avatars.githubusercontent.com/u/1088246?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwMDAsIm5iZiI6MTczNDYxMDgwMCwicGF0aCI6Ii91LzEwODgyNDYifQ.lNVfqYbNOA-ZRgEBi0OYvTk9Ac9uHDp3U8S-V2lVADA&s=72&u=1d16f63a963e04ad59e9084a05b258d54843e4fc&v=4" width="24" alt="Avatar of oleklamza"/> oleklamza
 			</a><br/>
 			Olek Lama
 		</td>
@@ -10852,7 +10852,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>768</td>
 		<td>
 			<a target="_blank" href="https://github.com/pawelkaczor">
-				<img src="https://private-avatars.githubusercontent.com/u/41667?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU0NjAsIm5iZiI6MTczNDU3NDI2MCwicGF0aCI6Ii91LzQxNjY3In0.0VQe0bLEnjEW99JdM0hDU951cXYieR7_4FUaYIUpMxY&s=72&u=5cb6fec0a1e0f0ac56d5b8a341dd621f637bb0c4&v=4" width="24" alt="Avatar of pawelkaczor"/> pawelkaczor
+				<img src="https://private-avatars.githubusercontent.com/u/41667?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIzNjAsIm5iZiI6MTczNDYxMTE2MCwicGF0aCI6Ii91LzQxNjY3In0.28QK1NgKpRZgN9wiiR8dQO9fIN4Qd4sSYPrt77rnfjM&s=72&u=5cb6fec0a1e0f0ac56d5b8a341dd621f637bb0c4&v=4" width="24" alt="Avatar of pawelkaczor"/> pawelkaczor
 			</a><br/>
 			Pawe Kaczor
 		</td>
@@ -10866,7 +10866,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>769</td>
 		<td>
 			<a target="_blank" href="https://github.com/rkujawa">
-				<img src="https://private-avatars.githubusercontent.com/u/2439472?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5MjAsIm5iZiI6MTczNDU3MzcyMCwicGF0aCI6Ii91LzI0Mzk0NzIifQ.YxZqr7K21BxzYozseJ1KkB0iNiMw5fgkRSqe96G9gNM&s=72&v=4" width="24" alt="Avatar of rkujawa"/> rkujawa
+				<img src="https://private-avatars.githubusercontent.com/u/2439472?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4MjAsIm5iZiI6MTczNDYxMDYyMCwicGF0aCI6Ii91LzI0Mzk0NzIifQ.eSnKveC08NrrUeJgVXeYmQ311bmBZvOwR0T6cxrv4AU&s=72&v=4" width="24" alt="Avatar of rkujawa"/> rkujawa
 			</a><br/>
 			Radosaw Kujawa
 		</td>
@@ -10880,7 +10880,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>770</td>
 		<td>
 			<a target="_blank" href="https://github.com/bskiba">
-				<img src="https://private-avatars.githubusercontent.com/u/3731277?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU0NjAsIm5iZiI6MTczNDU3NDI2MCwicGF0aCI6Ii91LzM3MzEyNzcifQ._iQSkAI19aundIjgv_XpHg7VC2BZ4n8FOAYOX9vhpOc&s=72&u=19919fd2b2180661e0b5893b5735beb6cdba4365&v=4" width="24" alt="Avatar of bskiba"/> bskiba
+				<img src="https://private-avatars.githubusercontent.com/u/3731277?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIzNjAsIm5iZiI6MTczNDYxMTE2MCwicGF0aCI6Ii91LzM3MzEyNzcifQ.cNgyJG-WDKAuBhmBklR8ZTBvT-Bs9dFFzDsEYfm9r0M&s=72&u=19919fd2b2180661e0b5893b5735beb6cdba4365&v=4" width="24" alt="Avatar of bskiba"/> bskiba
 			</a><br/>
 			Beata Lach Skiba
 		</td>
@@ -10894,7 +10894,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>771</td>
 		<td>
 			<a target="_blank" href="https://github.com/cztomczak">
-				<img src="https://private-avatars.githubusercontent.com/u/1187415?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4NjAsIm5iZiI6MTczNDU3MzY2MCwicGF0aCI6Ii91LzExODc0MTUifQ.IV6pMX3zoufu9KxoMGmQdDeOxfRBCk1WpkoSYSu_lr0&s=72&u=137c20d6ab117f773c7d5c70d21344ca58667f9b&v=4" width="24" alt="Avatar of cztomczak"/> cztomczak
+				<img src="https://private-avatars.githubusercontent.com/u/1187415?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3NjAsIm5iZiI6MTczNDYxMDU2MCwicGF0aCI6Ii91LzExODc0MTUifQ.a_3uvFVb3YmVkwtifz2MCltv5umNYjeyoMO9GkylYgA&s=72&u=137c20d6ab117f773c7d5c70d21344ca58667f9b&v=4" width="24" alt="Avatar of cztomczak"/> cztomczak
 			</a><br/>
 			Czarek Tomczak
 		</td>
@@ -10908,7 +10908,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>772</td>
 		<td>
 			<a target="_blank" href="https://github.com/okyrylchuk">
-				<img src="https://private-avatars.githubusercontent.com/u/3313625?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQzMjAsIm5iZiI6MTczNDU3MzEyMCwicGF0aCI6Ii91LzMzMTM2MjUifQ.pE7m7oCH9bk8gpJb4iwmsQ2T1zP-SGDHZ4C981N5FL4&s=72&u=ef1625c852a62e5d6863b6a2e9a361609b71f141&v=4" width="24" alt="Avatar of okyrylchuk"/> okyrylchuk
+				<img src="https://private-avatars.githubusercontent.com/u/3313625?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTEyMjAsIm5iZiI6MTczNDYxMDAyMCwicGF0aCI6Ii91LzMzMTM2MjUifQ.IusefFeqbKshVoFH7Yd_ItX24jyW-aqEjIbMyp4pGtY&s=72&u=ef1625c852a62e5d6863b6a2e9a361609b71f141&v=4" width="24" alt="Avatar of okyrylchuk"/> okyrylchuk
 			</a><br/>
 			Oleg Kyrylchuk
 		</td>
@@ -10922,7 +10922,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>773</td>
 		<td>
 			<a target="_blank" href="https://github.com/PeggyBrown">
-				<img src="https://private-avatars.githubusercontent.com/u/7286748?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4NjAsIm5iZiI6MTczNDU3MzY2MCwicGF0aCI6Ii91LzcyODY3NDgifQ.tE00bDmDyrX-RTWTYbiOA2l_lJYFSNVrNTKBAcbLdKg&s=72&u=b1a9d1e392cd8fbf0bd9361ef8f583f3fcc9ba61&v=4" width="24" alt="Avatar of PeggyBrown"/> PeggyBrown
+				<img src="https://private-avatars.githubusercontent.com/u/7286748?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3NjAsIm5iZiI6MTczNDYxMDU2MCwicGF0aCI6Ii91LzcyODY3NDgifQ.o-4O03tNNr4803kKrRqlmWbcKBmR5K4vaNg9LNakR7M&s=72&u=b1a9d1e392cd8fbf0bd9361ef8f583f3fcc9ba61&v=4" width="24" alt="Avatar of PeggyBrown"/> PeggyBrown
 			</a><br/>
 			Ola Kunysz
 		</td>
@@ -10936,7 +10936,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>774</td>
 		<td>
 			<a target="_blank" href="https://github.com/Patola">
-				<img src="https://private-avatars.githubusercontent.com/u/2991620?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyODAsIm5iZiI6MTczNDU3NDA4MCwicGF0aCI6Ii91LzI5OTE2MjAifQ.jiVCav-EzJipo8a5Hg_fNuT679SGll3OAjPY7chJpoI&s=72&v=4" width="24" alt="Avatar of Patola"/> Patola
+				<img src="https://private-avatars.githubusercontent.com/u/2991620?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxODAsIm5iZiI6MTczNDYxMDk4MCwicGF0aCI6Ii91LzI5OTE2MjAifQ.W0PRu72k39oIM02zxZGqEGdTAquj9lRk3u83Ya-64XA&s=72&v=4" width="24" alt="Avatar of Patola"/> Patola
 			</a><br/>
 			Patola
 		</td>
@@ -10950,7 +10950,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>775</td>
 		<td>
 			<a target="_blank" href="https://github.com/FisherKK">
-				<img src="https://private-avatars.githubusercontent.com/u/4347015?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU3MDAsIm5iZiI6MTczNDU3NDUwMCwicGF0aCI6Ii91LzQzNDcwMTUifQ.ktthmYfOsh1HbOU7w4JrPT-sFKbfldnnHSX9dMrgrOs&s=72&u=2c800593e0bd61c9b4fb224853c6063f0b4558f2&v=4" width="24" alt="Avatar of FisherKK"/> FisherKK
+				<img src="https://private-avatars.githubusercontent.com/u/4347015?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTI2MDAsIm5iZiI6MTczNDYxMTQwMCwicGF0aCI6Ii91LzQzNDcwMTUifQ.94P4sImcFw5wJ61xZDd7ylSzf1M0STXfqU153hynY3U&s=72&u=2c800593e0bd61c9b4fb224853c6063f0b4558f2&v=4" width="24" alt="Avatar of FisherKK"/> FisherKK
 			</a><br/>
 			Kamil Krzyk
 		</td>
@@ -10964,7 +10964,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>776</td>
 		<td>
 			<a target="_blank" href="https://github.com/juliocesarfort">
-				<img src="https://private-avatars.githubusercontent.com/u/47504?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ1MDAsIm5iZiI6MTczNDU3MzMwMCwicGF0aCI6Ii91LzQ3NTA0In0.CjEPniMqqA0WdTvll-blg-vF8d44NkkHnSuRzgL0BOE&s=72&u=5615ddfb4162dad0bc21a5a408dcb12889ad1a69&v=4" width="24" alt="Avatar of juliocesarfort"/> juliocesarfort
+				<img src="https://private-avatars.githubusercontent.com/u/47504?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE0MDAsIm5iZiI6MTczNDYxMDIwMCwicGF0aCI6Ii91LzQ3NTA0In0.IdLFTiw91ptPImLNpWU_0dEy2yJIGkWg1499p0GvzrI&s=72&u=5615ddfb4162dad0bc21a5a408dcb12889ad1a69&v=4" width="24" alt="Avatar of juliocesarfort"/> juliocesarfort
 			</a><br/>
 			Julio
 		</td>
@@ -10978,7 +10978,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>777</td>
 		<td>
 			<a target="_blank" href="https://github.com/lutfumertceylan">
-				<img src="https://private-avatars.githubusercontent.com/u/53023641?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ1NjAsIm5iZiI6MTczNDU3MzM2MCwicGF0aCI6Ii91LzUzMDIzNjQxIn0.cLpIuBOlDyLXkuaaARP7DXHrdkQTSzZb3xE_83qWZ80&s=72&u=af829f5e78abd27d38227eabbc26cb7b258a6800&v=4" width="24" alt="Avatar of lutfumertceylan"/> lutfumertceylan
+				<img src="https://private-avatars.githubusercontent.com/u/53023641?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE0NjAsIm5iZiI6MTczNDYxMDI2MCwicGF0aCI6Ii91LzUzMDIzNjQxIn0.ogs7_Uk-KYDBmlDPhg0iJPVxjVj4MPpOcu70XX8zBdk&s=72&u=af829f5e78abd27d38227eabbc26cb7b258a6800&v=4" width="24" alt="Avatar of lutfumertceylan"/> lutfumertceylan
 			</a><br/>
 			Ltf Mert Ceylan
 		</td>
@@ -10992,7 +10992,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>778</td>
 		<td>
 			<a target="_blank" href="https://github.com/unfa">
-				<img src="https://private-avatars.githubusercontent.com/u/491704?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5MjAsIm5iZiI6MTczNDU3MzcyMCwicGF0aCI6Ii91LzQ5MTcwNCJ9.VoNf5a4iW6nuwJElvs_CZ46wXYqZY9QI2RhGN9V2Eqw&s=72&u=7a6f29e6cbdf5eead3b24286505032280ee72028&v=4" width="24" alt="Avatar of unfa"/> unfa
+				<img src="https://private-avatars.githubusercontent.com/u/491704?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4MjAsIm5iZiI6MTczNDYxMDYyMCwicGF0aCI6Ii91LzQ5MTcwNCJ9.LxY_Ek39flZleXJMHON-MZf2MMbfpZT5VUUvG3-IIZo&s=72&u=7a6f29e6cbdf5eead3b24286505032280ee72028&v=4" width="24" alt="Avatar of unfa"/> unfa
 			</a><br/>
 			unfa
 		</td>
@@ -11006,7 +11006,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>779</td>
 		<td>
 			<a target="_blank" href="https://github.com/miciek">
-				<img src="https://private-avatars.githubusercontent.com/u/937660?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91LzkzNzY2MCJ9.mtQqtBrQV9vk43AuFqNf2qaEwpq5ePggN5Ym1ODp3bk&s=72&u=bb974034e851d87a8e74b77f91765c9f874eaec1&v=4" width="24" alt="Avatar of miciek"/> miciek
+				<img src="https://private-avatars.githubusercontent.com/u/937660?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91LzkzNzY2MCJ9.GJnxRTki86GuiAZGDsiARrEIWrbSMmYzd6dHs2HqoA0&s=72&u=bb974034e851d87a8e74b77f91765c9f874eaec1&v=4" width="24" alt="Avatar of miciek"/> miciek
 			</a><br/>
 			Micha Pachta
 		</td>
@@ -11020,7 +11020,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>780</td>
 		<td>
 			<a target="_blank" href="https://github.com/tomekw">
-				<img src="https://private-avatars.githubusercontent.com/u/198371?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyODAsIm5iZiI6MTczNDU3NDA4MCwicGF0aCI6Ii91LzE5ODM3MSJ9.gS49VS8hwHlKqeJr4o3m8VwcPN1lqz28h0bG46cigJ4&s=72&u=474fbb3bfbb5cb4b78898258d26cfc8e5c557ae9&v=4" width="24" alt="Avatar of tomekw"/> tomekw
+				<img src="https://private-avatars.githubusercontent.com/u/198371?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxODAsIm5iZiI6MTczNDYxMDk4MCwicGF0aCI6Ii91LzE5ODM3MSJ9.WCp_2FHsc_60pOE-GaPbGurLaj9SwCIS4sUmpZ0a1vE&s=72&u=474fbb3bfbb5cb4b78898258d26cfc8e5c557ae9&v=4" width="24" alt="Avatar of tomekw"/> tomekw
 			</a><br/>
 			Tomek Wakuski
 		</td>
@@ -11034,7 +11034,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>781</td>
 		<td>
 			<a target="_blank" href="https://github.com/pawroman">
-				<img src="https://private-avatars.githubusercontent.com/u/914977?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyODAsIm5iZiI6MTczNDU3NDA4MCwicGF0aCI6Ii91LzkxNDk3NyJ9.Ayb_d9--dz-dbPUuXiHXCW-QnIlAq0ei2-kNjcqn8_I&s=72&u=edbdaebc2e5b0201f2702e47eeb9f4e9bd95ebc6&v=4" width="24" alt="Avatar of pawroman"/> pawroman
+				<img src="https://private-avatars.githubusercontent.com/u/914977?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxODAsIm5iZiI6MTczNDYxMDk4MCwicGF0aCI6Ii91LzkxNDk3NyJ9.NjRJT7jiRZRaMSfKCb57hQzeG9ECVFyb3ovc-x9bJwc&s=72&u=edbdaebc2e5b0201f2702e47eeb9f4e9bd95ebc6&v=4" width="24" alt="Avatar of pawroman"/> pawroman
 			</a><br/>
 			Pawe Romanowski
 		</td>
@@ -11048,7 +11048,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>782</td>
 		<td>
 			<a target="_blank" href="https://github.com/drbenasmah">
-				<img src="https://private-avatars.githubusercontent.com/u/113874303?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxMDAsIm5iZiI6MTczNDU3MzkwMCwicGF0aCI6Ii91LzExMzg3NDMwMyJ9.tTrItOKiO-lVe_KGC2aWM_21O8nP2bv5RwsbHDRDFqs&s=72&u=2f0223c39d4377ee39c1f4df7837dc47898a42c4&v=4" width="24" alt="Avatar of drbenasmah"/> drbenasmah
+				<img src="https://private-avatars.githubusercontent.com/u/113874303?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwMDAsIm5iZiI6MTczNDYxMDgwMCwicGF0aCI6Ii91LzExMzg3NDMwMyJ9.2yvE4_BkLX9o0RhZ7CsWXkwAfCeDCXAD9lKD_akHYig&s=72&u=2f0223c39d4377ee39c1f4df7837dc47898a42c4&v=4" width="24" alt="Avatar of drbenasmah"/> drbenasmah
 			</a><br/>
 			Ben Asmah
 		</td>
@@ -11062,7 +11062,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>783</td>
 		<td>
 			<a target="_blank" href="https://github.com/RafalFilipek">
-				<img src="https://private-avatars.githubusercontent.com/u/80960?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyODAsIm5iZiI6MTczNDU3NDA4MCwicGF0aCI6Ii91LzgwOTYwIn0.sQ2wLYtQNWLkNzv6eIjKmwCcVx_c_kmlut_1lJmjMw4&s=72&u=1ffbf54d1c47acb3cad9042c763298bb34280f45&v=4" width="24" alt="Avatar of RafalFilipek"/> RafalFilipek
+				<img src="https://private-avatars.githubusercontent.com/u/80960?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxODAsIm5iZiI6MTczNDYxMDk4MCwicGF0aCI6Ii91LzgwOTYwIn0.06uRPLpiRjsOtfuAWmp69yxTnNvBKbezRjJXaSTBgJI&s=72&u=1ffbf54d1c47acb3cad9042c763298bb34280f45&v=4" width="24" alt="Avatar of RafalFilipek"/> RafalFilipek
 			</a><br/>
 			Rafau
 		</td>
@@ -11076,7 +11076,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>784</td>
 		<td>
 			<a target="_blank" href="https://github.com/bbarthec">
-				<img src="https://private-avatars.githubusercontent.com/u/16623003?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUzNDAsIm5iZiI6MTczNDU3NDE0MCwicGF0aCI6Ii91LzE2NjIzMDAzIn0.klk_VITdDMMUnvTo6YhVFexSxIk1gsjmu0sW4I4bJMQ&s=72&u=46e0349d9769fbbf06b4e3eccf525ba0ebe3c30e&v=4" width="24" alt="Avatar of bbarthec"/> bbarthec
+				<img src="https://private-avatars.githubusercontent.com/u/16623003?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIyNDAsIm5iZiI6MTczNDYxMTA0MCwicGF0aCI6Ii91LzE2NjIzMDAzIn0.wDdbILyUzrVQrpzslCfNrIANel6KZP4m2HlEhjKKk3M&s=72&u=46e0349d9769fbbf06b4e3eccf525ba0ebe3c30e&v=4" width="24" alt="Avatar of bbarthec"/> bbarthec
 			</a><br/>
 			Bartomiej Bukowski
 		</td>
@@ -11090,7 +11090,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>785</td>
 		<td>
 			<a target="_blank" href="https://github.com/44past4">
-				<img src="https://private-avatars.githubusercontent.com/u/6388530?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4NjAsIm5iZiI6MTczNDU3MzY2MCwicGF0aCI6Ii91LzYzODg1MzAifQ.5wW7W1X2NJRAfXlFTie2hvskyTYwchXfQ93eM2O6rFs&s=72&u=9205d83d4d816abf93b9cb6a3f542cc9ee78fbb4&v=4" width="24" alt="Avatar of 44past4"/> 44past4
+				<img src="https://private-avatars.githubusercontent.com/u/6388530?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3NjAsIm5iZiI6MTczNDYxMDU2MCwicGF0aCI6Ii91LzYzODg1MzAifQ.1SDNJaX6ZS8av_J6dGOmA_e_WB1d2-nxkAo78AmMZtk&s=72&u=9205d83d4d816abf93b9cb6a3f542cc9ee78fbb4&v=4" width="24" alt="Avatar of 44past4"/> 44past4
 			</a><br/>
 			Pawe Kpka
 		</td>
@@ -11104,7 +11104,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>786</td>
 		<td>
 			<a target="_blank" href="https://github.com/ExeinfoASL">
-				<img src="https://private-avatars.githubusercontent.com/u/58791357?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5MjAsIm5iZiI6MTczNDU3MzcyMCwicGF0aCI6Ii91LzU4NzkxMzU3In0.H4R7BfCal-U0Zen8ufsQua2U842s2xgl84J9a37Dr8s&s=72&u=9b67eb26d7d8b509bb327fb348194d6b63a19ffd&v=4" width="24" alt="Avatar of ExeinfoASL"/> ExeinfoASL
+				<img src="https://private-avatars.githubusercontent.com/u/58791357?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4MjAsIm5iZiI6MTczNDYxMDYyMCwicGF0aCI6Ii91LzU4NzkxMzU3In0.Munzl6NrcCnfkoc7VfSVRNwPEQsMVsuMr0SafHW9d5c&s=72&u=9b67eb26d7d8b509bb327fb348194d6b63a19ffd&v=4" width="24" alt="Avatar of ExeinfoASL"/> ExeinfoASL
 			</a><br/>
 			ASL
 		</td>
@@ -11118,7 +11118,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>787</td>
 		<td>
 			<a target="_blank" href="https://github.com/razorjack">
-				<img src="https://private-avatars.githubusercontent.com/u/26290?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUzNDAsIm5iZiI6MTczNDU3NDE0MCwicGF0aCI6Ii91LzI2MjkwIn0.938IO0qUdUH3b754OL4Uems0drBhOSCMNm_cYslOvtk&s=72&u=ce439fe0a5f77c700a521ae51520ffe64a591c2c&v=4" width="24" alt="Avatar of razorjack"/> razorjack
+				<img src="https://private-avatars.githubusercontent.com/u/26290?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIyNDAsIm5iZiI6MTczNDYxMTA0MCwicGF0aCI6Ii91LzI2MjkwIn0.rwRQGmyzxh-9Nozmz3SGWm1NAaO6r3shx2mguLousBY&s=72&u=ce439fe0a5f77c700a521ae51520ffe64a591c2c&v=4" width="24" alt="Avatar of razorjack"/> razorjack
 			</a><br/>
 			Jacek Galanciak
 		</td>
@@ -11132,7 +11132,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>788</td>
 		<td>
 			<a target="_blank" href="https://github.com/MoonRide303">
-				<img src="https://private-avatars.githubusercontent.com/u/130458190?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU0NjAsIm5iZiI6MTczNDU3NDI2MCwicGF0aCI6Ii91LzEzMDQ1ODE5MCJ9.4QTGGZuZ5QEp02sCd41Ou0eIi2Oembg7dDGfS5f5YzA&s=72&u=57c2bff6dc8a7a1fddb2372e799fcb42c3300e25&v=4" width="24" alt="Avatar of MoonRide303"/> MoonRide303
+				<img src="https://private-avatars.githubusercontent.com/u/130458190?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIzNjAsIm5iZiI6MTczNDYxMTE2MCwicGF0aCI6Ii91LzEzMDQ1ODE5MCJ9.AOLfd2FBync17HBRTTenPNByhWbOALgO8CB24yFGd3U&s=72&u=57c2bff6dc8a7a1fddb2372e799fcb42c3300e25&v=4" width="24" alt="Avatar of MoonRide303"/> MoonRide303
 			</a><br/>
 			No Name
 		</td>
@@ -11146,7 +11146,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>789</td>
 		<td>
 			<a target="_blank" href="https://github.com/kgrzybek">
-				<img src="https://private-avatars.githubusercontent.com/u/1327418?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5MjAsIm5iZiI6MTczNDU3MzcyMCwicGF0aCI6Ii91LzEzMjc0MTgifQ.eNfweH4hxjOf-Yts7xE1g_OmstnyM8iffB9-vkhakQw&s=72&v=4" width="24" alt="Avatar of kgrzybek"/> kgrzybek
+				<img src="https://private-avatars.githubusercontent.com/u/1327418?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4MjAsIm5iZiI6MTczNDYxMDYyMCwicGF0aCI6Ii91LzEzMjc0MTgifQ.jmW0CXnbqceCNntEfuqK06AFRtrzDYPVxyEJ2-ESd2k&s=72&v=4" width="24" alt="Avatar of kgrzybek"/> kgrzybek
 			</a><br/>
 			Kamil Grzybek
 		</td>
@@ -11160,7 +11160,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>790</td>
 		<td>
 			<a target="_blank" href="https://github.com/phoe">
-				<img src="https://private-avatars.githubusercontent.com/u/15045546?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2MjAsIm5iZiI6MTczNDU3MzQyMCwicGF0aCI6Ii91LzE1MDQ1NTQ2In0.HbfQttWEfrp6y3Up5sYMe3H7tgXfNS5WIvvzjOQ8CeY&s=72&u=54d55f7a95931d7f35cd683a6938d46bc415b793&v=4" width="24" alt="Avatar of phoe"/> phoe
+				<img src="https://private-avatars.githubusercontent.com/u/15045546?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1MjAsIm5iZiI6MTczNDYxMDMyMCwicGF0aCI6Ii91LzE1MDQ1NTQ2In0.I9YQ3H8k9qmkYH-7ZuqHRiLso4bePzX0_tYBXDJwDMU&s=72&u=54d55f7a95931d7f35cd683a6938d46bc415b793&v=4" width="24" alt="Avatar of phoe"/> phoe
 			</a><br/>
 			Micha phoe Herda
 		</td>
@@ -11174,7 +11174,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>791</td>
 		<td>
 			<a target="_blank" href="https://github.com/GetPublii">
-				<img src="https://private-avatars.githubusercontent.com/u/24809704?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5MjAsIm5iZiI6MTczNDU3MzcyMCwicGF0aCI6Ii91LzI0ODA5NzA0In0.x9b3Ur9uLBBgs9m5fOwLXb-oNEtQ77xzlbokexnhKKs&s=72&u=273dbf81a83b1e1ae83f2eaf08d95761532ea8c9&v=4" width="24" alt="Avatar of GetPublii"/> GetPublii
+				<img src="https://private-avatars.githubusercontent.com/u/24809704?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4MjAsIm5iZiI6MTczNDYxMDYyMCwicGF0aCI6Ii91LzI0ODA5NzA0In0.EeMwVdKM500yXJpMtgEgh0LJofpkjwjMErRJOJjcc-g&s=72&u=273dbf81a83b1e1ae83f2eaf08d95761532ea8c9&v=4" width="24" alt="Avatar of GetPublii"/> GetPublii
 			</a><br/>
 			Publii
 		</td>
@@ -11188,7 +11188,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>792</td>
 		<td>
 			<a target="_blank" href="https://github.com/felipeelias">
-				<img src="https://private-avatars.githubusercontent.com/u/24556?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4NjAsIm5iZiI6MTczNDU3MzY2MCwicGF0aCI6Ii91LzI0NTU2In0.4DNjjuJxc24snnUDXV7llJqXN1XCFEbir4UGdJV3kms&s=72&u=00fdd2f9f14cd548266af2ec5ef9f8eb39fc38a7&v=4" width="24" alt="Avatar of felipeelias"/> felipeelias
+				<img src="https://private-avatars.githubusercontent.com/u/24556?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3NjAsIm5iZiI6MTczNDYxMDU2MCwicGF0aCI6Ii91LzI0NTU2In0.grG01P5cn0mXicNrwj7GQJxUwJ1qEcl1VI8NA-4YsfA&s=72&u=00fdd2f9f14cd548266af2ec5ef9f8eb39fc38a7&v=4" width="24" alt="Avatar of felipeelias"/> felipeelias
 			</a><br/>
 			Felipe Elias
 		</td>
@@ -11202,7 +11202,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>793</td>
 		<td>
 			<a target="_blank" href="https://github.com/mcharmas">
-				<img src="https://private-avatars.githubusercontent.com/u/57128?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ3NDAsIm5iZiI6MTczNDU3MzU0MCwicGF0aCI6Ii91LzU3MTI4In0.O0qFnf8WfYKFASDUxwHxBzwsLkAo1ey8cv3Z2V5fPdo&s=72&v=4" width="24" alt="Avatar of mcharmas"/> mcharmas
+				<img src="https://private-avatars.githubusercontent.com/u/57128?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE2NDAsIm5iZiI6MTczNDYxMDQ0MCwicGF0aCI6Ii91LzU3MTI4In0.x3TvyeKIMJagP7vJPWXZCTHa0xiDDwC0TUS-aNXrZMo&s=72&v=4" width="24" alt="Avatar of mcharmas"/> mcharmas
 			</a><br/>
 			Micha Charmas
 		</td>
@@ -11216,7 +11216,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>794</td>
 		<td>
 			<a target="_blank" href="https://github.com/ad-m">
-				<img src="https://private-avatars.githubusercontent.com/u/3618479?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ3NDAsIm5iZiI6MTczNDU3MzU0MCwicGF0aCI6Ii91LzM2MTg0NzkifQ.Bjj0LvFLy-uAalpckLWHAt1fOFZqKU1CGO01CRZv7RQ&s=72&u=caecbe72e4c785ba5d4ecd3ad3281e53174e1a7a&v=4" width="24" alt="Avatar of ad-m"/> ad-m
+				<img src="https://private-avatars.githubusercontent.com/u/3618479?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE2NDAsIm5iZiI6MTczNDYxMDQ0MCwicGF0aCI6Ii91LzM2MTg0NzkifQ.ecL0shqS7nnFByln5zSxUPbNcWLjjRtpqmIEHU0v_mQ&s=72&u=caecbe72e4c785ba5d4ecd3ad3281e53174e1a7a&v=4" width="24" alt="Avatar of ad-m"/> ad-m
 			</a><br/>
 			Adam Dobrawy
 		</td>
@@ -11230,7 +11230,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>795</td>
 		<td>
 			<a target="_blank" href="https://github.com/Kamilkime">
-				<img src="https://private-avatars.githubusercontent.com/u/10383567?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyMjAsIm5iZiI6MTczNDU3NDAyMCwicGF0aCI6Ii91LzEwMzgzNTY3In0.-9s2Ko4tZH8Whp1dc9goYu3BnxIbpoFIVsmx3KRi9ro&s=72&u=7a64042dc04f4ad44ae3550f4989e9dc15962c34&v=4" width="24" alt="Avatar of Kamilkime"/> Kamilkime
+				<img src="https://private-avatars.githubusercontent.com/u/10383567?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxMjAsIm5iZiI6MTczNDYxMDkyMCwicGF0aCI6Ii91LzEwMzgzNTY3In0.vPAOEeRT1d9lFsH32Lvg2_9K8UZ3Y3xmkYWYtYpfF2w&s=72&u=7a64042dc04f4ad44ae3550f4989e9dc15962c34&v=4" width="24" alt="Avatar of Kamilkime"/> Kamilkime
 			</a><br/>
 			Kamil Trysiski
 		</td>
@@ -11244,7 +11244,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>796</td>
 		<td>
 			<a target="_blank" href="https://github.com/krzysztofslusarski">
-				<img src="https://private-avatars.githubusercontent.com/u/57556371?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyODAsIm5iZiI6MTczNDU3NDA4MCwicGF0aCI6Ii91LzU3NTU2MzcxIn0.mvZCoV8cQni-m7wl_VbJ3hCot243iCzkOrMOOHKsf98&s=72&u=b21163ab70778161f2f50177bda5ad66ecdf0999&v=4" width="24" alt="Avatar of krzysztofslusarski"/> krzysztofslusarski
+				<img src="https://private-avatars.githubusercontent.com/u/57556371?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxODAsIm5iZiI6MTczNDYxMDk4MCwicGF0aCI6Ii91LzU3NTU2MzcxIn0.kepZW_3ed2ZaI_S9r2wFFVdbuHPie12OV2VSBV0hbkk&s=72&u=b21163ab70778161f2f50177bda5ad66ecdf0999&v=4" width="24" alt="Avatar of krzysztofslusarski"/> krzysztofslusarski
 			</a><br/>
 			Krzysztof lusarski
 		</td>
@@ -11258,7 +11258,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>797</td>
 		<td>
 			<a target="_blank" href="https://github.com/sarxos">
-				<img src="https://private-avatars.githubusercontent.com/u/472658?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4NjAsIm5iZiI6MTczNDU3MzY2MCwicGF0aCI6Ii91LzQ3MjY1OCJ9._d79Kx7rgIHPp45_mcR4u4-16pegcrMs9MMLlhQLCwI&s=72&v=4" width="24" alt="Avatar of sarxos"/> sarxos
+				<img src="https://private-avatars.githubusercontent.com/u/472658?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3NjAsIm5iZiI6MTczNDYxMDU2MCwicGF0aCI6Ii91LzQ3MjY1OCJ9.X5mdFwzNmcTVkiZc0Ie72tGux8GhqNafIxNfkdxDL7g&s=72&v=4" width="24" alt="Avatar of sarxos"/> sarxos
 			</a><br/>
 			Bartosz Firyn
 		</td>
@@ -11272,7 +11272,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>798</td>
 		<td>
 			<a target="_blank" href="https://github.com/pjankiewicz">
-				<img src="https://private-avatars.githubusercontent.com/u/130572?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5MjAsIm5iZiI6MTczNDU3MzcyMCwicGF0aCI6Ii91LzEzMDU3MiJ9.s2E22dBJyVjIvvwli2ZnjodDtZ2-K9Hz4dy7T5zezZ0&s=72&v=4" width="24" alt="Avatar of pjankiewicz"/> pjankiewicz
+				<img src="https://private-avatars.githubusercontent.com/u/130572?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4MjAsIm5iZiI6MTczNDYxMDYyMCwicGF0aCI6Ii91LzEzMDU3MiJ9.Ms02xsZTJw3brzv8zVtCjVV0ZSPW5658-sUdKA0DdX0&s=72&v=4" width="24" alt="Avatar of pjankiewicz"/> pjankiewicz
 			</a><br/>
 			Pawe Jankiewicz
 		</td>
@@ -11286,7 +11286,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>799</td>
 		<td>
 			<a target="_blank" href="https://github.com/piotr-jura-udemy">
-				<img src="https://private-avatars.githubusercontent.com/u/39863283?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5ODAsIm5iZiI6MTczNDU3Mzc4MCwicGF0aCI6Ii91LzM5ODYzMjgzIn0.OiDZdO1RsdDwd4zK7NkMHvrPMwU2byqHnrZYXH2ej20&s=72&u=297398b724c74af1308324a81079ce95c4b68751&v=4" width="24" alt="Avatar of piotr-jura-udemy"/> piotr-jura-udemy
+				<img src="https://private-avatars.githubusercontent.com/u/39863283?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4ODAsIm5iZiI6MTczNDYxMDY4MCwicGF0aCI6Ii91LzM5ODYzMjgzIn0.eae-rUrqpKV9RpuzGP06rvy8-xo2RcYU6Tnn2DATWWU&s=72&u=297398b724c74af1308324a81079ce95c4b68751&v=4" width="24" alt="Avatar of piotr-jura-udemy"/> piotr-jura-udemy
 			</a><br/>
 			Piotr Jura
 		</td>
@@ -11300,7 +11300,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>800</td>
 		<td>
 			<a target="_blank" href="https://github.com/cloudowski">
-				<img src="https://private-avatars.githubusercontent.com/u/6390303?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5MjAsIm5iZiI6MTczNDU3MzcyMCwicGF0aCI6Ii91LzYzOTAzMDMifQ.mR-7vjQGnhDzJ6vRE835nI1_mAD5Bwi_RXYpdDiZUe0&s=72&u=21e0975e133a20bc5b25696e43eccf2f4290bb77&v=4" width="24" alt="Avatar of cloudowski"/> cloudowski
+				<img src="https://private-avatars.githubusercontent.com/u/6390303?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4MjAsIm5iZiI6MTczNDYxMDYyMCwicGF0aCI6Ii91LzYzOTAzMDMifQ.izQpCNRw4B9t0Zq3YwyZwcs27PrcgIfaX5SJLkKCSjc&s=72&u=21e0975e133a20bc5b25696e43eccf2f4290bb77&v=4" width="24" alt="Avatar of cloudowski"/> cloudowski
 			</a><br/>
 			Tomasz Cholewa
 		</td>
@@ -11314,7 +11314,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>801</td>
 		<td>
 			<a target="_blank" href="https://github.com/AlaaElnagar">
-				<img src="https://private-avatars.githubusercontent.com/u/35043356?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91LzM1MDQzMzU2In0.nfGnsdsF1sPOE4cob7oCmXQlvifzgat4QfqpaDOr7S8&s=72&u=1ace199b660617ce6e9627e9d9e2f560fb7b267a&v=4" width="24" alt="Avatar of AlaaElnagar"/> AlaaElnagar
+				<img src="https://private-avatars.githubusercontent.com/u/35043356?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91LzM1MDQzMzU2In0.gimNXuX11aDQ3gYvFCnI_sSEn4tfxk2N0BTPcITPBQI&s=72&u=1ace199b660617ce6e9627e9d9e2f560fb7b267a&v=4" width="24" alt="Avatar of AlaaElnagar"/> AlaaElnagar
 			</a><br/>
 			Alaa Elnagar
 		</td>
@@ -11328,7 +11328,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>802</td>
 		<td>
 			<a target="_blank" href="https://github.com/swistaczek">
-				<img src="https://private-avatars.githubusercontent.com/u/13238?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ3NDAsIm5iZiI6MTczNDU3MzU0MCwicGF0aCI6Ii91LzEzMjM4In0.tSpSvKNkyQsEf7XtXkUS9wLygAcMIIcUj81ygqyrrzE&s=72&u=6c57af1ee359882c923b5a1d867941b988e21060&v=4" width="24" alt="Avatar of swistaczek"/> swistaczek
+				<img src="https://private-avatars.githubusercontent.com/u/13238?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE2NDAsIm5iZiI6MTczNDYxMDQ0MCwicGF0aCI6Ii91LzEzMjM4In0.sWxSLxwvBr1jseMTOfT2ptAEdGVEnkDWMTOgEnLaNzk&s=72&u=6c57af1ee359882c923b5a1d867941b988e21060&v=4" width="24" alt="Avatar of swistaczek"/> swistaczek
 			</a><br/>
 			Ernest Bursa
 		</td>
@@ -11342,7 +11342,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>803</td>
 		<td>
 			<a target="_blank" href="https://github.com/Gr1N">
-				<img src="https://private-avatars.githubusercontent.com/u/1087619?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUwNDAsIm5iZiI6MTczNDU3Mzg0MCwicGF0aCI6Ii91LzEwODc2MTkifQ.eDEx_xHsjh9t83_lLM1O33Nt3STiKGQpOr7te8k0CNo&s=72&u=cd78c4f602bf9f9667277dd0af9302a7fe9dd75a&v=4" width="24" alt="Avatar of Gr1N"/> Gr1N
+				<img src="https://private-avatars.githubusercontent.com/u/1087619?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE5NDAsIm5iZiI6MTczNDYxMDc0MCwicGF0aCI6Ii91LzEwODc2MTkifQ.GiEokIXOqEx_WNnjgX270fABoSjfQD21VrD95b-mXJQ&s=72&u=cd78c4f602bf9f9667277dd0af9302a7fe9dd75a&v=4" width="24" alt="Avatar of Gr1N"/> Gr1N
 			</a><br/>
 			Nikita Grishko
 		</td>
@@ -11356,7 +11356,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>804</td>
 		<td>
 			<a target="_blank" href="https://github.com/mkusher">
-				<img src="https://private-avatars.githubusercontent.com/u/523021?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91LzUyMzAyMSJ9.fCTMTK-RUsiq9V5gw7inx43rgYF_3YlE8Dt6uRi1Gng&s=72&u=a3a5b1cc58c0b0741c8a71fb9bb74035b957eea5&v=4" width="24" alt="Avatar of mkusher"/> mkusher
+				<img src="https://private-avatars.githubusercontent.com/u/523021?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91LzUyMzAyMSJ9.XW--jvYopkdLVEq_y5BgsaIaoXazmcfRUqCI0WZv1Tk&s=72&u=a3a5b1cc58c0b0741c8a71fb9bb74035b957eea5&v=4" width="24" alt="Avatar of mkusher"/> mkusher
 			</a><br/>
 			Aleh Kashnika
 		</td>
@@ -11370,7 +11370,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>805</td>
 		<td>
 			<a target="_blank" href="https://github.com/ergo">
-				<img src="https://private-avatars.githubusercontent.com/u/33021?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4NjAsIm5iZiI6MTczNDU3MzY2MCwicGF0aCI6Ii91LzMzMDIxIn0.r6AvDCYRPGz-ocz4sdH88HlD9RkhUAP8q3p_yAZ34fI&s=72&v=4" width="24" alt="Avatar of ergo"/> ergo
+				<img src="https://private-avatars.githubusercontent.com/u/33021?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3NjAsIm5iZiI6MTczNDYxMDU2MCwicGF0aCI6Ii91LzMzMDIxIn0.Ok5z0UtRChZdyKCEQj313A0QnB4rKQhVcnSgr2_rb9o&s=72&v=4" width="24" alt="Avatar of ergo"/> ergo
 			</a><br/>
 			Marcin Lulek
 		</td>
@@ -11384,7 +11384,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>806</td>
 		<td>
 			<a target="_blank" href="https://github.com/lukaszlach">
-				<img src="https://private-avatars.githubusercontent.com/u/5011490?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ1NjAsIm5iZiI6MTczNDU3MzM2MCwicGF0aCI6Ii91LzUwMTE0OTAifQ.xBbL-VdAYJRFUFsF4ggw8MKGVFBMBTWvaAnTqnF6-k4&s=72&u=ff70e76bd7418620e047ce2bd71e28eaeb0941d6&v=4" width="24" alt="Avatar of lukaszlach"/> lukaszlach
+				<img src="https://private-avatars.githubusercontent.com/u/5011490?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE0NjAsIm5iZiI6MTczNDYxMDI2MCwicGF0aCI6Ii91LzUwMTE0OTAifQ.WseYkgwqr0eyPG2temRJsqGSarGWP0VemFJne_I9V40&s=72&u=ff70e76bd7418620e047ce2bd71e28eaeb0941d6&v=4" width="24" alt="Avatar of lukaszlach"/> lukaszlach
 			</a><br/>
 			ukasz Lach
 		</td>
@@ -11398,7 +11398,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>807</td>
 		<td>
 			<a target="_blank" href="https://github.com/zielmicha">
-				<img src="https://private-avatars.githubusercontent.com/u/364357?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2ODAsIm5iZiI6MTczNDU3MzQ4MCwicGF0aCI6Ii91LzM2NDM1NyJ9.Cg9Yigoxa_4TifkTNGVcUJvxcn3G8E99-3ODm-bDGMY&s=72&v=4" width="24" alt="Avatar of zielmicha"/> zielmicha
+				<img src="https://private-avatars.githubusercontent.com/u/364357?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1ODAsIm5iZiI6MTczNDYxMDM4MCwicGF0aCI6Ii91LzM2NDM1NyJ9.brEhkzsK1yK9yxj1IhNDeHtDOicM3xo6X4hn78xV4b0&s=72&v=4" width="24" alt="Avatar of zielmicha"/> zielmicha
 			</a><br/>
 			Micha Zieliski
 		</td>
@@ -11412,7 +11412,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>808</td>
 		<td>
 			<a target="_blank" href="https://github.com/tajchert">
-				<img src="https://private-avatars.githubusercontent.com/u/2962633?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4NjAsIm5iZiI6MTczNDU3MzY2MCwicGF0aCI6Ii91LzI5NjI2MzMifQ.LoI0jXcaNtdxGhxPc93555JQQKKg62Pc3WlOCFV_iZY&s=72&u=91c48278330e7726d4067fc4078ec5b55c88fd74&v=4" width="24" alt="Avatar of tajchert"/> tajchert
+				<img src="https://private-avatars.githubusercontent.com/u/2962633?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3NjAsIm5iZiI6MTczNDYxMDU2MCwicGF0aCI6Ii91LzI5NjI2MzMifQ.g0HNMYDffmh2Az2s7VuKj0r7BYM8BCS1m9lXvT37XjM&s=72&u=91c48278330e7726d4067fc4078ec5b55c88fd74&v=4" width="24" alt="Avatar of tajchert"/> tajchert
 			</a><br/>
 			Michal Tajchert
 		</td>
@@ -11426,7 +11426,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>809</td>
 		<td>
 			<a target="_blank" href="https://github.com/falsyvalues">
-				<img src="https://private-avatars.githubusercontent.com/u/1199350?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUwNDAsIm5iZiI6MTczNDU3Mzg0MCwicGF0aCI6Ii91LzExOTkzNTAifQ.R0PquVUh2Z_F3rfVB9dc9yWjZqvBK-fTV4-LGHC7vKs&s=72&u=00eaf2103877b0b74a1cb23e26c20f1923faf100&v=4" width="24" alt="Avatar of falsyvalues"/> falsyvalues
+				<img src="https://private-avatars.githubusercontent.com/u/1199350?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE5NDAsIm5iZiI6MTczNDYxMDc0MCwicGF0aCI6Ii91LzExOTkzNTAifQ.xtFktjPx-mKDl8F_KaYdGtb1pPfKc0C9Ka3kcgnY7sM&s=72&u=00eaf2103877b0b74a1cb23e26c20f1923faf100&v=4" width="24" alt="Avatar of falsyvalues"/> falsyvalues
 			</a><br/>
 			Micha Lipiski
 		</td>
@@ -11440,7 +11440,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>810</td>
 		<td>
 			<a target="_blank" href="https://github.com/KoMaR1911">
-				<img src="https://private-avatars.githubusercontent.com/u/15141257?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyMjAsIm5iZiI6MTczNDU3NDAyMCwicGF0aCI6Ii91LzE1MTQxMjU3In0.pU1hUqCZeT-_nTnfgFjbPEpqM3U_aDDQ0LoM8R5HSbY&s=72&u=9edc01ce9e2a9ac9d60f6047d2253447b50189ed&v=4" width="24" alt="Avatar of KoMaR1911"/> KoMaR1911
+				<img src="https://private-avatars.githubusercontent.com/u/15141257?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxMjAsIm5iZiI6MTczNDYxMDkyMCwicGF0aCI6Ii91LzE1MTQxMjU3In0.wmQTfXjj8eXzKt9WZ1gb1xaI76JFsxLarr3R0HZ9eXA&s=72&u=9edc01ce9e2a9ac9d60f6047d2253447b50189ed&v=4" width="24" alt="Avatar of KoMaR1911"/> KoMaR1911
 			</a><br/>
 			No Name
 		</td>
@@ -11454,7 +11454,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>811</td>
 		<td>
 			<a target="_blank" href="https://github.com/klepaski">
-				<img src="https://private-avatars.githubusercontent.com/u/43060010?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxNjAsIm5iZiI6MTczNDU3Mzk2MCwicGF0aCI6Ii91LzQzMDYwMDEwIn0.qABnZdecUm9JVuNaMkC7t1qGMs9w1DEht5j6oNv4ApA&s=72&u=b8c773506511fb890bf897b65b295b2bd2ba53b5&v=4" width="24" alt="Avatar of klepaski"/> klepaski
+				<img src="https://private-avatars.githubusercontent.com/u/43060010?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwNjAsIm5iZiI6MTczNDYxMDg2MCwicGF0aCI6Ii91LzQzMDYwMDEwIn0.GE7ZAwEP2XYpEtMMdscVbGDo9KxcxxOcNE70Huz0BeQ&s=72&u=b8c773506511fb890bf897b65b295b2bd2ba53b5&v=4" width="24" alt="Avatar of klepaski"/> klepaski
 			</a><br/>
 			Julia Chistiakova
 		</td>
@@ -11468,7 +11468,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>812</td>
 		<td>
 			<a target="_blank" href="https://github.com/szimek">
-				<img src="https://private-avatars.githubusercontent.com/u/9873?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQzMjAsIm5iZiI6MTczNDU3MzEyMCwicGF0aCI6Ii91Lzk4NzMifQ.2sHdxLDUhHmIhQhl2wmaareEis8dVZtWn94bryuwtnc&s=72&v=4" width="24" alt="Avatar of szimek"/> szimek
+				<img src="https://private-avatars.githubusercontent.com/u/9873?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTEyMjAsIm5iZiI6MTczNDYxMDAyMCwicGF0aCI6Ii91Lzk4NzMifQ.zO_maRwFOh4yUyBDV-jg_hEdj2XOztaRADD572phe5c&s=72&v=4" width="24" alt="Avatar of szimek"/> szimek
 			</a><br/>
 			Szymon Nowak
 		</td>
@@ -11482,7 +11482,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>813</td>
 		<td>
 			<a target="_blank" href="https://github.com/donadigo">
-				<img src="https://private-avatars.githubusercontent.com/u/8205284?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2ODAsIm5iZiI6MTczNDU3MzQ4MCwicGF0aCI6Ii91LzgyMDUyODQifQ.C3-ygCCjtQBi5T82ufkJ8XfyFRL06GCNoLLyEwZJY9c&s=72&u=ade94ee2611e719e14c1a686be2a3d080e00de8f&v=4" width="24" alt="Avatar of donadigo"/> donadigo
+				<img src="https://private-avatars.githubusercontent.com/u/8205284?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1ODAsIm5iZiI6MTczNDYxMDM4MCwicGF0aCI6Ii91LzgyMDUyODQifQ.XYrPF-OzQQ5jC3XULMZJgIuuokqL0cCpz56lRmQJyoM&s=72&u=ade94ee2611e719e14c1a686be2a3d080e00de8f&v=4" width="24" alt="Avatar of donadigo"/> donadigo
 			</a><br/>
 			Adam
 		</td>
@@ -11496,7 +11496,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>814</td>
 		<td>
 			<a target="_blank" href="https://github.com/AmirAli5">
-				<img src="https://private-avatars.githubusercontent.com/u/41503327?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUzNDAsIm5iZiI6MTczNDU3NDE0MCwicGF0aCI6Ii91LzQxNTAzMzI3In0.Jgx6JXCLAU6rQxaCCVlMtGGlS7HzsZ32K-ObJTR8nNY&s=72&u=75cc95d65a070a86f4b8071d8af7ea3759513380&v=4" width="24" alt="Avatar of AmirAli5"/> AmirAli5
+				<img src="https://private-avatars.githubusercontent.com/u/41503327?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTEzNDAsIm5iZiI6MTczNDYxMDE0MCwicGF0aCI6Ii91LzQxNTAzMzI3In0.HP5W8ph8suLqBfrRkjW1Bar4gzo5kG-Ovr3OHO20vmk&s=72&u=75cc95d65a070a86f4b8071d8af7ea3759513380&v=4" width="24" alt="Avatar of AmirAli5"/> AmirAli5
 			</a><br/>
 			Amir Ali
 		</td>
@@ -11510,7 +11510,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>815</td>
 		<td>
 			<a target="_blank" href="https://github.com/YaroslavGaponov">
-				<img src="https://private-avatars.githubusercontent.com/u/1457386?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ3NDAsIm5iZiI6MTczNDU3MzU0MCwicGF0aCI6Ii91LzE0NTczODYifQ.QE-yhepku1FBzXKDDqz60-EtDoMfFG_4teL2XrFr8XA&s=72&u=73a290b2c8c2c5012f3e68d1438d4d966272dcaa&v=4" width="24" alt="Avatar of YaroslavGaponov"/> YaroslavGaponov
+				<img src="https://private-avatars.githubusercontent.com/u/1457386?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE2NDAsIm5iZiI6MTczNDYxMDQ0MCwicGF0aCI6Ii91LzE0NTczODYifQ.NeBBG6tEyQEjPUgzLi4bk4rYk2-iybuEmk1rECMWTTg&s=72&u=73a290b2c8c2c5012f3e68d1438d4d966272dcaa&v=4" width="24" alt="Avatar of YaroslavGaponov"/> YaroslavGaponov
 			</a><br/>
 			Yaroslav Gaponov
 		</td>
@@ -11524,7 +11524,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>816</td>
 		<td>
 			<a target="_blank" href="https://github.com/paweldudek">
-				<img src="https://private-avatars.githubusercontent.com/u/968513?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91Lzk2ODUxMyJ9._C5mu86d62WThYKKTJvLcZukEj2I7Jlc7zTZneOFz2w&s=72&u=26ec9b9fdfb7cde57f6db86bb18fcd30b3a76b87&v=4" width="24" alt="Avatar of paweldudek"/> paweldudek
+				<img src="https://private-avatars.githubusercontent.com/u/968513?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91Lzk2ODUxMyJ9.yXGhTpHpj60ry8WPjUcB0W4hNJ7ffhngtpvRb6ivohE&s=72&u=26ec9b9fdfb7cde57f6db86bb18fcd30b3a76b87&v=4" width="24" alt="Avatar of paweldudek"/> paweldudek
 			</a><br/>
 			Pawel Dudek
 		</td>
@@ -11538,7 +11538,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>817</td>
 		<td>
 			<a target="_blank" href="https://github.com/mikethreels">
-				<img src="https://private-avatars.githubusercontent.com/u/39240820?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUwNDAsIm5iZiI6MTczNDU3Mzg0MCwicGF0aCI6Ii91LzM5MjQwODIwIn0.6PQJxD6wYwm7s_h-G_MPu_e4cWEktdc02Eb1jRa44aQ&s=72&u=be565b97919c8ecec648c11c20984f35e9d2c0ae&v=4" width="24" alt="Avatar of mikethreels"/> mikethreels
+				<img src="https://private-avatars.githubusercontent.com/u/39240820?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE5NDAsIm5iZiI6MTczNDYxMDc0MCwicGF0aCI6Ii91LzM5MjQwODIwIn0.QXY6f1DVnQkdkMCWCwnPFgPiBOBBs_0PrYsn9bPmVCk&s=72&u=be565b97919c8ecec648c11c20984f35e9d2c0ae&v=4" width="24" alt="Avatar of mikethreels"/> mikethreels
 			</a><br/>
 			Michael Threels
 		</td>
@@ -11552,7 +11552,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>818</td>
 		<td>
 			<a target="_blank" href="https://github.com/imanel">
-				<img src="https://private-avatars.githubusercontent.com/u/36869?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5MjAsIm5iZiI6MTczNDU3MzcyMCwicGF0aCI6Ii91LzM2ODY5In0.Z05j5Z1ivMW8cc54oTce5CZR-DfGPp89IUHZ5GeqSyA&s=72&v=4" width="24" alt="Avatar of imanel"/> imanel
+				<img src="https://private-avatars.githubusercontent.com/u/36869?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4MjAsIm5iZiI6MTczNDYxMDYyMCwicGF0aCI6Ii91LzM2ODY5In0.A9K13P1lZeAn0LgyrbS1ngn7K-PvpsFULt7lfjzrZBA&s=72&v=4" width="24" alt="Avatar of imanel"/> imanel
 			</a><br/>
 			Bernard Potocki
 		</td>
@@ -11566,7 +11566,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>819</td>
 		<td>
 			<a target="_blank" href="https://github.com/adamziaja">
-				<img src="https://private-avatars.githubusercontent.com/u/1296443?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91LzEyOTY0NDMifQ.Elm4XKVWEvpLNTCha67krwcSWYO_2Rk8lUWuUlz0U9s&s=72&v=4" width="24" alt="Avatar of adamziaja"/> adamziaja
+				<img src="https://private-avatars.githubusercontent.com/u/1296443?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91LzEyOTY0NDMifQ.aZpFBHGLH6d-3bZGwGi59Hk3FWXxyx43p67GFYciUOE&s=72&v=4" width="24" alt="Avatar of adamziaja"/> adamziaja
 			</a><br/>
 			Adam Ziaja
 		</td>
@@ -11580,7 +11580,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>820</td>
 		<td>
 			<a target="_blank" href="https://github.com/tb">
-				<img src="https://private-avatars.githubusercontent.com/u/71683?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5MjAsIm5iZiI6MTczNDU3MzcyMCwicGF0aCI6Ii91LzcxNjgzIn0.8EGhFTok0-1em1OyLhh9O8xlgxsgUvY1zBXUXA5oBEU&s=72&v=4" width="24" alt="Avatar of tb"/> tb
+				<img src="https://private-avatars.githubusercontent.com/u/71683?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4MjAsIm5iZiI6MTczNDYxMDYyMCwicGF0aCI6Ii91LzcxNjgzIn0.JStJh538ufCm3B6JKuShTh2k4-lQ3Mgoa9BibKXL28o&s=72&v=4" width="24" alt="Avatar of tb"/> tb
 			</a><br/>
 			Tomasz Bak
 		</td>
@@ -11594,7 +11594,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>821</td>
 		<td>
 			<a target="_blank" href="https://github.com/r1me">
-				<img src="https://private-avatars.githubusercontent.com/u/13695767?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU0NjAsIm5iZiI6MTczNDU3NDI2MCwicGF0aCI6Ii91LzEzNjk1NzY3In0.LdSyySWPFqEZblsl4TvSMXy-NPB7HvAX_ZZJ0pBwJ5s&s=72&u=8a1190f9402d1888f502f87d94c8bcb619aace29&v=4" width="24" alt="Avatar of r1me"/> r1me
+				<img src="https://private-avatars.githubusercontent.com/u/13695767?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIzNjAsIm5iZiI6MTczNDYxMTE2MCwicGF0aCI6Ii91LzEzNjk1NzY3In0.cCEq1Nd2tNzKLZZdPY_0pqKmO2evHNjY6IdS8TRrLAE&s=72&u=8a1190f9402d1888f502f87d94c8bcb619aace29&v=4" width="24" alt="Avatar of r1me"/> r1me
 			</a><br/>
 			Damian Woroch
 		</td>
@@ -11608,7 +11608,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>822</td>
 		<td>
 			<a target="_blank" href="https://github.com/mgeeky">
-				<img src="https://private-avatars.githubusercontent.com/u/654344?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4NjAsIm5iZiI6MTczNDU3MzY2MCwicGF0aCI6Ii91LzY1NDM0NCJ9.RQ9ZJeqtpVO8qNUD702ehfIt-S-4HAIx3JZECgfwjcA&s=72&u=9266b0795e1e3b057c2dcd827644eeec69bd1373&v=4" width="24" alt="Avatar of mgeeky"/> mgeeky
+				<img src="https://private-avatars.githubusercontent.com/u/654344?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3NjAsIm5iZiI6MTczNDYxMDU2MCwicGF0aCI6Ii91LzY1NDM0NCJ9.1rp__3W70roDlwcVldLPsWc2Qy9bwI_TBjtjLJQAKlE&s=72&u=9266b0795e1e3b057c2dcd827644eeec69bd1373&v=4" width="24" alt="Avatar of mgeeky"/> mgeeky
 			</a><br/>
 			Mariusz Banach
 		</td>
@@ -11622,7 +11622,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>823</td>
 		<td>
 			<a target="_blank" href="https://github.com/pjedrzejewski">
-				<img src="https://private-avatars.githubusercontent.com/u/614970?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQyNjAsIm5iZiI6MTczNDU3MzA2MCwicGF0aCI6Ii91LzYxNDk3MCJ9.KmWh3ur3tOZQy-3cf_S5Xi7YI10t6aE1BBuINDDKpi0&s=72&u=b4cc002a3442d06906770dab9213063ccadec004&v=4" width="24" alt="Avatar of pjedrzejewski"/> pjedrzejewski
+				<img src="https://private-avatars.githubusercontent.com/u/614970?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTExNjAsIm5iZiI6MTczNDYwOTk2MCwicGF0aCI6Ii91LzYxNDk3MCJ9.GHsx0fs-AYf1NYfhhRW1OCS3LDHvliPf5E7v-s029cQ&s=72&u=b4cc002a3442d06906770dab9213063ccadec004&v=4" width="24" alt="Avatar of pjedrzejewski"/> pjedrzejewski
 			</a><br/>
 			Pawe Jdrzejewski
 		</td>
@@ -11636,7 +11636,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>824</td>
 		<td>
 			<a target="_blank" href="https://github.com/barteksc">
-				<img src="https://private-avatars.githubusercontent.com/u/6576181?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4NjAsIm5iZiI6MTczNDU3MzY2MCwicGF0aCI6Ii91LzY1NzYxODEifQ.GKdgb6JMyYPOWhCWyaIOpcTzr4-oetv90pAiHAJ5KcU&s=72&v=4" width="24" alt="Avatar of barteksc"/> barteksc
+				<img src="https://private-avatars.githubusercontent.com/u/6576181?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3NjAsIm5iZiI6MTczNDYxMDU2MCwicGF0aCI6Ii91LzY1NzYxODEifQ.Oe--xl1S0MukgDJvhp-1IERvnrcRsMWYVJjrwTX5WU4&s=72&v=4" width="24" alt="Avatar of barteksc"/> barteksc
 			</a><br/>
 			No Name
 		</td>
@@ -11650,7 +11650,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>825</td>
 		<td>
 			<a target="_blank" href="https://github.com/jedrzejchalubek">
-				<img src="https://private-avatars.githubusercontent.com/u/3652932?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ0NDAsIm5iZiI6MTczNDU3MzI0MCwicGF0aCI6Ii91LzM2NTI5MzIifQ.xJozU_z5w39_XYvVVDvyEUirqkIpoOQ-lkr1NKmAo3E&s=72&v=4" width="24" alt="Avatar of jedrzejchalubek"/> jedrzejchalubek
+				<img src="https://private-avatars.githubusercontent.com/u/3652932?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTEzNDAsIm5iZiI6MTczNDYxMDE0MCwicGF0aCI6Ii91LzM2NTI5MzIifQ.FgrmgNRWr0X9XrO5hTf53Yq-51rwYFm75-hTCW3MLno&s=72&v=4" width="24" alt="Avatar of jedrzejchalubek"/> jedrzejchalubek
 			</a><br/>
 			Jdrzej Chaubek
 		</td>
@@ -11664,7 +11664,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>826</td>
 		<td>
 			<a target="_blank" href="https://github.com/turbaszek">
-				<img src="https://private-avatars.githubusercontent.com/u/9528307?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxNjAsIm5iZiI6MTczNDU3Mzk2MCwicGF0aCI6Ii91Lzk1MjgzMDcifQ.ZbeFfd_dkuxHaXXzmJZAYcooSH4P8dxz3ZM3gX5Kvl4&s=72&u=39656cfc8215f25027aabbad531f738b7338132c&v=4" width="24" alt="Avatar of turbaszek"/> turbaszek
+				<img src="https://private-avatars.githubusercontent.com/u/9528307?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwNjAsIm5iZiI6MTczNDYxMDg2MCwicGF0aCI6Ii91Lzk1MjgzMDcifQ.wIlFvIFeeymaL5OVWtetYFmsRxWl_IeyGX3LzU9E4PQ&s=72&u=39656cfc8215f25027aabbad531f738b7338132c&v=4" width="24" alt="Avatar of turbaszek"/> turbaszek
 			</a><br/>
 			Tomek Urbaszek
 		</td>
@@ -11678,7 +11678,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>827</td>
 		<td>
 			<a target="_blank" href="https://github.com/wowo">
-				<img src="https://private-avatars.githubusercontent.com/u/100724?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxNjAsIm5iZiI6MTczNDU3Mzk2MCwicGF0aCI6Ii91LzEwMDcyNCJ9.CvDq-0cwUQ0ooT862tcN3Nr4HCg5A2f5Xzp7_kRJWZA&s=72&u=abd19e84332963e8f19314dde03e23ffed2deb2c&v=4" width="24" alt="Avatar of wowo"/> wowo
+				<img src="https://private-avatars.githubusercontent.com/u/100724?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwNjAsIm5iZiI6MTczNDYxMDg2MCwicGF0aCI6Ii91LzEwMDcyNCJ9.kjmG494a3KaiZMS-SW9YuvhT-ctNvFfhyghqXGPO7S0&s=72&u=abd19e84332963e8f19314dde03e23ffed2deb2c&v=4" width="24" alt="Avatar of wowo"/> wowo
 			</a><br/>
 			Wojciech Sznapka
 		</td>
@@ -11692,7 +11692,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>828</td>
 		<td>
 			<a target="_blank" href="https://github.com/xdk78">
-				<img src="https://private-avatars.githubusercontent.com/u/9966516?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxNjAsIm5iZiI6MTczNDU3Mzk2MCwicGF0aCI6Ii91Lzk5NjY1MTYifQ.RljHzXC9r4AD3HP08Dnatl9nFHDEy-FoAeq0TrIUv5I&s=72&u=fbfdee66a778d12ef25e24668bca001b208f0bc7&v=4" width="24" alt="Avatar of xdk78"/> xdk78
+				<img src="https://private-avatars.githubusercontent.com/u/9966516?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwNjAsIm5iZiI6MTczNDYxMDg2MCwicGF0aCI6Ii91Lzk5NjY1MTYifQ.OSpHC1y1k_nLxhP-yY-_JfrhuNbXtWy63a_M1McZeFs&s=72&u=fbfdee66a778d12ef25e24668bca001b208f0bc7&v=4" width="24" alt="Avatar of xdk78"/> xdk78
 			</a><br/>
 			Pawe Kadus
 		</td>
@@ -11706,7 +11706,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>829</td>
 		<td>
 			<a target="_blank" href="https://github.com/Daniel-Krzyczkowski">
-				<img src="https://private-avatars.githubusercontent.com/u/15244422?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQzODAsIm5iZiI6MTczNDU3MzE4MCwicGF0aCI6Ii91LzE1MjQ0NDIyIn0.qxIJyawlKs2IHLWW71TxQRH6VAKHXWKAtvClxQh-VcA&s=72&u=84ae67649a02e6e4014c2b63d81c53c0b5591303&v=4" width="24" alt="Avatar of Daniel-Krzyczkowski"/> Daniel-Krzyczkowski
+				<img src="https://private-avatars.githubusercontent.com/u/15244422?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTEyODAsIm5iZiI6MTczNDYxMDA4MCwicGF0aCI6Ii91LzE1MjQ0NDIyIn0.WVHZjNa3uC9kUhK6qRM7mBRRrOl_W8DXdRxPxq8jXa8&s=72&u=84ae67649a02e6e4014c2b63d81c53c0b5591303&v=4" width="24" alt="Avatar of Daniel-Krzyczkowski"/> Daniel-Krzyczkowski
 			</a><br/>
 			Daniel Krzyczkowski
 		</td>
@@ -11720,7 +11720,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>830</td>
 		<td>
 			<a target="_blank" href="https://github.com/badamczewski">
-				<img src="https://private-avatars.githubusercontent.com/u/752380?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2ODAsIm5iZiI6MTczNDU3MzQ4MCwicGF0aCI6Ii91Lzc1MjM4MCJ9.xqRR90ZqYzb-yPAH012naHjAF-ZqawsCMvjRvLj2JXg&s=72&u=d587aef080ee604c8e616d25785bcc22329112aa&v=4" width="24" alt="Avatar of badamczewski"/> badamczewski
+				<img src="https://private-avatars.githubusercontent.com/u/752380?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1ODAsIm5iZiI6MTczNDYxMDM4MCwicGF0aCI6Ii91Lzc1MjM4MCJ9.nJLRjwDV77Ay-MQWu1SnbseP0pEtiM8A9xd5BLKLYGg&s=72&u=d587aef080ee604c8e616d25785bcc22329112aa&v=4" width="24" alt="Avatar of badamczewski"/> badamczewski
 			</a><br/>
 			Bartosz
 		</td>
@@ -11734,7 +11734,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>831</td>
 		<td>
 			<a target="_blank" href="https://github.com/akozdev">
-				<img src="https://private-avatars.githubusercontent.com/u/51536161?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2ODAsIm5iZiI6MTczNDU3MzQ4MCwicGF0aCI6Ii91LzUxNTM2MTYxIn0.WaXLjkUr60hTz65uDYFdoSrflUWqgIwKPzXu1UVv5cQ&s=72&u=bc7e2ebe2cb927944391a1ff1a35f4ee474e9307&v=4" width="24" alt="Avatar of akozdev"/> akozdev
+				<img src="https://private-avatars.githubusercontent.com/u/51536161?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1ODAsIm5iZiI6MTczNDYxMDM4MCwicGF0aCI6Ii91LzUxNTM2MTYxIn0.R6xCR57QMOMpYGTFAkZFgH8KfykxYzfG-Zjovltdxq4&s=72&u=bc7e2ebe2cb927944391a1ff1a35f4ee474e9307&v=4" width="24" alt="Avatar of akozdev"/> akozdev
 			</a><br/>
 			Aleksander Kozowski
 		</td>
@@ -11748,7 +11748,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>832</td>
 		<td>
 			<a target="_blank" href="https://github.com/W3ndige">
-				<img src="https://private-avatars.githubusercontent.com/u/17812121?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5ODAsIm5iZiI6MTczNDU3Mzc4MCwicGF0aCI6Ii91LzE3ODEyMTIxIn0._m-aVgnZpQBARPStW4p2fEjjmQQtmOunLnkQwp-IIhw&s=72&u=7d7b24da58af8733474b1223a308af76a6004a8c&v=4" width="24" alt="Avatar of W3ndige"/> W3ndige
+				<img src="https://private-avatars.githubusercontent.com/u/17812121?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4ODAsIm5iZiI6MTczNDYxMDY4MCwicGF0aCI6Ii91LzE3ODEyMTIxIn0.zYoyNMfIw3TTmsEWnycIXIAadlaAXuNYGhoVNl1KDHA&s=72&u=7d7b24da58af8733474b1223a308af76a6004a8c&v=4" width="24" alt="Avatar of W3ndige"/> W3ndige
 			</a><br/>
 			Karol Trociski
 		</td>
@@ -11762,7 +11762,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>833</td>
 		<td>
 			<a target="_blank" href="https://github.com/lukaszbudnik">
-				<img src="https://private-avatars.githubusercontent.com/u/1637066?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyMjAsIm5iZiI6MTczNDU3NDAyMCwicGF0aCI6Ii91LzE2MzcwNjYifQ.AVSygFc3lytUNsbvbcs63Gdpo1EizXf17sz0FQ3kC_8&s=72&u=8ce9c2e15c709ef1a9239534be0ed0ad5ff6be23&v=4" width="24" alt="Avatar of lukaszbudnik"/> lukaszbudnik
+				<img src="https://private-avatars.githubusercontent.com/u/1637066?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxMjAsIm5iZiI6MTczNDYxMDkyMCwicGF0aCI6Ii91LzE2MzcwNjYifQ.9R1n7BTz9Wf5klS_W9yGK_6ItDSXnSf2jmiR3ndCNe8&s=72&u=8ce9c2e15c709ef1a9239534be0ed0ad5ff6be23&v=4" width="24" alt="Avatar of lukaszbudnik"/> lukaszbudnik
 			</a><br/>
 			ukasz Budnik
 		</td>
@@ -11776,7 +11776,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>834</td>
 		<td>
 			<a target="_blank" href="https://github.com/vitaliy-bobrov">
-				<img src="https://private-avatars.githubusercontent.com/u/6780441?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ1MDAsIm5iZiI6MTczNDU3MzMwMCwicGF0aCI6Ii91LzY3ODA0NDEifQ.Rj_eCdZIHg0qIpfSO9bFmG6cW-nTKmbMfgAShcDQ5hU&s=72&u=e6a6e86af37f2bf1b778ddc051d4cca049773dda&v=4" width="24" alt="Avatar of vitaliy-bobrov"/> vitaliy-bobrov
+				<img src="https://private-avatars.githubusercontent.com/u/6780441?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE0MDAsIm5iZiI6MTczNDYxMDIwMCwicGF0aCI6Ii91LzY3ODA0NDEifQ.UtZZsgoGzsMv6rLzCwJ85cJVfoON18iIDAX7lYjoUBI&s=72&u=e6a6e86af37f2bf1b778ddc051d4cca049773dda&v=4" width="24" alt="Avatar of vitaliy-bobrov"/> vitaliy-bobrov
 			</a><br/>
 			Vitalii Bobrov
 		</td>
@@ -11790,7 +11790,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>835</td>
 		<td>
 			<a target="_blank" href="https://github.com/gleber">
-				<img src="https://private-avatars.githubusercontent.com/u/33185?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ3NDAsIm5iZiI6MTczNDU3MzU0MCwicGF0aCI6Ii91LzMzMTg1In0.FTjbueDvhKS8YM6Ib9R0l4vAf2Xng6hTn1P9NWPViCQ&s=72&u=cb377b3d2c1eb0581c8a5f301ca75409713dd016&v=4" width="24" alt="Avatar of gleber"/> gleber
+				<img src="https://private-avatars.githubusercontent.com/u/33185?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE2NDAsIm5iZiI6MTczNDYxMDQ0MCwicGF0aCI6Ii91LzMzMTg1In0.AazE4mCfYPIwh6mHBXkzOSZtic3bF2NEnt8D66FvX5E&s=72&u=cb377b3d2c1eb0581c8a5f301ca75409713dd016&v=4" width="24" alt="Avatar of gleber"/> gleber
 			</a><br/>
 			Gleb Peregud
 		</td>
@@ -11804,7 +11804,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>836</td>
 		<td>
 			<a target="_blank" href="https://github.com/bciach">
-				<img src="https://private-avatars.githubusercontent.com/u/13520099?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2MjAsIm5iZiI6MTczNDU3MzQyMCwicGF0aCI6Ii91LzEzNTIwMDk5In0.vWLT_vxm4c7b3dCgFP2VWOs2fZamZaJKSd_dKNhJmpk&s=72&u=23ae826e7f2c30614818b17b983167fdd3c21aa6&v=4" width="24" alt="Avatar of bciach"/> bciach
+				<img src="https://private-avatars.githubusercontent.com/u/13520099?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1MjAsIm5iZiI6MTczNDYxMDMyMCwicGF0aCI6Ii91LzEzNTIwMDk5In0.ZA0I6vGPgBiv6g_Zt2ZWSNtVLUhS7ofTGCmc_muRJt8&s=72&u=23ae826e7f2c30614818b17b983167fdd3c21aa6&v=4" width="24" alt="Avatar of bciach"/> bciach
 			</a><br/>
 			Bartosz Ciach
 		</td>
@@ -11818,7 +11818,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>837</td>
 		<td>
 			<a target="_blank" href="https://github.com/SaiyansKing">
-				<img src="https://private-avatars.githubusercontent.com/u/38609240?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2MjAsIm5iZiI6MTczNDU3MzQyMCwicGF0aCI6Ii91LzM4NjA5MjQwIn0.l-m_Ga877HxrM4mdXFChjsY7y1u3JurMzc4TiyXVVeM&s=72&u=a4c5c12cd803574df6b69826862a8608bae6714c&v=4" width="24" alt="Avatar of SaiyansKing"/> SaiyansKing
+				<img src="https://private-avatars.githubusercontent.com/u/38609240?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1MjAsIm5iZiI6MTczNDYxMDMyMCwicGF0aCI6Ii91LzM4NjA5MjQwIn0.Jc-e6D5bML5zP6yZKcMBmC_vNsgjQTiZdTkTlSXiDuI&s=72&u=a4c5c12cd803574df6b69826862a8608bae6714c&v=4" width="24" alt="Avatar of SaiyansKing"/> SaiyansKing
 			</a><br/>
 			Jakub
 		</td>
@@ -11832,7 +11832,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>838</td>
 		<td>
 			<a target="_blank" href="https://github.com/kgabis">
-				<img src="https://private-avatars.githubusercontent.com/u/635855?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyMjAsIm5iZiI6MTczNDU3NDAyMCwicGF0aCI6Ii91LzYzNTg1NSJ9.ofjUo-C-DkI_RCDugwV1-Ce-3vfP8grveH4XZedH8ag&s=72&u=7a9f22a2659933f2e07e87a524bdf609c4742a49&v=4" width="24" alt="Avatar of kgabis"/> kgabis
+				<img src="https://private-avatars.githubusercontent.com/u/635855?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxMjAsIm5iZiI6MTczNDYxMDkyMCwicGF0aCI6Ii91LzYzNTg1NSJ9.8jbChCgTmmzucZVh33Vo4C5FU49-KvvF6s58XeRloI0&s=72&u=7a9f22a2659933f2e07e87a524bdf609c4742a49&v=4" width="24" alt="Avatar of kgabis"/> kgabis
 			</a><br/>
 			Krzysztof Gabis
 		</td>
@@ -11846,7 +11846,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>839</td>
 		<td>
 			<a target="_blank" href="https://github.com/mateuszzwierzycki">
-				<img src="https://private-avatars.githubusercontent.com/u/2178452?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5MjAsIm5iZiI6MTczNDU3MzcyMCwicGF0aCI6Ii91LzIxNzg0NTIifQ.hdwPRkhPK13LucR2iEl8TWzzbeyTlbhJRCbjcPShT-I&s=72&u=55c2ec9b103cf3dbde28395474d6af4d3239c208&v=4" width="24" alt="Avatar of mateuszzwierzycki"/> mateuszzwierzycki
+				<img src="https://private-avatars.githubusercontent.com/u/2178452?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4MjAsIm5iZiI6MTczNDYxMDYyMCwicGF0aCI6Ii91LzIxNzg0NTIifQ.sNt7Nk4n_Xb3SMD3N1VfPBIJdeknmCCA0ZqsILqBXnE&s=72&u=55c2ec9b103cf3dbde28395474d6af4d3239c208&v=4" width="24" alt="Avatar of mateuszzwierzycki"/> mateuszzwierzycki
 			</a><br/>
 			Mateusz
 		</td>
@@ -11860,7 +11860,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>840</td>
 		<td>
 			<a target="_blank" href="https://github.com/vintage">
-				<img src="https://private-avatars.githubusercontent.com/u/729785?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2ODAsIm5iZiI6MTczNDU3MzQ4MCwicGF0aCI6Ii91LzcyOTc4NSJ9.hHEIB-6ruDubCUqSvYxnwqv8BGQy01eLq_naEkOWM_A&s=72&u=8dc7df6c9b945e6cc8a8cdaa57435c444ea08700&v=4" width="24" alt="Avatar of vintage"/> vintage
+				<img src="https://private-avatars.githubusercontent.com/u/729785?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1ODAsIm5iZiI6MTczNDYxMDM4MCwicGF0aCI6Ii91LzcyOTc4NSJ9.rx-YGDjFA4sqHtAvIoQNKt5lN53IPRGN-r1DwOV4ri8&s=72&u=8dc7df6c9b945e6cc8a8cdaa57435c444ea08700&v=4" width="24" alt="Avatar of vintage"/> vintage
 			</a><br/>
 			Kamil Rykowski
 		</td>
@@ -11874,7 +11874,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>841</td>
 		<td>
 			<a target="_blank" href="https://github.com/dbacinski">
-				<img src="https://private-avatars.githubusercontent.com/u/454414?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4NjAsIm5iZiI6MTczNDU3MzY2MCwicGF0aCI6Ii91LzQ1NDQxNCJ9.ABbto8Sga1bd_LrLhLmWkYcRkM1wBpsCASaCjTbNpiU&s=72&u=9223f4f022ea7b7bf782d6acb81043c847d35caa&v=4" width="24" alt="Avatar of dbacinski"/> dbacinski
+				<img src="https://private-avatars.githubusercontent.com/u/454414?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3NjAsIm5iZiI6MTczNDYxMDU2MCwicGF0aCI6Ii91LzQ1NDQxNCJ9.aaw462nghvZok2RxnIO0KSJN7jMmqzAOkqfYICi0yZs&s=72&u=9223f4f022ea7b7bf782d6acb81043c847d35caa&v=4" width="24" alt="Avatar of dbacinski"/> dbacinski
 			</a><br/>
 			Dariusz Baciski
 		</td>
@@ -11888,7 +11888,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>842</td>
 		<td>
 			<a target="_blank" href="https://github.com/Air14">
-				<img src="https://private-avatars.githubusercontent.com/u/34422030?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ1NjAsIm5iZiI6MTczNDU3MzM2MCwicGF0aCI6Ii91LzM0NDIyMDMwIn0.6Jdf6JlLhGfxwOKPK_uLvuLBM-tUzHM8vCGwLn0DPWg&s=72&u=59c0fa7b4418d9f65653e188627e9bfd4eb54cc6&v=4" width="24" alt="Avatar of Air14"/> Air14
+				<img src="https://private-avatars.githubusercontent.com/u/34422030?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE0NjAsIm5iZiI6MTczNDYxMDI2MCwicGF0aCI6Ii91LzM0NDIyMDMwIn0.GGuzrmQpS1BtjRrnrVV71EJPOdFrWN14crfu92JKKmE&s=72&u=59c0fa7b4418d9f65653e188627e9bfd4eb54cc6&v=4" width="24" alt="Avatar of Air14"/> Air14
 			</a><br/>
 			Air
 		</td>
@@ -11902,7 +11902,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>843</td>
 		<td>
 			<a target="_blank" href="https://github.com/lpodkalicki">
-				<img src="https://private-avatars.githubusercontent.com/u/1240222?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4NjAsIm5iZiI6MTczNDU3MzY2MCwicGF0aCI6Ii91LzEyNDAyMjIifQ.h0WMW2e0GUNDE0vb-wlGkcWueQMC3J_oTWaNkSskldg&s=72&u=e6bf54cd85fa949c3edf76fe13faf2b21f717f1f&v=4" width="24" alt="Avatar of lpodkalicki"/> lpodkalicki
+				<img src="https://private-avatars.githubusercontent.com/u/1240222?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3NjAsIm5iZiI6MTczNDYxMDU2MCwicGF0aCI6Ii91LzEyNDAyMjIifQ.AEfpOwscKfvIFeWzywN5LMA_wuKyulMcKb-kTOwe_fs&s=72&u=e6bf54cd85fa949c3edf76fe13faf2b21f717f1f&v=4" width="24" alt="Avatar of lpodkalicki"/> lpodkalicki
 			</a><br/>
 			ukasz Podkalicki
 		</td>
@@ -11916,7 +11916,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>844</td>
 		<td>
 			<a target="_blank" href="https://github.com/danielkorzekwa">
-				<img src="https://private-avatars.githubusercontent.com/u/1285297?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUzNDAsIm5iZiI6MTczNDU3NDE0MCwicGF0aCI6Ii91LzEyODUyOTcifQ.fcPvKjzmk8UX1HZ33keM8s47XMB3QYOdIBmHiS3-qgI&s=72&u=cdc364fe8ec4d694eb2c1f6dfe4ef49be2c5dc16&v=4" width="24" alt="Avatar of danielkorzekwa"/> danielkorzekwa
+				<img src="https://private-avatars.githubusercontent.com/u/1285297?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIyNDAsIm5iZiI6MTczNDYxMTA0MCwicGF0aCI6Ii91LzEyODUyOTcifQ.ao9vADl_ZNxJLXJU4jWVWiAlFyMFiWre7w6wFDDx9jM&s=72&u=cdc364fe8ec4d694eb2c1f6dfe4ef49be2c5dc16&v=4" width="24" alt="Avatar of danielkorzekwa"/> danielkorzekwa
 			</a><br/>
 			Daniel Korzekwa
 		</td>
@@ -11930,7 +11930,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>845</td>
 		<td>
 			<a target="_blank" href="https://github.com/mynavblog">
-				<img src="https://private-avatars.githubusercontent.com/u/37371997?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUwNDAsIm5iZiI6MTczNDU3Mzg0MCwicGF0aCI6Ii91LzM3MzcxOTk3In0.7ffgTfbnssUsxxdt4955dqt70zdeymtaZbDZzHYSoJM&s=72&v=4" width="24" alt="Avatar of mynavblog"/> mynavblog
+				<img src="https://private-avatars.githubusercontent.com/u/37371997?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE5NDAsIm5iZiI6MTczNDYxMDc0MCwicGF0aCI6Ii91LzM3MzcxOTk3In0.Nnerh56i2ojeNP1D-DPoBhkczI86Hu_wrX0sW1BLMYw&s=72&v=4" width="24" alt="Avatar of mynavblog"/> mynavblog
 			</a><br/>
 			myNAVblogcom
 		</td>
@@ -11944,7 +11944,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>846</td>
 		<td>
 			<a target="_blank" href="https://github.com/burczyk">
-				<img src="https://private-avatars.githubusercontent.com/u/1155763?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU0NjAsIm5iZiI6MTczNDU3NDI2MCwicGF0aCI6Ii91LzExNTU3NjMifQ.wXJPaU6Gq6mLShlZ9542APG3MCyAbzGlbcvxys24Vek&s=72&v=4" width="24" alt="Avatar of burczyk"/> burczyk
+				<img src="https://private-avatars.githubusercontent.com/u/1155763?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIzNjAsIm5iZiI6MTczNDYxMTE2MCwicGF0aCI6Ii91LzExNTU3NjMifQ.4ALZBJKaEuOBzLuOhPyY2Y1NhpbwigjhiIN3o8TatBQ&s=72&v=4" width="24" alt="Avatar of burczyk"/> burczyk
 			</a><br/>
 			Kamil Burczyk
 		</td>
@@ -11958,7 +11958,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>847</td>
 		<td>
 			<a target="_blank" href="https://github.com/MarczakIO">
-				<img src="https://private-avatars.githubusercontent.com/u/32310272?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91LzMyMzEwMjcyIn0.5xiKKsrRej64c5QaQsLF04EDQf43uDLKduGtfWEdUe8&s=72&u=e8d8d6ed48e035151c2fd7c851fffd3481f9b022&v=4" width="24" alt="Avatar of MarczakIO"/> MarczakIO
+				<img src="https://private-avatars.githubusercontent.com/u/32310272?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91LzMyMzEwMjcyIn0.h-2Q6WAHHCVHMnWxKsmEDU-uCQRRtI6Ba3O81oTssFM&s=72&u=e8d8d6ed48e035151c2fd7c851fffd3481f9b022&v=4" width="24" alt="Avatar of MarczakIO"/> MarczakIO
 			</a><br/>
 			Adam Marczak
 		</td>
@@ -11972,7 +11972,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>848</td>
 		<td>
 			<a target="_blank" href="https://github.com/Ace-Krypton">
-				<img src="https://private-avatars.githubusercontent.com/u/75210504?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4NjAsIm5iZiI6MTczNDU3MzY2MCwicGF0aCI6Ii91Lzc1MjEwNTA0In0.8lEU4j_qQ9NrCHRtz0kkzZzqoXpJe5esK5pP2pniQno&s=72&u=cd172af6d7cb5d1420605b9d653f2e84e1c34b9f&v=4" width="24" alt="Avatar of Ace-Krypton"/> Ace-Krypton
+				<img src="https://private-avatars.githubusercontent.com/u/75210504?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3NjAsIm5iZiI6MTczNDYxMDU2MCwicGF0aCI6Ii91Lzc1MjEwNTA0In0.TUOVa8ZUzORweH7JZ-YKot1kzrAtibGUrxsAM5mg5wY&s=72&u=cd172af6d7cb5d1420605b9d653f2e84e1c34b9f&v=4" width="24" alt="Avatar of Ace-Krypton"/> Ace-Krypton
 			</a><br/>
 			Ramiz Abbasov
 		</td>
@@ -11986,7 +11986,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>849</td>
 		<td>
 			<a target="_blank" href="https://github.com/khelle">
-				<img src="https://private-avatars.githubusercontent.com/u/5642657?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxMDAsIm5iZiI6MTczNDU3MzkwMCwicGF0aCI6Ii91LzU2NDI2NTcifQ.r0aNGbROAUK0I4WcJDJm-GHYlgz1gWCJ8TIGT_jhWlc&s=72&u=9a8aaa64b64b3fb1d0edde200b46588a764cea9f&v=4" width="24" alt="Avatar of khelle"/> khelle
+				<img src="https://private-avatars.githubusercontent.com/u/5642657?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwMDAsIm5iZiI6MTczNDYxMDgwMCwicGF0aCI6Ii91LzU2NDI2NTcifQ.gOSLajmHerFY2cY85g0dukz9ojJtgUss-ZfYZJUbJXY&s=72&u=9a8aaa64b64b3fb1d0edde200b46588a764cea9f&v=4" width="24" alt="Avatar of khelle"/> khelle
 			</a><br/>
 			Kamil J
 		</td>
@@ -12000,7 +12000,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>850</td>
 		<td>
 			<a target="_blank" href="https://github.com/MieszkoZ">
-				<img src="https://private-avatars.githubusercontent.com/u/7968317?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzU0NjAsIm5iZiI6MTczNDU3NDI2MCwicGF0aCI6Ii91Lzc5NjgzMTcifQ.fu-vQ7lVrHtR6yWg6gmluM_RrOlne45PwOTIYjiCZk8&s=72&u=6ecd3adfd6e432f478053022e9631e9c61407573&v=4" width="24" alt="Avatar of MieszkoZ"/> MieszkoZ
+				<img src="https://private-avatars.githubusercontent.com/u/7968317?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIzNjAsIm5iZiI6MTczNDYxMTE2MCwicGF0aCI6Ii91Lzc5NjgzMTcifQ.If5oJNZdzKzeSo2a_qkU8MqxtnRxMkbyMvg7qwwk4kI&s=72&u=6ecd3adfd6e432f478053022e9631e9c61407573&v=4" width="24" alt="Avatar of MieszkoZ"/> MieszkoZ
 			</a><br/>
 			Mieszko Zielinski
 		</td>
@@ -12014,7 +12014,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>851</td>
 		<td>
 			<a target="_blank" href="https://github.com/JohnSundell">
-				<img src="https://private-avatars.githubusercontent.com/u/2466701?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUwNDAsIm5iZiI6MTczNDU3Mzg0MCwicGF0aCI6Ii91LzI0NjY3MDEifQ.QQ5IMw2YAKRRuskn8UOqoyfCBkI0ZfI_1hI_yNKY050&s=72&u=d2e64c6b5d0931dd48c486a7bcf1042493db2e9d&v=4" width="24" alt="Avatar of JohnSundell"/> JohnSundell
+				<img src="https://private-avatars.githubusercontent.com/u/2466701?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTEwNDAsIm5iZiI6MTczNDYwOTg0MCwicGF0aCI6Ii91LzI0NjY3MDEifQ.Qh68bxxesXADMDwf09DB4l_2KXwTIriZsefxg3GgG6s&s=72&u=d2e64c6b5d0931dd48c486a7bcf1042493db2e9d&v=4" width="24" alt="Avatar of JohnSundell"/> JohnSundell
 			</a><br/>
 			John Sundell
 		</td>
@@ -12028,7 +12028,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>852</td>
 		<td>
 			<a target="_blank" href="https://github.com/ptrkrysik">
-				<img src="https://private-avatars.githubusercontent.com/u/4154399?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5MjAsIm5iZiI6MTczNDU3MzcyMCwicGF0aCI6Ii91LzQxNTQzOTkifQ.v0vdB5A483rqu8PhlgVQd87h5WkFw8_wI8CQqa-_8nc&s=72&u=73515d7b81b2b40afddc23eab470bd80c1a18548&v=4" width="24" alt="Avatar of ptrkrysik"/> ptrkrysik
+				<img src="https://private-avatars.githubusercontent.com/u/4154399?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4MjAsIm5iZiI6MTczNDYxMDYyMCwicGF0aCI6Ii91LzQxNTQzOTkifQ.WQR2jNp2kbxxwoOip7X2_psatFmxvZ-FkkyQy4WqLOE&s=72&u=73515d7b81b2b40afddc23eab470bd80c1a18548&v=4" width="24" alt="Avatar of ptrkrysik"/> ptrkrysik
 			</a><br/>
 			Piotr Krysik
 		</td>
@@ -12042,7 +12042,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>853</td>
 		<td>
 			<a target="_blank" href="https://github.com/gustojs">
-				<img src="https://private-avatars.githubusercontent.com/u/25644507?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5MjAsIm5iZiI6MTczNDU3MzcyMCwicGF0aCI6Ii91LzI1NjQ0NTA3In0.iwr_V004j4tOcjtAVssDOtwW6ea8FYWnMAjpvcSQIB4&s=72&u=8dd1abb882e167f0d2902e8e26c3456876879273&v=4" width="24" alt="Avatar of gustojs"/> gustojs
+				<img src="https://private-avatars.githubusercontent.com/u/25644507?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4MjAsIm5iZiI6MTczNDYxMDYyMCwicGF0aCI6Ii91LzI1NjQ0NTA3In0.rdQ6wnW5XBypnxLc36GNmM6ULhOPLZhCjyJTOHHACsw&s=72&u=8dd1abb882e167f0d2902e8e26c3456876879273&v=4" width="24" alt="Avatar of gustojs"/> gustojs
 			</a><br/>
 			No Name
 		</td>
@@ -12056,7 +12056,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>854</td>
 		<td>
 			<a target="_blank" href="https://github.com/Nadrin">
-				<img src="https://private-avatars.githubusercontent.com/u/615654?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUwNDAsIm5iZiI6MTczNDU3Mzg0MCwicGF0aCI6Ii91LzYxNTY1NCJ9.YUAZAwQoXPd9hVSAPdUMoQefnoqVvV2Hnl86BppQzo8&s=72&u=6a8361287a5f3cb26d97b52054630aaca662375f&v=4" width="24" alt="Avatar of Nadrin"/> Nadrin
+				<img src="https://private-avatars.githubusercontent.com/u/615654?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE5NDAsIm5iZiI6MTczNDYxMDc0MCwicGF0aCI6Ii91LzYxNTY1NCJ9.ZpmLaN_QzIBAg0ef4mNLtD7Fy7qjWBhwQRHVPtpIAIg&s=72&u=6a8361287a5f3cb26d97b52054630aaca662375f&v=4" width="24" alt="Avatar of Nadrin"/> Nadrin
 			</a><br/>
 			Micha Siejak
 		</td>
@@ -12070,7 +12070,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>855</td>
 		<td>
 			<a target="_blank" href="https://github.com/kadirhzrc">
-				<img src="https://private-avatars.githubusercontent.com/u/44302279?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4MDAsIm5iZiI6MTczNDU3MzYwMCwicGF0aCI6Ii91LzQ0MzAyMjc5In0.dPXeYU2oz6upa-317hWjgUCDG5MiS8aPlCdnvdkw0Tk&s=72&u=ab77efd65f9ca9c8a4795f2928aeb0d42e4d9e93&v=4" width="24" alt="Avatar of kadirhzrc"/> kadirhzrc
+				<img src="https://private-avatars.githubusercontent.com/u/44302279?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3MDAsIm5iZiI6MTczNDYxMDUwMCwicGF0aCI6Ii91LzQ0MzAyMjc5In0.fER2Hwk9LabFCILnprJan1x30CyD_046Jug5B6_sz4I&s=72&u=ab77efd65f9ca9c8a4795f2928aeb0d42e4d9e93&v=4" width="24" alt="Avatar of kadirhzrc"/> kadirhzrc
 			</a><br/>
 			Kadir Hizarci
 		</td>
@@ -12084,7 +12084,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>856</td>
 		<td>
 			<a target="_blank" href="https://github.com/mrowa44">
-				<img src="https://private-avatars.githubusercontent.com/u/4957913?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2MjAsIm5iZiI6MTczNDU3MzQyMCwicGF0aCI6Ii91LzQ5NTc5MTMifQ.n2NU2gFQe6dFGUPY8PPP8QJmogpGqgM2C3v3p8NfcYA&s=72&u=4c3b2148b992f134758b6b85d0b489f8235b1fb5&v=4" width="24" alt="Avatar of mrowa44"/> mrowa44
+				<img src="https://private-avatars.githubusercontent.com/u/4957913?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1MjAsIm5iZiI6MTczNDYxMDMyMCwicGF0aCI6Ii91LzQ5NTc5MTMifQ.6YO8s2Kf3PDGgoqLD2zNOebNzGEOdcclS7_zuecbJtQ&s=72&u=4c3b2148b992f134758b6b85d0b489f8235b1fb5&v=4" width="24" alt="Avatar of mrowa44"/> mrowa44
 			</a><br/>
 			Justyna Rachowicz
 		</td>
@@ -12098,7 +12098,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>857</td>
 		<td>
 			<a target="_blank" href="https://github.com/pwalczyszyn">
-				<img src="https://private-avatars.githubusercontent.com/u/368561?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUwNDAsIm5iZiI6MTczNDU3Mzg0MCwicGF0aCI6Ii91LzM2ODU2MSJ9.zfgQbAnGMpq9nG4lr1SGOl5mtJgKZjoIWVK9CZf50XY&s=72&v=4" width="24" alt="Avatar of pwalczyszyn"/> pwalczyszyn
+				<img src="https://private-avatars.githubusercontent.com/u/368561?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE5NDAsIm5iZiI6MTczNDYxMDc0MCwicGF0aCI6Ii91LzM2ODU2MSJ9.s26Pk5DBNe_l7oI16IyARwTSzGOvW9OAft638Pr6HFc&s=72&v=4" width="24" alt="Avatar of pwalczyszyn"/> pwalczyszyn
 			</a><br/>
 			Piotr Walczyszyn
 		</td>
@@ -12112,7 +12112,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>858</td>
 		<td>
 			<a target="_blank" href="https://github.com/solusipse">
-				<img src="https://private-avatars.githubusercontent.com/u/3392430?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxMDAsIm5iZiI6MTczNDU3MzkwMCwicGF0aCI6Ii91LzMzOTI0MzAifQ.8RBKfoNXtCwnaxrepuxGEYdOjUWJ7ajKjCsmIFmszxI&s=72&v=4" width="24" alt="Avatar of solusipse"/> solusipse
+				<img src="https://private-avatars.githubusercontent.com/u/3392430?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwMDAsIm5iZiI6MTczNDYxMDgwMCwicGF0aCI6Ii91LzMzOTI0MzAifQ.VdrJEkdxHrUQhlmbJW-70x3jqpEnQoJzYUewEv-EExM&s=72&v=4" width="24" alt="Avatar of solusipse"/> solusipse
 			</a><br/>
 			weil
 		</td>
@@ -12126,7 +12126,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>859</td>
 		<td>
 			<a target="_blank" href="https://github.com/jakubnabrdalik">
-				<img src="https://private-avatars.githubusercontent.com/u/804769?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ1MDAsIm5iZiI6MTczNDU3MzMwMCwicGF0aCI6Ii91LzgwNDc2OSJ9.5WaK3y1I6Saw4WDwE6uuJRTWQ-6bf5GY03btAAdBeEQ&s=72&v=4" width="24" alt="Avatar of jakubnabrdalik"/> jakubnabrdalik
+				<img src="https://private-avatars.githubusercontent.com/u/804769?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE0MDAsIm5iZiI6MTczNDYxMDIwMCwicGF0aCI6Ii91LzgwNDc2OSJ9.x7PyTE9Yat8eUetRN49ckW79xKH10uFmExDtVlcAhcI&s=72&v=4" width="24" alt="Avatar of jakubnabrdalik"/> jakubnabrdalik
 			</a><br/>
 			Jakub Nabrdalik
 		</td>
@@ -12140,7 +12140,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>860</td>
 		<td>
 			<a target="_blank" href="https://github.com/ziutek">
-				<img src="https://private-avatars.githubusercontent.com/u/294880?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5ODAsIm5iZiI6MTczNDU3Mzc4MCwicGF0aCI6Ii91LzI5NDg4MCJ9.vW56duA4-yXgXxPvJdqgj9ud_SSIHndMN4Jv3J4qFAg&s=72&v=4" width="24" alt="Avatar of ziutek"/> ziutek
+				<img src="https://private-avatars.githubusercontent.com/u/294880?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4ODAsIm5iZiI6MTczNDYxMDY4MCwicGF0aCI6Ii91LzI5NDg4MCJ9.9C-DCrQ1RcgWGveX45pNi66mZEcXHsLEID0tyVJL0Og&s=72&v=4" width="24" alt="Avatar of ziutek"/> ziutek
 			</a><br/>
 			Micha Derkacz
 		</td>
@@ -12154,7 +12154,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>861</td>
 		<td>
 			<a target="_blank" href="https://github.com/wbzyl">
-				<img src="https://private-avatars.githubusercontent.com/u/8049?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ4NjAsIm5iZiI6MTczNDU3MzY2MCwicGF0aCI6Ii91LzgwNDkifQ.ND049nVbmJt8SnZPOaZJyARXZM11dWXs9CAxEFvnmHg&s=72&v=4" width="24" alt="Avatar of wbzyl"/> wbzyl
+				<img src="https://private-avatars.githubusercontent.com/u/8049?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE3NjAsIm5iZiI6MTczNDYxMDU2MCwicGF0aCI6Ii91LzgwNDkifQ.0xZFrMqN_QlCNw-BFA1y66kckkM3gygSDVOgoULoSIE&s=72&v=4" width="24" alt="Avatar of wbzyl"/> wbzyl
 			</a><br/>
 			Wlodek Bzyl
 		</td>
@@ -12168,7 +12168,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>862</td>
 		<td>
 			<a target="_blank" href="https://github.com/wojtek-kalicinski">
-				<img src="https://private-avatars.githubusercontent.com/u/1135907?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ5MjAsIm5iZiI6MTczNDU3MzcyMCwicGF0aCI6Ii91LzExMzU5MDcifQ.g5me_9ZW6j2LJhppXpITv_sF8sDHuLPh6jsaxGSCELM&s=72&u=559258e71ebdbbd0e8a1ea85b5c67c4c9673f8e4&v=4" width="24" alt="Avatar of wojtek-kalicinski"/> wojtek-kalicinski
+				<img src="https://private-avatars.githubusercontent.com/u/1135907?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE4MjAsIm5iZiI6MTczNDYxMDYyMCwicGF0aCI6Ii91LzExMzU5MDcifQ.0x7LCWb-hw3W1IEHAFHWLrqWmo6ww4s1cUN4VXSyRQM&s=72&u=559258e71ebdbbd0e8a1ea85b5c67c4c9673f8e4&v=4" width="24" alt="Avatar of wojtek-kalicinski"/> wojtek-kalicinski
 			</a><br/>
 			Wojtek Kaliciski
 		</td>
@@ -12182,7 +12182,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>863</td>
 		<td>
 			<a target="_blank" href="https://github.com/PaulinaSadowska">
-				<img src="https://private-avatars.githubusercontent.com/u/9167804?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzQ2ODAsIm5iZiI6MTczNDU3MzQ4MCwicGF0aCI6Ii91LzkxNjc4MDQifQ.ouEolRnPBzvfKwzpFNICbfbqcqh7kO_CTPOEPLu5pNg&s=72&u=1f41c12b0324251debcb374c276a632f8bace6ff&v=4" width="24" alt="Avatar of PaulinaSadowska"/> PaulinaSadowska
+				<img src="https://private-avatars.githubusercontent.com/u/9167804?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE1ODAsIm5iZiI6MTczNDYxMDM4MCwicGF0aCI6Ii91LzkxNjc4MDQifQ.3l-WxGTEwyPT2i1QwV0_9JMWMRvB1JfnegAsJjQb2z4&s=72&u=1f41c12b0324251debcb374c276a632f8bace6ff&v=4" width="24" alt="Avatar of PaulinaSadowska"/> PaulinaSadowska
 			</a><br/>
 			Paulina Sadowska
 		</td>
@@ -12196,7 +12196,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>864</td>
 		<td>
 			<a target="_blank" href="https://github.com/f1xpl">
-				<img src="https://private-avatars.githubusercontent.com/u/20688442?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUwNDAsIm5iZiI6MTczNDU3Mzg0MCwicGF0aCI6Ii91LzIwNjg4NDQyIn0.GzAUTUB3dwBzz5KoWBgOLiaJnqRckbD2gMlU4p_tjKM&s=72&v=4" width="24" alt="Avatar of f1xpl"/> f1xpl
+				<img src="https://private-avatars.githubusercontent.com/u/20688442?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE5NDAsIm5iZiI6MTczNDYxMDc0MCwicGF0aCI6Ii91LzIwNjg4NDQyIn0.iCiopHouWrrl3pLIRIQmpqPTolLMVpNlSVn0X5sIylY&s=72&v=4" width="24" alt="Avatar of f1xpl"/> f1xpl
 			</a><br/>
 			Michal Szwaj
 		</td>
@@ -12210,7 +12210,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>865</td>
 		<td>
 			<a target="_blank" href="https://github.com/zamotany">
-				<img src="https://private-avatars.githubusercontent.com/u/17573635?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUwNDAsIm5iZiI6MTczNDU3Mzg0MCwicGF0aCI6Ii91LzE3NTczNjM1In0.H0h8EHNyrFHe1vpgzfU9xfkBRf1HXFiBVbCx6Yq7Kz8&s=72&u=00f7d9d5218c99a240511102797ff86944849642&v=4" width="24" alt="Avatar of zamotany"/> zamotany
+				<img src="https://private-avatars.githubusercontent.com/u/17573635?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE5NDAsIm5iZiI6MTczNDYxMDc0MCwicGF0aCI6Ii91LzE3NTczNjM1In0.G6K0zIJ18AWJkBu82iLNNRHuOGoarpkigprcjdzNNag&s=72&u=00f7d9d5218c99a240511102797ff86944849642&v=4" width="24" alt="Avatar of zamotany"/> zamotany
 			</a><br/>
 			Pawe Gulbinowicz
 		</td>
@@ -12224,7 +12224,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>866</td>
 		<td>
 			<a target="_blank" href="https://github.com/hypeapps">
-				<img src="https://private-avatars.githubusercontent.com/u/17014754?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUyODAsIm5iZiI6MTczNDU3NDA4MCwicGF0aCI6Ii91LzE3MDE0NzU0In0.60Jw9CVy5X7j-a75rC6yYO2d3ap1LSUIr5KedpU1lJM&s=72&u=ae1eed3a52a227dfbf6d959a4433dce955b16ace&v=4" width="24" alt="Avatar of hypeapps"/> hypeapps
+				<img src="https://private-avatars.githubusercontent.com/u/17014754?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIxODAsIm5iZiI6MTczNDYxMDk4MCwicGF0aCI6Ii91LzE3MDE0NzU0In0._cR7tRt9bGxqCpJwncaG0ltcWceiYkfm9vKtU8VNoOI&s=72&u=ae1eed3a52a227dfbf6d959a4433dce955b16ace&v=4" width="24" alt="Avatar of hypeapps"/> hypeapps
 			</a><br/>
 			Przemek 
 		</td>
@@ -12238,7 +12238,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>867</td>
 		<td>
 			<a target="_blank" href="https://github.com/pithyless">
-				<img src="https://private-avatars.githubusercontent.com/u/21281?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUxNjAsIm5iZiI6MTczNDU3Mzk2MCwicGF0aCI6Ii91LzIxMjgxIn0.RLSDyd35eITob6b-OoQ99LhzrKMZsFJfBhW6quDieDw&s=72&v=4" width="24" alt="Avatar of pithyless"/> pithyless
+				<img src="https://private-avatars.githubusercontent.com/u/21281?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIwNjAsIm5iZiI6MTczNDYxMDg2MCwicGF0aCI6Ii91LzIxMjgxIn0.xqhO9PPb9OwuMHXMl3tVAxJu2B__Q5Xu0fUR4ARdKS0&s=72&v=4" width="24" alt="Avatar of pithyless"/> pithyless
 			</a><br/>
 			Norbert Wjtowicz
 		</td>
@@ -12252,7 +12252,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>868</td>
 		<td>
 			<a target="_blank" href="https://github.com/niespodd">
-				<img src="https://private-avatars.githubusercontent.com/u/746448?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUwNDAsIm5iZiI6MTczNDU3Mzg0MCwicGF0aCI6Ii91Lzc0NjQ0OCJ9.g2Mt-6MAWlG_fwwjFLDChqTyl4gG2iDPJ-Y9IOR3KMo&s=72&u=ac19d7fe83cfd10d7c0e4c2e7317eff3e69a8ce3&v=4" width="24" alt="Avatar of niespodd"/> niespodd
+				<img src="https://private-avatars.githubusercontent.com/u/746448?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE5NDAsIm5iZiI6MTczNDYxMDc0MCwicGF0aCI6Ii91Lzc0NjQ0OCJ9.1GeCAtP13K271wiC1cQxvihNJOfXrg7ZcDPD-wcu4fU&s=72&u=ac19d7fe83cfd10d7c0e4c2e7317eff3e69a8ce3&v=4" width="24" alt="Avatar of niespodd"/> niespodd
 			</a><br/>
 			Dariusz Niespodziany
 		</td>
@@ -12266,7 +12266,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>869</td>
 		<td>
 			<a target="_blank" href="https://github.com/coderitual">
-				<img src="https://private-avatars.githubusercontent.com/u/8572321?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUwNDAsIm5iZiI6MTczNDU3Mzg0MCwicGF0aCI6Ii91Lzg1NzIzMjEifQ.8SKHYBVf2otmp4VCRkj1fR5mCECihEGmb2jGsoM9USo&s=72&u=ce4a99fed147a57506c8e2b30cc5a8b24b926b52&v=4" width="24" alt="Avatar of coderitual"/> coderitual
+				<img src="https://private-avatars.githubusercontent.com/u/8572321?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE5NDAsIm5iZiI6MTczNDYxMDc0MCwicGF0aCI6Ii91Lzg1NzIzMjEifQ.zNLrT5GDdJrK_zhDteuIncF8ehHXhUeFf4LQzlc7CtY&s=72&u=ce4a99fed147a57506c8e2b30cc5a8b24b926b52&v=4" width="24" alt="Avatar of coderitual"/> coderitual
 			</a><br/>
 			Micha Skowronek
 		</td>
@@ -12280,7 +12280,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>870</td>
 		<td>
 			<a target="_blank" href="https://github.com/rexdex">
-				<img src="https://private-avatars.githubusercontent.com/u/8012205?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUwNDAsIm5iZiI6MTczNDU3Mzg0MCwicGF0aCI6Ii91LzgwMTIyMDUifQ.hilQjUINYeVa6dCGwWHheS5bXPrJ5jNm2iLgknlFN1M&s=72&u=6e62ca304de81a1ff5301f872c8bd79a83648233&v=4" width="24" alt="Avatar of rexdex"/> rexdex
+				<img src="https://private-avatars.githubusercontent.com/u/8012205?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTE5NDAsIm5iZiI6MTczNDYxMDc0MCwicGF0aCI6Ii91LzgwMTIyMDUifQ.oeX8mvXA600jIy1BxN0wYCE5T_bRljgqqC91Bh0Su78&s=72&u=6e62ca304de81a1ff5301f872c8bd79a83648233&v=4" width="24" alt="Avatar of rexdex"/> rexdex
 			</a><br/>
 			Rex Dex
 		</td>
@@ -12294,7 +12294,7 @@ There are `947 users`  in Poland. You need at least `74 followers` to be on this
 		<td>871</td>
 		<td>
 			<a target="_blank" href="https://github.com/korneliakobiela">
-				<img src="https://private-avatars.githubusercontent.com/u/18300603?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzUzNDAsIm5iZiI6MTczNDU3NDE0MCwicGF0aCI6Ii91LzE4MzAwNjAzIn0.VNocMAO_yiewGp36DME5UGk2cttfrjnGRiPWUBDQeDw&s=72&u=22be1ee6b1892f17a5289935c6f628f02625adf7&v=4" width="24" alt="Avatar of korneliakobiela"/> korneliakobiela
+				<img src="https://private-avatars.githubusercontent.com/u/18300603?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2MTIyNDAsIm5iZiI6MTczNDYxMTA0MCwicGF0aCI6Ii91LzE4MzAwNjAzIn0.vwwOtsA32uBUcAGLDY6ZvHJ0ZNLAoUtq2Y1hcydnAeM&s=72&u=22be1ee6b1892f17a5289935c6f628f02625adf7&v=4" width="24" alt="Avatar of korneliakobiela"/> korneliakobiela
 			</a><br/>
 			Kornelia Kobiela
 		</td>
