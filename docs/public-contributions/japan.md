@@ -10,11 +10,11 @@ description: Top GitHub Users By Public Contributions in Japan
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg" alt="Japan"/>
 </a>
 
-The `public contributions` by users in Japan on `2024/12/18 3:01 PM UTC`. This list contains users from Japan and cities Tokyo.
+The `public contributions` by users in Japan on `2024/12/19 1:13 AM UTC`. This list contains users from Japan and cities Tokyo.
 
 There are `19 countries` and `130 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
-There are `963 users`  in Japan. You need at least `187 followers` to be on this list.
+There are `963 users`  in Japan. You need at least `188 followers` to be on this list.
 
 <table>
 	<tr>
@@ -113,189 +113,189 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>1</td>
 		<td>
 			<a target="_blank" href="https://github.com/yuiseki">
-				<img src="https://private-avatars.githubusercontent.com/u/25507?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEzNDAsIm5iZiI6MTczNDQ2MDE0MCwicGF0aCI6Ii91LzI1NTA3In0.lyL0iuBYmj1uGGHsrLjr0PybH80QHA4aKR-s0Iqal0c&s=72&u=6aaa2ca06dc942e7e9afe7ee95d603318f6e4d3b&v=4" width="24" alt="Avatar of yuiseki"/> yuiseki
+				<img src="https://private-avatars.githubusercontent.com/u/25507?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzExNDAsIm5iZiI6MTczNDU2OTk0MCwicGF0aCI6Ii91LzI1NTA3In0.zz6PZ_f1BVjxQ_Wn7EPSjW4AwOmyQCfbGuiu730dgcg&s=72&u=6aaa2ca06dc942e7e9afe7ee95d603318f6e4d3b&v=4" width="24" alt="Avatar of yuiseki"/> yuiseki
 			</a><br/>
 			yuiseki
 		</td>
 		<td>Yuiseki Inc </td>
 		<td><a target="_blank" href="https://twitter.com/yuiseki_">yuiseki_</a></td>
 		<td>Taito Tokyo Japan</td>
-		<td>6990</td>
+		<td>6999</td>
 	</tr>
 	<tr>
 		<td>2</td>
 		<td>
 			<a target="_blank" href="https://github.com/taiki-e">
-				<img src="https://private-avatars.githubusercontent.com/u/43724913?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA3NDAsIm5iZiI6MTczNDQ1OTU0MCwicGF0aCI6Ii91LzQzNzI0OTEzIn0.sb5-NLopfjV5h8-nsfldahdJSipIl9Wne6uPFj6CnaE&s=72&v=4" width="24" alt="Avatar of taiki-e"/> taiki-e
+				<img src="https://private-avatars.githubusercontent.com/u/43724913?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA1NDAsIm5iZiI6MTczNDU2OTM0MCwicGF0aCI6Ii91LzQzNzI0OTEzIn0.FcSQ-DH0964ufCP69PI9jYPzUcTpUHQfR4HrFBpnTBE&s=72&v=4" width="24" alt="Avatar of taiki-e"/> taiki-e
 			</a><br/>
 			Taiki Endo
 		</td>
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/_taiki_e">_taiki_e</a></td>
 		<td>Japan</td>
-		<td>6599</td>
+		<td>6626</td>
 	</tr>
 	<tr>
 		<td>3</td>
 		<td>
 			<a target="_blank" href="https://github.com/shogo82148">
-				<img src="https://private-avatars.githubusercontent.com/u/1157344?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1MjAsIm5iZiI6MTczNDQ2MDMyMCwicGF0aCI6Ii91LzExNTczNDQifQ.FIijHNMsOzomL8vwl8i9o2BebLMpQXe_CJXR629C3l4&s=72&v=4" width="24" alt="Avatar of shogo82148"/> shogo82148
+				<img src="https://private-avatars.githubusercontent.com/u/1157344?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzMjAsIm5iZiI6MTczNDU3MDEyMCwicGF0aCI6Ii91LzExNTczNDQifQ.GzTJ0SBYQE4rtAEeo2aLm4RIyTzfFgBXe1cz16_f9l0&s=72&v=4" width="24" alt="Avatar of shogo82148"/> shogo82148
 			</a><br/>
 			ICHINOSE Shogo
 		</td>
 		<td>@fullerinc  </td>
 		<td><a target="_blank" href="https://twitter.com/shogo82148">shogo82148</a></td>
 		<td>Japan</td>
-		<td>6523</td>
+		<td>6567</td>
 	</tr>
 	<tr>
 		<td>4</td>
 		<td>
 			<a target="_blank" href="https://github.com/yuki-kimoto">
-				<img src="https://private-avatars.githubusercontent.com/u/81858?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3MDAsIm5iZiI6MTczNDQ2MDUwMCwicGF0aCI6Ii91LzgxODU4In0.1sjHYHjzTOvLb4TbwTum26mmd95-kl2xOJlgsYIHDds&s=72&v=4" width="24" alt="Avatar of yuki-kimoto"/> yuki-kimoto
+				<img src="https://private-avatars.githubusercontent.com/u/81858?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1MDAsIm5iZiI6MTczNDU3MDMwMCwicGF0aCI6Ii91LzgxODU4In0.lHmA8Yvq5-g8lDd-H29WhJL_4_64vUEetH1iIkL7z_U&s=72&v=4" width="24" alt="Avatar of yuki-kimoto"/> yuki-kimoto
 			</a><br/>
 			Yuki Kimoto
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>I live in Tokyo Japan I was born in Nara</td>
-		<td>6431</td>
+		<td>6498</td>
 	</tr>
 	<tr>
 		<td>5</td>
 		<td>
 			<a target="_blank" href="https://github.com/azu">
-				<img src="https://private-avatars.githubusercontent.com/u/19714?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA2MjAsIm5iZiI6MTczNDQ1OTQyMCwicGF0aCI6Ii91LzE5NzE0In0.ogfomIYHpo0sp3cTDho01r8OWxkFe7Y_WE78sorf8w4&s=72&u=c04e98ee399fac20feb795994a4e779bf64ad531&v=4" width="24" alt="Avatar of azu"/> azu
+				<img src="https://private-avatars.githubusercontent.com/u/19714?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA0MjAsIm5iZiI6MTczNDU2OTIyMCwicGF0aCI6Ii91LzE5NzE0In0.FPhGGF6L78Y2wCy3V7nZ56zjOuwZRMlNhhDr76zZeuU&s=72&u=c04e98ee399fac20feb795994a4e779bf64ad531&v=4" width="24" alt="Avatar of azu"/> azu
 			</a><br/>
 			azu
 		</td>
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/azu_re">azu_re</a></td>
 		<td>TokyoJapan</td>
-		<td>6148</td>
+		<td>6174</td>
 	</tr>
 	<tr>
 		<td>6</td>
 		<td>
 			<a target="_blank" href="https://github.com/j5ik2o">
-				<img src="https://private-avatars.githubusercontent.com/u/461711?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3MDAsIm5iZiI6MTczNDQ2MDUwMCwicGF0aCI6Ii91LzQ2MTcxMSJ9.02_4roFsJynfqkq7AU__wbgRdS92hPYgQnRubiJYHcA&s=72&v=4" width="24" alt="Avatar of j5ik2o"/> j5ik2o
+				<img src="https://private-avatars.githubusercontent.com/u/461711?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA2MDAsIm5iZiI6MTczNDU2OTQwMCwicGF0aCI6Ii91LzQ2MTcxMSJ9.ENDPbylQeLDtNSb_er76ZLwDojMZHULsH2mIAfNa-BQ&s=72&v=4" width="24" alt="Avatar of j5ik2o"/> j5ik2o
 			</a><br/>
 			Junichi Kato
 		</td>
 		<td>Chatwork Inc </td>
 		<td><a target="_blank" href="https://twitter.com/j5ik2o">j5ik2o</a></td>
 		<td>Arakawaku Tokyo Japan</td>
-		<td>6023</td>
+		<td>6047</td>
 	</tr>
 	<tr>
 		<td>7</td>
 		<td>
 			<a target="_blank" href="https://github.com/suzuki-shunsuke">
-				<img src="https://private-avatars.githubusercontent.com/u/13323303?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3NjAsIm5iZiI6MTczNDQ2MDU2MCwicGF0aCI6Ii91LzEzMzIzMzAzIn0.1loipNG58rwMXvKuBd69gT2gryYDYunXFVGyEQN1rNM&s=72&u=afedf0091bfd70a6a79c55f6aca781c94cb862f7&v=4" width="24" alt="Avatar of suzuki-shunsuke"/> suzuki-shunsuke
+				<img src="https://private-avatars.githubusercontent.com/u/13323303?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1NjAsIm5iZiI6MTczNDU3MDM2MCwicGF0aCI6Ii91LzEzMzIzMzAzIn0.7_jRAIA2uXdPWffWRv07hfxfWaS6JkLXQJKuDR2cr_o&s=72&u=afedf0091bfd70a6a79c55f6aca781c94cb862f7&v=4" width="24" alt="Avatar of suzuki-shunsuke"/> suzuki-shunsuke
 			</a><br/>
 			Shunsuke Suzuki
 		</td>
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/szkdash_en">szkdash_en</a></td>
 		<td>Tokyo Japan</td>
-		<td>5853</td>
+		<td>5864</td>
 	</tr>
 	<tr>
 		<td>8</td>
 		<td>
 			<a target="_blank" href="https://github.com/peppy">
-				<img src="https://private-avatars.githubusercontent.com/u/191335?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExMDAsIm5iZiI6MTczNDQ1OTkwMCwicGF0aCI6Ii91LzE5MTMzNSJ9.o93KeWKJ162JcaBwl7GJtYjNoZBvOUTegnCTvpAsxlU&s=72&u=f05638a32068429ed4ca4e75e5a8c3d08c77d1f1&v=4" width="24" alt="Avatar of peppy"/> peppy
+				<img src="https://private-avatars.githubusercontent.com/u/191335?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5MDAsIm5iZiI6MTczNDU2OTcwMCwicGF0aCI6Ii91LzE5MTMzNSJ9.Gx-yGH5Oo8PXCzEk5WY_oQcc8E6xSFd4oNW2-HRkDhM&s=72&u=f05638a32068429ed4ca4e75e5a8c3d08c77d1f1&v=4" width="24" alt="Avatar of peppy"/> peppy
 			</a><br/>
 			Dean Herbert
 		</td>
 		<td>@ppy  </td>
 		<td><a target="_blank" href="https://twitter.com/ppy">ppy</a></td>
 		<td>Japan</td>
-		<td>5719</td>
+		<td>5721</td>
 	</tr>
 	<tr>
 		<td>9</td>
 		<td>
 			<a target="_blank" href="https://github.com/kishikawakatsumi">
-				<img src="https://private-avatars.githubusercontent.com/u/40610?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyODAsIm5iZiI6MTczNDQ2MDA4MCwicGF0aCI6Ii91LzQwNjEwIn0.Rrx7CuYMifTRMSt2vRgVYvYaGL8ic4DCEwmtRKLzxRA&s=72&u=cabf5e7f214ecac0efcd3fbf04ff773ad45d5ed7&v=4" width="24" alt="Avatar of kishikawakatsumi"/> kishikawakatsumi
+				<img src="https://private-avatars.githubusercontent.com/u/40610?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwODAsIm5iZiI6MTczNDU2OTg4MCwicGF0aCI6Ii91LzQwNjEwIn0.0kKAkGt8rDX-coTukUEWLapVPQrpa6qvuhqCCXfGM8k&s=72&u=cabf5e7f214ecac0efcd3fbf04ff773ad45d5ed7&v=4" width="24" alt="Avatar of kishikawakatsumi"/> kishikawakatsumi
 			</a><br/>
 			Kishikawa Katsumi
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Tokyo</td>
-		<td>5394</td>
+		<td>5403</td>
 	</tr>
 	<tr>
 		<td>10</td>
 		<td>
 			<a target="_blank" href="https://github.com/sue445">
-				<img src="https://private-avatars.githubusercontent.com/u/608755?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEzNDAsIm5iZiI6MTczNDQ2MDE0MCwicGF0aCI6Ii91LzYwODc1NSJ9.MS2ulkRV_G9lt922QwkgRkzWaIT50gmi0dAqx7gh2eo&s=72&v=4" width="24" alt="Avatar of sue445"/> sue445
+				<img src="https://private-avatars.githubusercontent.com/u/608755?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzExNDAsIm5iZiI6MTczNDU2OTk0MCwicGF0aCI6Ii91LzYwODc1NSJ9.zifqCdzUXbh3j6cTJ6RujcuDnXB_wKkH4Hw1_M4TF_w&s=72&v=4" width="24" alt="Avatar of sue445"/> sue445
 			</a><br/>
 			Go Sueyoshi
 		</td>
 		<td>@pixiv  </td>
 		<td><a target="_blank" href="https://twitter.com/sue445">sue445</a></td>
 		<td>Japan</td>
-		<td>5257</td>
+		<td>5273</td>
 	</tr>
 	<tr>
 		<td>11</td>
 		<td>
 			<a target="_blank" href="https://github.com/tkoyama010">
-				<img src="https://private-avatars.githubusercontent.com/u/7513610?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1ODAsIm5iZiI6MTczNDQ2MDM4MCwicGF0aCI6Ii91Lzc1MTM2MTAifQ.zxqKP7M2bY99_W7eTxGhPeOcRfJnFzSJuegA931K6ps&s=72&u=f85d294c57592927aa3d995b9c9b5c27be757435&v=4" width="24" alt="Avatar of tkoyama010"/> tkoyama010
+				<img src="https://private-avatars.githubusercontent.com/u/7513610?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzODAsIm5iZiI6MTczNDU3MDE4MCwicGF0aCI6Ii91Lzc1MTM2MTAifQ.mXnlBGBenKLafBfascmLSZBMaylhKd6bZwGK-mUUKe0&s=72&u=f85d294c57592927aa3d995b9c9b5c27be757435&v=4" width="24" alt="Avatar of tkoyama010"/> tkoyama010
 			</a><br/>
 			Tetsuo Koyama
 		</td>
 		<td>@arkinfosys @numfocus  </td>
 		<td><a target="_blank" href="https://twitter.com/tkoyama010">tkoyama010</a></td>
 		<td>Japan</td>
-		<td>5156</td>
+		<td>5160</td>
 	</tr>
 	<tr>
 		<td>12</td>
 		<td>
 			<a target="_blank" href="https://github.com/AkihiroSuda">
-				<img src="https://private-avatars.githubusercontent.com/u/9248427?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEwNDAsIm5iZiI6MTczNDQ1OTg0MCwicGF0aCI6Ii91LzkyNDg0MjcifQ.Pl0U2yiAdEgPqE0_Ta0Y5E4yxyNkLZU3D2NIGVFGBFY&s=72&v=4" width="24" alt="Avatar of AkihiroSuda"/> AkihiroSuda
+				<img src="https://private-avatars.githubusercontent.com/u/9248427?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA4NDAsIm5iZiI6MTczNDU2OTY0MCwicGF0aCI6Ii91LzkyNDg0MjcifQ.PbN8HOxn0emD7u7KztO4xj_u84h8eUeAzOt4YpMKVDQ&s=72&v=4" width="24" alt="Avatar of AkihiroSuda"/> AkihiroSuda
 			</a><br/>
 			Akihiro Suda
 		</td>
 		<td>Ntt </td>
 		<td><a target="_blank" href="https://twitter.com/_AkihiroSuda_">_AkihiroSuda_</a></td>
 		<td>Tokyo Japan</td>
-		<td>4844</td>
+		<td>4871</td>
 	</tr>
 	<tr>
 		<td>13</td>
 		<td>
 			<a target="_blank" href="https://github.com/bobbens">
-				<img src="https://private-avatars.githubusercontent.com/u/54677?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA5ODAsIm5iZiI6MTczNDQ1OTc4MCwicGF0aCI6Ii91LzU0Njc3In0.tEXaBVM0o6fWQYnoNFJfafVx6pJ-GBysk930WyN-Sus&s=72&v=4" width="24" alt="Avatar of bobbens"/> bobbens
+				<img src="https://private-avatars.githubusercontent.com/u/54677?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA3ODAsIm5iZiI6MTczNDU2OTU4MCwicGF0aCI6Ii91LzU0Njc3In0.IGv6tgGmLUu5KfvzhEgXfyho6iR3ygScq9h66voC6Uc&s=72&v=4" width="24" alt="Avatar of bobbens"/> bobbens
 			</a><br/>
 			Edgar SimoSerra
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Japan</td>
-		<td>4321</td>
+		<td>4330</td>
 	</tr>
 	<tr>
 		<td>14</td>
 		<td>
 			<a target="_blank" href="https://github.com/kou">
-				<img src="https://private-avatars.githubusercontent.com/u/27350?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExNjAsIm5iZiI6MTczNDQ1OTk2MCwicGF0aCI6Ii91LzI3MzUwIn0.fBrPn2dSSX-SYvK507ck-mKFypiEbiYVJxbICpYzHRc&s=72&v=4" width="24" alt="Avatar of kou"/> kou
+				<img src="https://private-avatars.githubusercontent.com/u/27350?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5NjAsIm5iZiI6MTczNDU2OTc2MCwicGF0aCI6Ii91LzI3MzUwIn0.-Sy-H4wPoSrVAOItoh4Puzko9MykYjw5J3w5BnQhNBk&s=72&v=4" width="24" alt="Avatar of kou"/> kou
 			</a><br/>
 			Sutou Kouhei
 		</td>
 		<td>@clearcode </td>
 		<td>No Twitter Username</td>
 		<td>Tokyo Japan</td>
-		<td>4277</td>
+		<td>4304</td>
 	</tr>
 	<tr>
 		<td>15</td>
 		<td>
 			<a target="_blank" href="https://github.com/making">
-				<img src="https://private-avatars.githubusercontent.com/u/106908?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExMDAsIm5iZiI6MTczNDQ1OTkwMCwicGF0aCI6Ii91LzEwNjkwOCJ9.iKANUIKnbf8vIWkJzfsl6h5sXwFLGAsaeRkDulk1EVM&s=72&u=6875312cf841e0b864372536048c51cc2a8e99ed&v=4" width="24" alt="Avatar of making"/> making
+				<img src="https://private-avatars.githubusercontent.com/u/106908?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5MDAsIm5iZiI6MTczNDU2OTcwMCwicGF0aCI6Ii91LzEwNjkwOCJ9.e6c7EtDGI1FF5oxyObsXqnP1OHErryW2pcYsJjcEf4k&s=72&u=6875312cf841e0b864372536048c51cc2a8e99ed&v=4" width="24" alt="Avatar of making"/> making
 			</a><br/>
 			Toshiaki Maki
 		</td>
@@ -308,20 +308,20 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>16</td>
 		<td>
 			<a target="_blank" href="https://github.com/hakatashi">
-				<img src="https://private-avatars.githubusercontent.com/u/3126484?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE4ODAsIm5iZiI6MTczNDQ2MDY4MCwicGF0aCI6Ii91LzMxMjY0ODQifQ.ySr212Gs2GAIcNyGLhAJzPa-Ii8wB9DOxqjSN5e6t_k&s=72&u=deb53d253c262c76a4ada397013ca522e5b04193&v=4" width="24" alt="Avatar of hakatashi"/> hakatashi
+				<img src="https://private-avatars.githubusercontent.com/u/3126484?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE2ODAsIm5iZiI6MTczNDU3MDQ4MCwicGF0aCI6Ii91LzMxMjY0ODQifQ.54X-ZNTnB01s2Yez0YpGzPyJnqg1B1nVGqLRYu277sc&s=72&u=deb53d253c262c76a4ada397013ca522e5b04193&v=4" width="24" alt="Avatar of hakatashi"/> hakatashi
 			</a><br/>
 			Koki Takahashi
 		</td>
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/hakatashi">hakatashi</a></td>
 		<td>Chiba Japan</td>
-		<td>3939</td>
+		<td>3947</td>
 	</tr>
 	<tr>
 		<td>17</td>
 		<td>
 			<a target="_blank" href="https://github.com/miyako">
-				<img src="https://private-avatars.githubusercontent.com/u/1725068?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE4MjAsIm5iZiI6MTczNDQ2MDYyMCwicGF0aCI6Ii91LzE3MjUwNjgifQ.irt5N31d7ZCSQjP3BLYU9YugfxsX8Pa2Ly73ymZjOWI&s=72&u=d2de046a146dd39e27629b23617cee60cf094524&v=4" width="24" alt="Avatar of miyako"/> miyako
+				<img src="https://private-avatars.githubusercontent.com/u/1725068?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE2MjAsIm5iZiI6MTczNDU3MDQyMCwicGF0aCI6Ii91LzE3MjUwNjgifQ.G7iAA9g8_jYHSjZqgbp-s9z3TmTRVGEs8Brbaae23r4&s=72&u=d2de046a146dd39e27629b23617cee60cf094524&v=4" width="24" alt="Avatar of miyako"/> miyako
 			</a><br/>
 			Keisuke Miyako
 		</td>
@@ -334,98 +334,98 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>18</td>
 		<td>
 			<a target="_blank" href="https://github.com/hsbt">
-				<img src="https://private-avatars.githubusercontent.com/u/12301?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEzNDAsIm5iZiI6MTczNDQ2MDE0MCwicGF0aCI6Ii91LzEyMzAxIn0.i8tTo3JYKjiCj0GffLkcpxtp_ZfzYpVPMif-ZiGacJU&s=72&u=ff463d5b4856759aeb902725ad89b4392442077d&v=4" width="24" alt="Avatar of hsbt"/> hsbt
+				<img src="https://private-avatars.githubusercontent.com/u/12301?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzExNDAsIm5iZiI6MTczNDU2OTk0MCwicGF0aCI6Ii91LzEyMzAxIn0.KKQd81zJOoWlKsehaLsoXaNrz4uycQeC6LPC6N5veQ8&s=72&u=ff463d5b4856759aeb902725ad89b4392442077d&v=4" width="24" alt="Avatar of hsbt"/> hsbt
 			</a><br/>
 			Hiroshi SHIBATA
 		</td>
 		<td>@ruby @rubygems @rbenv @88labs<br/>@andpaddev<br/></td>
 		<td><a target="_blank" href="https://twitter.com/hsbt">hsbt</a></td>
 		<td>Tokyo Japan</td>
-		<td>3834</td>
+		<td>3858</td>
 	</tr>
 	<tr>
 		<td>19</td>
 		<td>
 			<a target="_blank" href="https://github.com/toastkidjp">
-				<img src="https://private-avatars.githubusercontent.com/u/15980475?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyMjAsIm5iZiI6MTczNDQ2MDAyMCwicGF0aCI6Ii91LzE1OTgwNDc1In0.HWJ2Id1edtj5gup7k6StAzQceZ2sAVsWYu3vWjqlElQ&s=72&u=4de19096b98ca76ea4ddc2cd80664bdabb05f2ee&v=4" width="24" alt="Avatar of toastkidjp"/> toastkidjp
+				<img src="https://private-avatars.githubusercontent.com/u/15980475?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwMjAsIm5iZiI6MTczNDU2OTgyMCwicGF0aCI6Ii91LzE1OTgwNDc1In0.wjFHB9MuWx26Xn7E9UPADWGz7It08vQrgtYf-9_YkXc&s=72&u=4de19096b98ca76ea4ddc2cd80664bdabb05f2ee&v=4" width="24" alt="Avatar of toastkidjp"/> toastkidjp
 			</a><br/>
 			Toast kid
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Toride city Japan</td>
-		<td>3659</td>
+		<td>3660</td>
 	</tr>
 	<tr>
 		<td>20</td>
 		<td>
 			<a target="_blank" href="https://github.com/hi-ogawa">
-				<img src="https://private-avatars.githubusercontent.com/u/4232207?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEzNDAsIm5iZiI6MTczNDQ2MDE0MCwicGF0aCI6Ii91LzQyMzIyMDcifQ.XCB7LiNJnnXj_EsGJneX7CU3_P8qHCI_vaWyIKB2P_8&s=72&u=2a0209fe447c92640dba5d94419074dcfe5fce1e&v=4" width="24" alt="Avatar of hi-ogawa"/> hi-ogawa
+				<img src="https://private-avatars.githubusercontent.com/u/4232207?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzExNDAsIm5iZiI6MTczNDU2OTk0MCwicGF0aCI6Ii91LzQyMzIyMDcifQ.SnHvt51TqsWBVSDlfB16dzK2j947YXUXFNFje497BSc&s=72&u=2a0209fe447c92640dba5d94419074dcfe5fce1e&v=4" width="24" alt="Avatar of hi-ogawa"/> hi-ogawa
 			</a><br/>
 			Hiroshi Ogawa
 		</td>
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/hiroshi_18181">hiroshi_18181</a></td>
 		<td>Japan</td>
-		<td>3578</td>
+		<td>3581</td>
 	</tr>
 	<tr>
 		<td>21</td>
 		<td>
 			<a target="_blank" href="https://github.com/k1LoW">
-				<img src="https://private-avatars.githubusercontent.com/u/57114?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA5MjAsIm5iZiI6MTczNDQ1OTcyMCwicGF0aCI6Ii91LzU3MTE0In0.w_7eCn4Y8RkM5SfFDVVVQCYwtVVIZZHOpYtTm_Ex_Jg&s=72&u=5522499f6546a5c8307460a18653178b6b454780&v=4" width="24" alt="Avatar of k1LoW"/> k1LoW
+				<img src="https://private-avatars.githubusercontent.com/u/57114?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA3MjAsIm5iZiI6MTczNDU2OTUyMCwicGF0aCI6Ii91LzU3MTE0In0.-_UCN2fcsKw7GxPKireNGTw1nKlij2wJ6wtItevlINA&s=72&u=5522499f6546a5c8307460a18653178b6b454780&v=4" width="24" alt="Avatar of k1LoW"/> k1LoW
 			</a><br/>
 			Kenichiro Oyama
 		</td>
 		<td>@pepabo  101000code <br/>101000lab<br/></td>
 		<td><a target="_blank" href="https://twitter.com/k1LoW">k1LoW</a></td>
 		<td>Fukuoka JAPAN</td>
-		<td>3529</td>
+		<td>3535</td>
 	</tr>
 	<tr>
 		<td>22</td>
 		<td>
 			<a target="_blank" href="https://github.com/kt3k">
-				<img src="https://private-avatars.githubusercontent.com/u/613956?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0NjAsIm5iZiI6MTczNDQ2MDI2MCwicGF0aCI6Ii91LzYxMzk1NiJ9.BetnK2tSwZMtVu9ehAZFRlO-8E8_2iWhHQoxVGp3x00&s=72&u=34a0122679ee26a9c099445e807b800d6f52341b&v=4" width="24" alt="Avatar of kt3k"/> kt3k
+				<img src="https://private-avatars.githubusercontent.com/u/613956?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyNjAsIm5iZiI6MTczNDU3MDA2MCwicGF0aCI6Ii91LzYxMzk1NiJ9.KF2LbHiMHysqKJPleCtOmN3to2Z_HMsDyZcnvFZF_Vo&s=72&u=34a0122679ee26a9c099445e807b800d6f52341b&v=4" width="24" alt="Avatar of kt3k"/> kt3k
 			</a><br/>
 			Yoshiya Hinosawa
 		</td>
 		<td>@denoland </td>
 		<td>No Twitter Username</td>
 		<td>Tokyo Japan</td>
-		<td>3467</td>
+		<td>3472</td>
 	</tr>
 	<tr>
 		<td>23</td>
 		<td>
 			<a target="_blank" href="https://github.com/xuwei-k">
-				<img src="https://private-avatars.githubusercontent.com/u/389787?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0NjAsIm5iZiI6MTczNDQ2MDI2MCwicGF0aCI6Ii91LzM4OTc4NyJ9.0DanZWG0p-risZw4a-tckKRYwNgRMRczo8NaU4omGRg&s=72&u=22e5eca939aaa26cb191c9ec03b328945f97c8ac&v=4" width="24" alt="Avatar of xuwei-k"/> xuwei-k
+				<img src="https://private-avatars.githubusercontent.com/u/389787?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyNjAsIm5iZiI6MTczNDU3MDA2MCwicGF0aCI6Ii91LzM4OTc4NyJ9.yEsaaeEM5Kaov3cfP2mBnk59_0EFazJQVsnygf_RsiI&s=72&u=22e5eca939aaa26cb191c9ec03b328945f97c8ac&v=4" width="24" alt="Avatar of xuwei-k"/> xuwei-k
 			</a><br/>
 			kenji yoshida
 		</td>
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/xuwei_k">xuwei_k</a></td>
 		<td>Tokyo</td>
-		<td>3434</td>
+		<td>3458</td>
 	</tr>
 	<tr>
 		<td>24</td>
 		<td>
 			<a target="_blank" href="https://github.com/kateinoigakukun">
-				<img src="https://private-avatars.githubusercontent.com/u/11702759?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEzNDAsIm5iZiI6MTczNDQ2MDE0MCwicGF0aCI6Ii91LzExNzAyNzU5In0.YjCmODrq0vhnL4pGvrf7QB97x0a09TkRFr0c7lbKiYU&s=72&u=dff3cad9a385fbdb8e9b6bd9a34a7a4864888189&v=4" width="24" alt="Avatar of kateinoigakukun"/> kateinoigakukun
+				<img src="https://private-avatars.githubusercontent.com/u/11702759?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzExNDAsIm5iZiI6MTczNDU2OTk0MCwicGF0aCI6Ii91LzExNzAyNzU5In0.8PDpRzwV2njifuKMVZ6yyRy7dhI342XOgVZzC1FXrFk&s=72&u=dff3cad9a385fbdb8e9b6bd9a34a7a4864888189&v=4" width="24" alt="Avatar of kateinoigakukun"/> kateinoigakukun
 			</a><br/>
 			Yuta Saito
 		</td>
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/kateinoigakukun">kateinoigakukun</a></td>
 		<td>Tokyo</td>
-		<td>3382</td>
+		<td>3397</td>
 	</tr>
 	<tr>
 		<td>25</td>
 		<td>
 			<a target="_blank" href="https://github.com/winebarrel">
-				<img src="https://private-avatars.githubusercontent.com/u/117768?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1MjAsIm5iZiI6MTczNDQ2MDMyMCwicGF0aCI6Ii91LzExNzc2OCJ9.kq-ppj9aZ2gIeqFgxqarwpaKZyjfKCXiFNp_cOuCZyg&s=72&u=170e742c9da64b18fbdb676bfb644bb994695a28&v=4" width="24" alt="Avatar of winebarrel"/> winebarrel
+				<img src="https://private-avatars.githubusercontent.com/u/117768?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzMjAsIm5iZiI6MTczNDU3MDEyMCwicGF0aCI6Ii91LzExNzc2OCJ9.YhuPEUoP53lS_xa8Gk13To-y0NlGR1bsp2RAoSdkiqQ&s=72&u=170e742c9da64b18fbdb676bfb644bb994695a28&v=4" width="24" alt="Avatar of winebarrel"/> winebarrel
 			</a><br/>
 			Genki Sugawara
 		</td>
@@ -438,20 +438,20 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>26</td>
 		<td>
 			<a target="_blank" href="https://github.com/harupy">
-				<img src="https://private-avatars.githubusercontent.com/u/17039389?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjIwNjAsIm5iZiI6MTczNDQ2MDg2MCwicGF0aCI6Ii91LzE3MDM5Mzg5In0.UD-zAGqvTEMoo6FYuRuI7UkxKjCSAJZxBwzybj2eyWY&s=72&u=796226152becf82c4d7fd5cc49a24e58a73ce66f&v=4" width="24" alt="Avatar of harupy"/> harupy
+				<img src="https://private-avatars.githubusercontent.com/u/17039389?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE4NjAsIm5iZiI6MTczNDU3MDY2MCwicGF0aCI6Ii91LzE3MDM5Mzg5In0.HsoG2w1hQGtwM_DKMgPwPBp443Ony7bWCDPQHJbLW-Q&s=72&u=796226152becf82c4d7fd5cc49a24e58a73ce66f&v=4" width="24" alt="Avatar of harupy"/> harupy
 			</a><br/>
 			Harutaka Kawamura
 		</td>
 		<td>@databricks </td>
 		<td>No Twitter Username</td>
 		<td>Japan</td>
-		<td>3302</td>
+		<td>3312</td>
 	</tr>
 	<tr>
 		<td>27</td>
 		<td>
 			<a target="_blank" href="https://github.com/sorairolake">
-				<img src="https://private-avatars.githubusercontent.com/u/48999343?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE4MjAsIm5iZiI6MTczNDQ2MDYyMCwicGF0aCI6Ii91LzQ4OTk5MzQzIn0.NvFft2VMUHEPwfGOQoKDbxc1q8LRGaSwcnl-F5yp7j8&s=72&u=09c033fd197c0071c112b3d0a1ca0431b1a411f5&v=4" width="24" alt="Avatar of sorairolake"/> sorairolake
+				<img src="https://private-avatars.githubusercontent.com/u/48999343?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE2MjAsIm5iZiI6MTczNDU3MDQyMCwicGF0aCI6Ii91LzQ4OTk5MzQzIn0.KfYZ1JAM1Xhy6UoORPAuRtQtyS-sTeAX_WrewEsKuk8&s=72&u=09c033fd197c0071c112b3d0a1ca0431b1a411f5&v=4" width="24" alt="Avatar of sorairolake"/> sorairolake
 			</a><br/>
 			Shun Sakai
 		</td>
@@ -463,34 +463,34 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 	<tr>
 		<td>28</td>
 		<td>
-			<a target="_blank" href="https://github.com/yasulab">
-				<img src="https://private-avatars.githubusercontent.com/u/155807?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE4ODAsIm5iZiI6MTczNDQ2MDY4MCwicGF0aCI6Ii91LzE1NTgwNyJ9.BqsGjDp6fp6adWR8V5WUti2NN1Ip-3lWHo3iGRFcQew&s=72&u=0a39836834c1975e765900bff39dcdaa96ad658b&v=4" width="24" alt="Avatar of yasulab"/> yasulab
-			</a><br/>
-			Yohei Yasukawa
-		</td>
-		<td>@yasslab Inc </td>
-		<td><a target="_blank" href="https://twitter.com/yasulab">yasulab</a></td>
-		<td>CASE Shinjuku Tokyo Japan</td>
-		<td>3109</td>
-	</tr>
-	<tr>
-		<td>29</td>
-		<td>
 			<a target="_blank" href="https://github.com/nobuyuki83">
-				<img src="https://private-avatars.githubusercontent.com/u/40525402?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1MjAsIm5iZiI6MTczNDQ2MDMyMCwicGF0aCI6Ii91LzQwNTI1NDAyIn0.DyHlMadWzLh6SLL5H7W4xWRzSaHRtZZfWFr-6YT_q0Y&s=72&u=9abbadf7a1ed10b641a2ceaecd06662f520232db&v=4" width="24" alt="Avatar of nobuyuki83"/> nobuyuki83
+				<img src="https://private-avatars.githubusercontent.com/u/40525402?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzMjAsIm5iZiI6MTczNDU3MDEyMCwicGF0aCI6Ii91LzQwNTI1NDAyIn0.U2NwQIoHLDBrGvCS-ha2C_3EVyCNAD9SozEfp7v6iQk&s=72&u=9abbadf7a1ed10b641a2ceaecd06662f520232db&v=4" width="24" alt="Avatar of nobuyuki83"/> nobuyuki83
 			</a><br/>
 			Nobuyuki Umetani
 		</td>
 		<td>The University Of Tokyo<br/></td>
 		<td>No Twitter Username</td>
 		<td>Tokyo</td>
-		<td>3105</td>
+		<td>3117</td>
+	</tr>
+	<tr>
+		<td>29</td>
+		<td>
+			<a target="_blank" href="https://github.com/yasulab">
+				<img src="https://private-avatars.githubusercontent.com/u/155807?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA3ODAsIm5iZiI6MTczNDU2OTU4MCwicGF0aCI6Ii91LzE1NTgwNyJ9.tVYFktN7qXKqBR0BNPFCmQZu8Bz5sUbHIajqns9qIpc&s=72&u=0a39836834c1975e765900bff39dcdaa96ad658b&v=4" width="24" alt="Avatar of yasulab"/> yasulab
+			</a><br/>
+			Yohei Yasukawa
+		</td>
+		<td>@yasslab Inc </td>
+		<td><a target="_blank" href="https://twitter.com/yasulab">yasulab</a></td>
+		<td>CASE Shinjuku Tokyo Japan</td>
+		<td>3113</td>
 	</tr>
 	<tr>
 		<td>30</td>
 		<td>
 			<a target="_blank" href="https://github.com/YumNumm">
-				<img src="https://private-avatars.githubusercontent.com/u/73390859?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjIwNjAsIm5iZiI6MTczNDQ2MDg2MCwicGF0aCI6Ii91LzczMzkwODU5In0.3kXVFJwssHWmtEj05iFgNyCTx6cenMj-fyQXSYTOHeQ&s=72&u=0973e1d114ec2094bd6b881440dce25526ef89a3&v=4" width="24" alt="Avatar of YumNumm"/> YumNumm
+				<img src="https://private-avatars.githubusercontent.com/u/73390859?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5NjAsIm5iZiI6MTczNDU2OTc2MCwicGF0aCI6Ii91LzczMzkwODU5In0.zFtXO_iy_CkCxH32mqw2OFPBSPlXfbWG5Z8XK6SqFmw&s=72&u=0973e1d114ec2094bd6b881440dce25526ef89a3&v=4" width="24" alt="Avatar of YumNumm"/> YumNumm
 			</a><br/>
 			Ryotaro Onoue
 		</td>
@@ -503,7 +503,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>31</td>
 		<td>
 			<a target="_blank" href="https://github.com/kenjis">
-				<img src="https://private-avatars.githubusercontent.com/u/87955?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEwNDAsIm5iZiI6MTczNDQ1OTg0MCwicGF0aCI6Ii91Lzg3OTU1In0.iYKa4HOSD6o6jb8utxngCNJl9pL6kjH_61ZQgKAOxP0&s=72&v=4" width="24" alt="Avatar of kenjis"/> kenjis
+				<img src="https://private-avatars.githubusercontent.com/u/87955?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA4NDAsIm5iZiI6MTczNDU2OTY0MCwicGF0aCI6Ii91Lzg3OTU1In0.HE5fdEbVBKJcbDxb19mcIATcK56xHBA_BIoUDJBzT-Y&s=72&v=4" width="24" alt="Avatar of kenjis"/> kenjis
 			</a><br/>
 			kenjis
 		</td>
@@ -516,33 +516,33 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>32</td>
 		<td>
 			<a target="_blank" href="https://github.com/koriym">
-				<img src="https://private-avatars.githubusercontent.com/u/529021?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjIwNjAsIm5iZiI6MTczNDQ2MDg2MCwicGF0aCI6Ii91LzUyOTAyMSJ9.LInLueOwdht32FKJWE-YqKkmbznlXROha6xQW_AuvGc&s=72&u=2a4508c430e9f163eba4f64f0c181aa8e0083c5d&v=4" width="24" alt="Avatar of koriym"/> koriym
+				<img src="https://private-avatars.githubusercontent.com/u/529021?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5NjAsIm5iZiI6MTczNDU2OTc2MCwicGF0aCI6Ii91LzUyOTAyMSJ9.6jR8qIF8lpIg2Pk3LRiTNRZyhswGL1f9o8j27nXix9c&s=72&u=2a4508c430e9f163eba4f64f0c181aa8e0083c5d&v=4" width="24" alt="Avatar of koriym"/> koriym
 			</a><br/>
 			Akihito Koriyama
 		</td>
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/koriym">koriym</a></td>
 		<td>Tokyo Japan</td>
-		<td>3049</td>
+		<td>3061</td>
 	</tr>
 	<tr>
 		<td>33</td>
 		<td>
 			<a target="_blank" href="https://github.com/tmori">
-				<img src="https://private-avatars.githubusercontent.com/u/164193?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjIxODAsIm5iZiI6MTczNDQ2MDk4MCwicGF0aCI6Ii91LzE2NDE5MyJ9.zPJaEaOVS2rx6I5ZwEZlRqVwm979tvkRunBLJVgBjtA&s=72&u=2fca920bb782e64f71a5629ddae36b9665d86ff9&v=4" width="24" alt="Avatar of tmori"/> tmori
+				<img src="https://private-avatars.githubusercontent.com/u/164193?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwODAsIm5iZiI6MTczNDU2OTg4MCwicGF0aCI6Ii91LzE2NDE5MyJ9.ajbM2UQ75EQivwRmRDsB-vR9aQOK2clmXW-O6t2yKNk&s=72&u=2fca920bb782e64f71a5629ddae36b9665d86ff9&v=4" width="24" alt="Avatar of tmori"/> tmori
 			</a><br/>
 			Takashi Mori
 		</td>
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/kanetugu2020">kanetugu2020</a></td>
 		<td>Fukui Japan</td>
-		<td>3035</td>
+		<td>3038</td>
 	</tr>
 	<tr>
 		<td>34</td>
 		<td>
 			<a target="_blank" href="https://github.com/yanorei32">
-				<img src="https://private-avatars.githubusercontent.com/u/11992915?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE2NDAsIm5iZiI6MTczNDQ2MDQ0MCwicGF0aCI6Ii91LzExOTkyOTE1In0.IxH2gSTb_wVTJk9twp9PuV_cFkxOtpkQXgslSjfl_J0&s=72&u=1913e81d958485a14e7131fb6828659298240175&v=4" width="24" alt="Avatar of yanorei32"/> yanorei32
+				<img src="https://private-avatars.githubusercontent.com/u/11992915?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE0NDAsIm5iZiI6MTczNDU3MDI0MCwicGF0aCI6Ii91LzExOTkyOTE1In0.gOF6l6auNJm9Rrg81QRuAjOt4cDnkxjeCra28SlfCSE&s=72&u=1913e81d958485a14e7131fb6828659298240175&v=4" width="24" alt="Avatar of yanorei32"/> yanorei32
 			</a><br/>
 			Ray Yano  
 		</td>
@@ -555,7 +555,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>35</td>
 		<td>
 			<a target="_blank" href="https://github.com/ryota-murakami">
-				<img src="https://private-avatars.githubusercontent.com/u/5501268?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA5ODAsIm5iZiI6MTczNDQ1OTc4MCwicGF0aCI6Ii91LzU1MDEyNjgifQ.1px4DENAPVrnc7AIpnzqu7Wi8vLC2BUT1GfjhfqH0C0&s=72&u=599389e03340734325726ca3f8f423c021d47d7f&v=4" width="24" alt="Avatar of ryota-murakami"/> ryota-murakami
+				<img src="https://private-avatars.githubusercontent.com/u/5501268?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA3ODAsIm5iZiI6MTczNDU2OTU4MCwicGF0aCI6Ii91LzU1MDEyNjgifQ.YcVmkxwrVAzna_RXMNQh17oS9vM1VluwUQKTdJsB890&s=72&u=599389e03340734325726ca3f8f423c021d47d7f&v=4" width="24" alt="Avatar of ryota-murakami"/> ryota-murakami
 			</a><br/>
 			Ryota Murakami
 		</td>
@@ -568,72 +568,72 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>36</td>
 		<td>
 			<a target="_blank" href="https://github.com/yutkat">
-				<img src="https://private-avatars.githubusercontent.com/u/8683947?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyODAsIm5iZiI6MTczNDQ2MDA4MCwicGF0aCI6Ii91Lzg2ODM5NDcifQ.j4NMwmZaTWMHm4Ry3JGv2x2u4l0nFmciG58ULLrAvkE&s=72&u=c9e8629a2414157cdf3c7a9f354a4c457daf3b5f&v=4" width="24" alt="Avatar of yutkat"/> yutkat
+				<img src="https://private-avatars.githubusercontent.com/u/8683947?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwODAsIm5iZiI6MTczNDU2OTg4MCwicGF0aCI6Ii91Lzg2ODM5NDcifQ.yReg6yzwvsePjjX9yMybkG70W0KVp-K7Uk-THb-S77I&s=72&u=c9e8629a2414157cdf3c7a9f354a4c457daf3b5f&v=4" width="24" alt="Avatar of yutkat"/> yutkat
 			</a><br/>
 			Yuta Katayama
 		</td>
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/yutkat">yutkat</a></td>
 		<td>Tokyo Japan</td>
-		<td>2895</td>
+		<td>2899</td>
 	</tr>
 	<tr>
 		<td>37</td>
 		<td>
 			<a target="_blank" href="https://github.com/yusukebe">
-				<img src="https://private-avatars.githubusercontent.com/u/10682?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA3NDAsIm5iZiI6MTczNDQ1OTU0MCwicGF0aCI6Ii91LzEwNjgyIn0.RJM6gPd4iwxrZ5RUbguFyRFLdtLYX8i63rUNmAnrK58&s=72&u=e25e17b3626c5ed31c5304a9539cff96dd36e7d1&v=4" width="24" alt="Avatar of yusukebe"/> yusukebe
+				<img src="https://private-avatars.githubusercontent.com/u/10682?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA1NDAsIm5iZiI6MTczNDU2OTM0MCwicGF0aCI6Ii91LzEwNjgyIn0.sj4ncFrztRELvLAELVW26zxBdp2z0ttNTpPWqkjHK1A&s=72&u=e25e17b3626c5ed31c5304a9539cff96dd36e7d1&v=4" width="24" alt="Avatar of yusukebe"/> yusukebe
 			</a><br/>
 			Yusuke Wada
 		</td>
 		<td>@cloudflare </td>
 		<td><a target="_blank" href="https://twitter.com/yusukebe">yusukebe</a></td>
 		<td>Kanagawa Japan</td>
-		<td>2835</td>
+		<td>2838</td>
 	</tr>
 	<tr>
 		<td>38</td>
 		<td>
 			<a target="_blank" href="https://github.com/sile">
-				<img src="https://private-avatars.githubusercontent.com/u/181413?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA5ODAsIm5iZiI6MTczNDQ1OTc4MCwicGF0aCI6Ii91LzE4MTQxMyJ9.AlP0M5ZjNACg1VPeuJJo3Hys1DFQ5Dmfwaw9E2ZVnSA&s=72&u=ff87b15dfc1bed8391aac79368466e6b4964a49d&v=4" width="24" alt="Avatar of sile"/> sile
+				<img src="https://private-avatars.githubusercontent.com/u/181413?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA3ODAsIm5iZiI6MTczNDU2OTU4MCwicGF0aCI6Ii91LzE4MTQxMyJ9.CDWcJdNFMU5O-cbg9HM93QZpgjWzeuvM16kMgcusk34&s=72&u=ff87b15dfc1bed8391aac79368466e6b4964a49d&v=4" width="24" alt="Avatar of sile"/> sile
 			</a><br/>
 			Takeru Ohta
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Tokyo Japan</td>
-		<td>2830</td>
+		<td>2832</td>
 	</tr>
 	<tr>
 		<td>39</td>
 		<td>
 			<a target="_blank" href="https://github.com/lambdalisue">
-				<img src="https://private-avatars.githubusercontent.com/u/546312?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEzNDAsIm5iZiI6MTczNDQ2MDE0MCwicGF0aCI6Ii91LzU0NjMxMiJ9.uXX4iiK2oKyG6PY6kTihE9Ixj3Y3IyE8sb7g23Omq-M&s=72&v=4" width="24" alt="Avatar of lambdalisue"/> lambdalisue
+				<img src="https://private-avatars.githubusercontent.com/u/546312?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzExNDAsIm5iZiI6MTczNDU2OTk0MCwicGF0aCI6Ii91LzU0NjMxMiJ9.MbRy43OwBAz8LynZqCzxkgLJSL1juzzkEhfIo3ai_Wc&s=72&v=4" width="24" alt="Avatar of lambdalisue"/> lambdalisue
 			</a><br/>
 			lisue
 		</td>
 		<td>Fixpoint Inc </td>
 		<td><a target="_blank" href="https://twitter.com/lambdalisue">lambdalisue</a></td>
 		<td>Tokyo Japan</td>
-		<td>2808</td>
+		<td>2810</td>
 	</tr>
 	<tr>
 		<td>40</td>
 		<td>
 			<a target="_blank" href="https://github.com/gkjohnson">
-				<img src="https://private-avatars.githubusercontent.com/u/734200?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyODAsIm5iZiI6MTczNDQ2MDA4MCwicGF0aCI6Ii91LzczNDIwMCJ9.JVQtnW8vtLdIZVutoTL01b-sqM5RNmN5J_28CcNF3l8&s=72&u=f169e56702743d90524c3bb0cc2c17f57f9b7aca&v=4" width="24" alt="Avatar of gkjohnson"/> gkjohnson
+				<img src="https://private-avatars.githubusercontent.com/u/734200?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwODAsIm5iZiI6MTczNDU2OTg4MCwicGF0aCI6Ii91LzczNDIwMCJ9.C3EIKv-SAGQT22SGUYco9sqbr2SjE9vY3Vf5p7XEAeQ&s=72&u=f169e56702743d90524c3bb0cc2c17f57f9b7aca&v=4" width="24" alt="Avatar of gkjohnson"/> gkjohnson
 			</a><br/>
 			Garrett Johnson
 		</td>
 		<td>Toyota Woven Planet </td>
 		<td><a target="_blank" href="https://twitter.com/garrettkjohnson">garrettkjohnson</a></td>
 		<td>Tokyo Japan</td>
-		<td>2666</td>
+		<td>2670</td>
 	</tr>
 	<tr>
 		<td>41</td>
 		<td>
 			<a target="_blank" href="https://github.com/takahirom">
-				<img src="https://private-avatars.githubusercontent.com/u/1386930?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0NjAsIm5iZiI6MTczNDQ2MDI2MCwicGF0aCI6Ii91LzEzODY5MzAifQ.0UDObTkbeCSJbc-nIlmxUZtffjamD2ooaLTLplavjKo&s=72&u=ded0546028d0c2993d504475d0de5f34d8cafc24&v=4" width="24" alt="Avatar of takahirom"/> takahirom
+				<img src="https://private-avatars.githubusercontent.com/u/1386930?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyNjAsIm5iZiI6MTczNDU3MDA2MCwicGF0aCI6Ii91LzEzODY5MzAifQ.nNOyE5nA9G3x0XfMgxgKm3xZ5PcPjI_6CdVB6DMNPJY&s=72&u=ded0546028d0c2993d504475d0de5f34d8cafc24&v=4" width="24" alt="Avatar of takahirom"/> takahirom
 			</a><br/>
 			Takahiro Menju
 		</td>
@@ -646,7 +646,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>42</td>
 		<td>
 			<a target="_blank" href="https://github.com/guitarrapc">
-				<img src="https://private-avatars.githubusercontent.com/u/3856350?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0NjAsIm5iZiI6MTczNDQ2MDI2MCwicGF0aCI6Ii91LzM4NTYzNTAifQ.u7DSXXi0E3MdelWJrtUlwnsFkoC9SS6TPS4mhCY754o&s=72&u=7cc6d1b96e3acad8f5ddedaa9f18d46f2d11823c&v=4" width="24" alt="Avatar of guitarrapc"/> guitarrapc
+				<img src="https://private-avatars.githubusercontent.com/u/3856350?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyNjAsIm5iZiI6MTczNDU3MDA2MCwicGF0aCI6Ii91LzM4NTYzNTAifQ.Kw_-1o23QeXs2QyR0DbHevKh9_DkivqM5YVE4DauPAs&s=72&u=7cc6d1b96e3acad8f5ddedaa9f18d46f2d11823c&v=4" width="24" alt="Avatar of guitarrapc"/> guitarrapc
 			</a><br/>
 			Ikiru Yoshizaki
 		</td>
@@ -659,33 +659,33 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>43</td>
 		<td>
 			<a target="_blank" href="https://github.com/smoogipoo">
-				<img src="https://private-avatars.githubusercontent.com/u/1329837?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1MjAsIm5iZiI6MTczNDQ2MDMyMCwicGF0aCI6Ii91LzEzMjk4MzcifQ.VS_BWQCF_gAPJ2C0HPAVlxCNEgEfh9oQAcxv7bb_mLg&s=72&u=7cf36030a04f74386697e7693d145fe7ed3680c0&v=4" width="24" alt="Avatar of smoogipoo"/> smoogipoo
+				<img src="https://private-avatars.githubusercontent.com/u/1329837?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzMjAsIm5iZiI6MTczNDU3MDEyMCwicGF0aCI6Ii91LzEzMjk4MzcifQ.phnh5CT82Iyz76rqOaKoAUpAipR6jPFuqFBlKtcXf9Q&s=72&u=7cf36030a04f74386697e7693d145fe7ed3680c0&v=4" width="24" alt="Avatar of smoogipoo"/> smoogipoo
 			</a><br/>
 			Dan Balasescu
 		</td>
 		<td>@ppy </td>
 		<td><a target="_blank" href="https://twitter.com/smoogipoo">smoogipoo</a></td>
 		<td>Japan</td>
-		<td>2499</td>
+		<td>2509</td>
 	</tr>
 	<tr>
 		<td>44</td>
 		<td>
 			<a target="_blank" href="https://github.com/dai-shi">
-				<img src="https://private-avatars.githubusercontent.com/u/490574?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA2ODAsIm5iZiI6MTczNDQ1OTQ4MCwicGF0aCI6Ii91LzQ5MDU3NCJ9.l1U_0eFgHKWFlqaYwifxwpPyAveNkWXhHsnjhoL0muQ&s=72&u=3b4c1b7f1db9c6a43eafbe0b5c341c05d2dc93a1&v=4" width="24" alt="Avatar of dai-shi"/> dai-shi
+				<img src="https://private-avatars.githubusercontent.com/u/490574?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA0ODAsIm5iZiI6MTczNDU2OTI4MCwicGF0aCI6Ii91LzQ5MDU3NCJ9.LjX5bIkfm5q8prp5hN9p9xxiaxtISSKStH4HcI86_Q4&s=72&u=3b4c1b7f1db9c6a43eafbe0b5c341c05d2dc93a1&v=4" width="24" alt="Avatar of dai-shi"/> dai-shi
 			</a><br/>
 			Daishi Kato
 		</td>
 		<td>Freelancer </td>
 		<td><a target="_blank" href="https://twitter.com/dai_shi">dai_shi</a></td>
 		<td>Tokyo</td>
-		<td>2474</td>
+		<td>2490</td>
 	</tr>
 	<tr>
 		<td>45</td>
 		<td>
 			<a target="_blank" href="https://github.com/tokuhirom">
-				<img src="https://private-avatars.githubusercontent.com/u/21084?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEzNDAsIm5iZiI6MTczNDQ2MDE0MCwicGF0aCI6Ii91LzIxMDg0In0.BXeHoBNJj5UmYFSi6NtIEYLQ2tqJ08Jnoa6CKeJLQdM&s=72&v=4" width="24" alt="Avatar of tokuhirom"/> tokuhirom
+				<img src="https://private-avatars.githubusercontent.com/u/21084?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzExNDAsIm5iZiI6MTczNDU2OTk0MCwicGF0aCI6Ii91LzIxMDg0In0.F6p4aJZ0WNGeVf9ENZHL_RLIOM943rUawU5_5Z4f7hc&s=72&v=4" width="24" alt="Avatar of tokuhirom"/> tokuhirom
 			</a><br/>
 			Tokuhiro Matsuno
 		</td>
@@ -698,46 +698,46 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>46</td>
 		<td>
 			<a target="_blank" href="https://github.com/Hiroshiba">
-				<img src="https://private-avatars.githubusercontent.com/u/4987327?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0NjAsIm5iZiI6MTczNDQ2MDI2MCwicGF0aCI6Ii91LzQ5ODczMjcifQ.aS45gRtrkboO3LU3rYnpeo8AOIG_GH59hX7K2ZQjA_c&s=72&u=ae64d95ad89d0b5247a0090077b0ac8a3ebb5874&v=4" width="24" alt="Avatar of Hiroshiba"/> Hiroshiba
+				<img src="https://private-avatars.githubusercontent.com/u/4987327?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyNjAsIm5iZiI6MTczNDU3MDA2MCwicGF0aCI6Ii91LzQ5ODczMjcifQ.WtBy61w0Nv-55qw-nzl8ZKQ6gljlAA6sUGaJcLgf3D8&s=72&u=ae64d95ad89d0b5247a0090077b0ac8a3ebb5874&v=4" width="24" alt="Avatar of Hiroshiba"/> Hiroshiba
 			</a><br/>
 			Hiroshiba
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Japan</td>
-		<td>2412</td>
+		<td>2418</td>
 	</tr>
 	<tr>
 		<td>47</td>
 		<td>
 			<a target="_blank" href="https://github.com/tatsuhiro-t">
-				<img src="https://private-avatars.githubusercontent.com/u/404610?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEzNDAsIm5iZiI6MTczNDQ2MDE0MCwicGF0aCI6Ii91LzQwNDYxMCJ9.Q6xLVeOQMATpAS3y26cCx9WSB8U8WgCt_fYn3F0dQms&s=72&u=fb111a1a5590572efb6b792194469eacd9dea662&v=4" width="24" alt="Avatar of tatsuhiro-t"/> tatsuhiro-t
+				<img src="https://private-avatars.githubusercontent.com/u/404610?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzExNDAsIm5iZiI6MTczNDU2OTk0MCwicGF0aCI6Ii91LzQwNDYxMCJ9.LekOnOgGCuGX44oB4n-0pq6ACxXvSaBoiBSvD_kbGYI&s=72&u=fb111a1a5590572efb6b792194469eacd9dea662&v=4" width="24" alt="Avatar of tatsuhiro-t"/> tatsuhiro-t
 			</a><br/>
 			Tatsuhiro Tsujikawa
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Japan</td>
-		<td>2406</td>
+		<td>2409</td>
 	</tr>
 	<tr>
 		<td>48</td>
 		<td>
 			<a target="_blank" href="https://github.com/tk0miya">
-				<img src="https://private-avatars.githubusercontent.com/u/748828?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3NjAsIm5iZiI6MTczNDQ2MDU2MCwicGF0aCI6Ii91Lzc0ODgyOCJ9.KHPMN91RAipviCZ8A40d5spnnx6oMGBDqvQMcYHXP8E&s=72&u=c5ca40b7274d4563c862550add47ec5dabcecdfa&v=4" width="24" alt="Avatar of tk0miya"/> tk0miya
+				<img src="https://private-avatars.githubusercontent.com/u/748828?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1NjAsIm5iZiI6MTczNDU3MDM2MCwicGF0aCI6Ii91Lzc0ODgyOCJ9._pVUHJGyBzQu5UIebluBi4DnCxq9uWkzP2pQtf455oc&s=72&u=c5ca40b7274d4563c862550add47ec5dabcecdfa&v=4" width="24" alt="Avatar of tk0miya"/> tk0miya
 			</a><br/>
 			Takeshi KOMIYA
 		</td>
 		<td>Time Intermedia @timedia </td>
 		<td><a target="_blank" href="https://twitter.com/tk0miya">tk0miya</a></td>
 		<td>Saitama Japan</td>
-		<td>2361</td>
+		<td>2362</td>
 	</tr>
 	<tr>
 		<td>49</td>
 		<td>
 			<a target="_blank" href="https://github.com/tekezo">
-				<img src="https://private-avatars.githubusercontent.com/u/659178?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0MDAsIm5iZiI6MTczNDQ2MDIwMCwicGF0aCI6Ii91LzY1OTE3OCJ9.iTZHz9FpjT5e8SmSjWCNut61O1fKH4GHI6YawwoDWnA&s=72&v=4" width="24" alt="Avatar of tekezo"/> tekezo
+				<img src="https://private-avatars.githubusercontent.com/u/659178?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyMDAsIm5iZiI6MTczNDU3MDAwMCwicGF0aCI6Ii91LzY1OTE3OCJ9.LcEuA7GVUZX7KzvruxBK-Y8kgwxgEQndbJffISnFeGM&s=72&v=4" width="24" alt="Avatar of tekezo"/> tekezo
 			</a><br/>
 			Takayama Fumihiko
 		</td>
@@ -749,86 +749,86 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 	<tr>
 		<td>50</td>
 		<td>
-			<a target="_blank" href="https://github.com/coliff">
-				<img src="https://private-avatars.githubusercontent.com/u/1212885?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA4NjAsIm5iZiI6MTczNDQ1OTY2MCwicGF0aCI6Ii91LzEyMTI4ODUifQ.GopfS5Qz7qWjn8zXEBa8nZwAvL7xZqzXTPNVTPHc3r0&s=72&u=bd7cef77d79c6a0a734f1853eb22c201d52dd67b&v=4" width="24" alt="Avatar of coliff"/> coliff
-			</a><br/>
-			Christian Oliff
-		</td>
-		<td>@trimbleoss </td>
-		<td>No Twitter Username</td>
-		<td>Osaka Japan</td>
-		<td>2334</td>
-	</tr>
-	<tr>
-		<td>51</td>
-		<td>
 			<a target="_blank" href="https://github.com/nobu">
-				<img src="https://private-avatars.githubusercontent.com/u/16700?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA4MDAsIm5iZiI6MTczNDQ1OTYwMCwicGF0aCI6Ii91LzE2NzAwIn0.y_UHHnVdFkNMkIFMxOqwXguzS2ZY-hzRKmVEshj2HyE&s=72&u=6d2ffd91f42472c93d8238f63e36ab75301bbbd0&v=4" width="24" alt="Avatar of nobu"/> nobu
+				<img src="https://private-avatars.githubusercontent.com/u/16700?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA2MDAsIm5iZiI6MTczNDU2OTQwMCwicGF0aCI6Ii91LzE2NzAwIn0.u01Xfs8HS7uLaBhtCLRF5Gkzv8OsEn51Eqg0r9SWoH0&s=72&u=6d2ffd91f42472c93d8238f63e36ab75301bbbd0&v=4" width="24" alt="Avatar of nobu"/> nobu
 			</a><br/>
 			Nobuyoshi Nakada
 		</td>
 		<td>Nihon Rubynokai </td>
 		<td><a target="_blank" href="https://twitter.com/n0kada">n0kada</a></td>
 		<td>Kanuma Tochigi Japan</td>
-		<td>2331</td>
+		<td>2337</td>
+	</tr>
+	<tr>
+		<td>51</td>
+		<td>
+			<a target="_blank" href="https://github.com/coliff">
+				<img src="https://private-avatars.githubusercontent.com/u/1212885?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA2NjAsIm5iZiI6MTczNDU2OTQ2MCwicGF0aCI6Ii91LzEyMTI4ODUifQ.Ys78zfkiGzgmITEZ7VWCEH2X0CKDF3-eSGq9NxaDss4&s=72&u=bd7cef77d79c6a0a734f1853eb22c201d52dd67b&v=4" width="24" alt="Avatar of coliff"/> coliff
+			</a><br/>
+			Christian Oliff
+		</td>
+		<td>@trimbleoss </td>
+		<td>No Twitter Username</td>
+		<td>Osaka Japan</td>
+		<td>2335</td>
 	</tr>
 	<tr>
 		<td>52</td>
 		<td>
 			<a target="_blank" href="https://github.com/fa0311">
-				<img src="https://private-avatars.githubusercontent.com/u/34892635?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEzNDAsIm5iZiI6MTczNDQ2MDE0MCwicGF0aCI6Ii91LzM0ODkyNjM1In0.W7r2mCz4g7QptvYpilVnGWhry2dDp8OqF2mNH4AZCsw&s=72&v=4" width="24" alt="Avatar of fa0311"/> fa0311
+				<img src="https://private-avatars.githubusercontent.com/u/34892635?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzExNDAsIm5iZiI6MTczNDU2OTk0MCwicGF0aCI6Ii91LzM0ODkyNjM1In0.iNpBww726M7AUhTnlNRbUBJN61SG_BZLmdEOGRC05Yg&s=72&v=4" width="24" alt="Avatar of fa0311"/> fa0311
 			</a><br/>
 			
 		</td>
 		<td>Student </td>
 		<td><a target="_blank" href="https://twitter.com/faa0311">faa0311</a></td>
 		<td>Oita Japan</td>
-		<td>2270</td>
+		<td>2279</td>
 	</tr>
 	<tr>
 		<td>53</td>
 		<td>
 			<a target="_blank" href="https://github.com/ursm">
-				<img src="https://private-avatars.githubusercontent.com/u/7548?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE2NDAsIm5iZiI6MTczNDQ2MDQ0MCwicGF0aCI6Ii91Lzc1NDgifQ.riXw3333b7Hv0-Oz_l9VdxYbFKpnN9cLzToj1O7n5EE&s=72&u=b18fff6ecabf8f97c258b80a1e58167257f5c97d&v=4" width="24" alt="Avatar of ursm"/> ursm
+				<img src="https://private-avatars.githubusercontent.com/u/7548?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE0NDAsIm5iZiI6MTczNDU3MDI0MCwicGF0aCI6Ii91Lzc1NDgifQ.jbDRm4oyRv25ZzDkt2flInkGZWMUx-659gLRWG6BjK0&s=72&u=b18fff6ecabf8f97c258b80a1e58167257f5c97d&v=4" width="24" alt="Avatar of ursm"/> ursm
 			</a><br/>
 			Keita Urashima
 		</td>
 		<td>@kotonohasystem  </td>
 		<td><a target="_blank" href="https://twitter.com/ursm">ursm</a></td>
 		<td>Nagoya Japan</td>
-		<td>2259</td>
+		<td>2270</td>
 	</tr>
 	<tr>
 		<td>54</td>
 		<td>
 			<a target="_blank" href="https://github.com/terasakisatoshi">
-				<img src="https://private-avatars.githubusercontent.com/u/16760547?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExNjAsIm5iZiI6MTczNDQ1OTk2MCwicGF0aCI6Ii91LzE2NzYwNTQ3In0.0muqCoojkNk1nJzZyTbkQqiOCL60K9TJgaNqzor55iQ&s=72&u=24c7c259e3d42a3b2ead4f026a019305232157bd&v=4" width="24" alt="Avatar of terasakisatoshi"/> terasakisatoshi
+				<img src="https://private-avatars.githubusercontent.com/u/16760547?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5NjAsIm5iZiI6MTczNDU2OTc2MCwicGF0aCI6Ii91LzE2NzYwNTQ3In0.ZYoxG3PRQAqp0HatDM5E1Ims0NLgIrV0D9o9fZm2_JQ&s=72&u=24c7c259e3d42a3b2ead4f026a019305232157bd&v=4" width="24" alt="Avatar of terasakisatoshi"/> terasakisatoshi
 			</a><br/>
 			Satoshi Terasaki
 		</td>
 		<td>Julialang User </td>
 		<td>No Twitter Username</td>
 		<td>MiyagiJapan</td>
-		<td>2236</td>
+		<td>2253</td>
 	</tr>
 	<tr>
 		<td>55</td>
 		<td>
 			<a target="_blank" href="https://github.com/smorimoto">
-				<img src="https://private-avatars.githubusercontent.com/u/38746192?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA3NDAsIm5iZiI6MTczNDQ1OTU0MCwicGF0aCI6Ii91LzM4NzQ2MTkyIn0.QBkgRW64CZzD6MUm_tFyM1486DwY_1-8W6_Mpc_TYho&s=72&u=2b4f5396d06b597546c4ecf2a174c75ed8417377&v=4" width="24" alt="Avatar of smorimoto"/> smorimoto
+				<img src="https://private-avatars.githubusercontent.com/u/38746192?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA1NDAsIm5iZiI6MTczNDU2OTM0MCwicGF0aCI6Ii91LzM4NzQ2MTkyIn0.dJMfzYe145gRo9JT1wTNFT4c5k5hkPvtEF28g-4RX6w&s=72&u=2b4f5396d06b597546c4ecf2a174c75ed8417377&v=4" width="24" alt="Avatar of smorimoto"/> smorimoto
 			</a><br/>
 			Sora Morimoto
 		</td>
 		<td>@ocaml @tc39 </td>
 		<td>No Twitter Username</td>
 		<td>Cambridge UK  Tokyo Japan</td>
-		<td>2208</td>
+		<td>2221</td>
 	</tr>
 	<tr>
 		<td>56</td>
 		<td>
 			<a target="_blank" href="https://github.com/sksat">
-				<img src="https://private-avatars.githubusercontent.com/u/23310673?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEwNDAsIm5iZiI6MTczNDQ1OTg0MCwicGF0aCI6Ii91LzIzMzEwNjczIn0.niP2M0kZTRieKK_ljH1ZYMpKL_4aI9vTkZeVAj9aHZI&s=72&u=c929101feac27e9f97bada8774d3002b2bea34d1&v=4" width="24" alt="Avatar of sksat"/> sksat
+				<img src="https://private-avatars.githubusercontent.com/u/23310673?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA4NDAsIm5iZiI6MTczNDU2OTY0MCwicGF0aCI6Ii91LzIzMzEwNjczIn0.eVcjZtxeANZFz_77lcSRi6R8LJX_h0MIRkjiJ_sK21c&s=72&u=c929101feac27e9f97bada8774d3002b2bea34d1&v=4" width="24" alt="Avatar of sksat"/> sksat
 			</a><br/>
 			sksat
 		</td>
@@ -841,7 +841,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>57</td>
 		<td>
 			<a target="_blank" href="https://github.com/yutannihilation">
-				<img src="https://private-avatars.githubusercontent.com/u/1978793?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEwNDAsIm5iZiI6MTczNDQ1OTg0MCwicGF0aCI6Ii91LzE5Nzg3OTMifQ.K2oPJGKekgFpogJqpXb9R17UDccvoARyw4yrevhFLhQ&s=72&v=4" width="24" alt="Avatar of yutannihilation"/> yutannihilation
+				<img src="https://private-avatars.githubusercontent.com/u/1978793?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA4NDAsIm5iZiI6MTczNDU2OTY0MCwicGF0aCI6Ii91LzE5Nzg3OTMifQ.2fU8MY_yf7PYTz0KYkugYCEY9kEJZ1bJ5lvPAF5lbzs&s=72&v=4" width="24" alt="Avatar of yutannihilation"/> yutannihilation
 			</a><br/>
 			Hiroaki Yutani
 		</td>
@@ -854,59 +854,59 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>58</td>
 		<td>
 			<a target="_blank" href="https://github.com/sapphi-red">
-				<img src="https://private-avatars.githubusercontent.com/u/49056869?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExNjAsIm5iZiI6MTczNDQ1OTk2MCwicGF0aCI6Ii91LzQ5MDU2ODY5In0.d8_khABIE0q-S5yto2RRXg7aqVrQZiijjt3n7Hhkjjg&s=72&u=ec70859392ec0140d60446f7815ad2bf857904fd&v=4" width="24" alt="Avatar of sapphi-red"/> sapphi-red
+				<img src="https://private-avatars.githubusercontent.com/u/49056869?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5NjAsIm5iZiI6MTczNDU2OTc2MCwicGF0aCI6Ii91LzQ5MDU2ODY5In0.mHttcWYXcMdrmCtfXTO4YV5noDtL2w6p3mkc-kUlbqg&s=72&u=ec70859392ec0140d60446f7815ad2bf857904fd&v=4" width="24" alt="Avatar of sapphi-red"/> sapphi-red
 			</a><br/>
 			  green
 		</td>
 		<td>Void 0 </td>
 		<td><a target="_blank" href="https://twitter.com/sapphi_red">sapphi_red</a></td>
 		<td>Japan</td>
-		<td>2071</td>
+		<td>2088</td>
 	</tr>
 	<tr>
 		<td>59</td>
 		<td>
 			<a target="_blank" href="https://github.com/dalance">
-				<img src="https://private-avatars.githubusercontent.com/u/4331004?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3NjAsIm5iZiI6MTczNDQ2MDU2MCwicGF0aCI6Ii91LzQzMzEwMDQifQ.QTVeCTj_2RlrJpyMNNOQmr0gEqc9PitU_n-Hmrx7ggU&s=72&u=63b5cf60e0bba8087ed9b13f73551c00268b9932&v=4" width="24" alt="Avatar of dalance"/> dalance
+				<img src="https://private-avatars.githubusercontent.com/u/4331004?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1NjAsIm5iZiI6MTczNDU3MDM2MCwicGF0aCI6Ii91LzQzMzEwMDQifQ._7wxuyNrEE1dJo_imY8LxrUNlF_W1ALGpIxuytOZeKc&s=72&u=63b5cf60e0bba8087ed9b13f73551c00268b9932&v=4" width="24" alt="Avatar of dalance"/> dalance
 			</a><br/>
 			Naoya Hatta
 		</td>
 		<td>Pezy Computing Kk </td>
 		<td><a target="_blank" href="https://twitter.com/dalance1982">dalance1982</a></td>
 		<td>Kanagawa Japan</td>
-		<td>2064</td>
+		<td>2069</td>
 	</tr>
 	<tr>
 		<td>60</td>
 		<td>
 			<a target="_blank" href="https://github.com/taisukef">
-				<img src="https://private-avatars.githubusercontent.com/u/1715217?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE2NDAsIm5iZiI6MTczNDQ2MDQ0MCwicGF0aCI6Ii91LzE3MTUyMTcifQ.3_TNZVUm_4HjvItyz1ZHtt61Aar-FyB-fJYMIYHW2Fg&s=72&u=629ca75b389db21f45fc67e51d074a4904c92e29&v=4" width="24" alt="Avatar of taisukef"/> taisukef
+				<img src="https://private-avatars.githubusercontent.com/u/1715217?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE0NDAsIm5iZiI6MTczNDU3MDI0MCwicGF0aCI6Ii91LzE3MTUyMTcifQ.vpNcepDyLolzZ89yXdMZAjLF0PrZYMJY9jVzvoqAFqs&s=72&u=629ca75b389db21f45fc67e51d074a4904c92e29&v=4" width="24" alt="Avatar of taisukef"/> taisukef
 			</a><br/>
 			Taisuke Fukuno
 		</td>
 		<td>Jigjp </td>
 		<td><a target="_blank" href="https://twitter.com/taisukef">taisukef</a></td>
 		<td>Sabae FUKUI Japan</td>
-		<td>2045</td>
+		<td>2053</td>
 	</tr>
 	<tr>
 		<td>61</td>
 		<td>
 			<a target="_blank" href="https://github.com/fujiwara">
-				<img src="https://private-avatars.githubusercontent.com/u/67804?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0MDAsIm5iZiI6MTczNDQ2MDIwMCwicGF0aCI6Ii91LzY3ODA0In0.Yb_sG8zdjVhaul-JcEtH3Lzt9hl8ze3HtUBmuBfrLCo&s=72&u=9d2b54481d1e7061fe68bb3ddcfb67ecdcbf5f08&v=4" width="24" alt="Avatar of fujiwara"/> fujiwara
+				<img src="https://private-avatars.githubusercontent.com/u/67804?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyMDAsIm5iZiI6MTczNDU3MDAwMCwicGF0aCI6Ii91LzY3ODA0In0.WqItYRybejxbrnnd1K2Y5EAYUtcP0tpvIAepbmS592A&s=72&u=9d2b54481d1e7061fe68bb3ddcfb67ecdcbf5f08&v=4" width="24" alt="Avatar of fujiwara"/> fujiwara
 			</a><br/>
 			FUJIWARA Shunichiro
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Kanagawa Japan</td>
-		<td>2044</td>
+		<td>2046</td>
 	</tr>
 	<tr>
 		<td>62</td>
 		<td>
 			<a target="_blank" href="https://github.com/whitphx">
-				<img src="https://private-avatars.githubusercontent.com/u/3135397?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExMDAsIm5iZiI6MTczNDQ1OTkwMCwicGF0aCI6Ii91LzMxMzUzOTcifQ.WtUk0WzCiy7i9Xt3jN-KJ3_2qeXO-bp2XS1FpJE8iUs&s=72&u=bb8ef21760a59bc6bbe529439f4f8e197d07e390&v=4" width="24" alt="Avatar of whitphx"/> whitphx
+				<img src="https://private-avatars.githubusercontent.com/u/3135397?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5MDAsIm5iZiI6MTczNDU2OTcwMCwicGF0aCI6Ii91LzMxMzUzOTcifQ.VEJ92P0Wj-nebhHRRGSGKm9mUwsv0DlZz8OGPDrhIdI&s=72&u=bb8ef21760a59bc6bbe529439f4f8e197d07e390&v=4" width="24" alt="Avatar of whitphx"/> whitphx
 			</a><br/>
 			Yuichiro Tachibana Tsuchiya
 		</td>
@@ -919,33 +919,33 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>63</td>
 		<td>
 			<a target="_blank" href="https://github.com/Shougo">
-				<img src="https://private-avatars.githubusercontent.com/u/41495?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEwNDAsIm5iZiI6MTczNDQ1OTg0MCwicGF0aCI6Ii91LzQxNDk1In0.YKKHOar5Jn1EHoK_HS_BA0K3ovH37xCnhkGi7vNOMgQ&s=72&v=4" width="24" alt="Avatar of Shougo"/> Shougo
+				<img src="https://private-avatars.githubusercontent.com/u/41495?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA4NDAsIm5iZiI6MTczNDU2OTY0MCwicGF0aCI6Ii91LzQxNDk1In0.iRGiLJxr5-R-qcQ6Bvh_GJr0nqbAGW2cJGmcj1KBmlo&s=72&v=4" width="24" alt="Avatar of Shougo"/> Shougo
 			</a><br/>
 			Shougo
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Japan</td>
-		<td>2027</td>
+		<td>2030</td>
 	</tr>
 	<tr>
 		<td>64</td>
 		<td>
 			<a target="_blank" href="https://github.com/pilcrowonpaper">
-				<img src="https://private-avatars.githubusercontent.com/u/80624252?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEwNDAsIm5iZiI6MTczNDQ1OTg0MCwicGF0aCI6Ii91LzgwNjI0MjUyIn0.c6SIBmuVvrnl5ySb5PrZBJj-ftUO8cyZxtfvkOAFmzI&s=72&u=abb5f45720c0c7db48614fa1cfe4ed7032af0a36&v=4" width="24" alt="Avatar of pilcrowonpaper"/> pilcrowonpaper
+				<img src="https://private-avatars.githubusercontent.com/u/80624252?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA4NDAsIm5iZiI6MTczNDU2OTY0MCwicGF0aCI6Ii91LzgwNjI0MjUyIn0.frksnYURJUhU7nRfd0Av__oatZRbBnaWrmoED0099qQ&s=72&u=abb5f45720c0c7db48614fa1cfe4ed7032af0a36&v=4" width="24" alt="Avatar of pilcrowonpaper"/> pilcrowonpaper
 			</a><br/>
 			pilcrow
 		</td>
 		<td>@luciaauth </td>
 		<td><a target="_blank" href="https://twitter.com/pilcrowOnPaper">pilcrowOnPaper</a></td>
 		<td>Tokyo Japan</td>
-		<td>1998</td>
+		<td>2000</td>
 	</tr>
 	<tr>
 		<td>65</td>
 		<td>
 			<a target="_blank" href="https://github.com/konn">
-				<img src="https://private-avatars.githubusercontent.com/u/21860?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE2NDAsIm5iZiI6MTczNDQ2MDQ0MCwicGF0aCI6Ii91LzIxODYwIn0.HskTVcGyatPz4to9BSMyEeIyvT7sLHHLHC3uHEJj3i4&s=72&u=90a1b2ace34adc2da9619af7f7839fd2e38a67eb&v=4" width="24" alt="Avatar of konn"/> konn
+				<img src="https://private-avatars.githubusercontent.com/u/21860?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE0NDAsIm5iZiI6MTczNDU3MDI0MCwicGF0aCI6Ii91LzIxODYwIn0.JeqsKbj3UeFiGUDt77avjN1I9JT-nYDpWwL9rBQVoQ4&s=72&u=90a1b2ace34adc2da9619af7f7839fd2e38a67eb&v=4" width="24" alt="Avatar of konn"/> konn
 			</a><br/>
 			Hiromi Ishii
 		</td>
@@ -958,7 +958,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>66</td>
 		<td>
 			<a target="_blank" href="https://github.com/hatoo">
-				<img src="https://private-avatars.githubusercontent.com/u/1667746?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE2NDAsIm5iZiI6MTczNDQ2MDQ0MCwicGF0aCI6Ii91LzE2Njc3NDYifQ._JfUFAcl-YKMzpYkv8y33BQmqfSW1kuu9sOE2qGoQx4&s=72&v=4" width="24" alt="Avatar of hatoo"/> hatoo
+				<img src="https://private-avatars.githubusercontent.com/u/1667746?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE0NDAsIm5iZiI6MTczNDU3MDI0MCwicGF0aCI6Ii91LzE2Njc3NDYifQ.7x0Lk1FEQf7v1cSfaiXbbMc4O7iNIwr8IAgNQFC5Xn8&s=72&v=4" width="24" alt="Avatar of hatoo"/> hatoo
 			</a><br/>
 			No Name
 		</td>
@@ -971,111 +971,111 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>67</td>
 		<td>
 			<a target="_blank" href="https://github.com/Saul-Mirone">
-				<img src="https://private-avatars.githubusercontent.com/u/10047788?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0NjAsIm5iZiI6MTczNDQ2MDI2MCwicGF0aCI6Ii91LzEwMDQ3Nzg4In0.aOWsyuXLRCFSg-V2dvq6DgWG-Y5w1igZ-ABTv4MRHgc&s=72&u=50ad9f7cfadac323e8fbaa828853f76e89bfa9d4&v=4" width="24" alt="Avatar of Saul-Mirone"/> Saul-Mirone
+				<img src="https://private-avatars.githubusercontent.com/u/10047788?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyNjAsIm5iZiI6MTczNDU3MDA2MCwicGF0aCI6Ii91LzEwMDQ3Nzg4In0.flPHFjzH51EFcEk-v_0vxYBOXLLfySxrZ5P9-Cn7j1E&s=72&u=50ad9f7cfadac323e8fbaa828853f76e89bfa9d4&v=4" width="24" alt="Avatar of Saul-Mirone"/> Saul-Mirone
 			</a><br/>
 			Mirone
 		</td>
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/mirone_saul">mirone_saul</a></td>
 		<td>Tokyo</td>
-		<td>1951</td>
+		<td>1963</td>
 	</tr>
 	<tr>
 		<td>68</td>
 		<td>
-			<a target="_blank" href="https://github.com/sevenc-nanashi">
-				<img src="https://private-avatars.githubusercontent.com/u/59691627?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3NjAsIm5iZiI6MTczNDQ2MDU2MCwicGF0aCI6Ii91LzU5NjkxNjI3In0.T5k1hK7zhB6DE0fN0mIeCXFei1y8RemZEX7tKOdOUVM&s=72&u=4e8fd190379072a48af58df0a9d34500eb704623&v=4" width="24" alt="Avatar of sevenc-nanashi"/> sevenc-nanashi
-			</a><br/>
-			Nanashi
-		</td>
-		<td>@voicevox </td>
-		<td><a target="_blank" href="https://twitter.com/sevenc_nanashi">sevenc_nanashi</a></td>
-		<td>Shizuoka pref Japan</td>
-		<td>1932</td>
-	</tr>
-	<tr>
-		<td>69</td>
-		<td>
 			<a target="_blank" href="https://github.com/piroor">
-				<img src="https://private-avatars.githubusercontent.com/u/70062?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExNjAsIm5iZiI6MTczNDQ1OTk2MCwicGF0aCI6Ii91LzcwMDYyIn0.CV7NLCnlocuIkDVxjkJIcpFbzJ0jLwcNvRC3Wh94_FI&s=72&u=70b1cfad1e65a349d6b9a6fae01d2d807a2db22a&v=4" width="24" alt="Avatar of piroor"/> piroor
+				<img src="https://private-avatars.githubusercontent.com/u/70062?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5NjAsIm5iZiI6MTczNDU2OTc2MCwicGF0aCI6Ii91LzcwMDYyIn0.uLyu0E80jdOtcVbzAtmVhjJLCSZD4-No1clK7O424l0&s=72&u=70b1cfad1e65a349d6b9a6fae01d2d807a2db22a&v=4" width="24" alt="Avatar of piroor"/> piroor
 			</a><br/>
 			YUKI Piro Hiroshi
 		</td>
 		<td>Clearcode Inc Httpwwwclearcodecom </td>
 		<td><a target="_blank" href="https://twitter.com/piro_or">piro_or</a></td>
 		<td>Tokyo Japan</td>
-		<td>1930</td>
+		<td>1935</td>
+	</tr>
+	<tr>
+		<td>69</td>
+		<td>
+			<a target="_blank" href="https://github.com/sevenc-nanashi">
+				<img src="https://private-avatars.githubusercontent.com/u/59691627?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1NjAsIm5iZiI6MTczNDU3MDM2MCwicGF0aCI6Ii91LzU5NjkxNjI3In0.cTd1AjMhO9Y58irwEr4DFOOTEqFCoJP_RacKgFzDrlc&s=72&u=4e8fd190379072a48af58df0a9d34500eb704623&v=4" width="24" alt="Avatar of sevenc-nanashi"/> sevenc-nanashi
+			</a><br/>
+			Nanashi
+		</td>
+		<td>@voicevox </td>
+		<td><a target="_blank" href="https://twitter.com/sevenc_nanashi">sevenc_nanashi</a></td>
+		<td>Shizuoka pref Japan</td>
+		<td>1933</td>
 	</tr>
 	<tr>
 		<td>70</td>
 		<td>
 			<a target="_blank" href="https://github.com/koxudaxi">
-				<img src="https://private-avatars.githubusercontent.com/u/630670?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0NjAsIm5iZiI6MTczNDQ2MDI2MCwicGF0aCI6Ii91LzYzMDY3MCJ9.fFmUH-ghv13w3OBh-LGpV4BGqkepeh4HM3g_fJ_g6GE&s=72&u=507d8577b4b3670546b449c4c2ccbc5af40d72f7&v=4" width="24" alt="Avatar of koxudaxi"/> koxudaxi
+				<img src="https://private-avatars.githubusercontent.com/u/630670?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyNjAsIm5iZiI6MTczNDU3MDA2MCwicGF0aCI6Ii91LzYzMDY3MCJ9.QJ6XlPcv7cdIQgs_v2NRrjh6YRqDLaIbMKdVot7neSE&s=72&u=507d8577b4b3670546b449c4c2ccbc5af40d72f7&v=4" width="24" alt="Avatar of koxudaxi"/> koxudaxi
 			</a><br/>
 			Koudai Aono
 		</td>
 		<td>@mirascope </td>
 		<td>No Twitter Username</td>
 		<td>Tokyo Japan</td>
-		<td>1915</td>
+		<td>1930</td>
 	</tr>
 	<tr>
 		<td>71</td>
 		<td>
-			<a target="_blank" href="https://github.com/mattn">
-				<img src="https://private-avatars.githubusercontent.com/u/10111?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA5ODAsIm5iZiI6MTczNDQ1OTc4MCwicGF0aCI6Ii91LzEwMTExIn0.du-dyl1Do9UdgjxBSxUUfE14Y2Euw2jpH5Zw1h0s_C0&s=72&u=4fb5caa72429300200740387758d9905611ab377&v=4" width="24" alt="Avatar of mattn"/> mattn
-			</a><br/>
-			mattn
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/mattn_jp">mattn_jp</a></td>
-		<td>Osaka Japan</td>
-		<td>1912</td>
-	</tr>
-	<tr>
-		<td>72</td>
-		<td>
-			<a target="_blank" href="https://github.com/1024jp">
-				<img src="https://private-avatars.githubusercontent.com/u/1165044?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEzNDAsIm5iZiI6MTczNDQ2MDE0MCwicGF0aCI6Ii91LzExNjUwNDQifQ.Olu4amAEG2eCUFf2az7MKQwtwT8_nbYokpiIAQJs0Tg&s=72&v=4" width="24" alt="Avatar of 1024jp"/> 1024jp
-			</a><br/>
-			1024jp
-		</td>
-		<td>@coteditor </td>
-		<td><a target="_blank" href="https://twitter.com/1024jp">1024jp</a></td>
-		<td>Tokyo Japan</td>
-		<td>1912</td>
-	</tr>
-	<tr>
-		<td>73</td>
-		<td>
 			<a target="_blank" href="https://github.com/atztogo">
-				<img src="https://private-avatars.githubusercontent.com/u/953404?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyMjAsIm5iZiI6MTczNDQ2MDAyMCwicGF0aCI6Ii91Lzk1MzQwNCJ9.inZcyfLJwE3SvAeYIOA7pH2qrVvfvM__megVVKviusY&s=72&u=8650c9f082ce137aa47c43f727b30a741eb4aeb8&v=4" width="24" alt="Avatar of atztogo"/> atztogo
+				<img src="https://private-avatars.githubusercontent.com/u/953404?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwMjAsIm5iZiI6MTczNDU2OTgyMCwicGF0aCI6Ii91Lzk1MzQwNCJ9.qJ_M5Dz9tDXcso1BzZycu3lKKhKoySPqUsBaKN2b-p4&s=72&u=8650c9f082ce137aa47c43f727b30a741eb4aeb8&v=4" width="24" alt="Avatar of atztogo"/> atztogo
 			</a><br/>
 			Atsushi Togo
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Japan</td>
-		<td>1912</td>
+		<td>1928</td>
+	</tr>
+	<tr>
+		<td>72</td>
+		<td>
+			<a target="_blank" href="https://github.com/1024jp">
+				<img src="https://private-avatars.githubusercontent.com/u/1165044?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzExNDAsIm5iZiI6MTczNDU2OTk0MCwicGF0aCI6Ii91LzExNjUwNDQifQ.8a101PwCj6_4PA7g2bPq2u3Q6tuHD6SyNKTQ4Ecw6Hc&s=72&v=4" width="24" alt="Avatar of 1024jp"/> 1024jp
+			</a><br/>
+			1024jp
+		</td>
+		<td>@coteditor </td>
+		<td><a target="_blank" href="https://twitter.com/1024jp">1024jp</a></td>
+		<td>Tokyo Japan</td>
+		<td>1921</td>
+	</tr>
+	<tr>
+		<td>73</td>
+		<td>
+			<a target="_blank" href="https://github.com/mattn">
+				<img src="https://private-avatars.githubusercontent.com/u/10111?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA3ODAsIm5iZiI6MTczNDU2OTU4MCwicGF0aCI6Ii91LzEwMTExIn0.rEZ3uxmZwQsK9javQgRpxZRlkQZ_joWffz36jYum4V8&s=72&u=4fb5caa72429300200740387758d9905611ab377&v=4" width="24" alt="Avatar of mattn"/> mattn
+			</a><br/>
+			mattn
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/mattn_jp">mattn_jp</a></td>
+		<td>Osaka Japan</td>
+		<td>1913</td>
 	</tr>
 	<tr>
 		<td>74</td>
 		<td>
 			<a target="_blank" href="https://github.com/halogenandtoast">
-				<img src="https://private-avatars.githubusercontent.com/u/201288?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE5NDAsIm5iZiI6MTczNDQ2MDc0MCwicGF0aCI6Ii91LzIwMTI4OCJ9.EoUQwK9HDUE9t_wxjhoVBmZ8Q0wosW-1clZcv_mPkEw&s=72&u=6fd665799ec9fffe5a90b39f19a66595eb8471b0&v=4" width="24" alt="Avatar of halogenandtoast"/> halogenandtoast
+				<img src="https://private-avatars.githubusercontent.com/u/201288?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE3NDAsIm5iZiI6MTczNDU3MDU0MCwicGF0aCI6Ii91LzIwMTI4OCJ9.YO33SCzwA7UsAwo0d5NRsl6Z0cDetyHEAKAq6Ql9c8A&s=72&u=6fd665799ec9fffe5a90b39f19a66595eb8471b0&v=4" width="24" alt="Avatar of halogenandtoast"/> halogenandtoast
 			</a><br/>
 			Matthew Mongeau
 		</td>
 		<td>@mercurytechnologies </td>
 		<td>No Twitter Username</td>
 		<td>Tokyo JP</td>
-		<td>1864</td>
+		<td>1865</td>
 	</tr>
 	<tr>
 		<td>75</td>
 		<td>
 			<a target="_blank" href="https://github.com/int128">
-				<img src="https://private-avatars.githubusercontent.com/u/321266?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE4MjAsIm5iZiI6MTczNDQ2MDYyMCwicGF0aCI6Ii91LzMyMTI2NiJ9.JZZ_9k-nLvXdfCz0_wPtrotM0bVgbpvBhyfP9thGYSg&s=72&v=4" width="24" alt="Avatar of int128"/> int128
+				<img src="https://private-avatars.githubusercontent.com/u/321266?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE2MjAsIm5iZiI6MTczNDU3MDQyMCwicGF0aCI6Ii91LzMyMTI2NiJ9.q2jIsVOys7sVmOdZ5ukNBPj57_CJnge7m_MeVLdzpsw&s=72&v=4" width="24" alt="Avatar of int128"/> int128
 			</a><br/>
 			Hidetake Iwata
 		</td>
@@ -1088,46 +1088,46 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>76</td>
 		<td>
 			<a target="_blank" href="https://github.com/ota-meshi">
-				<img src="https://private-avatars.githubusercontent.com/u/16508807?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA5ODAsIm5iZiI6MTczNDQ1OTc4MCwicGF0aCI6Ii91LzE2NTA4ODA3In0.6G7002K34B0Cf0awH5jXAyMge_E0gZ4JexDvjEKcENE&s=72&u=bfb63caebfc1d3e0e2e96fd5c2dab6402b552ff0&v=4" width="24" alt="Avatar of ota-meshi"/> ota-meshi
+				<img src="https://private-avatars.githubusercontent.com/u/16508807?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA3ODAsIm5iZiI6MTczNDU2OTU4MCwicGF0aCI6Ii91LzE2NTA4ODA3In0.ObruebOL4-3Vo4XSiniCn08IZLQwi12Rvke_TgSCe4I&s=72&u=bfb63caebfc1d3e0e2e96fd5c2dab6402b552ff0&v=4" width="24" alt="Avatar of ota-meshi"/> ota-meshi
 			</a><br/>
 			Yosuke Ota
 		</td>
 		<td>@futurearchitect </td>
 		<td><a target="_blank" href="https://twitter.com/omoteota">omoteota</a></td>
 		<td>Kanagawa Japan</td>
-		<td>1847</td>
+		<td>1848</td>
 	</tr>
 	<tr>
 		<td>77</td>
 		<td>
 			<a target="_blank" href="https://github.com/koic">
-				<img src="https://private-avatars.githubusercontent.com/u/13203?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExNjAsIm5iZiI6MTczNDQ1OTk2MCwicGF0aCI6Ii91LzEzMjAzIn0.vyoQj1uu9NiijnzETMajMlXpEWnzyM5AVIs86jr6Peg&s=72&u=60f42a553b09bc71f5e399845142fba0ca9e9bb5&v=4" width="24" alt="Avatar of koic"/> koic
+				<img src="https://private-avatars.githubusercontent.com/u/13203?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5NjAsIm5iZiI6MTczNDU2OTc2MCwicGF0aCI6Ii91LzEzMjAzIn0.ANHT9PlIIgme1N2ie_IPpiYmLLLHgDnOLnx-bzZ9y0c&s=72&u=60f42a553b09bc71f5e399845142fba0ca9e9bb5&v=4" width="24" alt="Avatar of koic"/> koic
 			</a><br/>
 			Koichi ITO
 		</td>
 		<td>Esm Inc @esminc </td>
 		<td><a target="_blank" href="https://twitter.com/koic">koic</a></td>
 		<td>Tokyo Japan</td>
-		<td>1803</td>
+		<td>1807</td>
 	</tr>
 	<tr>
 		<td>78</td>
 		<td>
 			<a target="_blank" href="https://github.com/unhappychoice">
-				<img src="https://private-avatars.githubusercontent.com/u/5608948?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0MDAsIm5iZiI6MTczNDQ2MDIwMCwicGF0aCI6Ii91LzU2MDg5NDgifQ.jLRcaGF8AKR5Eyl_xFdViR_cOURFKqjoLbpAju8P-eQ&s=72&u=6ca2fca8320cb6be5b802f6c5a6359933754ab2e&v=4" width="24" alt="Avatar of unhappychoice"/> unhappychoice
+				<img src="https://private-avatars.githubusercontent.com/u/5608948?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyMDAsIm5iZiI6MTczNDU3MDAwMCwicGF0aCI6Ii91LzU2MDg5NDgifQ.pQ4CfKBfkPbGmYu0UK6IWm_ELFgsxd_tlTDOiUH1BBU&s=72&u=6ca2fca8320cb6be5b802f6c5a6359933754ab2e&v=4" width="24" alt="Avatar of unhappychoice"/> unhappychoice
 			</a><br/>
 			Yuji Ueki
 		</td>
 		<td>@orderlyjp  </td>
 		<td><a target="_blank" href="https://twitter.com/unhappychoice_e">unhappychoice_e</a></td>
 		<td>Tokyo Japan</td>
-		<td>1792</td>
+		<td>1794</td>
 	</tr>
 	<tr>
 		<td>79</td>
 		<td>
 			<a target="_blank" href="https://github.com/AnnulusGames">
-				<img src="https://private-avatars.githubusercontent.com/u/84110981?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExMDAsIm5iZiI6MTczNDQ1OTkwMCwicGF0aCI6Ii91Lzg0MTEwOTgxIn0.XYC1pXY3h2gnRDUT_0kSoFCu1a_FyjzS6CG8bk9ATQE&s=72&u=b567015369482a0ef97e9c3bfe8a8fc57b2eee39&v=4" width="24" alt="Avatar of AnnulusGames"/> AnnulusGames
+				<img src="https://private-avatars.githubusercontent.com/u/84110981?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5MDAsIm5iZiI6MTczNDU2OTcwMCwicGF0aCI6Ii91Lzg0MTEwOTgxIn0.mWnP3MX30LNx1ivBOtnNR7YdH5WyXJWXqC1GC2pWC3I&s=72&u=b567015369482a0ef97e9c3bfe8a8fc57b2eee39&v=4" width="24" alt="Avatar of AnnulusGames"/> AnnulusGames
 			</a><br/>
 			Annulus Games
 		</td>
@@ -1140,20 +1140,33 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>80</td>
 		<td>
 			<a target="_blank" href="https://github.com/Quramy">
-				<img src="https://private-avatars.githubusercontent.com/u/1262998?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3MDAsIm5iZiI6MTczNDQ2MDUwMCwicGF0aCI6Ii91LzEyNjI5OTgifQ.RHLMkdcgI_Je9_6AdDIeOlpZu38uKGliDv5jX2rk3WI&s=72&u=855bbee353a8ec4f0f3ecef96e1937b13d1f538d&v=4" width="24" alt="Avatar of Quramy"/> Quramy
+				<img src="https://private-avatars.githubusercontent.com/u/1262998?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA2MDAsIm5iZiI6MTczNDU2OTQwMCwicGF0aCI6Ii91LzEyNjI5OTgifQ.AlwSJYrlrXw5aa8bVXOOV-PPinzDkObYBivl7UZx9Xc&s=72&u=855bbee353a8ec4f0f3ecef96e1937b13d1f538d&v=4" width="24" alt="Avatar of Quramy"/> Quramy
 			</a><br/>
 			Yosuke Kurami
 		</td>
 		<td>Recruit Co Ltd Nijibox<br/>Co<br/>Ltd<br/></td>
 		<td><a target="_blank" href="https://twitter.com/Quramy">Quramy</a></td>
 		<td>Tokyo Japan</td>
-		<td>1777</td>
+		<td>1778</td>
 	</tr>
 	<tr>
 		<td>81</td>
 		<td>
+			<a target="_blank" href="https://github.com/soutaro">
+				<img src="https://private-avatars.githubusercontent.com/u/139089?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzMjAsIm5iZiI6MTczNDU3MDEyMCwicGF0aCI6Ii91LzEzOTA4OSJ9.1A9y21S1cOSjQH67bsNWgyj7TgofQZwaXRq2SY7A8s0&s=72&u=5a4b1b73ae7f8d1dc2991bea6b2cbf43c3111a56&v=4" width="24" alt="Avatar of soutaro"/> soutaro
+			</a><br/>
+			Soutaro Matsumoto
+		</td>
+		<td>Timee Inc  @taimee<br/></td>
+		<td><a target="_blank" href="https://twitter.com/soutaro">soutaro</a></td>
+		<td>Tokyo Japan</td>
+		<td>1762</td>
+	</tr>
+	<tr>
+		<td>82</td>
+		<td>
 			<a target="_blank" href="https://github.com/ninoseki">
-				<img src="https://private-avatars.githubusercontent.com/u/291028?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3MDAsIm5iZiI6MTczNDQ2MDUwMCwicGF0aCI6Ii91LzI5MTAyOCJ9.f_PHHATTxfhQneZZ2igV0kn4ZXW7IvPWl_kvq_PcKJg&s=72&u=40a853d9b0fc23d4e337a80f28ebdc763e25f56f&v=4" width="24" alt="Avatar of ninoseki"/> ninoseki
+				<img src="https://private-avatars.githubusercontent.com/u/291028?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA2MDAsIm5iZiI6MTczNDU2OTQwMCwicGF0aCI6Ii91LzI5MTAyOCJ9.sYNlyRibv3KJf5nVhqSRAiA50qU4XobX38Lrqq80LO4&s=72&u=40a853d9b0fc23d4e337a80f28ebdc763e25f56f&v=4" width="24" alt="Avatar of ninoseki"/> ninoseki
 			</a><br/>
 			Manabu Niseki
 		</td>
@@ -1163,62 +1176,49 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>1747</td>
 	</tr>
 	<tr>
-		<td>82</td>
-		<td>
-			<a target="_blank" href="https://github.com/soutaro">
-				<img src="https://private-avatars.githubusercontent.com/u/139089?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1MjAsIm5iZiI6MTczNDQ2MDMyMCwicGF0aCI6Ii91LzEzOTA4OSJ9.9d1byLNY8DIcH6LNWYd9clLTs_yu4OvmyZTuMS6IT5s&s=72&u=5a4b1b73ae7f8d1dc2991bea6b2cbf43c3111a56&v=4" width="24" alt="Avatar of soutaro"/> soutaro
-			</a><br/>
-			Soutaro Matsumoto
-		</td>
-		<td>Timee Inc  @taimee<br/></td>
-		<td><a target="_blank" href="https://twitter.com/soutaro">soutaro</a></td>
-		<td>Tokyo Japan</td>
-		<td>1734</td>
-	</tr>
-	<tr>
 		<td>83</td>
 		<td>
-			<a target="_blank" href="https://github.com/Avimitin">
-				<img src="https://private-avatars.githubusercontent.com/u/30021675?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE5NDAsIm5iZiI6MTczNDQ2MDc0MCwicGF0aCI6Ii91LzMwMDIxNjc1In0.pJjCta1bXZMl1AX0uh2UFOa-C02jqTMy0dLx6hwr4-Q&s=72&u=70673238ff1137962c30781e71bdb97ebd541230&v=4" width="24" alt="Avatar of Avimitin"/> Avimitin
-			</a><br/>
-			Jiongjia Lu
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td> Chiyoda City Tokyo 1010021 Japan</td>
-		<td>1726</td>
-	</tr>
-	<tr>
-		<td>84</td>
-		<td>
 			<a target="_blank" href="https://github.com/keijiro">
-				<img src="https://private-avatars.githubusercontent.com/u/343936?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA5ODAsIm5iZiI6MTczNDQ1OTc4MCwicGF0aCI6Ii91LzM0MzkzNiJ9.5yceTQcgh6agPNi8Kud-TRDmQkVAKmdDb-jPHF_Nsh4&s=72&u=b6fa096837340c2b4783bbf3b3ec88f8387d1849&v=4" width="24" alt="Avatar of keijiro"/> keijiro
+				<img src="https://private-avatars.githubusercontent.com/u/343936?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA3ODAsIm5iZiI6MTczNDU2OTU4MCwicGF0aCI6Ii91LzM0MzkzNiJ9.l5SejA6XvppUXfvlwtigCCHRDIwFZovpKpddlWxHfWU&s=72&u=b6fa096837340c2b4783bbf3b3ec88f8387d1849&v=4" width="24" alt="Avatar of keijiro"/> keijiro
 			</a><br/>
 			Keijiro Takahashi
 		</td>
 		<td>Unity Technologies Japan </td>
 		<td>No Twitter Username</td>
 		<td>Japan</td>
-		<td>1719</td>
+		<td>1730</td>
+	</tr>
+	<tr>
+		<td>84</td>
+		<td>
+			<a target="_blank" href="https://github.com/Avimitin">
+				<img src="https://private-avatars.githubusercontent.com/u/30021675?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE3NDAsIm5iZiI6MTczNDU3MDU0MCwicGF0aCI6Ii91LzMwMDIxNjc1In0.c63D9XEZ2xWU5wFHV6GM_1QRlk-oiCIaSIHqB-O4LHs&s=72&u=70673238ff1137962c30781e71bdb97ebd541230&v=4" width="24" alt="Avatar of Avimitin"/> Avimitin
+			</a><br/>
+			Jiongjia Lu
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td> Chiyoda City Tokyo 1010021 Japan</td>
+		<td>1728</td>
 	</tr>
 	<tr>
 		<td>85</td>
 		<td>
 			<a target="_blank" href="https://github.com/mashharuki">
-				<img src="https://private-avatars.githubusercontent.com/u/44923695?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA5MjAsIm5iZiI6MTczNDQ1OTcyMCwicGF0aCI6Ii91LzQ0OTIzNjk1In0.nShdG2KvDMHX7rR5Z14kswdDMxDRZ0MIf0b_bdFhJ3k&s=72&u=cf7efb9cc38a7e39747a6893b54e44b98eefa4ab&v=4" width="24" alt="Avatar of mashharuki"/> mashharuki
+				<img src="https://private-avatars.githubusercontent.com/u/44923695?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA3MjAsIm5iZiI6MTczNDU2OTUyMCwicGF0aCI6Ii91LzQ0OTIzNjk1In0.C2Z4b4a4dPzM_NTiebx0MVKOkqc4ssutH58rQrUA5vY&s=72&u=cf7efb9cc38a7e39747a6893b54e44b98eefa4ab&v=4" width="24" alt="Avatar of mashharuki"/> mashharuki
 			</a><br/>
 			Haruki Kondo
 		</td>
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/HARUKI05758694">HARUKI05758694</a></td>
 		<td>Japan</td>
-		<td>1607</td>
+		<td>1610</td>
 	</tr>
 	<tr>
 		<td>86</td>
 		<td>
 			<a target="_blank" href="https://github.com/bannzai">
-				<img src="https://private-avatars.githubusercontent.com/u/10897361?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE4MjAsIm5iZiI6MTczNDQ2MDYyMCwicGF0aCI6Ii91LzEwODk3MzYxIn0.P5oQzt_48FzxITyQoYuSFvprx1yAsxUN9T7vJ0cMTOM&s=72&u=3b3e9003f8edebbd8d68d1856eab20e38392112b&v=4" width="24" alt="Avatar of bannzai"/> bannzai
+				<img src="https://private-avatars.githubusercontent.com/u/10897361?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE2MjAsIm5iZiI6MTczNDU3MDQyMCwicGF0aCI6Ii91LzEwODk3MzYxIn0.FMfmJsonBgBdC-B3uoNKDTcqi4DT4GqzJFBUUSUSwOE&s=72&u=3b3e9003f8edebbd8d68d1856eab20e38392112b&v=4" width="24" alt="Avatar of bannzai"/> bannzai
 			</a><br/>
 			bannzai
 		</td>
@@ -1231,20 +1231,20 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>87</td>
 		<td>
 			<a target="_blank" href="https://github.com/siketyan">
-				<img src="https://private-avatars.githubusercontent.com/u/12772118?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3MDAsIm5iZiI6MTczNDQ2MDUwMCwicGF0aCI6Ii91LzEyNzcyMTE4In0.zif5tYO4-7rY7bQeXZ1kuA6WoTY20bVpxfgiuYOoIrs&s=72&u=1a51e0a06690e52982e7594bc7379481e65155a1&v=4" width="24" alt="Avatar of siketyan"/> siketyan
+				<img src="https://private-avatars.githubusercontent.com/u/12772118?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1MDAsIm5iZiI6MTczNDU3MDMwMCwicGF0aCI6Ii91LzEyNzcyMTE4In0.Wm5j1de8wBypiaUYS2fDe7RTFEgEQ_fc2u1uVm-9RPk&s=72&u=1a51e0a06690e52982e7594bc7379481e65155a1&v=4" width="24" alt="Avatar of siketyan"/> siketyan
 			</a><br/>
 			Naoki Ikeguchi
 		</td>
 		<td>@bitkeyoss </td>
 		<td>No Twitter Username</td>
 		<td>Tokyo Japan</td>
-		<td>1603</td>
+		<td>1601</td>
 	</tr>
 	<tr>
 		<td>88</td>
 		<td>
 			<a target="_blank" href="https://github.com/rigaya">
-				<img src="https://private-avatars.githubusercontent.com/u/815947?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA5ODAsIm5iZiI6MTczNDQ1OTc4MCwicGF0aCI6Ii91LzgxNTk0NyJ9.lx5ggat7IMpDdSpdKftTR5G1ZHGCQ4BIjXAYuEmXGXw&s=72&u=61f89e18d208289393dc735ca663af93d99ba343&v=4" width="24" alt="Avatar of rigaya"/> rigaya
+				<img src="https://private-avatars.githubusercontent.com/u/815947?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA3ODAsIm5iZiI6MTczNDU2OTU4MCwicGF0aCI6Ii91LzgxNTk0NyJ9.TT0bh2HsmJNbnxHAyMY3nNN_atwxkTlziFCTdjAWCog&s=72&u=61f89e18d208289393dc735ca663af93d99ba343&v=4" width="24" alt="Avatar of rigaya"/> rigaya
 			</a><br/>
 			rigaya
 		</td>
@@ -1257,72 +1257,72 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>89</td>
 		<td>
 			<a target="_blank" href="https://github.com/kazupon">
-				<img src="https://private-avatars.githubusercontent.com/u/72989?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExNjAsIm5iZiI6MTczNDQ1OTk2MCwicGF0aCI6Ii91LzcyOTg5In0.NxL1uetFWY_7Ey7tRzmhqe_SJJYt_BPH9JaXrHwSQzU&s=72&u=d4fc7a7d65aca9450523e366a63aaa791868d470&v=4" width="24" alt="Avatar of kazupon"/> kazupon
+				<img src="https://private-avatars.githubusercontent.com/u/72989?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5NjAsIm5iZiI6MTczNDU2OTc2MCwicGF0aCI6Ii91LzcyOTg5In0.zrrprrHqU3REu-EcJJTw9ru-_rwAlW6fvSVB6nDlSvA&s=72&u=d4fc7a7d65aca9450523e366a63aaa791868d470&v=4" width="24" alt="Avatar of kazupon"/> kazupon
 			</a><br/>
 			kazuya kawaguchi
 		</td>
 		<td>Plaid Inc </td>
 		<td><a target="_blank" href="https://twitter.com/kazu_pon">kazu_pon</a></td>
 		<td>Tokyo Japan</td>
-		<td>1531</td>
+		<td>1533</td>
 	</tr>
 	<tr>
 		<td>90</td>
 		<td>
 			<a target="_blank" href="https://github.com/kazu-yamamoto">
-				<img src="https://private-avatars.githubusercontent.com/u/165387?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEwNDAsIm5iZiI6MTczNDQ1OTg0MCwicGF0aCI6Ii91LzE2NTM4NyJ9.cQ2kFpS97omdBvhCUi4gB88eMDniDpdjcb3J4P9lf78&s=72&v=4" width="24" alt="Avatar of kazu-yamamoto"/> kazu-yamamoto
+				<img src="https://private-avatars.githubusercontent.com/u/165387?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA4NDAsIm5iZiI6MTczNDU2OTY0MCwicGF0aCI6Ii91LzE2NTM4NyJ9.2FkwRUCVG9_XVN7vGtjyzY80PkSZaTuoF4eFZYmOSZ0&s=72&v=4" width="24" alt="Avatar of kazu-yamamoto"/> kazu-yamamoto
 			</a><br/>
 			Kazu Yamamoto
 		</td>
 		<td>Iij Innovation Institute Inc<br/></td>
 		<td><a target="_blank" href="https://twitter.com/kazu_yamamoto">kazu_yamamoto</a></td>
 		<td>Tokyo JAPAN</td>
-		<td>1479</td>
+		<td>1495</td>
 	</tr>
 	<tr>
 		<td>91</td>
 		<td>
 			<a target="_blank" href="https://github.com/norbusan">
-				<img src="https://private-avatars.githubusercontent.com/u/1735589?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEzNDAsIm5iZiI6MTczNDQ2MDE0MCwicGF0aCI6Ii91LzE3MzU1ODkifQ.1sQqMxliJ9DRthJWG74tuw3p7YyGT2aVUrBz_-KyIz0&s=72&v=4" width="24" alt="Avatar of norbusan"/> norbusan
+				<img src="https://private-avatars.githubusercontent.com/u/1735589?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzExNDAsIm5iZiI6MTczNDU2OTk0MCwicGF0aCI6Ii91LzE3MzU1ODkifQ.BXom4EswH2qtaE1awegZl-RRAlaU90Bh-aWHC_KA-jM&s=72&v=4" width="24" alt="Avatar of norbusan"/> norbusan
 			</a><br/>
 			Norbert Preining
 		</td>
 		<td>Mercari </td>
 		<td><a target="_blank" href="https://twitter.com/norbusan">norbusan</a></td>
 		<td>Ishikawa Japan</td>
-		<td>1476</td>
+		<td>1482</td>
 	</tr>
 	<tr>
 		<td>92</td>
 		<td>
 			<a target="_blank" href="https://github.com/rhysd">
-				<img src="https://private-avatars.githubusercontent.com/u/823277?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA5MjAsIm5iZiI6MTczNDQ1OTcyMCwicGF0aCI6Ii91LzgyMzI3NyJ9.p65bA0Nw7Die2anKImN2p0uEEZSudoxFLDo2cA5l1uo&s=72&u=2bd448fd47ffdb80a92e49b497332c9a499e436c&v=4" width="24" alt="Avatar of rhysd"/> rhysd
+				<img src="https://private-avatars.githubusercontent.com/u/823277?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA3MjAsIm5iZiI6MTczNDU2OTUyMCwicGF0aCI6Ii91LzgyMzI3NyJ9.N5GIpOSk1I36NpfpvL8rJwaHZ0srfXs4TkoLroiZS44&s=72&u=2bd448fd47ffdb80a92e49b497332c9a499e436c&v=4" width="24" alt="Avatar of rhysd"/> rhysd
 			</a><br/>
 			Lindapp
 		</td>
 		<td>Img Srcx Onerroralert </td>
 		<td>No Twitter Username</td>
 		<td>Tokyo Japan</td>
-		<td>1466</td>
+		<td>1473</td>
 	</tr>
 	<tr>
 		<td>93</td>
 		<td>
 			<a target="_blank" href="https://github.com/hajimehoshi">
-				<img src="https://private-avatars.githubusercontent.com/u/16950?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyMjAsIm5iZiI6MTczNDQ2MDAyMCwicGF0aCI6Ii91LzE2OTUwIn0.d94dqhQ6TNZc-YIlDMqmRlYHgSyee9oMnRJsJ-4U2MQ&s=72&u=ed7c5b7cfcec804ff78d1e3fa43c42ef9869f9c6&v=4" width="24" alt="Avatar of hajimehoshi"/> hajimehoshi
+				<img src="https://private-avatars.githubusercontent.com/u/16950?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwMjAsIm5iZiI6MTczNDU2OTgyMCwicGF0aCI6Ii91LzE2OTUwIn0.LX7jB5149BYQTKk_wBwZwfSXBKLEBw80NuymqsnAito&s=72&u=ed7c5b7cfcec804ff78d1e3fa43c42ef9869f9c6&v=4" width="24" alt="Avatar of hajimehoshi"/> hajimehoshi
 			</a><br/>
 			Hajime Hoshi
 		</td>
 		<td>Odencat </td>
 		<td><a target="_blank" href="https://twitter.com/hajimehoshi">hajimehoshi</a></td>
 		<td>Tokyo Japan</td>
-		<td>1457</td>
+		<td>1458</td>
 	</tr>
 	<tr>
 		<td>94</td>
 		<td>
 			<a target="_blank" href="https://github.com/baku89">
-				<img src="https://private-avatars.githubusercontent.com/u/2124392?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA2MjAsIm5iZiI6MTczNDQ1OTQyMCwicGF0aCI6Ii91LzIxMjQzOTIifQ.CKK9Tm3_83R68LhHfoC5n-ujuq93BqXjh10FWZOtuDc&s=72&u=7e21013a2ca3f0465cf0505d6f75e3f19b1a0718&v=4" width="24" alt="Avatar of baku89"/> baku89
+				<img src="https://private-avatars.githubusercontent.com/u/2124392?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA0MjAsIm5iZiI6MTczNDU2OTIyMCwicGF0aCI6Ii91LzIxMjQzOTIifQ.3_8aEfh062kdHF9e3o_ki1Rwm5RBHAKW1TXTp6Mb164&s=72&u=7e21013a2ca3f0465cf0505d6f75e3f19b1a0718&v=4" width="24" alt="Avatar of baku89"/> baku89
 			</a><br/>
 			Baku 
 		</td>
@@ -1335,7 +1335,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>95</td>
 		<td>
 			<a target="_blank" href="https://github.com/PINTO0309">
-				<img src="https://private-avatars.githubusercontent.com/u/33194443?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyMjAsIm5iZiI6MTczNDQ2MDAyMCwicGF0aCI6Ii91LzMzMTk0NDQzIn0.5rxm_VJ0NAhVq2XKL_xlT0ELJ9Zaf1LFHf4fSLbN3Kg&s=72&u=0019c57c227bbce13800d18c3b29c3465adbcefa&v=4" width="24" alt="Avatar of PINTO0309"/> PINTO0309
+				<img src="https://private-avatars.githubusercontent.com/u/33194443?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwMjAsIm5iZiI6MTczNDU2OTgyMCwicGF0aCI6Ii91LzMzMTk0NDQzIn0.PBjKlnVxlAvrgExL9uZRycS_3bCluIJuBaOITObUNkM&s=72&u=0019c57c227bbce13800d18c3b29c3465adbcefa&v=4" width="24" alt="Avatar of PINTO0309"/> PINTO0309
 			</a><br/>
 			Katsuya Hyodo
 		</td>
@@ -1348,111 +1348,111 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>96</td>
 		<td>
 			<a target="_blank" href="https://github.com/zcbenz">
-				<img src="https://private-avatars.githubusercontent.com/u/639601?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA3NDAsIm5iZiI6MTczNDQ1OTU0MCwicGF0aCI6Ii91LzYzOTYwMSJ9.f1qmUZk8tpwDRbea0fOI75cfvy007HVQ3sgnm-uh4bI&s=72&u=b726a177170e74aa10fc3061f27da82822fa29d3&v=4" width="24" alt="Avatar of zcbenz"/> zcbenz
+				<img src="https://private-avatars.githubusercontent.com/u/639601?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA1NDAsIm5iZiI6MTczNDU2OTM0MCwicGF0aCI6Ii91LzYzOTYwMSJ9.3T6wa3NTrERhS1EGHNb5s_BqzY-w7Q4c7L1uYh3-kZE&s=72&u=b726a177170e74aa10fc3061f27da82822fa29d3&v=4" width="24" alt="Avatar of zcbenz"/> zcbenz
 			</a><br/>
 			Cheng
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Japan</td>
-		<td>1384</td>
+		<td>1403</td>
 	</tr>
 	<tr>
 		<td>97</td>
 		<td>
 			<a target="_blank" href="https://github.com/liquidz">
-				<img src="https://private-avatars.githubusercontent.com/u/6941?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjIwMDAsIm5iZiI6MTczNDQ2MDgwMCwicGF0aCI6Ii91LzY5NDEifQ.XYroxzboFek_oMOOmhx0QUDQeF3UQn2wQf6_xSUj9u8&s=72&v=4" width="24" alt="Avatar of liquidz"/> liquidz
+				<img src="https://private-avatars.githubusercontent.com/u/6941?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE4MDAsIm5iZiI6MTczNDU3MDYwMCwicGF0aCI6Ii91LzY5NDEifQ.hp9Er1o2DCPB0lsFJtAW2wTIt_HcHRDD7jMceOb9A8E&s=72&v=4" width="24" alt="Avatar of liquidz"/> liquidz
 			</a><br/>
 			Iizuka Masashi
 		</td>
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/uochan">uochan</a></td>
 		<td>Tokyo Japan</td>
-		<td>1362</td>
+		<td>1364</td>
 	</tr>
 	<tr>
 		<td>98</td>
 		<td>
 			<a target="_blank" href="https://github.com/neuecc">
-				<img src="https://private-avatars.githubusercontent.com/u/46207?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA4NjAsIm5iZiI6MTczNDQ1OTY2MCwicGF0aCI6Ii91LzQ2MjA3In0.ayofA70mzA21jlsBUIjG2Dcg821hy5Q71Pcg_sed6vo&s=72&u=8bb6c0de12451db4c1bf1165166b26d52d1d8747&v=4" width="24" alt="Avatar of neuecc"/> neuecc
+				<img src="https://private-avatars.githubusercontent.com/u/46207?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA2NjAsIm5iZiI6MTczNDU2OTQ2MCwicGF0aCI6Ii91LzQ2MjA3In0.T3A-b0zMDA0n7IRIhGI4GvBotHq_IrLuDoHwQvA3S2E&s=72&u=8bb6c0de12451db4c1bf1165166b26d52d1d8747&v=4" width="24" alt="Avatar of neuecc"/> neuecc
 			</a><br/>
 			Yoshifumi Kawai
 		</td>
 		<td>@cysharp </td>
 		<td><a target="_blank" href="https://twitter.com/neuecc">neuecc</a></td>
 		<td>Tokyo Japan</td>
-		<td>1356</td>
+		<td>1357</td>
 	</tr>
 	<tr>
 		<td>99</td>
 		<td>
-			<a target="_blank" href="https://github.com/momeemt">
-				<img src="https://private-avatars.githubusercontent.com/u/43488453?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE4ODAsIm5iZiI6MTczNDQ2MDY4MCwicGF0aCI6Ii91LzQzNDg4NDUzIn0.fSu_jSIToLvNvFnuzbfy3U9ifgSzlPmzIiXcoyl6orU&s=72&u=b9fe5de285b50c568ceb2c62c16318eaf32f3f2d&v=4" width="24" alt="Avatar of momeemt"/> momeemt
-			</a><br/>
-			Mutsuha Asada
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/mutsuha_asada">mutsuha_asada</a></td>
-		<td>Ibaraki Japan</td>
-		<td>1336</td>
-	</tr>
-	<tr>
-		<td>100</td>
-		<td>
 			<a target="_blank" href="https://github.com/jsakamoto">
-				<img src="https://private-avatars.githubusercontent.com/u/95908?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEzNDAsIm5iZiI6MTczNDQ2MDE0MCwicGF0aCI6Ii91Lzk1OTA4In0.sVEz1ZoyiAII4aVhiU8uKaq93mlz6VcTJWE43kcRybY&s=72&v=4" width="24" alt="Avatar of jsakamoto"/> jsakamoto
+				<img src="https://private-avatars.githubusercontent.com/u/95908?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzExNDAsIm5iZiI6MTczNDU2OTk0MCwicGF0aCI6Ii91Lzk1OTA4In0.JIfZf8gfCRBbjERfgOTLnqD5vwrLCNkGAIbBaN3a3r4&s=72&v=4" width="24" alt="Avatar of jsakamoto"/> jsakamoto
 			</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/jsakamoto">jsakamoto</a></td>
 		<td>Japan</td>
-		<td>1334</td>
+		<td>1345</td>
+	</tr>
+	<tr>
+		<td>100</td>
+		<td>
+			<a target="_blank" href="https://github.com/momeemt">
+				<img src="https://private-avatars.githubusercontent.com/u/43488453?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE2ODAsIm5iZiI6MTczNDU3MDQ4MCwicGF0aCI6Ii91LzQzNDg4NDUzIn0.Iq382ABkhTUb_StzS9hh_VQPewsvfMmBL-f501-qkXM&s=72&u=b9fe5de285b50c568ceb2c62c16318eaf32f3f2d&v=4" width="24" alt="Avatar of momeemt"/> momeemt
+			</a><br/>
+			Mutsuha Asada
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/mutsuha_asada">mutsuha_asada</a></td>
+		<td>Ibaraki Japan</td>
+		<td>1337</td>
 	</tr>
 	<tr>
 		<td>101</td>
 		<td>
 			<a target="_blank" href="https://github.com/ianlewis">
-				<img src="https://private-avatars.githubusercontent.com/u/49289?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEwNDAsIm5iZiI6MTczNDQ1OTg0MCwicGF0aCI6Ii91LzQ5Mjg5In0.4iL37O8V6XGuR1U1pha1eLS6xO6FCkxO8UVphbvf5s8&s=72&u=488f1a25e8da47458e21e8397e963c6ff169465e&v=4" width="24" alt="Avatar of ianlewis"/> ianlewis
+				<img src="https://private-avatars.githubusercontent.com/u/49289?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA4NDAsIm5iZiI6MTczNDU2OTY0MCwicGF0aCI6Ii91LzQ5Mjg5In0.EO7s7zg_350GhJv8gh_A48UwnPvLVn6gIgkdVuKfu9M&s=72&u=488f1a25e8da47458e21e8397e963c6ff169465e&v=4" width="24" alt="Avatar of ianlewis"/> ianlewis
 			</a><br/>
 			Ian Lewis
 		</td>
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/IanMLewis">IanMLewis</a></td>
 		<td>Tokyo Japan</td>
-		<td>1327</td>
+		<td>1331</td>
 	</tr>
 	<tr>
 		<td>102</td>
 		<td>
 			<a target="_blank" href="https://github.com/CaseyNelson314">
-				<img src="https://private-avatars.githubusercontent.com/u/91818705?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE4ODAsIm5iZiI6MTczNDQ2MDY4MCwicGF0aCI6Ii91LzkxODE4NzA1In0.G1bCiGgHJiXI2FAz5b-zD1S6jMiEMCFHBxW8VOos6yk&s=72&u=b9529283178885f7ba2791a9f1b0638dc53fd90d&v=4" width="24" alt="Avatar of CaseyNelson314"/> CaseyNelson314
+				<img src="https://private-avatars.githubusercontent.com/u/91818705?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE2ODAsIm5iZiI6MTczNDU3MDQ4MCwicGF0aCI6Ii91LzkxODE4NzA1In0.S5AgZS4s32TBQJ8pImTm3_dVd02JBFLoXDfkjlePZws&s=72&u=b9529283178885f7ba2791a9f1b0638dc53fd90d&v=4" width="24" alt="Avatar of CaseyNelson314"/> CaseyNelson314
 			</a><br/>
 			Okawa Yusuke
 		</td>
 		<td>@udonrobo </td>
 		<td><a target="_blank" href="https://twitter.com/CaseyNelson314">CaseyNelson314</a></td>
 		<td>Japan</td>
-		<td>1315</td>
+		<td>1324</td>
 	</tr>
 	<tr>
 		<td>103</td>
 		<td>
 			<a target="_blank" href="https://github.com/seia-soto">
-				<img src="https://private-avatars.githubusercontent.com/u/30369714?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1MjAsIm5iZiI6MTczNDQ2MDMyMCwicGF0aCI6Ii91LzMwMzY5NzE0In0.h4n4WOTdhQoC0-iSpBxnOsjObfa5VCTiHAVHyfLtaqM&s=72&u=312167734503a5f80971ee6c25a817945dc09530&v=4" width="24" alt="Avatar of seia-soto"/> seia-soto
+				<img src="https://private-avatars.githubusercontent.com/u/30369714?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzMjAsIm5iZiI6MTczNDU3MDEyMCwicGF0aCI6Ii91LzMwMzY5NzE0In0.SSyJJ3GoqjzwVSvwiVv0cb4D-_UE-T2zZaLZIS7pnFc&s=72&u=312167734503a5f80971ee6c25a817945dc09530&v=4" width="24" alt="Avatar of seia-soto"/> seia-soto
 			</a><br/>
 			HoJeong Go
 		</td>
 		<td>@ghostery </td>
 		<td>No Twitter Username</td>
 		<td>Osaka Japan</td>
-		<td>1310</td>
+		<td>1318</td>
 	</tr>
 	<tr>
 		<td>104</td>
 		<td>
 			<a target="_blank" href="https://github.com/bluele">
-				<img src="https://private-avatars.githubusercontent.com/u/1170428?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1ODAsIm5iZiI6MTczNDQ2MDM4MCwicGF0aCI6Ii91LzExNzA0MjgifQ.dGhggeXCqvTNTu8G_qtj-mHZEXa5xRrNUm8JvhVuFho&s=72&u=6530f2975867e7fdf88181bd9ae8471060308bb1&v=4" width="24" alt="Avatar of bluele"/> bluele
+				<img src="https://private-avatars.githubusercontent.com/u/1170428?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzODAsIm5iZiI6MTczNDU3MDE4MCwicGF0aCI6Ii91LzExNzA0MjgifQ.PZrzes0y6PSxvX-91jejkdmYY9Oj0jlURhAqJDFQ_dg&s=72&u=6530f2975867e7fdf88181bd9ae8471060308bb1&v=4" width="24" alt="Avatar of bluele"/> bluele
 			</a><br/>
 			Jun Kimura
 		</td>
@@ -1465,7 +1465,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>105</td>
 		<td>
 			<a target="_blank" href="https://github.com/cxxxr">
-				<img src="https://private-avatars.githubusercontent.com/u/13656378?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE5NDAsIm5iZiI6MTczNDQ2MDc0MCwicGF0aCI6Ii91LzEzNjU2Mzc4In0.Whs5I8UjUiIVrvaXz4KTPxceUrl6TXEMTJCC2Od26pI&s=72&u=184c029089a7535cc390909d6fe72a6660e3d423&v=4" width="24" alt="Avatar of cxxxr"/> cxxxr
+				<img src="https://private-avatars.githubusercontent.com/u/13656378?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA4NDAsIm5iZiI6MTczNDU2OTY0MCwicGF0aCI6Ii91LzEzNjU2Mzc4In0.2sQWLReI6jN5UJ8p5IgYj2YVx9bR6iS6geDZ8kVa0Ww&s=72&u=184c029089a7535cc390909d6fe72a6660e3d423&v=4" width="24" alt="Avatar of cxxxr"/> cxxxr
 			</a><br/>
 			cxxxr
 		</td>
@@ -1478,46 +1478,59 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>106</td>
 		<td>
 			<a target="_blank" href="https://github.com/komagata">
-				<img src="https://private-avatars.githubusercontent.com/u/16577?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0MDAsIm5iZiI6MTczNDQ2MDIwMCwicGF0aCI6Ii91LzE2NTc3In0.s1gSFlRw_hQ3tHZKhg2k2yGyj7bXu7xquZdRbWSxdgw&s=72&u=2eca4174a6846dd4898d7413e5f36b3b70aaf9c2&v=4" width="24" alt="Avatar of komagata"/> komagata
+				<img src="https://private-avatars.githubusercontent.com/u/16577?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyMDAsIm5iZiI6MTczNDU3MDAwMCwicGF0aCI6Ii91LzE2NTc3In0.jSxMmDgYdNKLCo3PtzYdjX5y6lus1XonaVBtQvos5lM&s=72&u=2eca4174a6846dd4898d7413e5f36b3b70aaf9c2&v=4" width="24" alt="Avatar of komagata"/> komagata
 			</a><br/>
 			Masaki Komagata
 		</td>
 		<td>Fjord Inc </td>
 		<td><a target="_blank" href="https://twitter.com/komagata">komagata</a></td>
 		<td>Tokyo Japan</td>
-		<td>1292</td>
+		<td>1294</td>
 	</tr>
 	<tr>
 		<td>107</td>
 		<td>
 			<a target="_blank" href="https://github.com/ktoso">
-				<img src="https://private-avatars.githubusercontent.com/u/120979?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0NjAsIm5iZiI6MTczNDQ2MDI2MCwicGF0aCI6Ii91LzEyMDk3OSJ9.mA_B4rY74uV_if1uthZlvPzdiFpIVDmPbkhGbKMHl58&s=72&u=303784755edf774dbb6e9e33434e7a0b4adbf2cd&v=4" width="24" alt="Avatar of ktoso"/> ktoso
+				<img src="https://private-avatars.githubusercontent.com/u/120979?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzAzNjAsIm5iZiI6MTczNDU2OTE2MCwicGF0aCI6Ii91LzEyMDk3OSJ9.roZB1Wr67eberWbXnf685frGxfMJBDRJ9C4UXVeRbDA&s=72&u=303784755edf774dbb6e9e33434e7a0b4adbf2cd&v=4" width="24" alt="Avatar of ktoso"/> ktoso
 			</a><br/>
 			Konrad ktoso Malawski
 		</td>
 		<td>We Sell Fruit <br/><br/></td>
 		<td><a target="_blank" href="https://twitter.com/ktosopl">ktosopl</a></td>
 		<td>Im fine thanks Tokyo</td>
-		<td>1289</td>
+		<td>1290</td>
 	</tr>
 	<tr>
 		<td>108</td>
 		<td>
 			<a target="_blank" href="https://github.com/ubugeeei">
-				<img src="https://private-avatars.githubusercontent.com/u/71201308?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0NjAsIm5iZiI6MTczNDQ2MDI2MCwicGF0aCI6Ii91LzcxMjAxMzA4In0.LqPhuUjfMOGNO-4ndWvwjGt_lbn4shvtWL7LiOXyd9Y&s=72&u=536018d050af3f13a99026d03a5d1ab57bda6a20&v=4" width="24" alt="Avatar of ubugeeei"/> ubugeeei
+				<img src="https://private-avatars.githubusercontent.com/u/71201308?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyNjAsIm5iZiI6MTczNDU3MDA2MCwicGF0aCI6Ii91LzcxMjAxMzA4In0.jpP5-dqZcfQy7sKs3hg00GfMckeRAlz5oTBqnfdD9vE&s=72&u=536018d050af3f13a99026d03a5d1ab57bda6a20&v=4" width="24" alt="Avatar of ubugeeei"/> ubugeeei
 			</a><br/>
 			ubugeeei
 		</td>
 		<td>@matessystem </td>
 		<td><a target="_blank" href="https://twitter.com/ubugeeei">ubugeeei</a></td>
 		<td>Tokyo  Japan</td>
-		<td>1280</td>
+		<td>1288</td>
 	</tr>
 	<tr>
 		<td>109</td>
 		<td>
+			<a target="_blank" href="https://github.com/fosskers">
+				<img src="https://private-avatars.githubusercontent.com/u/229679?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA2MDAsIm5iZiI6MTczNDU2OTQwMCwicGF0aCI6Ii91LzIyOTY3OSJ9.RKVJsE954ud27JGIo_V_KM0EUM8ZpCnR-K9Ccyaj5jo&s=72&u=3d7b0e8e29803bc3c969c89f92f66dec0fc1b606&v=4" width="24" alt="Avatar of fosskers"/> fosskers
+			</a><br/>
+			Colin Woodbury
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/fosskers">fosskers</a></td>
+		<td>Japan</td>
+		<td>1276</td>
+	</tr>
+	<tr>
+		<td>110</td>
+		<td>
 			<a target="_blank" href="https://github.com/MagicalTux">
-				<img src="https://private-avatars.githubusercontent.com/u/333658?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE4ODAsIm5iZiI6MTczNDQ2MDY4MCwicGF0aCI6Ii91LzMzMzY1OCJ9.015TzB3xoQ0RyAvSs6QJY1ZXv4RRQYRSfo8Vo-_0gtY&s=72&v=4" width="24" alt="Avatar of MagicalTux"/> MagicalTux
+				<img src="https://private-avatars.githubusercontent.com/u/333658?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE2ODAsIm5iZiI6MTczNDU3MDQ4MCwicGF0aCI6Ii91LzMzMzY1OCJ9.71gX6Ak0OK7BBs6gUGkuzxsM6oWqdsrT_U96HSR-beg&s=72&v=4" width="24" alt="Avatar of MagicalTux"/> MagicalTux
 			</a><br/>
 			Mark Karpels
 		</td>
@@ -1527,49 +1540,36 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>1275</td>
 	</tr>
 	<tr>
-		<td>110</td>
-		<td>
-			<a target="_blank" href="https://github.com/fosskers">
-				<img src="https://private-avatars.githubusercontent.com/u/229679?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3MDAsIm5iZiI6MTczNDQ2MDUwMCwicGF0aCI6Ii91LzIyOTY3OSJ9.X3v9v-vShIR-rMFYt5L5NvgN_8UnAyOEDwU6rJxoGo4&s=72&u=3d7b0e8e29803bc3c969c89f92f66dec0fc1b606&v=4" width="24" alt="Avatar of fosskers"/> fosskers
-			</a><br/>
-			Colin Woodbury
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/fosskers">fosskers</a></td>
-		<td>Japan</td>
-		<td>1269</td>
-	</tr>
-	<tr>
 		<td>111</td>
 		<td>
 			<a target="_blank" href="https://github.com/Jxck">
-				<img src="https://private-avatars.githubusercontent.com/u/322289?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyMjAsIm5iZiI6MTczNDQ2MDAyMCwicGF0aCI6Ii91LzMyMjI4OSJ9.juIi03q176LNAkqsvV8gquW2AWFuHM7NENfWDIXILv8&s=72&u=fee38d125ebdcd6da6a62341256d5b677709a071&v=4" width="24" alt="Avatar of Jxck"/> Jxck
+				<img src="https://private-avatars.githubusercontent.com/u/322289?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwMjAsIm5iZiI6MTczNDU2OTgyMCwicGF0aCI6Ii91LzMyMjI4OSJ9.6KrXLvFJEa0Hh5sUrEs95TrJEXPTFuemDGyN-tsFLfs&s=72&u=fee38d125ebdcd6da6a62341256d5b677709a071&v=4" width="24" alt="Avatar of Jxck"/> Jxck
 			</a><br/>
 			Jxck
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Tokyo Japan</td>
-		<td>1238</td>
+		<td>1245</td>
 	</tr>
 	<tr>
 		<td>112</td>
 		<td>
 			<a target="_blank" href="https://github.com/youtalk">
-				<img src="https://private-avatars.githubusercontent.com/u/579333?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3NjAsIm5iZiI6MTczNDQ2MDU2MCwicGF0aCI6Ii91LzU3OTMzMyJ9.6N6fl4_N7MoZn0BEiMeUCWG-RaljwPVOB-kuLjQtgPQ&s=72&u=969de9a37b07488c01c597e04131d790969c9d4e&v=4" width="24" alt="Avatar of youtalk"/> youtalk
+				<img src="https://private-avatars.githubusercontent.com/u/579333?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1NjAsIm5iZiI6MTczNDU3MDM2MCwicGF0aCI6Ii91LzU3OTMzMyJ9.SaWTlfjLjJAmrLi8VFlx7was1D7ODDo92b6rXWu7gX4&s=72&u=969de9a37b07488c01c597e04131d790969c9d4e&v=4" width="24" alt="Avatar of youtalk"/> youtalk
 			</a><br/>
 			Yutaka Kondo
 		</td>
 		<td>@tier4 </td>
 		<td><a target="_blank" href="https://twitter.com/youtalk">youtalk</a></td>
 		<td>Tokyo Japan</td>
-		<td>1227</td>
+		<td>1234</td>
 	</tr>
 	<tr>
 		<td>113</td>
 		<td>
 			<a target="_blank" href="https://github.com/yannklein">
-				<img src="https://private-avatars.githubusercontent.com/u/26819547?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjIwNjAsIm5iZiI6MTczNDQ2MDg2MCwicGF0aCI6Ii91LzI2ODE5NTQ3In0.zYU26__PvDBuLa1w8ae4c543uMp8rJvUnznm1IT0Djw&s=72&u=0efbdf2e7e68b2cd2992e71c1ee23f4930e2c555&v=4" width="24" alt="Avatar of yannklein"/> yannklein
+				<img src="https://private-avatars.githubusercontent.com/u/26819547?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE4NjAsIm5iZiI6MTczNDU3MDY2MCwicGF0aCI6Ii91LzI2ODE5NTQ3In0.ddfA0sEgxpZi_5RWznYbuAHxujGd87llFyDLs6vgZyA&s=72&u=0efbdf2e7e68b2cd2992e71c1ee23f4930e2c555&v=4" width="24" alt="Avatar of yannklein"/> yannklein
 			</a><br/>
 			Yann Klein
 		</td>
@@ -1582,20 +1582,20 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>114</td>
 		<td>
 			<a target="_blank" href="https://github.com/toshimaru">
-				<img src="https://private-avatars.githubusercontent.com/u/803398?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0NjAsIm5iZiI6MTczNDQ2MDI2MCwicGF0aCI6Ii91LzgwMzM5OCJ9.qRbM0lvmnDwQPfSBWN8NUi0zx-W4n4Yt4XvqAcGNXJY&s=72&v=4" width="24" alt="Avatar of toshimaru"/> toshimaru
+				<img src="https://private-avatars.githubusercontent.com/u/803398?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyNjAsIm5iZiI6MTczNDU3MDA2MCwicGF0aCI6Ii91LzgwMzM5OCJ9.PhPenzNFZ-1SS4VsMmpwWgkioBwsZRrDWqHoY-NyuGI&s=72&v=4" width="24" alt="Avatar of toshimaru"/> toshimaru
 			</a><br/>
 			Toshimaru
 		</td>
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/toshimaru_e">toshimaru_e</a></td>
 		<td>Japan</td>
-		<td>1214</td>
+		<td>1219</td>
 	</tr>
 	<tr>
 		<td>115</td>
 		<td>
 			<a target="_blank" href="https://github.com/hadashiA">
-				<img src="https://private-avatars.githubusercontent.com/u/727159?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE2NDAsIm5iZiI6MTczNDQ2MDQ0MCwicGF0aCI6Ii91LzcyNzE1OSJ9.dUxmz3DZY8wbwUR0EypHizIgRLScU_ul1H00pgogbhk&s=72&u=ba0342c38a95dc8f25bd72d62a63aa4f014a7c1f&v=4" width="24" alt="Avatar of hadashiA"/> hadashiA
+				<img src="https://private-avatars.githubusercontent.com/u/727159?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE0NDAsIm5iZiI6MTczNDU3MDI0MCwicGF0aCI6Ii91LzcyNzE1OSJ9.k819qG4wCAdwJpggq2ZGOq2MOMm_wFBHWy9zeFYDvoY&s=72&u=ba0342c38a95dc8f25bd72d62a63aa4f014a7c1f&v=4" width="24" alt="Avatar of hadashiA"/> hadashiA
 			</a><br/>
 			hadashiA
 		</td>
@@ -1608,7 +1608,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>116</td>
 		<td>
 			<a target="_blank" href="https://github.com/viasnake">
-				<img src="https://private-avatars.githubusercontent.com/u/6961187?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3MDAsIm5iZiI6MTczNDQ2MDUwMCwicGF0aCI6Ii91LzY5NjExODcifQ.kZ36y-GylUyFWUBrvQ787feZJHdNkX-lg2hpTBuqX50&s=72&u=5866decb7f5f3aa4640132af45217b0953004bf1&v=4" width="24" alt="Avatar of viasnake"/> viasnake
+				<img src="https://private-avatars.githubusercontent.com/u/6961187?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1MDAsIm5iZiI6MTczNDU3MDMwMCwicGF0aCI6Ii91LzY5NjExODcifQ.6jRGxUPqASNyJRP2cBM0Nq-kNpVCX94AQGyL2pc6XQ4&s=72&u=5866decb7f5f3aa4640132af45217b0953004bf1&v=4" width="24" alt="Avatar of viasnake"/> viasnake
 			</a><br/>
 			snake
 		</td>
@@ -1621,7 +1621,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>117</td>
 		<td>
 			<a target="_blank" href="https://github.com/inokawa">
-				<img src="https://private-avatars.githubusercontent.com/u/48897392?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3MDAsIm5iZiI6MTczNDQ2MDUwMCwicGF0aCI6Ii91LzQ4ODk3MzkyIn0.1Ynz6Sw8ZHUDoXwxy-os8WaJrHaJGuZeIbYLnbw2ziI&s=72&u=385b4fe5d271d15e66c0a9f7d3c4b0e1806b6764&v=4" width="24" alt="Avatar of inokawa"/> inokawa
+				<img src="https://private-avatars.githubusercontent.com/u/48897392?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1MDAsIm5iZiI6MTczNDU3MDMwMCwicGF0aCI6Ii91LzQ4ODk3MzkyIn0.JNS3N59MzWVYy0jqVc76ertsE70ONCx-pfhGvUz4aFM&s=72&u=385b4fe5d271d15e66c0a9f7d3c4b0e1806b6764&v=4" width="24" alt="Avatar of inokawa"/> inokawa
 			</a><br/>
 			No Name
 		</td>
@@ -1634,20 +1634,33 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>118</td>
 		<td>
 			<a target="_blank" href="https://github.com/seratch">
-				<img src="https://private-avatars.githubusercontent.com/u/19658?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0NjAsIm5iZiI6MTczNDQ2MDI2MCwicGF0aCI6Ii91LzE5NjU4In0.2hTkw8cP5QXigCBjiRuGX9YFbxdn_NdRqTGap_b0Exs&s=72&u=33a7cbe96e38b9572db1046209104c5c6f19bd7c&v=4" width="24" alt="Avatar of seratch"/> seratch
+				<img src="https://private-avatars.githubusercontent.com/u/19658?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyNjAsIm5iZiI6MTczNDU3MDA2MCwicGF0aCI6Ii91LzE5NjU4In0.DhvZaKcg6Kw76OjD8yUZ8dQ1DX_IHEIcVE_UnGTiq10&s=72&u=33a7cbe96e38b9572db1046209104c5c6f19bd7c&v=4" width="24" alt="Avatar of seratch"/> seratch
 			</a><br/>
 			Kazuhiro Sera
 		</td>
 		<td>Slack @slackhq @slackapi </td>
 		<td><a target="_blank" href="https://twitter.com/seratch">seratch</a></td>
 		<td>Tokyo Japan</td>
-		<td>1186</td>
+		<td>1187</td>
 	</tr>
 	<tr>
 		<td>119</td>
 		<td>
+			<a target="_blank" href="https://github.com/privatenumber">
+				<img src="https://private-avatars.githubusercontent.com/u/1075694?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA2NjAsIm5iZiI6MTczNDU2OTQ2MCwicGF0aCI6Ii91LzEwNzU2OTQifQ.S4F_9xgDemgD0DdenK-BzMVRT7wCMnoNVSJwuDoUDUo&s=72&u=7f766073ee609bfb8876e1ae2b55ace083c1c19c&v=4" width="24" alt="Avatar of privatenumber"/> privatenumber
+			</a><br/>
+			Hiroki Osame
+		</td>
+		<td>@square </td>
+		<td><a target="_blank" href="https://twitter.com/privatenumbr">privatenumbr</a></td>
+		<td>Tokyo Japan</td>
+		<td>1161</td>
+	</tr>
+	<tr>
+		<td>120</td>
+		<td>
 			<a target="_blank" href="https://github.com/SunsetMkt">
-				<img src="https://private-avatars.githubusercontent.com/u/26019675?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExNjAsIm5iZiI6MTczNDQ1OTk2MCwicGF0aCI6Ii91LzI2MDE5Njc1In0.LDool3erkM0wOv4Q5dH9UmIuG3JNHBAIQj30G5VrnP8&s=72&u=d33524560b847239527ef69152688f02a504767a&v=4" width="24" alt="Avatar of SunsetMkt"/> SunsetMkt
+				<img src="https://private-avatars.githubusercontent.com/u/26019675?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5NjAsIm5iZiI6MTczNDU2OTc2MCwicGF0aCI6Ii91LzI2MDE5Njc1In0.mjy15EK-EmgZk0VvXcjYStTv5PiCElLbX3xRCQKmTeA&s=72&u=d33524560b847239527ef69152688f02a504767a&v=4" width="24" alt="Avatar of SunsetMkt"/> SunsetMkt
 			</a><br/>
 			Sunset Mikoto
 		</td>
@@ -1657,62 +1670,49 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>1159</td>
 	</tr>
 	<tr>
-		<td>120</td>
-		<td>
-			<a target="_blank" href="https://github.com/ykzts">
-				<img src="https://private-avatars.githubusercontent.com/u/12539?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE2NDAsIm5iZiI6MTczNDQ2MDQ0MCwicGF0aCI6Ii91LzEyNTM5In0.bBAoacYe3Vy-CQmiNVXlqiwfVMBroxEHOHHESCtEHOE&s=72&u=b6e122787ee3f7d261dd6d4f0557990699953ea9&v=4" width="24" alt="Avatar of ykzts"/> ykzts
-			</a><br/>
-			Yamagishi Kazutoshi
-		</td>
-		<td>@inabagumi </td>
-		<td><a target="_blank" href="https://twitter.com/ykzts">ykzts</a></td>
-		<td>Japan</td>
-		<td>1158</td>
-	</tr>
-	<tr>
 		<td>121</td>
 		<td>
-			<a target="_blank" href="https://github.com/privatenumber">
-				<img src="https://private-avatars.githubusercontent.com/u/1075694?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA4NjAsIm5iZiI6MTczNDQ1OTY2MCwicGF0aCI6Ii91LzEwNzU2OTQifQ.OMV2WOXjit-invM5rLBuMqofQSdTwYtnIB4igXf2kJI&s=72&u=7f766073ee609bfb8876e1ae2b55ace083c1c19c&v=4" width="24" alt="Avatar of privatenumber"/> privatenumber
-			</a><br/>
-			Hiroki Osame
-		</td>
-		<td>@square </td>
-		<td><a target="_blank" href="https://twitter.com/privatenumbr">privatenumbr</a></td>
-		<td>Tokyo Japan</td>
-		<td>1157</td>
-	</tr>
-	<tr>
-		<td>122</td>
-		<td>
 			<a target="_blank" href="https://github.com/syohex">
-				<img src="https://private-avatars.githubusercontent.com/u/554281?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA4NjAsIm5iZiI6MTczNDQ1OTY2MCwicGF0aCI6Ii91LzU1NDI4MSJ9.Hv-1MgYzC4SGmyM0V9toP8cfn_-I0AUpB8mAv1I2XBE&s=72&u=334c345f4df78e69ffa301e8588105e87f1f4241&v=4" width="24" alt="Avatar of syohex"/> syohex
+				<img src="https://private-avatars.githubusercontent.com/u/554281?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA2NjAsIm5iZiI6MTczNDU2OTQ2MCwicGF0aCI6Ii91LzU1NDI4MSJ9.oYcnQqyL_nB19HjchsKTV8jtraK0jubrnc6qe5fwH_w&s=72&u=334c345f4df78e69ffa301e8588105e87f1f4241&v=4" width="24" alt="Avatar of syohex"/> syohex
 			</a><br/>
 			Shohei YOSHIDA
 		</td>
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/syohex">syohex</a></td>
 		<td>Tokyo Japan</td>
-		<td>1154</td>
+		<td>1159</td>
+	</tr>
+	<tr>
+		<td>122</td>
+		<td>
+			<a target="_blank" href="https://github.com/ykzts">
+				<img src="https://private-avatars.githubusercontent.com/u/12539?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE0NDAsIm5iZiI6MTczNDU3MDI0MCwicGF0aCI6Ii91LzEyNTM5In0.6hxNoeaq67Udz_oCB60KSgrafVNvlcaOVPyvQUXm-RY&s=72&u=b6e122787ee3f7d261dd6d4f0557990699953ea9&v=4" width="24" alt="Avatar of ykzts"/> ykzts
+			</a><br/>
+			Yamagishi Kazutoshi
+		</td>
+		<td>@inabagumi </td>
+		<td><a target="_blank" href="https://twitter.com/ykzts">ykzts</a></td>
+		<td>Japan</td>
+		<td>1159</td>
 	</tr>
 	<tr>
 		<td>123</td>
 		<td>
 			<a target="_blank" href="https://github.com/akinomyoga">
-				<img src="https://private-avatars.githubusercontent.com/u/8982192?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjIxODAsIm5iZiI6MTczNDQ2MDk4MCwicGF0aCI6Ii91Lzg5ODIxOTIifQ.yexChJSX9614ztDSicH51Maww5lnFMPfeDPjZaPuj78&s=72&u=e0f98cf4d84f1fd916c37ad9a32533a196ed02b0&v=4" width="24" alt="Avatar of akinomyoga"/> akinomyoga
+				<img src="https://private-avatars.githubusercontent.com/u/8982192?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwODAsIm5iZiI6MTczNDU2OTg4MCwicGF0aCI6Ii91Lzg5ODIxOTIifQ.7iDEjoSa1UbrV2Kg3STGS_yuSO4Ag4kBbHHBtMvUQHw&s=72&u=e0f98cf4d84f1fd916c37ad9a32533a196ed02b0&v=4" width="24" alt="Avatar of akinomyoga"/> akinomyoga
 			</a><br/>
 			Koichi Murase
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Japan</td>
-		<td>1152</td>
+		<td>1155</td>
 	</tr>
 	<tr>
 		<td>124</td>
 		<td>
 			<a target="_blank" href="https://github.com/tatsuyafujisaki">
-				<img src="https://private-avatars.githubusercontent.com/u/1838962?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA5MjAsIm5iZiI6MTczNDQ1OTcyMCwicGF0aCI6Ii91LzE4Mzg5NjIifQ.H90LNG_n4mjOw854Yjk-Ot4aIgnDN-dAXleWURTe_JQ&s=72&u=db89b48fe670a9dee7e6fabdda60306cfe9827ea&v=4" width="24" alt="Avatar of tatsuyafujisaki"/> tatsuyafujisaki
+				<img src="https://private-avatars.githubusercontent.com/u/1838962?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA3MjAsIm5iZiI6MTczNDU2OTUyMCwicGF0aCI6Ii91LzE4Mzg5NjIifQ.3lmp1wfeIjMpXtft_bMGQVTFhHyh8iPU0_baH9JTv-A&s=72&u=db89b48fe670a9dee7e6fabdda60306cfe9827ea&v=4" width="24" alt="Avatar of tatsuyafujisaki"/> tatsuyafujisaki
 			</a><br/>
 			Tatsuya Fujisaki
 		</td>
@@ -1724,8 +1724,21 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 	<tr>
 		<td>125</td>
 		<td>
+			<a target="_blank" href="https://github.com/t4sk">
+				<img src="https://private-avatars.githubusercontent.com/u/8084705?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzExNDAsIm5iZiI6MTczNDU2OTk0MCwicGF0aCI6Ii91LzgwODQ3MDUifQ.DGjR7OMKixjmknvYimOg2u3RYkPi_har7j0qTslvqCM&s=72&u=3c4b24b57e56a88883b3747d4666084164ad2e43&v=4" width="24" alt="Avatar of t4sk"/> t4sk
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/ProgrammerSmart">ProgrammerSmart</a></td>
+		<td>japan</td>
+		<td>1131</td>
+	</tr>
+	<tr>
+		<td>126</td>
+		<td>
 			<a target="_blank" href="https://github.com/LaoshuBaby">
-				<img src="https://private-avatars.githubusercontent.com/u/42690037?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE4MjAsIm5iZiI6MTczNDQ2MDYyMCwicGF0aCI6Ii91LzQyNjkwMDM3In0.6gH5QFRCRWLELnM8FelZbIo37l7KwIKry-QwqeKjE5k&s=72&u=94552efbc8d8d51d8c86ce43e9f8c5f6fca2c799&v=4" width="24" alt="Avatar of LaoshuBaby"/> LaoshuBaby
+				<img src="https://private-avatars.githubusercontent.com/u/42690037?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE2MjAsIm5iZiI6MTczNDU3MDQyMCwicGF0aCI6Ii91LzQyNjkwMDM3In0.2LlcUGF0OVApcZ-uf-pCvDhrghh4CCbJljiIcGdxYVE&s=72&u=94552efbc8d8d51d8c86ce43e9f8c5f6fca2c799&v=4" width="24" alt="Avatar of LaoshuBaby"/> LaoshuBaby
 			</a><br/>
 			
 		</td>
@@ -1735,49 +1748,49 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>1131</td>
 	</tr>
 	<tr>
-		<td>126</td>
+		<td>127</td>
 		<td>
 			<a target="_blank" href="https://github.com/sideshowbarker">
-				<img src="https://private-avatars.githubusercontent.com/u/194984?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExNjAsIm5iZiI6MTczNDQ1OTk2MCwicGF0aCI6Ii91LzE5NDk4NCJ9.5Sny4EVMu-jX9RaUXAtf2Ip6-j5zyhgGdwQWgz-kw4c&s=72&v=4" width="24" alt="Avatar of sideshowbarker"/> sideshowbarker
+				<img src="https://private-avatars.githubusercontent.com/u/194984?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5NjAsIm5iZiI6MTczNDU2OTc2MCwicGF0aCI6Ii91LzE5NDk4NCJ9.fY3td59Qa4BnOarOYX12VV1w2pBFZDR9tTIyOaN85uQ&s=72&v=4" width="24" alt="Avatar of sideshowbarker"/> sideshowbarker
 			</a><br/>
 			No Name
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Tokyo</td>
-		<td>1127</td>
-	</tr>
-	<tr>
-		<td>127</td>
-		<td>
-			<a target="_blank" href="https://github.com/t4sk">
-				<img src="https://private-avatars.githubusercontent.com/u/8084705?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEzNDAsIm5iZiI6MTczNDQ2MDE0MCwicGF0aCI6Ii91LzgwODQ3MDUifQ.-DN7WtK2cN_t0iK68NXexbW72q01-3QLl964H6HHrNI&s=72&u=3c4b24b57e56a88883b3747d4666084164ad2e43&v=4" width="24" alt="Avatar of t4sk"/> t4sk
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/ProgrammerSmart">ProgrammerSmart</a></td>
-		<td>japan</td>
-		<td>1123</td>
+		<td>1130</td>
 	</tr>
 	<tr>
 		<td>128</td>
 		<td>
 			<a target="_blank" href="https://github.com/atsushieno">
-				<img src="https://private-avatars.githubusercontent.com/u/53929?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE4MjAsIm5iZiI6MTczNDQ2MDYyMCwicGF0aCI6Ii91LzUzOTI5In0.MhrNZoHwe0c-KxZEf3a691efZxnkvgodDiBwGcgPuhM&s=72&u=5b814aebc706c6b7fb367d34e6280c17191a831a&v=4" width="24" alt="Avatar of atsushieno"/> atsushieno
+				<img src="https://private-avatars.githubusercontent.com/u/53929?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE2MjAsIm5iZiI6MTczNDU3MDQyMCwicGF0aCI6Ii91LzUzOTI5In0.8-n8nVfCtpuqYwp3Lq5exytLo7xQoCPFcdy-T3cg8iM&s=72&u=5b814aebc706c6b7fb367d34e6280c17191a831a&v=4" width="24" alt="Avatar of atsushieno"/> atsushieno
 			</a><br/>
 			Atsushi Eno
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Tokyo</td>
-		<td>1111</td>
+		<td>1112</td>
 	</tr>
 	<tr>
 		<td>129</td>
 		<td>
+			<a target="_blank" href="https://github.com/kurone-kito">
+				<img src="https://private-avatars.githubusercontent.com/u/44661432?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzODAsIm5iZiI6MTczNDU3MDE4MCwicGF0aCI6Ii91LzQ0NjYxNDMyIn0.Dn7yMghUJjBGqYjTJJyVhaMLee9_hcAz4v3AQpbTYr8&s=72&v=4" width="24" alt="Avatar of kurone-kito"/> kurone-kito
+			</a><br/>
+			Kuron Kito 
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/kurone_kito">kurone_kito</a></td>
+		<td>Tokyo Japan</td>
+		<td>1105</td>
+	</tr>
+	<tr>
+		<td>130</td>
+		<td>
 			<a target="_blank" href="https://github.com/Cloudef">
-				<img src="https://private-avatars.githubusercontent.com/u/480330?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3MDAsIm5iZiI6MTczNDQ2MDUwMCwicGF0aCI6Ii91LzQ4MDMzMCJ9.FYSloM1bmlwRMOhNx73hcY6JFx21V5Hbb5CZ14zHqNM&s=72&u=87e81761815ebfbc8e0cbf612f1afa3a011316e2&v=4" width="24" alt="Avatar of Cloudef"/> Cloudef
+				<img src="https://private-avatars.githubusercontent.com/u/480330?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1MDAsIm5iZiI6MTczNDU3MDMwMCwicGF0aCI6Ii91LzQ4MDMzMCJ9._uQWEjuqO7dUSKL5D4aIrExZUanCHWObqBRg7XySZgQ&s=72&u=87e81761815ebfbc8e0cbf612f1afa3a011316e2&v=4" width="24" alt="Avatar of Cloudef"/> Cloudef
 			</a><br/>
 			Jari Vetoniemi
 		</td>
@@ -1787,49 +1800,36 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>1102</td>
 	</tr>
 	<tr>
-		<td>130</td>
-		<td>
-			<a target="_blank" href="https://github.com/kurone-kito">
-				<img src="https://private-avatars.githubusercontent.com/u/44661432?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1ODAsIm5iZiI6MTczNDQ2MDM4MCwicGF0aCI6Ii91LzQ0NjYxNDMyIn0.jAZwPoIv_rGq2bJy5J0kRnn0-X7-qvdxGE_93yXkj-Y&s=72&v=4" width="24" alt="Avatar of kurone-kito"/> kurone-kito
-			</a><br/>
-			Kuron Kito 
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/kurone_kito">kurone_kito</a></td>
-		<td>Tokyo Japan</td>
-		<td>1096</td>
-	</tr>
-	<tr>
 		<td>131</td>
 		<td>
 			<a target="_blank" href="https://github.com/reindex-ot">
-				<img src="https://private-avatars.githubusercontent.com/u/32851879?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyMjAsIm5iZiI6MTczNDQ2MDAyMCwicGF0aCI6Ii91LzMyODUxODc5In0.FYfiJeVCMFUHeJNKvgnD5O5kEy-0j3xKAZEsGiceoSY&s=72&u=269ae5427e1af84078cdf69858f816f723d78bf1&v=4" width="24" alt="Avatar of reindex-ot"/> reindex-ot
+				<img src="https://private-avatars.githubusercontent.com/u/32851879?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwMjAsIm5iZiI6MTczNDU2OTgyMCwicGF0aCI6Ii91LzMyODUxODc5In0.zrejQEK9vbWQKuv4ESRyXALlWBLWxPRvpEDg1I5l5lk&s=72&u=269ae5427e1af84078cdf69858f816f723d78bf1&v=4" width="24" alt="Avatar of reindex-ot"/> reindex-ot
 			</a><br/>
 			ReIndex otinc
 		</td>
 		<td>Astromantic Charm School </td>
 		<td><a target="_blank" href="https://twitter.com/ot_inc">ot_inc</a></td>
 		<td>Ibarakiken Japan</td>
-		<td>1090</td>
+		<td>1091</td>
 	</tr>
 	<tr>
 		<td>132</td>
 		<td>
 			<a target="_blank" href="https://github.com/anuraaga">
-				<img src="https://private-avatars.githubusercontent.com/u/198344?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE2NDAsIm5iZiI6MTczNDQ2MDQ0MCwicGF0aCI6Ii91LzE5ODM0NCJ9.Zpw9VTy2MbCymKjacCeGiH4oK7Y3DYJLUp8x3sJ7rGc&s=72&v=4" width="24" alt="Avatar of anuraaga"/> anuraaga
+				<img src="https://private-avatars.githubusercontent.com/u/198344?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE0NDAsIm5iZiI6MTczNDU3MDI0MCwicGF0aCI6Ii91LzE5ODM0NCJ9.YB2XZv3ZnBRWunwSB7sdB94kz35FuGPF6d0jbS5a838&s=72&v=4" width="24" alt="Avatar of anuraaga"/> anuraaga
 			</a><br/>
 			Anuraag Rag Agrawal
 		</td>
 		<td>Earth </td>
 		<td>No Twitter Username</td>
 		<td>Yokohama Japan</td>
-		<td>1039</td>
+		<td>1047</td>
 	</tr>
 	<tr>
 		<td>133</td>
 		<td>
 			<a target="_blank" href="https://github.com/sanposhiho">
-				<img src="https://private-avatars.githubusercontent.com/u/44139130?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0MDAsIm5iZiI6MTczNDQ2MDIwMCwicGF0aCI6Ii91LzQ0MTM5MTMwIn0.AbLWauRqZhF8FNfXmYzhuncIVSkC67eGQ2CQyEN0SLk&s=72&u=d0a40ab2af9d5c6c5a1379b80d26a0e8361161e9&v=4" width="24" alt="Avatar of sanposhiho"/> sanposhiho
+				<img src="https://private-avatars.githubusercontent.com/u/44139130?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyMDAsIm5iZiI6MTczNDU3MDAwMCwicGF0aCI6Ii91LzQ0MTM5MTMwIn0.TjGu9ArZMWA2g0eTAHJK-PSFa96IGtLP9jZAKfNmOTs&s=72&u=d0a40ab2af9d5c6c5a1379b80d26a0e8361161e9&v=4" width="24" alt="Avatar of sanposhiho"/> sanposhiho
 			</a><br/>
 			Kensei Nakada
 		</td>
@@ -1842,7 +1842,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>134</td>
 		<td>
 			<a target="_blank" href="https://github.com/kevincobain2000">
-				<img src="https://private-avatars.githubusercontent.com/u/629055?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjIwNjAsIm5iZiI6MTczNDQ2MDg2MCwicGF0aCI6Ii91LzYyOTA1NSJ9.Ur8ylkoEtI4ULVqcxdG2oD9DNb6bHvEg-WV4e1LT6AE&s=72&u=1a86e52e96fea8b2a079ca2c163cda2967105e9c&v=4" width="24" alt="Avatar of kevincobain2000"/> kevincobain2000
+				<img src="https://private-avatars.githubusercontent.com/u/629055?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5NjAsIm5iZiI6MTczNDU2OTc2MCwicGF0aCI6Ii91LzYyOTA1NSJ9.W70pc9aHiWaQTF1St-Gpc7fx4M55gjPo4Vsz2MbwXOA&s=72&u=1a86e52e96fea8b2a079ca2c163cda2967105e9c&v=4" width="24" alt="Avatar of kevincobain2000"/> kevincobain2000
 			</a><br/>
 			Pulkit Kathuria
 		</td>
@@ -1855,7 +1855,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>135</td>
 		<td>
 			<a target="_blank" href="https://github.com/fulmicoton">
-				<img src="https://private-avatars.githubusercontent.com/u/1021506?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyODAsIm5iZiI6MTczNDQ2MDA4MCwicGF0aCI6Ii91LzEwMjE1MDYifQ.sKbmJ4c0688qoVlizTVzvM_DCXBT9VlOVp-v5ltWxK0&s=72&u=17cab71613724f87fb09d756a7c0c2a117df0fd5&v=4" width="24" alt="Avatar of fulmicoton"/> fulmicoton
+				<img src="https://private-avatars.githubusercontent.com/u/1021506?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwODAsIm5iZiI6MTczNDU2OTg4MCwicGF0aCI6Ii91LzEwMjE1MDYifQ.L5EKNmVLcmDzItUaCQ9zAeLBJc1Glwjp20Z8aHEyLAQ&s=72&u=17cab71613724f87fb09d756a7c0c2a117df0fd5&v=4" width="24" alt="Avatar of fulmicoton"/> fulmicoton
 			</a><br/>
 			Paul Masurel
 		</td>
@@ -1868,7 +1868,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>136</td>
 		<td>
 			<a target="_blank" href="https://github.com/mayuki">
-				<img src="https://private-avatars.githubusercontent.com/u/9012?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyODAsIm5iZiI6MTczNDQ2MDA4MCwicGF0aCI6Ii91LzkwMTIifQ.IqsG9YQTD72HYP82zHyQAF0gVHiPMxRnNQH3bwmBxE4&s=72&u=c9cec9f9808c1cdd36d3e7ba93d36f543e625f73&v=4" width="24" alt="Avatar of mayuki"/> mayuki
+				<img src="https://private-avatars.githubusercontent.com/u/9012?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwODAsIm5iZiI6MTczNDU2OTg4MCwicGF0aCI6Ii91LzkwMTIifQ.FOSlmX-_QoiqLVxawVRI3ZisRcf1QHJMK_M4XFibtmo&s=72&u=c9cec9f9808c1cdd36d3e7ba93d36f543e625f73&v=4" width="24" alt="Avatar of mayuki"/> mayuki
 			</a><br/>
 			Mayuki Sawatari
 		</td>
@@ -1881,72 +1881,98 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>137</td>
 		<td>
 			<a target="_blank" href="https://github.com/cpojer">
-				<img src="https://private-avatars.githubusercontent.com/u/13352?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA4MDAsIm5iZiI6MTczNDQ1OTYwMCwicGF0aCI6Ii91LzEzMzUyIn0.1861cV9DJlSHuZSQR6w-wRiMiS_5NQo_n1ldb7qQSS0&s=72&u=eafcb8a7f49f72e829796cef5787587e57a60b8b&v=4" width="24" alt="Avatar of cpojer"/> cpojer
+				<img src="https://private-avatars.githubusercontent.com/u/13352?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA2MDAsIm5iZiI6MTczNDU2OTQwMCwicGF0aCI6Ii91LzEzMzUyIn0.LZ27z216qMcp785RL-Rh5OSeU_5Dg8rLj8vFAbEqphU&s=72&u=eafcb8a7f49f72e829796cef5787587e57a60b8b&v=4" width="24" alt="Avatar of cpojer"/> cpojer
 			</a><br/>
 			Christoph Nakazawa
 		</td>
 		<td>Nakazawa Tech Kk </td>
 		<td><a target="_blank" href="https://twitter.com/cpojer">cpojer</a></td>
 		<td>Tokyo</td>
-		<td>1013</td>
+		<td>1014</td>
 	</tr>
 	<tr>
 		<td>138</td>
 		<td>
 			<a target="_blank" href="https://github.com/Watson1978">
-				<img src="https://private-avatars.githubusercontent.com/u/199156?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEzNDAsIm5iZiI6MTczNDQ2MDE0MCwicGF0aCI6Ii91LzE5OTE1NiJ9.cF8LSI4OPfgImhkDqA4k6JFdUcMSQrF2M4VpPYq6Lrg&s=72&v=4" width="24" alt="Avatar of Watson1978"/> Watson1978
+				<img src="https://private-avatars.githubusercontent.com/u/199156?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzExNDAsIm5iZiI6MTczNDU2OTk0MCwicGF0aCI6Ii91LzE5OTE1NiJ9.3gvHCZUSlrittoq309UUHM1-nZpZNzvBEfaVAM_VbaY&s=72&v=4" width="24" alt="Avatar of Watson1978"/> Watson1978
 			</a><br/>
 			Shizuo Fujita
 		</td>
 		<td>@clearcode </td>
 		<td><a target="_blank" href="https://twitter.com/watson1978">watson1978</a></td>
 		<td>Japan</td>
-		<td>1003</td>
+		<td>1005</td>
 	</tr>
 	<tr>
 		<td>139</td>
 		<td>
 			<a target="_blank" href="https://github.com/SebastienGllmt">
-				<img src="https://private-avatars.githubusercontent.com/u/2608559?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjIwMDAsIm5iZiI6MTczNDQ2MDgwMCwicGF0aCI6Ii91LzI2MDg1NTkifQ.CWHobsam6InDHZ2MRjx9lqNNPILQdqF8xQX5skDerv4&s=72&u=adc41e396e5127a0eeba9826cb90e4d390d928c8&v=4" width="24" alt="Avatar of SebastienGllmt"/> SebastienGllmt
+				<img src="https://private-avatars.githubusercontent.com/u/2608559?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE4MDAsIm5iZiI6MTczNDU3MDYwMCwicGF0aCI6Ii91LzI2MDg1NTkifQ.MY99rhY_Pe6ZjNzM30NaqDM9WIuoRk2bS8AjwLC8Ufw&s=72&u=adc41e396e5127a0eeba9826cb90e4d390d928c8&v=4" width="24" alt="Avatar of SebastienGllmt"/> SebastienGllmt
 			</a><br/>
 			Sebastien Guillemot
 		</td>
 		<td>Dcspark </td>
 		<td><a target="_blank" href="https://twitter.com/SebastienGllmt">SebastienGllmt</a></td>
 		<td>Japan</td>
-		<td>999</td>
+		<td>1002</td>
 	</tr>
 	<tr>
 		<td>140</td>
 		<td>
 			<a target="_blank" href="https://github.com/rmackay9">
-				<img src="https://private-avatars.githubusercontent.com/u/1498098?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0NjAsIm5iZiI6MTczNDQ2MDI2MCwicGF0aCI6Ii91LzE0OTgwOTgifQ.FeLjWQqHKvK1X-ej9KHWmOExHQeC412mtzzn63iTFhE&s=72&v=4" width="24" alt="Avatar of rmackay9"/> rmackay9
+				<img src="https://private-avatars.githubusercontent.com/u/1498098?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyNjAsIm5iZiI6MTczNDU3MDA2MCwicGF0aCI6Ii91LzE0OTgwOTgifQ.J4E0yIQuhBlOvIbEYw6XbBQqv_ZOQ2I6Jt3BgRbKEwc&s=72&v=4" width="24" alt="Avatar of rmackay9"/> rmackay9
 			</a><br/>
 			Randy Mackay
 		</td>
 		<td>Japan Drones </td>
 		<td>No Twitter Username</td>
 		<td>Tokyo Japan</td>
-		<td>983</td>
+		<td>996</td>
 	</tr>
 	<tr>
 		<td>141</td>
 		<td>
 			<a target="_blank" href="https://github.com/aviatesk">
-				<img src="https://private-avatars.githubusercontent.com/u/40514306?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEwNDAsIm5iZiI6MTczNDQ1OTg0MCwicGF0aCI6Ii91LzQwNTE0MzA2In0.HhFEP-jCc9NmpWdMafEO6X1jPUrJF156CTM_nNmJOAY&s=72&u=d7251bc44e78bb28fb78c83f4b22efc87f206859&v=4" width="24" alt="Avatar of aviatesk"/> aviatesk
+				<img src="https://private-avatars.githubusercontent.com/u/40514306?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA4NDAsIm5iZiI6MTczNDU2OTY0MCwicGF0aCI6Ii91LzQwNTE0MzA2In0.E6Q9yfZmSds1W-RXeHpRfkdK9EXg4L_5ypCx7KR3jAc&s=72&u=d7251bc44e78bb28fb78c83f4b22efc87f206859&v=4" width="24" alt="Avatar of aviatesk"/> aviatesk
 			</a><br/>
 			Shuhei Kadowaki
 		</td>
 		<td>@juliacomputing </td>
 		<td><a target="_blank" href="https://twitter.com/kdwkshh">kdwkshh</a></td>
 		<td>Tokyo Japan</td>
-		<td>978</td>
+		<td>983</td>
 	</tr>
 	<tr>
 		<td>142</td>
 		<td>
+			<a target="_blank" href="https://github.com/Jannchie">
+				<img src="https://private-avatars.githubusercontent.com/u/29743310?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyMDAsIm5iZiI6MTczNDU3MDAwMCwicGF0aCI6Ii91LzI5NzQzMzEwIn0.E9_1EiN9hc-lJBtAIYcYX5abZ1BPa4-oTZ7jy-QdCMY&s=72&u=8e0d49b98c35738afadc04e70c7f3918d6ad8cdb&v=4" width="24" alt="Avatar of Jannchie"/> Jannchie
+			</a><br/>
+			Jianqi Pan
+		</td>
+		<td>Preferred Networks Inc </td>
+		<td><a target="_blank" href="https://twitter.com/jannchie">jannchie</a></td>
+		<td>Japan Tokyo  China Shanghai</td>
+		<td>975</td>
+	</tr>
+	<tr>
+		<td>143</td>
+		<td>
+			<a target="_blank" href="https://github.com/miurahr">
+				<img src="https://private-avatars.githubusercontent.com/u/123720?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzExNDAsIm5iZiI6MTczNDU2OTk0MCwicGF0aCI6Ii91LzEyMzcyMCJ9.BJI4O7vbqKTVmmip12mhCpJBoPpo5XBaVNwqUqGMhxQ&s=72&u=717c949043888b0790a0c287a09a6542cc17d372&v=4" width="24" alt="Avatar of miurahr"/> miurahr
+			</a><br/>
+			Hiroshi Miura
+		</td>
+		<td>Openstreetmap Foundation Japan </td>
+		<td><a target="_blank" href="https://twitter.com/miurahr">miurahr</a></td>
+		<td>Kitacity Tokyo Japan</td>
+		<td>975</td>
+	</tr>
+	<tr>
+		<td>144</td>
+		<td>
 			<a target="_blank" href="https://github.com/davetang">
-				<img src="https://private-avatars.githubusercontent.com/u/2980289?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3NjAsIm5iZiI6MTczNDQ2MDU2MCwicGF0aCI6Ii91LzI5ODAyODkifQ.CN-lOofryoYHH81EEFwsVICGf0HMRNHF3HdMwO1B2Fw&s=72&v=4" width="24" alt="Avatar of davetang"/> davetang
+				<img src="https://private-avatars.githubusercontent.com/u/2980289?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1NjAsIm5iZiI6MTczNDU3MDM2MCwicGF0aCI6Ii91LzI5ODAyODkifQ.ojHCSaUJMgBS182WPs5YYRoMK0tb-S2U6tW6XXmPIhQ&s=72&v=4" width="24" alt="Avatar of davetang"/> davetang
 			</a><br/>
 			Dave Tang
 		</td>
@@ -1956,23 +1982,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>969</td>
 	</tr>
 	<tr>
-		<td>143</td>
-		<td>
-			<a target="_blank" href="https://github.com/Jannchie">
-				<img src="https://private-avatars.githubusercontent.com/u/29743310?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0MDAsIm5iZiI6MTczNDQ2MDIwMCwicGF0aCI6Ii91LzI5NzQzMzEwIn0.Y64T-r3mLbNXZLmlOqsZDVR1B3X-iDrgBmPKikSrCe8&s=72&u=8e0d49b98c35738afadc04e70c7f3918d6ad8cdb&v=4" width="24" alt="Avatar of Jannchie"/> Jannchie
-			</a><br/>
-			Jianqi Pan
-		</td>
-		<td>Preferred Networks Inc </td>
-		<td><a target="_blank" href="https://twitter.com/jannchie">jannchie</a></td>
-		<td>Japan Tokyo  China Shanghai</td>
-		<td>968</td>
-	</tr>
-	<tr>
-		<td>144</td>
+		<td>145</td>
 		<td>
 			<a target="_blank" href="https://github.com/frandiox">
-				<img src="https://private-avatars.githubusercontent.com/u/1634092?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEwNDAsIm5iZiI6MTczNDQ1OTg0MCwicGF0aCI6Ii91LzE2MzQwOTIifQ.41djySqXenr9dF0Q3W0qXK3XQHAgI9fcY8KpC_icKyE&s=72&v=4" width="24" alt="Avatar of frandiox"/> frandiox
+				<img src="https://private-avatars.githubusercontent.com/u/1634092?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA4NDAsIm5iZiI6MTczNDU2OTY0MCwicGF0aCI6Ii91LzE2MzQwOTIifQ.jwt1ajjoTovMe88bxqVGN6zY_Vf_ji70Ij2K3lPpxh0&s=72&v=4" width="24" alt="Avatar of frandiox"/> frandiox
 			</a><br/>
 			Fran Dios
 		</td>
@@ -1982,49 +1995,49 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>964</td>
 	</tr>
 	<tr>
-		<td>145</td>
-		<td>
-			<a target="_blank" href="https://github.com/miurahr">
-				<img src="https://private-avatars.githubusercontent.com/u/123720?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEzNDAsIm5iZiI6MTczNDQ2MDE0MCwicGF0aCI6Ii91LzEyMzcyMCJ9.x1F0roVf9pQBDZRk29ggLdF5CxPcdhCSUpx7m6AGPIc&s=72&u=717c949043888b0790a0c287a09a6542cc17d372&v=4" width="24" alt="Avatar of miurahr"/> miurahr
-			</a><br/>
-			Hiroshi Miura
-		</td>
-		<td>Openstreetmap Foundation Japan </td>
-		<td><a target="_blank" href="https://twitter.com/miurahr">miurahr</a></td>
-		<td>Kitacity Tokyo Japan</td>
-		<td>960</td>
-	</tr>
-	<tr>
 		<td>146</td>
 		<td>
-			<a target="_blank" href="https://github.com/k-takata">
-				<img src="https://private-avatars.githubusercontent.com/u/840186?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyODAsIm5iZiI6MTczNDQ2MDA4MCwicGF0aCI6Ii91Lzg0MDE4NiJ9.NbQttaCyZ53XG8XBkHOiBwBistoyLB1-ZWr3SXTYZs4&s=72&u=dcf88259bd108b0d64380e1a49510bae28ce3ea1&v=4" width="24" alt="Avatar of k-takata"/> k-takata
-			</a><br/>
-			KTakata
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/k_takata">k_takata</a></td>
-		<td>Tokyo Japan</td>
-		<td>958</td>
-	</tr>
-	<tr>
-		<td>147</td>
-		<td>
 			<a target="_blank" href="https://github.com/matanki-saito">
-				<img src="https://private-avatars.githubusercontent.com/u/35730970?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExNjAsIm5iZiI6MTczNDQ1OTk2MCwicGF0aCI6Ii91LzM1NzMwOTcwIn0.mab0od_tBKTaTNCzdUQsY8o3n3g8M2P98Bk6hPdEEBY&s=72&u=1ed73c701318eeec5f0fa1c3121a4983fa3a3035&v=4" width="24" alt="Avatar of matanki-saito"/> matanki-saito
+				<img src="https://private-avatars.githubusercontent.com/u/35730970?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5NjAsIm5iZiI6MTczNDU2OTc2MCwicGF0aCI6Ii91LzM1NzMwOTcwIn0._gkpV3MKF5uvwtibmVBRt72BVuuXYGoNONW-OwhAzJ0&s=72&u=1ed73c701318eeec5f0fa1c3121a4983fa3a3035&v=4" width="24" alt="Avatar of matanki-saito"/> matanki-saito
 			</a><br/>
 			
 		</td>
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/matanki_saito">matanki_saito</a></td>
 		<td>Japan Kanto</td>
-		<td>957</td>
+		<td>961</td>
+	</tr>
+	<tr>
+		<td>147</td>
+		<td>
+			<a target="_blank" href="https://github.com/k-takata">
+				<img src="https://private-avatars.githubusercontent.com/u/840186?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwODAsIm5iZiI6MTczNDU2OTg4MCwicGF0aCI6Ii91Lzg0MDE4NiJ9.hhWjN5wT3w40zxU32SaepCYAWxAoXXrL9TtmdtwumAM&s=72&u=dcf88259bd108b0d64380e1a49510bae28ce3ea1&v=4" width="24" alt="Avatar of k-takata"/> k-takata
+			</a><br/>
+			KTakata
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/k_takata">k_takata</a></td>
+		<td>Tokyo Japan</td>
+		<td>960</td>
 	</tr>
 	<tr>
 		<td>148</td>
 		<td>
+			<a target="_blank" href="https://github.com/NicolasDorier">
+				<img src="https://private-avatars.githubusercontent.com/u/3020646?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5MDAsIm5iZiI6MTczNDU2OTcwMCwicGF0aCI6Ii91LzMwMjA2NDYifQ.kreHBXh_gc5gIqZxj9LPAAOYSsBWCg2T5VFP39I7JSc&s=72&u=256d78207f88d303d61b62060a309657276cf6cb&v=4" width="24" alt="Avatar of NicolasDorier"/> NicolasDorier
+			</a><br/>
+			Nicolas Dorier
+		</td>
+		<td>Dg Lab </td>
+		<td><a target="_blank" href="https://twitter.com/NicolasDorier">NicolasDorier</a></td>
+		<td>Tokyo</td>
+		<td>955</td>
+	</tr>
+	<tr>
+		<td>149</td>
+		<td>
 			<a target="_blank" href="https://github.com/masarakki">
-				<img src="https://private-avatars.githubusercontent.com/u/26023?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE5NDAsIm5iZiI6MTczNDQ2MDc0MCwicGF0aCI6Ii91LzI2MDIzIn0.lpbqsfvoVkoRKjn8QIHl9WvEsCdJyj2_ImviTHlSXMA&s=72&u=936bd9d1150b9cedc792f61977da6eab493c2bf3&v=4" width="24" alt="Avatar of masarakki"/> masarakki
+				<img src="https://private-avatars.githubusercontent.com/u/26023?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA4NDAsIm5iZiI6MTczNDU2OTY0MCwicGF0aCI6Ii91LzI2MDIzIn0.cL8ur1nJ8GNtYOExUkQdVrVjsJuD_7k8AEjn-Oin4e8&s=72&u=936bd9d1150b9cedc792f61977da6eab493c2bf3&v=4" width="24" alt="Avatar of masarakki"/> masarakki
 			</a><br/>
 			masarakki
 		</td>
@@ -2034,36 +2047,36 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>953</td>
 	</tr>
 	<tr>
-		<td>149</td>
-		<td>
-			<a target="_blank" href="https://github.com/NicolasDorier">
-				<img src="https://private-avatars.githubusercontent.com/u/3020646?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExMDAsIm5iZiI6MTczNDQ1OTkwMCwicGF0aCI6Ii91LzMwMjA2NDYifQ.OVmb4-ILkraje0Lco2N4q5glwVKvy4OY93Q4EH0uLfc&s=72&u=256d78207f88d303d61b62060a309657276cf6cb&v=4" width="24" alt="Avatar of NicolasDorier"/> NicolasDorier
-			</a><br/>
-			Nicolas Dorier
-		</td>
-		<td>Dg Lab </td>
-		<td><a target="_blank" href="https://twitter.com/NicolasDorier">NicolasDorier</a></td>
-		<td>Tokyo</td>
-		<td>949</td>
-	</tr>
-	<tr>
 		<td>150</td>
 		<td>
 			<a target="_blank" href="https://github.com/domenic">
-				<img src="https://private-avatars.githubusercontent.com/u/617481?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA2ODAsIm5iZiI6MTczNDQ1OTQ4MCwicGF0aCI6Ii91LzYxNzQ4MSJ9.hPai9PEY56CBpw6PFS_Mn3XDMfniPDF3P1DXbcWdiCk&s=72&v=4" width="24" alt="Avatar of domenic"/> domenic
+				<img src="https://private-avatars.githubusercontent.com/u/617481?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA0ODAsIm5iZiI6MTczNDU2OTI4MCwicGF0aCI6Ii91LzYxNzQ4MSJ9.E3LGJI5YAq1HQNE5_vSH_dXmJfpRWkEd6evkieHpFRc&s=72&v=4" width="24" alt="Avatar of domenic"/> domenic
 			</a><br/>
 			Domenic Denicola
 		</td>
 		<td>Google </td>
 		<td><a target="_blank" href="https://twitter.com/domenic">domenic</a></td>
 		<td>Tokyo Japan</td>
-		<td>941</td>
+		<td>944</td>
 	</tr>
 	<tr>
 		<td>151</td>
 		<td>
+			<a target="_blank" href="https://github.com/koron">
+				<img src="https://private-avatars.githubusercontent.com/u/468368?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzExNDAsIm5iZiI6MTczNDU2OTk0MCwicGF0aCI6Ii91LzQ2ODM2OCJ9.vFCIsjRsWx2Z-3wJn9dCGBY2XrG3HL2XcEW5R3TtWEw&s=72&v=4" width="24" alt="Avatar of koron"/> koron
+			</a><br/>
+			MURAOKA Taro
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/kaoriya">kaoriya</a></td>
+		<td>Tokyo Japan</td>
+		<td>929</td>
+	</tr>
+	<tr>
+		<td>152</td>
+		<td>
 			<a target="_blank" href="https://github.com/syoyo">
-				<img src="https://private-avatars.githubusercontent.com/u/18676?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0NjAsIm5iZiI6MTczNDQ2MDI2MCwicGF0aCI6Ii91LzE4Njc2In0.Hfmg4B3_hVtIcA_ujriShZH2hy8CZCASg6yG0qdntfI&s=72&u=e13fc43f3f2dcfa1cd608a79434d363adfa76c72&v=4" width="24" alt="Avatar of syoyo"/> syoyo
+				<img src="https://private-avatars.githubusercontent.com/u/18676?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyNjAsIm5iZiI6MTczNDU3MDA2MCwicGF0aCI6Ii91LzE4Njc2In0.V9UxABkd4a-vdu7kazs7jteibmGRzSnYFVPWPg7ng2s&s=72&u=e13fc43f3f2dcfa1cd608a79434d363adfa76c72&v=4" width="24" alt="Avatar of syoyo"/> syoyo
 			</a><br/>
 			Syoyo Fujita
 		</td>
@@ -2073,23 +2086,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>925</td>
 	</tr>
 	<tr>
-		<td>152</td>
-		<td>
-			<a target="_blank" href="https://github.com/koron">
-				<img src="https://private-avatars.githubusercontent.com/u/468368?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEzNDAsIm5iZiI6MTczNDQ2MDE0MCwicGF0aCI6Ii91LzQ2ODM2OCJ9.mEUa4Zbm2nKHc3xD9JF2pjhR44XbMDlMt8Ba36kdRis&s=72&v=4" width="24" alt="Avatar of koron"/> koron
-			</a><br/>
-			MURAOKA Taro
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/kaoriya">kaoriya</a></td>
-		<td>Tokyo Japan</td>
-		<td>916</td>
-	</tr>
-	<tr>
 		<td>153</td>
 		<td>
 			<a target="_blank" href="https://github.com/r7kamura">
-				<img src="https://private-avatars.githubusercontent.com/u/111689?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyODAsIm5iZiI6MTczNDQ2MDA4MCwicGF0aCI6Ii91LzExMTY4OSJ9.tmTeP34pp3XblpC9cKS3WNO4J7qSHnXLK6R2m5PJ3zA&s=72&u=64ab12304da52634277b04537b8c4260affa2b4e&v=4" width="24" alt="Avatar of r7kamura"/> r7kamura
+				<img src="https://private-avatars.githubusercontent.com/u/111689?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwODAsIm5iZiI6MTczNDU2OTg4MCwicGF0aCI6Ii91LzExMTY4OSJ9.az82wnhfgUyE23Y_3xkM48-mz_kkUoIrJEHV_jpW-aU&s=72&u=64ab12304da52634277b04537b8c4260affa2b4e&v=4" width="24" alt="Avatar of r7kamura"/> r7kamura
 			</a><br/>
 			Ryo Nakamura
 		</td>
@@ -2102,33 +2102,46 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>154</td>
 		<td>
 			<a target="_blank" href="https://github.com/taichi-ishitani">
-				<img src="https://private-avatars.githubusercontent.com/u/2922232?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE4MjAsIm5iZiI6MTczNDQ2MDYyMCwicGF0aCI6Ii91LzI5MjIyMzIifQ.0VJFtz_1TtfJVy_G6o-Zoxp9qa1KDQs-rEFL9n3W4Js&s=72&u=648ee3e34653db857c3a854da78977131370ab7c&v=4" width="24" alt="Avatar of taichi-ishitani"/> taichi-ishitani
+				<img src="https://private-avatars.githubusercontent.com/u/2922232?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE2MjAsIm5iZiI6MTczNDU3MDQyMCwicGF0aCI6Ii91LzI5MjIyMzIifQ.vYnqcgfIITBRWckVhQBNZsOjZN-LL2UmrdrSZgHOleU&s=72&u=648ee3e34653db857c3a854da78977131370ab7c&v=4" width="24" alt="Avatar of taichi-ishitani"/> taichi-ishitani
 			</a><br/>
 			Taichi Ishitani
 		</td>
 		<td>@pezycomputing </td>
 		<td><a target="_blank" href="https://twitter.com/taichi600730">taichi600730</a></td>
 		<td>Kanagawa Japan</td>
-		<td>911</td>
+		<td>914</td>
 	</tr>
 	<tr>
 		<td>155</td>
 		<td>
 			<a target="_blank" href="https://github.com/Songmu">
-				<img src="https://private-avatars.githubusercontent.com/u/177122?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA5MjAsIm5iZiI6MTczNDQ1OTcyMCwicGF0aCI6Ii91LzE3NzEyMiJ9.07E5hqsngZ5MbykbXkau5l0_ko5LICbkwbn0lpdAzzA&s=72&v=4" width="24" alt="Avatar of Songmu"/> Songmu
+				<img src="https://private-avatars.githubusercontent.com/u/177122?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA3MjAsIm5iZiI6MTczNDU2OTUyMCwicGF0aCI6Ii91LzE3NzEyMiJ9.xeeTUJBMKvW9XWz51mnRuvEAMGA0HmzMT1AORuV7Uys&s=72&v=4" width="24" alt="Avatar of Songmu"/> Songmu
 			</a><br/>
 			Masayuki Matsuki
 		</td>
 		<td>@bwcompany </td>
 		<td><a target="_blank" href="https://twitter.com/songmu">songmu</a></td>
 		<td>Tokyo Japan</td>
-		<td>903</td>
+		<td>904</td>
 	</tr>
 	<tr>
 		<td>156</td>
 		<td>
+			<a target="_blank" href="https://github.com/shimbaco">
+				<img src="https://private-avatars.githubusercontent.com/u/56767?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE3NDAsIm5iZiI6MTczNDU3MDU0MCwicGF0aCI6Ii91LzU2NzY3In0.YR3u7idzRI0CtOQ7l3b9R-S5e6psswD_zREHqR1nNxo&s=72&u=91cfc5e5d1583c9b2b07d56ca7898bbff926d123&v=4" width="24" alt="Avatar of shimbaco"/> shimbaco
+			</a><br/>
+			Shimba Koji
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Japan</td>
+		<td>902</td>
+	</tr>
+	<tr>
+		<td>157</td>
+		<td>
 			<a target="_blank" href="https://github.com/Py-Ec">
-				<img src="https://private-avatars.githubusercontent.com/u/122968273?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExNjAsIm5iZiI6MTczNDQ1OTk2MCwicGF0aCI6Ii91LzEyMjk2ODI3MyJ9.haF136S6SE2QqGoEdzAx2UnfaxkCn3wzs894tXJIv_g&s=72&u=bd653038ab5181c53527a9222b17e21efa2275bf&v=4" width="24" alt="Avatar of Py-Ec"/> Py-Ec
+				<img src="https://private-avatars.githubusercontent.com/u/122968273?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5NjAsIm5iZiI6MTczNDU2OTc2MCwicGF0aCI6Ii91LzEyMjk2ODI3MyJ9.da_rRJF5Ddeoxvqwzi3rwx_JMJs-U_5R5q0QuWLMYfU&s=72&u=bd653038ab5181c53527a9222b17e21efa2275bf&v=4" width="24" alt="Avatar of Py-Ec"/> Py-Ec
 			</a><br/>
 			@PyEcZenith
 		</td>
@@ -2138,49 +2151,36 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>897</td>
 	</tr>
 	<tr>
-		<td>157</td>
-		<td>
-			<a target="_blank" href="https://github.com/shimbaco">
-				<img src="https://private-avatars.githubusercontent.com/u/56767?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE5NDAsIm5iZiI6MTczNDQ2MDc0MCwicGF0aCI6Ii91LzU2NzY3In0.Tq_Y1T85g8CBIVZlBvw5T1TKhQyp-K5xGy3vIB0oQ_4&s=72&u=91cfc5e5d1583c9b2b07d56ca7898bbff926d123&v=4" width="24" alt="Avatar of shimbaco"/> shimbaco
-			</a><br/>
-			Shimba Koji
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Japan</td>
-		<td>887</td>
-	</tr>
-	<tr>
 		<td>158</td>
 		<td>
 			<a target="_blank" href="https://github.com/asukaminato0721">
-				<img src="https://private-avatars.githubusercontent.com/u/30024051?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE4MjAsIm5iZiI6MTczNDQ2MDYyMCwicGF0aCI6Ii91LzMwMDI0MDUxIn0.zy0r1FcAZKxVSNtXFFWLoWwXzZTHNenGH-jA_XgcsW0&s=72&u=b1a0f8b77e9602fc8bfef47586f73769b19aa7b2&v=4" width="24" alt="Avatar of asukaminato0721"/> asukaminato0721
+				<img src="https://private-avatars.githubusercontent.com/u/30024051?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE2MjAsIm5iZiI6MTczNDU3MDQyMCwicGF0aCI6Ii91LzMwMDI0MDUxIn0.b68YVX-VIgwt5ozeoNbeIukQM0a5sJ_A7UcNImkfCU8&s=72&u=b1a0f8b77e9602fc8bfef47586f73769b19aa7b2&v=4" width="24" alt="Avatar of asukaminato0721"/> asukaminato0721
 			</a><br/>
 			Asuka Minato
 		</td>
 		<td>The University Of Tokyo<br/></td>
 		<td>No Twitter Username</td>
 		<td>tokyo</td>
-		<td>882</td>
+		<td>890</td>
 	</tr>
 	<tr>
 		<td>159</td>
 		<td>
 			<a target="_blank" href="https://github.com/uhooi">
-				<img src="https://private-avatars.githubusercontent.com/u/21194714?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1MjAsIm5iZiI6MTczNDQ2MDMyMCwicGF0aCI6Ii91LzIxMTk0NzE0In0.M6m0miuVA1JIE4xGh4CrG4pHIyS1NyCRG5XOPH8QdvY&s=72&u=6f81f637665f2badb0973eba08b968d2d50a1621&v=4" width="24" alt="Avatar of uhooi"/> uhooi
+				<img src="https://private-avatars.githubusercontent.com/u/21194714?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzMjAsIm5iZiI6MTczNDU3MDEyMCwicGF0aCI6Ii91LzIxMTk0NzE0In0.BG4y9E_kgBlhXz4qHOMpZsHh91S8JiorVnFcWN1d44w&s=72&u=6f81f637665f2badb0973eba08b968d2d50a1621&v=4" width="24" alt="Avatar of uhooi"/> uhooi
 			</a><br/>
 			No Name
 		</td>
 		<td>@dena </td>
 		<td><a target="_blank" href="https://twitter.com/the_uhooi">the_uhooi</a></td>
 		<td>Japan</td>
-		<td>879</td>
+		<td>880</td>
 	</tr>
 	<tr>
 		<td>160</td>
 		<td>
 			<a target="_blank" href="https://github.com/izumin5210">
-				<img src="https://private-avatars.githubusercontent.com/u/2010175?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjIxMjAsIm5iZiI6MTczNDQ2MDkyMCwicGF0aCI6Ii91LzIwMTAxNzUifQ.iEYHRFwBYnQ_hD-70pd8s4RRBIC4aEGIwP0jw4Y2G6Y&s=72&v=4" width="24" alt="Avatar of izumin5210"/> izumin5210
+				<img src="https://private-avatars.githubusercontent.com/u/2010175?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE5MjAsIm5iZiI6MTczNDU3MDcyMCwicGF0aCI6Ii91LzIwMTAxNzUifQ.lsXQgm2Xdm0AhR-cRUc8nl5GPqYvPl6RxjJY9FnSIaA&s=72&v=4" width="24" alt="Avatar of izumin5210"/> izumin5210
 			</a><br/>
 			Masayuki Izumi
 		</td>
@@ -2193,46 +2193,59 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>161</td>
 		<td>
 			<a target="_blank" href="https://github.com/lhl">
-				<img src="https://private-avatars.githubusercontent.com/u/2581?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjIwNjAsIm5iZiI6MTczNDQ2MDg2MCwicGF0aCI6Ii91LzI1ODEifQ.LcBgkA2KhSXHKjQnGIYTdqdtF0sPIAOwKxIAly5NIjE&s=72&v=4" width="24" alt="Avatar of lhl"/> lhl
+				<img src="https://private-avatars.githubusercontent.com/u/2581?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE4NjAsIm5iZiI6MTczNDU3MDY2MCwicGF0aCI6Ii91LzI1ODEifQ.Yz63QIji-UKdutyK_wsoO1G7KkS4RTAUuxWXCGBzXEk&s=72&v=4" width="24" alt="Avatar of lhl"/> lhl
 			</a><br/>
 			Leonard
 		</td>
 		<td>@augmxnt </td>
 		<td>No Twitter Username</td>
 		<td>Tokyo</td>
-		<td>865</td>
+		<td>869</td>
 	</tr>
 	<tr>
 		<td>162</td>
 		<td>
 			<a target="_blank" href="https://github.com/mame">
-				<img src="https://private-avatars.githubusercontent.com/u/21557?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyMjAsIm5iZiI6MTczNDQ2MDAyMCwicGF0aCI6Ii91LzIxNTU3In0.2cp8rldcJruF60hfj6acsEzFY4BdrYwuTZ9svkNRtw4&s=72&v=4" width="24" alt="Avatar of mame"/> mame
+				<img src="https://private-avatars.githubusercontent.com/u/21557?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwMjAsIm5iZiI6MTczNDU2OTgyMCwicGF0aCI6Ii91LzIxNTU3In0.eKBgM8UvQakJDbc-mV0ujX_NCxamsx9kstH9Wr2tcUQ&s=72&v=4" width="24" alt="Avatar of mame"/> mame
 			</a><br/>
 			Yusuke Endoh
 		</td>
 		<td>@heyinc </td>
 		<td><a target="_blank" href="https://twitter.com/mametter">mametter</a></td>
 		<td>Japan</td>
-		<td>863</td>
+		<td>867</td>
 	</tr>
 	<tr>
 		<td>163</td>
 		<td>
+			<a target="_blank" href="https://github.com/XiaomingX">
+				<img src="https://private-avatars.githubusercontent.com/u/5387930?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzAzNjAsIm5iZiI6MTczNDU2OTE2MCwicGF0aCI6Ii91LzUzODc5MzAifQ.8ynFRil1O1Z9LqNZAcfmLA3cHiFYBKkifdY04nhu0gE&s=72&u=1cd0cfa4ab9c6e30da495e621b850e4f61a203aa&v=4" width="24" alt="Avatar of XiaomingX"/> XiaomingX
+			</a><br/>
+			Y11
+		</td>
+		<td>Uhaka </td>
+		<td><a target="_blank" href="https://twitter.com/seclink">seclink</a></td>
+		<td>japan</td>
+		<td>864</td>
+	</tr>
+	<tr>
+		<td>164</td>
+		<td>
 			<a target="_blank" href="https://github.com/june29">
-				<img src="https://private-avatars.githubusercontent.com/u/3970?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0MDAsIm5iZiI6MTczNDQ2MDIwMCwicGF0aCI6Ii91LzM5NzAifQ.2_5VNx-dGVM066JLz_gc7yqJNy105_E2VHPEFVKkS0g&s=72&u=b7bd998cbd44f34e304c7b9b5d415b4826a16685&v=4" width="24" alt="Avatar of june29"/> june29
+				<img src="https://private-avatars.githubusercontent.com/u/3970?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyMDAsIm5iZiI6MTczNDU3MDAwMCwicGF0aCI6Ii91LzM5NzAifQ.ifIxyGv29sMK943kTsvFyR8t32uzRiCp6BVawGVPz78&s=72&u=b7bd998cbd44f34e304c7b9b5d415b4826a16685&v=4" width="24" alt="Avatar of june29"/> june29
 			</a><br/>
 			june29
 		</td>
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/june29">june29</a></td>
 		<td>Japan</td>
-		<td>863</td>
+		<td>864</td>
 	</tr>
 	<tr>
-		<td>164</td>
+		<td>165</td>
 		<td>
 			<a target="_blank" href="https://github.com/koide3">
-				<img src="https://private-avatars.githubusercontent.com/u/31344317?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA5MjAsIm5iZiI6MTczNDQ1OTcyMCwicGF0aCI6Ii91LzMxMzQ0MzE3In0.tDagyih7845hvbXKRsglzAFvIyfIKjEDdCp72shOyCE&s=72&u=e33d8073f5ef2998959360a0c471038053758266&v=4" width="24" alt="Avatar of koide3"/> koide3
+				<img src="https://private-avatars.githubusercontent.com/u/31344317?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA3MjAsIm5iZiI6MTczNDU2OTUyMCwicGF0aCI6Ii91LzMxMzQ0MzE3In0.M-ekeae9kWucxcqF3PsOEZhH8cc0AaqtF0-i8alkvX0&s=72&u=e33d8073f5ef2998959360a0c471038053758266&v=4" width="24" alt="Avatar of koide3"/> koide3
 			</a><br/>
 			No Name
 		</td>
@@ -2242,10 +2255,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>862</td>
 	</tr>
 	<tr>
-		<td>165</td>
+		<td>166</td>
 		<td>
 			<a target="_blank" href="https://github.com/craftzdog">
-				<img src="https://private-avatars.githubusercontent.com/u/1332805?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExNjAsIm5iZiI6MTczNDQ1OTk2MCwicGF0aCI6Ii91LzEzMzI4MDUifQ.bGvLphis3G197LoPAZc4Fk0KxbTJRtl8fZ90sg5UQdM&s=72&u=5b6e5cff00fb7e5ff533f3d3a0f5aa71b54337d4&v=4" width="24" alt="Avatar of craftzdog"/> craftzdog
+				<img src="https://private-avatars.githubusercontent.com/u/1332805?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5NjAsIm5iZiI6MTczNDU2OTc2MCwicGF0aCI6Ii91LzEzMzI4MDUifQ.tIV9LY9U2CX9o7XCmGvLMHlr9iq0XOZqabrS_vz_fwk&s=72&u=5b6e5cff00fb7e5ff533f3d3a0f5aa71b54337d4&v=4" width="24" alt="Avatar of craftzdog"/> craftzdog
 			</a><br/>
 			Takuya Matsuyama
 		</td>
@@ -2255,23 +2268,36 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>861</td>
 	</tr>
 	<tr>
-		<td>166</td>
-		<td>
-			<a target="_blank" href="https://github.com/XiaomingX">
-				<img src="https://private-avatars.githubusercontent.com/u/5387930?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA1NjAsIm5iZiI6MTczNDQ1OTM2MCwicGF0aCI6Ii91LzUzODc5MzAifQ.mOPAmyvKsyba_tnPb77dV_VZ3mfLwpZ2P6Cdg74egig&s=72&u=1cd0cfa4ab9c6e30da495e621b850e4f61a203aa&v=4" width="24" alt="Avatar of XiaomingX"/> XiaomingX
-			</a><br/>
-			Y11
-		</td>
-		<td>Uhaka </td>
-		<td><a target="_blank" href="https://twitter.com/seclink">seclink</a></td>
-		<td>japan</td>
-		<td>860</td>
-	</tr>
-	<tr>
 		<td>167</td>
 		<td>
+			<a target="_blank" href="https://github.com/shogo4405">
+				<img src="https://private-avatars.githubusercontent.com/u/810189?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzExNDAsIm5iZiI6MTczNDU2OTk0MCwicGF0aCI6Ii91LzgxMDE4OSJ9.mtsy-pGwcSUjvHtbW0ghScJL-rq6XMp4ioq81a7Od7g&s=72&u=949e87f101b83954d0e6a4a1c80814a5a5b636b7&v=4" width="24" alt="Avatar of shogo4405"/> shogo4405
+			</a><br/>
+			shogo4405
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tokyo Japan</td>
+		<td>855</td>
+	</tr>
+	<tr>
+		<td>168</td>
+		<td>
+			<a target="_blank" href="https://github.com/kazuho">
+				<img src="https://private-avatars.githubusercontent.com/u/41567?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzExNDAsIm5iZiI6MTczNDU2OTk0MCwicGF0aCI6Ii91LzQxNTY3In0.I5Wiaep92ui_aB2EnXVe49pan57-pNlQlD-NIdmTn7U&s=72&v=4" width="24" alt="Avatar of kazuho"/> kazuho
+			</a><br/>
+			Kazuho Oku
+		</td>
+		<td>@fastly  </td>
+		<td>No Twitter Username</td>
+		<td>Tokyo</td>
+		<td>854</td>
+	</tr>
+	<tr>
+		<td>169</td>
+		<td>
 			<a target="_blank" href="https://github.com/mesqueeb">
-				<img src="https://private-avatars.githubusercontent.com/u/3253920?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0NjAsIm5iZiI6MTczNDQ2MDI2MCwicGF0aCI6Ii91LzMyNTM5MjAifQ.OLxFyexQahsz9O40kxSGUYK26mpzE9qrX4qkJy9AvUY&s=72&v=4" width="24" alt="Avatar of mesqueeb"/> mesqueeb
+				<img src="https://private-avatars.githubusercontent.com/u/3253920?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyNjAsIm5iZiI6MTczNDU3MDA2MCwicGF0aCI6Ii91LzMyNTM5MjAifQ.oNPZFzLAG3CiEEKdl7U8zc-PShE6rwJJprMGr-HmIz4&s=72&v=4" width="24" alt="Avatar of mesqueeb"/> mesqueeb
 			</a><br/>
 			Luca Ban
 		</td>
@@ -2281,75 +2307,75 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>845</td>
 	</tr>
 	<tr>
-		<td>168</td>
+		<td>170</td>
 		<td>
 			<a target="_blank" href="https://github.com/takahashim">
-				<img src="https://private-avatars.githubusercontent.com/u/10401?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0MDAsIm5iZiI6MTczNDQ2MDIwMCwicGF0aCI6Ii91LzEwNDAxIn0.zvR0wrnlY5YGDp0rZnhgfKqvlSA277Y4_3ujyU4qUcE&s=72&u=dd3cd5f57abd274265bd3d8bcdac4001adbe5818&v=4" width="24" alt="Avatar of takahashim"/> takahashim
+				<img src="https://private-avatars.githubusercontent.com/u/10401?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyMDAsIm5iZiI6MTczNDU3MDAwMCwicGF0aCI6Ii91LzEwNDAxIn0.PiBuWZMYzaPsI6dikFus8wUyDWDkvBlomsJTWB2hohY&s=72&u=dd3cd5f57abd274265bd3d8bcdac4001adbe5818&v=4" width="24" alt="Avatar of takahashim"/> takahashim
 			</a><br/>
 			Masayoshi Takahashi
 		</td>
 		<td>Tatsuzine Publishing Inc </td>
 		<td>No Twitter Username</td>
 		<td>Tokyo Japan</td>
-		<td>841</td>
-	</tr>
-	<tr>
-		<td>169</td>
-		<td>
-			<a target="_blank" href="https://github.com/shogo4405">
-				<img src="https://private-avatars.githubusercontent.com/u/810189?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEzNDAsIm5iZiI6MTczNDQ2MDE0MCwicGF0aCI6Ii91LzgxMDE4OSJ9.J2A7lMsrhhkok08KOFqiQXVeylwWm63vJHCVAjZscrk&s=72&u=949e87f101b83954d0e6a4a1c80814a5a5b636b7&v=4" width="24" alt="Avatar of shogo4405"/> shogo4405
-			</a><br/>
-			shogo4405
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Tokyo Japan</td>
-		<td>839</td>
-	</tr>
-	<tr>
-		<td>170</td>
-		<td>
-			<a target="_blank" href="https://github.com/nwtgck">
-				<img src="https://private-avatars.githubusercontent.com/u/10933561?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA5ODAsIm5iZiI6MTczNDQ1OTc4MCwicGF0aCI6Ii91LzEwOTMzNTYxIn0.R6OTkVsBhqzFIITL-CANJUqMqoLMMyTuRNox-tgHDGk&s=72&u=a862b6d1745a21d150bd288815327df84a15f819&v=4" width="24" alt="Avatar of nwtgck"/> nwtgck
-			</a><br/>
-			Ryo Ota
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/nwtgck">nwtgck</a></td>
-		<td>Japan</td>
-		<td>831</td>
+		<td>842</td>
 	</tr>
 	<tr>
 		<td>171</td>
 		<td>
 			<a target="_blank" href="https://github.com/termoshtt">
-				<img src="https://private-avatars.githubusercontent.com/u/1238153?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjIwMDAsIm5iZiI6MTczNDQ2MDgwMCwicGF0aCI6Ii91LzEyMzgxNTMifQ.oBV3QmIq2ugW_PVu-ix8zQHbSv0TRk2SEd5pStgpQQA&s=72&v=4" width="24" alt="Avatar of termoshtt"/> termoshtt
+				<img src="https://private-avatars.githubusercontent.com/u/1238153?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5MDAsIm5iZiI6MTczNDU2OTcwMCwicGF0aCI6Ii91LzEyMzgxNTMifQ.3BLFz-d2J62dPnrbMylrWykmqExyumVqExkOSUzihCM&s=72&v=4" width="24" alt="Avatar of termoshtt"/> termoshtt
 			</a><br/>
 			Toshiki Teramura
 		</td>
 		<td>@jijinc  </td>
 		<td><a target="_blank" href="https://twitter.com/termoshtt">termoshtt</a></td>
 		<td>Japan</td>
-		<td>827</td>
+		<td>837</td>
 	</tr>
 	<tr>
 		<td>172</td>
 		<td>
+			<a target="_blank" href="https://github.com/nwtgck">
+				<img src="https://private-avatars.githubusercontent.com/u/10933561?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA3ODAsIm5iZiI6MTczNDU2OTU4MCwicGF0aCI6Ii91LzEwOTMzNTYxIn0.mrEs68AHyuus1D4zIQrOC3lCJJja30M3FHr6hdWO_eo&s=72&u=a862b6d1745a21d150bd288815327df84a15f819&v=4" width="24" alt="Avatar of nwtgck"/> nwtgck
+			</a><br/>
+			Ryo Ota
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/nwtgck">nwtgck</a></td>
+		<td>Japan</td>
+		<td>834</td>
+	</tr>
+	<tr>
+		<td>173</td>
+		<td>
 			<a target="_blank" href="https://github.com/dev-yakuza">
-				<img src="https://private-avatars.githubusercontent.com/u/42969906?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEzNDAsIm5iZiI6MTczNDQ2MDE0MCwicGF0aCI6Ii91LzQyOTY5OTA2In0.Fr0CO7kF8O5cFp8rhEheeeesaJOuxVELipv_w4b9rP4&s=72&u=d508db5b8cad1bf6e94127e8e8b2e44b23d21592&v=4" width="24" alt="Avatar of dev-yakuza"/> dev-yakuza
+				<img src="https://private-avatars.githubusercontent.com/u/42969906?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzExNDAsIm5iZiI6MTczNDU2OTk0MCwicGF0aCI6Ii91LzQyOTY5OTA2In0.2ykIlRT2q-0_iBZANM3GWpV4VICjUQ0glE8X61xYZZM&s=72&u=d508db5b8cad1bf6e94127e8e8b2e44b23d21592&v=4" width="24" alt="Avatar of dev-yakuza"/> dev-yakuza
 			</a><br/>
 			DeKu
 		</td>
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/DevYakuza">DevYakuza</a></td>
 		<td>Japan</td>
-		<td>825</td>
+		<td>829</td>
 	</tr>
 	<tr>
-		<td>173</td>
+		<td>174</td>
+		<td>
+			<a target="_blank" href="https://github.com/muukii">
+				<img src="https://private-avatars.githubusercontent.com/u/1888355?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA2NjAsIm5iZiI6MTczNDU2OTQ2MCwicGF0aCI6Ii91LzE4ODgzNTUifQ.grqpmAv62h8afyXUcS2ziyMXAL_kqRB5-wyuB5zatY4&s=72&u=704cd057f120c62a9b3cde21dd719d87d3504b7c&v=4" width="24" alt="Avatar of muukii"/> muukii
+			</a><br/>
+			Hiroshi Kimura
+		</td>
+		<td>@eure  </td>
+		<td><a target="_blank" href="https://twitter.com/muukii_app">muukii_app</a></td>
+		<td>Tokyo Japan</td>
+		<td>809</td>
+	</tr>
+	<tr>
+		<td>175</td>
 		<td>
 			<a target="_blank" href="https://github.com/matz">
-				<img src="https://private-avatars.githubusercontent.com/u/30733?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExNjAsIm5iZiI6MTczNDQ1OTk2MCwicGF0aCI6Ii91LzMwNzMzIn0.iiEdAQRiVHry9XiZpt2ylbEzcDGKNModhuWTJ_SohBM&s=72&u=77a590bb5dddfc7e7ee0d1d058b05e0fb709653f&v=4" width="24" alt="Avatar of matz"/> matz
+				<img src="https://private-avatars.githubusercontent.com/u/30733?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5NjAsIm5iZiI6MTczNDU2OTc2MCwicGF0aCI6Ii91LzMwNzMzIn0.cmYGQsiDlM_anW0ilOhublgT46WYnKkbEfRQO98flvU&s=72&u=77a590bb5dddfc7e7ee0d1d058b05e0fb709653f&v=4" width="24" alt="Avatar of matz"/> matz
 			</a><br/>
 			Yukihiro Matz Matsumoto
 		</td>
@@ -2359,49 +2385,49 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>804</td>
 	</tr>
 	<tr>
-		<td>174</td>
-		<td>
-			<a target="_blank" href="https://github.com/muukii">
-				<img src="https://private-avatars.githubusercontent.com/u/1888355?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA4NjAsIm5iZiI6MTczNDQ1OTY2MCwicGF0aCI6Ii91LzE4ODgzNTUifQ.1USIpbErPuEXSXcoNlM_C_QpFiWCmgbKpRv9zm3OZjA&s=72&u=704cd057f120c62a9b3cde21dd719d87d3504b7c&v=4" width="24" alt="Avatar of muukii"/> muukii
-			</a><br/>
-			Hiroshi Kimura
-		</td>
-		<td>@eure  </td>
-		<td><a target="_blank" href="https://twitter.com/muukii_app">muukii_app</a></td>
-		<td>Tokyo Japan</td>
-		<td>803</td>
-	</tr>
-	<tr>
-		<td>175</td>
+		<td>176</td>
 		<td>
 			<a target="_blank" href="https://github.com/dshukertjr">
-				<img src="https://private-avatars.githubusercontent.com/u/18113850?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE4MjAsIm5iZiI6MTczNDQ2MDYyMCwicGF0aCI6Ii91LzE4MTEzODUwIn0.dLAItVvhOtDhps4NzoFi83BeSsw4d4s3euYDhmhtDGQ&s=72&u=2374491fffc0456144df9fc6740186d75d0b397e&v=4" width="24" alt="Avatar of dshukertjr"/> dshukertjr
+				<img src="https://private-avatars.githubusercontent.com/u/18113850?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE2MjAsIm5iZiI6MTczNDU3MDQyMCwicGF0aCI6Ii91LzE4MTEzODUwIn0.zHwMIYjYxJBrDIEysXPtQIaoAFcBvgkZ-Q85pX9xFBU&s=72&u=2374491fffc0456144df9fc6740186d75d0b397e&v=4" width="24" alt="Avatar of dshukertjr"/> dshukertjr
 			</a><br/>
 			Tyler
 		</td>
 		<td>Supabase </td>
 		<td><a target="_blank" href="https://twitter.com/dshukertjr">dshukertjr</a></td>
 		<td>Tokyo</td>
-		<td>800</td>
+		<td>801</td>
 	</tr>
 	<tr>
-		<td>176</td>
+		<td>177</td>
 		<td>
 			<a target="_blank" href="https://github.com/ryohey">
-				<img src="https://private-avatars.githubusercontent.com/u/5355966?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1MjAsIm5iZiI6MTczNDQ2MDMyMCwicGF0aCI6Ii91LzUzNTU5NjYifQ.OIKhTgWAb3U8-HJ9XWJvxc43Ou_GLPxeT0tM_oEVfqc&s=72&u=e7de126c6512db94172e7ddc09c4b8db98c9edd2&v=4" width="24" alt="Avatar of ryohey"/> ryohey
+				<img src="https://private-avatars.githubusercontent.com/u/5355966?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzMjAsIm5iZiI6MTczNDU3MDEyMCwicGF0aCI6Ii91LzUzNTU5NjYifQ.LU97mXKokKXUbcjd3PyYfDUGKnyPFgVt4bQ9Rkou_j4&s=72&u=e7de126c6512db94172e7ddc09c4b8db98c9edd2&v=4" width="24" alt="Avatar of ryohey"/> ryohey
 			</a><br/>
 			ryohey
 		</td>
 		<td>Covelline Llc </td>
 		<td><a target="_blank" href="https://twitter.com/ryoheyc">ryoheyc</a></td>
 		<td>Japan</td>
-		<td>798</td>
+		<td>799</td>
 	</tr>
 	<tr>
-		<td>177</td>
+		<td>178</td>
+		<td>
+			<a target="_blank" href="https://github.com/neet">
+				<img src="https://private-avatars.githubusercontent.com/u/19276905?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyNjAsIm5iZiI6MTczNDU3MDA2MCwicGF0aCI6Ii91LzE5Mjc2OTA1In0.6BIR06etsKWdMy1qGaU0KrdchLR8wL-5VQ2y9m_Ss4c&s=72&u=a5bbe9f217dba15752aad2e9045025a017db41a7&v=4" width="24" alt="Avatar of neet"/> neet
+			</a><br/>
+			Ry Igarashi
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/TheGodOfNeet">TheGodOfNeet</a></td>
+		<td>Tokyo</td>
+		<td>794</td>
+	</tr>
+	<tr>
+		<td>179</td>
 		<td>
 			<a target="_blank" href="https://github.com/melpon">
-				<img src="https://private-avatars.githubusercontent.com/u/816539?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE5NDAsIm5iZiI6MTczNDQ2MDc0MCwicGF0aCI6Ii91LzgxNjUzOSJ9.FEgJ5GITYMhHlZQzhYjReZ-5P8sKXTv-MGq1r42pnuM&s=72&v=4" width="24" alt="Avatar of melpon"/> melpon
+				<img src="https://private-avatars.githubusercontent.com/u/816539?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE3NDAsIm5iZiI6MTczNDU3MDU0MCwicGF0aCI6Ii91LzgxNjUzOSJ9.SiW0CXe9wp7skNzaHTsiOFG-j6THz1VzTQQcFXzDQJY&s=72&v=4" width="24" alt="Avatar of melpon"/> melpon
 			</a><br/>
 			melpon
 		</td>
@@ -2411,10 +2437,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>794</td>
 	</tr>
 	<tr>
-		<td>178</td>
+		<td>180</td>
 		<td>
 			<a target="_blank" href="https://github.com/mariotaku">
-				<img src="https://private-avatars.githubusercontent.com/u/830358?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA1NjAsIm5iZiI6MTczNDQ1OTM2MCwicGF0aCI6Ii91LzgzMDM1OCJ9.c_7ZYq9rJxkJyT_EdthzTWulLbUFi4_ptR7JOdeIHpg&s=72&u=99f17f9c8a035aa012c10eb5de24333c287fa517&v=4" width="24" alt="Avatar of mariotaku"/> mariotaku
+				<img src="https://private-avatars.githubusercontent.com/u/830358?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzAzNjAsIm5iZiI6MTczNDU2OTE2MCwicGF0aCI6Ii91LzgzMDM1OCJ9.afgT6rxwP_AgamhiUr6jiHhUagw92nKeOlYeQkziTUw&s=72&u=99f17f9c8a035aa012c10eb5de24333c287fa517&v=4" width="24" alt="Avatar of mariotaku"/> mariotaku
 			</a><br/>
 			Mariotaku
 		</td>
@@ -2424,36 +2450,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>793</td>
 	</tr>
 	<tr>
-		<td>179</td>
-		<td>
-			<a target="_blank" href="https://github.com/neet">
-				<img src="https://private-avatars.githubusercontent.com/u/19276905?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0NjAsIm5iZiI6MTczNDQ2MDI2MCwicGF0aCI6Ii91LzE5Mjc2OTA1In0.937GLTWEZntGrq1gGcbGCTiEvl-OHDMh0g5bN7KvNF4&s=72&u=a5bbe9f217dba15752aad2e9045025a017db41a7&v=4" width="24" alt="Avatar of neet"/> neet
-			</a><br/>
-			Ry Igarashi
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/TheGodOfNeet">TheGodOfNeet</a></td>
-		<td>Tokyo</td>
-		<td>789</td>
-	</tr>
-	<tr>
-		<td>180</td>
-		<td>
-			<a target="_blank" href="https://github.com/kazuho">
-				<img src="https://private-avatars.githubusercontent.com/u/41567?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEzNDAsIm5iZiI6MTczNDQ2MDE0MCwicGF0aCI6Ii91LzQxNTY3In0.LJcANP6RQgEvjjh_ENQqHd_eHefQ-iGmAG2TZm9Qvp4&s=72&v=4" width="24" alt="Avatar of kazuho"/> kazuho
-			</a><br/>
-			Kazuho Oku
-		</td>
-		<td>@fastly  </td>
-		<td>No Twitter Username</td>
-		<td>Tokyo</td>
-		<td>788</td>
-	</tr>
-	<tr>
 		<td>181</td>
 		<td>
 			<a target="_blank" href="https://github.com/itchyny">
-				<img src="https://private-avatars.githubusercontent.com/u/375258?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA5ODAsIm5iZiI6MTczNDQ1OTc4MCwicGF0aCI6Ii91LzM3NTI1OCJ9.8mdKlk8YycI7U1AJLw_7rsuRj2xNUsWAYk6zfsFheHk&s=72&u=a8226606854e9c6effbb3a867396a93390eaa218&v=4" width="24" alt="Avatar of itchyny"/> itchyny
+				<img src="https://private-avatars.githubusercontent.com/u/375258?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA3ODAsIm5iZiI6MTczNDU2OTU4MCwicGF0aCI6Ii91LzM3NTI1OCJ9.jWuI6XKzlsy2AfKQVfhusdPvJPpGcuiQ7j9jH8iqCWQ&s=72&u=a8226606854e9c6effbb3a867396a93390eaa218&v=4" width="24" alt="Avatar of itchyny"/> itchyny
 			</a><br/>
 			itchyny
 		</td>
@@ -2466,59 +2466,59 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>182</td>
 		<td>
 			<a target="_blank" href="https://github.com/c-bata">
-				<img src="https://private-avatars.githubusercontent.com/u/5564044?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0MDAsIm5iZiI6MTczNDQ2MDIwMCwicGF0aCI6Ii91LzU1NjQwNDQifQ.Y4S-Y115qrUDqe-ZjfD-y1jx8ODfZo8egZ4rN0rfICQ&s=72&u=1d17b5c555f94f1e4292cb8503d933bfd4de9d4f&v=4" width="24" alt="Avatar of c-bata"/> c-bata
+				<img src="https://private-avatars.githubusercontent.com/u/5564044?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyMDAsIm5iZiI6MTczNDU3MDAwMCwicGF0aCI6Ii91LzU1NjQwNDQifQ.3VId_czSgB5WTPCZ-pIZnJpPIKm5dmRWbW84qjPWmdk&s=72&u=1d17b5c555f94f1e4292cb8503d933bfd4de9d4f&v=4" width="24" alt="Avatar of c-bata"/> c-bata
 			</a><br/>
 			cbata
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Tokyo</td>
-		<td>784</td>
+		<td>785</td>
 	</tr>
 	<tr>
 		<td>183</td>
 		<td>
-			<a target="_blank" href="https://github.com/deepak1556">
-				<img src="https://private-avatars.githubusercontent.com/u/964386?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEwNDAsIm5iZiI6MTczNDQ1OTg0MCwicGF0aCI6Ii91Lzk2NDM4NiJ9.gzDHBkmKtrbITNBD43w_TlwAyLDD2oMclcoXFgWJClE&s=72&v=4" width="24" alt="Avatar of deepak1556"/> deepak1556
-			</a><br/>
-			Robo
-		</td>
-		<td>Microsoft </td>
-		<td>No Twitter Username</td>
-		<td>Japan</td>
-		<td>781</td>
-	</tr>
-	<tr>
-		<td>184</td>
-		<td>
 			<a target="_blank" href="https://github.com/sugyan">
-				<img src="https://private-avatars.githubusercontent.com/u/80381?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0NjAsIm5iZiI6MTczNDQ2MDI2MCwicGF0aCI6Ii91LzgwMzgxIn0.QevthMDpMyR8C3PmGXbLRO02ezd_ff0O8DkGPfviWKw&s=72&v=4" width="24" alt="Avatar of sugyan"/> sugyan
+				<img src="https://private-avatars.githubusercontent.com/u/80381?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyNjAsIm5iZiI6MTczNDU3MDA2MCwicGF0aCI6Ii91LzgwMzgxIn0.mRuG5Cd2-FK8QnbWfCXX1JQnREsrH7nM5c7nEFjgHkY&s=72&v=4" width="24" alt="Avatar of sugyan"/> sugyan
 			</a><br/>
 			Yoshihiro Sugi
 		</td>
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/sugyan">sugyan</a></td>
 		<td>Kyoto Japan</td>
-		<td>781</td>
+		<td>784</td>
 	</tr>
 	<tr>
-		<td>185</td>
+		<td>184</td>
 		<td>
 			<a target="_blank" href="https://github.com/knu">
-				<img src="https://private-avatars.githubusercontent.com/u/10236?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyMjAsIm5iZiI6MTczNDQ2MDAyMCwicGF0aCI6Ii91LzEwMjM2In0.lM7VeKDBQBh2jolqY8n9FRS0m-HsqO03Koq1O2ekDus&s=72&v=4" width="24" alt="Avatar of knu"/> knu
+				<img src="https://private-avatars.githubusercontent.com/u/10236?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwMjAsIm5iZiI6MTczNDU2OTgyMCwicGF0aCI6Ii91LzEwMjM2In0.leEGyB34_y3FF4li8Ak38FflnRji6RwLd-vNKVg89ZE&s=72&v=4" width="24" alt="Avatar of knu"/> knu
 			</a><br/>
 			Akinori Musha
 		</td>
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/knu">knu</a></td>
 		<td>Tokyo Japan</td>
-		<td>779</td>
+		<td>784</td>
+	</tr>
+	<tr>
+		<td>185</td>
+		<td>
+			<a target="_blank" href="https://github.com/deepak1556">
+				<img src="https://private-avatars.githubusercontent.com/u/964386?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA4NDAsIm5iZiI6MTczNDU2OTY0MCwicGF0aCI6Ii91Lzk2NDM4NiJ9.vYXkPK_ddzFOEt3WRYRd6fi6DVSXh1WwS_EiDQXVO_Y&s=72&v=4" width="24" alt="Avatar of deepak1556"/> deepak1556
+			</a><br/>
+			Robo
+		</td>
+		<td>Microsoft </td>
+		<td>No Twitter Username</td>
+		<td>Japan</td>
+		<td>783</td>
 	</tr>
 	<tr>
 		<td>186</td>
 		<td>
 			<a target="_blank" href="https://github.com/wkentaro">
-				<img src="https://private-avatars.githubusercontent.com/u/4310419?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyODAsIm5iZiI6MTczNDQ2MDA4MCwicGF0aCI6Ii91LzQzMTA0MTkifQ.HPFiow94wt7nV5S8ICQNW1jSTIqS6scdRhVfB15RNKM&s=72&u=672b9081970c6e15628587237c9ecc5c31dbb9b9&v=4" width="24" alt="Avatar of wkentaro"/> wkentaro
+				<img src="https://private-avatars.githubusercontent.com/u/4310419?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwODAsIm5iZiI6MTczNDU2OTg4MCwicGF0aCI6Ii91LzQzMTA0MTkifQ.dlDbAKVk5uzoA2enQlJY_Fn8lKSI49mEkp8Wrpxt6N8&s=72&u=672b9081970c6e15628587237c9ecc5c31dbb9b9&v=4" width="24" alt="Avatar of wkentaro"/> wkentaro
 			</a><br/>
 			Kentaro Wada
 		</td>
@@ -2531,20 +2531,20 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>187</td>
 		<td>
 			<a target="_blank" href="https://github.com/sosukesuzuki">
-				<img src="https://private-avatars.githubusercontent.com/u/14838850?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyMjAsIm5iZiI6MTczNDQ2MDAyMCwicGF0aCI6Ii91LzE0ODM4ODUwIn0.CC5x0jRehEj81fXju44Il0bhmov_1AylsWI9-SNxEhE&s=72&u=ede8a07cc97180e8e98036ebd58b568c19f1c814&v=4" width="24" alt="Avatar of sosukesuzuki"/> sosukesuzuki
+				<img src="https://private-avatars.githubusercontent.com/u/14838850?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwMjAsIm5iZiI6MTczNDU2OTgyMCwicGF0aCI6Ii91LzE0ODM4ODUwIn0.Hbjc5Nsmhacnu5RxTK0W8L9SNPshVQqlMRn_6el6nRc&s=72&u=ede8a07cc97180e8e98036ebd58b568c19f1c814&v=4" width="24" alt="Avatar of sosukesuzuki"/> sosukesuzuki
 			</a><br/>
 			SUZUKI Sosuke
 		</td>
 		<td>@ubieoss </td>
 		<td><a target="_blank" href="https://twitter.com/__sosukesuzuki">__sosukesuzuki</a></td>
 		<td>Tokyo Japan</td>
-		<td>763</td>
+		<td>764</td>
 	</tr>
 	<tr>
 		<td>188</td>
 		<td>
 			<a target="_blank" href="https://github.com/re-taro">
-				<img src="https://private-avatars.githubusercontent.com/u/68799469?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE2NDAsIm5iZiI6MTczNDQ2MDQ0MCwicGF0aCI6Ii91LzY4Nzk5NDY5In0.IfI438MK_n9HspoUZ8q8C_dq3wH5JXRB-e8TU4brduw&s=72&v=4" width="24" alt="Avatar of re-taro"/> re-taro
+				<img src="https://private-avatars.githubusercontent.com/u/68799469?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE0NDAsIm5iZiI6MTczNDU3MDI0MCwicGF0aCI6Ii91LzY4Nzk5NDY5In0.kR-ozlaVTjWu0LYH3QcjrQm6TCrYCrL0LArt0GOu8Po&s=72&v=4" width="24" alt="Avatar of re-taro"/> re-taro
 			</a><br/>
 			Rintaro Itokawa
 		</td>
@@ -2557,7 +2557,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>189</td>
 		<td>
 			<a target="_blank" href="https://github.com/pocke">
-				<img src="https://private-avatars.githubusercontent.com/u/4361134?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExMDAsIm5iZiI6MTczNDQ1OTkwMCwicGF0aCI6Ii91LzQzNjExMzQifQ.ND5X4fdD8gXFpNv04qVrUAGzBN35Bw0OhcHQTS-Yvys&s=72&v=4" width="24" alt="Avatar of pocke"/> pocke
+				<img src="https://private-avatars.githubusercontent.com/u/4361134?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5MDAsIm5iZiI6MTczNDU2OTcwMCwicGF0aCI6Ii91LzQzNjExMzQifQ.TQdvLOE5CG6rPnwz3gp7ONL3vdHF0RmM89U9XObz0Do&s=72&v=4" width="24" alt="Avatar of pocke"/> pocke
 			</a><br/>
 			Masataka Pocke Kuwabara
 		</td>
@@ -2570,7 +2570,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>190</td>
 		<td>
 			<a target="_blank" href="https://github.com/at-wat">
-				<img src="https://private-avatars.githubusercontent.com/u/8390204?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEwNDAsIm5iZiI6MTczNDQ1OTg0MCwicGF0aCI6Ii91LzgzOTAyMDQifQ.h0v2Pj5tkROnEJdqqPd4zxS4ErTjezS9vCpcAGx9BgE&s=72&u=ab11a72e9ab80e68ac5481dc7b7f8610808a5af2&v=4" width="24" alt="Avatar of at-wat"/> at-wat
+				<img src="https://private-avatars.githubusercontent.com/u/8390204?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA4NDAsIm5iZiI6MTczNDU2OTY0MCwicGF0aCI6Ii91LzgzOTAyMDQifQ.ndD7rib7n6cPpgXJCvyZJAUB4pc951SDZzvH4qLMosA&s=72&u=ab11a72e9ab80e68ac5481dc7b7f8610808a5af2&v=4" width="24" alt="Avatar of at-wat"/> at-wat
 			</a><br/>
 			Atsushi Watanabe
 		</td>
@@ -2583,7 +2583,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>191</td>
 		<td>
 			<a target="_blank" href="https://github.com/conao3">
-				<img src="https://private-avatars.githubusercontent.com/u/4703128?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExMDAsIm5iZiI6MTczNDQ1OTkwMCwicGF0aCI6Ii91LzQ3MDMxMjgifQ.3gS0Rj8xPCaLyPK1a4Vol5Dc8x4-KxRkTvv5f2akF7Q&s=72&v=4" width="24" alt="Avatar of conao3"/> conao3
+				<img src="https://private-avatars.githubusercontent.com/u/4703128?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5MDAsIm5iZiI6MTczNDU2OTcwMCwicGF0aCI6Ii91LzQ3MDMxMjgifQ.0NFO2lZD6pbmobv55HWHYmN8hkiaTIe2VRe2RCk6a3g&s=72&v=4" width="24" alt="Avatar of conao3"/> conao3
 			</a><br/>
 			Naoya Yamashita
 		</td>
@@ -2596,7 +2596,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>192</td>
 		<td>
 			<a target="_blank" href="https://github.com/hnakamur">
-				<img src="https://private-avatars.githubusercontent.com/u/19299?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEzNDAsIm5iZiI6MTczNDQ2MDE0MCwicGF0aCI6Ii91LzE5Mjk5In0.ZirM_Tgr9GEsPblHN79h2NYXzEE04xUGyxhCztqQTK8&s=72&u=4cbfed13077c3afd639f90eafd7793aec12e5533&v=4" width="24" alt="Avatar of hnakamur"/> hnakamur
+				<img src="https://private-avatars.githubusercontent.com/u/19299?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzExNDAsIm5iZiI6MTczNDU2OTk0MCwicGF0aCI6Ii91LzE5Mjk5In0.lLPaP-4YOdbfva2B7xyHL6oS1kGaPImMrWxyaQ0Ixnk&s=72&u=4cbfed13077c3afd639f90eafd7793aec12e5533&v=4" width="24" alt="Avatar of hnakamur"/> hnakamur
 			</a><br/>
 			Hiroaki Nakamura
 		</td>
@@ -2609,7 +2609,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>193</td>
 		<td>
 			<a target="_blank" href="https://github.com/oxmmty">
-				<img src="https://private-avatars.githubusercontent.com/u/24660915?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1MjAsIm5iZiI6MTczNDQ2MDMyMCwicGF0aCI6Ii91LzI0NjYwOTE1In0.9ocH5HRSIVb3eCzdeXoqC1XtKODIi6QaDKMmDnYcwmo&s=72&u=a9cb39857a3817d273415e21833f3de87bfc62c9&v=4" width="24" alt="Avatar of oxmmty"/> oxmmty
+				<img src="https://private-avatars.githubusercontent.com/u/24660915?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzMjAsIm5iZiI6MTczNDU3MDEyMCwicGF0aCI6Ii91LzI0NjYwOTE1In0.H9_f2xYNiij24psHXk3Uk3QGVZCaUny00VHnH1cnY90&s=72&u=a9cb39857a3817d273415e21833f3de87bfc62c9&v=4" width="24" alt="Avatar of oxmmty"/> oxmmty
 			</a><br/>
 			OxMMty
 		</td>
@@ -2622,7 +2622,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>194</td>
 		<td>
 			<a target="_blank" href="https://github.com/SoraSuegami">
-				<img src="https://private-avatars.githubusercontent.com/u/31360991?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3MDAsIm5iZiI6MTczNDQ2MDUwMCwicGF0aCI6Ii91LzMxMzYwOTkxIn0.SeHYld0FrTfP005cvJiMxxg4ao6VDBV1OuxeOg6EDgQ&s=72&u=bbd1d433265e34576c43ca25f5350412473ad6bb&v=4" width="24" alt="Avatar of SoraSuegami"/> SoraSuegami
+				<img src="https://private-avatars.githubusercontent.com/u/31360991?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1MDAsIm5iZiI6MTczNDU3MDMwMCwicGF0aCI6Ii91LzMxMzYwOTkxIn0.gXvxonm0r_3zcVQ6UXhztQO6NiX63Rx4Cq3MmmLH2vg&s=72&u=bbd1d433265e34576c43ca25f5350412473ad6bb&v=4" width="24" alt="Avatar of SoraSuegami"/> SoraSuegami
 			</a><br/>
 			Sora Suegami
 		</td>
@@ -2634,8 +2634,21 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 	<tr>
 		<td>195</td>
 		<td>
+			<a target="_blank" href="https://github.com/miyaichi">
+				<img src="https://private-avatars.githubusercontent.com/u/129797?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzODAsIm5iZiI6MTczNDU3MDE4MCwicGF0aCI6Ii91LzEyOTc5NyJ9.C5obaXUuwUCedOYEut6pd_YHGrzEzQ5SLHMkG8jKkJI&s=72&u=eb61e8135de346ec2420b5cb472e7c877f64ac6e&v=4" width="24" alt="Avatar of miyaichi"/> miyaichi
+			</a><br/>
+			Yoshihiko Miyaichi
+		</td>
+		<td>Pier1 Inc Httpspier1cojp </td>
+		<td>No Twitter Username</td>
+		<td>Tokyo Japan</td>
+		<td>747</td>
+	</tr>
+	<tr>
+		<td>196</td>
+		<td>
 			<a target="_blank" href="https://github.com/koute">
-				<img src="https://private-avatars.githubusercontent.com/u/246574?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEwNDAsIm5iZiI6MTczNDQ1OTg0MCwicGF0aCI6Ii91LzI0NjU3NCJ9.IR2uyAfsdR1sF4QdFYiihETYV1YGRlsihL-zT0epw18&s=72&v=4" width="24" alt="Avatar of koute"/> koute
+				<img src="https://private-avatars.githubusercontent.com/u/246574?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA4NDAsIm5iZiI6MTczNDU2OTY0MCwicGF0aCI6Ii91LzI0NjU3NCJ9.NVIWaJs82_Tt4YGOJDSCe4JAyUXPIcyoSxO6FfbaA7M&s=72&v=4" width="24" alt="Avatar of koute"/> koute
 			</a><br/>
 			Koute
 		</td>
@@ -2645,10 +2658,23 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>744</td>
 	</tr>
 	<tr>
-		<td>196</td>
+		<td>197</td>
+		<td>
+			<a target="_blank" href="https://github.com/kaityo256">
+				<img src="https://private-avatars.githubusercontent.com/u/1335564?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA3MjAsIm5iZiI6MTczNDU2OTUyMCwicGF0aCI6Ii91LzEzMzU1NjQifQ.Wg0s_99DsisY9_TCxh3It0Sm96MnF0vYd-RDkcBEd-U&s=72&u=858d24a7a5b9de076144f33b504e9b10faaa48a7&v=4" width="24" alt="Avatar of kaityo256"/> kaityo256
+			</a><br/>
+			Hiroshi Watanabe
+		</td>
+		<td>Keio University </td>
+		<td>No Twitter Username</td>
+		<td>Japan</td>
+		<td>739</td>
+	</tr>
+	<tr>
+		<td>198</td>
 		<td>
 			<a target="_blank" href="https://github.com/shirakaba">
-				<img src="https://private-avatars.githubusercontent.com/u/14055146?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExMDAsIm5iZiI6MTczNDQ1OTkwMCwicGF0aCI6Ii91LzE0MDU1MTQ2In0.uvb7SSUlXPQx-89cJLZLBwyPlhIJpD3gzi9BMB7FpCs&s=72&u=ab24a63f095f2bc2a2dc5740c6dc15c5dc0c1542&v=4" width="24" alt="Avatar of shirakaba"/> shirakaba
+				<img src="https://private-avatars.githubusercontent.com/u/14055146?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5MDAsIm5iZiI6MTczNDU2OTcwMCwicGF0aCI6Ii91LzE0MDU1MTQ2In0.uSZ0jPq7b_o8_O02GtUC3LSpv0ZVxNM6xLyfghufs0s&s=72&u=ab24a63f095f2bc2a2dc5740c6dc15c5dc0c1542&v=4" width="24" alt="Avatar of shirakaba"/> shirakaba
 			</a><br/>
 			Jamie Birch
 		</td>
@@ -2658,36 +2684,36 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>738</td>
 	</tr>
 	<tr>
-		<td>197</td>
+		<td>199</td>
 		<td>
-			<a target="_blank" href="https://github.com/kaityo256">
-				<img src="https://private-avatars.githubusercontent.com/u/1335564?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA5MjAsIm5iZiI6MTczNDQ1OTcyMCwicGF0aCI6Ii91LzEzMzU1NjQifQ.Q1oZ-iDGUOsafzmyguz7O5hDucpz4ovtxvn_HVrKacc&s=72&u=858d24a7a5b9de076144f33b504e9b10faaa48a7&v=4" width="24" alt="Avatar of kaityo256"/> kaityo256
+			<a target="_blank" href="https://github.com/martinheidegger">
+				<img src="https://private-avatars.githubusercontent.com/u/914122?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzMjAsIm5iZiI6MTczNDU3MDEyMCwicGF0aCI6Ii91LzkxNDEyMiJ9.OxOGTIz3Ed22MS3alLHvDCqgcTj5mRfZZnX2ZmZbGek&s=72&u=96843aa7a7d1f563826f0bad5455ca9d2d7c1a6a&v=4" width="24" alt="Avatar of martinheidegger"/> martinheidegger
 			</a><br/>
-			Hiroshi Watanabe
+			Martin Heidegger
 		</td>
-		<td>Keio University </td>
-		<td>No Twitter Username</td>
-		<td>Japan</td>
-		<td>737</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/leichtgewicht">leichtgewicht</a></td>
+		<td>Osaka Japan</td>
+		<td>736</td>
 	</tr>
 	<tr>
-		<td>198</td>
+		<td>200</td>
 		<td>
 			<a target="_blank" href="https://github.com/zchee">
-				<img src="https://private-avatars.githubusercontent.com/u/6366270?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE2NDAsIm5iZiI6MTczNDQ2MDQ0MCwicGF0aCI6Ii91LzYzNjYyNzAifQ.5CFNQAZDic-5k3GYHSe535c8UAnWBq1gDvXUCWQ9RMY&s=72&u=b3b4c30edcd4ad8fe5da44faacbd1d70a8c836f5&v=4" width="24" alt="Avatar of zchee"/> zchee
+				<img src="https://private-avatars.githubusercontent.com/u/6366270?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA1NDAsIm5iZiI6MTczNDU2OTM0MCwicGF0aCI6Ii91LzYzNjYyNzAifQ.kicZgU3B2RtBCa8JYqM7zHZQoEVy2LpEiswfUxLMEaI&s=72&u=b3b4c30edcd4ad8fe5da44faacbd1d70a8c836f5&v=4" width="24" alt="Avatar of zchee"/> zchee
 			</a><br/>
 			Koichi Shiraishi
 		</td>
 		<td>@gaudiy </td>
 		<td><a target="_blank" href="https://twitter.com/_zchee_">_zchee_</a></td>
 		<td>Tokyo Japan</td>
-		<td>733</td>
+		<td>735</td>
 	</tr>
 	<tr>
-		<td>199</td>
+		<td>201</td>
 		<td>
 			<a target="_blank" href="https://github.com/otiai10">
-				<img src="https://private-avatars.githubusercontent.com/u/931554?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE2NDAsIm5iZiI6MTczNDQ2MDQ0MCwicGF0aCI6Ii91LzkzMTU1NCJ9.WeNnm3Y6VEKLMeWdHqEuMG8JXQDnZid7p9NB03Clblo&s=72&u=762e75a79c11651dad94fe3caa37ffae5549907c&v=4" width="24" alt="Avatar of otiai10"/> otiai10
+				<img src="https://private-avatars.githubusercontent.com/u/931554?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE0NDAsIm5iZiI6MTczNDU3MDI0MCwicGF0aCI6Ii91LzkzMTU1NCJ9.bD-ggEMGZfCfHruK0jaGeICGy6Ac2YlLB1rnCusc-Z8&s=72&u=762e75a79c11651dad94fe3caa37ffae5549907c&v=4" width="24" alt="Avatar of otiai10"/> otiai10
 			</a><br/>
 			Hiromu OCHIAI
 		</td>
@@ -2697,49 +2723,36 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>727</td>
 	</tr>
 	<tr>
-		<td>200</td>
-		<td>
-			<a target="_blank" href="https://github.com/martinheidegger">
-				<img src="https://private-avatars.githubusercontent.com/u/914122?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1MjAsIm5iZiI6MTczNDQ2MDMyMCwicGF0aCI6Ii91LzkxNDEyMiJ9.4orElPWgI1W8ixhdFSWGUEmTag1wJ-rmQY-oADF-3FA&s=72&u=96843aa7a7d1f563826f0bad5455ca9d2d7c1a6a&v=4" width="24" alt="Avatar of martinheidegger"/> martinheidegger
-			</a><br/>
-			Martin Heidegger
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/leichtgewicht">leichtgewicht</a></td>
-		<td>Osaka Japan</td>
-		<td>727</td>
-	</tr>
-	<tr>
-		<td>201</td>
-		<td>
-			<a target="_blank" href="https://github.com/miyaichi">
-				<img src="https://private-avatars.githubusercontent.com/u/129797?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1ODAsIm5iZiI6MTczNDQ2MDM4MCwicGF0aCI6Ii91LzEyOTc5NyJ9.vmIjrrj_IQ-BC5dM6Sgt-HCLcNTEXbhb4vOiQX0SXNo&s=72&u=eb61e8135de346ec2420b5cb472e7c877f64ac6e&v=4" width="24" alt="Avatar of miyaichi"/> miyaichi
-			</a><br/>
-			Yoshihiko Miyaichi
-		</td>
-		<td>Pier1 Inc Httpspier1cojp </td>
-		<td>No Twitter Username</td>
-		<td>Tokyo Japan</td>
-		<td>720</td>
-	</tr>
-	<tr>
 		<td>202</td>
 		<td>
 			<a target="_blank" href="https://github.com/ykob">
-				<img src="https://private-avatars.githubusercontent.com/u/5755225?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEzNDAsIm5iZiI6MTczNDQ2MDE0MCwicGF0aCI6Ii91LzU3NTUyMjUifQ.nLFLY9PAsPtjkbo73-9Htf5g1azCd5CyAlU206Qhiws&s=72&u=e4798d512bd6d153a516b5caa26c7a39133bf1e3&v=4" width="24" alt="Avatar of ykob"/> ykob
+				<img src="https://private-avatars.githubusercontent.com/u/5755225?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzExNDAsIm5iZiI6MTczNDU2OTk0MCwicGF0aCI6Ii91LzU3NTUyMjUifQ.EsWqCTiZb7hNykSgHD7R5XAiqSHa234x0u76qXSASMc&s=72&u=e4798d512bd6d153a516b5caa26c7a39133bf1e3&v=4" width="24" alt="Avatar of ykob"/> ykob
 			</a><br/>
 			Yoichi Kobayashi
 		</td>
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/ykob0123">ykob0123</a></td>
 		<td>Tokyo Japan</td>
-		<td>718</td>
+		<td>719</td>
 	</tr>
 	<tr>
 		<td>203</td>
 		<td>
+			<a target="_blank" href="https://github.com/msakai">
+				<img src="https://private-avatars.githubusercontent.com/u/157688?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE3NDAsIm5iZiI6MTczNDU3MDU0MCwicGF0aCI6Ii91LzE1NzY4OCJ9.I7ssYT60pNFV93memjgXgPFLA9f6g9IUAFWTGsJ8ow8&s=72&v=4" width="24" alt="Avatar of msakai"/> msakai
+			</a><br/>
+			Masahiro Sakai
+		</td>
+		<td>Preferred Networks Inc @pfnet<br/></td>
+		<td>No Twitter Username</td>
+		<td>Kawasaki Japan</td>
+		<td>711</td>
+	</tr>
+	<tr>
+		<td>204</td>
+		<td>
 			<a target="_blank" href="https://github.com/nagadomi">
-				<img src="https://private-avatars.githubusercontent.com/u/287255?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExMDAsIm5iZiI6MTczNDQ1OTkwMCwicGF0aCI6Ii91LzI4NzI1NSJ9.OEUHmoS7KmcRUwoXV_gfiOBodSywyJb3PNdffHiYgMg&s=72&u=47ac15eb80d5c1ccd3f7c7e3a5d2460b65f54639&v=4" width="24" alt="Avatar of nagadomi"/> nagadomi
+				<img src="https://private-avatars.githubusercontent.com/u/287255?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5MDAsIm5iZiI6MTczNDU2OTcwMCwicGF0aCI6Ii91LzI4NzI1NSJ9.nYAKRnAsbpu4clMWDck4smgL_h97oYdtOlmXzvZtvO8&s=72&u=47ac15eb80d5c1ccd3f7c7e3a5d2460b65f54639&v=4" width="24" alt="Avatar of nagadomi"/> nagadomi
 			</a><br/>
 			No Name
 		</td>
@@ -2749,10 +2762,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>706</td>
 	</tr>
 	<tr>
-		<td>204</td>
+		<td>205</td>
 		<td>
 			<a target="_blank" href="https://github.com/wadackel">
-				<img src="https://private-avatars.githubusercontent.com/u/5393238?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA5MjAsIm5iZiI6MTczNDQ1OTcyMCwicGF0aCI6Ii91LzUzOTMyMzgifQ.l_IuM_NqaJHkJpFPiUCFwQkmMz_5sboCVnuJplZfmHI&s=72&u=2a14976c5766ee2ce55598a26152c69367356b22&v=4" width="24" alt="Avatar of wadackel"/> wadackel
+				<img src="https://private-avatars.githubusercontent.com/u/5393238?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA3MjAsIm5iZiI6MTczNDU2OTUyMCwicGF0aCI6Ii91LzUzOTMyMzgifQ.Mo3g91W5U7_gFF58oyy-w0UkbWGWWOrdh3b2BHX9xvk&s=72&u=2a14976c5766ee2ce55598a26152c69367356b22&v=4" width="24" alt="Avatar of wadackel"/> wadackel
 			</a><br/>
 			tsuyoshi wada
 		</td>
@@ -2762,62 +2775,49 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>705</td>
 	</tr>
 	<tr>
-		<td>205</td>
-		<td>
-			<a target="_blank" href="https://github.com/msakai">
-				<img src="https://private-avatars.githubusercontent.com/u/157688?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE5NDAsIm5iZiI6MTczNDQ2MDc0MCwicGF0aCI6Ii91LzE1NzY4OCJ9.HIvLadBvf-kHDfNlCMjSlR0ZkMY6F_a_zePZLC0I5Lc&s=72&v=4" width="24" alt="Avatar of msakai"/> msakai
-			</a><br/>
-			Masahiro Sakai
-		</td>
-		<td>Preferred Networks Inc @pfnet<br/></td>
-		<td>No Twitter Username</td>
-		<td>Kawasaki Japan</td>
-		<td>705</td>
-	</tr>
-	<tr>
 		<td>206</td>
 		<td>
 			<a target="_blank" href="https://github.com/mob-sakai">
-				<img src="https://private-avatars.githubusercontent.com/u/12690315?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEzNDAsIm5iZiI6MTczNDQ2MDE0MCwicGF0aCI6Ii91LzEyNjkwMzE1In0.KP9la-zDEIq9y4BseV116y8xfela_7foYHa9FIZKlU8&s=72&u=6ff685ea8829ae8e10b3e170a513ab72f65dd316&v=4" width="24" alt="Avatar of mob-sakai"/> mob-sakai
+				<img src="https://private-avatars.githubusercontent.com/u/12690315?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzExNDAsIm5iZiI6MTczNDU2OTk0MCwicGF0aCI6Ii91LzEyNjkwMzE1In0.a3XV5lvqMYAueD9gnFFe2JitlEQmn6KARUGhxlOQyEs&s=72&u=6ff685ea8829ae8e10b3e170a513ab72f65dd316&v=4" width="24" alt="Avatar of mob-sakai"/> mob-sakai
 			</a><br/>
 			mobsakai
 		</td>
 		<td>Wfs Inc </td>
 		<td><a target="_blank" href="https://twitter.com/mob_sakai">mob_sakai</a></td>
 		<td>Tokyo Japan</td>
-		<td>695</td>
+		<td>702</td>
 	</tr>
 	<tr>
 		<td>207</td>
 		<td>
-			<a target="_blank" href="https://github.com/planetchili">
-				<img src="https://private-avatars.githubusercontent.com/u/7800662?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA4MDAsIm5iZiI6MTczNDQ1OTYwMCwicGF0aCI6Ii91Lzc4MDA2NjIifQ.Nse7ZvPOlZkf63cBxWDm_ALFpeQyhGqugKwLyNg9DOk&s=72&u=9e81f2cbc795e5278e3598f59a5c99c728e60b45&v=4" width="24" alt="Avatar of planetchili"/> planetchili
-			</a><br/>
-			chili
-		</td>
-		<td>Planet Chili </td>
-		<td>No Twitter Username</td>
-		<td>Japan</td>
-		<td>693</td>
-	</tr>
-	<tr>
-		<td>208</td>
-		<td>
 			<a target="_blank" href="https://github.com/goccy">
-				<img src="https://private-avatars.githubusercontent.com/u/209884?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1ODAsIm5iZiI6MTczNDQ2MDM4MCwicGF0aCI6Ii91LzIwOTg4NCJ9.ny-zJSNc2j0x7r0pNt58CLGpUI1zkQ8dL4jc8_wiHAE&s=72&v=4" width="24" alt="Avatar of goccy"/> goccy
+				<img src="https://private-avatars.githubusercontent.com/u/209884?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA0ODAsIm5iZiI6MTczNDU2OTI4MCwicGF0aCI6Ii91LzIwOTg4NCJ9.pxfw3bo9IAlW1EV7Rf8xTdF_CXaEh6bmjfYk6hORze4&s=72&v=4" width="24" alt="Avatar of goccy"/> goccy
 			</a><br/>
 			Masaaki Goshima
 		</td>
 		<td>@mercari </td>
 		<td><a target="_blank" href="https://twitter.com/goccy54">goccy54</a></td>
 		<td>Japan</td>
-		<td>692</td>
+		<td>696</td>
+	</tr>
+	<tr>
+		<td>208</td>
+		<td>
+			<a target="_blank" href="https://github.com/planetchili">
+				<img src="https://private-avatars.githubusercontent.com/u/7800662?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA2MDAsIm5iZiI6MTczNDU2OTQwMCwicGF0aCI6Ii91Lzc4MDA2NjIifQ.ghbVwK8J1X-siHIMC9pC1oHhHZgfBmGCZ_2Emqbaans&s=72&u=9e81f2cbc795e5278e3598f59a5c99c728e60b45&v=4" width="24" alt="Avatar of planetchili"/> planetchili
+			</a><br/>
+			chili
+		</td>
+		<td>Planet Chili </td>
+		<td>No Twitter Username</td>
+		<td>Japan</td>
+		<td>694</td>
 	</tr>
 	<tr>
 		<td>209</td>
 		<td>
 			<a target="_blank" href="https://github.com/haya14busa">
-				<img src="https://private-avatars.githubusercontent.com/u/3797062?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0NjAsIm5iZiI6MTczNDQ2MDI2MCwicGF0aCI6Ii91LzM3OTcwNjIifQ.jr7gt1GuYM30MD7AKt4DSvIcYc6Ht-Lbzmc20XCm7RA&s=72&v=4" width="24" alt="Avatar of haya14busa"/> haya14busa
+				<img src="https://private-avatars.githubusercontent.com/u/3797062?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyNjAsIm5iZiI6MTczNDU3MDA2MCwicGF0aCI6Ii91LzM3OTcwNjIifQ.U6vCnmc_I0Mk7sDrYccWcMbvXmqxUE0rrLMXt1ZFgj8&s=72&v=4" width="24" alt="Avatar of haya14busa"/> haya14busa
 			</a><br/>
 			haya14busa
 		</td>
@@ -2829,8 +2829,21 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 	<tr>
 		<td>210</td>
 		<td>
+			<a target="_blank" href="https://github.com/yanex">
+				<img src="https://private-avatars.githubusercontent.com/u/95996?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyMDAsIm5iZiI6MTczNDU3MDAwMCwicGF0aCI6Ii91Lzk1OTk2In0.p8ynv8M9kfZbMsVMKyBsSyWK-HAe6235MCSWXedo0nE&s=72&u=08c0348d443b965b323dfa6c22353d03a8d50e85&v=4" width="24" alt="Avatar of yanex"/> yanex
+			</a><br/>
+			Yan Zhulanow
+		</td>
+		<td>Jetbrains </td>
+		<td>No Twitter Username</td>
+		<td>Tokyo Japan</td>
+		<td>681</td>
+	</tr>
+	<tr>
+		<td>211</td>
+		<td>
 			<a target="_blank" href="https://github.com/giginet">
-				<img src="https://private-avatars.githubusercontent.com/u/147051?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyMjAsIm5iZiI6MTczNDQ2MDAyMCwicGF0aCI6Ii91LzE0NzA1MSJ9.oFnl3p-dWcANvlciM1lmh_2UIlycMS4In-iiv1Q7RxE&s=72&u=c8a8e40c507c11f7c4c678c570623212ceb06b49&v=4" width="24" alt="Avatar of giginet"/> giginet
+				<img src="https://private-avatars.githubusercontent.com/u/147051?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwMjAsIm5iZiI6MTczNDU2OTgyMCwicGF0aCI6Ii91LzE0NzA1MSJ9.01QVurnjRK3XXdMxsT1fwJ69bkWd_tI2NEyKqxUdSnw&s=72&u=c8a8e40c507c11f7c4c678c570623212ceb06b49&v=4" width="24" alt="Avatar of giginet"/> giginet
 			</a><br/>
 			Kohki Miki
 		</td>
@@ -2840,23 +2853,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>677</td>
 	</tr>
 	<tr>
-		<td>211</td>
-		<td>
-			<a target="_blank" href="https://github.com/yanex">
-				<img src="https://private-avatars.githubusercontent.com/u/95996?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0MDAsIm5iZiI6MTczNDQ2MDIwMCwicGF0aCI6Ii91Lzk1OTk2In0.XRCuKE3V3Ixjt1jBlrASIG8aadL-Kl2JNbevHM5L7WE&s=72&u=08c0348d443b965b323dfa6c22353d03a8d50e85&v=4" width="24" alt="Avatar of yanex"/> yanex
-			</a><br/>
-			Yan Zhulanow
-		</td>
-		<td>Jetbrains </td>
-		<td>No Twitter Username</td>
-		<td>Tokyo Japan</td>
-		<td>674</td>
-	</tr>
-	<tr>
 		<td>212</td>
 		<td>
 			<a target="_blank" href="https://github.com/Naturalclar">
-				<img src="https://private-avatars.githubusercontent.com/u/6936373?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyMjAsIm5iZiI6MTczNDQ2MDAyMCwicGF0aCI6Ii91LzY5MzYzNzMifQ.Gkbc81uEeNteVxTRSVDzX4YA2prPRGQDm-d9khHQM4A&s=72&u=4edd14e6636c45d10ac6a3eecb4b3ffa6cc2bf5c&v=4" width="24" alt="Avatar of Naturalclar"/> Naturalclar
+				<img src="https://private-avatars.githubusercontent.com/u/6936373?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwMjAsIm5iZiI6MTczNDU2OTgyMCwicGF0aCI6Ii91LzY5MzYzNzMifQ.vMRa2y_87UKtyjeHilghSi_UJnu2FYiheMNlVHN8tq0&s=72&u=4edd14e6636c45d10ac6a3eecb4b3ffa6cc2bf5c&v=4" width="24" alt="Avatar of Naturalclar"/> Naturalclar
 			</a><br/>
 			Jesse Katsumata
 		</td>
@@ -2869,20 +2869,20 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>213</td>
 		<td>
 			<a target="_blank" href="https://github.com/himkt">
-				<img src="https://private-avatars.githubusercontent.com/u/5164000?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjIwMDAsIm5iZiI6MTczNDQ2MDgwMCwicGF0aCI6Ii91LzUxNjQwMDAifQ.t6yYZt-KhKK045RWmu2w4Nv-JxbJZFencpywnVlgUf8&s=72&u=60e253a734bc0c07472d15068fcbe77d19657942&v=4" width="24" alt="Avatar of himkt"/> himkt
+				<img src="https://private-avatars.githubusercontent.com/u/5164000?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE4MDAsIm5iZiI6MTczNDU3MDYwMCwicGF0aCI6Ii91LzUxNjQwMDAifQ.dDdqnRSt9WE0li25kteGURSO6QMqCGdPR4lrP1mSdws&s=72&u=60e253a734bc0c07472d15068fcbe77d19657942&v=4" width="24" alt="Avatar of himkt"/> himkt
 			</a><br/>
 			himkt
 		</td>
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/himako_h">himako_h</a></td>
 		<td>Tokyo Japan</td>
-		<td>660</td>
+		<td>663</td>
 	</tr>
 	<tr>
 		<td>214</td>
 		<td>
 			<a target="_blank" href="https://github.com/mika-f">
-				<img src="https://private-avatars.githubusercontent.com/u/10832834?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE5NDAsIm5iZiI6MTczNDQ2MDc0MCwicGF0aCI6Ii91LzEwODMyODM0In0.68nK_idibvzqs8xLii8S3mla6qN9NARXqCdEelb1z7E&s=72&u=028cb0d0a2d9e94949f58d510b3ad8db9ad93d03&v=4" width="24" alt="Avatar of mika-f"/> mika-f
+				<img src="https://private-avatars.githubusercontent.com/u/10832834?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE3NDAsIm5iZiI6MTczNDU3MDU0MCwicGF0aCI6Ii91LzEwODMyODM0In0.l_7AoiZFjEiexAHjLvaLMTm0S5M3WyZi6YkFiKf7Uz0&s=72&u=028cb0d0a2d9e94949f58d510b3ad8db9ad93d03&v=4" width="24" alt="Avatar of mika-f"/> mika-f
 			</a><br/>
 			MOCHIZUKI Natsune
 		</td>
@@ -2895,7 +2895,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>215</td>
 		<td>
 			<a target="_blank" href="https://github.com/yhara">
-				<img src="https://private-avatars.githubusercontent.com/u/12285?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1MjAsIm5iZiI6MTczNDQ2MDMyMCwicGF0aCI6Ii91LzEyMjg1In0.YLgixqAWuiOOzyTVdCbaMNuTzjlZFxnKlR4a0661mas&s=72&v=4" width="24" alt="Avatar of yhara"/> yhara
+				<img src="https://private-avatars.githubusercontent.com/u/12285?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzMjAsIm5iZiI6MTczNDU3MDEyMCwicGF0aCI6Ii91LzEyMjg1In0.aRuLXgidPDbrKm9INzaF1SjkTEw8objhfRjk4gdHyGQ&s=72&v=4" width="24" alt="Avatar of yhara"/> yhara
 			</a><br/>
 			Yutaka HARA
 		</td>
@@ -2908,20 +2908,20 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>216</td>
 		<td>
 			<a target="_blank" href="https://github.com/riceset">
-				<img src="https://private-avatars.githubusercontent.com/u/48802655?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE4MjAsIm5iZiI6MTczNDQ2MDYyMCwicGF0aCI6Ii91LzQ4ODAyNjU1In0.nBqCXhkeJIAb7ghuTqpDt4eri21QEl8VeFCWUN--xVU&s=72&u=6f6f663016a4126e602b0bd30eafcabd0f17b68f&v=4" width="24" alt="Avatar of riceset"/> riceset
+				<img src="https://private-avatars.githubusercontent.com/u/48802655?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE2MjAsIm5iZiI6MTczNDU3MDQyMCwicGF0aCI6Ii91LzQ4ODAyNjU1In0.CICX3FMQd8b9zVVqb0wUYbSVl9AjuYjraFgtDlJw9tY&s=72&u=6f6f663016a4126e602b0bd30eafcabd0f17b68f&v=4" width="24" alt="Avatar of riceset"/> riceset
 			</a><br/>
 			Komeno
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Tokyo Japan</td>
-		<td>643</td>
+		<td>645</td>
 	</tr>
 	<tr>
 		<td>217</td>
 		<td>
 			<a target="_blank" href="https://github.com/studiomohawk">
-				<img src="https://private-avatars.githubusercontent.com/u/28534?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE5NDAsIm5iZiI6MTczNDQ2MDc0MCwicGF0aCI6Ii91LzI4NTM0In0.PvVZtQXJ3YxHjrvpQjlGXJsFjomAzUr6hhrtcypCVVw&s=72&v=4" width="24" alt="Avatar of studiomohawk"/> studiomohawk
+				<img src="https://private-avatars.githubusercontent.com/u/28534?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE3NDAsIm5iZiI6MTczNDU3MDU0MCwicGF0aCI6Ii91LzI4NTM0In0.rqPkcwvaizF0E6TYquWHlBZyLm_OXUnsqZpftgd2Kq4&s=72&v=4" width="24" alt="Avatar of studiomohawk"/> studiomohawk
 			</a><br/>
 			Yuya Saito
 		</td>
@@ -2934,33 +2934,46 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>218</td>
 		<td>
 			<a target="_blank" href="https://github.com/Kamesuta">
-				<img src="https://private-avatars.githubusercontent.com/u/16362824?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0NjAsIm5iZiI6MTczNDQ2MDI2MCwicGF0aCI6Ii91LzE2MzYyODI0In0.W014Z9CDcajpwaT3Sx9zG8JMtytpHGMv6ffoTXARAy0&s=72&u=1e1323fe9b0b07a17d4e789fad55aa601d3e8d46&v=4" width="24" alt="Avatar of Kamesuta"/> Kamesuta
+				<img src="https://private-avatars.githubusercontent.com/u/16362824?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyNjAsIm5iZiI6MTczNDU3MDA2MCwicGF0aCI6Ii91LzE2MzYyODI0In0.7H5aSiS-g4c1HeDBUhn4gLEKZ4008htnnmRjOqt8QTY&s=72&u=1e1323fe9b0b07a17d4e789fad55aa601d3e8d46&v=4" width="24" alt="Avatar of Kamesuta"/> Kamesuta
 			</a><br/>
 			Kamesuta
 		</td>
 		<td>@kamepowerworld  </td>
 		<td><a target="_blank" href="https://twitter.com/Kmesuta">Kmesuta</a></td>
 		<td>Japan</td>
-		<td>626</td>
+		<td>628</td>
 	</tr>
 	<tr>
 		<td>219</td>
 		<td>
 			<a target="_blank" href="https://github.com/jamesdbrock">
-				<img src="https://private-avatars.githubusercontent.com/u/1526224?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE5NDAsIm5iZiI6MTczNDQ2MDc0MCwicGF0aCI6Ii91LzE1MjYyMjQifQ.qLQht0CJEHhaIo01wJP5fFVlNrZ8hMzAozyiVgzrJ_E&s=72&u=7012559f7a5f9dc7eac79bd8dd3af70c16879c1c&v=4" width="24" alt="Avatar of jamesdbrock"/> jamesdbrock
+				<img src="https://private-avatars.githubusercontent.com/u/1526224?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE3NDAsIm5iZiI6MTczNDU3MDU0MCwicGF0aCI6Ii91LzE1MjYyMjQifQ.jmdg1UDgLd5tVd96zMUqR_TxQ3h8zc7jPqfn7aao0oU&s=72&u=7012559f7a5f9dc7eac79bd8dd3af70c16879c1c&v=4" width="24" alt="Avatar of jamesdbrock"/> jamesdbrock
 			</a><br/>
 			James Brock
 		</td>
 		<td>@xcjp  </td>
 		<td><a target="_blank" href="https://twitter.com/jamesdbrock">jamesdbrock</a></td>
 		<td>Yokohama Japan</td>
-		<td>624</td>
+		<td>628</td>
 	</tr>
 	<tr>
 		<td>220</td>
 		<td>
+			<a target="_blank" href="https://github.com/crcrpar">
+				<img src="https://private-avatars.githubusercontent.com/u/16191443?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE5MjAsIm5iZiI6MTczNDU3MDcyMCwicGF0aCI6Ii91LzE2MTkxNDQzIn0.ZZP43DNQS86FJ86tS8-f2yZZzTNiMtreHDnKClU75SM&s=72&u=348d558e8027da76f7e143d83c67ecc6c15a68b5&v=4" width="24" alt="Avatar of crcrpar"/> crcrpar
+			</a><br/>
+			Masaki Kozuki
+		</td>
+		<td>Nvidia </td>
+		<td>No Twitter Username</td>
+		<td>Tokyo</td>
+		<td>624</td>
+	</tr>
+	<tr>
+		<td>221</td>
+		<td>
 			<a target="_blank" href="https://github.com/yshrsmz">
-				<img src="https://private-avatars.githubusercontent.com/u/654889?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE4MjAsIm5iZiI6MTczNDQ2MDYyMCwicGF0aCI6Ii91LzY1NDg4OSJ9.Gm3SPTgR5ShGKnA0elp0eC2xhJQOZNOQpU4vKv_ik0A&s=72&v=4" width="24" alt="Avatar of yshrsmz"/> yshrsmz
+				<img src="https://private-avatars.githubusercontent.com/u/654889?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE2MjAsIm5iZiI6MTczNDU3MDQyMCwicGF0aCI6Ii91LzY1NDg4OSJ9.ElqJ7hNrJd7ZBEbd1sZo8ogRytamKljcDZhQYEg-DvU&s=72&v=4" width="24" alt="Avatar of yshrsmz"/> yshrsmz
 			</a><br/>
 			Yasuhiro SHIMIZU
 		</td>
@@ -2970,23 +2983,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>623</td>
 	</tr>
 	<tr>
-		<td>221</td>
-		<td>
-			<a target="_blank" href="https://github.com/crcrpar">
-				<img src="https://private-avatars.githubusercontent.com/u/16191443?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjIxMjAsIm5iZiI6MTczNDQ2MDkyMCwicGF0aCI6Ii91LzE2MTkxNDQzIn0.Yq2bgbf4hoXK9p3WdRv5GZciZeeLw_1Y7eA0irrW6QM&s=72&u=348d558e8027da76f7e143d83c67ecc6c15a68b5&v=4" width="24" alt="Avatar of crcrpar"/> crcrpar
-			</a><br/>
-			Masaki Kozuki
-		</td>
-		<td>Nvidia </td>
-		<td>No Twitter Username</td>
-		<td>Tokyo</td>
-		<td>619</td>
-	</tr>
-	<tr>
 		<td>222</td>
 		<td>
 			<a target="_blank" href="https://github.com/fukamachi">
-				<img src="https://private-avatars.githubusercontent.com/u/90570?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0MDAsIm5iZiI6MTczNDQ2MDIwMCwicGF0aCI6Ii91LzkwNTcwIn0.a0BBYK4ZZ_pFZGeeQcsn7wuRu582UwL4TJFUafzw2lc&s=72&u=a0e6d69c404ef0476c401259bf13890bc467c66f&v=4" width="24" alt="Avatar of fukamachi"/> fukamachi
+				<img src="https://private-avatars.githubusercontent.com/u/90570?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyMDAsIm5iZiI6MTczNDU3MDAwMCwicGF0aCI6Ii91LzkwNTcwIn0.T0g4DboaJB6Y_DciyoipXJOaT-E74qkR2Kv4YUP6kT8&s=72&u=a0e6d69c404ef0476c401259bf13890bc467c66f&v=4" width="24" alt="Avatar of fukamachi"/> fukamachi
 			</a><br/>
 			Eitaro Fukamachi
 		</td>
@@ -2999,7 +2999,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>223</td>
 		<td>
 			<a target="_blank" href="https://github.com/franciscop">
-				<img src="https://private-avatars.githubusercontent.com/u/2801252?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyODAsIm5iZiI6MTczNDQ2MDA4MCwicGF0aCI6Ii91LzI4MDEyNTIifQ.-0Xr28sKD83lEm7HO3a_rA1xl_zh38ho25PZh14jLdA&s=72&u=06a543086ee54676ad5c5eb69f881d0076040b3b&v=4" width="24" alt="Avatar of franciscop"/> franciscop
+				<img src="https://private-avatars.githubusercontent.com/u/2801252?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwODAsIm5iZiI6MTczNDU2OTg4MCwicGF0aCI6Ii91LzI4MDEyNTIifQ.-ePNKW328QSiMLupxL6J8rxTFPaWGYCq5xUVJV1q4R4&s=72&u=06a543086ee54676ad5c5eb69f881d0076040b3b&v=4" width="24" alt="Avatar of franciscop"/> franciscop
 			</a><br/>
 			Francisco Presencia
 		</td>
@@ -3012,7 +3012,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>224</td>
 		<td>
 			<a target="_blank" href="https://github.com/ucan-lab">
-				<img src="https://private-avatars.githubusercontent.com/u/35098175?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjIxMjAsIm5iZiI6MTczNDQ2MDkyMCwicGF0aCI6Ii91LzM1MDk4MTc1In0.sML0HHlRHXJDm5GZY6dNevzxmuCo4MvCmQ9PlSUHvzg&s=72&u=209994080ba90c2eea7e59c88913880f324b8763&v=4" width="24" alt="Avatar of ucan-lab"/> ucan-lab
+				<img src="https://private-avatars.githubusercontent.com/u/35098175?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwMjAsIm5iZiI6MTczNDU2OTgyMCwicGF0aCI6Ii91LzM1MDk4MTc1In0.u2mgGdSmssNEwyJSL-BMlea77sjbQa19zl3rxlWu5xA&s=72&u=209994080ba90c2eea7e59c88913880f324b8763&v=4" width="24" alt="Avatar of ucan-lab"/> ucan-lab
 			</a><br/>
 			ucanlab
 		</td>
@@ -3025,33 +3025,46 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>225</td>
 		<td>
 			<a target="_blank" href="https://github.com/machida">
-				<img src="https://private-avatars.githubusercontent.com/u/168265?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0NjAsIm5iZiI6MTczNDQ2MDI2MCwicGF0aCI6Ii91LzE2ODI2NSJ9.2GCGUtUg_rSNsHg3COU7qrgJHOo0E_Yxj4HY144AwZ0&s=72&u=2469df24b1a285c7de03fd33bbe1254f3d4d23db&v=4" width="24" alt="Avatar of machida"/> machida
+				<img src="https://private-avatars.githubusercontent.com/u/168265?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyNjAsIm5iZiI6MTczNDU3MDA2MCwicGF0aCI6Ii91LzE2ODI2NSJ9.rNRkLeBRjniLUuoCXJmZp0GoO_BkU8G1ecXSPu8jJOY&s=72&u=2469df24b1a285c7de03fd33bbe1254f3d4d23db&v=4" width="24" alt="Avatar of machida"/> machida
 			</a><br/>
 			machida
 		</td>
 		<td>Fjordinc </td>
 		<td>No Twitter Username</td>
 		<td>Tokyo</td>
-		<td>608</td>
+		<td>612</td>
 	</tr>
 	<tr>
 		<td>226</td>
 		<td>
 			<a target="_blank" href="https://github.com/archseer">
-				<img src="https://private-avatars.githubusercontent.com/u/1372918?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyMjAsIm5iZiI6MTczNDQ2MDAyMCwicGF0aCI6Ii91LzEzNzI5MTgifQ.OkeFD420nzzWknezqCEY8t_Wll6JInuLhT2JBH3ZQEM&s=72&u=3cdf0e9a84945967b3545727092c49168c9467e7&v=4" width="24" alt="Avatar of archseer"/> archseer
+				<img src="https://private-avatars.githubusercontent.com/u/1372918?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwMjAsIm5iZiI6MTczNDU2OTgyMCwicGF0aCI6Ii91LzEzNzI5MTgifQ.i67xyD4ntF4RC9LpKdDt703Nbk4f8bbfp-Wlhsajukc&s=72&u=3cdf0e9a84945967b3545727092c49168c9467e7&v=4" width="24" alt="Avatar of archseer"/> archseer
 			</a><br/>
 			Bla Hrastnik
 		</td>
 		<td>Mxxn </td>
 		<td>No Twitter Username</td>
 		<td>Tokyo Japan</td>
-		<td>607</td>
+		<td>610</td>
 	</tr>
 	<tr>
 		<td>227</td>
 		<td>
+			<a target="_blank" href="https://github.com/sorah">
+				<img src="https://private-avatars.githubusercontent.com/u/29440?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5NjAsIm5iZiI6MTczNDU2OTc2MCwicGF0aCI6Ii91LzI5NDQwIn0.TrCvqAY-5CIbwjc-fBCCKqMj3CABtwFH6YImldN40rM&s=72&u=8307732e89d2628f28d34a2c8b2d617cab60e63a&v=4" width="24" alt="Avatar of sorah"/> sorah
+			</a><br/>
+			Sorah Fukumori
+		</td>
+		<td>@cookpad  As59128 @kmcjp<br/></td>
+		<td><a target="_blank" href="https://twitter.com/sora_h">sora_h</a></td>
+		<td>Tokyo Japan</td>
+		<td>601</td>
+	</tr>
+	<tr>
+		<td>228</td>
+		<td>
 			<a target="_blank" href="https://github.com/0918nobita">
-				<img src="https://private-avatars.githubusercontent.com/u/8453302?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEwNDAsIm5iZiI6MTczNDQ1OTg0MCwicGF0aCI6Ii91Lzg0NTMzMDIifQ.pGt6_crlbo2pLXJaZw0gLAIy0YmL1KDzh7-cD3SwO64&s=72&u=e22c99338d1ab24372d9dabaf91b74013bdf3698&v=4" width="24" alt="Avatar of 0918nobita"/> 0918nobita
+				<img src="https://private-avatars.githubusercontent.com/u/8453302?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA4NDAsIm5iZiI6MTczNDU2OTY0MCwicGF0aCI6Ii91Lzg0NTMzMDIifQ.vulVFmgWsBiZ1WyWYc6PuQqAuMlVYIX-TulIUjGGtaU&s=72&u=e22c99338d1ab24372d9dabaf91b74013bdf3698&v=4" width="24" alt="Avatar of 0918nobita"/> 0918nobita
 			</a><br/>
 			0918nobita
 		</td>
@@ -3061,10 +3074,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>598</td>
 	</tr>
 	<tr>
-		<td>228</td>
+		<td>229</td>
 		<td>
 			<a target="_blank" href="https://github.com/skanehira">
-				<img src="https://private-avatars.githubusercontent.com/u/7888591?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEwNDAsIm5iZiI6MTczNDQ1OTg0MCwicGF0aCI6Ii91Lzc4ODg1OTEifQ.zQxRMGao_lIcQ7VuhwIscrIn9VhZVgAjYxmUcmXyFOA&s=72&u=4e4bfe5f6d09752b9b5e03519308103e20dcdc6a&v=4" width="24" alt="Avatar of skanehira"/> skanehira
+				<img src="https://private-avatars.githubusercontent.com/u/7888591?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA4NDAsIm5iZiI6MTczNDU2OTY0MCwicGF0aCI6Ii91Lzc4ODg1OTEifQ.SnrYdFrPvHMtUXS51Rs5C_L3Gb9t-Rnze7dN2iVj35I&s=72&u=4e4bfe5f6d09752b9b5e03519308103e20dcdc6a&v=4" width="24" alt="Avatar of skanehira"/> skanehira
 			</a><br/>
 			skanehira
 		</td>
@@ -3074,23 +3087,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>597</td>
 	</tr>
 	<tr>
-		<td>229</td>
-		<td>
-			<a target="_blank" href="https://github.com/sorah">
-				<img src="https://private-avatars.githubusercontent.com/u/29440?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExNjAsIm5iZiI6MTczNDQ1OTk2MCwicGF0aCI6Ii91LzI5NDQwIn0.Q3ZKoo8GqOByTsG3431aWzfG8a5JLsD0myTYfXHLgg0&s=72&u=8307732e89d2628f28d34a2c8b2d617cab60e63a&v=4" width="24" alt="Avatar of sorah"/> sorah
-			</a><br/>
-			Sorah Fukumori
-		</td>
-		<td>@cookpad  As59128 @kmcjp<br/></td>
-		<td><a target="_blank" href="https://twitter.com/sora_h">sora_h</a></td>
-		<td>Tokyo Japan</td>
-		<td>596</td>
-	</tr>
-	<tr>
 		<td>230</td>
 		<td>
 			<a target="_blank" href="https://github.com/JohnTitor">
-				<img src="https://private-avatars.githubusercontent.com/u/25030997?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyODAsIm5iZiI6MTczNDQ2MDA4MCwicGF0aCI6Ii91LzI1MDMwOTk3In0.vz6x-092J_X2F79sCzwXdMlggEjul5rcgbNRZKGmd84&s=72&u=ed33906422f51f76b7aa44ef8481511b3862615c&v=4" width="24" alt="Avatar of JohnTitor"/> JohnTitor
+				<img src="https://private-avatars.githubusercontent.com/u/25030997?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwODAsIm5iZiI6MTczNDU2OTg4MCwicGF0aCI6Ii91LzI1MDMwOTk3In0.yHX13NmxIe1DVnwSIXAx4hlHB6gAfGGq115_jZLFnGk&s=72&u=ed33906422f51f76b7aa44ef8481511b3862615c&v=4" width="24" alt="Avatar of JohnTitor"/> JohnTitor
 			</a><br/>
 			Yuki Okushi
 		</td>
@@ -3102,8 +3102,34 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 	<tr>
 		<td>231</td>
 		<td>
+			<a target="_blank" href="https://github.com/tigercosmos">
+				<img src="https://private-avatars.githubusercontent.com/u/18013815?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzODAsIm5iZiI6MTczNDU3MDE4MCwicGF0aCI6Ii91LzE4MDEzODE1In0.uCgYc6nMMjM3LYcw7NbgHg0Eobkh1BdH0IGmJRLwt5c&s=72&u=3be27932927dbcaca402e9247d98d8f984df9aaf&v=4" width="24" alt="Avatar of tigercosmos"/> tigercosmos
+			</a><br/>
+			Liu AnChi
+		</td>
+		<td>@nycusslab @mujin </td>
+		<td><a target="_blank" href="https://twitter.com/tigercosmos">tigercosmos</a></td>
+		<td>Tokyo Japan</td>
+		<td>584</td>
+	</tr>
+	<tr>
+		<td>232</td>
+		<td>
+			<a target="_blank" href="https://github.com/JunichiIto">
+				<img src="https://private-avatars.githubusercontent.com/u/1148320?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE0NDAsIm5iZiI6MTczNDU3MDI0MCwicGF0aCI6Ii91LzExNDgzMjAifQ.H6AmzmyZS5p-Hb9vnoNqUPvazHn6-XWBddjucFZO6bY&s=72&u=bee10f326f6f222152823082a3ac6c2f43897452&v=4" width="24" alt="Avatar of JunichiIto"/> JunichiIto
+			</a><br/>
+			Junichi Ito
+		</td>
+		<td>Sonicgarden Inc </td>
+		<td><a target="_blank" href="https://twitter.com/jnchito">jnchito</a></td>
+		<td>Hyogo Japan</td>
+		<td>581</td>
+	</tr>
+	<tr>
+		<td>233</td>
+		<td>
 			<a target="_blank" href="https://github.com/rui314">
-				<img src="https://private-avatars.githubusercontent.com/u/47400?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExMDAsIm5iZiI6MTczNDQ1OTkwMCwicGF0aCI6Ii91LzQ3NDAwIn0.KStnrjOKp4i62rvKssJzT3onkbYhyRFxDCHo8Of25YY&s=72&v=4" width="24" alt="Avatar of rui314"/> rui314
+				<img src="https://private-avatars.githubusercontent.com/u/47400?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5MDAsIm5iZiI6MTczNDU2OTcwMCwicGF0aCI6Ii91LzQ3NDAwIn0.fXPlbFu_tuaP4sKDnBCdgklS39U7GL56hG3v1x9AqLM&s=72&v=4" width="24" alt="Avatar of rui314"/> rui314
 			</a><br/>
 			Rui Ueyama
 		</td>
@@ -3113,23 +3139,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>579</td>
 	</tr>
 	<tr>
-		<td>232</td>
-		<td>
-			<a target="_blank" href="https://github.com/JunichiIto">
-				<img src="https://private-avatars.githubusercontent.com/u/1148320?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE2NDAsIm5iZiI6MTczNDQ2MDQ0MCwicGF0aCI6Ii91LzExNDgzMjAifQ.857xlnnG3i1oWvalYnF7LJm-jEGcqaejLqlIA7i8EJA&s=72&u=bee10f326f6f222152823082a3ac6c2f43897452&v=4" width="24" alt="Avatar of JunichiIto"/> JunichiIto
-			</a><br/>
-			Junichi Ito
-		</td>
-		<td>Sonicgarden Inc </td>
-		<td><a target="_blank" href="https://twitter.com/jnchito">jnchito</a></td>
-		<td>Hyogo Japan</td>
-		<td>579</td>
-	</tr>
-	<tr>
-		<td>233</td>
+		<td>234</td>
 		<td>
 			<a target="_blank" href="https://github.com/kiaking">
-				<img src="https://private-avatars.githubusercontent.com/u/3753672?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExMDAsIm5iZiI6MTczNDQ1OTkwMCwicGF0aCI6Ii91LzM3NTM2NzIifQ.FHxgnILrtpstdwC-LlUJWrV1nkAVP9_gzhgBHgdCM7s&s=72&v=4" width="24" alt="Avatar of kiaking"/> kiaking
+				<img src="https://private-avatars.githubusercontent.com/u/3753672?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5MDAsIm5iZiI6MTczNDU2OTcwMCwicGF0aCI6Ii91LzM3NTM2NzIifQ.oD3qlxxtpzUWWOppSxFZyKsZBl4sM_j8MFQotFw6hw8&s=72&v=4" width="24" alt="Avatar of kiaking"/> kiaking
 			</a><br/>
 			Kia King Ishii
 		</td>
@@ -3139,36 +3152,23 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>575</td>
 	</tr>
 	<tr>
-		<td>234</td>
-		<td>
-			<a target="_blank" href="https://github.com/tigercosmos">
-				<img src="https://private-avatars.githubusercontent.com/u/18013815?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1ODAsIm5iZiI6MTczNDQ2MDM4MCwicGF0aCI6Ii91LzE4MDEzODE1In0.NNa1kBiKrxE5mDgbD7axO92CMfP3ejpGanIgrrFBQlM&s=72&u=3be27932927dbcaca402e9247d98d8f984df9aaf&v=4" width="24" alt="Avatar of tigercosmos"/> tigercosmos
-			</a><br/>
-			Liu AnChi
-		</td>
-		<td>@nycusslab @mujin </td>
-		<td><a target="_blank" href="https://twitter.com/tigercosmos">tigercosmos</a></td>
-		<td>Tokyo Japan</td>
-		<td>575</td>
-	</tr>
-	<tr>
 		<td>235</td>
 		<td>
 			<a target="_blank" href="https://github.com/OvidijusParsiunas">
-				<img src="https://private-avatars.githubusercontent.com/u/18709577?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0MDAsIm5iZiI6MTczNDQ2MDIwMCwicGF0aCI6Ii91LzE4NzA5NTc3In0.GiA6XXACr-_cHLY5UK20q4eYvSyNT6OvwVt2rCj8NmY&s=72&u=245fd9851eb14ce9a588180ba9234a50544cb07c&v=4" width="24" alt="Avatar of OvidijusParsiunas"/> OvidijusParsiunas
+				<img src="https://private-avatars.githubusercontent.com/u/18709577?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyMDAsIm5iZiI6MTczNDU3MDAwMCwicGF0aCI6Ii91LzE4NzA5NTc3In0.ojO6PQIDTvVi6q7trBjIwi0bT4QCENPqBuritS41b0Y&s=72&u=245fd9851eb14ce9a588180ba9234a50544cb07c&v=4" width="24" alt="Avatar of OvidijusParsiunas"/> OvidijusParsiunas
 			</a><br/>
 			Ovidijus Parsiunas
 		</td>
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/OviSource">OviSource</a></td>
 		<td>Tsukuba Japan</td>
-		<td>574</td>
+		<td>575</td>
 	</tr>
 	<tr>
 		<td>236</td>
 		<td>
 			<a target="_blank" href="https://github.com/SakiTakamachi">
-				<img src="https://private-avatars.githubusercontent.com/u/34942839?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEzNDAsIm5iZiI6MTczNDQ2MDE0MCwicGF0aCI6Ii91LzM0OTQyODM5In0.sRMZIeeV86ife0MH6Oded8gIEd7QpljYrGK251SRGIw&s=72&u=8d798398c2d711d979d39c023492aff9b19c6b34&v=4" width="24" alt="Avatar of SakiTakamachi"/> SakiTakamachi
+				<img src="https://private-avatars.githubusercontent.com/u/34942839?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzExNDAsIm5iZiI6MTczNDU2OTk0MCwicGF0aCI6Ii91LzM0OTQyODM5In0.pFM-E37PCmc_if50wqgqkkZKsdcQG3S_YEE313Z56xk&s=72&u=8d798398c2d711d979d39c023492aff9b19c6b34&v=4" width="24" alt="Avatar of SakiTakamachi"/> SakiTakamachi
 			</a><br/>
 			Saki Takamachi
 		</td>
@@ -3181,7 +3181,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>237</td>
 		<td>
 			<a target="_blank" href="https://github.com/cosmo0920">
-				<img src="https://private-avatars.githubusercontent.com/u/700876?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjIwNjAsIm5iZiI6MTczNDQ2MDg2MCwicGF0aCI6Ii91LzcwMDg3NiJ9.R8ptSgrYEW0CD8ooZItgUWvmOHqPGk-cHxZLdmgX7gg&s=72&u=9344265d05342dbea3e72eb90047bd26515f5f79&v=4" width="24" alt="Avatar of cosmo0920"/> cosmo0920
+				<img src="https://private-avatars.githubusercontent.com/u/700876?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE4NjAsIm5iZiI6MTczNDU3MDY2MCwicGF0aCI6Ii91LzcwMDg3NiJ9.bqW9WLo1OSE1B5U1Idxrfc_Zs5EFzgRNvGEpruZXiSw&s=72&u=9344265d05342dbea3e72eb90047bd26515f5f79&v=4" width="24" alt="Avatar of cosmo0920"/> cosmo0920
 			</a><br/>
 			Hiroshi Hatake
 		</td>
@@ -3194,7 +3194,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>238</td>
 		<td>
 			<a target="_blank" href="https://github.com/yukkysaito">
-				<img src="https://private-avatars.githubusercontent.com/u/8327598?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjIwNjAsIm5iZiI6MTczNDQ2MDg2MCwicGF0aCI6Ii91LzgzMjc1OTgifQ.yw7HAVaaXq3UoI7Wg5ZY8KptCT7PUFw1tjM0F14-69c&s=72&u=b900a2b939ca9285dc37a45b64ab4e20c69a6c65&v=4" width="24" alt="Avatar of yukkysaito"/> yukkysaito
+				<img src="https://private-avatars.githubusercontent.com/u/8327598?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE4NjAsIm5iZiI6MTczNDU3MDY2MCwicGF0aCI6Ii91LzgzMjc1OTgifQ.80Dz9zlDb0ghOokobIZr6hpK6uytacjPG8HyokyjmAU&s=72&u=b900a2b939ca9285dc37a45b64ab4e20c69a6c65&v=4" width="24" alt="Avatar of yukkysaito"/> yukkysaito
 			</a><br/>
 			Yukihiro Saito
 		</td>
@@ -3206,34 +3206,34 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 	<tr>
 		<td>239</td>
 		<td>
-			<a target="_blank" href="https://github.com/nicolas-raoul">
-				<img src="https://private-avatars.githubusercontent.com/u/99590?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0MDAsIm5iZiI6MTczNDQ2MDIwMCwicGF0aCI6Ii91Lzk5NTkwIn0.IBEkB2U2DVRZZKfQdcd0pmDVzdgc-q4gATHzVpzEAbM&s=72&v=4" width="24" alt="Avatar of nicolas-raoul"/> nicolas-raoul
-			</a><br/>
-			Nicolas Raoul
-		</td>
-		<td>Google </td>
-		<td>No Twitter Username</td>
-		<td>Tokyo</td>
-		<td>547</td>
-	</tr>
-	<tr>
-		<td>240</td>
-		<td>
 			<a target="_blank" href="https://github.com/syumai">
-				<img src="https://private-avatars.githubusercontent.com/u/6882878?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExNjAsIm5iZiI6MTczNDQ1OTk2MCwicGF0aCI6Ii91LzY4ODI4NzgifQ.DreZ93JwJ_q2oBBj3wK1mXOldrvWvumzCWzJa4UyXHM&s=72&u=2d5e172e88d5a615743abfb5d92034273ab753dd&v=4" width="24" alt="Avatar of syumai"/> syumai
+				<img src="https://private-avatars.githubusercontent.com/u/6882878?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5NjAsIm5iZiI6MTczNDU2OTc2MCwicGF0aCI6Ii91LzY4ODI4NzgifQ.zute0xfvWXYH1HwM_QI3_tqy8xsEbyk-xw2S7jUqEv0&s=72&u=2d5e172e88d5a615743abfb5d92034273ab753dd&v=4" width="24" alt="Avatar of syumai"/> syumai
 			</a><br/>
 			syumai
 		</td>
 		<td>@basemachina </td>
 		<td><a target="_blank" href="https://twitter.com/__syumai">__syumai</a></td>
 		<td>Tokyo Japan</td>
-		<td>539</td>
+		<td>556</td>
+	</tr>
+	<tr>
+		<td>240</td>
+		<td>
+			<a target="_blank" href="https://github.com/nicolas-raoul">
+				<img src="https://private-avatars.githubusercontent.com/u/99590?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyMDAsIm5iZiI6MTczNDU3MDAwMCwicGF0aCI6Ii91Lzk5NTkwIn0.i9wgLlxLiv8U9JIqbWJGnLJL-I2DRJtPnRNQMSVE5Ck&s=72&v=4" width="24" alt="Avatar of nicolas-raoul"/> nicolas-raoul
+			</a><br/>
+			Nicolas Raoul
+		</td>
+		<td>Google </td>
+		<td>No Twitter Username</td>
+		<td>Tokyo</td>
+		<td>548</td>
 	</tr>
 	<tr>
 		<td>241</td>
 		<td>
 			<a target="_blank" href="https://github.com/qnighy">
-				<img src="https://private-avatars.githubusercontent.com/u/41755?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0MDAsIm5iZiI6MTczNDQ2MDIwMCwicGF0aCI6Ii91LzQxNzU1In0.lo89PWWM5gowtI4LweBGIYn5gq1TgzBlv8ncI1upCZs&s=72&u=323bbfe70d753954cd9bea6a40052ec8be2ab0b2&v=4" width="24" alt="Avatar of qnighy"/> qnighy
+				<img src="https://private-avatars.githubusercontent.com/u/41755?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyMDAsIm5iZiI6MTczNDU3MDAwMCwicGF0aCI6Ii91LzQxNzU1In0.sAQaaTQjjf49GvYH_sXvTwbY-82mx3-zPpqGFXJmaMY&s=72&u=323bbfe70d753954cd9bea6a40052ec8be2ab0b2&v=4" width="24" alt="Avatar of qnighy"/> qnighy
 			</a><br/>
 			Masaki Hara
 		</td>
@@ -3245,8 +3245,21 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 	<tr>
 		<td>242</td>
 		<td>
+			<a target="_blank" href="https://github.com/okuramasafumi">
+				<img src="https://private-avatars.githubusercontent.com/u/1012014?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE0NDAsIm5iZiI6MTczNDU3MDI0MCwicGF0aCI6Ii91LzEwMTIwMTQifQ.kd3VEaiLv4uV0XtefVAtkV1grd9m-MbmBOPMM9f70IU&s=72&u=5e16fe6df80dd199a02e3a5b9a5d225666239799&v=4" width="24" alt="Avatar of okuramasafumi"/> okuramasafumi
+			</a><br/>
+			OKURA Masafumi
+		</td>
+		<td>Freelance </td>
+		<td><a target="_blank" href="https://twitter.com/okuramasafumi">okuramasafumi</a></td>
+		<td>Tokyo Japan</td>
+		<td>538</td>
+	</tr>
+	<tr>
+		<td>243</td>
+		<td>
 			<a target="_blank" href="https://github.com/ogaclejapan">
-				<img src="https://private-avatars.githubusercontent.com/u/1496485?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyMjAsIm5iZiI6MTczNDQ2MDAyMCwicGF0aCI6Ii91LzE0OTY0ODUifQ.jXdvWZkvAabzQNPUP8DozPYH1r60R3yqn-HbvTUD4m0&s=72&u=5555ecc0a6b13ffe62b649342c24609da3330ce5&v=4" width="24" alt="Avatar of ogaclejapan"/> ogaclejapan
+				<img src="https://private-avatars.githubusercontent.com/u/1496485?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwMjAsIm5iZiI6MTczNDU2OTgyMCwicGF0aCI6Ii91LzE0OTY0ODUifQ.saSHAC_zSFw4XZWYvICnhXkIfRzBk5DER6Y6z6WYS38&s=72&u=5555ecc0a6b13ffe62b649342c24609da3330ce5&v=4" width="24" alt="Avatar of ogaclejapan"/> ogaclejapan
 			</a><br/>
 			ogaclejapan
 		</td>
@@ -3256,23 +3269,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>534</td>
 	</tr>
 	<tr>
-		<td>243</td>
-		<td>
-			<a target="_blank" href="https://github.com/okuramasafumi">
-				<img src="https://private-avatars.githubusercontent.com/u/1012014?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE2NDAsIm5iZiI6MTczNDQ2MDQ0MCwicGF0aCI6Ii91LzEwMTIwMTQifQ.Cndxfz60nykBMKntMheiYUl4dvok9cR5uKM6FYfC1EM&s=72&u=5e16fe6df80dd199a02e3a5b9a5d225666239799&v=4" width="24" alt="Avatar of okuramasafumi"/> okuramasafumi
-			</a><br/>
-			OKURA Masafumi
-		</td>
-		<td>Freelance </td>
-		<td><a target="_blank" href="https://twitter.com/okuramasafumi">okuramasafumi</a></td>
-		<td>Tokyo Japan</td>
-		<td>532</td>
-	</tr>
-	<tr>
 		<td>244</td>
 		<td>
 			<a target="_blank" href="https://github.com/zonuexe">
-				<img src="https://private-avatars.githubusercontent.com/u/822086?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExMDAsIm5iZiI6MTczNDQ1OTkwMCwicGF0aCI6Ii91LzgyMjA4NiJ9.BUOXMWx3cZjnUEaORhegFjNJSKrHEKTRvpDsmdHCGoE&s=72&u=fd85204aa0605b17a73757ec3c1f644af436f496&v=4" width="24" alt="Avatar of zonuexe"/> zonuexe
+				<img src="https://private-avatars.githubusercontent.com/u/822086?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5MDAsIm5iZiI6MTczNDU2OTcwMCwicGF0aCI6Ii91LzgyMjA4NiJ9.87gnMMqR3pkDnMSQlETje-4vfLMEL_uCBsiUuwBeEi4&s=72&u=fd85204aa0605b17a73757ec3c1f644af436f496&v=4" width="24" alt="Avatar of zonuexe"/> zonuexe
 			</a><br/>
 			USAMI Kenta
 		</td>
@@ -3284,8 +3284,21 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 	<tr>
 		<td>245</td>
 		<td>
+			<a target="_blank" href="https://github.com/Kuniwak">
+				<img src="https://private-avatars.githubusercontent.com/u/1124024?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE2ODAsIm5iZiI6MTczNDU3MDQ4MCwicGF0aCI6Ii91LzExMjQwMjQifQ.jQDzO2NlXunxNTq1J0un0tA0Pa0wushdzfCMccT8mNI&s=72&u=ef9d17365addc6f7b8df7de8cdc12162c7de636b&v=4" width="24" alt="Avatar of Kuniwak"/> Kuniwak
+			</a><br/>
+			Yuki Kokubun
+		</td>
+		<td>@dena </td>
+		<td><a target="_blank" href="https://twitter.com/orga_chem">orga_chem</a></td>
+		<td>Kanagawa Japan</td>
+		<td>529</td>
+	</tr>
+	<tr>
+		<td>246</td>
+		<td>
 			<a target="_blank" href="https://github.com/kenjinote">
-				<img src="https://private-avatars.githubusercontent.com/u/2605401?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA5ODAsIm5iZiI6MTczNDQ1OTc4MCwicGF0aCI6Ii91LzI2MDU0MDEifQ.VFjXEqYcbjK4pBV5zdklvBsIO41Va5QW5zEc7pYbeEg&s=72&u=eedb455e76cb25f023a3626808cd572b7df70ef7&v=4" width="24" alt="Avatar of kenjinote"/> kenjinote
+				<img src="https://private-avatars.githubusercontent.com/u/2605401?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA3ODAsIm5iZiI6MTczNDU2OTU4MCwicGF0aCI6Ii91LzI2MDU0MDEifQ.hRWkGLPHv4oXmGCbAdEOsWV27v9EaH2RvLuihsw8Me8&s=72&u=eedb455e76cb25f023a3626808cd572b7df70ef7&v=4" width="24" alt="Avatar of kenjinote"/> kenjinote
 			</a><br/>
 			kenji
 		</td>
@@ -3295,10 +3308,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>528</td>
 	</tr>
 	<tr>
-		<td>246</td>
+		<td>247</td>
 		<td>
 			<a target="_blank" href="https://github.com/amatsuda">
-				<img src="https://private-avatars.githubusercontent.com/u/11493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyMjAsIm5iZiI6MTczNDQ2MDAyMCwicGF0aCI6Ii91LzExNDkzIn0.fOCUf6yDIeQf1vFKxQva4dSBAGZSHXwPb6TgHoMPeGc&s=72&v=4" width="24" alt="Avatar of amatsuda"/> amatsuda
+				<img src="https://private-avatars.githubusercontent.com/u/11493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwMjAsIm5iZiI6MTczNDU2OTgyMCwicGF0aCI6Ii91LzExNDkzIn0.wBrWu9t_5ejJi8SRGRhSG6QF_Y1MGnC0i11JUjEZjxA&s=72&v=4" width="24" alt="Avatar of amatsuda"/> amatsuda
 			</a><br/>
 			Akira Matsuda
 		</td>
@@ -3308,10 +3321,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>527</td>
 	</tr>
 	<tr>
-		<td>247</td>
+		<td>248</td>
 		<td>
 			<a target="_blank" href="https://github.com/lacolaco">
-				<img src="https://private-avatars.githubusercontent.com/u/1529180?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE2NDAsIm5iZiI6MTczNDQ2MDQ0MCwicGF0aCI6Ii91LzE1MjkxODAifQ.aNgRRbWLB-CSSvxzSO7Urfxxbg6B8-xTgGH0VXVeob0&s=72&u=dfa087fa30271d08a6320ea49590f08a58ff4f1b&v=4" width="24" alt="Avatar of lacolaco"/> lacolaco
+				<img src="https://private-avatars.githubusercontent.com/u/1529180?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA1NDAsIm5iZiI6MTczNDU2OTM0MCwicGF0aCI6Ii91LzE1MjkxODAifQ.dVxgRK5l3mPo-gZFwRm2J5FJn8J21f1OqtViJpYU_OA&s=72&u=dfa087fa30271d08a6320ea49590f08a58ff4f1b&v=4" width="24" alt="Avatar of lacolaco"/> lacolaco
 			</a><br/>
 			Suguru Inatomi
 		</td>
@@ -3321,10 +3334,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>526</td>
 	</tr>
 	<tr>
-		<td>248</td>
+		<td>249</td>
 		<td>
 			<a target="_blank" href="https://github.com/hideakitai">
-				<img src="https://private-avatars.githubusercontent.com/u/889950?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExNjAsIm5iZiI6MTczNDQ1OTk2MCwicGF0aCI6Ii91Lzg4OTk1MCJ9.SbGPe_2au9phUF0HeBdeoiaZtaFI3ecrymiEvl_QGDc&s=72&u=9e490034ffd52cf682e2e42556e295ab5ccd8efc&v=4" width="24" alt="Avatar of hideakitai"/> hideakitai
+				<img src="https://private-avatars.githubusercontent.com/u/889950?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5NjAsIm5iZiI6MTczNDU2OTc2MCwicGF0aCI6Ii91Lzg4OTk1MCJ9.Li4cfQd9EcbU5KGC1TOgzihbCl7OKL7wUOLoFa1Pm0A&s=72&u=9e490034ffd52cf682e2e42556e295ab5ccd8efc&v=4" width="24" alt="Avatar of hideakitai"/> hideakitai
 			</a><br/>
 			Hideaki Tai
 		</td>
@@ -3334,23 +3347,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>526</td>
 	</tr>
 	<tr>
-		<td>249</td>
-		<td>
-			<a target="_blank" href="https://github.com/Kuniwak">
-				<img src="https://private-avatars.githubusercontent.com/u/1124024?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE4ODAsIm5iZiI6MTczNDQ2MDY4MCwicGF0aCI6Ii91LzExMjQwMjQifQ.RAd7EmD-DzbMScjLTK4FZAmJgMD1UBJ6TzBKdme3ziE&s=72&u=ef9d17365addc6f7b8df7de8cdc12162c7de636b&v=4" width="24" alt="Avatar of Kuniwak"/> Kuniwak
-			</a><br/>
-			Yuki Kokubun
-		</td>
-		<td>@dena </td>
-		<td><a target="_blank" href="https://twitter.com/orga_chem">orga_chem</a></td>
-		<td>Kanagawa Japan</td>
-		<td>526</td>
-	</tr>
-	<tr>
 		<td>250</td>
 		<td>
 			<a target="_blank" href="https://github.com/kozo2">
-				<img src="https://private-avatars.githubusercontent.com/u/12192?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1MjAsIm5iZiI6MTczNDQ2MDMyMCwicGF0aCI6Ii91LzEyMTkyIn0.SrRN1-03Q28MdTtTHr1SwH6EiNAWxu4Kqg74CvF9uQA&s=72&v=4" width="24" alt="Avatar of kozo2"/> kozo2
+				<img src="https://private-avatars.githubusercontent.com/u/12192?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzMjAsIm5iZiI6MTczNDU3MDEyMCwicGF0aCI6Ii91LzEyMTkyIn0.4t3aHhCpNIhODVAYN54TGoiFH6asuEV4mAEYO-uIqXE&s=72&v=4" width="24" alt="Avatar of kozo2"/> kozo2
 			</a><br/>
 			Kozo Nishida
 		</td>
@@ -3363,20 +3363,20 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>251</td>
 		<td>
 			<a target="_blank" href="https://github.com/onevcat">
-				<img src="https://private-avatars.githubusercontent.com/u/1019875?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA1NjAsIm5iZiI6MTczNDQ1OTM2MCwicGF0aCI6Ii91LzEwMTk4NzUifQ.FLVEZIRmBRL4Hc84Ki_TyOGEsmG79_T-xhUOydOGSXk&s=72&u=34477b070af505986e26066dfa6a5d2d64f319b6&v=4" width="24" alt="Avatar of onevcat"/> onevcat
+				<img src="https://private-avatars.githubusercontent.com/u/1019875?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzAzNjAsIm5iZiI6MTczNDU2OTE2MCwicGF0aCI6Ii91LzEwMTk4NzUifQ.I7LpujWO2XnH8WUEDkH8i8zWWsdSTjTTEg94bMehlv0&s=72&u=34477b070af505986e26066dfa6a5d2d64f319b6&v=4" width="24" alt="Avatar of onevcat"/> onevcat
 			</a><br/>
 			Wei Wang
 		</td>
 		<td>Line Corp </td>
 		<td><a target="_blank" href="https://twitter.com/onevcat">onevcat</a></td>
 		<td>Yokohama Japan  China</td>
-		<td>517</td>
+		<td>519</td>
 	</tr>
 	<tr>
 		<td>252</td>
 		<td>
 			<a target="_blank" href="https://github.com/mattatz">
-				<img src="https://private-avatars.githubusercontent.com/u/1085910?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyMjAsIm5iZiI6MTczNDQ2MDAyMCwicGF0aCI6Ii91LzEwODU5MTAifQ.MTdyZ7ilQJ0NBAq0d6WWEDXxBQ_p3mc1U2IRo2heRx0&s=72&u=227a71b91542b7113616f99fc277832d787963a1&v=4" width="24" alt="Avatar of mattatz"/> mattatz
+				<img src="https://private-avatars.githubusercontent.com/u/1085910?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwMjAsIm5iZiI6MTczNDU2OTgyMCwicGF0aCI6Ii91LzEwODU5MTAifQ.hODSxG86PrjjtPx8jn3YgiqhsRz0YAUjoBnER4I3oXE&s=72&u=227a71b91542b7113616f99fc277832d787963a1&v=4" width="24" alt="Avatar of mattatz"/> mattatz
 			</a><br/>
 			mattatz
 		</td>
@@ -3388,34 +3388,47 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 	<tr>
 		<td>253</td>
 		<td>
-			<a target="_blank" href="https://github.com/everpeace">
-				<img src="https://private-avatars.githubusercontent.com/u/608782?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0NjAsIm5iZiI6MTczNDQ2MDI2MCwicGF0aCI6Ii91LzYwODc4MiJ9.0BwfdIlDgSP9K0_sNWPfWwH7AB5Shpm5lOu-zUwG8uQ&s=72&v=4" width="24" alt="Avatar of everpeace"/> everpeace
-			</a><br/>
-			Shingo Omura
-		</td>
-		<td>Ly Corporation Inc </td>
-		<td><a target="_blank" href="https://twitter.com/everpeace">everpeace</a></td>
-		<td>Tokyo JAPAN</td>
-		<td>509</td>
-	</tr>
-	<tr>
-		<td>254</td>
-		<td>
 			<a target="_blank" href="https://github.com/faithandbrave">
-				<img src="https://private-avatars.githubusercontent.com/u/240038?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE4ODAsIm5iZiI6MTczNDQ2MDY4MCwicGF0aCI6Ii91LzI0MDAzOCJ9.Ka_1tedDCCR-KaMzj2dhjLQN05lB_0YFOrAqZrLNjXQ&s=72&u=10b88c50ab06d592b415513fe79e20dd7732dd5f&v=4" width="24" alt="Avatar of faithandbrave"/> faithandbrave
+				<img src="https://private-avatars.githubusercontent.com/u/240038?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE2ODAsIm5iZiI6MTczNDU3MDQ4MCwicGF0aCI6Ii91LzI0MDAzOCJ9.Du5wlQhC3u6MszoN_X44O_nunOtl-25XsbmhWIXXin0&s=72&u=10b88c50ab06d592b415513fe79e20dd7732dd5f&v=4" width="24" alt="Avatar of faithandbrave"/> faithandbrave
 			</a><br/>
 			Akira Takahashi
 		</td>
 		<td>Preferred Networks Inc </td>
 		<td><a target="_blank" href="https://twitter.com/cpp_akira">cpp_akira</a></td>
 		<td>Japan</td>
-		<td>507</td>
+		<td>511</td>
+	</tr>
+	<tr>
+		<td>254</td>
+		<td>
+			<a target="_blank" href="https://github.com/everpeace">
+				<img src="https://private-avatars.githubusercontent.com/u/608782?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyNjAsIm5iZiI6MTczNDU3MDA2MCwicGF0aCI6Ii91LzYwODc4MiJ9.mh9YtRHVOcHvtv46cgdC0q1P_CaN9nI6ReA_0f-HqLs&s=72&v=4" width="24" alt="Avatar of everpeace"/> everpeace
+			</a><br/>
+			Shingo Omura
+		</td>
+		<td>Ly Corporation Inc </td>
+		<td><a target="_blank" href="https://twitter.com/everpeace">everpeace</a></td>
+		<td>Tokyo JAPAN</td>
+		<td>510</td>
 	</tr>
 	<tr>
 		<td>255</td>
 		<td>
+			<a target="_blank" href="https://github.com/mumoshu">
+				<img src="https://private-avatars.githubusercontent.com/u/22009?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA0MjAsIm5iZiI6MTczNDU2OTIyMCwicGF0aCI6Ii91LzIyMDA5In0.7MdZIFktTdy46TvE-BTzaaSrSvCQ_NU4nmDVC3Rrgr0&s=72&u=30f70bd7721631824bb62c807acd62f66412c94b&v=4" width="24" alt="Avatar of mumoshu"/> mumoshu
+			</a><br/>
+			Yusuke Kuoka
+		</td>
+		<td>@surrealdb @freee @actionsrunnercontro </td>
+		<td><a target="_blank" href="https://twitter.com/mumoshu">mumoshu</a></td>
+		<td>Kagawa Japan</td>
+		<td>501</td>
+	</tr>
+	<tr>
+		<td>256</td>
+		<td>
 			<a target="_blank" href="https://github.com/kitao">
-				<img src="https://private-avatars.githubusercontent.com/u/678802?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1MjAsIm5iZiI6MTczNDQ2MDMyMCwicGF0aCI6Ii91LzY3ODgwMiJ9.Yt88cHcVYxlgMLhT-rEkaXbLTsBUe9_PXPR43CzhpMw&s=72&u=9d101a9b90e75057b9b0e08d805169c6f7255fec&v=4" width="24" alt="Avatar of kitao"/> kitao
+				<img src="https://private-avatars.githubusercontent.com/u/678802?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzMjAsIm5iZiI6MTczNDU3MDEyMCwicGF0aCI6Ii91LzY3ODgwMiJ9.53vdQAXkd-ulqxt_qy-_HNVpo-v9Amp0qPo1V0ZQ0Cc&s=72&u=9d101a9b90e75057b9b0e08d805169c6f7255fec&v=4" width="24" alt="Avatar of kitao"/> kitao
 			</a><br/>
 			Takashi Kitao
 		</td>
@@ -3425,36 +3438,23 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>501</td>
 	</tr>
 	<tr>
-		<td>256</td>
-		<td>
-			<a target="_blank" href="https://github.com/mumoshu">
-				<img src="https://private-avatars.githubusercontent.com/u/22009?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA2MjAsIm5iZiI6MTczNDQ1OTQyMCwicGF0aCI6Ii91LzIyMDA5In0.XmGl7PsVMgQWNCR7UrVydHxrWlWXxLF8Fomouzhhe7s&s=72&u=30f70bd7721631824bb62c807acd62f66412c94b&v=4" width="24" alt="Avatar of mumoshu"/> mumoshu
-			</a><br/>
-			Yusuke Kuoka
-		</td>
-		<td>@surrealdb @freee @actionsrunnercontro </td>
-		<td><a target="_blank" href="https://twitter.com/mumoshu">mumoshu</a></td>
-		<td>Kagawa Japan</td>
-		<td>500</td>
-	</tr>
-	<tr>
 		<td>257</td>
 		<td>
 			<a target="_blank" href="https://github.com/Kazuhito00">
-				<img src="https://private-avatars.githubusercontent.com/u/37477845?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1MjAsIm5iZiI6MTczNDQ2MDMyMCwicGF0aCI6Ii91LzM3NDc3ODQ1In0.4s3DQdEClDZ3-urMs8ujiuXfMGUXPdKBckGvWYBgmVY&s=72&u=59f0ca2855ccf594ceb591c9b1454ad3a7e6c891&v=4" width="24" alt="Avatar of Kazuhito00"/> Kazuhito00
+				<img src="https://private-avatars.githubusercontent.com/u/37477845?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzMjAsIm5iZiI6MTczNDU3MDEyMCwicGF0aCI6Ii91LzM3NDc3ODQ1In0.0OitjSNJnyXiB2Ld2jX-6-E9SmtlTycwJKAGFBJMNBQ&s=72&u=59f0ca2855ccf594ceb591c9b1454ad3a7e6c891&v=4" width="24" alt="Avatar of Kazuhito00"/> Kazuhito00
 			</a><br/>
 			KazuhitoTakahashi
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Aichi Japan</td>
-		<td>498</td>
+		<td>499</td>
 	</tr>
 	<tr>
 		<td>258</td>
 		<td>
 			<a target="_blank" href="https://github.com/osteele">
-				<img src="https://private-avatars.githubusercontent.com/u/674?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1ODAsIm5iZiI6MTczNDQ2MDM4MCwicGF0aCI6Ii91LzY3NCJ9.n8Icf8RC07EjGvvkLMFc7VrZIv_gWTHvgWbXILwuI80&s=72&v=4" width="24" alt="Avatar of osteele"/> osteele
+				<img src="https://private-avatars.githubusercontent.com/u/674?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzODAsIm5iZiI6MTczNDU3MDE4MCwicGF0aCI6Ii91LzY3NCJ9.Hajj-2Bmty8xMutY3D_lVY6d2Y_VpboJ_KHX0_pSOPk&s=72&v=4" width="24" alt="Avatar of osteele"/> osteele
 			</a><br/>
 			Oliver Steele
 		</td>
@@ -3466,8 +3466,21 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 	<tr>
 		<td>259</td>
 		<td>
+			<a target="_blank" href="https://github.com/take-cheeze">
+				<img src="https://private-avatars.githubusercontent.com/u/162074?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyMDAsIm5iZiI6MTczNDU3MDAwMCwicGF0aCI6Ii91LzE2MjA3NCJ9._oHQlsqT3Brh3XouQXhxub1_1ifodIxRoQN22BZUDwM&s=72&u=61d55b886366f3971aa78d0930e0dba396895b9d&v=4" width="24" alt="Avatar of take-cheeze"/> take-cheeze
+			</a><br/>
+			Takeshi Watanabe
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Azumino Japan</td>
+		<td>494</td>
+	</tr>
+	<tr>
+		<td>260</td>
+		<td>
 			<a target="_blank" href="https://github.com/meganetaaan">
-				<img src="https://private-avatars.githubusercontent.com/u/1918755?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE4ODAsIm5iZiI6MTczNDQ2MDY4MCwicGF0aCI6Ii91LzE5MTg3NTUifQ.3vAFbNEvkTwyuSCVzY8dcYpI-kzJ-InBzqMblVKygJw&s=72&u=5c618641fe06b97c3d892d9d7691fb1ed0ee851c&v=4" width="24" alt="Avatar of meganetaaan"/> meganetaaan
+				<img src="https://private-avatars.githubusercontent.com/u/1918755?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE2ODAsIm5iZiI6MTczNDU3MDQ4MCwicGF0aCI6Ii91LzE5MTg3NTUifQ.rSShbSoSNjbB4-iQYXOIrxqqFLlayLTAzliBzx0XdTU&s=72&u=5c618641fe06b97c3d892d9d7691fb1ed0ee851c&v=4" width="24" alt="Avatar of meganetaaan"/> meganetaaan
 			</a><br/>
 			Shinya Ishikawa
 		</td>
@@ -3477,23 +3490,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>494</td>
 	</tr>
 	<tr>
-		<td>260</td>
-		<td>
-			<a target="_blank" href="https://github.com/take-cheeze">
-				<img src="https://private-avatars.githubusercontent.com/u/162074?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0MDAsIm5iZiI6MTczNDQ2MDIwMCwicGF0aCI6Ii91LzE2MjA3NCJ9.CJBrgDvpZ6-UsqzPS4Rk6N5Q1kGlJxgXNimDpwjt9yM&s=72&u=61d55b886366f3971aa78d0930e0dba396895b9d&v=4" width="24" alt="Avatar of take-cheeze"/> take-cheeze
-			</a><br/>
-			Takeshi Watanabe
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Azumino Japan</td>
-		<td>493</td>
-	</tr>
-	<tr>
 		<td>261</td>
 		<td>
 			<a target="_blank" href="https://github.com/KOBA789">
-				<img src="https://private-avatars.githubusercontent.com/u/239637?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExNjAsIm5iZiI6MTczNDQ1OTk2MCwicGF0aCI6Ii91LzIzOTYzNyJ9.Z5Lxvp-si7XPRdfTR-QLXZMv73LIfP9q945Nb02uHh0&s=72&u=03b4f5d8146ba2e423323ceb62fba15dfe91fb8a&v=4" width="24" alt="Avatar of KOBA789"/> KOBA789
+				<img src="https://private-avatars.githubusercontent.com/u/239637?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5NjAsIm5iZiI6MTczNDU2OTc2MCwicGF0aCI6Ii91LzIzOTYzNyJ9.NNt-cDIUPvpd5hGoKKURLybGkisVzpx_N1GKcsaVhQ8&s=72&u=03b4f5d8146ba2e423323ceb62fba15dfe91fb8a&v=4" width="24" alt="Avatar of KOBA789"/> KOBA789
 			</a><br/>
 			KOBA789
 		</td>
@@ -3506,20 +3506,20 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>262</td>
 		<td>
 			<a target="_blank" href="https://github.com/ab25cq">
-				<img src="https://private-avatars.githubusercontent.com/u/3233635?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0MDAsIm5iZiI6MTczNDQ2MDIwMCwicGF0aCI6Ii91LzMyMzM2MzUifQ.xZuX1KPaxGvXKHkDd5XPKgWZXPCMko5YpGY9SBxPDa4&s=72&u=1e25808a20e4253b73953f0c58256d6289c122c1&v=4" width="24" alt="Avatar of ab25cq"/> ab25cq
+				<img src="https://private-avatars.githubusercontent.com/u/3233635?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyMDAsIm5iZiI6MTczNDU3MDAwMCwicGF0aCI6Ii91LzMyMzM2MzUifQ.yWneLi-nvoxuoFiMH_iCKx3Grg4wr3GpO8t-cPVi2lU&s=72&u=1e25808a20e4253b73953f0c58256d6289c122c1&v=4" width="24" alt="Avatar of ab25cq"/> ab25cq
 			</a><br/>
 			ab25cq
 		</td>
 		<td>Nursing Home Care Worker<br/></td>
 		<td>No Twitter Username</td>
 		<td>Kyoto Japan</td>
-		<td>485</td>
+		<td>488</td>
 	</tr>
 	<tr>
 		<td>263</td>
 		<td>
 			<a target="_blank" href="https://github.com/yude">
-				<img src="https://private-avatars.githubusercontent.com/u/14804458?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjIxMjAsIm5iZiI6MTczNDQ2MDkyMCwicGF0aCI6Ii91LzE0ODA0NDU4In0.P1kWzzzwDNk0IyHMGhQkSKEZN1AnqufGQ7C6QKMeLtE&s=72&u=a6ef405001fe9cb29db3eedaa0ad4401a15135b9&v=4" width="24" alt="Avatar of yude"/> yude
+				<img src="https://private-avatars.githubusercontent.com/u/14804458?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwMjAsIm5iZiI6MTczNDU2OTgyMCwicGF0aCI6Ii91LzE0ODA0NDU4In0.toSksaVaz7_ts2ctYprokmJ3c5_PGJ6-LTEiTRZeb94&s=72&u=a6ef405001fe9cb29db3eedaa0ad4401a15135b9&v=4" width="24" alt="Avatar of yude"/> yude
 			</a><br/>
 			Takehiro Ogura
 		</td>
@@ -3532,7 +3532,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>264</td>
 		<td>
 			<a target="_blank" href="https://github.com/anchan828">
-				<img src="https://private-avatars.githubusercontent.com/u/694454?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3NjAsIm5iZiI6MTczNDQ2MDU2MCwicGF0aCI6Ii91LzY5NDQ1NCJ9.2eC7ej37-CY2pAxjJb1F8YJqnVtQlTLp9CFTKsjAt6Q&s=72&v=4" width="24" alt="Avatar of anchan828"/> anchan828
+				<img src="https://private-avatars.githubusercontent.com/u/694454?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1NjAsIm5iZiI6MTczNDU3MDM2MCwicGF0aCI6Ii91LzY5NDQ1NCJ9.uBAUKaxa22Jp-tgu6anCar3eKCRVVrCt7RaOOS72mQc&s=72&v=4" width="24" alt="Avatar of anchan828"/> anchan828
 			</a><br/>
 			Keigo Ando
 		</td>
@@ -3545,7 +3545,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>265</td>
 		<td>
 			<a target="_blank" href="https://github.com/tanaikech">
-				<img src="https://private-avatars.githubusercontent.com/u/20408540?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExMDAsIm5iZiI6MTczNDQ1OTkwMCwicGF0aCI6Ii91LzIwNDA4NTQwIn0.of110EmKx0klPNA-ik84Kp8rsv7SgmW98NHY4yFZCQA&s=72&u=5f9f0b469cf50165be37d9683038e890980d4eed&v=4" width="24" alt="Avatar of tanaikech"/> tanaikech
+				<img src="https://private-avatars.githubusercontent.com/u/20408540?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5MDAsIm5iZiI6MTczNDU2OTcwMCwicGF0aCI6Ii91LzIwNDA4NTQwIn0.MO8PIPWGWzaNfAAGVbnYmH1iyLqCOnypgTBbAsOT-l0&s=72&u=5f9f0b469cf50165be37d9683038e890980d4eed&v=4" width="24" alt="Avatar of tanaikech"/> tanaikech
 			</a><br/>
 			Kanshi TANAIKE
 		</td>
@@ -3558,20 +3558,20 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>266</td>
 		<td>
 			<a target="_blank" href="https://github.com/junkiyoshi">
-				<img src="https://private-avatars.githubusercontent.com/u/16998543?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1ODAsIm5iZiI6MTczNDQ2MDM4MCwicGF0aCI6Ii91LzE2OTk4NTQzIn0.0Vu3duKtk0R8alIzppFNisn9mrAButoXrG-dwFEMT0U&s=72&u=ac6a8d5e2e4067aa164ddeef8854402ca644764c&v=4" width="24" alt="Avatar of junkiyoshi"/> junkiyoshi
+				<img src="https://private-avatars.githubusercontent.com/u/16998543?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA0ODAsIm5iZiI6MTczNDU2OTI4MCwicGF0aCI6Ii91LzE2OTk4NTQzIn0.Ox4IYVQgdQthUlesGzxNL6mdlu2IBR-u_5GRA06NBAk&s=72&u=ac6a8d5e2e4067aa164ddeef8854402ca644764c&v=4" width="24" alt="Avatar of junkiyoshi"/> junkiyoshi
 			</a><br/>
 			NAKAUCHI Kiyoshi
 		</td>
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/junkiyoshi">junkiyoshi</a></td>
 		<td>Japan</td>
-		<td>468</td>
+		<td>469</td>
 	</tr>
 	<tr>
 		<td>267</td>
 		<td>
 			<a target="_blank" href="https://github.com/idiotWu">
-				<img src="https://private-avatars.githubusercontent.com/u/6022672?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEzNDAsIm5iZiI6MTczNDQ2MDE0MCwicGF0aCI6Ii91LzYwMjI2NzIifQ.pO5_QSITXh0Y_gbvMVGkFARcpRAjhbBEBMyzU4HlsAk&s=72&u=611180ffc95cbcbbc3ed226c783f1bfd025a98c4&v=4" width="24" alt="Avatar of idiotWu"/> idiotWu
+				<img src="https://private-avatars.githubusercontent.com/u/6022672?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzExNDAsIm5iZiI6MTczNDU2OTk0MCwicGF0aCI6Ii91LzYwMjI2NzIifQ.-8NvRBKeSZq3VK7W2bUB3G-lcPVocQpLIRHbtRgsCh4&s=72&u=611180ffc95cbcbbc3ed226c783f1bfd025a98c4&v=4" width="24" alt="Avatar of idiotWu"/> idiotWu
 			</a><br/>
 			Daofeng Wu
 		</td>
@@ -3584,7 +3584,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>268</td>
 		<td>
 			<a target="_blank" href="https://github.com/xfoxfu">
-				<img src="https://private-avatars.githubusercontent.com/u/3616727?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3MDAsIm5iZiI6MTczNDQ2MDUwMCwicGF0aCI6Ii91LzM2MTY3MjcifQ.zn9wBo9vq5ZTIvE2bk6QIsFJe1QV-A1HUqdptKvVeXw&s=72&u=7f173467e83011b2121abffa11d2eeee621cd0d7&v=4" width="24" alt="Avatar of xfoxfu"/> xfoxfu
+				<img src="https://private-avatars.githubusercontent.com/u/3616727?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1MDAsIm5iZiI6MTczNDU3MDMwMCwicGF0aCI6Ii91LzM2MTY3MjcifQ.UVcEI74yW9cln0o_wwAmnRhgcOXBGKQ7tRE4lk7FztI&s=72&u=7f173467e83011b2121abffa11d2eeee621cd0d7&v=4" width="24" alt="Avatar of xfoxfu"/> xfoxfu
 			</a><br/>
 			Yuze Fu
 		</td>
@@ -3597,20 +3597,33 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>269</td>
 		<td>
 			<a target="_blank" href="https://github.com/orisano">
-				<img src="https://private-avatars.githubusercontent.com/u/1029249?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE4ODAsIm5iZiI6MTczNDQ2MDY4MCwicGF0aCI6Ii91LzEwMjkyNDkifQ.bfpsUHg3_tFGw9SR7vHwDOauTUO-6lrYUew7VeScXs4&s=72&u=ef42d26edf52d8322c264dd2830eb13ef488eb8c&v=4" width="24" alt="Avatar of orisano"/> orisano
+				<img src="https://private-avatars.githubusercontent.com/u/1029249?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE2ODAsIm5iZiI6MTczNDU3MDQ4MCwicGF0aCI6Ii91LzEwMjkyNDkifQ.pOnjYJG3Kf9SBY-vKBVSOREnd-vN_Tu6PzhHPY-ljsA&s=72&u=ef42d26edf52d8322c264dd2830eb13ef488eb8c&v=4" width="24" alt="Avatar of orisano"/> orisano
 			</a><br/>
 			Nao Yonashiro
 		</td>
 		<td>@recruittech  </td>
 		<td>No Twitter Username</td>
 		<td> Tokyo Japan</td>
-		<td>457</td>
+		<td>458</td>
 	</tr>
 	<tr>
 		<td>270</td>
 		<td>
+			<a target="_blank" href="https://github.com/e-jigsaw">
+				<img src="https://private-avatars.githubusercontent.com/u/557961?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzMjAsIm5iZiI6MTczNDU3MDEyMCwicGF0aCI6Ii91LzU1Nzk2MSJ9.irDkKE8S6eNy8hRZKSHaCNTqqurU58TUdlIUYXDAS14&s=72&v=4" width="24" alt="Avatar of e-jigsaw"/> e-jigsaw
+			</a><br/>
+			jigsaw
+		</td>
+		<td>@cmsnllc  </td>
+		<td>No Twitter Username</td>
+		<td>Tokyo JAPAN</td>
+		<td>454</td>
+	</tr>
+	<tr>
+		<td>271</td>
+		<td>
 			<a target="_blank" href="https://github.com/Code-Hex">
-				<img src="https://private-avatars.githubusercontent.com/u/6500104?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0NjAsIm5iZiI6MTczNDQ2MDI2MCwicGF0aCI6Ii91LzY1MDAxMDQifQ.Rblhuzxaz31m4yhQPIOztM1_VfHSk_JonFGQuxEwj_s&s=72&u=c11cdf2671e89749d7d8c01f0d85494cce8d9f84&v=4" width="24" alt="Avatar of Code-Hex"/> Code-Hex
+				<img src="https://private-avatars.githubusercontent.com/u/6500104?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyNjAsIm5iZiI6MTczNDU3MDA2MCwicGF0aCI6Ii91LzY1MDAxMDQifQ.8oyi9Qvxmsv8S6RVzPBDHhawq1GACuYr9s2kTG-QD94&s=72&u=c11cdf2671e89749d7d8c01f0d85494cce8d9f84&v=4" width="24" alt="Avatar of Code-Hex"/> Code-Hex
 			</a><br/>
 			Kei Kamikawa
 		</td>
@@ -3620,23 +3633,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>452</td>
 	</tr>
 	<tr>
-		<td>271</td>
-		<td>
-			<a target="_blank" href="https://github.com/e-jigsaw">
-				<img src="https://private-avatars.githubusercontent.com/u/557961?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1MjAsIm5iZiI6MTczNDQ2MDMyMCwicGF0aCI6Ii91LzU1Nzk2MSJ9.Hm5GPVLvOy7tWycJOyEdJH0f1PShUZh1W03GswSeajY&s=72&v=4" width="24" alt="Avatar of e-jigsaw"/> e-jigsaw
-			</a><br/>
-			jigsaw
-		</td>
-		<td>@cmsnllc  </td>
-		<td>No Twitter Username</td>
-		<td>Tokyo JAPAN</td>
-		<td>452</td>
-	</tr>
-	<tr>
 		<td>272</td>
 		<td>
 			<a target="_blank" href="https://github.com/i-saint">
-				<img src="https://private-avatars.githubusercontent.com/u/1488611?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyODAsIm5iZiI6MTczNDQ2MDA4MCwicGF0aCI6Ii91LzE0ODg2MTEifQ.zYlJlauYKzfKxGAnVPrrUL9hpkALbv8fnHCidG9LVU4&s=72&v=4" width="24" alt="Avatar of i-saint"/> i-saint
+				<img src="https://private-avatars.githubusercontent.com/u/1488611?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwODAsIm5iZiI6MTczNDU2OTg4MCwicGF0aCI6Ii91LzE0ODg2MTEifQ.i0wXryreSf13AtmlBD6ChDoDI468QTqp28Zl3Pj-7d4&s=72&v=4" width="24" alt="Avatar of i-saint"/> i-saint
 			</a><br/>
 			Seiya Ishibashi
 		</td>
@@ -3649,7 +3649,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>273</td>
 		<td>
 			<a target="_blank" href="https://github.com/ran-sama">
-				<img src="https://private-avatars.githubusercontent.com/u/31311154?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyMjAsIm5iZiI6MTczNDQ2MDAyMCwicGF0aCI6Ii91LzMxMzExMTU0In0.s1HlfGNGmAOV6LxwknG1eRM1z8cjP5XlNelK1pfSvBw&s=72&u=e36cfeb8b1d1d867ec1b6d9afec6d6eadfa3bd00&v=4" width="24" alt="Avatar of ran-sama"/> ran-sama
+				<img src="https://private-avatars.githubusercontent.com/u/31311154?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwMjAsIm5iZiI6MTczNDU2OTgyMCwicGF0aCI6Ii91LzMxMzExMTU0In0.HXjWnCuJ-6I8zJB3sBAcAiGj8WXgsCeyvVYIKwbzuYc&s=72&u=e36cfeb8b1d1d867ec1b6d9afec6d6eadfa3bd00&v=4" width="24" alt="Avatar of ran-sama"/> ran-sama
 			</a><br/>
 			Yakumo Ran
 		</td>
@@ -3661,8 +3661,34 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 	<tr>
 		<td>274</td>
 		<td>
+			<a target="_blank" href="https://github.com/Reputeless">
+				<img src="https://private-avatars.githubusercontent.com/u/3108136?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1MDAsIm5iZiI6MTczNDU3MDMwMCwicGF0aCI6Ii91LzMxMDgxMzYifQ.639FucJ4X1JJeS_RXliDG4nlj8g101P7FbHrFo9Y9bw&s=72&v=4" width="24" alt="Avatar of Reputeless"/> Reputeless
+			</a><br/>
+			Ryo Suzuki
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/Reputeless">Reputeless</a></td>
+		<td>Japan</td>
+		<td>441</td>
+	</tr>
+	<tr>
+		<td>275</td>
+		<td>
+			<a target="_blank" href="https://github.com/JasonkayZK">
+				<img src="https://private-avatars.githubusercontent.com/u/40811521?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5NjAsIm5iZiI6MTczNDU2OTc2MCwicGF0aCI6Ii91LzQwODExNTIxIn0.HkBMiDmRS4LHACRyizXRKeZcv5MFtR0mPC5mpyE514k&s=72&u=58ac6a615b5bd3e201c96438ade72296abc52c0c&v=4" width="24" alt="Avatar of JasonkayZK"/> JasonkayZK
+			</a><br/>
+			Jasonkay
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/Jasonkay_ZK">Jasonkay_ZK</a></td>
+		<td>Japan Tokyo</td>
+		<td>437</td>
+	</tr>
+	<tr>
+		<td>276</td>
+		<td>
 			<a target="_blank" href="https://github.com/yhatt">
-				<img src="https://private-avatars.githubusercontent.com/u/3993388?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA4MDAsIm5iZiI6MTczNDQ1OTYwMCwicGF0aCI6Ii91LzM5OTMzODgifQ.2P0P2gOe7o4GKfoX6cQVs1UE8D6fOHzU0_nSc0cXxCc&s=72&u=b8499db1692085ff9703be3f5362fd4d18c1caed&v=4" width="24" alt="Avatar of yhatt"/> yhatt
+				<img src="https://private-avatars.githubusercontent.com/u/3993388?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA2MDAsIm5iZiI6MTczNDU2OTQwMCwicGF0aCI6Ii91LzM5OTMzODgifQ.wRsb_5T0JVz4QLwSiEEF7oA_5N4iGeYePiPm16buD5E&s=72&u=b8499db1692085ff9703be3f5362fd4d18c1caed&v=4" width="24" alt="Avatar of yhatt"/> yhatt
 			</a><br/>
 			Yuki Hattori
 		</td>
@@ -3672,49 +3698,23 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>436</td>
 	</tr>
 	<tr>
-		<td>275</td>
-		<td>
-			<a target="_blank" href="https://github.com/JasonkayZK">
-				<img src="https://private-avatars.githubusercontent.com/u/40811521?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExNjAsIm5iZiI6MTczNDQ1OTk2MCwicGF0aCI6Ii91LzQwODExNTIxIn0.96v242sR_BFq7nPh68RVeMJGL_nFc-L9NbHeP77BOJE&s=72&u=58ac6a615b5bd3e201c96438ade72296abc52c0c&v=4" width="24" alt="Avatar of JasonkayZK"/> JasonkayZK
-			</a><br/>
-			Jasonkay
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/Jasonkay_ZK">Jasonkay_ZK</a></td>
-		<td>Japan Tokyo</td>
-		<td>436</td>
-	</tr>
-	<tr>
-		<td>276</td>
-		<td>
-			<a target="_blank" href="https://github.com/Reputeless">
-				<img src="https://private-avatars.githubusercontent.com/u/3108136?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3MDAsIm5iZiI6MTczNDQ2MDUwMCwicGF0aCI6Ii91LzMxMDgxMzYifQ.3dXQOTfmyEM-AtdbIStMZv8OdZwP8HuWoHH57zHAbtE&s=72&v=4" width="24" alt="Avatar of Reputeless"/> Reputeless
-			</a><br/>
-			Ryo Suzuki
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/Reputeless">Reputeless</a></td>
-		<td>Japan</td>
-		<td>436</td>
-	</tr>
-	<tr>
 		<td>277</td>
 		<td>
 			<a target="_blank" href="https://github.com/RenaudRohlinger">
-				<img src="https://private-avatars.githubusercontent.com/u/15867665?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExNjAsIm5iZiI6MTczNDQ1OTk2MCwicGF0aCI6Ii91LzE1ODY3NjY1In0.Kb7hWSoIw_CzbLhuRSHMw2DqoMX808Pna6aq2iR08i4&s=72&u=85a9b688bb0b993c36e012f101feb0ec4740a3fd&v=4" width="24" alt="Avatar of RenaudRohlinger"/> RenaudRohlinger
+				<img src="https://private-avatars.githubusercontent.com/u/15867665?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5NjAsIm5iZiI6MTczNDU2OTc2MCwicGF0aCI6Ii91LzE1ODY3NjY1In0.t_82GVMDaV4Hr6WsLsmhNeAPLnFxCQeVQ9R8GLY7c8s&s=72&u=85a9b688bb0b993c36e012f101feb0ec4740a3fd&v=4" width="24" alt="Avatar of RenaudRohlinger"/> RenaudRohlinger
 			</a><br/>
 			Renaud Rohlinger
 		</td>
 		<td>@utsuboco </td>
 		<td><a target="_blank" href="https://twitter.com/onirenaud">onirenaud</a></td>
 		<td>Japan</td>
-		<td>432</td>
+		<td>434</td>
 	</tr>
 	<tr>
 		<td>278</td>
 		<td>
 			<a target="_blank" href="https://github.com/ikwzm">
-				<img src="https://private-avatars.githubusercontent.com/u/1528286?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3MDAsIm5iZiI6MTczNDQ2MDUwMCwicGF0aCI6Ii91LzE1MjgyODYifQ._enogluedw53_UsVmGmDX57nxkod0qU1HH7phXGGfBw&s=72&u=898d7f22b7669dc957e1ecda49506be7a27cbda1&v=4" width="24" alt="Avatar of ikwzm"/> ikwzm
+				<img src="https://private-avatars.githubusercontent.com/u/1528286?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1MDAsIm5iZiI6MTczNDU3MDMwMCwicGF0aCI6Ii91LzE1MjgyODYifQ.U7nr9QL4V-Ufi-nIfpfCfQtEbWTlQnd-sTIoBGRGgwg&s=72&u=898d7f22b7669dc957e1ecda49506be7a27cbda1&v=4" width="24" alt="Avatar of ikwzm"/> ikwzm
 			</a><br/>
 			KAWAZOME Ichiro
 		</td>
@@ -3727,33 +3727,33 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>279</td>
 		<td>
 			<a target="_blank" href="https://github.com/hamukazu">
-				<img src="https://private-avatars.githubusercontent.com/u/981036?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEzNDAsIm5iZiI6MTczNDQ2MDE0MCwicGF0aCI6Ii91Lzk4MTAzNiJ9.XnNt2t3M-8bh8u6y4eWwXpv3-31j6J3MfPT1ehynvF0&s=72&u=a1edb07991369030f1f2b6f03d76f06385bec0bd&v=4" width="24" alt="Avatar of hamukazu"/> hamukazu
+				<img src="https://private-avatars.githubusercontent.com/u/981036?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzExNDAsIm5iZiI6MTczNDU2OTk0MCwicGF0aCI6Ii91Lzk4MTAzNiJ9.pB-EKEp9j-Brs7pknZBSVrsnRUGVMQo-URg5Pc10oxU&s=72&u=a1edb07991369030f1f2b6f03d76f06385bec0bd&v=4" width="24" alt="Avatar of hamukazu"/> hamukazu
 			</a><br/>
 			Kimikazu Kato
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Tokyo</td>
-		<td>428</td>
+		<td>430</td>
 	</tr>
 	<tr>
 		<td>280</td>
 		<td>
 			<a target="_blank" href="https://github.com/BcRikko">
-				<img src="https://private-avatars.githubusercontent.com/u/5305599?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1MjAsIm5iZiI6MTczNDQ2MDMyMCwicGF0aCI6Ii91LzUzMDU1OTkifQ.b5gL1C1ZnCUTceODlEb9ZGrv_qaCChjybZhYuL-Rl8M&s=72&u=c6aa865962e3aa0bad923e55b336c7bbfff00f5e&v=4" width="24" alt="Avatar of BcRikko"/> BcRikko
+				<img src="https://private-avatars.githubusercontent.com/u/5305599?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzMjAsIm5iZiI6MTczNDU3MDEyMCwicGF0aCI6Ii91LzUzMDU1OTkifQ.PNpgqYMoNyVlCWqRnaSVE7Zqb15ZHRDDowHHW1ralbg&s=72&u=c6aa865962e3aa0bad923e55b336c7bbfff00f5e&v=4" width="24" alt="Avatar of BcRikko"/> BcRikko
 			</a><br/>
 			BCRikko
 		</td>
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/bc_rikko">bc_rikko</a></td>
 		<td>Tokyo Japan</td>
-		<td>425</td>
+		<td>427</td>
 	</tr>
 	<tr>
 		<td>281</td>
 		<td>
 			<a target="_blank" href="https://github.com/katopz">
-				<img src="https://private-avatars.githubusercontent.com/u/97060?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExMDAsIm5iZiI6MTczNDQ1OTkwMCwicGF0aCI6Ii91Lzk3MDYwIn0.cMeeo5JBzIkiFN04pTf8wRa6mu8PMZHTn4lPBAtlCfA&s=72&u=6d7447a1d8e4fa4def17a302f748a012b993b23a&v=4" width="24" alt="Avatar of katopz"/> katopz
+				<img src="https://private-avatars.githubusercontent.com/u/97060?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5MDAsIm5iZiI6MTczNDU2OTcwMCwicGF0aCI6Ii91Lzk3MDYwIn0.0q5sibLkIB0jzdzz6aX20pwblGUV1F17Efed1BX8JkU&s=72&u=6d7447a1d8e4fa4def17a302f748a012b993b23a&v=4" width="24" alt="Avatar of katopz"/> katopz
 			</a><br/>
 			Todsaporn Banjerdkit
 		</td>
@@ -3766,7 +3766,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>282</td>
 		<td>
 			<a target="_blank" href="https://github.com/methane">
-				<img src="https://private-avatars.githubusercontent.com/u/199592?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1ODAsIm5iZiI6MTczNDQ2MDM4MCwicGF0aCI6Ii91LzE5OTU5MiJ9.F8B4iUs5JfKH2QADtd2zWQHZaRQazRIAH6X6GwJkum4&s=72&v=4" width="24" alt="Avatar of methane"/> methane
+				<img src="https://private-avatars.githubusercontent.com/u/199592?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA0ODAsIm5iZiI6MTczNDU2OTI4MCwicGF0aCI6Ii91LzE5OTU5MiJ9.IkfxP0ssJfsmhU8Suer_ahihN9z1vnp6kweONpJxKLk&s=72&v=4" width="24" alt="Avatar of methane"/> methane
 			</a><br/>
 			Inada Naoki
 		</td>
@@ -3779,7 +3779,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>283</td>
 		<td>
 			<a target="_blank" href="https://github.com/tomojitakasu">
-				<img src="https://private-avatars.githubusercontent.com/u/4287338?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0MDAsIm5iZiI6MTczNDQ2MDIwMCwicGF0aCI6Ii91LzQyODczMzgifQ.bIpZzkdkMpgnl0qT8VKD1koOoiRowCK13MyEQUpAqWw&s=72&u=78793667445b81392cc802faf0bf590118a0bcd4&v=4" width="24" alt="Avatar of tomojitakasu"/> tomojitakasu
+				<img src="https://private-avatars.githubusercontent.com/u/4287338?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyMDAsIm5iZiI6MTczNDU3MDAwMCwicGF0aCI6Ii91LzQyODczMzgifQ.zw25rxZ5RamxtBEsB7L0OJ56tQ4k71cCessfrtyT1A4&s=72&u=78793667445b81392cc802faf0bf590118a0bcd4&v=4" width="24" alt="Avatar of tomojitakasu"/> tomojitakasu
 			</a><br/>
 			Tomoji Takasu
 		</td>
@@ -3792,20 +3792,20 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>284</td>
 		<td>
 			<a target="_blank" href="https://github.com/ajnart">
-				<img src="https://private-avatars.githubusercontent.com/u/49837342?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEwNDAsIm5iZiI6MTczNDQ1OTg0MCwicGF0aCI6Ii91LzQ5ODM3MzQyIn0.6oPJWd-KWwmPFcTSdoJax_aE2-IAG4J1LO3QVKJ6dCc&s=72&u=81e94f80ea6f571e6a8e4309f080ea20c94159ff&v=4" width="24" alt="Avatar of ajnart"/> ajnart
+				<img src="https://private-avatars.githubusercontent.com/u/49837342?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA4NDAsIm5iZiI6MTczNDU2OTY0MCwicGF0aCI6Ii91LzQ5ODM3MzQyIn0.aqqVxOlAGSaF1hJrDUXxw51E_j3FN3DkByo7hLOlpvE&s=72&u=81e94f80ea6f571e6a8e4309f080ea20c94159ff&v=4" width="24" alt="Avatar of ajnart"/> ajnart
 			</a><br/>
 			Thomas Camlong
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Tokyo Japan</td>
-		<td>413</td>
+		<td>419</td>
 	</tr>
 	<tr>
 		<td>285</td>
 		<td>
 			<a target="_blank" href="https://github.com/miyakogi">
-				<img src="https://private-avatars.githubusercontent.com/u/3213998?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyODAsIm5iZiI6MTczNDQ2MDA4MCwicGF0aCI6Ii91LzMyMTM5OTgifQ.foHltXz17H1ClRgeVgqjUU1x0F4Gexa2eFJA_h3dXnM&s=72&u=dede01bf63c211cbba7e3d2b46669f0443ddad82&v=4" width="24" alt="Avatar of miyakogi"/> miyakogi
+				<img src="https://private-avatars.githubusercontent.com/u/3213998?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwODAsIm5iZiI6MTczNDU2OTg4MCwicGF0aCI6Ii91LzMyMTM5OTgifQ.Q4049NzYQJadO0man2RRa0LYNQ60-BMpnqbsRtFbnds&s=72&u=dede01bf63c211cbba7e3d2b46669f0443ddad82&v=4" width="24" alt="Avatar of miyakogi"/> miyakogi
 			</a><br/>
 			miyaco
 		</td>
@@ -3818,7 +3818,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>286</td>
 		<td>
 			<a target="_blank" href="https://github.com/twada">
-				<img src="https://private-avatars.githubusercontent.com/u/19881?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA3NDAsIm5iZiI6MTczNDQ1OTU0MCwicGF0aCI6Ii91LzE5ODgxIn0.ji22TMDXHvTd2k8cJOi2HvCUka7XE1ME6oje1ZhYndo&s=72&v=4" width="24" alt="Avatar of twada"/> twada
+				<img src="https://private-avatars.githubusercontent.com/u/19881?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA1NDAsIm5iZiI6MTczNDU2OTM0MCwicGF0aCI6Ii91LzE5ODgxIn0.5BwZ5DcaOna1rNJkKmPLhYKJJtSE4GbNpCSfqzUTLlM&s=72&v=4" width="24" alt="Avatar of twada"/> twada
 			</a><br/>
 			Takuto Wada
 		</td>
@@ -3831,7 +3831,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>287</td>
 		<td>
 			<a target="_blank" href="https://github.com/szkkng">
-				<img src="https://private-avatars.githubusercontent.com/u/61953352?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjIxODAsIm5iZiI6MTczNDQ2MDk4MCwicGF0aCI6Ii91LzYxOTUzMzUyIn0.OtcwsPUO3HWqnmjH5kDO-Kdi5dp5LA4K5no-llsJS_M&s=72&u=7b9a78d67d5074ae9545cb8d2a5189202782b8c5&v=4" width="24" alt="Avatar of szkkng"/> szkkng
+				<img src="https://private-avatars.githubusercontent.com/u/61953352?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE5ODAsIm5iZiI6MTczNDU3MDc4MCwicGF0aCI6Ii91LzYxOTUzMzUyIn0.suIQCCnkk9A3HirXnF-sX_8z9Sv4I6FTJmCqcQ-kqz0&s=72&u=7b9a78d67d5074ae9545cb8d2a5189202782b8c5&v=4" width="24" alt="Avatar of szkkng"/> szkkng
 			</a><br/>
 			Kengo
 		</td>
@@ -3843,8 +3843,21 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 	<tr>
 		<td>288</td>
 		<td>
+			<a target="_blank" href="https://github.com/mayocream">
+				<img src="https://private-avatars.githubusercontent.com/u/35420264?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5MDAsIm5iZiI6MTczNDU2OTcwMCwicGF0aCI6Ii91LzM1NDIwMjY0In0.6-bSF7OaFUq9Ph3v_p6VPGgVTmf1L1k8Sp8LcpnPHtk&s=72&u=c68292fbb19178c6f5979f4b4614e8a651e7f1aa&v=4" width="24" alt="Avatar of mayocream"/> mayocream
+			</a><br/>
+			Mayo Takanashi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tokyo</td>
+		<td>398</td>
+	</tr>
+	<tr>
+		<td>289</td>
+		<td>
 			<a target="_blank" href="https://github.com/p1ass">
-				<img src="https://private-avatars.githubusercontent.com/u/30015728?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0NjAsIm5iZiI6MTczNDQ2MDI2MCwicGF0aCI6Ii91LzMwMDE1NzI4In0.jgnInzvzxkbaFgRG2SI0QzL2LqCspaBPE-ctVHPBRpE&s=72&u=fcd73bf9c7e84e6af5365c2685b7a0a20533b388&v=4" width="24" alt="Avatar of p1ass"/> p1ass
+				<img src="https://private-avatars.githubusercontent.com/u/30015728?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyNjAsIm5iZiI6MTczNDU3MDA2MCwicGF0aCI6Ii91LzMwMDE1NzI4In0.gR1GwC1W1HqeQ3Uf5JIJ3-HU_wjMU5em80aCc16Euz0&s=72&u=fcd73bf9c7e84e6af5365c2685b7a0a20533b388&v=4" width="24" alt="Avatar of p1ass"/> p1ass
 			</a><br/>
 			Naoki Kishi
 		</td>
@@ -3854,23 +3867,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>395</td>
 	</tr>
 	<tr>
-		<td>289</td>
-		<td>
-			<a target="_blank" href="https://github.com/mayocream">
-				<img src="https://private-avatars.githubusercontent.com/u/35420264?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExMDAsIm5iZiI6MTczNDQ1OTkwMCwicGF0aCI6Ii91LzM1NDIwMjY0In0.cU5N5Pm8o_8epbb54Ife0GI1aQxdS4fXCu7R0MuI2iY&s=72&u=c68292fbb19178c6f5979f4b4614e8a651e7f1aa&v=4" width="24" alt="Avatar of mayocream"/> mayocream
-			</a><br/>
-			Mayo Takanashi
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Tokyo</td>
-		<td>390</td>
-	</tr>
-	<tr>
 		<td>290</td>
 		<td>
 			<a target="_blank" href="https://github.com/cdepillabout">
-				<img src="https://private-avatars.githubusercontent.com/u/64804?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExMDAsIm5iZiI6MTczNDQ1OTkwMCwicGF0aCI6Ii91LzY0ODA0In0.vEg2hDQVkx6SC-NLA_KetDXCl0HYUHBXaqL8n0Xa_84&s=72&v=4" width="24" alt="Avatar of cdepillabout"/> cdepillabout
+				<img src="https://private-avatars.githubusercontent.com/u/64804?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5MDAsIm5iZiI6MTczNDU2OTcwMCwicGF0aCI6Ii91LzY0ODA0In0.5dHxwoaJs7TwIt38EXJBOLO9G_9RvJc5fOB99NyeFGE&s=72&v=4" width="24" alt="Avatar of cdepillabout"/> cdepillabout
 			</a><br/>
 			Dennis Gosnell
 		</td>
@@ -3883,7 +3883,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>291</td>
 		<td>
 			<a target="_blank" href="https://github.com/GINK03">
-				<img src="https://private-avatars.githubusercontent.com/u/4949982?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0NjAsIm5iZiI6MTczNDQ2MDI2MCwicGF0aCI6Ii91LzQ5NDk5ODIifQ.CDhL4rurlzHAmdsfVmUyUSJXRwEfSuA-bn88Tp0keno&s=72&u=512446c49c5e153f3fc6d90798e07096f36f0bb7&v=4" width="24" alt="Avatar of GINK03"/> GINK03
+				<img src="https://private-avatars.githubusercontent.com/u/4949982?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyNjAsIm5iZiI6MTczNDU3MDA2MCwicGF0aCI6Ii91LzQ5NDk5ODIifQ.k-wsmv8Q2tUBsGY_KoYOl_Ic5O9oWJ4PLRuWCdKnDlM&s=72&u=512446c49c5e153f3fc6d90798e07096f36f0bb7&v=4" width="24" alt="Avatar of GINK03"/> GINK03
 			</a><br/>
 			catindognardtree
 		</td>
@@ -3896,20 +3896,33 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>292</td>
 		<td>
 			<a target="_blank" href="https://github.com/bokuweb">
-				<img src="https://private-avatars.githubusercontent.com/u/10220449?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyODAsIm5iZiI6MTczNDQ2MDA4MCwicGF0aCI6Ii91LzEwMjIwNDQ5In0.PthK1y5KmhAB3aOTKGflWD1tlXhBlpqSEw6oSNoCp4E&s=72&u=8abca2fc0fcaccae3b48b44078aa9a686ef0c488&v=4" width="24" alt="Avatar of bokuweb"/> bokuweb
+				<img src="https://private-avatars.githubusercontent.com/u/10220449?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwODAsIm5iZiI6MTczNDU2OTg4MCwicGF0aCI6Ii91LzEwMjIwNDQ5In0.NOOLHNirUzPxzYUuA8p1R7H6wcYACRvlOPmx0eCQtNM&s=72&u=8abca2fc0fcaccae3b48b44078aa9a686ef0c488&v=4" width="24" alt="Avatar of bokuweb"/> bokuweb
 			</a><br/>
 			bokuweb
 		</td>
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/bokuweb17">bokuweb17</a></td>
 		<td>Japan</td>
-		<td>388</td>
+		<td>389</td>
 	</tr>
 	<tr>
 		<td>293</td>
 		<td>
+			<a target="_blank" href="https://github.com/magurotuna">
+				<img src="https://private-avatars.githubusercontent.com/u/23649474?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwODAsIm5iZiI6MTczNDU2OTg4MCwicGF0aCI6Ii91LzIzNjQ5NDc0In0.6Leox3st2CPOm86tsR55_DXHEb5qVno_lEqPbwf75rQ&s=72&u=4a2778ba06de1dc6bab57f8ae2678d52e0b2bb07&v=4" width="24" alt="Avatar of magurotuna"/> magurotuna
+			</a><br/>
+			Yusuke Tanaka
+		</td>
+		<td>@denoland </td>
+		<td><a target="_blank" href="https://twitter.com/yusuktan">yusuktan</a></td>
+		<td>Tokyo Japan</td>
+		<td>387</td>
+	</tr>
+	<tr>
+		<td>294</td>
+		<td>
 			<a target="_blank" href="https://github.com/gfngfn">
-				<img src="https://private-avatars.githubusercontent.com/u/6876129?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1MjAsIm5iZiI6MTczNDQ2MDMyMCwicGF0aCI6Ii91LzY4NzYxMjkifQ.KXPbjhINQE9Scqxf70xz5d7rC2ijoU5GNJkCVjWNACs&s=72&u=d40bea2fbd1753b5348fe3146d611d663bccf04a&v=4" width="24" alt="Avatar of gfngfn"/> gfngfn
+				<img src="https://private-avatars.githubusercontent.com/u/6876129?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzMjAsIm5iZiI6MTczNDU3MDEyMCwicGF0aCI6Ii91LzY4NzYxMjkifQ.4EveQXlUKFSH_qrSvOqQPOKyxpOnckUYVRRsHI5T6pc&s=72&u=d40bea2fbd1753b5348fe3146d611d663bccf04a&v=4" width="24" alt="Avatar of gfngfn"/> gfngfn
 			</a><br/>
 			Takashi Suwa
 		</td>
@@ -3919,23 +3932,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>386</td>
 	</tr>
 	<tr>
-		<td>294</td>
-		<td>
-			<a target="_blank" href="https://github.com/magurotuna">
-				<img src="https://private-avatars.githubusercontent.com/u/23649474?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyODAsIm5iZiI6MTczNDQ2MDA4MCwicGF0aCI6Ii91LzIzNjQ5NDc0In0.7zdjcgfIx8ADgl1hXlObnh4KmEJqGd09klLbv_fGiec&s=72&u=4a2778ba06de1dc6bab57f8ae2678d52e0b2bb07&v=4" width="24" alt="Avatar of magurotuna"/> magurotuna
-			</a><br/>
-			Yusuke Tanaka
-		</td>
-		<td>@denoland </td>
-		<td><a target="_blank" href="https://twitter.com/yusuktan">yusuktan</a></td>
-		<td>Tokyo Japan</td>
-		<td>386</td>
-	</tr>
-	<tr>
 		<td>295</td>
 		<td>
 			<a target="_blank" href="https://github.com/lestrrat">
-				<img src="https://private-avatars.githubusercontent.com/u/49281?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyMjAsIm5iZiI6MTczNDQ2MDAyMCwicGF0aCI6Ii91LzQ5MjgxIn0.yUizp9CPQ3eg9SHEPV-WnSB3E-CQxBH2cswHgRZJbgg&s=72&u=fbea0ee7ed496f0e69d7e521244357616b234a38&v=4" width="24" alt="Avatar of lestrrat"/> lestrrat
+				<img src="https://private-avatars.githubusercontent.com/u/49281?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwMjAsIm5iZiI6MTczNDU2OTgyMCwicGF0aCI6Ii91LzQ5MjgxIn0.IV8nDu9czwAk2TSxbTFbWLD0tNSWJPEd1tITLcStQxM&s=72&u=fbea0ee7ed496f0e69d7e521244357616b234a38&v=4" width="24" alt="Avatar of lestrrat"/> lestrrat
 			</a><br/>
 			lestrrat
 		</td>
@@ -3947,8 +3947,21 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 	<tr>
 		<td>296</td>
 		<td>
+			<a target="_blank" href="https://github.com/hez2010">
+				<img src="https://private-avatars.githubusercontent.com/u/14960345?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA4NDAsIm5iZiI6MTczNDU2OTY0MCwicGF0aCI6Ii91LzE0OTYwMzQ1In0.o-D6_HZl9fJ8iyuAUNhIBLOj3IiF5KWJOsFf8cNBlk0&s=72&u=18ab26be58504b0db2bc82a7ed8c698d2c6824de&v=4" width="24" alt="Avatar of hez2010"/> hez2010
+			</a><br/>
+			Steve
+		</td>
+		<td>The University Of Tokyo<br/></td>
+		<td>No Twitter Username</td>
+		<td>Tokyo Japan</td>
+		<td>381</td>
+	</tr>
+	<tr>
+		<td>297</td>
+		<td>
 			<a target="_blank" href="https://github.com/acid-chicken">
-				<img src="https://private-avatars.githubusercontent.com/u/20679825?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0MDAsIm5iZiI6MTczNDQ2MDIwMCwicGF0aCI6Ii91LzIwNjc5ODI1In0.-wCVfiBnWddWqp6_68znEvSmksSwh2_udMvxvRh3D0A&s=72&u=261de6f0fe935386752d0cce28a40f6de9564344&v=4" width="24" alt="Avatar of acid-chicken"/> acid-chicken
+				<img src="https://private-avatars.githubusercontent.com/u/20679825?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyMDAsIm5iZiI6MTczNDU3MDAwMCwicGF0aCI6Ii91LzIwNjc5ODI1In0.cDSTrFCX4ON43Y0SU9wK0LmjeqI1Nl8bRbAfBYEV1Ww&s=72&u=261de6f0fe935386752d0cce28a40f6de9564344&v=4" width="24" alt="Avatar of acid-chicken"/> acid-chicken
 			</a><br/>
 			Acid Chicken
 		</td>
@@ -3958,62 +3971,62 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>381</td>
 	</tr>
 	<tr>
-		<td>297</td>
-		<td>
-			<a target="_blank" href="https://github.com/sobri909">
-				<img src="https://private-avatars.githubusercontent.com/u/1203835?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE4ODAsIm5iZiI6MTczNDQ2MDY4MCwicGF0aCI6Ii91LzEyMDM4MzUifQ.nfbWw0eCqGd0NKKhz8XforSxzhUKFZT_IiP1m6VLt7I&s=72&u=9ec061705979b3d37738e55dc4b3d4cb99c90cdd&v=4" width="24" alt="Avatar of sobri909"/> sobri909
-			</a><br/>
-			Matt Greenfield
-		</td>
-		<td>Big Paua </td>
-		<td>No Twitter Username</td>
-		<td>Tokyo Bangkok Bali</td>
-		<td>380</td>
-	</tr>
-	<tr>
 		<td>298</td>
 		<td>
 			<a target="_blank" href="https://github.com/masui">
-				<img src="https://private-avatars.githubusercontent.com/u/140553?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExMDAsIm5iZiI6MTczNDQ1OTkwMCwicGF0aCI6Ii91LzE0MDU1MyJ9.ptXiPnM77D0tkqZiUSl1dk7udnGQCbz3fKmEikA5KQM&s=72&v=4" width="24" alt="Avatar of masui"/> masui
+				<img src="https://private-avatars.githubusercontent.com/u/140553?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5MDAsIm5iZiI6MTczNDU2OTcwMCwicGF0aCI6Ii91LzE0MDU1MyJ9.lXsw4wJSTzQ2_rWcOh4kr196xB6fQfZH9ISco4ZvBBk&s=72&v=4" width="24" alt="Avatar of masui"/> masui
 			</a><br/>
 			Toshiyuki Masui
 		</td>
 		<td>Keio University </td>
 		<td><a target="_blank" href="https://twitter.com/masui">masui</a></td>
 		<td>Fujisawa Japan</td>
-		<td>379</td>
+		<td>381</td>
 	</tr>
 	<tr>
 		<td>299</td>
 		<td>
+			<a target="_blank" href="https://github.com/sobri909">
+				<img src="https://private-avatars.githubusercontent.com/u/1203835?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE2ODAsIm5iZiI6MTczNDU3MDQ4MCwicGF0aCI6Ii91LzEyMDM4MzUifQ.0GmaEg1bXUJB_8ygz9BHVK0wMPA5TlQgRCMhbHFhiRI&s=72&u=9ec061705979b3d37738e55dc4b3d4cb99c90cdd&v=4" width="24" alt="Avatar of sobri909"/> sobri909
+			</a><br/>
+			Matt Greenfield
+		</td>
+		<td>Big Paua </td>
+		<td>No Twitter Username</td>
+		<td>Tokyo Bangkok Bali</td>
+		<td>381</td>
+	</tr>
+	<tr>
+		<td>300</td>
+		<td>
 			<a target="_blank" href="https://github.com/ThaddeusJiang">
-				<img src="https://private-avatars.githubusercontent.com/u/17308201?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjIxODAsIm5iZiI6MTczNDQ2MDk4MCwicGF0aCI6Ii91LzE3MzA4MjAxIn0.q6x3hTOwNzJ-nQq4NqwKUkZ4siztm6gkFh7RaGqVYD0&s=72&u=6c64c773c55790c8aa4f6ed2510cedc2f0b561d9&v=4" width="24" alt="Avatar of ThaddeusJiang"/> ThaddeusJiang
+				<img src="https://private-avatars.githubusercontent.com/u/17308201?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE5ODAsIm5iZiI6MTczNDU3MDc4MCwicGF0aCI6Ii91LzE3MzA4MjAxIn0.rCmTFEkLxA8x4O7aO3ezydq0CIDWKHPaRmJ93efkucw&s=72&u=6c64c773c55790c8aa4f6ed2510cedc2f0b561d9&v=4" width="24" alt="Avatar of ThaddeusJiang"/> ThaddeusJiang
 			</a><br/>
 			Thaddeus Jiang
 		</td>
 		<td>Freelance </td>
 		<td><a target="_blank" href="https://twitter.com/ThaddeusJiang">ThaddeusJiang</a></td>
 		<td>Japan</td>
-		<td>379</td>
-	</tr>
-	<tr>
-		<td>300</td>
-		<td>
-			<a target="_blank" href="https://github.com/hez2010">
-				<img src="https://private-avatars.githubusercontent.com/u/14960345?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEwNDAsIm5iZiI6MTczNDQ1OTg0MCwicGF0aCI6Ii91LzE0OTYwMzQ1In0.TkNOD8EkcUEnFp8g4Zfmr5PPnjv4tEuaCrGbOWT6K5g&s=72&u=18ab26be58504b0db2bc82a7ed8c698d2c6824de&v=4" width="24" alt="Avatar of hez2010"/> hez2010
-			</a><br/>
-			Steve
-		</td>
-		<td>The University Of Tokyo<br/></td>
-		<td>No Twitter Username</td>
-		<td>Tokyo Japan</td>
-		<td>378</td>
+		<td>381</td>
 	</tr>
 	<tr>
 		<td>301</td>
 		<td>
+			<a target="_blank" href="https://github.com/freedomofkeima">
+				<img src="https://private-avatars.githubusercontent.com/u/2115470?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5NjAsIm5iZiI6MTczNDU2OTc2MCwicGF0aCI6Ii91LzIxMTU0NzAifQ.eSJyJv4Qs_mVN4axaTtzHvvJqegp8R-MoiQRH6eQiJY&s=72&u=07a1f2601d63bb6f31ffe605430c469a50b2bf0b&v=4" width="24" alt="Avatar of freedomofkeima"/> freedomofkeima
+			</a><br/>
+			Iskandar Setiadi
+		</td>
+		<td>Hennge Kk Hde Inc<br/></td>
+		<td><a target="_blank" href="https://twitter.com/freedom_holicx">freedom_holicx</a></td>
+		<td>Japan Indonesia</td>
+		<td>379</td>
+	</tr>
+	<tr>
+		<td>302</td>
+		<td>
 			<a target="_blank" href="https://github.com/nuta">
-				<img src="https://private-avatars.githubusercontent.com/u/5053714?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExNjAsIm5iZiI6MTczNDQ1OTk2MCwicGF0aCI6Ii91LzUwNTM3MTQifQ.TMfEjhCm_1LTiQ1rm1gilUjUY5AxgbBTw4PR72m-eB4&s=72&u=c855dbf916188578cecedf8b81497af1d64bf6b1&v=4" width="24" alt="Avatar of nuta"/> nuta
+				<img src="https://private-avatars.githubusercontent.com/u/5053714?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5NjAsIm5iZiI6MTczNDU2OTc2MCwicGF0aCI6Ii91LzUwNTM3MTQifQ.DmwKZ9ootMr_8hVPttTq0SilqKSEEbyQV3cTyNvaFEM&s=72&u=c855dbf916188578cecedf8b81497af1d64bf6b1&v=4" width="24" alt="Avatar of nuta"/> nuta
 			</a><br/>
 			Seiya Nuta
 		</td>
@@ -4023,23 +4036,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>378</td>
 	</tr>
 	<tr>
-		<td>302</td>
-		<td>
-			<a target="_blank" href="https://github.com/freedomofkeima">
-				<img src="https://private-avatars.githubusercontent.com/u/2115470?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExNjAsIm5iZiI6MTczNDQ1OTk2MCwicGF0aCI6Ii91LzIxMTU0NzAifQ.GnHqvskgFeLKq-DDag-jju5FSjZpxqh1FULa5h0UvtQ&s=72&u=07a1f2601d63bb6f31ffe605430c469a50b2bf0b&v=4" width="24" alt="Avatar of freedomofkeima"/> freedomofkeima
-			</a><br/>
-			Iskandar Setiadi
-		</td>
-		<td>Hennge Kk Hde Inc<br/></td>
-		<td><a target="_blank" href="https://twitter.com/freedom_holicx">freedom_holicx</a></td>
-		<td>Japan Indonesia</td>
-		<td>378</td>
-	</tr>
-	<tr>
 		<td>303</td>
 		<td>
 			<a target="_blank" href="https://github.com/HeyHamachi">
-				<img src="https://private-avatars.githubusercontent.com/u/31212444?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExNjAsIm5iZiI6MTczNDQ1OTk2MCwicGF0aCI6Ii91LzMxMjEyNDQ0In0.-6VxyZcHoXLo3Mj44RNblJySQ_NhhoVZ_JVNSd9LYoo&s=72&u=e7cc6c77064272639fafc710729ebf9a995d5a78&v=4" width="24" alt="Avatar of HeyHamachi"/> HeyHamachi
+				<img src="https://private-avatars.githubusercontent.com/u/31212444?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5NjAsIm5iZiI6MTczNDU2OTc2MCwicGF0aCI6Ii91LzMxMjEyNDQ0In0.0xL9cRc8mOungpDISmFHoaBzjxFp6-mk4deV-J2NJHw&s=72&u=e7cc6c77064272639fafc710729ebf9a995d5a78&v=4" width="24" alt="Avatar of HeyHamachi"/> HeyHamachi
 			</a><br/>
 			
 		</td>
@@ -4052,7 +4052,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>304</td>
 		<td>
 			<a target="_blank" href="https://github.com/dark-flames">
-				<img src="https://private-avatars.githubusercontent.com/u/15088572?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA5ODAsIm5iZiI6MTczNDQ1OTc4MCwicGF0aCI6Ii91LzE1MDg4NTcyIn0.LbYJGxfT4yWLW5kMAkmpEVRwi2QKaCRFbfH7qMBGKRI&s=72&u=d54523ff6e078ca3699e1f741c10a375aba0212b&v=4" width="24" alt="Avatar of dark-flames"/> dark-flames
+				<img src="https://private-avatars.githubusercontent.com/u/15088572?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA3ODAsIm5iZiI6MTczNDU2OTU4MCwicGF0aCI6Ii91LzE1MDg4NTcyIn0.HC1-MgY3e6klFKc99ENx17rr5uchYcMWGiI6Cacxnm8&s=72&u=d54523ff6e078ca3699e1f741c10a375aba0212b&v=4" width="24" alt="Avatar of dark-flames"/> dark-flames
 			</a><br/>
 			darkflames
 		</td>
@@ -4065,7 +4065,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>305</td>
 		<td>
 			<a target="_blank" href="https://github.com/ryo-ma">
-				<img src="https://private-avatars.githubusercontent.com/u/6661165?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1MjAsIm5iZiI6MTczNDQ2MDMyMCwicGF0aCI6Ii91LzY2NjExNjUifQ.z-Xc2HL_JWbl6P9EqGPzfaSuPUbvOwuRFkaY1C9JXo0&s=72&u=dae26e50e14bfafe264f08aace7a1aec186802eb&v=4" width="24" alt="Avatar of ryo-ma"/> ryo-ma
+				<img src="https://private-avatars.githubusercontent.com/u/6661165?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA0MjAsIm5iZiI6MTczNDU2OTIyMCwicGF0aCI6Ii91LzY2NjExNjUifQ.2Zh5Uj8AkfSwhhYZyhu7zo3l2nBP-al-YGIC-9Aogio&s=72&u=dae26e50e14bfafe264f08aace7a1aec186802eb&v=4" width="24" alt="Avatar of ryo-ma"/> ryo-ma
 			</a><br/>
 			ryoma
 		</td>
@@ -4078,33 +4078,46 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>306</td>
 		<td>
 			<a target="_blank" href="https://github.com/fumiyasac">
-				<img src="https://private-avatars.githubusercontent.com/u/949561?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1MjAsIm5iZiI6MTczNDQ2MDMyMCwicGF0aCI6Ii91Lzk0OTU2MSJ9.03WY0scNNiT2jBl5EiOQeT2mCxGlKzbzeCL36LvUBBw&s=72&u=3c4c72d2f5e7d46497f8dbbf082e63e17f9859af&v=4" width="24" alt="Avatar of fumiyasac"/> fumiyasac
+				<img src="https://private-avatars.githubusercontent.com/u/949561?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzMjAsIm5iZiI6MTczNDU3MDEyMCwicGF0aCI6Ii91Lzk0OTU2MSJ9.HQLFK7O5Y6W8hfLhpzuuEgRij5XP8Lo4mzNbn0G6LcI&s=72&u=3c4c72d2f5e7d46497f8dbbf082e63e17f9859af&v=4" width="24" alt="Avatar of fumiyasac"/> fumiyasac
 			</a><br/>
 			Fumiya Sakai
 		</td>
 		<td>Mobile Application Engineer </td>
 		<td><a target="_blank" href="https://twitter.com/fumiyasac">fumiyasac</a></td>
 		<td>TokyoOtsuka</td>
-		<td>369</td>
+		<td>371</td>
 	</tr>
 	<tr>
 		<td>307</td>
 		<td>
 			<a target="_blank" href="https://github.com/maekawatoshiki">
-				<img src="https://private-avatars.githubusercontent.com/u/9913176?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEzNDAsIm5iZiI6MTczNDQ2MDE0MCwicGF0aCI6Ii91Lzk5MTMxNzYifQ.FpZZ8JN5_ekSjtxzkPzUWeawH9zyuIGqiN9m7G1kmSY&s=72&u=11d855097f371972643e9a7789d7924ad79c9595&v=4" width="24" alt="Avatar of maekawatoshiki"/> maekawatoshiki
+				<img src="https://private-avatars.githubusercontent.com/u/9913176?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzExNDAsIm5iZiI6MTczNDU2OTk0MCwicGF0aCI6Ii91Lzk5MTMxNzYifQ.Vaa3H5Mh09PORosnkmlWX1MB7smhsy4UhV6lLKICSW4&s=72&u=11d855097f371972643e9a7789d7924ad79c9595&v=4" width="24" alt="Avatar of maekawatoshiki"/> maekawatoshiki
 			</a><br/>
 			uint256t
 		</td>
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/uint256_t">uint256_t</a></td>
 		<td>Japan</td>
-		<td>368</td>
+		<td>369</td>
 	</tr>
 	<tr>
 		<td>308</td>
 		<td>
+			<a target="_blank" href="https://github.com/lepture">
+				<img src="https://private-avatars.githubusercontent.com/u/290496?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwODAsIm5iZiI6MTczNDU2OTg4MCwicGF0aCI6Ii91LzI5MDQ5NiJ9.ROYZBphETzuQeI-DnHou75wsKr6mr-mX1KUlwg-PWrU&s=72&v=4" width="24" alt="Avatar of lepture"/> lepture
+			</a><br/>
+			Hsiaoming Yang
+		</td>
+		<td>@hsiaoming  </td>
+		<td><a target="_blank" href="https://twitter.com/lepture">lepture</a></td>
+		<td>Japan</td>
+		<td>368</td>
+	</tr>
+	<tr>
+		<td>309</td>
+		<td>
 			<a target="_blank" href="https://github.com/neka-nat">
-				<img src="https://private-avatars.githubusercontent.com/u/991515?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE4MjAsIm5iZiI6MTczNDQ2MDYyMCwicGF0aCI6Ii91Lzk5MTUxNSJ9.IUnEbypeh9PWC8tKAkMrXyvJMJJJ3P3O4Uj1JBK0fDw&s=72&u=ddc531a7af648a4590b51735b5c6d68ec6c0367f&v=4" width="24" alt="Avatar of neka-nat"/> neka-nat
+				<img src="https://private-avatars.githubusercontent.com/u/991515?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA3MjAsIm5iZiI6MTczNDU2OTUyMCwicGF0aCI6Ii91Lzk5MTUxNSJ9.tjsbu6xeGkdjEQhRGbtRNmHKA1psspDUeZR1so5JU3M&s=72&u=ddc531a7af648a4590b51735b5c6d68ec6c0367f&v=4" width="24" alt="Avatar of neka-nat"/> neka-nat
 			</a><br/>
 			Shirokuma k tanaka
 		</td>
@@ -4114,23 +4127,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>368</td>
 	</tr>
 	<tr>
-		<td>309</td>
-		<td>
-			<a target="_blank" href="https://github.com/lepture">
-				<img src="https://private-avatars.githubusercontent.com/u/290496?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyODAsIm5iZiI6MTczNDQ2MDA4MCwicGF0aCI6Ii91LzI5MDQ5NiJ9.oMJ21CBJNLblFc9Pcg2B9dvjLrdhX3h7st_IjP_suVE&s=72&v=4" width="24" alt="Avatar of lepture"/> lepture
-			</a><br/>
-			Hsiaoming Yang
-		</td>
-		<td>@hsiaoming  </td>
-		<td><a target="_blank" href="https://twitter.com/lepture">lepture</a></td>
-		<td>Japan</td>
-		<td>365</td>
-	</tr>
-	<tr>
 		<td>310</td>
 		<td>
 			<a target="_blank" href="https://github.com/uribo">
-				<img src="https://private-avatars.githubusercontent.com/u/228649?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyODAsIm5iZiI6MTczNDQ2MDA4MCwicGF0aCI6Ii91LzIyODY0OSJ9.c25bRksStbeYIRjJrcf5jY0W_8_2hxi6CaeGbJ8U8NY&s=72&u=aebe4734431d50e4b50c2416a1acd24835b523f6&v=4" width="24" alt="Avatar of uribo"/> uribo
+				<img src="https://private-avatars.githubusercontent.com/u/228649?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwODAsIm5iZiI6MTczNDU2OTg4MCwicGF0aCI6Ii91LzIyODY0OSJ9.mIfPQ-IY3YYJGHhc4hiwHNCaSSLkqR0aeBR7e5IDtiQ&s=72&u=aebe4734431d50e4b50c2416a1acd24835b523f6&v=4" width="24" alt="Avatar of uribo"/> uribo
 			</a><br/>
 			Shinya Uryu
 		</td>
@@ -4143,7 +4143,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>311</td>
 		<td>
 			<a target="_blank" href="https://github.com/m3m0r7">
-				<img src="https://private-avatars.githubusercontent.com/u/1282995?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE2NDAsIm5iZiI6MTczNDQ2MDQ0MCwicGF0aCI6Ii91LzEyODI5OTUifQ.pyj2i0v49LakMBH5bW_dYgHb9Nxe7uUV9M-w9JM0jUg&s=72&u=c67e530ba7b96f53bcfe183cec4aeaaa73191c27&v=4" width="24" alt="Avatar of m3m0r7"/> m3m0r7
+				<img src="https://private-avatars.githubusercontent.com/u/1282995?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE0NDAsIm5iZiI6MTczNDU3MDI0MCwicGF0aCI6Ii91LzEyODI5OTUifQ.TECsUS0amR5ZrJ3mOJRKjjrwWXo3vIEv8rsZlZoDvlE&s=72&u=c67e530ba7b96f53bcfe183cec4aeaaa73191c27&v=4" width="24" alt="Avatar of m3m0r7"/> m3m0r7
 			</a><br/>
 			memory
 		</td>
@@ -4156,7 +4156,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>312</td>
 		<td>
 			<a target="_blank" href="https://github.com/suin">
-				<img src="https://private-avatars.githubusercontent.com/u/855338?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE2NDAsIm5iZiI6MTczNDQ2MDQ0MCwicGF0aCI6Ii91Lzg1NTMzOCJ9.PLw_7GbA6vf4gbfhMLA6i4NAr3t8pOom9rOlFxsTMqc&s=72&v=4" width="24" alt="Avatar of suin"/> suin
+				<img src="https://private-avatars.githubusercontent.com/u/855338?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE0NDAsIm5iZiI6MTczNDU3MDI0MCwicGF0aCI6Ii91Lzg1NTMzOCJ9.CZCoQCfjKmdUGz_KE4aWhc7lwZanoiKO3pW1GIPENYE&s=72&v=4" width="24" alt="Avatar of suin"/> suin
 			</a><br/>
 			No Name
 		</td>
@@ -4169,7 +4169,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>313</td>
 		<td>
 			<a target="_blank" href="https://github.com/fumiya-kume">
-				<img src="https://private-avatars.githubusercontent.com/u/16269075?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1MjAsIm5iZiI6MTczNDQ2MDMyMCwicGF0aCI6Ii91LzE2MjY5MDc1In0.aEcdw8awG3982EXUdjHm0FW3xVFKDBgT_vcrGOkcJps&s=72&u=8a197b254136520ec017c54d76e2f203287a61cf&v=4" width="24" alt="Avatar of fumiya-kume"/> fumiya-kume
+				<img src="https://private-avatars.githubusercontent.com/u/16269075?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzMjAsIm5iZiI6MTczNDU3MDEyMCwicGF0aCI6Ii91LzE2MjY5MDc1In0.yO5-FBNFz1fAbLXW6A8NlBvuyvvnyL300s1vMAIC2Ag&s=72&u=8a197b254136520ec017c54d76e2f203287a61cf&v=4" width="24" alt="Avatar of fumiya-kume"/> fumiya-kume
 			</a><br/>
 			kuuFumiya Kume
 		</td>
@@ -4182,7 +4182,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>314</td>
 		<td>
 			<a target="_blank" href="https://github.com/udzura">
-				<img src="https://private-avatars.githubusercontent.com/u/91011?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1ODAsIm5iZiI6MTczNDQ2MDM4MCwicGF0aCI6Ii91LzkxMDExIn0.-n8CJR2KeKhtc92X535wiQKcfPGRH6qzlvD-KsIvhWA&s=72&u=e14119faa930728ec36c045fe25e8707e63084d8&v=4" width="24" alt="Avatar of udzura"/> udzura
+				<img src="https://private-avatars.githubusercontent.com/u/91011?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzODAsIm5iZiI6MTczNDU3MDE4MCwicGF0aCI6Ii91LzkxMDExIn0.1_TIdl2SrPK_He4R5IZ6eZopQ6KCtcSIUD9trLq4ZzY&s=72&u=e14119faa930728ec36c045fe25e8707e63084d8&v=4" width="24" alt="Avatar of udzura"/> udzura
 			</a><br/>
 			Kondo Uchio
 		</td>
@@ -4195,7 +4195,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>315</td>
 		<td>
 			<a target="_blank" href="https://github.com/1000ch">
-				<img src="https://private-avatars.githubusercontent.com/u/1800018?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyODAsIm5iZiI6MTczNDQ2MDA4MCwicGF0aCI6Ii91LzE4MDAwMTgifQ.XN41GgWy5Sac517q4WGM9M9_qfZdWUhYrQ9WFSSmtAM&s=72&u=4bab59127d55e330839eae131673e82f60a230e3&v=4" width="24" alt="Avatar of 1000ch"/> 1000ch
+				<img src="https://private-avatars.githubusercontent.com/u/1800018?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwODAsIm5iZiI6MTczNDU2OTg4MCwicGF0aCI6Ii91LzE4MDAwMTgifQ.5ZrCPIJoMbQrnRsUUtaNYiR6jyrpVfJKmme6UPo62fs&s=72&u=4bab59127d55e330839eae131673e82f60a230e3&v=4" width="24" alt="Avatar of 1000ch"/> 1000ch
 			</a><br/>
 			Shogo Sensui
 		</td>
@@ -4208,7 +4208,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>316</td>
 		<td>
 			<a target="_blank" href="https://github.com/bmf-san">
-				<img src="https://private-avatars.githubusercontent.com/u/13291041?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0NjAsIm5iZiI6MTczNDQ2MDI2MCwicGF0aCI6Ii91LzEzMjkxMDQxIn0.kQazEz-TvuwPgupMdmJwrg4yq8E0FeYJFQPAJaym9VA&s=72&u=cd5971f94e44bd7d8d97fe57812fb3120b105b87&v=4" width="24" alt="Avatar of bmf-san"/> bmf-san
+				<img src="https://private-avatars.githubusercontent.com/u/13291041?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyNjAsIm5iZiI6MTczNDU3MDA2MCwicGF0aCI6Ii91LzEzMjkxMDQxIn0.Uv7KEQs9z7xrxcYnn8NW547Bu7rtrBi7s_F9i-r4SmM&s=72&u=cd5971f94e44bd7d8d97fe57812fb3120b105b87&v=4" width="24" alt="Avatar of bmf-san"/> bmf-san
 			</a><br/>
 			Kenta Takeuchi
 		</td>
@@ -4221,7 +4221,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>317</td>
 		<td>
 			<a target="_blank" href="https://github.com/lovyan03">
-				<img src="https://private-avatars.githubusercontent.com/u/42724151?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA4NjAsIm5iZiI6MTczNDQ1OTY2MCwicGF0aCI6Ii91LzQyNzI0MTUxIn0.YNtRY5CuI5iFuiuYngSvoPNvH9BQxZskb2ewR12MAfc&s=72&u=01a30838a72fe0ee29e8206c5be866de41cdff4f&v=4" width="24" alt="Avatar of lovyan03"/> lovyan03
+				<img src="https://private-avatars.githubusercontent.com/u/42724151?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA2NjAsIm5iZiI6MTczNDU2OTQ2MCwicGF0aCI6Ii91LzQyNzI0MTUxIn0.TGJ-1032rmq0BaSYEPz47TM9Xg0hWaOZ7CGQaUdxwmc&s=72&u=01a30838a72fe0ee29e8206c5be866de41cdff4f&v=4" width="24" alt="Avatar of lovyan03"/> lovyan03
 			</a><br/>
 			lovyan03
 		</td>
@@ -4234,7 +4234,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>318</td>
 		<td>
 			<a target="_blank" href="https://github.com/mizchi">
-				<img src="https://private-avatars.githubusercontent.com/u/73962?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA5MjAsIm5iZiI6MTczNDQ1OTcyMCwicGF0aCI6Ii91LzczOTYyIn0.mCi_5XPbsNuF0MaAbqTPR3GtxytBTVBzZVi1x9I_iQE&s=72&v=4" width="24" alt="Avatar of mizchi"/> mizchi
+				<img src="https://private-avatars.githubusercontent.com/u/73962?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA3MjAsIm5iZiI6MTczNDU2OTUyMCwicGF0aCI6Ii91LzczOTYyIn0.XtOdrL9Vl2u8KEWoI8UCoxJ-UDSkUhu4Of1gDL7zKNM&s=72&v=4" width="24" alt="Avatar of mizchi"/> mizchi
 			</a><br/>
 			Kotaro Chikuba
 		</td>
@@ -4246,8 +4246,21 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 	<tr>
 		<td>319</td>
 		<td>
+			<a target="_blank" href="https://github.com/grace2riku">
+				<img src="https://private-avatars.githubusercontent.com/u/34134188?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1MDAsIm5iZiI6MTczNDU3MDMwMCwicGF0aCI6Ii91LzM0MTM0MTg4In0.2H62AkPZk9M1E0986g2RadBCvGMmu6xo0FDmhVyAVTc&s=72&v=4" width="24" alt="Avatar of grace2riku"/> grace2riku
+			</a><br/>
+			No Name
+		</td>
+		<td>Persol Cross Technology Co<br/>Ltd<br/></td>
+		<td><a target="_blank" href="https://twitter.com/juraruming">juraruming</a></td>
+		<td>Tokyo Japan</td>
+		<td>349</td>
+	</tr>
+	<tr>
+		<td>320</td>
+		<td>
 			<a target="_blank" href="https://github.com/hashrock">
-				<img src="https://private-avatars.githubusercontent.com/u/3132889?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA5MjAsIm5iZiI6MTczNDQ1OTcyMCwicGF0aCI6Ii91LzMxMzI4ODkifQ.o2qCC3NUSxVgf09WorqqO9nMbPmUtWPyelI4UkQssnQ&s=72&u=36c3e44701737ca935b228b80cde5cbd4b76a9bf&v=4" width="24" alt="Avatar of hashrock"/> hashrock
+				<img src="https://private-avatars.githubusercontent.com/u/3132889?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA3MjAsIm5iZiI6MTczNDU2OTUyMCwicGF0aCI6Ii91LzMxMzI4ODkifQ.drbfUsmPwlJt8dGy7MfdXlzwPOYFaesxQFk2dYRBFB0&s=72&u=36c3e44701737ca935b228b80cde5cbd4b76a9bf&v=4" width="24" alt="Avatar of hashrock"/> hashrock
 			</a><br/>
 			hashrock
 		</td>
@@ -4257,23 +4270,23 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>348</td>
 	</tr>
 	<tr>
-		<td>320</td>
+		<td>321</td>
 		<td>
-			<a target="_blank" href="https://github.com/grace2riku">
-				<img src="https://private-avatars.githubusercontent.com/u/34134188?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3MDAsIm5iZiI6MTczNDQ2MDUwMCwicGF0aCI6Ii91LzM0MTM0MTg4In0.IpUCtQ4LfsT0FJZjVzWTNm6lvayAoRbnmqZOQZceIkU&s=72&v=4" width="24" alt="Avatar of grace2riku"/> grace2riku
+			<a target="_blank" href="https://github.com/guregu">
+				<img src="https://private-avatars.githubusercontent.com/u/131059?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5NjAsIm5iZiI6MTczNDU2OTc2MCwicGF0aCI6Ii91LzEzMTA1OSJ9.0Omnjb1JuR_NVMjWinlZ_cb8S6mrivJYr8i5Fx252I4&s=72&u=81c35b98c35f0904fc0367039849d58fd0e39e53&v=4" width="24" alt="Avatar of guregu"/> guregu
 			</a><br/>
-			No Name
+			guregu
 		</td>
-		<td>Persol Cross Technology Co<br/>Ltd<br/></td>
-		<td><a target="_blank" href="https://twitter.com/juraruming">juraruming</a></td>
-		<td>Tokyo Japan</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/guregu">guregu</a></td>
+		<td>Tokyo</td>
 		<td>345</td>
 	</tr>
 	<tr>
-		<td>321</td>
+		<td>322</td>
 		<td>
 			<a target="_blank" href="https://github.com/hhatto">
-				<img src="https://private-avatars.githubusercontent.com/u/150309?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyMjAsIm5iZiI6MTczNDQ2MDAyMCwicGF0aCI6Ii91LzE1MDMwOSJ9.cxNdBwfqqCUi_tduETqTJ5x_Z7Jiz91eUCKrQEavVGE&s=72&u=3e8f63c27bf996bfc68464b0ce3f7a3e40e6ea7f&v=4" width="24" alt="Avatar of hhatto"/> hhatto
+				<img src="https://private-avatars.githubusercontent.com/u/150309?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwMjAsIm5iZiI6MTczNDU2OTgyMCwicGF0aCI6Ii91LzE1MDMwOSJ9.VDzkwN0AGeEBpFi4E3r6Y6uUynWoMUmpsz9WuSxm7q8&s=72&u=3e8f63c27bf996bfc68464b0ce3f7a3e40e6ea7f&v=4" width="24" alt="Avatar of hhatto"/> hhatto
 			</a><br/>
 			Hideo Hattori
 		</td>
@@ -4283,23 +4296,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>344</td>
 	</tr>
 	<tr>
-		<td>322</td>
-		<td>
-			<a target="_blank" href="https://github.com/guregu">
-				<img src="https://private-avatars.githubusercontent.com/u/131059?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExNjAsIm5iZiI6MTczNDQ1OTk2MCwicGF0aCI6Ii91LzEzMTA1OSJ9.FJehvyRLnXgrDIKKjJgN9oh67EQRY0WnyM5_DolEF6U&s=72&u=81c35b98c35f0904fc0367039849d58fd0e39e53&v=4" width="24" alt="Avatar of guregu"/> guregu
-			</a><br/>
-			guregu
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/guregu">guregu</a></td>
-		<td>Tokyo</td>
-		<td>344</td>
-	</tr>
-	<tr>
 		<td>323</td>
 		<td>
 			<a target="_blank" href="https://github.com/p-chan">
-				<img src="https://private-avatars.githubusercontent.com/u/7752475?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjIxMjAsIm5iZiI6MTczNDQ2MDkyMCwicGF0aCI6Ii91Lzc3NTI0NzUifQ.om6XgXSyX6XsuAp6LpmlmZjhouMB17g4ncWlGFcHDvw&s=72&u=0d20739f48490caf5041bc74c5292d36d9e24fc2&v=4" width="24" alt="Avatar of p-chan"/> p-chan
+				<img src="https://private-avatars.githubusercontent.com/u/7752475?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwMjAsIm5iZiI6MTczNDU2OTgyMCwicGF0aCI6Ii91Lzc3NTI0NzUifQ.w9-bRumYPy4gzvQRNfUG058in1beMxJ5eXlpZLSFsJU&s=72&u=0d20739f48490caf5041bc74c5292d36d9e24fc2&v=4" width="24" alt="Avatar of p-chan"/> p-chan
 			</a><br/>
 			PChan
 		</td>
@@ -4312,7 +4312,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>324</td>
 		<td>
 			<a target="_blank" href="https://github.com/mosuka">
-				<img src="https://private-avatars.githubusercontent.com/u/970948?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3MDAsIm5iZiI6MTczNDQ2MDUwMCwicGF0aCI6Ii91Lzk3MDk0OCJ9.Uy9Opkl2ZQ3ePMjzeSO-Var1kIL59nbSL4c7uLIPo88&s=72&u=ecccb3d231052f35d32b01ed7eedc4e16253c7fc&v=4" width="24" alt="Avatar of mosuka"/> mosuka
+				<img src="https://private-avatars.githubusercontent.com/u/970948?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1MDAsIm5iZiI6MTczNDU3MDMwMCwicGF0aCI6Ii91Lzk3MDk0OCJ9.1RgBHNerc2BpL29PTIRSbe5laqw3XD0cjGGhhTNqBdc&s=72&u=ecccb3d231052f35d32b01ed7eedc4e16253c7fc&v=4" width="24" alt="Avatar of mosuka"/> mosuka
 			</a><br/>
 			Minoru OSUKA
 		</td>
@@ -4325,7 +4325,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>325</td>
 		<td>
 			<a target="_blank" href="https://github.com/homuler">
-				<img src="https://private-avatars.githubusercontent.com/u/4690128?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyMjAsIm5iZiI6MTczNDQ2MDAyMCwicGF0aCI6Ii91LzQ2OTAxMjgifQ.fZ0mUCh3_ncLCTAq00r7lXuzUJRBXDmFu2pMQ8CHx94&s=72&u=ca93281e9656e9e837580143d03034157def787c&v=4" width="24" alt="Avatar of homuler"/> homuler
+				<img src="https://private-avatars.githubusercontent.com/u/4690128?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwMjAsIm5iZiI6MTczNDU2OTgyMCwicGF0aCI6Ii91LzQ2OTAxMjgifQ.bFB4UMQoSv-xi2GCvEGsIJfAKRgXJhRvt_qMG-St5J4&s=72&u=ca93281e9656e9e837580143d03034157def787c&v=4" width="24" alt="Avatar of homuler"/> homuler
 			</a><br/>
 			Junrou Nishida
 		</td>
@@ -4338,7 +4338,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>326</td>
 		<td>
 			<a target="_blank" href="https://github.com/mapconcierge">
-				<img src="https://private-avatars.githubusercontent.com/u/416977?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE4ODAsIm5iZiI6MTczNDQ2MDY4MCwicGF0aCI6Ii91LzQxNjk3NyJ9.jTq6f_KMFqNwinkZ01Myw_JDpYOO3ZjHySSWwG-ARsA&s=72&u=8067621b5b4f346e66f04e30f3d1bdb7330cb86e&v=4" width="24" alt="Avatar of mapconcierge"/> mapconcierge
+				<img src="https://private-avatars.githubusercontent.com/u/416977?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE2ODAsIm5iZiI6MTczNDU3MDQ4MCwicGF0aCI6Ii91LzQxNjk3NyJ9.aacEi7DzJdOsINva2OcuxH-7K1refR6AinZtl06fb1s&s=72&u=8067621b5b4f346e66f04e30f3d1bdb7330cb86e&v=4" width="24" alt="Avatar of mapconcierge"/> mapconcierge
 			</a><br/>
 			Taichi FURUHASHI
 		</td>
@@ -4351,7 +4351,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>327</td>
 		<td>
 			<a target="_blank" href="https://github.com/satoru-takeuchi">
-				<img src="https://private-avatars.githubusercontent.com/u/6075867?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3MDAsIm5iZiI6MTczNDQ2MDUwMCwicGF0aCI6Ii91LzYwNzU4NjcifQ.cPpXQntyWIDURvKO6WHv6KBX7pDe-74_kET0yoYCc-0&s=72&u=26bc9f06ac614d108d363a84b0097f184074802e&v=4" width="24" alt="Avatar of satoru-takeuchi"/> satoru-takeuchi
+				<img src="https://private-avatars.githubusercontent.com/u/6075867?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1MDAsIm5iZiI6MTczNDU3MDMwMCwicGF0aCI6Ii91LzYwNzU4NjcifQ.Xa5BAEJxMgrOL9xxr9elgYaUb-U1Vl9D50dAY21iaZ0&s=72&u=26bc9f06ac614d108d363a84b0097f184074802e&v=4" width="24" alt="Avatar of satoru-takeuchi"/> satoru-takeuchi
 			</a><br/>
 			Satoru Takeuchi
 		</td>
@@ -4364,7 +4364,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>328</td>
 		<td>
 			<a target="_blank" href="https://github.com/champierre">
-				<img src="https://private-avatars.githubusercontent.com/u/10215?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjIxODAsIm5iZiI6MTczNDQ2MDk4MCwicGF0aCI6Ii91LzEwMjE1In0.17yFZtARsVhVP8YLvbgKH7Xg-_hYELBayqZqHPA_mBo&s=72&v=4" width="24" alt="Avatar of champierre"/> champierre
+				<img src="https://private-avatars.githubusercontent.com/u/10215?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwODAsIm5iZiI6MTczNDU2OTg4MCwicGF0aCI6Ii91LzEwMjE1In0.nDo1eG9XrTk4EZwg3ok8PKH08NUKEPcB-KhoU0MY9R0&s=72&v=4" width="24" alt="Avatar of champierre"/> champierre
 			</a><br/>
 			Junya Ishihara
 		</td>
@@ -4377,7 +4377,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>329</td>
 		<td>
 			<a target="_blank" href="https://github.com/peaceiris">
-				<img src="https://private-avatars.githubusercontent.com/u/30958501?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1ODAsIm5iZiI6MTczNDQ2MDM4MCwicGF0aCI6Ii91LzMwOTU4NTAxIn0.hn4EW8iTnuIo9yKfzspdd89Sly4OwWSCziKoU5QWdck&s=72&u=38c23ca8046dd418a493ebc1b1fcf8b2b9bdb901&v=4" width="24" alt="Avatar of peaceiris"/> peaceiris
+				<img src="https://private-avatars.githubusercontent.com/u/30958501?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzODAsIm5iZiI6MTczNDU3MDE4MCwicGF0aCI6Ii91LzMwOTU4NTAxIn0.P6VtMuGVXNq0SFJMxhTHXhnNrepjIPbWz8iXy4qoC5A&s=72&u=38c23ca8046dd418a493ebc1b1fcf8b2b9bdb901&v=4" width="24" alt="Avatar of peaceiris"/> peaceiris
 			</a><br/>
 			Shohei Ueda
 		</td>
@@ -4389,8 +4389,21 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 	<tr>
 		<td>330</td>
 		<td>
+			<a target="_blank" href="https://github.com/kamipo">
+				<img src="https://private-avatars.githubusercontent.com/u/12642?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA4NDAsIm5iZiI6MTczNDU2OTY0MCwicGF0aCI6Ii91LzEyNjQyIn0.7XwTeB5opfjeokeIpl42v75JM78fzy3qLHPU2K5jKBg&s=72&u=76645b9234fbbeb252f789a670b62927cf998541&v=4" width="24" alt="Avatar of kamipo"/> kamipo
+			</a><br/>
+			Ryuta Kamizono
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tokyo Japan</td>
+		<td>331</td>
+	</tr>
+	<tr>
+		<td>331</td>
+		<td>
 			<a target="_blank" href="https://github.com/triacontane">
-				<img src="https://private-avatars.githubusercontent.com/u/15870635?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0NjAsIm5iZiI6MTczNDQ2MDI2MCwicGF0aCI6Ii91LzE1ODcwNjM1In0.hf8nXAYLx77veEoEMGyRO3Z8_jdrwcWhsldECxGQEGw&s=72&u=6fd32dbff25fdd74c325f92d2d96e30b8e112ffb&v=4" width="24" alt="Avatar of triacontane"/> triacontane
+				<img src="https://private-avatars.githubusercontent.com/u/15870635?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyNjAsIm5iZiI6MTczNDU3MDA2MCwicGF0aCI6Ii91LzE1ODcwNjM1In0.H76Ur5g8JiUp1gwP9XkGP3DxYocEkzdN3uECSq_BIEI&s=72&u=6fd32dbff25fdd74c325f92d2d96e30b8e112ffb&v=4" width="24" alt="Avatar of triacontane"/> triacontane
 			</a><br/>
 			
 		</td>
@@ -4400,10 +4413,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>328</td>
 	</tr>
 	<tr>
-		<td>331</td>
+		<td>332</td>
 		<td>
 			<a target="_blank" href="https://github.com/utam0k">
-				<img src="https://private-avatars.githubusercontent.com/u/13010913?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEwNDAsIm5iZiI6MTczNDQ1OTg0MCwicGF0aCI6Ii91LzEzMDEwOTEzIn0.Vk17U1-fujCziOXN2RkOabhx1v7Q2R96w2efxIJGeW4&s=72&u=90174cbd78bc19741c0789f55cef9926c91602ca&v=4" width="24" alt="Avatar of utam0k"/> utam0k
+				<img src="https://private-avatars.githubusercontent.com/u/13010913?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA4NDAsIm5iZiI6MTczNDU2OTY0MCwicGF0aCI6Ii91LzEzMDEwOTEzIn0.OTPI2mPiwyUpwz9WWdYjY_r9FFtoq_w1JOcivam4EOc&s=72&u=90174cbd78bc19741c0789f55cef9926c91602ca&v=4" width="24" alt="Avatar of utam0k"/> utam0k
 			</a><br/>
 			Toru Komatsu
 		</td>
@@ -4413,10 +4426,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>326</td>
 	</tr>
 	<tr>
-		<td>332</td>
+		<td>333</td>
 		<td>
 			<a target="_blank" href="https://github.com/hiroppy">
-				<img src="https://private-avatars.githubusercontent.com/u/3367801?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0NjAsIm5iZiI6MTczNDQ2MDI2MCwicGF0aCI6Ii91LzMzNjc4MDEifQ.YT3tE9eekqOLnnqbVXfMJ8sXEpK5am0GUgMvsoNhejM&s=72&u=2438e6958bf11971042dc2a1cacae9dd3290beb4&v=4" width="24" alt="Avatar of hiroppy"/> hiroppy
+				<img src="https://private-avatars.githubusercontent.com/u/3367801?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyNjAsIm5iZiI6MTczNDU3MDA2MCwicGF0aCI6Ii91LzMzNjc4MDEifQ.K1F_Lh1JyFFqA9cjnsRWHSJpTr2FsS3YWYOeHUoljo0&s=72&u=2438e6958bf11971042dc2a1cacae9dd3290beb4&v=4" width="24" alt="Avatar of hiroppy"/> hiroppy
 			</a><br/>
 			Yuta Hiroto
 		</td>
@@ -4426,23 +4439,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>325</td>
 	</tr>
 	<tr>
-		<td>333</td>
-		<td>
-			<a target="_blank" href="https://github.com/kamipo">
-				<img src="https://private-avatars.githubusercontent.com/u/12642?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEwNDAsIm5iZiI6MTczNDQ1OTg0MCwicGF0aCI6Ii91LzEyNjQyIn0.RuubWu_p7M_JRe-RiOOjOE6xgJ7Cq3owFwDPhYuJWSU&s=72&u=76645b9234fbbeb252f789a670b62927cf998541&v=4" width="24" alt="Avatar of kamipo"/> kamipo
-			</a><br/>
-			Ryuta Kamizono
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Tokyo Japan</td>
-		<td>324</td>
-	</tr>
-	<tr>
 		<td>334</td>
 		<td>
 			<a target="_blank" href="https://github.com/junderw">
-				<img src="https://private-avatars.githubusercontent.com/u/11246316?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyMjAsIm5iZiI6MTczNDQ2MDAyMCwicGF0aCI6Ii91LzExMjQ2MzE2In0.0ioQD49lUf1I7wPB4IiJ4KctnFT7M97EKDNFNhPmXkY&s=72&u=b1879af21c58336a58b5b41376db8eade5006d51&v=4" width="24" alt="Avatar of junderw"/> junderw
+				<img src="https://private-avatars.githubusercontent.com/u/11246316?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwMjAsIm5iZiI6MTczNDU2OTgyMCwicGF0aCI6Ii91LzExMjQ2MzE2In0.S_xfVAkbe9x_risWvmwJw5SzZG7MSWGZDkf3XoLhRyw&s=72&u=b1879af21c58336a58b5b41376db8eade5006d51&v=4" width="24" alt="Avatar of junderw"/> junderw
 			</a><br/>
 			Jonathan Underwood
 		</td>
@@ -4455,7 +4455,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>335</td>
 		<td>
 			<a target="_blank" href="https://github.com/shimat">
-				<img src="https://private-avatars.githubusercontent.com/u/4434824?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA4NjAsIm5iZiI6MTczNDQ1OTY2MCwicGF0aCI6Ii91LzQ0MzQ4MjQifQ.L8b8bWLMq4x8O4sODGJ_5EZR1et7ot2HDEviAnlwV4o&s=72&u=a87ecd72321652dcb0bc84667b6c6eaa7426224c&v=4" width="24" alt="Avatar of shimat"/> shimat
+				<img src="https://private-avatars.githubusercontent.com/u/4434824?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA2NjAsIm5iZiI6MTczNDU2OTQ2MCwicGF0aCI6Ii91LzQ0MzQ4MjQifQ.T4P_8Mk9ssZkU_wpORjH3g3vJ9tETOmbkJTmQaDSzIc&s=72&u=a87ecd72321652dcb0bc84667b6c6eaa7426224c&v=4" width="24" alt="Avatar of shimat"/> shimat
 			</a><br/>
 			shimat
 		</td>
@@ -4467,8 +4467,21 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 	<tr>
 		<td>336</td>
 		<td>
+			<a target="_blank" href="https://github.com/130s">
+				<img src="https://private-avatars.githubusercontent.com/u/1840401?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1MDAsIm5iZiI6MTczNDU3MDMwMCwicGF0aCI6Ii91LzE4NDA0MDEifQ.tuRz4_54J_YXqvj9kktI_rdgEPuJgmozu7NjphcKS-U&s=72&u=f08e4c8785c919e9c51575214102c9e538f64929&v=4" width="24" alt="Avatar of 130s"/> 130s
+			</a><br/>
+			Isaac Saito
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Atlanta GA  Tochigi Japan</td>
+		<td>314</td>
+	</tr>
+	<tr>
+		<td>337</td>
+		<td>
 			<a target="_blank" href="https://github.com/wasabeef">
-				<img src="https://private-avatars.githubusercontent.com/u/1833474?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA2MjAsIm5iZiI6MTczNDQ1OTQyMCwicGF0aCI6Ii91LzE4MzM0NzQifQ.4yghhrA_wTP8JqYHVyVvde9yAfa9RMkubQlZiU4FdPc&s=72&v=4" width="24" alt="Avatar of wasabeef"/> wasabeef
+				<img src="https://private-avatars.githubusercontent.com/u/1833474?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA0MjAsIm5iZiI6MTczNDU2OTIyMCwicGF0aCI6Ii91LzE4MzM0NzQifQ.dPK_w-6ameWE8us1_kSnMBvQhJTrpJWUX0_1_bhvDxQ&s=72&v=4" width="24" alt="Avatar of wasabeef"/> wasabeef
 			</a><br/>
 			Daichi Furiya
 		</td>
@@ -4478,23 +4491,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>313</td>
 	</tr>
 	<tr>
-		<td>337</td>
-		<td>
-			<a target="_blank" href="https://github.com/130s">
-				<img src="https://private-avatars.githubusercontent.com/u/1840401?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3MDAsIm5iZiI6MTczNDQ2MDUwMCwicGF0aCI6Ii91LzE4NDA0MDEifQ.xKtbPL578Q7CTgu0SNjsc0QmCIGnxjgMzaZEqdLPY7Y&s=72&u=f08e4c8785c919e9c51575214102c9e538f64929&v=4" width="24" alt="Avatar of 130s"/> 130s
-			</a><br/>
-			Isaac Saito
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Atlanta GA  Tochigi Japan</td>
-		<td>313</td>
-	</tr>
-	<tr>
 		<td>338</td>
 		<td>
 			<a target="_blank" href="https://github.com/nobnak">
-				<img src="https://private-avatars.githubusercontent.com/u/813514?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExNjAsIm5iZiI6MTczNDQ1OTk2MCwicGF0aCI6Ii91LzgxMzUxNCJ9.WvADYQazA0nPQRiD20v439rmPma6F_pZ3vqIbdT_fQQ&s=72&u=ed22bcf1e0e4596dc13befb3a6c99294966c3d22&v=4" width="24" alt="Avatar of nobnak"/> nobnak
+				<img src="https://private-avatars.githubusercontent.com/u/813514?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5NjAsIm5iZiI6MTczNDU2OTc2MCwicGF0aCI6Ii91LzgxMzUxNCJ9.pDp74rOcp3cGxDQn5VRbKdunMfFkVsGOsnd-3gIsoWw&s=72&u=ed22bcf1e0e4596dc13befb3a6c99294966c3d22&v=4" width="24" alt="Avatar of nobnak"/> nobnak
 			</a><br/>
 			Nakata Nobuyuki 
 		</td>
@@ -4506,8 +4506,34 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 	<tr>
 		<td>339</td>
 		<td>
+			<a target="_blank" href="https://github.com/LearningKijo">
+				<img src="https://private-avatars.githubusercontent.com/u/120234772?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA4NDAsIm5iZiI6MTczNDU2OTY0MCwicGF0aCI6Ii91LzEyMDIzNDc3MiJ9.-nVrD7OyTDKM4l5C5rkTv6s22YcRIxPoCCrCKtGyRCw&s=72&u=8aec9c33a2897574baa6bd74763aa3e2bccbe85c&v=4" width="24" alt="Avatar of LearningKijo"/> LearningKijo
+			</a><br/>
+			Kijo Ninja 
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/kj_ninja25">kj_ninja25</a></td>
+		<td>Japan  Switzerland</td>
+		<td>309</td>
+	</tr>
+	<tr>
+		<td>340</td>
+		<td>
+			<a target="_blank" href="https://github.com/mrdulin">
+				<img src="https://private-avatars.githubusercontent.com/u/17866683?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE0NDAsIm5iZiI6MTczNDU3MDI0MCwicGF0aCI6Ii91LzE3ODY2NjgzIn0.6bUapxsQ1q9bVSulf8KcgPbZg_wIlCRI4ed-aYYSDfc&s=72&u=b00755a4ec1666b3d57170e716e4c09e2bb39edd&v=4" width="24" alt="Avatar of mrdulin"/> mrdulin
+			</a><br/>
+			officialdulin
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Japan</td>
+		<td>309</td>
+	</tr>
+	<tr>
+		<td>341</td>
+		<td>
 			<a target="_blank" href="https://github.com/RINEARN">
-				<img src="https://private-avatars.githubusercontent.com/u/2651961?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3NjAsIm5iZiI6MTczNDQ2MDU2MCwicGF0aCI6Ii91LzI2NTE5NjEifQ.xT3mgTswi0_1YI6FG83TM3DeTW_omEu_Ob_hIFTaXcM&s=72&u=a53fdbd7b11d6a4cbd0a7101689145fe582cce07&v=4" width="24" alt="Avatar of RINEARN"/> RINEARN
+				<img src="https://private-avatars.githubusercontent.com/u/2651961?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1NjAsIm5iZiI6MTczNDU3MDM2MCwicGF0aCI6Ii91LzI2NTE5NjEifQ.B9k-JtVDjVXySbWIkQVHc7t7OtQzQwMyYt4vwm3I4Jo&s=72&u=a53fdbd7b11d6a4cbd0a7101689145fe582cce07&v=4" width="24" alt="Avatar of RINEARN"/> RINEARN
 			</a><br/>
 			RINEARN
 		</td>
@@ -4517,23 +4543,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>308</td>
 	</tr>
 	<tr>
-		<td>340</td>
-		<td>
-			<a target="_blank" href="https://github.com/LearningKijo">
-				<img src="https://private-avatars.githubusercontent.com/u/120234772?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEwNDAsIm5iZiI6MTczNDQ1OTg0MCwicGF0aCI6Ii91LzEyMDIzNDc3MiJ9.YpVJG16QQbptEjKw3NBZP382vyEIIB3O5-3eLSL2APQ&s=72&u=8aec9c33a2897574baa6bd74763aa3e2bccbe85c&v=4" width="24" alt="Avatar of LearningKijo"/> LearningKijo
-			</a><br/>
-			Kijo Ninja 
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/kj_ninja25">kj_ninja25</a></td>
-		<td>Japan  Switzerland</td>
-		<td>308</td>
-	</tr>
-	<tr>
-		<td>341</td>
+		<td>342</td>
 		<td>
 			<a target="_blank" href="https://github.com/gugod">
-				<img src="https://private-avatars.githubusercontent.com/u/4970?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE2NDAsIm5iZiI6MTczNDQ2MDQ0MCwicGF0aCI6Ii91LzQ5NzAifQ.8EhlJ4YPRVDj-YAEHA95IzTCDGy3Ug72YgcGaCmcycQ&s=72&v=4" width="24" alt="Avatar of gugod"/> gugod
+				<img src="https://private-avatars.githubusercontent.com/u/4970?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE0NDAsIm5iZiI6MTczNDU3MDI0MCwicGF0aCI6Ii91LzQ5NzAifQ.PouKK4Nrguo7Umvelmj1CWvSpdZ1pIzkMQmGzq37mmY&s=72&v=4" width="24" alt="Avatar of gugod"/> gugod
 			</a><br/>
 			Kangmin Liu
 		</td>
@@ -4543,10 +4556,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>306</td>
 	</tr>
 	<tr>
-		<td>342</td>
+		<td>343</td>
 		<td>
 			<a target="_blank" href="https://github.com/yuk1ty">
-				<img src="https://private-avatars.githubusercontent.com/u/24487281?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA5ODAsIm5iZiI6MTczNDQ1OTc4MCwicGF0aCI6Ii91LzI0NDg3MjgxIn0.cCirjwq50VqR3ptNQEipKxG4p2ffFlq8f8271aDnjQQ&s=72&u=1155b7d0cd854d4f60ecd6a69a74482315ff288e&v=4" width="24" alt="Avatar of yuk1ty"/> yuk1ty
+				<img src="https://private-avatars.githubusercontent.com/u/24487281?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA3ODAsIm5iZiI6MTczNDU2OTU4MCwicGF0aCI6Ii91LzI0NDg3MjgxIn0.nk6OvVGJVLcUQGxXgemg1qk7ztehxj7AsPJqDFK7Z7Q&s=72&u=1155b7d0cd854d4f60ecd6a69a74482315ff288e&v=4" width="24" alt="Avatar of yuk1ty"/> yuk1ty
 			</a><br/>
 			Yuki Toyoda
 		</td>
@@ -4556,23 +4569,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>306</td>
 	</tr>
 	<tr>
-		<td>343</td>
-		<td>
-			<a target="_blank" href="https://github.com/mrdulin">
-				<img src="https://private-avatars.githubusercontent.com/u/17866683?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE2NDAsIm5iZiI6MTczNDQ2MDQ0MCwicGF0aCI6Ii91LzE3ODY2NjgzIn0.om5UVWp05T56oh209WjrpgqIaN45JDU2wx_cv9kqSuw&s=72&u=b00755a4ec1666b3d57170e716e4c09e2bb39edd&v=4" width="24" alt="Avatar of mrdulin"/> mrdulin
-			</a><br/>
-			officialdulin
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Japan</td>
-		<td>306</td>
-	</tr>
-	<tr>
 		<td>344</td>
 		<td>
 			<a target="_blank" href="https://github.com/taiki45">
-				<img src="https://private-avatars.githubusercontent.com/u/1460043?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3MDAsIm5iZiI6MTczNDQ2MDUwMCwicGF0aCI6Ii91LzE0NjAwNDMifQ.i-K6rzE4B-EmnsnDYliEui66g5q51C-md6h-QOxGXFE&s=72&u=6b03adba0a31d4a6b20a90e1b4a839f7fd2a03a7&v=4" width="24" alt="Avatar of taiki45"/> taiki45
+				<img src="https://private-avatars.githubusercontent.com/u/1460043?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1MDAsIm5iZiI6MTczNDU3MDMwMCwicGF0aCI6Ii91LzE0NjAwNDMifQ.mUg-EIQzmaVSLaxdsOWvovF5JgaWsSt6s4u-jxGI-N8&s=72&u=6b03adba0a31d4a6b20a90e1b4a839f7fd2a03a7&v=4" width="24" alt="Avatar of taiki45"/> taiki45
 			</a><br/>
 			Taiki Ono
 		</td>
@@ -4585,7 +4585,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>345</td>
 		<td>
 			<a target="_blank" href="https://github.com/supermomonga">
-				<img src="https://private-avatars.githubusercontent.com/u/377137?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0NjAsIm5iZiI6MTczNDQ2MDI2MCwicGF0aCI6Ii91LzM3NzEzNyJ9.UkeVvjMxeu_NM1Eal0EHHFZPyZX7NdB7CVgp7xVlh2o&s=72&u=ef5fd613400b8c1f0f68f0b83a5aee830da17e01&v=4" width="24" alt="Avatar of supermomonga"/> supermomonga
+				<img src="https://private-avatars.githubusercontent.com/u/377137?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyNjAsIm5iZiI6MTczNDU3MDA2MCwicGF0aCI6Ii91LzM3NzEzNyJ9.orNiJ-MiQMaJkY6Dv6ZrnpU-fLPR1FiKQNxtGPhmAKo&s=72&u=ef5fd613400b8c1f0f68f0b83a5aee830da17e01&v=4" width="24" alt="Avatar of supermomonga"/> supermomonga
 			</a><br/>
 			supermomonga
 		</td>
@@ -4598,7 +4598,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>346</td>
 		<td>
 			<a target="_blank" href="https://github.com/t-matsudate">
-				<img src="https://private-avatars.githubusercontent.com/u/41981585?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1MjAsIm5iZiI6MTczNDQ2MDMyMCwicGF0aCI6Ii91LzQxOTgxNTg1In0.cBck9u4Mx7OjfWUtGxlcUwlfjDV4X9kgYiUeJw4Z4n8&s=72&u=ef98e3c61322e86c888d401758fb8d24542c4456&v=4" width="24" alt="Avatar of t-matsudate"/> t-matsudate
+				<img src="https://private-avatars.githubusercontent.com/u/41981585?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzMjAsIm5iZiI6MTczNDU3MDEyMCwicGF0aCI6Ii91LzQxOTgxNTg1In0.JLOz6O70_rZ_seuPghLy87aXKKMNcp8BllFZFS41Emo&s=72&u=ef98e3c61322e86c888d401758fb8d24542c4456&v=4" width="24" alt="Avatar of t-matsudate"/> t-matsudate
 			</a><br/>
 			 
 		</td>
@@ -4611,7 +4611,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>347</td>
 		<td>
 			<a target="_blank" href="https://github.com/willnet">
-				<img src="https://private-avatars.githubusercontent.com/u/82371?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExNjAsIm5iZiI6MTczNDQ1OTk2MCwicGF0aCI6Ii91LzgyMzcxIn0.it92wugVvMzPRRmy5Pq1oluGlWCF1zNipEGcnV5FZn0&s=72&v=4" width="24" alt="Avatar of willnet"/> willnet
+				<img src="https://private-avatars.githubusercontent.com/u/82371?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5NjAsIm5iZiI6MTczNDU2OTc2MCwicGF0aCI6Ii91LzgyMzcxIn0.RWHg1SLHvqI1BrPBOSKv0sURpaVrbgzywJgGrPEqK8o&s=72&v=4" width="24" alt="Avatar of willnet"/> willnet
 			</a><br/>
 			Shinichi Maeshima
 		</td>
@@ -4624,7 +4624,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>348</td>
 		<td>
 			<a target="_blank" href="https://github.com/heestand-xyz">
-				<img src="https://private-avatars.githubusercontent.com/u/7947442?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA5ODAsIm5iZiI6MTczNDQ1OTc4MCwicGF0aCI6Ii91Lzc5NDc0NDIifQ.anTXsLfs120IGDSf5wNbM-wBfwLI0LmtjRskmn_c5SM&s=72&u=dd6b0e96bbd4effbce9cfe319f8ce35c7a969210&v=4" width="24" alt="Avatar of heestand-xyz"/> heestand-xyz
+				<img src="https://private-avatars.githubusercontent.com/u/7947442?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA3ODAsIm5iZiI6MTczNDU2OTU4MCwicGF0aCI6Ii91Lzc5NDc0NDIifQ.Imqjcu7GSoZ8pADg7OqATdYgwg4DcG3akktOM-kU9qg&s=72&u=dd6b0e96bbd4effbce9cfe319f8ce35c7a969210&v=4" width="24" alt="Avatar of heestand-xyz"/> heestand-xyz
 			</a><br/>
 			Anton Heestand
 		</td>
@@ -4637,7 +4637,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>349</td>
 		<td>
 			<a target="_blank" href="https://github.com/matsui528">
-				<img src="https://private-avatars.githubusercontent.com/u/2842345?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0MDAsIm5iZiI6MTczNDQ2MDIwMCwicGF0aCI6Ii91LzI4NDIzNDUifQ.vDoBtmC83pesVscqxRD9BmDvC59Y6mCUhTLxCyxys3o&s=72&u=bbab2a77026d632da0b310023cc2490c074f01df&v=4" width="24" alt="Avatar of matsui528"/> matsui528
+				<img src="https://private-avatars.githubusercontent.com/u/2842345?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyMDAsIm5iZiI6MTczNDU3MDAwMCwicGF0aCI6Ii91LzI4NDIzNDUifQ.hZ_2TPDbLBIlIIqMOJT8bJ0EdgXB2piJAMsQEq4RCtY&s=72&u=bbab2a77026d632da0b310023cc2490c074f01df&v=4" width="24" alt="Avatar of matsui528"/> matsui528
 			</a><br/>
 			Yusuke Matsui
 		</td>
@@ -4649,8 +4649,21 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 	<tr>
 		<td>350</td>
 		<td>
+			<a target="_blank" href="https://github.com/hrsh7th">
+				<img src="https://private-avatars.githubusercontent.com/u/629908?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA1NDAsIm5iZiI6MTczNDU2OTM0MCwicGF0aCI6Ii91LzYyOTkwOCJ9.MbPbhcluJnUkFG443tCniBwSbtSB1y85RM7lnHpEVxk&s=72&u=16e9a323ecb07499f0b6fd601d46fafb4d3565b4&v=4" width="24" alt="Avatar of hrsh7th"/> hrsh7th
+			</a><br/>
+			hrsh7th
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/hrsh7th">hrsh7th</a></td>
+		<td>Fukuoka Japan</td>
+		<td>291</td>
+	</tr>
+	<tr>
+		<td>351</td>
+		<td>
 			<a target="_blank" href="https://github.com/tototoshi">
-				<img src="https://private-avatars.githubusercontent.com/u/264469?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE5NDAsIm5iZiI6MTczNDQ2MDc0MCwicGF0aCI6Ii91LzI2NDQ2OSJ9.vEbxse7k_QJG9KgQ3bgLP3suZyAQmfMNkZFN9kHzHfU&s=72&v=4" width="24" alt="Avatar of tototoshi"/> tototoshi
+				<img src="https://private-avatars.githubusercontent.com/u/264469?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE3NDAsIm5iZiI6MTczNDU3MDU0MCwicGF0aCI6Ii91LzI2NDQ2OSJ9.0MnC9a74q2h1sjErNocXmAqHIQK8nd40gLOAK1DKjvg&s=72&v=4" width="24" alt="Avatar of tototoshi"/> tototoshi
 			</a><br/>
 			Toshiyuki Takahashi
 		</td>
@@ -4660,23 +4673,36 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>291</td>
 	</tr>
 	<tr>
-		<td>351</td>
+		<td>352</td>
 		<td>
-			<a target="_blank" href="https://github.com/hrsh7th">
-				<img src="https://private-avatars.githubusercontent.com/u/629908?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA3NDAsIm5iZiI6MTczNDQ1OTU0MCwicGF0aCI6Ii91LzYyOTkwOCJ9.2zkK5T4mxri8Soxg-jYaa6RRC8AkFshLHiocpKTBXMw&s=72&u=16e9a323ecb07499f0b6fd601d46fafb4d3565b4&v=4" width="24" alt="Avatar of hrsh7th"/> hrsh7th
+			<a target="_blank" href="https://github.com/uchan-nos">
+				<img src="https://private-avatars.githubusercontent.com/u/1825663?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE0NDAsIm5iZiI6MTczNDU3MDI0MCwicGF0aCI6Ii91LzE4MjU2NjMifQ.qMEy8AO3UjBpBRTpHvZ8hYnGlfuUa9xlkLpIye5swas&s=72&u=fdef044ad0aec02313cc151636a301ad8d1d9155&v=4" width="24" alt="Avatar of uchan-nos"/> uchan-nos
 			</a><br/>
-			hrsh7th
+			Kota UCHIDA
 		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/hrsh7th">hrsh7th</a></td>
-		<td>Fukuoka Japan</td>
+		<td>Cybozu Labs Inc </td>
+		<td><a target="_blank" href="https://twitter.com/uchan_nos">uchan_nos</a></td>
+		<td>Tokyo</td>
 		<td>290</td>
 	</tr>
 	<tr>
-		<td>352</td>
+		<td>353</td>
+		<td>
+			<a target="_blank" href="https://github.com/micnncim">
+				<img src="https://private-avatars.githubusercontent.com/u/21333876?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyNjAsIm5iZiI6MTczNDU3MDA2MCwicGF0aCI6Ii91LzIxMzMzODc2In0.QoXxFZJWkYqOkZWzv3SZ8L2If6K7Wh5XRVcpbqBPJOw&s=72&u=60396941fae4b274d90db1aafa47fd462ef9ad4d&v=4" width="24" alt="Avatar of micnncim"/> micnncim
+			</a><br/>
+			micnncim
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/micnncim">micnncim</a></td>
+		<td>Tokyo Japan</td>
+		<td>290</td>
+	</tr>
+	<tr>
+		<td>354</td>
 		<td>
 			<a target="_blank" href="https://github.com/uiryuu">
-				<img src="https://private-avatars.githubusercontent.com/u/20237141?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0NjAsIm5iZiI6MTczNDQ2MDI2MCwicGF0aCI6Ii91LzIwMjM3MTQxIn0.OwQCnGxg_iUkPKJ0f2F11yK0vLMSvN0q2EE71iYT2Lk&s=72&u=ef56f70497484e2d7a1a82b18fd3e7809faae963&v=4" width="24" alt="Avatar of uiryuu"/> uiryuu
+				<img src="https://private-avatars.githubusercontent.com/u/20237141?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyNjAsIm5iZiI6MTczNDU3MDA2MCwicGF0aCI6Ii91LzIwMjM3MTQxIn0.G33viTA07DHsFpy9btBRPoC9GBksO-DnTxmuaqz99NE&s=72&u=ef56f70497484e2d7a1a82b18fd3e7809faae963&v=4" width="24" alt="Avatar of uiryuu"/> uiryuu
 			</a><br/>
 			Yuze Jiang
 		</td>
@@ -4686,23 +4712,36 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>290</td>
 	</tr>
 	<tr>
-		<td>353</td>
+		<td>355</td>
 		<td>
-			<a target="_blank" href="https://github.com/micnncim">
-				<img src="https://private-avatars.githubusercontent.com/u/21333876?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0NjAsIm5iZiI6MTczNDQ2MDI2MCwicGF0aCI6Ii91LzIxMzMzODc2In0.u1wrnUwWvupECJc8bhVMROjyErE_jfj0HDHg02bcEh8&s=72&u=60396941fae4b274d90db1aafa47fd462ef9ad4d&v=4" width="24" alt="Avatar of micnncim"/> micnncim
+			<a target="_blank" href="https://github.com/akueisara">
+				<img src="https://private-avatars.githubusercontent.com/u/7802052?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzExNDAsIm5iZiI6MTczNDU2OTk0MCwicGF0aCI6Ii91Lzc4MDIwNTIifQ.sQlvxc5pfrAUX1e1Q7aLoZc-OyURPEgHZ8fVABdQpwQ&s=72&u=c7fac4f0e0d94daf6df883b580011e9822117404&v=4" width="24" alt="Avatar of akueisara"/> akueisara
 			</a><br/>
-			micnncim
+			KueiJung Hu
 		</td>
 		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/micnncim">micnncim</a></td>
+		<td><a target="_blank" href="https://twitter.com/akueisara">akueisara</a></td>
 		<td>Tokyo Japan</td>
-		<td>289</td>
+		<td>287</td>
 	</tr>
 	<tr>
-		<td>354</td>
+		<td>356</td>
+		<td>
+			<a target="_blank" href="https://github.com/shibayan">
+				<img src="https://private-avatars.githubusercontent.com/u/1356444?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzMjAsIm5iZiI6MTczNDU3MDEyMCwicGF0aCI6Ii91LzEzNTY0NDQifQ.cm5u1JUFe_FBDuX4aMMS6haMavEmCGqBQ820JkxKT2U&s=72&v=4" width="24" alt="Avatar of shibayan"/> shibayan
+			</a><br/>
+			Tatsuro Shibamura
+		</td>
+		<td>Freelance </td>
+		<td><a target="_blank" href="https://twitter.com/shibayan">shibayan</a></td>
+		<td>Tokyo Japan</td>
+		<td>287</td>
+	</tr>
+	<tr>
+		<td>357</td>
 		<td>
 			<a target="_blank" href="https://github.com/ufcpp">
-				<img src="https://private-avatars.githubusercontent.com/u/3760955?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1MjAsIm5iZiI6MTczNDQ2MDMyMCwicGF0aCI6Ii91LzM3NjA5NTUifQ.nlFpYD7S58KvT89yuXQw4jgda8YIdCkZItIXnG2c50I&s=72&u=ae145e8a6dc4cce08a32a893fde28e8d4a04a89d&v=4" width="24" alt="Avatar of ufcpp"/> ufcpp
+				<img src="https://private-avatars.githubusercontent.com/u/3760955?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzMjAsIm5iZiI6MTczNDU3MDEyMCwicGF0aCI6Ii91LzM3NjA5NTUifQ.S1CFn306_Seja9PwclMYGH_gSN__JZPHCp21igp84QU&s=72&u=ae145e8a6dc4cce08a32a893fde28e8d4a04a89d&v=4" width="24" alt="Avatar of ufcpp"/> ufcpp
 			</a><br/>
 			Nobuyuki Iwanaga
 		</td>
@@ -4712,10 +4751,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>287</td>
 	</tr>
 	<tr>
-		<td>355</td>
+		<td>358</td>
 		<td>
 			<a target="_blank" href="https://github.com/marocchino">
-				<img src="https://private-avatars.githubusercontent.com/u/128431?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3NjAsIm5iZiI6MTczNDQ2MDU2MCwicGF0aCI6Ii91LzEyODQzMSJ9.M7Q1GzCtJtxATrvmFMRP7rDLcIw-mEXTs-MUszWK1Lk&s=72&v=4" width="24" alt="Avatar of marocchino"/> marocchino
+				<img src="https://private-avatars.githubusercontent.com/u/128431?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1NjAsIm5iZiI6MTczNDU3MDM2MCwicGF0aCI6Ii91LzEyODQzMSJ9.LXOqPVlh7PaOH2pVmUsO6L2BZtlqriq_2XH-i-W8DSQ&s=72&v=4" width="24" alt="Avatar of marocchino"/> marocchino
 			</a><br/>
 			No Name
 		</td>
@@ -4725,23 +4764,23 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>286</td>
 	</tr>
 	<tr>
-		<td>356</td>
+		<td>359</td>
 		<td>
-			<a target="_blank" href="https://github.com/shibayan">
-				<img src="https://private-avatars.githubusercontent.com/u/1356444?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1MjAsIm5iZiI6MTczNDQ2MDMyMCwicGF0aCI6Ii91LzEzNTY0NDQifQ.POEiuyHgV09eazhNM3ByPv3AkkVC7TbrjD5EB4V9Q3w&s=72&v=4" width="24" alt="Avatar of shibayan"/> shibayan
+			<a target="_blank" href="https://github.com/k-okada">
+				<img src="https://private-avatars.githubusercontent.com/u/493276?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1MDAsIm5iZiI6MTczNDU3MDMwMCwicGF0aCI6Ii91LzQ5MzI3NiJ9.ZfaCWT_sc2rG6w9NXqjhU-XwOLu4REF0Wb9TH0Po40A&s=72&v=4" width="24" alt="Avatar of k-okada"/> k-okada
 			</a><br/>
-			Tatsuro Shibamura
+			Kei Okada
 		</td>
-		<td>Freelance </td>
-		<td><a target="_blank" href="https://twitter.com/shibayan">shibayan</a></td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
 		<td>Tokyo Japan</td>
 		<td>285</td>
 	</tr>
 	<tr>
-		<td>357</td>
+		<td>360</td>
 		<td>
 			<a target="_blank" href="https://github.com/COx2">
-				<img src="https://private-avatars.githubusercontent.com/u/2960956?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1ODAsIm5iZiI6MTczNDQ2MDM4MCwicGF0aCI6Ii91LzI5NjA5NTYifQ.45vSwcW2MPrm9FOe4-xLDfNo_IyE_IB7vNQibgsvins&s=72&v=4" width="24" alt="Avatar of COx2"/> COx2
+				<img src="https://private-avatars.githubusercontent.com/u/2960956?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzODAsIm5iZiI6MTczNDU3MDE4MCwicGF0aCI6Ii91LzI5NjA5NTYifQ.sFz9O0gy0nFQGvdGaV5jVu_rGyBTWMnfAa5RbjC253U&s=72&v=4" width="24" alt="Avatar of COx2"/> COx2
 			</a><br/>
 			Tatsuya Shiozawa
 		</td>
@@ -4751,10 +4790,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>285</td>
 	</tr>
 	<tr>
-		<td>358</td>
+		<td>361</td>
 		<td>
 			<a target="_blank" href="https://github.com/uhyo">
-				<img src="https://private-avatars.githubusercontent.com/u/748348?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA4NjAsIm5iZiI6MTczNDQ1OTY2MCwicGF0aCI6Ii91Lzc0ODM0OCJ9.eKo53tWbajAdlZV-kLbf9XfDEoq4MvX70HEvYoQG2_k&s=72&u=f149447bf63a3a5907f8e6120cc25854bf8065f1&v=4" width="24" alt="Avatar of uhyo"/> uhyo
+				<img src="https://private-avatars.githubusercontent.com/u/748348?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA2NjAsIm5iZiI6MTczNDU2OTQ2MCwicGF0aCI6Ii91Lzc0ODM0OCJ9.fYyIKs1LDN5_yhZ0WUl9QMF1I2s-CnY2HFNZYKewh9w&s=72&u=f149447bf63a3a5907f8e6120cc25854bf8065f1&v=4" width="24" alt="Avatar of uhyo"/> uhyo
 			</a><br/>
 			uhyo
 		</td>
@@ -4764,23 +4803,23 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>284</td>
 	</tr>
 	<tr>
-		<td>359</td>
+		<td>362</td>
 		<td>
-			<a target="_blank" href="https://github.com/akueisara">
-				<img src="https://private-avatars.githubusercontent.com/u/7802052?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEzNDAsIm5iZiI6MTczNDQ2MDE0MCwicGF0aCI6Ii91Lzc4MDIwNTIifQ.8rUMV-1_mms8aXq0WS8txYLexwUgCJaTNs4pukTPaJY&s=72&u=c7fac4f0e0d94daf6df883b580011e9822117404&v=4" width="24" alt="Avatar of akueisara"/> akueisara
+			<a target="_blank" href="https://github.com/kentaro">
+				<img src="https://private-avatars.githubusercontent.com/u/3458?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzMjAsIm5iZiI6MTczNDU3MDEyMCwicGF0aCI6Ii91LzM0NTgifQ.Z0BHOGmj55bjPfGG5GIy8Z-NmijfNZX5U7Tx-_IjHIY&s=72&v=4" width="24" alt="Avatar of kentaro"/> kentaro
 			</a><br/>
-			KueiJung Hu
+			Kentaro Kuribayashi
 		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/akueisara">akueisara</a></td>
+		<td>Gmo Pepabo Inc </td>
+		<td><a target="_blank" href="https://twitter.com/kentaro">kentaro</a></td>
 		<td>Tokyo Japan</td>
-		<td>284</td>
+		<td>283</td>
 	</tr>
 	<tr>
-		<td>360</td>
+		<td>363</td>
 		<td>
 			<a target="_blank" href="https://github.com/kyamagu">
-				<img src="https://private-avatars.githubusercontent.com/u/1190780?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0MDAsIm5iZiI6MTczNDQ2MDIwMCwicGF0aCI6Ii91LzExOTA3ODAifQ._u-qlJHtyCEEHEmcxdSlrl70MAhTin8X4l28vGhvbYU&s=72&u=36adbe8e27260e478177544e1283695f87515d81&v=4" width="24" alt="Avatar of kyamagu"/> kyamagu
+				<img src="https://private-avatars.githubusercontent.com/u/1190780?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyMDAsIm5iZiI6MTczNDU3MDAwMCwicGF0aCI6Ii91LzExOTA3ODAifQ.fU0jGYOmmWWuE5JsiWj2obrRgaDpra4UCx1QPXqN8XU&s=72&u=36adbe8e27260e478177544e1283695f87515d81&v=4" width="24" alt="Avatar of kyamagu"/> kyamagu
 			</a><br/>
 			Kota Yamaguchi
 		</td>
@@ -4790,10 +4829,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>283</td>
 	</tr>
 	<tr>
-		<td>361</td>
+		<td>364</td>
 		<td>
 			<a target="_blank" href="https://github.com/tenntenn">
-				<img src="https://private-avatars.githubusercontent.com/u/796820?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0NjAsIm5iZiI6MTczNDQ2MDI2MCwicGF0aCI6Ii91Lzc5NjgyMCJ9.w_CY57pkZwCYofEMRpb_ewgBRU_7HsRgXSSe1TCtlEE&s=72&u=28cbde56ef6097d91372c301c53f7565d23dc36c&v=4" width="24" alt="Avatar of tenntenn"/> tenntenn
+				<img src="https://private-avatars.githubusercontent.com/u/796820?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyNjAsIm5iZiI6MTczNDU3MDA2MCwicGF0aCI6Ii91Lzc5NjgyMCJ9.BOkTGNFiHiBFwi_hiQijfcps05XB9n5H6g2Quj5ulZA&s=72&u=28cbde56ef6097d91372c301c53f7565d23dc36c&v=4" width="24" alt="Avatar of tenntenn"/> tenntenn
 			</a><br/>
 			Takuya Ueda
 		</td>
@@ -4803,10 +4842,23 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>282</td>
 	</tr>
 	<tr>
-		<td>362</td>
+		<td>365</td>
+		<td>
+			<a target="_blank" href="https://github.com/TakahikoKawasaki">
+				<img src="https://private-avatars.githubusercontent.com/u/1641166?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE2MjAsIm5iZiI6MTczNDU3MDQyMCwicGF0aCI6Ii91LzE2NDExNjYifQ.9-QMFcPJJBTQEeetVEjkdXLYcW2fWnbrwv_h30XCb_8&s=72&u=e1195a0919136c416d4b10586fe2e575bce2d6df&v=4" width="24" alt="Avatar of TakahikoKawasaki"/> TakahikoKawasaki
+			</a><br/>
+			Takahiko Kawasaki
+		</td>
+		<td>Authlete Inc </td>
+		<td>No Twitter Username</td>
+		<td>Japan</td>
+		<td>282</td>
+	</tr>
+	<tr>
+		<td>366</td>
 		<td>
 			<a target="_blank" href="https://github.com/dvcrn">
-				<img src="https://private-avatars.githubusercontent.com/u/688326?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3NjAsIm5iZiI6MTczNDQ2MDU2MCwicGF0aCI6Ii91LzY4ODMyNiJ9.NDPh255wstQ0Gel4X3j8QiYEpswB5aJzgElhjSVQQAY&s=72&u=455a7742d956a686fbdeac70fa7e749896e87483&v=4" width="24" alt="Avatar of dvcrn"/> dvcrn
+				<img src="https://private-avatars.githubusercontent.com/u/688326?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1NjAsIm5iZiI6MTczNDU3MDM2MCwicGF0aCI6Ii91LzY4ODMyNiJ9.XD_n1uFIbpJ87c-E24CObySXLG2ZZSqMcQ0Pc-ugsM0&s=72&u=455a7742d956a686fbdeac70fa7e749896e87483&v=4" width="24" alt="Avatar of dvcrn"/> dvcrn
 			</a><br/>
 			David
 		</td>
@@ -4816,10 +4868,23 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>281</td>
 	</tr>
 	<tr>
-		<td>363</td>
+		<td>367</td>
+		<td>
+			<a target="_blank" href="https://github.com/kenkoooo">
+				<img src="https://private-avatars.githubusercontent.com/u/9150073?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzExNDAsIm5iZiI6MTczNDU2OTk0MCwicGF0aCI6Ii91LzkxNTAwNzMifQ.ekhnxhedtKzHsKOeS7QirrdwFNtjM1Asi40jRRk8Pho&s=72&u=d7e5195a45b978f36522d8b368e28e3509f197d6&v=4" width="24" alt="Avatar of kenkoooo"/> kenkoooo
+			</a><br/>
+			kenkoooo
+		</td>
+		<td>@estieinc </td>
+		<td><a target="_blank" href="https://twitter.com/kenkoooo">kenkoooo</a></td>
+		<td>Japan</td>
+		<td>277</td>
+	</tr>
+	<tr>
+		<td>368</td>
 		<td>
 			<a target="_blank" href="https://github.com/kmizu">
-				<img src="https://private-avatars.githubusercontent.com/u/97326?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyMjAsIm5iZiI6MTczNDQ2MDAyMCwicGF0aCI6Ii91Lzk3MzI2In0.qd4pzvXKZXAFTX-dk1fnTCRnnNgF1xqOPsf6EWCY7KA&s=72&v=4" width="24" alt="Avatar of kmizu"/> kmizu
+				<img src="https://private-avatars.githubusercontent.com/u/97326?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwMjAsIm5iZiI6MTczNDU2OTgyMCwicGF0aCI6Ii91Lzk3MzI2In0.B6z-6xKe1dp0TdOSk_y7iW09T38ik1xBELukCjoha7o&s=72&v=4" width="24" alt="Avatar of kmizu"/> kmizu
 			</a><br/>
 			Kota Mizushima
 		</td>
@@ -4829,10 +4894,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>277</td>
 	</tr>
 	<tr>
-		<td>364</td>
+		<td>369</td>
 		<td>
 			<a target="_blank" href="https://github.com/gfx">
-				<img src="https://private-avatars.githubusercontent.com/u/101800?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEwNDAsIm5iZiI6MTczNDQ1OTg0MCwicGF0aCI6Ii91LzEwMTgwMCJ9.6TJ-cGvKrwzsDDp6BWEZ2A0ZWnlKjE8Vq51B-DwAPAw&s=72&u=8ab706dbc79a2b98170b990ec29cae90d5c178db&v=4" width="24" alt="Avatar of gfx"/> gfx
+				<img src="https://private-avatars.githubusercontent.com/u/101800?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA4NDAsIm5iZiI6MTczNDU2OTY0MCwicGF0aCI6Ii91LzEwMTgwMCJ9.ljW451h3DhZDIAGjTiOTTccgg8AZRhBWlrieHG-ruNk&s=72&u=8ab706dbc79a2b98170b990ec29cae90d5c178db&v=4" width="24" alt="Avatar of gfx"/> gfx
 			</a><br/>
 			FUJI Goro
 		</td>
@@ -4842,10 +4907,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>276</td>
 	</tr>
 	<tr>
-		<td>365</td>
+		<td>370</td>
 		<td>
 			<a target="_blank" href="https://github.com/takano32">
-				<img src="https://private-avatars.githubusercontent.com/u/16088?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExMDAsIm5iZiI6MTczNDQ1OTkwMCwicGF0aCI6Ii91LzE2MDg4In0.HmVF2nYDkAl2UoZxzQhCVQ9nTP7bTLr8ZZT47njO0Zc&s=72&u=ef10fbdc7abdb08dc18b4d5481474324a118bbc2&v=4" width="24" alt="Avatar of takano32"/> takano32
+				<img src="https://private-avatars.githubusercontent.com/u/16088?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5MDAsIm5iZiI6MTczNDU2OTcwMCwicGF0aCI6Ii91LzE2MDg4In0.bDkxBZFkxixnIB2nxjqh_DH8xrczpZevu1awTJKaj44&s=72&u=ef10fbdc7abdb08dc18b4d5481474324a118bbc2&v=4" width="24" alt="Avatar of takano32"/> takano32
 			</a><br/>
 			TAKANO Mitsuhiro
 		</td>
@@ -4855,62 +4920,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>276</td>
 	</tr>
 	<tr>
-		<td>366</td>
-		<td>
-			<a target="_blank" href="https://github.com/k-okada">
-				<img src="https://private-avatars.githubusercontent.com/u/493276?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3MDAsIm5iZiI6MTczNDQ2MDUwMCwicGF0aCI6Ii91LzQ5MzI3NiJ9.6e7wducdgZQmcbrfjRjGcn27bTgcYtaz2apBh6Ay7fY&s=72&v=4" width="24" alt="Avatar of k-okada"/> k-okada
-			</a><br/>
-			Kei Okada
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Tokyo Japan</td>
-		<td>276</td>
-	</tr>
-	<tr>
-		<td>367</td>
-		<td>
-			<a target="_blank" href="https://github.com/TakahikoKawasaki">
-				<img src="https://private-avatars.githubusercontent.com/u/1641166?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE4MjAsIm5iZiI6MTczNDQ2MDYyMCwicGF0aCI6Ii91LzE2NDExNjYifQ.4dlkkQSrenHK--9634S4p1y160DWI3B8K4s3NDQ9oZM&s=72&u=e1195a0919136c416d4b10586fe2e575bce2d6df&v=4" width="24" alt="Avatar of TakahikoKawasaki"/> TakahikoKawasaki
-			</a><br/>
-			Takahiko Kawasaki
-		</td>
-		<td>Authlete Inc </td>
-		<td>No Twitter Username</td>
-		<td>Japan</td>
-		<td>275</td>
-	</tr>
-	<tr>
-		<td>368</td>
-		<td>
-			<a target="_blank" href="https://github.com/kenkoooo">
-				<img src="https://private-avatars.githubusercontent.com/u/9150073?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEzNDAsIm5iZiI6MTczNDQ2MDE0MCwicGF0aCI6Ii91LzkxNTAwNzMifQ.09WQzsfDcw9USlokEtFjnLEmjNla4XRg68GaOt8uSj4&s=72&u=d7e5195a45b978f36522d8b368e28e3509f197d6&v=4" width="24" alt="Avatar of kenkoooo"/> kenkoooo
-			</a><br/>
-			kenkoooo
-		</td>
-		<td>@estieinc </td>
-		<td><a target="_blank" href="https://twitter.com/kenkoooo">kenkoooo</a></td>
-		<td>Japan</td>
-		<td>274</td>
-	</tr>
-	<tr>
-		<td>369</td>
-		<td>
-			<a target="_blank" href="https://github.com/uchan-nos">
-				<img src="https://private-avatars.githubusercontent.com/u/1825663?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE2NDAsIm5iZiI6MTczNDQ2MDQ0MCwicGF0aCI6Ii91LzE4MjU2NjMifQ.th_cUiBOdgFkof1hRreZqdiYEGgg0ngwuiaGbPgp-lU&s=72&u=fdef044ad0aec02313cc151636a301ad8d1d9155&v=4" width="24" alt="Avatar of uchan-nos"/> uchan-nos
-			</a><br/>
-			Kota UCHIDA
-		</td>
-		<td>Cybozu Labs Inc </td>
-		<td><a target="_blank" href="https://twitter.com/uchan_nos">uchan_nos</a></td>
-		<td>Tokyo</td>
-		<td>272</td>
-	</tr>
-	<tr>
-		<td>370</td>
+		<td>371</td>
 		<td>
 			<a target="_blank" href="https://github.com/takuya-takeuchi">
-				<img src="https://private-avatars.githubusercontent.com/u/6241854?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyODAsIm5iZiI6MTczNDQ2MDA4MCwicGF0aCI6Ii91LzYyNDE4NTQifQ.I4NFK04sYbqaytQ6Zc8QQpu7YFk6vzNWpNJyRa9vy-w&s=72&u=3750aced9019f6083a8c2cd9492e432dd9676601&v=4" width="24" alt="Avatar of takuya-takeuchi"/> takuya-takeuchi
+				<img src="https://private-avatars.githubusercontent.com/u/6241854?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwODAsIm5iZiI6MTczNDU2OTg4MCwicGF0aCI6Ii91LzYyNDE4NTQifQ.H0KNpwpWxV_sR9CYTT1c8g4_mRs5oJuO5RVzxu71KsA&s=72&u=3750aced9019f6083a8c2cd9492e432dd9676601&v=4" width="24" alt="Avatar of takuya-takeuchi"/> takuya-takeuchi
 			</a><br/>
 			Takuya Takeuchi
 		</td>
@@ -4920,23 +4933,23 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>272</td>
 	</tr>
 	<tr>
-		<td>371</td>
+		<td>372</td>
 		<td>
 			<a target="_blank" href="https://github.com/aliceinwire">
-				<img src="https://private-avatars.githubusercontent.com/u/107572?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1ODAsIm5iZiI6MTczNDQ2MDM4MCwicGF0aCI6Ii91LzEwNzU3MiJ9.C6K0VRCLOzaYkJNoZ8PWPCmlrksPUmSWvRq2fwOhlH8&s=72&u=13dac49256936f619116e94cb158f9d24a655385&v=4" width="24" alt="Avatar of aliceinwire"/> aliceinwire
+				<img src="https://private-avatars.githubusercontent.com/u/107572?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzODAsIm5iZiI6MTczNDU3MDE4MCwicGF0aCI6Ii91LzEwNzU3MiJ9.oledfrK7hP_6QQ1MZzPZlR45iQ17WtoUvxhfSBM5Odk&s=72&u=13dac49256936f619116e94cb158f9d24a655385&v=4" width="24" alt="Avatar of aliceinwire"/> aliceinwire
 			</a><br/>
 			Arisu Tachibana
 		</td>
 		<td>@miraclelinux </td>
 		<td><a target="_blank" href="https://twitter.com/arisu_yamikawa">arisu_yamikawa</a></td>
 		<td>TokyoJapan</td>
-		<td>270</td>
+		<td>271</td>
 	</tr>
 	<tr>
-		<td>372</td>
+		<td>373</td>
 		<td>
 			<a target="_blank" href="https://github.com/seanchas116">
-				<img src="https://private-avatars.githubusercontent.com/u/1025246?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0MDAsIm5iZiI6MTczNDQ2MDIwMCwicGF0aCI6Ii91LzEwMjUyNDYifQ.rO_zDF9DLesyDAckbGKLSz17UJwIoGl1pbtPLj1hZCs&s=72&u=b8136ded38ad018266e08d21cb31feeaa78443b4&v=4" width="24" alt="Avatar of seanchas116"/> seanchas116
+				<img src="https://private-avatars.githubusercontent.com/u/1025246?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyMDAsIm5iZiI6MTczNDU3MDAwMCwicGF0aCI6Ii91LzEwMjUyNDYifQ.npEBIyqsOE-FRCP_f6tkOwxxuYUML5DKA031zaB3WHQ&s=72&u=b8136ded38ad018266e08d21cb31feeaa78443b4&v=4" width="24" alt="Avatar of seanchas116"/> seanchas116
 			</a><br/>
 			Ryohei Ikegami
 		</td>
@@ -4946,23 +4959,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>270</td>
 	</tr>
 	<tr>
-		<td>373</td>
-		<td>
-			<a target="_blank" href="https://github.com/kentaro">
-				<img src="https://private-avatars.githubusercontent.com/u/3458?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1MjAsIm5iZiI6MTczNDQ2MDMyMCwicGF0aCI6Ii91LzM0NTgifQ.koLfMrW2rFUe5tOwuTvbERzVG7tNaU3Wp_DsZPTjKr8&s=72&v=4" width="24" alt="Avatar of kentaro"/> kentaro
-			</a><br/>
-			Kentaro Kuribayashi
-		</td>
-		<td>Gmo Pepabo Inc </td>
-		<td><a target="_blank" href="https://twitter.com/kentaro">kentaro</a></td>
-		<td>Tokyo Japan</td>
-		<td>268</td>
-	</tr>
-	<tr>
 		<td>374</td>
 		<td>
 			<a target="_blank" href="https://github.com/ibaiGorordo">
-				<img src="https://private-avatars.githubusercontent.com/u/43162939?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0MDAsIm5iZiI6MTczNDQ2MDIwMCwicGF0aCI6Ii91LzQzMTYyOTM5In0.tNSXig84OK-0V9gvA2g_1DqSWAdrp98GoFDxCtqoke8&s=72&u=a667148592f3225a21d113634ae91a4e348f13b1&v=4" width="24" alt="Avatar of ibaiGorordo"/> ibaiGorordo
+				<img src="https://private-avatars.githubusercontent.com/u/43162939?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyMDAsIm5iZiI6MTczNDU3MDAwMCwicGF0aCI6Ii91LzQzMTYyOTM5In0.7ZAc9XVMaxuVriRgs4iISTmPnaj9VQkzTDS5xyVf1Nk&s=72&u=a667148592f3225a21d113634ae91a4e348f13b1&v=4" width="24" alt="Avatar of ibaiGorordo"/> ibaiGorordo
 			</a><br/>
 			Ibai Gorordo
 		</td>
@@ -4974,8 +4974,21 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 	<tr>
 		<td>375</td>
 		<td>
+			<a target="_blank" href="https://github.com/toptal0212">
+				<img src="https://private-avatars.githubusercontent.com/u/125794875?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE2MjAsIm5iZiI6MTczNDU3MDQyMCwicGF0aCI6Ii91LzEyNTc5NDg3NSJ9.P6CbjhRq2p72CKgznT0F7rk-AQcogp5sA1rNYrqU6T0&s=72&u=90b0618868284e7d3443d2888e271d4c8f640c6a&v=4" width="24" alt="Avatar of toptal0212"/> toptal0212
+			</a><br/>
+			ToptalDev
+		</td>
+		<td>Complere Inc </td>
+		<td>No Twitter Username</td>
+		<td>Japan</td>
+		<td>265</td>
+	</tr>
+	<tr>
+		<td>376</td>
+		<td>
 			<a target="_blank" href="https://github.com/norio-nomura">
-				<img src="https://private-avatars.githubusercontent.com/u/33430?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE2NDAsIm5iZiI6MTczNDQ2MDQ0MCwicGF0aCI6Ii91LzMzNDMwIn0.57gnq2Aeo2tLGi6Vjrrgs9MTBuPTn9Wr7kSFc23_CPg&s=72&v=4" width="24" alt="Avatar of norio-nomura"/> norio-nomura
+				<img src="https://private-avatars.githubusercontent.com/u/33430?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE0NDAsIm5iZiI6MTczNDU3MDI0MCwicGF0aCI6Ii91LzMzNDMwIn0.YXeU99L78njB_4KccnfJo_0s9be08hxw5ddsOYTdbHc&s=72&v=4" width="24" alt="Avatar of norio-nomura"/> norio-nomura
 			</a><br/>
 			Norio Nomura
 		</td>
@@ -4985,23 +4998,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>265</td>
 	</tr>
 	<tr>
-		<td>376</td>
-		<td>
-			<a target="_blank" href="https://github.com/toptal0212">
-				<img src="https://private-avatars.githubusercontent.com/u/125794875?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE4MjAsIm5iZiI6MTczNDQ2MDYyMCwicGF0aCI6Ii91LzEyNTc5NDg3NSJ9.nax4Rl1qIVTcsG4OGEpEiN_t_ZawE7JfhMxQPQKUNXE&s=72&u=90b0618868284e7d3443d2888e271d4c8f640c6a&v=4" width="24" alt="Avatar of toptal0212"/> toptal0212
-			</a><br/>
-			ToptalDev
-		</td>
-		<td>Complere Inc </td>
-		<td>No Twitter Username</td>
-		<td>Japan</td>
-		<td>264</td>
-	</tr>
-	<tr>
 		<td>377</td>
 		<td>
 			<a target="_blank" href="https://github.com/ariaghora">
-				<img src="https://private-avatars.githubusercontent.com/u/2718640?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3NjAsIm5iZiI6MTczNDQ2MDU2MCwicGF0aCI6Ii91LzI3MTg2NDAifQ.M2yFw9RLWr5YjVANe1dX099fWVXWOi1DvGVdOzVkFGk&s=72&u=4a2076d02551fcc470b179cd59be6e9b82a22ef0&v=4" width="24" alt="Avatar of ariaghora"/> ariaghora
+				<img src="https://private-avatars.githubusercontent.com/u/2718640?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1NjAsIm5iZiI6MTczNDU3MDM2MCwicGF0aCI6Ii91LzI3MTg2NDAifQ.z1PkSpmwyTK2Zrc_JSicqLpj85dQhV7jv-kmPZAPPG8&s=72&u=4a2076d02551fcc470b179cd59be6e9b82a22ef0&v=4" width="24" alt="Avatar of ariaghora"/> ariaghora
 			</a><br/>
 			Aria Ghora Prabono
 		</td>
@@ -5014,7 +5014,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>378</td>
 		<td>
 			<a target="_blank" href="https://github.com/tado">
-				<img src="https://private-avatars.githubusercontent.com/u/363294?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0MDAsIm5iZiI6MTczNDQ2MDIwMCwicGF0aCI6Ii91LzM2MzI5NCJ9.cmpW9IMBo9M4aYK3G8O7C4cMvSn2pWLWFNiPn4-6xWY&s=72&v=4" width="24" alt="Avatar of tado"/> tado
+				<img src="https://private-avatars.githubusercontent.com/u/363294?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyMDAsIm5iZiI6MTczNDU3MDAwMCwicGF0aCI6Ii91LzM2MzI5NCJ9.REWIZEVkqPKf9FUiaFQaqZIFdRJIygz2OPQqjmd42MA&s=72&v=4" width="24" alt="Avatar of tado"/> tado
 			</a><br/>
 			Atsushi Tadokoro
 		</td>
@@ -5027,7 +5027,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>379</td>
 		<td>
 			<a target="_blank" href="https://github.com/GitHub30">
-				<img src="https://private-avatars.githubusercontent.com/u/12811398?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1ODAsIm5iZiI6MTczNDQ2MDM4MCwicGF0aCI6Ii91LzEyODExMzk4In0.HpknAkPpH2-v0j9SvAit32vzkpDGPBXcnyADsMH6cjA&s=72&u=af3b9bf5569526764fafbb568b00ca6e688a322f&v=4" width="24" alt="Avatar of GitHub30"/> GitHub30
+				<img src="https://private-avatars.githubusercontent.com/u/12811398?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzODAsIm5iZiI6MTczNDU3MDE4MCwicGF0aCI6Ii91LzEyODExMzk4In0.efIPUhzOr5bZlO6kbFrURWXFR_ck2egRvFpkgqDNiDY&s=72&u=af3b9bf5569526764fafbb568b00ca6e688a322f&v=4" width="24" alt="Avatar of GitHub30"/> GitHub30
 			</a><br/>
 			No Name
 		</td>
@@ -5040,7 +5040,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>380</td>
 		<td>
 			<a target="_blank" href="https://github.com/joker1007">
-				<img src="https://private-avatars.githubusercontent.com/u/116996?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE4MjAsIm5iZiI6MTczNDQ2MDYyMCwicGF0aCI6Ii91LzExNjk5NiJ9.KJl5PVz31YnarpnTmtmBEj3Y1KMzJk-WP5ZkGJvE_SM&s=72&v=4" width="24" alt="Avatar of joker1007"/> joker1007
+				<img src="https://private-avatars.githubusercontent.com/u/116996?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA3MjAsIm5iZiI6MTczNDU2OTUyMCwicGF0aCI6Ii91LzExNjk5NiJ9.stnTUkxvSPJPhYcDuJSXpzkOr6N_i2iewgp8U1SkW_8&s=72&v=4" width="24" alt="Avatar of joker1007"/> joker1007
 			</a><br/>
 			Tomohiro Hashidate
 		</td>
@@ -5053,7 +5053,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>381</td>
 		<td>
 			<a target="_blank" href="https://github.com/AdiChat">
-				<img src="https://private-avatars.githubusercontent.com/u/10634210?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA2ODAsIm5iZiI6MTczNDQ1OTQ4MCwicGF0aCI6Ii91LzEwNjM0MjEwIn0.7EcxaXH_EyoTIh-2cS_OQcxYY8HksttqgHPp-ex3PRA&s=72&u=ca2f33042a4105efffec283cad9439ecf6aced1c&v=4" width="24" alt="Avatar of AdiChat"/> AdiChat
+				<img src="https://private-avatars.githubusercontent.com/u/10634210?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA0ODAsIm5iZiI6MTczNDU2OTI4MCwicGF0aCI6Ii91LzEwNjM0MjEwIn0.PWAlWX4d5VagUCAQJXvPapHnqDszpRqrSsYlpQo1GRs&s=72&u=ca2f33042a4105efffec283cad9439ecf6aced1c&v=4" width="24" alt="Avatar of AdiChat"/> AdiChat
 			</a><br/>
 			Aditya Chatterjee
 		</td>
@@ -5066,20 +5066,20 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>382</td>
 		<td>
 			<a target="_blank" href="https://github.com/hannoeru">
-				<img src="https://private-avatars.githubusercontent.com/u/16288797?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyODAsIm5iZiI6MTczNDQ2MDA4MCwicGF0aCI6Ii91LzE2Mjg4Nzk3In0.XajodCZJy7x8vgAG8REtAretxN23ieXW8oQM9V2S4WY&s=72&u=c44c06cac93187aa1501dd964339f7b1c23f6bb6&v=4" width="24" alt="Avatar of hannoeru"/> hannoeru
+				<img src="https://private-avatars.githubusercontent.com/u/16288797?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwODAsIm5iZiI6MTczNDU2OTg4MCwicGF0aCI6Ii91LzE2Mjg4Nzk3In0.Uz8f6hSFTfQd6p_hpv4yC5bW781l86JXeairoNkw54s&s=72&u=c44c06cac93187aa1501dd964339f7b1c23f6bb6&v=4" width="24" alt="Avatar of hannoeru"/> hannoeru
 			</a><br/>
 			  Han
 		</td>
 		<td>@linkxdev </td>
 		<td><a target="_blank" href="https://twitter.com/hannoeru">hannoeru</a></td>
 		<td>Tokyo Japan</td>
-		<td>251</td>
+		<td>252</td>
 	</tr>
 	<tr>
 		<td>383</td>
 		<td>
 			<a target="_blank" href="https://github.com/Johnhvy">
-				<img src="https://private-avatars.githubusercontent.com/u/172214826?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjIwMDAsIm5iZiI6MTczNDQ2MDgwMCwicGF0aCI6Ii91LzE3MjIxNDgyNiJ9.pH1kw-tGlUB36sLlLNnqGIFuyzTouKQ-Ese-RZvsWqM&s=72&v=4" width="24" alt="Avatar of Johnhvy"/> Johnhvy
+				<img src="https://private-avatars.githubusercontent.com/u/172214826?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE4MDAsIm5iZiI6MTczNDU3MDYwMCwicGF0aCI6Ii91LzE3MjIxNDgyNiJ9.Df82eEMWi56Mj4Fe2bos_3N7ead2suu1lNIHzIUeQB8&s=72&v=4" width="24" alt="Avatar of Johnhvy"/> Johnhvy
 			</a><br/>
 			Sasaki
 		</td>
@@ -5092,20 +5092,33 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>384</td>
 		<td>
 			<a target="_blank" href="https://github.com/1amageek">
-				<img src="https://private-avatars.githubusercontent.com/u/11146538?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyMjAsIm5iZiI6MTczNDQ2MDAyMCwicGF0aCI6Ii91LzExMTQ2NTM4In0.kQNBxdIeZrvzOv1JFnKF6Rjo_07nnKmtEQpUt2wGGXo&s=72&u=b0a959c97bd58d4658723815ddf99ff010c0f0d3&v=4" width="24" alt="Avatar of 1amageek"/> 1amageek
+				<img src="https://private-avatars.githubusercontent.com/u/11146538?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwMjAsIm5iZiI6MTczNDU2OTgyMCwicGF0aCI6Ii91LzExMTQ2NTM4In0.Z86kUXoGGA3ac7rpW6XKD1ze4g2tE0vbP5b6qcpQJtY&s=72&u=b0a959c97bd58d4658723815ddf99ff010c0f0d3&v=4" width="24" alt="Avatar of 1amageek"/> 1amageek
 			</a><br/>
 			1amageek
 		</td>
 		<td>Stamp Inc </td>
 		<td>No Twitter Username</td>
 		<td>Tokyo in Japan</td>
-		<td>246</td>
+		<td>248</td>
 	</tr>
 	<tr>
 		<td>385</td>
 		<td>
+			<a target="_blank" href="https://github.com/IloveNooodles">
+				<img src="https://private-avatars.githubusercontent.com/u/63847012?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzODAsIm5iZiI6MTczNDU3MDE4MCwicGF0aCI6Ii91LzYzODQ3MDEyIn0.a6K8I_uS3sRT41Xnaessoo9jXxGiOTzq--PjRketmXM&s=72&u=83264c0aabf10be56f378ccea6be82770b24b619&v=4" width="24" alt="Avatar of IloveNooodles"/> IloveNooodles
+			</a><br/>
+			Muhammad Garebaldhie Er Rahman
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tokyo</td>
+		<td>246</td>
+	</tr>
+	<tr>
+		<td>386</td>
+		<td>
 			<a target="_blank" href="https://github.com/yoichiro">
-				<img src="https://private-avatars.githubusercontent.com/u/261787?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE5NDAsIm5iZiI6MTczNDQ2MDc0MCwicGF0aCI6Ii91LzI2MTc4NyJ9.3YjV876gdoSWxgP4pwGVec70wRoTDRy99rQENw5f2Kk&s=72&u=fcc4840bfdd3de4bf87a27693da44d9d4fab1602&v=4" width="24" alt="Avatar of yoichiro"/> yoichiro
+				<img src="https://private-avatars.githubusercontent.com/u/261787?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE3NDAsIm5iZiI6MTczNDU3MDU0MCwicGF0aCI6Ii91LzI2MTc4NyJ9.Rx76MNAeh-zTZBaVg478HuApIgN1emMUwGAwaPxKI3c&s=72&u=fcc4840bfdd3de4bf87a27693da44d9d4fab1602&v=4" width="24" alt="Avatar of yoichiro"/> yoichiro
 			</a><br/>
 			Yoichiro Tanaka
 		</td>
@@ -5115,23 +5128,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>245</td>
 	</tr>
 	<tr>
-		<td>386</td>
-		<td>
-			<a target="_blank" href="https://github.com/IloveNooodles">
-				<img src="https://private-avatars.githubusercontent.com/u/63847012?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1ODAsIm5iZiI6MTczNDQ2MDM4MCwicGF0aCI6Ii91LzYzODQ3MDEyIn0.vyGZ9hOwodX6l992lIizOHk2g-Pa3iWYGHFVYalnIuw&s=72&u=83264c0aabf10be56f378ccea6be82770b24b619&v=4" width="24" alt="Avatar of IloveNooodles"/> IloveNooodles
-			</a><br/>
-			Muhammad Garebaldhie Er Rahman
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Tokyo</td>
-		<td>244</td>
-	</tr>
-	<tr>
 		<td>387</td>
 		<td>
 			<a target="_blank" href="https://github.com/nemutas">
-				<img src="https://private-avatars.githubusercontent.com/u/46724121?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExNjAsIm5iZiI6MTczNDQ1OTk2MCwicGF0aCI6Ii91LzQ2NzI0MTIxIn0.viQHctmkDB-jpR4hbHw22WG9EX_eEIs6XVMJp3tBmmk&s=72&u=3735f4f0f814c6c605c848f1def204068bf0bec4&v=4" width="24" alt="Avatar of nemutas"/> nemutas
+				<img src="https://private-avatars.githubusercontent.com/u/46724121?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5NjAsIm5iZiI6MTczNDU2OTc2MCwicGF0aCI6Ii91LzQ2NzI0MTIxIn0.ChdFax_0dAAdbsFwHA3RC2qoW-ihzt9rlneEUK174DE&s=72&u=3735f4f0f814c6c605c848f1def204068bf0bec4&v=4" width="24" alt="Avatar of nemutas"/> nemutas
 			</a><br/>
 			nemutas
 		</td>
@@ -5144,7 +5144,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>388</td>
 		<td>
 			<a target="_blank" href="https://github.com/shirou">
-				<img src="https://private-avatars.githubusercontent.com/u/177213?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA5ODAsIm5iZiI6MTczNDQ1OTc4MCwicGF0aCI6Ii91LzE3NzIxMyJ9.MnZSVT4k03MOf6D3PiTFqVEijG1gsb5uGD7zwglYhb4&s=72&u=e4448e595362ea26ca4a385c7cfca6ecb5de69a9&v=4" width="24" alt="Avatar of shirou"/> shirou
+				<img src="https://private-avatars.githubusercontent.com/u/177213?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA3ODAsIm5iZiI6MTczNDU2OTU4MCwicGF0aCI6Ii91LzE3NzIxMyJ9.gpZFtuk0tMhoK0JzW_4QynZiisGPwrBE_PTH0kbz3FI&s=72&u=e4448e595362ea26ca4a385c7cfca6ecb5de69a9&v=4" width="24" alt="Avatar of shirou"/> shirou
 			</a><br/>
 			shirou
 		</td>
@@ -5156,8 +5156,21 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 	<tr>
 		<td>389</td>
 		<td>
+			<a target="_blank" href="https://github.com/agektmr">
+				<img src="https://private-avatars.githubusercontent.com/u/218144?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwODAsIm5iZiI6MTczNDU2OTg4MCwicGF0aCI6Ii91LzIxODE0NCJ9.K_cKdvMXFHOw83nxpGI9-LA5woGZjhi1xe4WQTpa6Ug&s=72&v=4" width="24" alt="Avatar of agektmr"/> agektmr
+			</a><br/>
+			Eiji Kitamura
+		</td>
+		<td>Google </td>
+		<td><a target="_blank" href="https://twitter.com/agektmr">agektmr</a></td>
+		<td>Tokyo Japan</td>
+		<td>241</td>
+	</tr>
+	<tr>
+		<td>390</td>
+		<td>
 			<a target="_blank" href="https://github.com/axzxs2001">
-				<img src="https://private-avatars.githubusercontent.com/u/522232?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExMDAsIm5iZiI6MTczNDQ1OTkwMCwicGF0aCI6Ii91LzUyMjIzMiJ9.V9xthTg9jI1XSr8wnEyVaXSZ8jXZwLjbYIekkycbGkI&s=72&u=2d1eb741e39162c6fcfc173dc909a202db233d33&v=4" width="24" alt="Avatar of axzxs2001"/> axzxs2001
+				<img src="https://private-avatars.githubusercontent.com/u/522232?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5MDAsIm5iZiI6MTczNDU2OTcwMCwicGF0aCI6Ii91LzUyMjIzMiJ9.-zflhCYbZYUuQGOLxeA9FDU2fni5NA2fGLHIBFa97zk&s=72&u=2d1eb741e39162c6fcfc173dc909a202db233d33&v=4" width="24" alt="Avatar of axzxs2001"/> axzxs2001
 			</a><br/>
 			
 		</td>
@@ -5167,10 +5180,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>241</td>
 	</tr>
 	<tr>
-		<td>390</td>
+		<td>391</td>
 		<td>
 			<a target="_blank" href="https://github.com/amachang">
-				<img src="https://private-avatars.githubusercontent.com/u/10735?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyMjAsIm5iZiI6MTczNDQ2MDAyMCwicGF0aCI6Ii91LzEwNzM1In0.0qPKZy-NvT8s2iK5OSMoFowyrt5AyavwMCCMZFLZsmA&s=72&u=34a7f0d13fc3aedd0e41740bab50bb837ad9d3a9&v=4" width="24" alt="Avatar of amachang"/> amachang
+				<img src="https://private-avatars.githubusercontent.com/u/10735?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwMjAsIm5iZiI6MTczNDU2OTgyMCwicGF0aCI6Ii91LzEwNzM1In0.--Odbpn3SyiAED9CgkSA36O1u4ITrWZbVAcJ3O85sB8&s=72&u=34a7f0d13fc3aedd0e41740bab50bb837ad9d3a9&v=4" width="24" alt="Avatar of amachang"/> amachang
 			</a><br/>
 			Hitoshi Amano
 		</td>
@@ -5180,10 +5193,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>241</td>
 	</tr>
 	<tr>
-		<td>391</td>
+		<td>392</td>
 		<td>
 			<a target="_blank" href="https://github.com/takuseno">
-				<img src="https://private-avatars.githubusercontent.com/u/5235131?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3MDAsIm5iZiI6MTczNDQ2MDUwMCwicGF0aCI6Ii91LzUyMzUxMzEifQ.5NFl6almAz5E_FGgmXxxwJ3GZLp1AvmP9eU-R00htVg&s=72&u=5132c57c16d679df736bd65fa4578c9bf837836e&v=4" width="24" alt="Avatar of takuseno"/> takuseno
+				<img src="https://private-avatars.githubusercontent.com/u/5235131?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1MDAsIm5iZiI6MTczNDU3MDMwMCwicGF0aCI6Ii91LzUyMzUxMzEifQ.K3K6VmbAEeZj-UtooMwmAIEI2PrIo9AtLkJezLuTtfQ&s=72&u=5132c57c16d679df736bd65fa4578c9bf837836e&v=4" width="24" alt="Avatar of takuseno"/> takuseno
 			</a><br/>
 			Takuma Seno
 		</td>
@@ -5193,10 +5206,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>241</td>
 	</tr>
 	<tr>
-		<td>392</td>
+		<td>393</td>
 		<td>
 			<a target="_blank" href="https://github.com/ryoqun">
-				<img src="https://private-avatars.githubusercontent.com/u/117807?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEzNDAsIm5iZiI6MTczNDQ2MDE0MCwicGF0aCI6Ii91LzExNzgwNyJ9.VV5Q6Rj8z4WQ9WJkXI5iFZsrysq4Gtat2XqB2QeOEIU&s=72&v=4" width="24" alt="Avatar of ryoqun"/> ryoqun
+				<img src="https://private-avatars.githubusercontent.com/u/117807?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzExNDAsIm5iZiI6MTczNDU2OTk0MCwicGF0aCI6Ii91LzExNzgwNyJ9.x337GFvbGpN2_azbDqk6qWieuaIb7uA-q8h4NFpkpmk&s=72&v=4" width="24" alt="Avatar of ryoqun"/> ryoqun
 			</a><br/>
 			Ryo Onodera
 		</td>
@@ -5206,10 +5219,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>240</td>
 	</tr>
 	<tr>
-		<td>393</td>
+		<td>394</td>
 		<td>
 			<a target="_blank" href="https://github.com/tricknotes">
-				<img src="https://private-avatars.githubusercontent.com/u/290782?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE5NDAsIm5iZiI6MTczNDQ2MDc0MCwicGF0aCI6Ii91LzI5MDc4MiJ9.EQXoYxqDb8sQ83ZJVGAvjYybmPXxdNVisoJ7tsVnPAQ&s=72&u=457c89a040827a608bb8609d03d39a17adb6d04a&v=4" width="24" alt="Avatar of tricknotes"/> tricknotes
+				<img src="https://private-avatars.githubusercontent.com/u/290782?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA4NDAsIm5iZiI6MTczNDU2OTY0MCwicGF0aCI6Ii91LzI5MDc4MiJ9.C5kBob7WSsdMhEOMP8D9JdfPzRS5mw_oAnWegLKhWFY&s=72&u=457c89a040827a608bb8609d03d39a17adb6d04a&v=4" width="24" alt="Avatar of tricknotes"/> tricknotes
 			</a><br/>
 			Ryunosuke Sato
 		</td>
@@ -5219,23 +5232,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>239</td>
 	</tr>
 	<tr>
-		<td>394</td>
-		<td>
-			<a target="_blank" href="https://github.com/agektmr">
-				<img src="https://private-avatars.githubusercontent.com/u/218144?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyODAsIm5iZiI6MTczNDQ2MDA4MCwicGF0aCI6Ii91LzIxODE0NCJ9.hp2CNrrCd7pNgH5ZpTZM0aAPiXUYHR5jEoaprzfPs1s&s=72&v=4" width="24" alt="Avatar of agektmr"/> agektmr
-			</a><br/>
-			Eiji Kitamura
-		</td>
-		<td>Google </td>
-		<td><a target="_blank" href="https://twitter.com/agektmr">agektmr</a></td>
-		<td>Tokyo Japan</td>
-		<td>238</td>
-	</tr>
-	<tr>
 		<td>395</td>
 		<td>
 			<a target="_blank" href="https://github.com/jj1bdx">
-				<img src="https://private-avatars.githubusercontent.com/u/27508?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0MDAsIm5iZiI6MTczNDQ2MDIwMCwicGF0aCI6Ii91LzI3NTA4In0.fQ0pSGJ9g0w8KgtnHHebxT8noqFkQixdZ3vJ7tAM4Us&s=72&u=0dcf7f29824c4f29e34b1b37b929b47eb3a6484c&v=4" width="24" alt="Avatar of jj1bdx"/> jj1bdx
+				<img src="https://private-avatars.githubusercontent.com/u/27508?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyMDAsIm5iZiI6MTczNDU3MDAwMCwicGF0aCI6Ii91LzI3NTA4In0.sNshqgBhl0nMgkvTFaCw2-YOr1TDNcXu-rYw_bZ14-4&s=72&u=0dcf7f29824c4f29e34b1b37b929b47eb3a6484c&v=4" width="24" alt="Avatar of jj1bdx"/> jj1bdx
 			</a><br/>
 			Kenji Rikitake
 		</td>
@@ -5248,7 +5248,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>396</td>
 		<td>
 			<a target="_blank" href="https://github.com/Pitu">
-				<img src="https://private-avatars.githubusercontent.com/u/7425261?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0MDAsIm5iZiI6MTczNDQ2MDIwMCwicGF0aCI6Ii91Lzc0MjUyNjEifQ.lM2nwUbZDbRqbWkXGE9ufzFwQVKNBrOEyCtqbjBQFMI&s=72&u=0cd0aef1b45a2475d78dd7f553363fbffe25d7a4&v=4" width="24" alt="Avatar of Pitu"/> Pitu
+				<img src="https://private-avatars.githubusercontent.com/u/7425261?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyMDAsIm5iZiI6MTczNDU3MDAwMCwicGF0aCI6Ii91Lzc0MjUyNjEifQ.nof6XR7XB84dQpm6QZLY0DEQpEfCEkQoaVAk9gANduA&s=72&u=0cd0aef1b45a2475d78dd7f553363fbffe25d7a4&v=4" width="24" alt="Avatar of Pitu"/> Pitu
 			</a><br/>
 			Kana
 		</td>
@@ -5261,7 +5261,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>397</td>
 		<td>
 			<a target="_blank" href="https://github.com/miquelcampos">
-				<img src="https://private-avatars.githubusercontent.com/u/1050212?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE2NDAsIm5iZiI6MTczNDQ2MDQ0MCwicGF0aCI6Ii91LzEwNTAyMTIifQ.aKbt2gmH9Vzy7Lf7faZhGhUNF6AvtLlE1FFffWPzQ1A&s=72&v=4" width="24" alt="Avatar of miquelcampos"/> miquelcampos
+				<img src="https://private-avatars.githubusercontent.com/u/1050212?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE0NDAsIm5iZiI6MTczNDU3MDI0MCwicGF0aCI6Ii91LzEwNTAyMTIifQ.RyTB-40MvaDabEfo7jOpyM9oJD3RwMjlAkb59dnYi9M&s=72&v=4" width="24" alt="Avatar of miquelcampos"/> miquelcampos
 			</a><br/>
 			Miquel Campos
 		</td>
@@ -5274,7 +5274,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>398</td>
 		<td>
 			<a target="_blank" href="https://github.com/Tiryoh">
-				<img src="https://private-avatars.githubusercontent.com/u/3256629?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE4ODAsIm5iZiI6MTczNDQ2MDY4MCwicGF0aCI6Ii91LzMyNTY2MjkifQ.SidLQ1mT9m0b_1gb4ry2vxzQ9dFF1UQ2IAWM9ou5xy4&s=72&v=4" width="24" alt="Avatar of Tiryoh"/> Tiryoh
+				<img src="https://private-avatars.githubusercontent.com/u/3256629?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE2ODAsIm5iZiI6MTczNDU3MDQ4MCwicGF0aCI6Ii91LzMyNTY2MjkifQ.bd81Q1UwnPQw3M9rM1bwjlT4QCc-i-EmtYCV3TuIWDs&s=72&v=4" width="24" alt="Avatar of Tiryoh"/> Tiryoh
 			</a><br/>
 			Daisuke Sato
 		</td>
@@ -5287,7 +5287,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>399</td>
 		<td>
 			<a target="_blank" href="https://github.com/KyoheiG3">
-				<img src="https://private-avatars.githubusercontent.com/u/5707132?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0NjAsIm5iZiI6MTczNDQ2MDI2MCwicGF0aCI6Ii91LzU3MDcxMzIifQ.NjQmwZSjUEJFfv5AfDgkWjkJ6ZZ420Umb5r0TJ1ZPGg&s=72&u=c9c4cab7a18c4507c094eb29e056c4c38b3ad34b&v=4" width="24" alt="Avatar of KyoheiG3"/> KyoheiG3
+				<img src="https://private-avatars.githubusercontent.com/u/5707132?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyNjAsIm5iZiI6MTczNDU3MDA2MCwicGF0aCI6Ii91LzU3MDcxMzIifQ.yjNgA6HFJVq99-6lk7hfTfD9y7cC1SHnSYu0fhhNJ6A&s=72&u=c9c4cab7a18c4507c094eb29e056c4c38b3ad34b&v=4" width="24" alt="Avatar of KyoheiG3"/> KyoheiG3
 			</a><br/>
 			Kyohei Ito
 		</td>
@@ -5300,20 +5300,20 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>400</td>
 		<td>
 			<a target="_blank" href="https://github.com/proppy">
-				<img src="https://private-avatars.githubusercontent.com/u/5268?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEwNDAsIm5iZiI6MTczNDQ1OTg0MCwicGF0aCI6Ii91LzUyNjgifQ.l4RRe9jpVelf2cNcCOZbULOsWWoRqYkNKasd9gw_ac4&s=72&v=4" width="24" alt="Avatar of proppy"/> proppy
+				<img src="https://private-avatars.githubusercontent.com/u/5268?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA4NDAsIm5iZiI6MTczNDU2OTY0MCwicGF0aCI6Ii91LzUyNjgifQ.T93dy4DNE_mxXXBYTBI1SgeBvYvtbvKaQ993ttJ-arY&s=72&v=4" width="24" alt="Avatar of proppy"/> proppy
 			</a><br/>
 			Johan Euphrosine
 		</td>
 		<td>Google </td>
 		<td><a target="_blank" href="https://twitter.com/proppy">proppy</a></td>
 		<td>Tokyo</td>
-		<td>229</td>
+		<td>231</td>
 	</tr>
 	<tr>
 		<td>401</td>
 		<td>
 			<a target="_blank" href="https://github.com/asahilina">
-				<img src="https://private-avatars.githubusercontent.com/u/102031928?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExMDAsIm5iZiI6MTczNDQ1OTkwMCwicGF0aCI6Ii91LzEwMjAzMTkyOCJ9.9u9xGgrS00eknPb-oHmWYNi5OY3wBJ67R-XxI-7dPAQ&s=72&u=3130c9d955dbbcb2d4f596b0202c253e2b8ce994&v=4" width="24" alt="Avatar of asahilina"/> asahilina
+				<img src="https://private-avatars.githubusercontent.com/u/102031928?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5MDAsIm5iZiI6MTczNDU2OTcwMCwicGF0aCI6Ii91LzEwMjAzMTkyOCJ9.cLyqHeatsgMaDu7UlgxrO_hr3RAd6EhxFrxU8ZNsmTw&s=72&u=3130c9d955dbbcb2d4f596b0202c253e2b8ce994&v=4" width="24" alt="Avatar of asahilina"/> asahilina
 			</a><br/>
 			Asahi Lina
 		</td>
@@ -5326,7 +5326,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>402</td>
 		<td>
 			<a target="_blank" href="https://github.com/rinsuki">
-				<img src="https://private-avatars.githubusercontent.com/u/6533808?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExMDAsIm5iZiI6MTczNDQ1OTkwMCwicGF0aCI6Ii91LzY1MzM4MDgifQ.kDQFVcmCztBGeiJdIsk8P8XLJwSBYB2KcasWqVA-8M8&s=72&u=f179c4c07bd599d928a3169ba38c37f9a6402372&v=4" width="24" alt="Avatar of rinsuki"/> rinsuki
+				<img src="https://private-avatars.githubusercontent.com/u/6533808?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5MDAsIm5iZiI6MTczNDU2OTcwMCwicGF0aCI6Ii91LzY1MzM4MDgifQ.zsGDckUIzTbYjCojTEIT0x7SJdfDpcRLWA6BeXfK_a4&s=72&u=f179c4c07bd599d928a3169ba38c37f9a6402372&v=4" width="24" alt="Avatar of rinsuki"/> rinsuki
 			</a><br/>
 			rinsuki
 		</td>
@@ -5339,7 +5339,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>403</td>
 		<td>
 			<a target="_blank" href="https://github.com/edom18">
-				<img src="https://private-avatars.githubusercontent.com/u/208165?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE4ODAsIm5iZiI6MTczNDQ2MDY4MCwicGF0aCI6Ii91LzIwODE2NSJ9.EzIon-htCGWqfM5GOafHlHE5tGMMxlDtFwtU2YDtP-s&s=72&u=bd5ec6cd38ec02ae40546ae4598707fd683a24af&v=4" width="24" alt="Avatar of edom18"/> edom18
+				<img src="https://private-avatars.githubusercontent.com/u/208165?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE2ODAsIm5iZiI6MTczNDU3MDQ4MCwicGF0aCI6Ii91LzIwODE2NSJ9.uQDiLBdW90LjF4GQOQuXWArcLERQhqkJswOliSycPcc&s=72&u=bd5ec6cd38ec02ae40546ae4598707fd683a24af&v=4" width="24" alt="Avatar of edom18"/> edom18
 			</a><br/>
 			edo
 		</td>
@@ -5352,7 +5352,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>404</td>
 		<td>
 			<a target="_blank" href="https://github.com/ai03-2725">
-				<img src="https://private-avatars.githubusercontent.com/u/26614352?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExNjAsIm5iZiI6MTczNDQ1OTk2MCwicGF0aCI6Ii91LzI2NjE0MzUyIn0.U_WXrO0RV64j3TLzdsLI53I651yoQtUGCcp_LRF447o&s=72&u=343fbd307eba37429bb1d546a0f5e2ebadcc7d65&v=4" width="24" alt="Avatar of ai03-2725"/> ai03-2725
+				<img src="https://private-avatars.githubusercontent.com/u/26614352?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5NjAsIm5iZiI6MTczNDU2OTc2MCwicGF0aCI6Ii91LzI2NjE0MzUyIn0.hZCEImH91V9vMqYIqQsbY5yk-uVNVrCPUt0H_zHyoWY&s=72&u=343fbd307eba37429bb1d546a0f5e2ebadcc7d65&v=4" width="24" alt="Avatar of ai03-2725"/> ai03-2725
 			</a><br/>
 			ai03
 		</td>
@@ -5365,7 +5365,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>405</td>
 		<td>
 			<a target="_blank" href="https://github.com/YuriSizuku">
-				<img src="https://private-avatars.githubusercontent.com/u/15275959?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExMDAsIm5iZiI6MTczNDQ1OTkwMCwicGF0aCI6Ii91LzE1Mjc1OTU5In0.4xkhT4dyP_41EyqyQ5P1lj-pux7ioJS9oGuALc6CJMk&s=72&u=0dc291817c18d80c7c009bdfa6054e8e10f936c6&v=4" width="24" alt="Avatar of YuriSizuku"/> YuriSizuku
+				<img src="https://private-avatars.githubusercontent.com/u/15275959?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5MDAsIm5iZiI6MTczNDU2OTcwMCwicGF0aCI6Ii91LzE1Mjc1OTU5In0.LyZveQgjPHBbHKXa1qQDopYgH5YB_hVVcy5pguK5ibg&s=72&u=0dc291817c18d80c7c009bdfa6054e8e10f936c6&v=4" width="24" alt="Avatar of YuriSizuku"/> YuriSizuku
 			</a><br/>
 			DevSeed
 		</td>
@@ -5378,7 +5378,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>406</td>
 		<td>
 			<a target="_blank" href="https://github.com/JaaGaaBar">
-				<img src="https://private-avatars.githubusercontent.com/u/184535326?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyMjAsIm5iZiI6MTczNDQ2MDAyMCwicGF0aCI6Ii91LzE4NDUzNTMyNiJ9.NygFP_LvdUW1_o4sVww8M_EHGnQmdH4WOek7bVLG9SQ&s=72&u=6429d2bedf5c7431b15320ef602355de82c94545&v=4" width="24" alt="Avatar of JaaGaaBar"/> JaaGaaBar
+				<img src="https://private-avatars.githubusercontent.com/u/184535326?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwMjAsIm5iZiI6MTczNDU2OTgyMCwicGF0aCI6Ii91LzE4NDUzNTMyNiJ9.AA5XAHe7tHFUEqPhe4CQ8AuQ3ITRdOEU1D7vZ7hQ7wc&s=72&u=6429d2bedf5c7431b15320ef602355de82c94545&v=4" width="24" alt="Avatar of JaaGaaBar"/> JaaGaaBar
 			</a><br/>
 			JGB 
 		</td>
@@ -5391,7 +5391,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>407</td>
 		<td>
 			<a target="_blank" href="https://github.com/TimOliver">
-				<img src="https://private-avatars.githubusercontent.com/u/429119?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA5ODAsIm5iZiI6MTczNDQ1OTc4MCwicGF0aCI6Ii91LzQyOTExOSJ9.kq3upb3INKCHyxA3USWIajVXc10wwRjQmqEt8nvJNqY&s=72&u=98d2e07b76dcb3afdd5786b1e8fa102f2c125f01&v=4" width="24" alt="Avatar of TimOliver"/> TimOliver
+				<img src="https://private-avatars.githubusercontent.com/u/429119?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA3ODAsIm5iZiI6MTczNDU2OTU4MCwicGF0aCI6Ii91LzQyOTExOSJ9.2BqvXzM5JP6Lh_fq3QetLMWZPNO-YCkHMsPtxclPk9A&s=72&u=98d2e07b76dcb3afdd5786b1e8fa102f2c125f01&v=4" width="24" alt="Avatar of TimOliver"/> TimOliver
 			</a><br/>
 			Tim Oliver
 		</td>
@@ -5404,7 +5404,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>408</td>
 		<td>
 			<a target="_blank" href="https://github.com/hotchpotch">
-				<img src="https://private-avatars.githubusercontent.com/u/3500?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyODAsIm5iZiI6MTczNDQ2MDA4MCwicGF0aCI6Ii91LzM1MDAifQ.hpuOePsbFDcJYJsrFGAqPTnUbNUT9fhURtoy3VEzZ3M&s=72&u=d235aec3808ef2294578dfa29bde62e2fbf5636b&v=4" width="24" alt="Avatar of hotchpotch"/> hotchpotch
+				<img src="https://private-avatars.githubusercontent.com/u/3500?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwODAsIm5iZiI6MTczNDU2OTg4MCwicGF0aCI6Ii91LzM1MDAifQ.FQJJhHEMkp5rVVEdI7tVLHNEdm8u3QvWbvg2Pp7uEu8&s=72&u=d235aec3808ef2294578dfa29bde62e2fbf5636b&v=4" width="24" alt="Avatar of hotchpotch"/> hotchpotch
 			</a><br/>
 			Yuichi Tateno secon
 		</td>
@@ -5417,7 +5417,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>409</td>
 		<td>
 			<a target="_blank" href="https://github.com/hayatoito">
-				<img src="https://private-avatars.githubusercontent.com/u/160288?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEwNDAsIm5iZiI6MTczNDQ1OTg0MCwicGF0aCI6Ii91LzE2MDI4OCJ9.y7P0yAh2rSqRCMX399pJP4smwRO5xxe9RIFLFi8q150&s=72&v=4" width="24" alt="Avatar of hayatoito"/> hayatoito
+				<img src="https://private-avatars.githubusercontent.com/u/160288?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA4NDAsIm5iZiI6MTczNDU2OTY0MCwicGF0aCI6Ii91LzE2MDI4OCJ9.L_bJAhWXCAi5picrUZIXZNv3GFZW1ymgID1YKYRZDeE&s=72&v=4" width="24" alt="Avatar of hayatoito"/> hayatoito
 			</a><br/>
 			Hayato Ito
 		</td>
@@ -5430,7 +5430,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>410</td>
 		<td>
 			<a target="_blank" href="https://github.com/pwim">
-				<img src="https://private-avatars.githubusercontent.com/u/30756?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExNjAsIm5iZiI6MTczNDQ1OTk2MCwicGF0aCI6Ii91LzMwNzU2In0.f0kIIMnRofS3LaRuGJ37EwQ1-112CuKAYWBjHCFWA2M&s=72&u=f8d2a7e32ff26a8fa1412559b8e2a98a9af5205d&v=4" width="24" alt="Avatar of pwim"/> pwim
+				<img src="https://private-avatars.githubusercontent.com/u/30756?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5NjAsIm5iZiI6MTczNDU2OTc2MCwicGF0aCI6Ii91LzMwNzU2In0.OjgXhU26zME9_y6U9CHapHiWaVWZgAtbH1eFHCNLEwI&s=72&u=f8d2a7e32ff26a8fa1412559b8e2a98a9af5205d&v=4" width="24" alt="Avatar of pwim"/> pwim
 			</a><br/>
 			Paul McMahon
 		</td>
@@ -5443,7 +5443,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>411</td>
 		<td>
 			<a target="_blank" href="https://github.com/mrkn">
-				<img src="https://private-avatars.githubusercontent.com/u/3959?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA5MjAsIm5iZiI6MTczNDQ1OTcyMCwicGF0aCI6Ii91LzM5NTkifQ.egrJUOpyDLOZPhb3UZ78yKlOygCI6DPVCM_fkicp1Lg&s=72&u=951e5e4b534a96a7598601dd6ed25fe7ab8191f7&v=4" width="24" alt="Avatar of mrkn"/> mrkn
+				<img src="https://private-avatars.githubusercontent.com/u/3959?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA3MjAsIm5iZiI6MTczNDU2OTUyMCwicGF0aCI6Ii91LzM5NTkifQ.lVrxGr09wfVwA4cER7ERx02zdWyms_sU3WrIyXGmPLU&s=72&u=951e5e4b534a96a7598601dd6ed25fe7ab8191f7&v=4" width="24" alt="Avatar of mrkn"/> mrkn
 			</a><br/>
 			Kenta Murata
 		</td>
@@ -5455,8 +5455,21 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 	<tr>
 		<td>412</td>
 		<td>
+			<a target="_blank" href="https://github.com/kyanny">
+				<img src="https://private-avatars.githubusercontent.com/u/10515?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA2NjAsIm5iZiI6MTczNDU2OTQ2MCwicGF0aCI6Ii91LzEwNTE1In0.-TIY9YNZMgKoYwuZEeFQol7B3Sui7xAd77UBFnJ_It8&s=72&v=4" width="24" alt="Avatar of kyanny"/> kyanny
+			</a><br/>
+			Kensuke Nagae
+		</td>
+		<td>@github </td>
+		<td><a target="_blank" href="https://twitter.com/kyanny">kyanny</a></td>
+		<td>Kanazawa Japan</td>
+		<td>216</td>
+	</tr>
+	<tr>
+		<td>413</td>
+		<td>
 			<a target="_blank" href="https://github.com/mzyy94">
-				<img src="https://private-avatars.githubusercontent.com/u/2971112?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1ODAsIm5iZiI6MTczNDQ2MDM4MCwicGF0aCI6Ii91LzI5NzExMTIifQ.3hePd0BP1qSVZkDu5Gp-J-6WJNvjEwZ1-EdCJugoKhM&s=72&u=060081ea67a569c8205ef2ad6ca27174a8bcfcd8&v=4" width="24" alt="Avatar of mzyy94"/> mzyy94
+				<img src="https://private-avatars.githubusercontent.com/u/2971112?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzODAsIm5iZiI6MTczNDU3MDE4MCwicGF0aCI6Ii91LzI5NzExMTIifQ.dFRXDgVg8WeOhCObfWROpNeSMp3docZwyxhkrJDK1o4&s=72&u=060081ea67a569c8205ef2ad6ca27174a8bcfcd8&v=4" width="24" alt="Avatar of mzyy94"/> mzyy94
 			</a><br/>
 			Yuki MIZUNO
 		</td>
@@ -5466,23 +5479,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>216</td>
 	</tr>
 	<tr>
-		<td>413</td>
-		<td>
-			<a target="_blank" href="https://github.com/kyanny">
-				<img src="https://private-avatars.githubusercontent.com/u/10515?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3NjAsIm5iZiI6MTczNDQ2MDU2MCwicGF0aCI6Ii91LzEwNTE1In0._NUkEs9UYvxyblfF_JWjLdnvuPaUkftsMXXGuTec0fM&s=72&v=4" width="24" alt="Avatar of kyanny"/> kyanny
-			</a><br/>
-			Kensuke Nagae
-		</td>
-		<td>@github </td>
-		<td><a target="_blank" href="https://twitter.com/kyanny">kyanny</a></td>
-		<td>Kanazawa Japan</td>
-		<td>215</td>
-	</tr>
-	<tr>
 		<td>414</td>
 		<td>
 			<a target="_blank" href="https://github.com/runceel">
-				<img src="https://private-avatars.githubusercontent.com/u/79868?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyMjAsIm5iZiI6MTczNDQ2MDAyMCwicGF0aCI6Ii91Lzc5ODY4In0.-PJ3AD6wK12Ku2w82sDPxg3gAWgXE3JiGndWeZs634o&s=72&u=f27035ba2c120d037e733518019fe27c84c4d414&v=4" width="24" alt="Avatar of runceel"/> runceel
+				<img src="https://private-avatars.githubusercontent.com/u/79868?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwMjAsIm5iZiI6MTczNDU2OTgyMCwicGF0aCI6Ii91Lzc5ODY4In0.cxXsVW87t-N7yema8epyfjbspoGUku7G-bi6c4a6ThQ&s=72&u=f27035ba2c120d037e733518019fe27c84c4d414&v=4" width="24" alt="Avatar of runceel"/> runceel
 			</a><br/>
 			Kazuki Ota
 		</td>
@@ -5495,7 +5495,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>415</td>
 		<td>
 			<a target="_blank" href="https://github.com/mizzy">
-				<img src="https://private-avatars.githubusercontent.com/u/3620?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1MjAsIm5iZiI6MTczNDQ2MDMyMCwicGF0aCI6Ii91LzM2MjAifQ.tnXNuLpHDu9zL3Z4QNV2V1S00rxu5z2uT1yiqeZ_cxU&s=72&u=2ea1559c315494106739adcc2f685055777a48dc&v=4" width="24" alt="Avatar of mizzy"/> mizzy
+				<img src="https://private-avatars.githubusercontent.com/u/3620?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzMjAsIm5iZiI6MTczNDU3MDEyMCwicGF0aCI6Ii91LzM2MjAifQ.niAB8IQK-LpRvEwn34j_0cRiNGjn35upQGSlm717KGc&s=72&u=2ea1559c315494106739adcc2f685055777a48dc&v=4" width="24" alt="Avatar of mizzy"/> mizzy
 			</a><br/>
 			Gosuke Miyashita
 		</td>
@@ -5507,8 +5507,21 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 	<tr>
 		<td>416</td>
 		<td>
+			<a target="_blank" href="https://github.com/luadebug">
+				<img src="https://private-avatars.githubusercontent.com/u/109693307?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzMjAsIm5iZiI6MTczNDU3MDEyMCwicGF0aCI6Ii91LzEwOTY5MzMwNyJ9.4o47LsQqmsmo2fVkvOXeh9BxHHQrY5AvzU_LfL-uDYM&s=72&u=848d649408c77640dff7b259e274cc1706e9cb12&v=4" width="24" alt="Avatar of luadebug"/> luadebug
+			</a><br/>
+			Saikari
+		</td>
+		<td>The University Of Hong<br/>Kong<br/></td>
+		<td>No Twitter Username</td>
+		<td>Japan Tokyo</td>
+		<td>213</td>
+	</tr>
+	<tr>
+		<td>417</td>
+		<td>
 			<a target="_blank" href="https://github.com/michaelrambeau">
-				<img src="https://private-avatars.githubusercontent.com/u/5546996?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEzNDAsIm5iZiI6MTczNDQ2MDE0MCwicGF0aCI6Ii91LzU1NDY5OTYifQ.yxXyJneXcTg-NUY3mTNMaVQrx7d39PXw7FsFBOGbFcE&s=72&u=a4fd77f1d4dae82361165a5da1eb90423d9443ff&v=4" width="24" alt="Avatar of michaelrambeau"/> michaelrambeau
+				<img src="https://private-avatars.githubusercontent.com/u/5546996?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzExNDAsIm5iZiI6MTczNDU2OTk0MCwicGF0aCI6Ii91LzU1NDY5OTYifQ.oku8FaEnizmCwmmonUDT1oMuWRtYXvKJxJrp-bGyEb4&s=72&u=a4fd77f1d4dae82361165a5da1eb90423d9443ff&v=4" width="24" alt="Avatar of michaelrambeau"/> michaelrambeau
 			</a><br/>
 			Michael Rambeau
 		</td>
@@ -5518,10 +5531,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>212</td>
 	</tr>
 	<tr>
-		<td>417</td>
+		<td>418</td>
 		<td>
 			<a target="_blank" href="https://github.com/yuru7">
-				<img src="https://private-avatars.githubusercontent.com/u/13458509?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0MDAsIm5iZiI6MTczNDQ2MDIwMCwicGF0aCI6Ii91LzEzNDU4NTA5In0.29SxqCjRMiY_RyvFuEZwvyquuC-KX8yn0dLefvvBGBU&s=72&u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" width="24" alt="Avatar of yuru7"/> yuru7
+				<img src="https://private-avatars.githubusercontent.com/u/13458509?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyMDAsIm5iZiI6MTczNDU3MDAwMCwicGF0aCI6Ii91LzEzNDU4NTA5In0.f5viZKlMUMHKAqbS0xyolX7xF9qf88WmNnn989Ykk84&s=72&u=bb66675f37846c9bbe338c85db759778e0c143e7&v=4" width="24" alt="Avatar of yuru7"/> yuru7
 			</a><br/>
 			tawara
 		</td>
@@ -5531,23 +5544,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>212</td>
 	</tr>
 	<tr>
-		<td>418</td>
-		<td>
-			<a target="_blank" href="https://github.com/luadebug">
-				<img src="https://private-avatars.githubusercontent.com/u/109693307?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1MjAsIm5iZiI6MTczNDQ2MDMyMCwicGF0aCI6Ii91LzEwOTY5MzMwNyJ9.Uoh-_SAtNG4br9q3140Fq-WHyBLrcRT352st-FlvA1g&s=72&u=848d649408c77640dff7b259e274cc1706e9cb12&v=4" width="24" alt="Avatar of luadebug"/> luadebug
-			</a><br/>
-			Saikari
-		</td>
-		<td>The University Of Hong<br/>Kong<br/></td>
-		<td>No Twitter Username</td>
-		<td>Japan Tokyo</td>
-		<td>212</td>
-	</tr>
-	<tr>
 		<td>419</td>
 		<td>
 			<a target="_blank" href="https://github.com/fumieval">
-				<img src="https://private-avatars.githubusercontent.com/u/761865?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1MjAsIm5iZiI6MTczNDQ2MDMyMCwicGF0aCI6Ii91Lzc2MTg2NSJ9.7tPK98L5zmEzy3D-B-ZDnV--ZTCquJdeGJHXCY7TLVg&s=72&u=2ca6e2cbffd6a95e112a0bc7e81f7ca109d77267&v=4" width="24" alt="Avatar of fumieval"/> fumieval
+				<img src="https://private-avatars.githubusercontent.com/u/761865?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzMjAsIm5iZiI6MTczNDU3MDEyMCwicGF0aCI6Ii91Lzc2MTg2NSJ9.sP2FbZg8PVHrJx95E4ME-28vyrAxkNCBZ17rUaJIwiw&s=72&u=2ca6e2cbffd6a95e112a0bc7e81f7ca109d77267&v=4" width="24" alt="Avatar of fumieval"/> fumieval
 			</a><br/>
 			Fumiaki Kinoshita
 		</td>
@@ -5560,7 +5560,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>420</td>
 		<td>
 			<a target="_blank" href="https://github.com/treefrogframework">
-				<img src="https://private-avatars.githubusercontent.com/u/2995876?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjIwMDAsIm5iZiI6MTczNDQ2MDgwMCwicGF0aCI6Ii91LzI5OTU4NzYifQ.0-LgKergHVusGSXlJW5Sh53Ce35ygZk3cgi881BQ_E0&s=72&v=4" width="24" alt="Avatar of treefrogframework"/> treefrogframework
+				<img src="https://private-avatars.githubusercontent.com/u/2995876?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE4MDAsIm5iZiI6MTczNDU3MDYwMCwicGF0aCI6Ii91LzI5OTU4NzYifQ.fcsyEcQrDNuos1uiSxXxFB5Jmwtb9c89ykY6ZNEyRyI&s=72&v=4" width="24" alt="Avatar of treefrogframework"/> treefrogframework
 			</a><br/>
 			TreeFrog Framework
 		</td>
@@ -5573,7 +5573,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>421</td>
 		<td>
 			<a target="_blank" href="https://github.com/sachaos">
-				<img src="https://private-avatars.githubusercontent.com/u/6121271?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExNjAsIm5iZiI6MTczNDQ1OTk2MCwicGF0aCI6Ii91LzYxMjEyNzEifQ.bYc5nRhe-Oeeb0e8xawlpY6YTGWBK4ltG4nRtQfJZ28&s=72&u=1de51c81b7ae060e4ac9d09fce403e0eabf05f80&v=4" width="24" alt="Avatar of sachaos"/> sachaos
+				<img src="https://private-avatars.githubusercontent.com/u/6121271?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5NjAsIm5iZiI6MTczNDU2OTc2MCwicGF0aCI6Ii91LzYxMjEyNzEifQ.yRDR7DOSq_qYEdnKB8-2tR-Mrq71J4d42RF_yG-Cd4s&s=72&u=1de51c81b7ae060e4ac9d09fce403e0eabf05f80&v=4" width="24" alt="Avatar of sachaos"/> sachaos
 			</a><br/>
 			Takumasa Sakao
 		</td>
@@ -5586,7 +5586,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>422</td>
 		<td>
 			<a target="_blank" href="https://github.com/shin1x1">
-				<img src="https://private-avatars.githubusercontent.com/u/88324?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyMjAsIm5iZiI6MTczNDQ2MDAyMCwicGF0aCI6Ii91Lzg4MzI0In0.hZl_hXYhqG45uOur1eSgsF-V2FTJvj1FFjBoimXnpLY&s=72&v=4" width="24" alt="Avatar of shin1x1"/> shin1x1
+				<img src="https://private-avatars.githubusercontent.com/u/88324?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwMjAsIm5iZiI6MTczNDU2OTgyMCwicGF0aCI6Ii91Lzg4MzI0In0.yqUv0X3YafvlvJLc5ZfmqrZrBlYgQgdB38cdNy2bpbU&s=72&v=4" width="24" alt="Avatar of shin1x1"/> shin1x1
 			</a><br/>
 			Masashi Shinbara
 		</td>
@@ -5599,7 +5599,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>423</td>
 		<td>
 			<a target="_blank" href="https://github.com/mitchan0321">
-				<img src="https://private-avatars.githubusercontent.com/u/1834931?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE2NDAsIm5iZiI6MTczNDQ2MDQ0MCwicGF0aCI6Ii91LzE4MzQ5MzEifQ.rCveN5mDp3AwY2aS1zXdWjHDCXi7TUDzSkvZlNElRbM&s=72&u=4d1b4b44b428906576bfb29dc4cf7bd277d19d11&v=4" width="24" alt="Avatar of mitchan0321"/> mitchan0321
+				<img src="https://private-avatars.githubusercontent.com/u/1834931?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE0NDAsIm5iZiI6MTczNDU3MDI0MCwicGF0aCI6Ii91LzE4MzQ5MzEifQ.4ZrBaqSlQ6EvtgSRLl7eVLsSj-1aTUECg46zWxtPEqc&s=72&u=4d1b4b44b428906576bfb29dc4cf7bd277d19d11&v=4" width="24" alt="Avatar of mitchan0321"/> mitchan0321
 			</a><br/>
 			SATO Mitsuhide
 		</td>
@@ -5612,7 +5612,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>424</td>
 		<td>
 			<a target="_blank" href="https://github.com/icyflame">
-				<img src="https://private-avatars.githubusercontent.com/u/3668034?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE4ODAsIm5iZiI6MTczNDQ2MDY4MCwicGF0aCI6Ii91LzM2NjgwMzQifQ.swN4slFQ9jS3c7OnAjvI2Y9pGmoYwCGmyf3V0wWszYc&s=72&u=bdd98f39b06460bf3c7deda3d66989bda1bb4ab7&v=4" width="24" alt="Avatar of icyflame"/> icyflame
+				<img src="https://private-avatars.githubusercontent.com/u/3668034?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE2ODAsIm5iZiI6MTczNDU3MDQ4MCwicGF0aCI6Ii91LzM2NjgwMzQifQ.dttqWg-jpu6dKnTnpX8bmfofdg-5y7mgbQXPaEb2wpY&s=72&u=bdd98f39b06460bf3c7deda3d66989bda1bb4ab7&v=4" width="24" alt="Avatar of icyflame"/> icyflame
 			</a><br/>
 			Siddharth Kannan
 		</td>
@@ -5624,8 +5624,34 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 	<tr>
 		<td>425</td>
 		<td>
+			<a target="_blank" href="https://github.com/ko1">
+				<img src="https://private-avatars.githubusercontent.com/u/9558?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyMDAsIm5iZiI6MTczNDU3MDAwMCwicGF0aCI6Ii91Lzk1NTgifQ.zrK82KvHrz6yv0ujWeDrpGTCsojw2fu0fBLQa-0S3C4&s=72&u=dd2bd00cb924a95505280d5e6c6d9c4494cc8e66&v=4" width="24" alt="Avatar of ko1"/> ko1
+			</a><br/>
+			Koichi Sasada
+		</td>
+		<td>Stores Inc </td>
+		<td>No Twitter Username</td>
+		<td>Tokyo Japan</td>
+		<td>206</td>
+	</tr>
+	<tr>
+		<td>426</td>
+		<td>
+			<a target="_blank" href="https://github.com/yuna0x0">
+				<img src="https://private-avatars.githubusercontent.com/u/5277788?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE0NDAsIm5iZiI6MTczNDU3MDI0MCwicGF0aCI6Ii91LzUyNzc3ODgifQ.Y8COdftMCkH5ixtPRvv8LPUEgpvcfCs5BJYw2vsaOqw&s=72&u=cfa16adbae9d376f3d26fac9e8b41163869a8d25&v=4" width="24" alt="Avatar of yuna0x0"/> yuna0x0
+			</a><br/>
+			yuna0x0
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/yunaNULL">yunaNULL</a></td>
+		<td>Taipei  San Francisco  Tokyo</td>
+		<td>204</td>
+	</tr>
+	<tr>
+		<td>427</td>
+		<td>
 			<a target="_blank" href="https://github.com/bschwind">
-				<img src="https://private-avatars.githubusercontent.com/u/458432?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1ODAsIm5iZiI6MTczNDQ2MDM4MCwicGF0aCI6Ii91LzQ1ODQzMiJ9.NkV88aEnySWxiwBkr4-ZPPlWm05y36kQPHPXiFFdrMw&s=72&u=0f2987cbcf571ded7d91a2c73b7bb9ef1c1f935e&v=4" width="24" alt="Avatar of bschwind"/> bschwind
+				<img src="https://private-avatars.githubusercontent.com/u/458432?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzODAsIm5iZiI6MTczNDU3MDE4MCwicGF0aCI6Ii91LzQ1ODQzMiJ9.3c52wLBEs75mBxw1qk4RPkfSlMixW9XSyrvR9AY7_4Q&s=72&u=0f2987cbcf571ded7d91a2c73b7bb9ef1c1f935e&v=4" width="24" alt="Avatar of bschwind"/> bschwind
 			</a><br/>
 			Brian Schwind
 		</td>
@@ -5635,10 +5661,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>203</td>
 	</tr>
 	<tr>
-		<td>426</td>
+		<td>428</td>
 		<td>
 			<a target="_blank" href="https://github.com/ctgk">
-				<img src="https://private-avatars.githubusercontent.com/u/25563881?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyMjAsIm5iZiI6MTczNDQ2MDAyMCwicGF0aCI6Ii91LzI1NTYzODgxIn0.s7hI__UOBXhgg9_5XQdypc0ulCt4tYYVEd0edlVEjoI&s=72&u=ffa01a87a62d2c3dd07e3d2d0f4fce9c87f4f88b&v=4" width="24" alt="Avatar of ctgk"/> ctgk
+				<img src="https://private-avatars.githubusercontent.com/u/25563881?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwMjAsIm5iZiI6MTczNDU2OTgyMCwicGF0aCI6Ii91LzI1NTYzODgxIn0.2ygLxT8K0os-K6XtH4W4CIjWWYDoE_8nWNlJTmWiilk&s=72&u=ffa01a87a62d2c3dd07e3d2d0f4fce9c87f4f88b&v=4" width="24" alt="Avatar of ctgk"/> ctgk
 			</a><br/>
 			ctgk
 		</td>
@@ -5648,23 +5674,23 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>202</td>
 	</tr>
 	<tr>
-		<td>427</td>
+		<td>429</td>
 		<td>
-			<a target="_blank" href="https://github.com/yuna0x0">
-				<img src="https://private-avatars.githubusercontent.com/u/5277788?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE2NDAsIm5iZiI6MTczNDQ2MDQ0MCwicGF0aCI6Ii91LzUyNzc3ODgifQ.yoFVHFcWG1VVNZ7ZTUACHw79VW6fLHcfNwiBsnu3w-c&s=72&u=cfa16adbae9d376f3d26fac9e8b41163869a8d25&v=4" width="24" alt="Avatar of yuna0x0"/> yuna0x0
+			<a target="_blank" href="https://github.com/Mikubill">
+				<img src="https://private-avatars.githubusercontent.com/u/31246794?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyNjAsIm5iZiI6MTczNDU3MDA2MCwicGF0aCI6Ii91LzMxMjQ2Nzk0In0.27xJatDgI7kn5bZL237_BTvuK4w6uBhQbTH10rvrTnE&s=72&u=4e178acd856f9cf98182fc5edad4013f107250c8&v=4" width="24" alt="Avatar of Mikubill"/> Mikubill
 			</a><br/>
-			yuna0x0
+			Kakigri Maker
 		</td>
 		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/yunaNULL">yunaNULL</a></td>
-		<td>Taipei  San Francisco  Tokyo</td>
-		<td>202</td>
+		<td>No Twitter Username</td>
+		<td>Tokyo Japan</td>
+		<td>200</td>
 	</tr>
 	<tr>
-		<td>428</td>
+		<td>430</td>
 		<td>
 			<a target="_blank" href="https://github.com/kboy-silvergym">
-				<img src="https://private-avatars.githubusercontent.com/u/17683316?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0NjAsIm5iZiI6MTczNDQ2MDI2MCwicGF0aCI6Ii91LzE3NjgzMzE2In0.dqZH72gwNYIlkT3q_T32Nr7RCsoJ5muW3z-VAovJncI&s=72&u=ff0a161950841562a34ba74495bb1eaee74d8546&v=4" width="24" alt="Avatar of kboy-silvergym"/> kboy-silvergym
+				<img src="https://private-avatars.githubusercontent.com/u/17683316?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyNjAsIm5iZiI6MTczNDU3MDA2MCwicGF0aCI6Ii91LzE3NjgzMzE2In0.ugQLvs4SLTVyiW3K_nKOP4n3rE1UBz8fefcB1E2LIsM&s=72&u=ff0a161950841562a34ba74495bb1eaee74d8546&v=4" width="24" alt="Avatar of kboy-silvergym"/> kboy-silvergym
 			</a><br/>
 			Kei Fujikawa
 		</td>
@@ -5674,10 +5700,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>200</td>
 	</tr>
 	<tr>
-		<td>429</td>
+		<td>431</td>
 		<td>
 			<a target="_blank" href="https://github.com/darashi">
-				<img src="https://private-avatars.githubusercontent.com/u/2363?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE4MjAsIm5iZiI6MTczNDQ2MDYyMCwicGF0aCI6Ii91LzIzNjMifQ.HMqDSEjWPVnxrNieTBqni70bmoPvWJSsm3HV_HrKJo0&s=72&v=4" width="24" alt="Avatar of darashi"/> darashi
+				<img src="https://private-avatars.githubusercontent.com/u/2363?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE2MjAsIm5iZiI6MTczNDU3MDQyMCwicGF0aCI6Ii91LzIzNjMifQ.Wk4-3qwYzNgRVunya9xOMhDMsxZ8uCIGEHJum0QP5SA&s=72&v=4" width="24" alt="Avatar of darashi"/> darashi
 			</a><br/>
 			Yoji Shidara
 		</td>
@@ -5687,36 +5713,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>198</td>
 	</tr>
 	<tr>
-		<td>430</td>
-		<td>
-			<a target="_blank" href="https://github.com/ko1">
-				<img src="https://private-avatars.githubusercontent.com/u/9558?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0MDAsIm5iZiI6MTczNDQ2MDIwMCwicGF0aCI6Ii91Lzk1NTgifQ.iSkXi8SzuQ9LnYAQm3wCN6mtG4Jbq66ZQNHUtwNeZII&s=72&u=dd2bd00cb924a95505280d5e6c6d9c4494cc8e66&v=4" width="24" alt="Avatar of ko1"/> ko1
-			</a><br/>
-			Koichi Sasada
-		</td>
-		<td>Stores Inc </td>
-		<td>No Twitter Username</td>
-		<td>Tokyo Japan</td>
-		<td>197</td>
-	</tr>
-	<tr>
-		<td>431</td>
-		<td>
-			<a target="_blank" href="https://github.com/Mikubill">
-				<img src="https://private-avatars.githubusercontent.com/u/31246794?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0NjAsIm5iZiI6MTczNDQ2MDI2MCwicGF0aCI6Ii91LzMxMjQ2Nzk0In0.H-IJ0qYVJFrbrNgIX_FZHe47xkPcSsYw-AtqTuSezLw&s=72&u=4e178acd856f9cf98182fc5edad4013f107250c8&v=4" width="24" alt="Avatar of Mikubill"/> Mikubill
-			</a><br/>
-			Kakigri Maker
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Tokyo Japan</td>
-		<td>197</td>
-	</tr>
-	<tr>
 		<td>432</td>
 		<td>
 			<a target="_blank" href="https://github.com/ra1028">
-				<img src="https://private-avatars.githubusercontent.com/u/7347118?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA3NDAsIm5iZiI6MTczNDQ1OTU0MCwicGF0aCI6Ii91LzczNDcxMTgifQ.aPJFdnCEidUVxL4ncvN3kn3QpsEu48IKTOjQ_gf4PYE&s=72&u=49c9f6b372820d31467da49f379b1b99ad148ee2&v=4" width="24" alt="Avatar of ra1028"/> ra1028
+				<img src="https://private-avatars.githubusercontent.com/u/7347118?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA1NDAsIm5iZiI6MTczNDU2OTM0MCwicGF0aCI6Ii91LzczNDcxMTgifQ.R1rO59YAuNX-ojeUOzjCKT0uiHxJwVe7Pows3oBgMVQ&s=72&u=49c9f6b372820d31467da49f379b1b99ad148ee2&v=4" width="24" alt="Avatar of ra1028"/> ra1028
 			</a><br/>
 			Ryo Aoyama
 		</td>
@@ -5729,7 +5729,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>433</td>
 		<td>
 			<a target="_blank" href="https://github.com/hokaccha">
-				<img src="https://private-avatars.githubusercontent.com/u/39471?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA5ODAsIm5iZiI6MTczNDQ1OTc4MCwicGF0aCI6Ii91LzM5NDcxIn0.GROMCw6mGeXKYKWFHQ6qquon1ZvJwcAG0-Hba_E4t1E&s=72&v=4" width="24" alt="Avatar of hokaccha"/> hokaccha
+				<img src="https://private-avatars.githubusercontent.com/u/39471?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA3ODAsIm5iZiI6MTczNDU2OTU4MCwicGF0aCI6Ii91LzM5NDcxIn0.dOXxblNyt28nhQAMXeeZKY6ebTYdiDB4MVK9CtA7gco&s=72&v=4" width="24" alt="Avatar of hokaccha"/> hokaccha
 			</a><br/>
 			Kazuhito Hokamura
 		</td>
@@ -5742,20 +5742,20 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>434</td>
 		<td>
 			<a target="_blank" href="https://github.com/sotayamashita">
-				<img src="https://private-avatars.githubusercontent.com/u/1587053?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExMDAsIm5iZiI6MTczNDQ1OTkwMCwicGF0aCI6Ii91LzE1ODcwNTMifQ.K75hm7k7h6nQ9Aa6zzBnzTb5_VpV_ksjF0S74LcHXOk&s=72&u=5de521cb0130f3e3fc887931ff5ddc13938984a5&v=4" width="24" alt="Avatar of sotayamashita"/> sotayamashita
+				<img src="https://private-avatars.githubusercontent.com/u/1587053?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5MDAsIm5iZiI6MTczNDU2OTcwMCwicGF0aCI6Ii91LzE1ODcwNTMifQ.FZjEP4UnZhWky7I0E-QtJ0Qfy8Z0gv01BN_cJR8bDBk&s=72&u=5de521cb0130f3e3fc887931ff5ddc13938984a5&v=4" width="24" alt="Avatar of sotayamashita"/> sotayamashita
 			</a><br/>
 			Sam Yamashita
 		</td>
 		<td>@autifyhq  </td>
 		<td>No Twitter Username</td>
 		<td>Japan</td>
-		<td>189</td>
+		<td>190</td>
 	</tr>
 	<tr>
 		<td>435</td>
 		<td>
 			<a target="_blank" href="https://github.com/taea">
-				<img src="https://private-avatars.githubusercontent.com/u/341101?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1MjAsIm5iZiI6MTczNDQ2MDMyMCwicGF0aCI6Ii91LzM0MTEwMSJ9.JwVvd2nmYsFz22wuDxLgYplJhZGlekm4y32FCDyilrU&s=72&u=fd82ff1ce7ffd1f387eafa574489dacd952e7bc1&v=4" width="24" alt="Avatar of taea"/> taea
+				<img src="https://private-avatars.githubusercontent.com/u/341101?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzMjAsIm5iZiI6MTczNDU3MDEyMCwicGF0aCI6Ii91LzM0MTEwMSJ9.VVUVZcWe_EGkzvEF-idV0w6NPvv4G8f3DMlQmEKTJ7s&s=72&u=fd82ff1ce7ffd1f387eafa574489dacd952e7bc1&v=4" width="24" alt="Avatar of taea"/> taea
 			</a><br/>
 			taea
 		</td>
@@ -5768,7 +5768,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>436</td>
 		<td>
 			<a target="_blank" href="https://github.com/motemen">
-				<img src="https://private-avatars.githubusercontent.com/u/8465?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA5ODAsIm5iZiI6MTczNDQ1OTc4MCwicGF0aCI6Ii91Lzg0NjUifQ.XNDgW8mLvKUmusonQqcocw4Y7TWCx0yOlQhUNQVtfus&s=72&v=4" width="24" alt="Avatar of motemen"/> motemen
+				<img src="https://private-avatars.githubusercontent.com/u/8465?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA3ODAsIm5iZiI6MTczNDU2OTU4MCwicGF0aCI6Ii91Lzg0NjUifQ.YA_1_KktMq_V-7eEeKwO0iO-1I7CwjnqrpZkXsTihxI&s=72&v=4" width="24" alt="Avatar of motemen"/> motemen
 			</a><br/>
 			Hironao OTSUBO
 		</td>
@@ -5781,7 +5781,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>437</td>
 		<td>
 			<a target="_blank" href="https://github.com/john-rocky">
-				<img src="https://private-avatars.githubusercontent.com/u/23278992?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyMjAsIm5iZiI6MTczNDQ2MDAyMCwicGF0aCI6Ii91LzIzMjc4OTkyIn0.-5id4o0oKLfZeNV3xqPn_Bs4KBgpHqfgUmRx9FgfWGE&s=72&u=3b7d470735a4bd8a9f0781e919244d03742c476a&v=4" width="24" alt="Avatar of john-rocky"/> john-rocky
+				<img src="https://private-avatars.githubusercontent.com/u/23278992?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwMjAsIm5iZiI6MTczNDU2OTgyMCwicGF0aCI6Ii91LzIzMjc4OTkyIn0.QxVu_qlHaeX-eoHyWa-E77S9Zq0jnAx9wj11Eyk_-RY&s=72&u=3b7d470735a4bd8a9f0781e919244d03742c476a&v=4" width="24" alt="Avatar of john-rocky"/> john-rocky
 			</a><br/>
 			MLBoyDaisukeMajima
 		</td>
@@ -5794,7 +5794,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>438</td>
 		<td>
 			<a target="_blank" href="https://github.com/dominhhai">
-				<img src="https://private-avatars.githubusercontent.com/u/1484298?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEzNDAsIm5iZiI6MTczNDQ2MDE0MCwicGF0aCI6Ii91LzE0ODQyOTgifQ.tdU_q_KJ7FsaridEDcbp7YNPHiblcIlqmsVKzjXT_W8&s=72&v=4" width="24" alt="Avatar of dominhhai"/> dominhhai
+				<img src="https://private-avatars.githubusercontent.com/u/1484298?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzExNDAsIm5iZiI6MTczNDU2OTk0MCwicGF0aCI6Ii91LzE0ODQyOTgifQ.B3YhiND4Npf_k48Ef6SZp1NeRxkoCnyKDG00ULgD0Ic&s=72&v=4" width="24" alt="Avatar of dominhhai"/> dominhhai
 			</a><br/>
 			Do Minh Hai
 		</td>
@@ -5807,7 +5807,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>439</td>
 		<td>
 			<a target="_blank" href="https://github.com/rejasupotaro">
-				<img src="https://private-avatars.githubusercontent.com/u/883148?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExNjAsIm5iZiI6MTczNDQ1OTk2MCwicGF0aCI6Ii91Lzg4MzE0OCJ9.sSLoiNLkg4OcnRatRA0g1ujntm2KikcwZ6ylCbE1nwY&s=72&u=b0bc68a926a9aa512c5baecf44cc302d2dca9759&v=4" width="24" alt="Avatar of rejasupotaro"/> rejasupotaro
+				<img src="https://private-avatars.githubusercontent.com/u/883148?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5NjAsIm5iZiI6MTczNDU2OTc2MCwicGF0aCI6Ii91Lzg4MzE0OCJ9.yiHYDc8VjAgYMbx6cvSzCfP_06vyiNW7YMN_nffW_EQ&s=72&u=b0bc68a926a9aa512c5baecf44cc302d2dca9759&v=4" width="24" alt="Avatar of rejasupotaro"/> rejasupotaro
 			</a><br/>
 			Kentaro Takiguchi
 		</td>
@@ -5820,7 +5820,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>440</td>
 		<td>
 			<a target="_blank" href="https://github.com/onk">
-				<img src="https://private-avatars.githubusercontent.com/u/203046?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3MDAsIm5iZiI6MTczNDQ2MDUwMCwicGF0aCI6Ii91LzIwMzA0NiJ9._5Ft9lINWMZw4cmWkb9Hmnn8xnZV1MnCkg6ABKuY7EA&s=72&v=4" width="24" alt="Avatar of onk"/> onk
+				<img src="https://private-avatars.githubusercontent.com/u/203046?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1MDAsIm5iZiI6MTczNDU3MDMwMCwicGF0aCI6Ii91LzIwMzA0NiJ9.DVWs81DKZXYDXsi1T2aD-PHdQNTD2TTIPUSgFClqiL4&s=72&v=4" width="24" alt="Avatar of onk"/> onk
 			</a><br/>
 			Takafumi ONAKA
 		</td>
@@ -5833,7 +5833,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>441</td>
 		<td>
 			<a target="_blank" href="https://github.com/saki4510t">
-				<img src="https://private-avatars.githubusercontent.com/u/6743409?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyODAsIm5iZiI6MTczNDQ2MDA4MCwicGF0aCI6Ii91LzY3NDM0MDkifQ.9SQaExg03HTORtNRHVH0v4gDl9lSlgdWww8isRwawd4&s=72&v=4" width="24" alt="Avatar of saki4510t"/> saki4510t
+				<img src="https://private-avatars.githubusercontent.com/u/6743409?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwODAsIm5iZiI6MTczNDU2OTg4MCwicGF0aCI6Ii91LzY3NDM0MDkifQ.rRNNXb1spGMUl0VqpF1R4Ji5nXMqi9d2ljlQ5xWq0Rw&s=72&v=4" width="24" alt="Avatar of saki4510t"/> saki4510t
 			</a><br/>
 			saki
 		</td>
@@ -5846,7 +5846,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>442</td>
 		<td>
 			<a target="_blank" href="https://github.com/errir503">
-				<img src="https://private-avatars.githubusercontent.com/u/83625655?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyODAsIm5iZiI6MTczNDQ2MDA4MCwicGF0aCI6Ii91LzgzNjI1NjU1In0.jcalzCFD4aGE6Wjplx6cFmchfjHEZHsU2beI6zDwO34&s=72&u=269c5e2ec815c30cce77f8dd83ef70f6249fe19e&v=4" width="24" alt="Avatar of errir503"/> errir503
+				<img src="https://private-avatars.githubusercontent.com/u/83625655?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwODAsIm5iZiI6MTczNDU2OTg4MCwicGF0aCI6Ii91LzgzNjI1NjU1In0.AHa4BJUoygNKLbE0NRmBpjfnBLUnbBuweR6Z9odfdl8&s=72&u=269c5e2ec815c30cce77f8dd83ef70f6249fe19e&v=4" width="24" alt="Avatar of errir503"/> errir503
 			</a><br/>
 			errir
 		</td>
@@ -5859,7 +5859,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>443</td>
 		<td>
 			<a target="_blank" href="https://github.com/monochromegane">
-				<img src="https://private-avatars.githubusercontent.com/u/1845486?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0NjAsIm5iZiI6MTczNDQ2MDI2MCwicGF0aCI6Ii91LzE4NDU0ODYifQ.wuqkA70Dr0oXD667UkhIivE0yksNbbDIy2XZLjYaVs0&s=72&v=4" width="24" alt="Avatar of monochromegane"/> monochromegane
+				<img src="https://private-avatars.githubusercontent.com/u/1845486?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyNjAsIm5iZiI6MTczNDU3MDA2MCwicGF0aCI6Ii91LzE4NDU0ODYifQ.DcvlRK54DB7c7fnG15CnlyyOJEy4YC_J_fKT9jbu81M&s=72&v=4" width="24" alt="Avatar of monochromegane"/> monochromegane
 			</a><br/>
 			monochromegane
 		</td>
@@ -5872,7 +5872,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>444</td>
 		<td>
 			<a target="_blank" href="https://github.com/kyubuns">
-				<img src="https://private-avatars.githubusercontent.com/u/961165?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyODAsIm5iZiI6MTczNDQ2MDA4MCwicGF0aCI6Ii91Lzk2MTE2NSJ9.wOt0C_IjgoY_hu_Q838RYOogg1VseagOXyDCHnHbg68&s=72&u=a3763de3c858dba9e6614114b52991be685f093f&v=4" width="24" alt="Avatar of kyubuns"/> kyubuns
+				<img src="https://private-avatars.githubusercontent.com/u/961165?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwODAsIm5iZiI6MTczNDU2OTg4MCwicGF0aCI6Ii91Lzk2MTE2NSJ9.VhMEY_zP9JGbVEcxHAxNfRrD6ie0Z3CABgNo2AdBkRk&s=72&u=a3763de3c858dba9e6614114b52991be685f093f&v=4" width="24" alt="Avatar of kyubuns"/> kyubuns
 			</a><br/>
 			kyubuns
 		</td>
@@ -5885,7 +5885,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>445</td>
 		<td>
 			<a target="_blank" href="https://github.com/Dosugamea">
-				<img src="https://private-avatars.githubusercontent.com/u/17107514?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE4MjAsIm5iZiI6MTczNDQ2MDYyMCwicGF0aCI6Ii91LzE3MTA3NTE0In0.N0VtHG_dFjqGtFbrxX0jmJnIELodm7shTtF-mijtmvU&s=72&u=bd4411de5818b2bcaa2689f20b7a5d89248bef1c&v=4" width="24" alt="Avatar of Dosugamea"/> Dosugamea
+				<img src="https://private-avatars.githubusercontent.com/u/17107514?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE2MjAsIm5iZiI6MTczNDU3MDQyMCwicGF0aCI6Ii91LzE3MTA3NTE0In0.5hJpRY7v5Jkv2L-9GgfCqa-cH2LWxVGsF1kc_4P2cuw&s=72&u=bd4411de5818b2bcaa2689f20b7a5d89248bef1c&v=4" width="24" alt="Avatar of Dosugamea"/> Dosugamea
 			</a><br/>
 			Omado
 		</td>
@@ -5898,7 +5898,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>446</td>
 		<td>
 			<a target="_blank" href="https://github.com/nateberkopec">
-				<img src="https://private-avatars.githubusercontent.com/u/845662?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0NjAsIm5iZiI6MTczNDQ2MDI2MCwicGF0aCI6Ii91Lzg0NTY2MiJ9.yNyu88HjLPEpDVERWhDRz9ehdW4PrqJ7JQkJAcC4Y2E&s=72&v=4" width="24" alt="Avatar of nateberkopec"/> nateberkopec
+				<img src="https://private-avatars.githubusercontent.com/u/845662?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyNjAsIm5iZiI6MTczNDU3MDA2MCwicGF0aCI6Ii91Lzg0NTY2MiJ9.iUqynPFlo5B_XZ6T_h8qj_631DGkz0dNlSrMAYYtiJE&s=72&v=4" width="24" alt="Avatar of nateberkopec"/> nateberkopec
 			</a><br/>
 			Nate Berkopec
 		</td>
@@ -5911,7 +5911,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>447</td>
 		<td>
 			<a target="_blank" href="https://github.com/foostan">
-				<img src="https://private-avatars.githubusercontent.com/u/736191?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyODAsIm5iZiI6MTczNDQ2MDA4MCwicGF0aCI6Ii91LzczNjE5MSJ9.C2C1FI4P4x9IzH_MKqZ6vmCDRmfYZtwS1dlNOqpNLKI&s=72&u=008b084f9de9349920b286c8d66b676e65f43874&v=4" width="24" alt="Avatar of foostan"/> foostan
+				<img src="https://private-avatars.githubusercontent.com/u/736191?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwODAsIm5iZiI6MTczNDU2OTg4MCwicGF0aCI6Ii91LzczNjE5MSJ9.obhkCSagH2TFrHp26bprpgunXh7k0F0V2_n_dUDGmto&s=72&u=008b084f9de9349920b286c8d66b676e65f43874&v=4" width="24" alt="Avatar of foostan"/> foostan
 			</a><br/>
 			Kosuke Adachi
 		</td>
@@ -5924,7 +5924,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>448</td>
 		<td>
 			<a target="_blank" href="https://github.com/yorkxin">
-				<img src="https://private-avatars.githubusercontent.com/u/10737?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3NjAsIm5iZiI6MTczNDQ2MDU2MCwicGF0aCI6Ii91LzEwNzM3In0.Dh16rg1OrT8uVYOCGHjJn5dCfa3ZEPeh90DsEoGZlps&s=72&u=a8ec6b4c9c4fb1cd387302d0834db2e1707205bf&v=4" width="24" alt="Avatar of yorkxin"/> yorkxin
+				<img src="https://private-avatars.githubusercontent.com/u/10737?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1NjAsIm5iZiI6MTczNDU3MDM2MCwicGF0aCI6Ii91LzEwNzM3In0.3LsI4cYpipoDR6OwNXTqGKqCYOyRVVSw4MyThtXBRAw&s=72&u=a8ec6b4c9c4fb1cd387302d0834db2e1707205bf&v=4" width="24" alt="Avatar of yorkxin"/> yorkxin
 			</a><br/>
 			YuCheng Chuang
 		</td>
@@ -5937,7 +5937,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>449</td>
 		<td>
 			<a target="_blank" href="https://github.com/karlcow">
-				<img src="https://private-avatars.githubusercontent.com/u/505230?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExNjAsIm5iZiI6MTczNDQ1OTk2MCwicGF0aCI6Ii91LzUwNTIzMCJ9.YPh5T0ExBqmR8P187bFJPE-jILpjgx9LfW6VINV9lrk&s=72&u=229ea79bfe951340b1e1eab44c249c49c0b03e2d&v=4" width="24" alt="Avatar of karlcow"/> karlcow
+				<img src="https://private-avatars.githubusercontent.com/u/505230?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5NjAsIm5iZiI6MTczNDU2OTc2MCwicGF0aCI6Ii91LzUwNTIzMCJ9.89CdT6JogO1H3n_JC_Iy3-28vwU_zk9mNwO-z6r5fXg&s=72&u=229ea79bfe951340b1e1eab44c249c49c0b03e2d&v=4" width="24" alt="Avatar of karlcow"/> karlcow
 			</a><br/>
 			Karl Dubost
 		</td>
@@ -5950,7 +5950,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>450</td>
 		<td>
 			<a target="_blank" href="https://github.com/hako-mikan">
-				<img src="https://private-avatars.githubusercontent.com/u/122196982?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjIwMDAsIm5iZiI6MTczNDQ2MDgwMCwicGF0aCI6Ii91LzEyMjE5Njk4MiJ9.Ne13p0M-wMny2isdbM7k4SKFnQsihk5LQjDnNWXQZck&s=72&u=2050085ba8fb451611c22b0570d1b22c41715aef&v=4" width="24" alt="Avatar of hako-mikan"/> hako-mikan
+				<img src="https://private-avatars.githubusercontent.com/u/122196982?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE4MDAsIm5iZiI6MTczNDU3MDYwMCwicGF0aCI6Ii91LzEyMjE5Njk4MiJ9.35CFhA3nOK4WTogmLds3R_Xd33804pPU28381L7WvbM&s=72&u=2050085ba8fb451611c22b0570d1b22c41715aef&v=4" width="24" alt="Avatar of hako-mikan"/> hako-mikan
 			</a><br/>
 			No Name
 		</td>
@@ -5963,7 +5963,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>451</td>
 		<td>
 			<a target="_blank" href="https://github.com/HidenoriMatsubayashi">
-				<img src="https://private-avatars.githubusercontent.com/u/62131389?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEzNDAsIm5iZiI6MTczNDQ2MDE0MCwicGF0aCI6Ii91LzYyMTMxMzg5In0.uy8ej5iuY63UcDY79SqV4mrfToMXkB1lglCiYnr6SSc&s=72&u=f2e7abb0ce31bd831bcd6b27e4db4e0ec06068f9&v=4" width="24" alt="Avatar of HidenoriMatsubayashi"/> HidenoriMatsubayashi
+				<img src="https://private-avatars.githubusercontent.com/u/62131389?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzExNDAsIm5iZiI6MTczNDU2OTk0MCwicGF0aCI6Ii91LzYyMTMxMzg5In0.3bi3uHtgkUhrUBlUjSJWPCnmZic4-r_qP294F9eN1Hk&s=72&u=f2e7abb0ce31bd831bcd6b27e4db4e0ec06068f9&v=4" width="24" alt="Avatar of HidenoriMatsubayashi"/> HidenoriMatsubayashi
 			</a><br/>
 			Hidenori
 		</td>
@@ -5976,7 +5976,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>452</td>
 		<td>
 			<a target="_blank" href="https://github.com/kissy24">
-				<img src="https://private-avatars.githubusercontent.com/u/12809711?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE5NDAsIm5iZiI6MTczNDQ2MDc0MCwicGF0aCI6Ii91LzEyODA5NzExIn0.G8f3PkqhBNS-IaBxxy7j9kiljNsYR0yRAcKcIFm8nn4&s=72&u=c1cbeba3c70237f188beabca38e01eff6007c9d1&v=4" width="24" alt="Avatar of kissy24"/> kissy24
+				<img src="https://private-avatars.githubusercontent.com/u/12809711?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE3NDAsIm5iZiI6MTczNDU3MDU0MCwicGF0aCI6Ii91LzEyODA5NzExIn0.wz8dG66cddlCzvW3xztSD8NSVoOrlqcy2Sqx2cRHMfE&s=72&u=c1cbeba3c70237f188beabca38e01eff6007c9d1&v=4" width="24" alt="Avatar of kissy24"/> kissy24
 			</a><br/>
 			kissy24
 		</td>
@@ -5989,7 +5989,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>453</td>
 		<td>
 			<a target="_blank" href="https://github.com/eagletmt">
-				<img src="https://private-avatars.githubusercontent.com/u/69755?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0NjAsIm5iZiI6MTczNDQ2MDI2MCwicGF0aCI6Ii91LzY5NzU1In0.w9XRtUX2g4fu64a-q8YCx-zYGVW2bKj7xAZHbXYTLC4&s=72&u=ce9cb3784f418db29aff4d70503991a3c85f9753&v=4" width="24" alt="Avatar of eagletmt"/> eagletmt
+				<img src="https://private-avatars.githubusercontent.com/u/69755?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyNjAsIm5iZiI6MTczNDU3MDA2MCwicGF0aCI6Ii91LzY5NzU1In0.Ine4OEa5LzvIyLDX25Ngz1T47n81pw52TwP8z4pEigU&s=72&u=ce9cb3784f418db29aff4d70503991a3c85f9753&v=4" width="24" alt="Avatar of eagletmt"/> eagletmt
 			</a><br/>
 			Kohei Suzuki
 		</td>
@@ -6002,7 +6002,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>454</td>
 		<td>
 			<a target="_blank" href="https://github.com/dsh0416">
-				<img src="https://private-avatars.githubusercontent.com/u/2303500?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA2ODAsIm5iZiI6MTczNDQ1OTQ4MCwicGF0aCI6Ii91LzIzMDM1MDAifQ.QpUeWcFSMIIPw76XtnW58_wm3dHa2fan2-Hv0JNKb6g&s=72&u=f718d3f7a5915d54cfa5607ad27c930778de7bab&v=4" width="24" alt="Avatar of dsh0416"/> dsh0416
+				<img src="https://private-avatars.githubusercontent.com/u/2303500?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA0ODAsIm5iZiI6MTczNDU2OTI4MCwicGF0aCI6Ii91LzIzMDM1MDAifQ.OfIloCsof2SX_z5RmAtUySnq2A4G7SSqSarYbNYesI0&s=72&u=f718d3f7a5915d54cfa5607ad27c930778de7bab&v=4" width="24" alt="Avatar of dsh0416"/> dsh0416
 			</a><br/>
 			Delton Ding
 		</td>
@@ -6015,7 +6015,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>455</td>
 		<td>
 			<a target="_blank" href="https://github.com/superbrothers">
-				<img src="https://private-avatars.githubusercontent.com/u/230185?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE2NDAsIm5iZiI6MTczNDQ2MDQ0MCwicGF0aCI6Ii91LzIzMDE4NSJ9.ZHkVZyLFpCg7UxMtoT_32qDazmZKOjLSCbps45UcHyI&s=72&v=4" width="24" alt="Avatar of superbrothers"/> superbrothers
+				<img src="https://private-avatars.githubusercontent.com/u/230185?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE0NDAsIm5iZiI6MTczNDU3MDI0MCwicGF0aCI6Ii91LzIzMDE4NSJ9.RRAQsy_sgk4BXsOkpl0Zf4_EIl0JMXDtlLas9A4UnP4&s=72&v=4" width="24" alt="Avatar of superbrothers"/> superbrothers
 			</a><br/>
 			Kazuki Suda
 		</td>
@@ -6028,7 +6028,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>456</td>
 		<td>
 			<a target="_blank" href="https://github.com/Envek">
-				<img src="https://private-avatars.githubusercontent.com/u/264400?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE4ODAsIm5iZiI6MTczNDQ2MDY4MCwicGF0aCI6Ii91LzI2NDQwMCJ9.hRC-aEODcJrrYQrcO_N7rh5rVxUZmB5_tebcm6LKLKQ&s=72&u=94a52ccde1690492ab501e89a400878548f7b66c&v=4" width="24" alt="Avatar of Envek"/> Envek
+				<img src="https://private-avatars.githubusercontent.com/u/264400?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE2ODAsIm5iZiI6MTczNDU3MDQ4MCwicGF0aCI6Ii91LzI2NDQwMCJ9.pmrV76T-V3DLp_zH57qkTG_hFDPgYusB1E4kX68r9Ro&s=72&u=94a52ccde1690492ab501e89a400878548f7b66c&v=4" width="24" alt="Avatar of Envek"/> Envek
 			</a><br/>
 			Andrey Novikov
 		</td>
@@ -6041,7 +6041,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>457</td>
 		<td>
 			<a target="_blank" href="https://github.com/odashi">
-				<img src="https://private-avatars.githubusercontent.com/u/1023695?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1MjAsIm5iZiI6MTczNDQ2MDMyMCwicGF0aCI6Ii91LzEwMjM2OTUifQ.Nigw81bmLVY0uNJ5d2eaAv36mB9-UuR3RA9_3ecrJHc&s=72&u=93909d413d1f1ff7cc447f09daeaf51df823b8a3&v=4" width="24" alt="Avatar of odashi"/> odashi
+				<img src="https://private-avatars.githubusercontent.com/u/1023695?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzMjAsIm5iZiI6MTczNDU3MDEyMCwicGF0aCI6Ii91LzEwMjM2OTUifQ.xxfe6i72et55LS9CZPk-7TjeDPpHmuBxSGACqogedqg&s=72&u=93909d413d1f1ff7cc447f09daeaf51df823b8a3&v=4" width="24" alt="Avatar of odashi"/> odashi
 			</a><br/>
 			Yusuke Oda
 		</td>
@@ -6053,8 +6053,21 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 	<tr>
 		<td>458</td>
 		<td>
+			<a target="_blank" href="https://github.com/lin-toto">
+				<img src="https://private-avatars.githubusercontent.com/u/2204202?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA3MjAsIm5iZiI6MTczNDU2OTUyMCwicGF0aCI6Ii91LzIyMDQyMDIifQ.y9fGbPPr3E_cwPu9GEz-O1hTvj7GA5TYjkrGr1dmlZU&s=72&u=0227ef12158c08bfc6e679dccca6eb2f7bc80b7e&v=4" width="24" alt="Avatar of lin-toto"/> lin-toto
+			</a><br/>
+			Fangzheng Lin
+		</td>
+		<td>@luogudev  </td>
+		<td><a target="_blank" href="https://twitter.com/lin_toto">lin_toto</a></td>
+		<td>Tokyo Japan</td>
+		<td>161</td>
+	</tr>
+	<tr>
+		<td>459</td>
+		<td>
 			<a target="_blank" href="https://github.com/yuk7">
-				<img src="https://private-avatars.githubusercontent.com/u/29954265?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEwNDAsIm5iZiI6MTczNDQ1OTg0MCwicGF0aCI6Ii91LzI5OTU0MjY1In0.tQ7L3TyzMLlXKytNFSzytsmyjRvX9M08IsAlMJi_yds&s=72&u=80343a1fe2f7fed74e97a76f83cc2b840ef7731a&v=4" width="24" alt="Avatar of yuk7"/> yuk7
+				<img src="https://private-avatars.githubusercontent.com/u/29954265?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA4NDAsIm5iZiI6MTczNDU2OTY0MCwicGF0aCI6Ii91LzI5OTU0MjY1In0.5BkOkdGyFdhbcQX6sf48lUnZYiwoEPyVJMJa-Eel5rs&s=72&u=80343a1fe2f7fed74e97a76f83cc2b840ef7731a&v=4" width="24" alt="Avatar of yuk7"/> yuk7
 			</a><br/>
 			yuk7
 		</td>
@@ -6064,23 +6077,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>160</td>
 	</tr>
 	<tr>
-		<td>459</td>
-		<td>
-			<a target="_blank" href="https://github.com/lin-toto">
-				<img src="https://private-avatars.githubusercontent.com/u/2204202?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE4MjAsIm5iZiI6MTczNDQ2MDYyMCwicGF0aCI6Ii91LzIyMDQyMDIifQ.fDvGL-7gZN4GDSIxs1QpE1AJSF3gcFxCj2YArV8IsFg&s=72&u=0227ef12158c08bfc6e679dccca6eb2f7bc80b7e&v=4" width="24" alt="Avatar of lin-toto"/> lin-toto
-			</a><br/>
-			Fangzheng Lin
-		</td>
-		<td>@luogudev  </td>
-		<td><a target="_blank" href="https://twitter.com/lin_toto">lin_toto</a></td>
-		<td>Tokyo Japan</td>
-		<td>160</td>
-	</tr>
-	<tr>
 		<td>460</td>
 		<td>
 			<a target="_blank" href="https://github.com/moznion">
-				<img src="https://private-avatars.githubusercontent.com/u/1422834?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1MjAsIm5iZiI6MTczNDQ2MDMyMCwicGF0aCI6Ii91LzE0MjI4MzQifQ.Eu8rqTIqDqQOtrRC1qAOXQ33ujibI7iBxbTEYSmg3wg&s=72&v=4" width="24" alt="Avatar of moznion"/> moznion
+				<img src="https://private-avatars.githubusercontent.com/u/1422834?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzMjAsIm5iZiI6MTczNDU3MDEyMCwicGF0aCI6Ii91LzE0MjI4MzQifQ.5XlzqeFWGtFdRKjyv2DlWfIrL7rY02tX_OkZKiWEXfg&s=72&v=4" width="24" alt="Avatar of moznion"/> moznion
 			</a><br/>
 			moznion
 		</td>
@@ -6093,7 +6093,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>461</td>
 		<td>
 			<a target="_blank" href="https://github.com/omasanori">
-				<img src="https://private-avatars.githubusercontent.com/u/167209?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExMDAsIm5iZiI6MTczNDQ1OTkwMCwicGF0aCI6Ii91LzE2NzIwOSJ9.M8nyfHeEy2WO4ArUBG8xgXtxwlzM7uKPDgfyauS5HAI&s=72&v=4" width="24" alt="Avatar of omasanori"/> omasanori
+				<img src="https://private-avatars.githubusercontent.com/u/167209?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5MDAsIm5iZiI6MTczNDU2OTcwMCwicGF0aCI6Ii91LzE2NzIwOSJ9.2xbYEqv3t7AUKc_BNORXQBy_vTN2RA0ylSVdIsC4wsQ&s=72&v=4" width="24" alt="Avatar of omasanori"/> omasanori
 			</a><br/>
 			Masanori Ogino
 		</td>
@@ -6106,7 +6106,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>462</td>
 		<td>
 			<a target="_blank" href="https://github.com/megabitsenmzq">
-				<img src="https://private-avatars.githubusercontent.com/u/5499507?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0NjAsIm5iZiI6MTczNDQ2MDI2MCwicGF0aCI6Ii91LzU0OTk1MDcifQ.W1N0qJT2YcOE67U-NTJI9f7gvZmE9bBsgXkbbKtJNA0&s=72&u=c6fd767c197c3c6b9a60f59d9975bc4ea69d702c&v=4" width="24" alt="Avatar of megabitsenmzq"/> megabitsenmzq
+				<img src="https://private-avatars.githubusercontent.com/u/5499507?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyNjAsIm5iZiI6MTczNDU3MDA2MCwicGF0aCI6Ii91LzU0OTk1MDcifQ.QmkSmsMI5l0t70Q1DXWTlv2Dw9D4_tLL6-k9W5C4OME&s=72&u=c6fd767c197c3c6b9a60f59d9975bc4ea69d702c&v=4" width="24" alt="Avatar of megabitsenmzq"/> megabitsenmzq
 			</a><br/>
 			Jinyu Meng
 		</td>
@@ -6118,8 +6118,21 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 	<tr>
 		<td>463</td>
 		<td>
+			<a target="_blank" href="https://github.com/agibsonccc">
+				<img src="https://private-avatars.githubusercontent.com/u/1144306?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA3ODAsIm5iZiI6MTczNDU2OTU4MCwicGF0aCI6Ii91LzExNDQzMDYifQ.lSIKtnKL6txG3OzRvzhP81PMOvTnz9c6oxww_yWr3-A&s=72&u=ec00ee0813a082c39b6c1160f302a537e3c2ffd8&v=4" width="24" alt="Avatar of agibsonccc"/> agibsonccc
+			</a><br/>
+			Adam Gibson
+		</td>
+		<td>Httpkonduitai </td>
+		<td><a target="_blank" href="https://twitter.com/agibsonccc">agibsonccc</a></td>
+		<td>Tokyo Japan</td>
+		<td>156</td>
+	</tr>
+	<tr>
+		<td>464</td>
+		<td>
 			<a target="_blank" href="https://github.com/karupanerura">
-				<img src="https://private-avatars.githubusercontent.com/u/374550?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3NjAsIm5iZiI6MTczNDQ2MDU2MCwicGF0aCI6Ii91LzM3NDU1MCJ9.D3r__ZTCCU1QfnH8K98BQD6GugyVK77F9hs4DZXF4iE&s=72&u=f92e269d06a8fde48221b9fbe0a9d9206ef9b7b0&v=4" width="24" alt="Avatar of karupanerura"/> karupanerura
+				<img src="https://private-avatars.githubusercontent.com/u/374550?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1NjAsIm5iZiI6MTczNDU3MDM2MCwicGF0aCI6Ii91LzM3NDU1MCJ9.2xCoVIriYYNE4aITw0BsudplZAT2PsNyw3k-D9ueGLE&s=72&u=f92e269d06a8fde48221b9fbe0a9d9206ef9b7b0&v=4" width="24" alt="Avatar of karupanerura"/> karupanerura
 			</a><br/>
 			karupanerura
 		</td>
@@ -6129,23 +6142,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>156</td>
 	</tr>
 	<tr>
-		<td>464</td>
-		<td>
-			<a target="_blank" href="https://github.com/agibsonccc">
-				<img src="https://private-avatars.githubusercontent.com/u/1144306?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA5ODAsIm5iZiI6MTczNDQ1OTc4MCwicGF0aCI6Ii91LzExNDQzMDYifQ.d6Agw6-BAAcnCeYht3tACIICST53WNTeY3cRmyozwoU&s=72&u=ec00ee0813a082c39b6c1160f302a537e3c2ffd8&v=4" width="24" alt="Avatar of agibsonccc"/> agibsonccc
-			</a><br/>
-			Adam Gibson
-		</td>
-		<td>Httpkonduitai </td>
-		<td><a target="_blank" href="https://twitter.com/agibsonccc">agibsonccc</a></td>
-		<td>Tokyo Japan</td>
-		<td>155</td>
-	</tr>
-	<tr>
 		<td>465</td>
 		<td>
 			<a target="_blank" href="https://github.com/saltyshiomix">
-				<img src="https://private-avatars.githubusercontent.com/u/5608079?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExMDAsIm5iZiI6MTczNDQ1OTkwMCwicGF0aCI6Ii91LzU2MDgwNzkifQ.X2OrW5m5c4oErcSEdHytYJUmBiOPVjahNlxDMq7YrBU&s=72&u=940e5522454b54ca674ade58a95a4b48ddef9acf&v=4" width="24" alt="Avatar of saltyshiomix"/> saltyshiomix
+				<img src="https://private-avatars.githubusercontent.com/u/5608079?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5MDAsIm5iZiI6MTczNDU2OTcwMCwicGF0aCI6Ii91LzU2MDgwNzkifQ.lQf_0gRt-znWXs-gugKB8tIgOVVMdjaV5212n33O0PQ&s=72&u=940e5522454b54ca674ade58a95a4b48ddef9acf&v=4" width="24" alt="Avatar of saltyshiomix"/> saltyshiomix
 			</a><br/>
 			Shiono Yoshihide
 		</td>
@@ -6158,7 +6158,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>466</td>
 		<td>
 			<a target="_blank" href="https://github.com/shiraji">
-				<img src="https://private-avatars.githubusercontent.com/u/3675458?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyODAsIm5iZiI6MTczNDQ2MDA4MCwicGF0aCI6Ii91LzM2NzU0NTgifQ.9Bi3TWoqcFtIhO2fxL9K3uuNIccb2M3036eOfs0aMB0&s=72&v=4" width="24" alt="Avatar of shiraji"/> shiraji
+				<img src="https://private-avatars.githubusercontent.com/u/3675458?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwODAsIm5iZiI6MTczNDU2OTg4MCwicGF0aCI6Ii91LzM2NzU0NTgifQ.P7aJc4kCfOCOTyAA6Ugu_BBxF1TSuJ-QQl6VMeqrhPA&s=72&v=4" width="24" alt="Avatar of shiraji"/> shiraji
 			</a><br/>
 			Yoshinori Isogai
 		</td>
@@ -6171,7 +6171,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>467</td>
 		<td>
 			<a target="_blank" href="https://github.com/yujinakayama">
-				<img src="https://private-avatars.githubusercontent.com/u/83656?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjIwMDAsIm5iZiI6MTczNDQ2MDgwMCwicGF0aCI6Ii91LzgzNjU2In0.drEc5wXA61XiLxzf5rtzLHKW5P0wog5h7VkNnkAL5xA&s=72&u=4c0d9fc8bbe6d673e838e7d02c3678f746e70c1f&v=4" width="24" alt="Avatar of yujinakayama"/> yujinakayama
+				<img src="https://private-avatars.githubusercontent.com/u/83656?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE4MDAsIm5iZiI6MTczNDU3MDYwMCwicGF0aCI6Ii91LzgzNjU2In0.2RJqFSnKIgr-oFT_UiRUARwGuHUaPhU5KOIiz16REj0&s=72&u=4c0d9fc8bbe6d673e838e7d02c3678f746e70c1f&v=4" width="24" alt="Avatar of yujinakayama"/> yujinakayama
 			</a><br/>
 			Yuji Nakayama
 		</td>
@@ -6184,7 +6184,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>468</td>
 		<td>
 			<a target="_blank" href="https://github.com/slankdev">
-				<img src="https://private-avatars.githubusercontent.com/u/9874676?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0NjAsIm5iZiI6MTczNDQ2MDI2MCwicGF0aCI6Ii91Lzk4NzQ2NzYifQ.18959L5m0r0T00QdAJ9vLS3TcoaI6l85S7b3eQzUmCE&s=72&u=995f4883e164d4e579797f79d709e80b5278bd7d&v=4" width="24" alt="Avatar of slankdev"/> slankdev
+				<img src="https://private-avatars.githubusercontent.com/u/9874676?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyNjAsIm5iZiI6MTczNDU3MDA2MCwicGF0aCI6Ii91Lzk4NzQ2NzYifQ.oJPcWsZEEDOlKb_1LabwiEVOUiJCWhfmvyiBepyG6hs&s=72&u=995f4883e164d4e579797f79d709e80b5278bd7d&v=4" width="24" alt="Avatar of slankdev"/> slankdev
 			</a><br/>
 			Hiroki SHIROKURA
 		</td>
@@ -6197,7 +6197,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>469</td>
 		<td>
 			<a target="_blank" href="https://github.com/wass08">
-				<img src="https://private-avatars.githubusercontent.com/u/6551176?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0NjAsIm5iZiI6MTczNDQ2MDI2MCwicGF0aCI6Ii91LzY1NTExNzYifQ.2ZJ2CkKUusxkKXthAbt8QWDxLoijMzZPXcC2v2naa6Q&s=72&u=56c99fbb1c10444df373cc0796b9436d32490c15&v=4" width="24" alt="Avatar of wass08"/> wass08
+				<img src="https://private-avatars.githubusercontent.com/u/6551176?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyNjAsIm5iZiI6MTczNDU3MDA2MCwicGF0aCI6Ii91LzY1NTExNzYifQ.J-W2urqYWK6xPHgCB3j-c99VBzrIKdn8w816pTNlQT4&s=72&u=56c99fbb1c10444df373cc0796b9436d32490c15&v=4" width="24" alt="Avatar of wass08"/> wass08
 			</a><br/>
 			Wassim SAMAD
 		</td>
@@ -6210,7 +6210,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>470</td>
 		<td>
 			<a target="_blank" href="https://github.com/mirakui">
-				<img src="https://private-avatars.githubusercontent.com/u/20384?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1ODAsIm5iZiI6MTczNDQ2MDM4MCwicGF0aCI6Ii91LzIwMzg0In0.nQ9RlZhoHzRPToEo8laVGO2bwxKndMo_uQuRnR_Mxy4&s=72&v=4" width="24" alt="Avatar of mirakui"/> mirakui
+				<img src="https://private-avatars.githubusercontent.com/u/20384?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzODAsIm5iZiI6MTczNDU3MDE4MCwicGF0aCI6Ii91LzIwMzg0In0.XP1KbeGiKZCs8V8xMYM5D8HL6GZcxcsB9OsTTg6Kt9I&s=72&v=4" width="24" alt="Avatar of mirakui"/> mirakui
 			</a><br/>
 			Issei Naruta
 		</td>
@@ -6223,7 +6223,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>471</td>
 		<td>
 			<a target="_blank" href="https://github.com/koba04">
-				<img src="https://private-avatars.githubusercontent.com/u/250407?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyODAsIm5iZiI6MTczNDQ2MDA4MCwicGF0aCI6Ii91LzI1MDQwNyJ9.jr2PsGMD-8uf-HGvraVBMFnrnWi9lVAn8_1APM0EhTc&s=72&u=ee3b2b5462a256ac5e9e0aabc98359d09b3ddb13&v=4" width="24" alt="Avatar of koba04"/> koba04
+				<img src="https://private-avatars.githubusercontent.com/u/250407?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwODAsIm5iZiI6MTczNDU2OTg4MCwicGF0aCI6Ii91LzI1MDQwNyJ9.RmmGp-TLVWZk6v3kWVZcelZ1d75eMgQ0t44jC_FMH9w&s=72&u=ee3b2b5462a256ac5e9e0aabc98359d09b3ddb13&v=4" width="24" alt="Avatar of koba04"/> koba04
 			</a><br/>
 			Toru Kobayashi
 		</td>
@@ -6236,7 +6236,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>472</td>
 		<td>
 			<a target="_blank" href="https://github.com/miya0001">
-				<img src="https://private-avatars.githubusercontent.com/u/309946?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyMjAsIm5iZiI6MTczNDQ2MDAyMCwicGF0aCI6Ii91LzMwOTk0NiJ9.9Ipj9IXaSxxhAeJpRNqqIhtppmfdyd1uRXPGWuMAhv4&s=72&u=73defd667d20e79dd2abf32c4cc0cd22a03af476&v=4" width="24" alt="Avatar of miya0001"/> miya0001
+				<img src="https://private-avatars.githubusercontent.com/u/309946?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwMjAsIm5iZiI6MTczNDU2OTgyMCwicGF0aCI6Ii91LzMwOTk0NiJ9.0S1blnQrB_MwE4VBrp2XFCmAzbDBJ2RlnRTDmaCbPxo&s=72&u=73defd667d20e79dd2abf32c4cc0cd22a03af476&v=4" width="24" alt="Avatar of miya0001"/> miya0001
 			</a><br/>
 			Takayuki Miyauchi
 		</td>
@@ -6249,7 +6249,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>473</td>
 		<td>
 			<a target="_blank" href="https://github.com/ddPn08">
-				<img src="https://private-avatars.githubusercontent.com/u/71378929?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE5NDAsIm5iZiI6MTczNDQ2MDc0MCwicGF0aCI6Ii91LzcxMzc4OTI5In0.FI0dJUshhhnrmzPFQFeqw3VyxxNfeM7hwrePCMwqmL4&s=72&u=244e9d225ae8b833409fa2062dcc4685abe98b8e&v=4" width="24" alt="Avatar of ddPn08"/> ddPn08
+				<img src="https://private-avatars.githubusercontent.com/u/71378929?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE3NDAsIm5iZiI6MTczNDU3MDU0MCwicGF0aCI6Ii91LzcxMzc4OTI5In0.Zm9h5-JJkXEGErR2wRJdCblzQ3dJFm9dXTeJ6QhOH5A&s=72&u=244e9d225ae8b833409fa2062dcc4685abe98b8e&v=4" width="24" alt="Avatar of ddPn08"/> ddPn08
 			</a><br/>
 			ddPn08
 		</td>
@@ -6262,7 +6262,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>474</td>
 		<td>
 			<a target="_blank" href="https://github.com/13o-bbr-bbq">
-				<img src="https://private-avatars.githubusercontent.com/u/12124329?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA5ODAsIm5iZiI6MTczNDQ1OTc4MCwicGF0aCI6Ii91LzEyMTI0MzI5In0.KJuOYFTkhaYamVksPo1gkwXRGhD8zdH0wfFxFFGFAo4&s=72&u=83db4fea0df5789e5d17c927c22736a4e0e90009&v=4" width="24" alt="Avatar of 13o-bbr-bbq"/> 13o-bbr-bbq
+				<img src="https://private-avatars.githubusercontent.com/u/12124329?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA3ODAsIm5iZiI6MTczNDU2OTU4MCwicGF0aCI6Ii91LzEyMTI0MzI5In0.ZHH0yXaJ1RlKNgWWxd6iIaQdam7Yrryqpik2QyzJqJ8&s=72&u=83db4fea0df5789e5d17c927c22736a4e0e90009&v=4" width="24" alt="Avatar of 13o-bbr-bbq"/> 13o-bbr-bbq
 			</a><br/>
 			isao takaesu
 		</td>
@@ -6275,7 +6275,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>475</td>
 		<td>
 			<a target="_blank" href="https://github.com/jay-kumogata">
-				<img src="https://private-avatars.githubusercontent.com/u/22855286?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE4ODAsIm5iZiI6MTczNDQ2MDY4MCwicGF0aCI6Ii91LzIyODU1Mjg2In0.udhMhy-1HJfXdYwaV9qaY8bcvhXI7iBaMEluNbvYrxU&s=72&u=ed01a6329f2bac7240ba28093a37fcba34725c5b&v=4" width="24" alt="Avatar of jay-kumogata"/> jay-kumogata
+				<img src="https://private-avatars.githubusercontent.com/u/22855286?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA3ODAsIm5iZiI6MTczNDU2OTU4MCwicGF0aCI6Ii91LzIyODU1Mjg2In0.ztoX6PZyolbIb9kkb-Vjk9jOEJYaoi6XQ6K6jXWVImA&s=72&u=ed01a6329f2bac7240ba28093a37fcba34725c5b&v=4" width="24" alt="Avatar of jay-kumogata"/> jay-kumogata
 			</a><br/>
 			Jay Kumogata 
 		</td>
@@ -6288,7 +6288,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>476</td>
 		<td>
 			<a target="_blank" href="https://github.com/syuu1228">
-				<img src="https://private-avatars.githubusercontent.com/u/183648?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjIxMjAsIm5iZiI6MTczNDQ2MDkyMCwicGF0aCI6Ii91LzE4MzY0OCJ9.Bl2GM5Mz5eE0PKzYJy_mmMpsVPJyoX1eVpnefBBU8uI&s=72&v=4" width="24" alt="Avatar of syuu1228"/> syuu1228
+				<img src="https://private-avatars.githubusercontent.com/u/183648?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE5MjAsIm5iZiI6MTczNDU3MDcyMCwicGF0aCI6Ii91LzE4MzY0OCJ9.0vebK1Dbsij_BJfC0JD5SJZfBMY4cgPKhMZFCfVdu9I&s=72&v=4" width="24" alt="Avatar of syuu1228"/> syuu1228
 			</a><br/>
 			Takuya ASADA
 		</td>
@@ -6301,7 +6301,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>477</td>
 		<td>
 			<a target="_blank" href="https://github.com/shu223">
-				<img src="https://private-avatars.githubusercontent.com/u/587614?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyMjAsIm5iZiI6MTczNDQ2MDAyMCwicGF0aCI6Ii91LzU4NzYxNCJ9.KnmMVg5bn8HXKXxk2t9btDjaF2_sTPaZRBATFT0q4cI&s=72&u=d998c7ddba015bd1ea6755b21b815213d7722d77&v=4" width="24" alt="Avatar of shu223"/> shu223
+				<img src="https://private-avatars.githubusercontent.com/u/587614?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwMjAsIm5iZiI6MTczNDU2OTgyMCwicGF0aCI6Ii91LzU4NzYxNCJ9.6_Ng--SUKtjjj7BnMVOeBsENU9PaLdC5grbjb2KkSxk&s=72&u=d998c7ddba015bd1ea6755b21b815213d7722d77&v=4" width="24" alt="Avatar of shu223"/> shu223
 			</a><br/>
 			Shuichi Tsutsumi
 		</td>
@@ -6314,7 +6314,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>478</td>
 		<td>
 			<a target="_blank" href="https://github.com/tokoik">
-				<img src="https://private-avatars.githubusercontent.com/u/1043616?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3MDAsIm5iZiI6MTczNDQ2MDUwMCwicGF0aCI6Ii91LzEwNDM2MTYifQ.chKbICDcn3ctMAqqBZ6jDyFSZYXsSE955Z0yk5IViEI&s=72&u=de6b760b13e6fb506c7aae53cc63f81ab2e40c4b&v=4" width="24" alt="Avatar of tokoik"/> tokoik
+				<img src="https://private-avatars.githubusercontent.com/u/1043616?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1MDAsIm5iZiI6MTczNDU3MDMwMCwicGF0aCI6Ii91LzEwNDM2MTYifQ.iSiO9ULaRdbvixSGHmoc6m2j4z2sFLC_i5cI0Ru5_w4&s=72&u=de6b760b13e6fb506c7aae53cc63f81ab2e40c4b&v=4" width="24" alt="Avatar of tokoik"/> tokoik
 			</a><br/>
 			Kohe Tokoi
 		</td>
@@ -6327,7 +6327,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>479</td>
 		<td>
 			<a target="_blank" href="https://github.com/ikesyo">
-				<img src="https://private-avatars.githubusercontent.com/u/909674?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA5MjAsIm5iZiI6MTczNDQ1OTcyMCwicGF0aCI6Ii91LzkwOTY3NCJ9.FwyZWAySmrduBhyvrwRPa9MpcuJyGozPdIVseAM537s&s=72&u=f61c256d513193b26bce261fd950e014a13701cd&v=4" width="24" alt="Avatar of ikesyo"/> ikesyo
+				<img src="https://private-avatars.githubusercontent.com/u/909674?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA3MjAsIm5iZiI6MTczNDU2OTUyMCwicGF0aCI6Ii91LzkwOTY3NCJ9.rXzwYCnzM9Nd5cNepdp0b1O-mLZy-ncia1GR7mmXd28&s=72&u=f61c256d513193b26bce261fd950e014a13701cd&v=4" width="24" alt="Avatar of ikesyo"/> ikesyo
 			</a><br/>
 			IKEDA Sho
 		</td>
@@ -6340,7 +6340,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>480</td>
 		<td>
 			<a target="_blank" href="https://github.com/sheepla">
-				<img src="https://private-avatars.githubusercontent.com/u/62412884?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3MDAsIm5iZiI6MTczNDQ2MDUwMCwicGF0aCI6Ii91LzYyNDEyODg0In0.O4AbVEyoL8Sy5pWegp4tXsF2IVHgE5WiYRT8hIM23as&s=72&u=fc38ecd8a10ffe0838edf129d5049ea9e81167e2&v=4" width="24" alt="Avatar of sheepla"/> sheepla
+				<img src="https://private-avatars.githubusercontent.com/u/62412884?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA2MDAsIm5iZiI6MTczNDU2OTQwMCwicGF0aCI6Ii91LzYyNDEyODg0In0.ON9JqtgOkUNr0aeL0GuSieej3NuWC4lmIHaY17s3aLM&s=72&u=fc38ecd8a10ffe0838edf129d5049ea9e81167e2&v=4" width="24" alt="Avatar of sheepla"/> sheepla
 			</a><br/>
 			sheepla
 		</td>
@@ -6353,7 +6353,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>481</td>
 		<td>
 			<a target="_blank" href="https://github.com/yomotsu">
-				<img src="https://private-avatars.githubusercontent.com/u/212837?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA5ODAsIm5iZiI6MTczNDQ1OTc4MCwicGF0aCI6Ii91LzIxMjgzNyJ9.knPEJjY0yTsiWBQer7Q5T1HdCQbFdfKkejfPRJUgxME&s=72&v=4" width="24" alt="Avatar of yomotsu"/> yomotsu
+				<img src="https://private-avatars.githubusercontent.com/u/212837?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA3ODAsIm5iZiI6MTczNDU2OTU4MCwicGF0aCI6Ii91LzIxMjgzNyJ9.C4gx_PRcgX9HBqRa1SQ03D4Vf3WBKi5yuh1IoQM-IGw&s=72&v=4" width="24" alt="Avatar of yomotsu"/> yomotsu
 			</a><br/>
 			Akihiro Oyamada
 		</td>
@@ -6366,7 +6366,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>482</td>
 		<td>
 			<a target="_blank" href="https://github.com/pafuhana1213">
-				<img src="https://private-avatars.githubusercontent.com/u/8957600?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3MDAsIm5iZiI6MTczNDQ2MDUwMCwicGF0aCI6Ii91Lzg5NTc2MDAifQ.20OT1iPhs9G1ghx-6RUtsWqQHSIdeKWfGDBThX763qM&s=72&u=211205a35c4706fecde7f2e6be1defb410aa5789&v=4" width="24" alt="Avatar of pafuhana1213"/> pafuhana1213
+				<img src="https://private-avatars.githubusercontent.com/u/8957600?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1MDAsIm5iZiI6MTczNDU3MDMwMCwicGF0aCI6Ii91Lzg5NTc2MDAifQ.reTCulSDa0THbMQs682PW_m5NF2yVFye6AksB6txFw8&s=72&u=211205a35c4706fecde7f2e6be1defb410aa5789&v=4" width="24" alt="Avatar of pafuhana1213"/> pafuhana1213
 			</a><br/>
 			pafuhana1213
 		</td>
@@ -6379,7 +6379,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>483</td>
 		<td>
 			<a target="_blank" href="https://github.com/yukinaga">
-				<img src="https://private-avatars.githubusercontent.com/u/1712826?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1ODAsIm5iZiI6MTczNDQ2MDM4MCwicGF0aCI6Ii91LzE3MTI4MjYifQ.w05KBf_VitYkZ86AsT1Sj3mWxuswbD_cgR_mWz1CvzQ&s=72&u=cb0ff8e9838f4c9a4b53d15fe1f9478165ec1942&v=4" width="24" alt="Avatar of yukinaga"/> yukinaga
+				<img src="https://private-avatars.githubusercontent.com/u/1712826?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzODAsIm5iZiI6MTczNDU3MDE4MCwicGF0aCI6Ii91LzE3MTI4MjYifQ.TJr26BbXmL0s1Q4SpYElTLdpy7QDenBCU4OnZliDK9U&s=72&u=cb0ff8e9838f4c9a4b53d15fe1f9478165ec1942&v=4" width="24" alt="Avatar of yukinaga"/> yukinaga
 			</a><br/>
 			yukyaz
 		</td>
@@ -6392,7 +6392,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>484</td>
 		<td>
 			<a target="_blank" href="https://github.com/matchai">
-				<img src="https://private-avatars.githubusercontent.com/u/4658208?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0NjAsIm5iZiI6MTczNDQ2MDI2MCwicGF0aCI6Ii91LzQ2NTgyMDgifQ.yXd1Pwt5Y2gOHccBSflU4UR5wtojO2lp0JWqQPZhiTE&s=72&u=887d888c45d991a2dbde8ca6f317bf22bc133468&v=4" width="24" alt="Avatar of matchai"/> matchai
+				<img src="https://private-avatars.githubusercontent.com/u/4658208?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyNjAsIm5iZiI6MTczNDU3MDA2MCwicGF0aCI6Ii91LzQ2NTgyMDgifQ.BwvycDq8tnecFTIAVLfFvhiMLzDJHieDltdVu-zl7U0&s=72&u=887d888c45d991a2dbde8ca6f317bf22bc133468&v=4" width="24" alt="Avatar of matchai"/> matchai
 			</a><br/>
 			Matan Kushner
 		</td>
@@ -6405,7 +6405,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>485</td>
 		<td>
 			<a target="_blank" href="https://github.com/shaoanlu">
-				<img src="https://private-avatars.githubusercontent.com/u/22006284?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyODAsIm5iZiI6MTczNDQ2MDA4MCwicGF0aCI6Ii91LzIyMDA2Mjg0In0.Vrf3c-1tg_zLo3b_H3_bpeo_pUnERbdbop4uFRLzCoo&s=72&u=4eec0f0b518209d0386ce642a7220ef4f8f4fd7c&v=4" width="24" alt="Avatar of shaoanlu"/> shaoanlu
+				<img src="https://private-avatars.githubusercontent.com/u/22006284?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwODAsIm5iZiI6MTczNDU2OTg4MCwicGF0aCI6Ii91LzIyMDA2Mjg0In0.Kqm0UlmHpNXW4wYVWp0CCvV8HIQSNQhDH8WrD_KhGCo&s=72&u=4eec0f0b518209d0386ce642a7220ef4f8f4fd7c&v=4" width="24" alt="Avatar of shaoanlu"/> shaoanlu
 			</a><br/>
 			No Name
 		</td>
@@ -6418,7 +6418,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>486</td>
 		<td>
 			<a target="_blank" href="https://github.com/Lewuathe">
-				<img src="https://private-avatars.githubusercontent.com/u/1713047?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEwNDAsIm5iZiI6MTczNDQ1OTg0MCwicGF0aCI6Ii91LzE3MTMwNDcifQ.uTodDJEoDqXh66fKIL6v6Uyomi6wPV49F1E0WuYe0k4&s=72&u=bce5f85b87fea86386c91c32a75fb2e58023262f&v=4" width="24" alt="Avatar of Lewuathe"/> Lewuathe
+				<img src="https://private-avatars.githubusercontent.com/u/1713047?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA4NDAsIm5iZiI6MTczNDU2OTY0MCwicGF0aCI6Ii91LzE3MTMwNDcifQ.fAO-ySS82a7zb-AfY_9Z-_kdPNXDafHnh7WXMq2FqyE&s=72&u=bce5f85b87fea86386c91c32a75fb2e58023262f&v=4" width="24" alt="Avatar of Lewuathe"/> Lewuathe
 			</a><br/>
 			Kai Sasaki
 		</td>
@@ -6431,7 +6431,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>487</td>
 		<td>
 			<a target="_blank" href="https://github.com/yuki24">
-				<img src="https://private-avatars.githubusercontent.com/u/386234?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0MDAsIm5iZiI6MTczNDQ2MDIwMCwicGF0aCI6Ii91LzM4NjIzNCJ9.PoI7hlz-C6ZtbPbOFvTAbSRaTYJiJEz_tSqFM9Wt13k&s=72&v=4" width="24" alt="Avatar of yuki24"/> yuki24
+				<img src="https://private-avatars.githubusercontent.com/u/386234?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyMDAsIm5iZiI6MTczNDU3MDAwMCwicGF0aCI6Ii91LzM4NjIzNCJ9.ddev1PjET9nEKJku89GJ5C5vcDgY8i69eXKONVGZTsw&s=72&v=4" width="24" alt="Avatar of yuki24"/> yuki24
 			</a><br/>
 			Yuki Nishijima
 		</td>
@@ -6444,7 +6444,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>488</td>
 		<td>
 			<a target="_blank" href="https://github.com/saudet">
-				<img src="https://private-avatars.githubusercontent.com/u/3328023?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExMDAsIm5iZiI6MTczNDQ1OTkwMCwicGF0aCI6Ii91LzMzMjgwMjMifQ.xc17oCQBEQFqFrBv4EMmSHPOkt2qz1mQXFVMDqAD4Qo&s=72&u=c800ba135f2358655714edc75efa31d2140dd236&v=4" width="24" alt="Avatar of saudet"/> saudet
+				<img src="https://private-avatars.githubusercontent.com/u/3328023?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5MDAsIm5iZiI6MTczNDU2OTcwMCwicGF0aCI6Ii91LzMzMjgwMjMifQ.a_IhgK5X7cdN6HG1BKur1q0v-X3snZFzd8Sul_7iEPg&s=72&u=c800ba135f2358655714edc75efa31d2140dd236&v=4" width="24" alt="Avatar of saudet"/> saudet
 			</a><br/>
 			Samuel Audet
 		</td>
@@ -6457,7 +6457,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>489</td>
 		<td>
 			<a target="_blank" href="https://github.com/Saqoosha">
-				<img src="https://private-avatars.githubusercontent.com/u/27694?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE4MjAsIm5iZiI6MTczNDQ2MDYyMCwicGF0aCI6Ii91LzI3Njk0In0.quRiCLq_4M5fhHzU1bHjmxG-1l6JoSvpv3RX1O19ZQc&s=72&u=71a3db9b5df3a5c47de26dc19255c71733f97910&v=4" width="24" alt="Avatar of Saqoosha"/> Saqoosha
+				<img src="https://private-avatars.githubusercontent.com/u/27694?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE2MjAsIm5iZiI6MTczNDU3MDQyMCwicGF0aCI6Ii91LzI3Njk0In0.fcA6n6mJblDS0Bwk7EtlNWxuPWhillHZ0tZQYHQqHQo&s=72&u=71a3db9b5df3a5c47de26dc19255c71733f97910&v=4" width="24" alt="Avatar of Saqoosha"/> Saqoosha
 			</a><br/>
 			Saqoosha
 		</td>
@@ -6470,7 +6470,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>490</td>
 		<td>
 			<a target="_blank" href="https://github.com/akatsuki105">
-				<img src="https://private-avatars.githubusercontent.com/u/37920078?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE4ODAsIm5iZiI6MTczNDQ2MDY4MCwicGF0aCI6Ii91LzM3OTIwMDc4In0.3NgOrQGc1ZxUEAfXOQgQ3jVEGiNXvfNBFWtaeAOEyv4&s=72&u=004cd979f8e22dd6e405182c5675b955875aea2a&v=4" width="24" alt="Avatar of akatsuki105"/> akatsuki105
+				<img src="https://private-avatars.githubusercontent.com/u/37920078?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE2ODAsIm5iZiI6MTczNDU3MDQ4MCwicGF0aCI6Ii91LzM3OTIwMDc4In0.k-FlRa7-jB2NdKk8V7p5LiA5zwByCKK5SFvmVMSExao&s=72&u=004cd979f8e22dd6e405182c5675b955875aea2a&v=4" width="24" alt="Avatar of akatsuki105"/> akatsuki105
 			</a><br/>
 			Akatsuki
 		</td>
@@ -6483,7 +6483,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>491</td>
 		<td>
 			<a target="_blank" href="https://github.com/minaminao">
-				<img src="https://private-avatars.githubusercontent.com/u/20497787?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1MjAsIm5iZiI6MTczNDQ2MDMyMCwicGF0aCI6Ii91LzIwNDk3Nzg3In0.v0jqLCeG8v4P3E6xhSPBwM6FYiKooCCQ9t8n5pRwajY&s=72&u=a96a6c9f3dbec52ad60326770404a3f728a38efa&v=4" width="24" alt="Avatar of minaminao"/> minaminao
+				<img src="https://private-avatars.githubusercontent.com/u/20497787?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzMjAsIm5iZiI6MTczNDU3MDEyMCwicGF0aCI6Ii91LzIwNDk3Nzg3In0.DoLr58MAButXdvnpLZ31e-9c9V8YWQbw-DSfvxVhRoI&s=72&u=a96a6c9f3dbec52ad60326770404a3f728a38efa&v=4" width="24" alt="Avatar of minaminao"/> minaminao
 			</a><br/>
 			minaminao
 		</td>
@@ -6496,7 +6496,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>492</td>
 		<td>
 			<a target="_blank" href="https://github.com/ymmt2005">
-				<img src="https://private-avatars.githubusercontent.com/u/1461515?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0NjAsIm5iZiI6MTczNDQ2MDI2MCwicGF0aCI6Ii91LzE0NjE1MTUifQ.y-22G5C7ETiZ-TYZbzqlbrdTgMI0ILbJx3fKixO2n_4&s=72&u=466cc17403bcc3f8fbd2fec71a0d9b953271b46d&v=4" width="24" alt="Avatar of ymmt2005"/> ymmt2005
+				<img src="https://private-avatars.githubusercontent.com/u/1461515?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyNjAsIm5iZiI6MTczNDU3MDA2MCwicGF0aCI6Ii91LzE0NjE1MTUifQ._7WKPizUZ-fHLCwtKdaN_CuzdnNW-TzZ5V3szI1DrJ0&s=72&u=466cc17403bcc3f8fbd2fec71a0d9b953271b46d&v=4" width="24" alt="Avatar of ymmt2005"/> ymmt2005
 			</a><br/>
 			Yamamoto Hirotaka
 		</td>
@@ -6509,7 +6509,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>493</td>
 		<td>
 			<a target="_blank" href="https://github.com/SachaG">
-				<img src="https://private-avatars.githubusercontent.com/u/358832?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEzNDAsIm5iZiI6MTczNDQ2MDE0MCwicGF0aCI6Ii91LzM1ODgzMiJ9.-liN_ATH09QsXOKD_8vxaoi6Y-T3fajDDwZbQYgjyk4&s=72&v=4" width="24" alt="Avatar of SachaG"/> SachaG
+				<img src="https://private-avatars.githubusercontent.com/u/358832?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzExNDAsIm5iZiI6MTczNDU2OTk0MCwicGF0aCI6Ii91LzM1ODgzMiJ9.a32Sj-R6fh47MVxuDA0COEwfgOJramjXqGHEU7Yn9cA&s=72&v=4" width="24" alt="Avatar of SachaG"/> SachaG
 			</a><br/>
 			Sacha Greif
 		</td>
@@ -6522,20 +6522,33 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>494</td>
 		<td>
 			<a target="_blank" href="https://github.com/uzimaru0000">
-				<img src="https://private-avatars.githubusercontent.com/u/13715034?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjIwNjAsIm5iZiI6MTczNDQ2MDg2MCwicGF0aCI6Ii91LzEzNzE1MDM0In0.1vJ0804eAD-v3Cj3XoM57lPMVG4DjflEjvfakgcMsW8&s=72&u=2782ed8e4c87c139d9bd2637b665d696ac9c28c5&v=4" width="24" alt="Avatar of uzimaru0000"/> uzimaru0000
+				<img src="https://private-avatars.githubusercontent.com/u/13715034?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE4NjAsIm5iZiI6MTczNDU3MDY2MCwicGF0aCI6Ii91LzEzNzE1MDM0In0.QcSxh0ebsFJp-tn2zB-Mdxa2t0qMtu92R_15YZalg1c&s=72&u=2782ed8e4c87c139d9bd2637b665d696ac9c28c5&v=4" width="24" alt="Avatar of uzimaru0000"/> uzimaru0000
 			</a><br/>
 			uzimaru0000
 		</td>
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/uzimaru0000">uzimaru0000</a></td>
 		<td>Japan</td>
-		<td>124</td>
+		<td>125</td>
 	</tr>
 	<tr>
 		<td>495</td>
 		<td>
+			<a target="_blank" href="https://github.com/marcan">
+				<img src="https://private-avatars.githubusercontent.com/u/98387?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzAzNjAsIm5iZiI6MTczNDU2OTE2MCwicGF0aCI6Ii91Lzk4Mzg3In0.geW4meNSYxEIcBuWWVAH6dJ7yfwQ4cwDZf1yGtE9hfY&s=72&u=9e6fd6d25dfb88c1ea7dc10a662a40d3f4fa1df0&v=4" width="24" alt="Avatar of marcan"/> marcan
+			</a><br/>
+			Hector Martin
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tokyo Japan</td>
+		<td>123</td>
+	</tr>
+	<tr>
+		<td>496</td>
+		<td>
 			<a target="_blank" href="https://github.com/takahirox">
-				<img src="https://private-avatars.githubusercontent.com/u/7637832?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1ODAsIm5iZiI6MTczNDQ2MDM4MCwicGF0aCI6Ii91Lzc2Mzc4MzIifQ.IclCz5HKvWV5xi-Upg83ThM2KaL79L2EGbO-kovmZd0&s=72&u=9c360fd403cec327be79578630935fc373e6cc88&v=4" width="24" alt="Avatar of takahirox"/> takahirox
+				<img src="https://private-avatars.githubusercontent.com/u/7637832?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA0ODAsIm5iZiI6MTczNDU2OTI4MCwicGF0aCI6Ii91Lzc2Mzc4MzIifQ.veUEUMcMT3NW1VlE8DHMzqGq_BcZLUWE9-yjU6CfqZA&s=72&u=9c360fd403cec327be79578630935fc373e6cc88&v=4" width="24" alt="Avatar of takahirox"/> takahirox
 			</a><br/>
 			Takahiro
 		</td>
@@ -6545,10 +6558,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>123</td>
 	</tr>
 	<tr>
-		<td>496</td>
+		<td>497</td>
 		<td>
 			<a target="_blank" href="https://github.com/Haruma-K">
-				<img src="https://private-avatars.githubusercontent.com/u/47441314?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1ODAsIm5iZiI6MTczNDQ2MDM4MCwicGF0aCI6Ii91LzQ3NDQxMzE0In0._TgtNpYbOJlaFecM1II0rixqyzgaKEKNmBWTtoNWWRg&s=72&u=cc0aca38beb47743de11b25d60537d5532a3a07a&v=4" width="24" alt="Avatar of Haruma-K"/> Haruma-K
+				<img src="https://private-avatars.githubusercontent.com/u/47441314?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzODAsIm5iZiI6MTczNDU3MDE4MCwicGF0aCI6Ii91LzQ3NDQxMzE0In0.WFVGTWw-4d0H4EPC_LS9Ux3HSRzlRCk01OQCYwfMUo8&s=72&u=cc0aca38beb47743de11b25d60537d5532a3a07a&v=4" width="24" alt="Avatar of Haruma-K"/> Haruma-K
 			</a><br/>
 			Haruki Yano
 		</td>
@@ -6558,49 +6571,36 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>123</td>
 	</tr>
 	<tr>
-		<td>497</td>
-		<td>
-			<a target="_blank" href="https://github.com/marcan">
-				<img src="https://private-avatars.githubusercontent.com/u/98387?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA1NjAsIm5iZiI6MTczNDQ1OTM2MCwicGF0aCI6Ii91Lzk4Mzg3In0.gxVy-SCCBvIeU1Yv0Viz_teBoxwLXepWtjaAwNKBSb4&s=72&u=9e6fd6d25dfb88c1ea7dc10a662a40d3f4fa1df0&v=4" width="24" alt="Avatar of marcan"/> marcan
-			</a><br/>
-			Hector Martin
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Tokyo Japan</td>
-		<td>122</td>
-	</tr>
-	<tr>
 		<td>498</td>
 		<td>
 			<a target="_blank" href="https://github.com/fakufaku">
-				<img src="https://private-avatars.githubusercontent.com/u/1118133?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1MjAsIm5iZiI6MTczNDQ2MDMyMCwicGF0aCI6Ii91LzExMTgxMzMifQ.kCk7M_mJ1D-GnHIuDvqMr1MJqO8tdmp3HO_i48_u-TU&s=72&u=2748d1231c08bf00947efb28cf214ab07b8b9735&v=4" width="24" alt="Avatar of fakufaku"/> fakufaku
+				<img src="https://private-avatars.githubusercontent.com/u/1118133?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzMjAsIm5iZiI6MTczNDU3MDEyMCwicGF0aCI6Ii91LzExMTgxMzMifQ.FKSdYTgCalVjejk9eOrIBWWb6TvYs7_iAC9NpcBKlrE&s=72&u=2748d1231c08bf00947efb28cf214ab07b8b9735&v=4" width="24" alt="Avatar of fakufaku"/> fakufaku
 			</a><br/>
 			Robin Scheibler
 		</td>
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/fakufakurevenge">fakufakurevenge</a></td>
 		<td>Japan</td>
-		<td>122</td>
+		<td>123</td>
 	</tr>
 	<tr>
 		<td>499</td>
 		<td>
 			<a target="_blank" href="https://github.com/harawata">
-				<img src="https://private-avatars.githubusercontent.com/u/149268?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3NjAsIm5iZiI6MTczNDQ2MDU2MCwicGF0aCI6Ii91LzE0OTI2OCJ9.GAxHl1cJulkAK3VRIOtSAp4S1eR7NKleM8n7t1k3mFg&s=72&u=59fdabeaab04c93a12a38a82d1f7cd6e31031c38&v=4" width="24" alt="Avatar of harawata"/> harawata
+				<img src="https://private-avatars.githubusercontent.com/u/149268?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1NjAsIm5iZiI6MTczNDU3MDM2MCwicGF0aCI6Ii91LzE0OTI2OCJ9.aSs9cWZB55RiXbhvpP-M8X3CNZPxGrexTzQCBm5aVwc&s=72&u=59fdabeaab04c93a12a38a82d1f7cd6e31031c38&v=4" width="24" alt="Avatar of harawata"/> harawata
 			</a><br/>
 			Iwao AVE
 		</td>
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/harawata">harawata</a></td>
 		<td>Japan</td>
-		<td>122</td>
+		<td>123</td>
 	</tr>
 	<tr>
 		<td>500</td>
 		<td>
 			<a target="_blank" href="https://github.com/mitsuruog">
-				<img src="https://private-avatars.githubusercontent.com/u/1703219?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1ODAsIm5iZiI6MTczNDQ2MDM4MCwicGF0aCI6Ii91LzE3MDMyMTkifQ.Uj3ocEL7VdfHbg_YobTb5c--gPF0T8CQ23LvLK4zenQ&s=72&u=ef858dde303e8382a3d0424feaceb6522b863bdd&v=4" width="24" alt="Avatar of mitsuruog"/> mitsuruog
+				<img src="https://private-avatars.githubusercontent.com/u/1703219?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzODAsIm5iZiI6MTczNDU3MDE4MCwicGF0aCI6Ii91LzE3MDMyMTkifQ.4RA4O648CH8GbvwFcosWiY3bCUW581Zk8EBtsUIi4bw&s=72&u=ef858dde303e8382a3d0424feaceb6522b863bdd&v=4" width="24" alt="Avatar of mitsuruog"/> mitsuruog
 			</a><br/>
 			Mitsuru Ogawa
 		</td>
@@ -6613,7 +6613,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>501</td>
 		<td>
 			<a target="_blank" href="https://github.com/lukas-reineke">
-				<img src="https://private-avatars.githubusercontent.com/u/12900252?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE2NDAsIm5iZiI6MTczNDQ2MDQ0MCwicGF0aCI6Ii91LzEyOTAwMjUyIn0.gNRx0HkZ1px3d1kewUDRejBKDPu175sC1WOGWTMszYA&s=72&u=366b4eeb3fc1fc19b6f8b2e25ed09cf8c020d19e&v=4" width="24" alt="Avatar of lukas-reineke"/> lukas-reineke
+				<img src="https://private-avatars.githubusercontent.com/u/12900252?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE0NDAsIm5iZiI6MTczNDU3MDI0MCwicGF0aCI6Ii91LzEyOTAwMjUyIn0.shW2pwO0mM7a0bfm6d1HGSIEtnQBS82IYyANvYZSgFs&s=72&u=366b4eeb3fc1fc19b6f8b2e25ed09cf8c020d19e&v=4" width="24" alt="Avatar of lukas-reineke"/> lukas-reineke
 			</a><br/>
 			Lukas Reineke
 		</td>
@@ -6625,21 +6625,8 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 	<tr>
 		<td>502</td>
 		<td>
-			<a target="_blank" href="https://github.com/mrtolkien">
-				<img src="https://private-avatars.githubusercontent.com/u/8489650?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE5NDAsIm5iZiI6MTczNDQ2MDc0MCwicGF0aCI6Ii91Lzg0ODk2NTAifQ.Dy_rDPsTUZTVCJTEQ02zzwIapY_UDTjHOCBhc9a7SUU&s=72&u=1334c26d96c4148fa0e5898c20daf890d04ff17b&v=4" width="24" alt="Avatar of mrtolkien"/> mrtolkien
-			</a><br/>
-			Tolki
-		</td>
-		<td>Tachikoma Ai </td>
-		<td><a target="_blank" href="https://twitter.com/tolkicasts">tolkicasts</a></td>
-		<td>Japan</td>
-		<td>117</td>
-	</tr>
-	<tr>
-		<td>503</td>
-		<td>
 			<a target="_blank" href="https://github.com/inductor">
-				<img src="https://private-avatars.githubusercontent.com/u/20236173?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjIwNjAsIm5iZiI6MTczNDQ2MDg2MCwicGF0aCI6Ii91LzIwMjM2MTczIn0.K9KfslZwPt0Pvl-RGpGZwg1WVd4SclDzhu608HMBlOY&s=72&u=d8dda91e4bc2bdc7736f607b36fa53c9e82e08db&v=4" width="24" alt="Avatar of inductor"/> inductor
+				<img src="https://private-avatars.githubusercontent.com/u/20236173?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE4NjAsIm5iZiI6MTczNDU3MDY2MCwicGF0aCI6Ii91LzIwMjM2MTczIn0.hcPEHc9dbw3QGpOBwpTSUgCjUvS2kuEKAtih_NrOjsI&s=72&u=d8dda91e4bc2bdc7736f607b36fa53c9e82e08db&v=4" width="24" alt="Avatar of inductor"/> inductor
 			</a><br/>
 			Kohei Ota inductor
 		</td>
@@ -6649,10 +6636,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>117</td>
 	</tr>
 	<tr>
-		<td>504</td>
+		<td>503</td>
 		<td>
 			<a target="_blank" href="https://github.com/rdiankov">
-				<img src="https://private-avatars.githubusercontent.com/u/343057?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1ODAsIm5iZiI6MTczNDQ2MDM4MCwicGF0aCI6Ii91LzM0MzA1NyJ9.JFx7ECSg23XYVCI2S-P1YZFgu3SOT9JeKcm7vjrnkmc&s=72&v=4" width="24" alt="Avatar of rdiankov"/> rdiankov
+				<img src="https://private-avatars.githubusercontent.com/u/343057?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzODAsIm5iZiI6MTczNDU3MDE4MCwicGF0aCI6Ii91LzM0MzA1NyJ9.xNboMFsJphEwaWA980MpwrNxeBZKF93AqBjzJGfVxDk&s=72&v=4" width="24" alt="Avatar of rdiankov"/> rdiankov
 			</a><br/>
 			Ross Diankov
 		</td>
@@ -6662,10 +6649,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>115</td>
 	</tr>
 	<tr>
-		<td>505</td>
+		<td>504</td>
 		<td>
 			<a target="_blank" href="https://github.com/NalaGinrut">
-				<img src="https://private-avatars.githubusercontent.com/u/19734?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE5NDAsIm5iZiI6MTczNDQ2MDc0MCwicGF0aCI6Ii91LzE5NzM0In0.zCRLnc01AaYVZFrJhh4S24YUOnnShCpLdfFUa6rikrU&s=72&v=4" width="24" alt="Avatar of NalaGinrut"/> NalaGinrut
+				<img src="https://private-avatars.githubusercontent.com/u/19734?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE3NDAsIm5iZiI6MTczNDU3MDU0MCwicGF0aCI6Ii91LzE5NzM0In0.gsTP_QFSk6YB9EvcYqvORsc1PC0xPvkf0WJrqbqpOvs&s=72&v=4" width="24" alt="Avatar of NalaGinrut"/> NalaGinrut
 			</a><br/>
 			Roy Mu
 		</td>
@@ -6675,10 +6662,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>115</td>
 	</tr>
 	<tr>
-		<td>506</td>
+		<td>505</td>
 		<td>
 			<a target="_blank" href="https://github.com/naoto0804">
-				<img src="https://private-avatars.githubusercontent.com/u/7067992?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1MjAsIm5iZiI6MTczNDQ2MDMyMCwicGF0aCI6Ii91LzcwNjc5OTIifQ.AHr0IFLHBhHvZ0Ob_dBlJwjfuncqrJnHwBSeN40l63I&s=72&u=438cc6fe47e152895d5b3914eb4177aed2b2836a&v=4" width="24" alt="Avatar of naoto0804"/> naoto0804
+				<img src="https://private-avatars.githubusercontent.com/u/7067992?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzMjAsIm5iZiI6MTczNDU3MDEyMCwicGF0aCI6Ii91LzcwNjc5OTIifQ.oM_SJf8ZjErK8FMsrsd1hKc10PpGG-E6Oqe6Reoi8FI&s=72&u=438cc6fe47e152895d5b3914eb4177aed2b2836a&v=4" width="24" alt="Avatar of naoto0804"/> naoto0804
 			</a><br/>
 			Naoto Inoue
 		</td>
@@ -6688,10 +6675,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>114</td>
 	</tr>
 	<tr>
-		<td>507</td>
+		<td>506</td>
 		<td>
 			<a target="_blank" href="https://github.com/eiel">
-				<img src="https://private-avatars.githubusercontent.com/u/92595?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1ODAsIm5iZiI6MTczNDQ2MDM4MCwicGF0aCI6Ii91LzkyNTk1In0.uzclTIjNy4EfoqP_u4Ajiys9p4izlPxzZn5ZOelnPQI&s=72&u=8102dbd2732b35ad82b729d362ccd99651e0c929&v=4" width="24" alt="Avatar of eiel"/> eiel
+				<img src="https://private-avatars.githubusercontent.com/u/92595?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzODAsIm5iZiI6MTczNDU3MDE4MCwicGF0aCI6Ii91LzkyNTk1In0.4UHe8DKvVKZNoJEq_1KkpGJkL9XKiUq9zxrogqd6x60&s=72&u=8102dbd2732b35ad82b729d362ccd99651e0c929&v=4" width="24" alt="Avatar of eiel"/> eiel
 			</a><br/>
 			HIMURA Tomohiko
 		</td>
@@ -6701,10 +6688,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>113</td>
 	</tr>
 	<tr>
-		<td>508</td>
+		<td>507</td>
 		<td>
 			<a target="_blank" href="https://github.com/lloydmeta">
-				<img src="https://private-avatars.githubusercontent.com/u/914805?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0NjAsIm5iZiI6MTczNDQ2MDI2MCwicGF0aCI6Ii91LzkxNDgwNSJ9.ZSP8Gply2s7FQrAcAurUatECIdi34XeFF0sozKA9E28&s=72&v=4" width="24" alt="Avatar of lloydmeta"/> lloydmeta
+				<img src="https://private-avatars.githubusercontent.com/u/914805?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyNjAsIm5iZiI6MTczNDU3MDA2MCwicGF0aCI6Ii91LzkxNDgwNSJ9.LDMVDoHjQl3l0KhEL_AgEBbUVvdPp1EFTURLSnrGO2U&s=72&v=4" width="24" alt="Avatar of lloydmeta"/> lloydmeta
 			</a><br/>
 			Lloyd
 		</td>
@@ -6714,10 +6701,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>112</td>
 	</tr>
 	<tr>
-		<td>509</td>
+		<td>508</td>
 		<td>
 			<a target="_blank" href="https://github.com/famasoon">
-				<img src="https://private-avatars.githubusercontent.com/u/18043941?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0MDAsIm5iZiI6MTczNDQ2MDIwMCwicGF0aCI6Ii91LzE4MDQzOTQxIn0._e_4HX4qgvCB07SiDygDIj2b9N9vjTOmP7heowqY1UQ&s=72&u=697c15780dea366606262f76898450481b8711b9&v=4" width="24" alt="Avatar of famasoon"/> famasoon
+				<img src="https://private-avatars.githubusercontent.com/u/18043941?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyMDAsIm5iZiI6MTczNDU3MDAwMCwicGF0aCI6Ii91LzE4MDQzOTQxIn0.aPZfkOSvp65_0Aoa4atQu3GdXFRGxLGp33WfltQKK3A&s=72&u=697c15780dea366606262f76898450481b8711b9&v=4" width="24" alt="Avatar of famasoon"/> famasoon
 			</a><br/>
 			Ryota Sakai
 		</td>
@@ -6727,10 +6714,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>112</td>
 	</tr>
 	<tr>
-		<td>510</td>
+		<td>509</td>
 		<td>
 			<a target="_blank" href="https://github.com/kananinirav">
-				<img src="https://private-avatars.githubusercontent.com/u/30398499?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0NjAsIm5iZiI6MTczNDQ2MDI2MCwicGF0aCI6Ii91LzMwMzk4NDk5In0.dTzRdmRGSXKSEvcnorBGZsg1O0hLeWBW-lojqaKRrH8&s=72&u=76e047714eb73c42c87ae90db62af35b28f164b4&v=4" width="24" alt="Avatar of kananinirav"/> kananinirav
+				<img src="https://private-avatars.githubusercontent.com/u/30398499?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyNjAsIm5iZiI6MTczNDU3MDA2MCwicGF0aCI6Ii91LzMwMzk4NDk5In0.nhHRMsGYQx7AhpKE6klwQLDDUqf7DKGxE3yYJ63OUSg&s=72&u=76e047714eb73c42c87ae90db62af35b28f164b4&v=4" width="24" alt="Avatar of kananinirav"/> kananinirav
 			</a><br/>
 			kanani Nirav
 		</td>
@@ -6740,10 +6727,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>112</td>
 	</tr>
 	<tr>
-		<td>511</td>
+		<td>510</td>
 		<td>
 			<a target="_blank" href="https://github.com/pine">
-				<img src="https://private-avatars.githubusercontent.com/u/5249050?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1ODAsIm5iZiI6MTczNDQ2MDM4MCwicGF0aCI6Ii91LzUyNDkwNTAifQ.tTLQsKlwmlsxn7TQMdtr2O_-ss04zJnXH8gFQdG6BVQ&s=72&v=4" width="24" alt="Avatar of pine"/> pine
+				<img src="https://private-avatars.githubusercontent.com/u/5249050?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzODAsIm5iZiI6MTczNDU3MDE4MCwicGF0aCI6Ii91LzUyNDkwNTAifQ.mXwAShm0qbhEUgvSYMP5791fuSiQboAf53jlUg8KTRY&s=72&v=4" width="24" alt="Avatar of pine"/> pine
 			</a><br/>
 			Pine Mizune
 		</td>
@@ -6753,10 +6740,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>111</td>
 	</tr>
 	<tr>
-		<td>512</td>
+		<td>511</td>
 		<td>
 			<a target="_blank" href="https://github.com/uniwaydev">
-				<img src="https://private-avatars.githubusercontent.com/u/124911548?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEzNDAsIm5iZiI6MTczNDQ2MDE0MCwicGF0aCI6Ii91LzEyNDkxMTU0OCJ9.FfyHEvs1p4Vl6rbpLFWf925LXs0OI-RNN-6DFGHpPRc&s=72&u=37196edca8ad4e7cdeabe9d696fea7978839c07e&v=4" width="24" alt="Avatar of uniwaydev"/> uniwaydev
+				<img src="https://private-avatars.githubusercontent.com/u/124911548?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzExNDAsIm5iZiI6MTczNDU2OTk0MCwicGF0aCI6Ii91LzEyNDkxMTU0OCJ9.zOxNxKKYU4kr7KhS20RRLmmUZ9NmZYCiB0ZKrwE2tMo&s=72&u=37196edca8ad4e7cdeabe9d696fea7978839c07e&v=4" width="24" alt="Avatar of uniwaydev"/> uniwaydev
 			</a><br/>
 			UNo IWAYuki
 		</td>
@@ -6766,10 +6753,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>111</td>
 	</tr>
 	<tr>
-		<td>513</td>
+		<td>512</td>
 		<td>
 			<a target="_blank" href="https://github.com/polm">
-				<img src="https://private-avatars.githubusercontent.com/u/286278?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEzNDAsIm5iZiI6MTczNDQ2MDE0MCwicGF0aCI6Ii91LzI4NjI3OCJ9.nPKRPiE0Gihry4i3tPxt-pDLcuPcmMqf4MBQnu66xRE&s=72&v=4" width="24" alt="Avatar of polm"/> polm
+				<img src="https://private-avatars.githubusercontent.com/u/286278?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzExNDAsIm5iZiI6MTczNDU2OTk0MCwicGF0aCI6Ii91LzI4NjI3OCJ9.n0jz_LTTOdSPsYfXSdcPSRQBRZJSR1yfS_Igftdew_s&s=72&v=4" width="24" alt="Avatar of polm"/> polm
 			</a><br/>
 			Paul OLeary McCann
 		</td>
@@ -6779,10 +6766,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>110</td>
 	</tr>
 	<tr>
-		<td>514</td>
+		<td>513</td>
 		<td>
 			<a target="_blank" href="https://github.com/coord-e">
-				<img src="https://private-avatars.githubusercontent.com/u/16184855?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE4MjAsIm5iZiI6MTczNDQ2MDYyMCwicGF0aCI6Ii91LzE2MTg0ODU1In0.WZOMUFxGD4PGmnfVbUasUyG_kIAT8X1Gbxmj3PMQ1bA&s=72&u=3e67f611d20e44a9851e580f08fd85afa21e8a09&v=4" width="24" alt="Avatar of coord-e"/> coord-e
+				<img src="https://private-avatars.githubusercontent.com/u/16184855?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE2MjAsIm5iZiI6MTczNDU3MDQyMCwicGF0aCI6Ii91LzE2MTg0ODU1In0.GGs7YaGymtiztDn9Q79C67bpZWu56a0n0KhwRIDbRQ4&s=72&u=3e67f611d20e44a9851e580f08fd85afa21e8a09&v=4" width="24" alt="Avatar of coord-e"/> coord-e
 			</a><br/>
 			Hiromi Ogawa
 		</td>
@@ -6792,10 +6779,23 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>109</td>
 	</tr>
 	<tr>
+		<td>514</td>
+		<td>
+			<a target="_blank" href="https://github.com/mrtolkien">
+				<img src="https://private-avatars.githubusercontent.com/u/8489650?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE3NDAsIm5iZiI6MTczNDU3MDU0MCwicGF0aCI6Ii91Lzg0ODk2NTAifQ.Hy_NDBJGE1sbk3w7xRKOpaYvyLNnrzYdZwDFtT8KJ2Y&s=72&u=1334c26d96c4148fa0e5898c20daf890d04ff17b&v=4" width="24" alt="Avatar of mrtolkien"/> mrtolkien
+			</a><br/>
+			Tolki
+		</td>
+		<td>Tachikoma Ai </td>
+		<td><a target="_blank" href="https://twitter.com/tolkicasts">tolkicasts</a></td>
+		<td>Japan</td>
+		<td>108</td>
+	</tr>
+	<tr>
 		<td>515</td>
 		<td>
 			<a target="_blank" href="https://github.com/UnaNancyOwen">
-				<img src="https://private-avatars.githubusercontent.com/u/816705?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEwNDAsIm5iZiI6MTczNDQ1OTg0MCwicGF0aCI6Ii91LzgxNjcwNSJ9.JCq6nRgXoIi3qGYK9oX5gKDPoFLVPgF4CRV5-EFN9Yg&s=72&v=4" width="24" alt="Avatar of UnaNancyOwen"/> UnaNancyOwen
+				<img src="https://private-avatars.githubusercontent.com/u/816705?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA4NDAsIm5iZiI6MTczNDU2OTY0MCwicGF0aCI6Ii91LzgxNjcwNSJ9.BDhLerYCpChwm5LW4H6jPn_uMOglIp7_0c_wsWRE6F4&s=72&v=4" width="24" alt="Avatar of UnaNancyOwen"/> UnaNancyOwen
 			</a><br/>
 			Tsukasa Sugiura
 		</td>
@@ -6808,7 +6808,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>516</td>
 		<td>
 			<a target="_blank" href="https://github.com/chibash">
-				<img src="https://private-avatars.githubusercontent.com/u/4458811?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEzNDAsIm5iZiI6MTczNDQ2MDE0MCwicGF0aCI6Ii91LzQ0NTg4MTEifQ.jrKdcFcmK-F6M5OR_oyOUvlOV5khOut_E2P5yHGynEI&s=72&u=e75f22c4b4c4314fcd9a55606d5e16e0a119b17e&v=4" width="24" alt="Avatar of chibash"/> chibash
+				<img src="https://private-avatars.githubusercontent.com/u/4458811?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzExNDAsIm5iZiI6MTczNDU2OTk0MCwicGF0aCI6Ii91LzQ0NTg4MTEifQ.tEo8lnlmKNx2uaWb8KZ3ZY1R7szHw4h1YSKQpwulVos&s=72&u=e75f22c4b4c4314fcd9a55606d5e16e0a119b17e&v=4" width="24" alt="Avatar of chibash"/> chibash
 			</a><br/>
 			Shigeru Chiba
 		</td>
@@ -6821,7 +6821,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>517</td>
 		<td>
 			<a target="_blank" href="https://github.com/rakshasa">
-				<img src="https://private-avatars.githubusercontent.com/u/475125?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE2NDAsIm5iZiI6MTczNDQ2MDQ0MCwicGF0aCI6Ii91LzQ3NTEyNSJ9.gUMsEV1yOzvml3L5d54kuQYEiu-eCGYU1rggC1md3kQ&s=72&v=4" width="24" alt="Avatar of rakshasa"/> rakshasa
+				<img src="https://private-avatars.githubusercontent.com/u/475125?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE0NDAsIm5iZiI6MTczNDU3MDI0MCwicGF0aCI6Ii91LzQ3NTEyNSJ9.iCKOD3aIwdVd5cQceg6kg-YgVfB2TTdKJzySAM84sUw&s=72&v=4" width="24" alt="Avatar of rakshasa"/> rakshasa
 			</a><br/>
 			Jari Sundell
 		</td>
@@ -6834,7 +6834,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>518</td>
 		<td>
 			<a target="_blank" href="https://github.com/r9y9">
-				<img src="https://private-avatars.githubusercontent.com/u/1220272?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA3NDAsIm5iZiI6MTczNDQ1OTU0MCwicGF0aCI6Ii91LzEyMjAyNzIifQ.PvUe4w_cM7t9qQ629olq2mIs9U2KS-hbkbth4dojC2c&s=72&v=4" width="24" alt="Avatar of r9y9"/> r9y9
+				<img src="https://private-avatars.githubusercontent.com/u/1220272?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA1NDAsIm5iZiI6MTczNDU2OTM0MCwicGF0aCI6Ii91LzEyMjAyNzIifQ.SP_CpMJ66W3HV0vEza2xYydVrkz0aaobI51xwjbi7Pg&s=72&v=4" width="24" alt="Avatar of r9y9"/> r9y9
 			</a><br/>
 			Ryuichi Yamamoto
 		</td>
@@ -6847,7 +6847,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>519</td>
 		<td>
 			<a target="_blank" href="https://github.com/kaiiyer">
-				<img src="https://private-avatars.githubusercontent.com/u/24914913?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0NjAsIm5iZiI6MTczNDQ2MDI2MCwicGF0aCI6Ii91LzI0OTE0OTEzIn0.3Mk7k8FjYOCVmS1JZMrC7ciQhv67Iy5Kpn4OqiQt6zs&s=72&u=b3affdd87cdbbf0c6093451a2b0ecac51a314fa6&v=4" width="24" alt="Avatar of kaiiyer"/> kaiiyer
+				<img src="https://private-avatars.githubusercontent.com/u/24914913?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyNjAsIm5iZiI6MTczNDU3MDA2MCwicGF0aCI6Ii91LzI0OTE0OTEzIn0.zcM-Zo9TL56_G0xiTb3JSkE1i5VmjZEZncT_UAgspPQ&s=72&u=b3affdd87cdbbf0c6093451a2b0ecac51a314fa6&v=4" width="24" alt="Avatar of kaiiyer"/> kaiiyer
 			</a><br/>
 			Kai Iyer
 		</td>
@@ -6860,7 +6860,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>520</td>
 		<td>
 			<a target="_blank" href="https://github.com/hewigovens">
-				<img src="https://private-avatars.githubusercontent.com/u/360470?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1MjAsIm5iZiI6MTczNDQ2MDMyMCwicGF0aCI6Ii91LzM2MDQ3MCJ9.pCZld3uDii4szvfLnbZkH3uGj4Mq1k0JRfNSTbC7i2U&s=72&u=48531c6f1136ff4cdd3302f2e6bf6c73fcdf1742&v=4" width="24" alt="Avatar of hewigovens"/> hewigovens
+				<img src="https://private-avatars.githubusercontent.com/u/360470?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzMjAsIm5iZiI6MTczNDU3MDEyMCwicGF0aCI6Ii91LzM2MDQ3MCJ9.dEDPh6wVfHVa-5Pij1OYn7nkxBUxYeWS56KuIctUg0Q&s=72&u=48531c6f1136ff4cdd3302f2e6bf6c73fcdf1742&v=4" width="24" alt="Avatar of hewigovens"/> hewigovens
 			</a><br/>
 			Tao Xu
 		</td>
@@ -6873,7 +6873,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>521</td>
 		<td>
 			<a target="_blank" href="https://github.com/yyuu">
-				<img src="https://private-avatars.githubusercontent.com/u/63651?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyODAsIm5iZiI6MTczNDQ2MDA4MCwicGF0aCI6Ii91LzYzNjUxIn0.iO_Ufr4K43lMZzacHH1fLW1hoGub2y6HWO0u8RyLBtk&s=72&v=4" width="24" alt="Avatar of yyuu"/> yyuu
+				<img src="https://private-avatars.githubusercontent.com/u/63651?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwODAsIm5iZiI6MTczNDU2OTg4MCwicGF0aCI6Ii91LzYzNjUxIn0.6vmH6yxc4eaPrs6TWE_NVmodDM69nNMAV3Qcb-isszQ&s=72&v=4" width="24" alt="Avatar of yyuu"/> yyuu
 			</a><br/>
 			Yamashita Yuu
 		</td>
@@ -6886,7 +6886,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>522</td>
 		<td>
 			<a target="_blank" href="https://github.com/moriyoshi">
-				<img src="https://private-avatars.githubusercontent.com/u/18755?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3NjAsIm5iZiI6MTczNDQ2MDU2MCwicGF0aCI6Ii91LzE4NzU1In0.mUOrC19utZqhJhZ43-o-m07ZhwwBhIyEU1Ul0HEwjkI&s=72&u=6fb3e03b912d95a75e4763ba99cb7421a743d027&v=4" width="24" alt="Avatar of moriyoshi"/> moriyoshi
+				<img src="https://private-avatars.githubusercontent.com/u/18755?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1NjAsIm5iZiI6MTczNDU3MDM2MCwicGF0aCI6Ii91LzE4NzU1In0.loJKa4iW9anNV6x8kGS0B-tmC9WOmnl9q2esSSMhfD4&s=72&u=6fb3e03b912d95a75e4763ba99cb7421a743d027&v=4" width="24" alt="Avatar of moriyoshi"/> moriyoshi
 			</a><br/>
 			Moriyoshi Koizumi
 		</td>
@@ -6899,7 +6899,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>523</td>
 		<td>
 			<a target="_blank" href="https://github.com/kittinunf">
-				<img src="https://private-avatars.githubusercontent.com/u/4669517?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE2NDAsIm5iZiI6MTczNDQ2MDQ0MCwicGF0aCI6Ii91LzQ2Njk1MTcifQ.Y47o6BfmLwapeKdOrmzB36MPMVmSo6UiFfHqavuLTV0&s=72&u=ac0743bcfa2fa09572923bb1edfef0a25b46516b&v=4" width="24" alt="Avatar of kittinunf"/> kittinunf
+				<img src="https://private-avatars.githubusercontent.com/u/4669517?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA1NDAsIm5iZiI6MTczNDU2OTM0MCwicGF0aCI6Ii91LzQ2Njk1MTcifQ.MJdAbQHKifQAYl1kTuhjzXh6GF2TyR6z9PI6Jed-1KU&s=72&u=ac0743bcfa2fa09572923bb1edfef0a25b46516b&v=4" width="24" alt="Avatar of kittinunf"/> kittinunf
 			</a><br/>
 			Kittinun Vantasin
 		</td>
@@ -6912,7 +6912,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>524</td>
 		<td>
 			<a target="_blank" href="https://github.com/chokkan">
-				<img src="https://private-avatars.githubusercontent.com/u/478639?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE2NDAsIm5iZiI6MTczNDQ2MDQ0MCwicGF0aCI6Ii91LzQ3ODYzOSJ9._O01v-cYItZm_UX-47-MDjEajGl_PhXP8nk3US4AaY0&s=72&u=664b73b41f6dce5991027b6acb1d0e1f3892b8c7&v=4" width="24" alt="Avatar of chokkan"/> chokkan
+				<img src="https://private-avatars.githubusercontent.com/u/478639?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE0NDAsIm5iZiI6MTczNDU3MDI0MCwicGF0aCI6Ii91LzQ3ODYzOSJ9.TWR9Q4JOp00ykGU9CtxOWNThmnIzAOI8jFZQnIgnH_Q&s=72&u=664b73b41f6dce5991027b6acb1d0e1f3892b8c7&v=4" width="24" alt="Avatar of chokkan"/> chokkan
 			</a><br/>
 			Naoaki Okazaki
 		</td>
@@ -6925,7 +6925,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>525</td>
 		<td>
 			<a target="_blank" href="https://github.com/ishitatsuyuki">
-				<img src="https://private-avatars.githubusercontent.com/u/12389383?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0MDAsIm5iZiI6MTczNDQ2MDIwMCwicGF0aCI6Ii91LzEyMzg5MzgzIn0.h1IPe0F400PmrdtgFw4X1VdR_81zO8S7QrXJFcg8tMA&s=72&u=6b8f2c316f30a7c38bd211d3c0a15c0a5a50d807&v=4" width="24" alt="Avatar of ishitatsuyuki"/> ishitatsuyuki
+				<img src="https://private-avatars.githubusercontent.com/u/12389383?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyMDAsIm5iZiI6MTczNDU3MDAwMCwicGF0aCI6Ii91LzEyMzg5MzgzIn0.quAkkQeEJfvmKcrY_nHfmvJjND3hem3bx_YjXBdRSko&s=72&u=6b8f2c316f30a7c38bd211d3c0a15c0a5a50d807&v=4" width="24" alt="Avatar of ishitatsuyuki"/> ishitatsuyuki
 			</a><br/>
 			Tatsuyuki Ishi
 		</td>
@@ -6938,7 +6938,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>526</td>
 		<td>
 			<a target="_blank" href="https://github.com/alantian">
-				<img src="https://private-avatars.githubusercontent.com/u/1701454?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE2NDAsIm5iZiI6MTczNDQ2MDQ0MCwicGF0aCI6Ii91LzE3MDE0NTQifQ.XpefzZi7sCqHElU1ws3KfzJuL96t_6XfFkHrlhu6qKs&s=72&u=935b5fad5d9cec1fa0d58ed71bf769df0faeffd1&v=4" width="24" alt="Avatar of alantian"/> alantian
+				<img src="https://private-avatars.githubusercontent.com/u/1701454?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE0NDAsIm5iZiI6MTczNDU3MDI0MCwicGF0aCI6Ii91LzE3MDE0NTQifQ.Hbs9kpTBYMOY5dO491Dwo1oDpzHjoEKGYSpIDYyXgFM&s=72&u=935b5fad5d9cec1fa0d58ed71bf769df0faeffd1&v=4" width="24" alt="Avatar of alantian"/> alantian
 			</a><br/>
 			Yingtao Tian
 		</td>
@@ -6951,20 +6951,20 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>527</td>
 		<td>
 			<a target="_blank" href="https://github.com/OTL">
-				<img src="https://private-avatars.githubusercontent.com/u/207142?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE5NDAsIm5iZiI6MTczNDQ2MDc0MCwicGF0aCI6Ii91LzIwNzE0MiJ9.0e4g1xbNPOGqsDgUAzNf9ZsEaktzOg8yt4y9jwzBBYk&s=72&v=4" width="24" alt="Avatar of OTL"/> OTL
+				<img src="https://private-avatars.githubusercontent.com/u/207142?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE3NDAsIm5iZiI6MTczNDU3MDU0MCwicGF0aCI6Ii91LzIwNzE0MiJ9.anS8ya7Yc6DtRuEhdCvbb0UGrlpgMEIl4iWSzz2eU8g&s=72&v=4" width="24" alt="Avatar of OTL"/> OTL
 			</a><br/>
 			Takashi Ogura
 		</td>
 		<td>Synchrobo Inc </td>
 		<td><a target="_blank" href="https://twitter.com/OTL">OTL</a></td>
 		<td>Tokyo</td>
-		<td>99</td>
+		<td>100</td>
 	</tr>
 	<tr>
 		<td>528</td>
 		<td>
 			<a target="_blank" href="https://github.com/upura">
-				<img src="https://private-avatars.githubusercontent.com/u/31459778?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE2NDAsIm5iZiI6MTczNDQ2MDQ0MCwicGF0aCI6Ii91LzMxNDU5Nzc4In0.XYry9sX_2tVw5wSBQ9r4AcFKBkE-gVLe8usZpCWCnvk&s=72&u=d362dd500cc885b7a0012285aab0ac480b66ce0f&v=4" width="24" alt="Avatar of upura"/> upura
+				<img src="https://private-avatars.githubusercontent.com/u/31459778?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE0NDAsIm5iZiI6MTczNDU3MDI0MCwicGF0aCI6Ii91LzMxNDU5Nzc4In0.Z_UFk1Xyyxdnd0O5HRwHFEIHUKw1Q88xLY4ANsGgjh0&s=72&u=d362dd500cc885b7a0012285aab0ac480b66ce0f&v=4" width="24" alt="Avatar of upura"/> upura
 			</a><br/>
 			Shotaro Ishihara
 		</td>
@@ -6977,7 +6977,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>529</td>
 		<td>
 			<a target="_blank" href="https://github.com/rosylilly">
-				<img src="https://private-avatars.githubusercontent.com/u/29084?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3NjAsIm5iZiI6MTczNDQ2MDU2MCwicGF0aCI6Ii91LzI5MDg0In0.osenKzYlaKqJDXp7RU8Yqj8JylRiQyEY6bF_Dc5Niec&s=72&u=b64e1879d4499e189b13127c9f1379f1dd72da5e&v=4" width="24" alt="Avatar of rosylilly"/> rosylilly
+				<img src="https://private-avatars.githubusercontent.com/u/29084?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1NjAsIm5iZiI6MTczNDU3MDM2MCwicGF0aCI6Ii91LzI5MDg0In0.bnhNmT1nYShq5Azmuyhp7s_BSJ2OPBGzl4DQ-PECFhU&s=72&u=b64e1879d4499e189b13127c9f1379f1dd72da5e&v=4" width="24" alt="Avatar of rosylilly"/> rosylilly
 			</a><br/>
 			Sho Kusano
 		</td>
@@ -6990,7 +6990,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>530</td>
 		<td>
 			<a target="_blank" href="https://github.com/ichikaway">
-				<img src="https://private-avatars.githubusercontent.com/u/91244?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjIwNjAsIm5iZiI6MTczNDQ2MDg2MCwicGF0aCI6Ii91LzkxMjQ0In0.9kbyN5mI_Krk3OO3WWzroNVuriQXG1Hi7-gygbpoSLA&s=72&v=4" width="24" alt="Avatar of ichikaway"/> ichikaway
+				<img src="https://private-avatars.githubusercontent.com/u/91244?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5NjAsIm5iZiI6MTczNDU2OTc2MCwicGF0aCI6Ii91LzkxMjQ0In0.H1H71-WeC0-edlN5mihCf92I4uEEjvy3G-2Mcv_eujY&s=72&v=4" width="24" alt="Avatar of ichikaway"/> ichikaway
 			</a><br/>
 			Yasushi Ichikawa ichikaway
 		</td>
@@ -7003,7 +7003,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>531</td>
 		<td>
 			<a target="_blank" href="https://github.com/plouc">
-				<img src="https://private-avatars.githubusercontent.com/u/501642?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0MDAsIm5iZiI6MTczNDQ2MDIwMCwicGF0aCI6Ii91LzUwMTY0MiJ9.4XYUPCR77hTCyxpouHmK2ZEQTxZMeBV7O8QXzLMEjT8&s=72&u=7ba82244f27da6ff91d21af078bf5c4be5f89780&v=4" width="24" alt="Avatar of plouc"/> plouc
+				<img src="https://private-avatars.githubusercontent.com/u/501642?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyMDAsIm5iZiI6MTczNDU3MDAwMCwicGF0aCI6Ii91LzUwMTY0MiJ9.WRz4XabZHuxmlEQnLYURualpx9zuTd8VG7rWijU0ocg&s=72&u=7ba82244f27da6ff91d21af078bf5c4be5f89780&v=4" width="24" alt="Avatar of plouc"/> plouc
 			</a><br/>
 			Raphal Benitte
 		</td>
@@ -7016,7 +7016,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>532</td>
 		<td>
 			<a target="_blank" href="https://github.com/croath">
-				<img src="https://private-avatars.githubusercontent.com/u/1398729?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExNjAsIm5iZiI6MTczNDQ1OTk2MCwicGF0aCI6Ii91LzEzOTg3MjkifQ.8ZwXnb7l5OJAzx-wOzNtFZiAI-nil25PAvsm-DVjLIw&s=72&u=2d19b268e44acffe56cbbc07c2612aff5c473730&v=4" width="24" alt="Avatar of croath"/> croath
+				<img src="https://private-avatars.githubusercontent.com/u/1398729?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5NjAsIm5iZiI6MTczNDU2OTc2MCwicGF0aCI6Ii91LzEzOTg3MjkifQ.nRSTBNclT0N9uMvWa7eDUkUy5Mm3cshiSfR-xl9HWtY&s=72&u=2d19b268e44acffe56cbbc07c2612aff5c473730&v=4" width="24" alt="Avatar of croath"/> croath
 			</a><br/>
 			Croath Liu
 		</td>
@@ -7029,7 +7029,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>533</td>
 		<td>
 			<a target="_blank" href="https://github.com/wynand1004">
-				<img src="https://private-avatars.githubusercontent.com/u/13484014?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyMjAsIm5iZiI6MTczNDQ2MDAyMCwicGF0aCI6Ii91LzEzNDg0MDE0In0.XWlByJHhG2G80RNOFzXiGPpz1MZlEua59PX0SnLmeow&s=72&u=e5a19c1fe522535670bdfc1947be961f5b94bd99&v=4" width="24" alt="Avatar of wynand1004"/> wynand1004
+				<img src="https://private-avatars.githubusercontent.com/u/13484014?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwMjAsIm5iZiI6MTczNDU2OTgyMCwicGF0aCI6Ii91LzEzNDg0MDE0In0.1sgnjEyG5R13Nb8VtCi899lRHL72q_5IY5BqXXtueBk&s=72&u=e5a19c1fe522535670bdfc1947be961f5b94bd99&v=4" width="24" alt="Avatar of wynand1004"/> wynand1004
 			</a><br/>
 			Christian Thompson
 		</td>
@@ -7041,8 +7041,21 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 	<tr>
 		<td>534</td>
 		<td>
+			<a target="_blank" href="https://github.com/mactkg">
+				<img src="https://private-avatars.githubusercontent.com/u/178418?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5NjAsIm5iZiI6MTczNDU2OTc2MCwicGF0aCI6Ii91LzE3ODQxOCJ9.6yr5RqwJHvXUydaq6o51o3Zp8HAynNIDaqyXkp98Cwc&s=72&u=818c5c8a0f49eb318141d694c5b3b46dce62077f&v=4" width="24" alt="Avatar of mactkg"/> mactkg
+			</a><br/>
+			mactkg
+		</td>
+		<td>@recruitmp </td>
+		<td><a target="_blank" href="https://twitter.com/mactkg">mactkg</a></td>
+		<td>Tokyo Japan</td>
+		<td>93</td>
+	</tr>
+	<tr>
+		<td>535</td>
+		<td>
 			<a target="_blank" href="https://github.com/lightsound">
-				<img src="https://private-avatars.githubusercontent.com/u/8220973?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE2NDAsIm5iZiI6MTczNDQ2MDQ0MCwicGF0aCI6Ii91LzgyMjA5NzMifQ.wNu9LSlSYlPHCz9fMh6QHBSFg0jryNg-xI4Cly55EEo&s=72&u=1f20a35674da9f6c948b5edffd9134b938d17f50&v=4" width="24" alt="Avatar of lightsound"/> lightsound
+				<img src="https://private-avatars.githubusercontent.com/u/8220973?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE0NDAsIm5iZiI6MTczNDU3MDI0MCwicGF0aCI6Ii91LzgyMjA5NzMifQ.FfRdRwoBKCGHq8LI91QsRxjRYsOJRszAWMyDU6XDXfo&s=72&u=1f20a35674da9f6c948b5edffd9134b938d17f50&v=4" width="24" alt="Avatar of lightsound"/> lightsound
 			</a><br/>
 			
 		</td>
@@ -7052,10 +7065,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>92</td>
 	</tr>
 	<tr>
-		<td>535</td>
+		<td>536</td>
 		<td>
 			<a target="_blank" href="https://github.com/moskomule">
-				<img src="https://private-avatars.githubusercontent.com/u/11806234?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEzNDAsIm5iZiI6MTczNDQ2MDE0MCwicGF0aCI6Ii91LzExODA2MjM0In0.4WDvjcKQQhXBCIlhkqkv_ewpfbNgKAK5w2Xe-twm1qA&s=72&u=2ebac687ef8c906cfca5e350b8004c6d1d227b55&v=4" width="24" alt="Avatar of moskomule"/> moskomule
+				<img src="https://private-avatars.githubusercontent.com/u/11806234?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzExNDAsIm5iZiI6MTczNDU2OTk0MCwicGF0aCI6Ii91LzExODA2MjM0In0.feZLGDXkFQwo9k15OTxkpR5q2sw9FXdvNLYJaHPh1t4&s=72&u=2ebac687ef8c906cfca5e350b8004c6d1d227b55&v=4" width="24" alt="Avatar of moskomule"/> moskomule
 			</a><br/>
 			Ryuichiro Hataya
 		</td>
@@ -7065,10 +7078,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>92</td>
 	</tr>
 	<tr>
-		<td>536</td>
+		<td>537</td>
 		<td>
 			<a target="_blank" href="https://github.com/idawnlight">
-				<img src="https://private-avatars.githubusercontent.com/u/18070833?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEzNDAsIm5iZiI6MTczNDQ2MDE0MCwicGF0aCI6Ii91LzE4MDcwODMzIn0.Dc2p_P1Shd2CggXSE_mGfSQqa6yncw2TZCV5-_4M45U&s=72&u=e1914440e8d7697e9892e93e607ad26ef18c61b5&v=4" width="24" alt="Avatar of idawnlight"/> idawnlight
+				<img src="https://private-avatars.githubusercontent.com/u/18070833?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzExNDAsIm5iZiI6MTczNDU2OTk0MCwicGF0aCI6Ii91LzE4MDcwODMzIn0.9lOa5_AeRiNTuq7YlDsK14abpjry3iuhpyfwzfTeLqw&s=72&u=e1914440e8d7697e9892e93e607ad26ef18c61b5&v=4" width="24" alt="Avatar of idawnlight"/> idawnlight
 			</a><br/>
 			Light
 		</td>
@@ -7078,10 +7091,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>92</td>
 	</tr>
 	<tr>
-		<td>537</td>
+		<td>538</td>
 		<td>
 			<a target="_blank" href="https://github.com/yoidea">
-				<img src="https://private-avatars.githubusercontent.com/u/26201815?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA2MjAsIm5iZiI6MTczNDQ1OTQyMCwicGF0aCI6Ii91LzI2MjAxODE1In0.-Yl4jwvS0rvXGUj9OgqfC7AsDAzNa1-Hz05kYWf_Uyw&s=72&u=0a661deb1cb00db33c16086ac3f49401d411d7c3&v=4" width="24" alt="Avatar of yoidea"/> yoidea
+				<img src="https://private-avatars.githubusercontent.com/u/26201815?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA0MjAsIm5iZiI6MTczNDU2OTIyMCwicGF0aCI6Ii91LzI2MjAxODE1In0.-hMCQf99vICA5J6Dhi1kTiv1FBlhMK8hD4ZBydMUPEA&s=72&u=0a661deb1cb00db33c16086ac3f49401d411d7c3&v=4" width="24" alt="Avatar of yoidea"/> yoidea
 			</a><br/>
 			
 		</td>
@@ -7091,10 +7104,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>91</td>
 	</tr>
 	<tr>
-		<td>538</td>
+		<td>539</td>
 		<td>
 			<a target="_blank" href="https://github.com/penk">
-				<img src="https://private-avatars.githubusercontent.com/u/61878?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyODAsIm5iZiI6MTczNDQ2MDA4MCwicGF0aCI6Ii91LzYxODc4In0.T5e_8fa2CDWTNfBi3okI4UH-996-_P9ylbZ0U2BsSFc&s=72&u=ac3840551e69ea03110cf1222ab7a9eeddcaf16f&v=4" width="24" alt="Avatar of penk"/> penk
+				<img src="https://private-avatars.githubusercontent.com/u/61878?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwODAsIm5iZiI6MTczNDU2OTg4MCwicGF0aCI6Ii91LzYxODc4In0.iqh31AONTlX7bU8YCYCjtfvAJsbCq7sMVaMvL4n9_K0&s=72&u=ac3840551e69ea03110cf1222ab7a9eeddcaf16f&v=4" width="24" alt="Avatar of penk"/> penk
 			</a><br/>
 			Penk Chen
 		</td>
@@ -7104,23 +7117,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>91</td>
 	</tr>
 	<tr>
-		<td>539</td>
-		<td>
-			<a target="_blank" href="https://github.com/mactkg">
-				<img src="https://private-avatars.githubusercontent.com/u/178418?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExNjAsIm5iZiI6MTczNDQ1OTk2MCwicGF0aCI6Ii91LzE3ODQxOCJ9.bMzsz-2J_N6juPz6UIGDuPSnWdbKB5SYfh4COh_hpvQ&s=72&u=818c5c8a0f49eb318141d694c5b3b46dce62077f&v=4" width="24" alt="Avatar of mactkg"/> mactkg
-			</a><br/>
-			mactkg
-		</td>
-		<td>@recruitmp </td>
-		<td><a target="_blank" href="https://twitter.com/mactkg">mactkg</a></td>
-		<td>Tokyo Japan</td>
-		<td>91</td>
-	</tr>
-	<tr>
 		<td>540</td>
 		<td>
 			<a target="_blank" href="https://github.com/tyoshikawa1106">
-				<img src="https://private-avatars.githubusercontent.com/u/2088447?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE4MjAsIm5iZiI6MTczNDQ2MDYyMCwicGF0aCI6Ii91LzIwODg0NDcifQ.3rwXpksYWn5MOvcho2IE6877fnWOoJEJoZfJ23izGYs&s=72&u=ac8a5a445f29457019929368e75d4ab06c3937b9&v=4" width="24" alt="Avatar of tyoshikawa1106"/> tyoshikawa1106
+				<img src="https://private-avatars.githubusercontent.com/u/2088447?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE2MjAsIm5iZiI6MTczNDU3MDQyMCwicGF0aCI6Ii91LzIwODg0NDcifQ.TU1t04R9YZ-YW2SZDl4MJpfAV8NYElXU0LAII3g3tjM&s=72&u=ac8a5a445f29457019929368e75d4ab06c3937b9&v=4" width="24" alt="Avatar of tyoshikawa1106"/> tyoshikawa1106
 			</a><br/>
 			Taiki Yoshikawa
 		</td>
@@ -7133,7 +7133,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>541</td>
 		<td>
 			<a target="_blank" href="https://github.com/FiberJW">
-				<img src="https://private-avatars.githubusercontent.com/u/12488826?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE4ODAsIm5iZiI6MTczNDQ2MDY4MCwicGF0aCI6Ii91LzEyNDg4ODI2In0.T1vs5ZaEoUGzjbPeMwd3G7NkZBreBZhNI23_pjqEk6U&s=72&u=d474f37b275805102d403a32ea28a1f44216c030&v=4" width="24" alt="Avatar of FiberJW"/> FiberJW
+				<img src="https://private-avatars.githubusercontent.com/u/12488826?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE2ODAsIm5iZiI6MTczNDU3MDQ4MCwicGF0aCI6Ii91LzEyNDg4ODI2In0.UyRcsqG-qTeiTIqo6U_bQb5FL2YXeo5gtLfmg3ezZGI&s=72&u=d474f37b275805102d403a32ea28a1f44216c030&v=4" width="24" alt="Avatar of FiberJW"/> FiberJW
 			</a><br/>
 			Juwan Wheatley
 		</td>
@@ -7146,7 +7146,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>542</td>
 		<td>
 			<a target="_blank" href="https://github.com/mono0926">
-				<img src="https://private-avatars.githubusercontent.com/u/1255062?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA2ODAsIm5iZiI6MTczNDQ1OTQ4MCwicGF0aCI6Ii91LzEyNTUwNjIifQ.XXDOHSn699K2rYIcT7U72MiY9nzL-xW6yUrnxXJ_xKg&s=72&v=4" width="24" alt="Avatar of mono0926"/> mono0926
+				<img src="https://private-avatars.githubusercontent.com/u/1255062?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA0ODAsIm5iZiI6MTczNDU2OTI4MCwicGF0aCI6Ii91LzEyNTUwNjIifQ.PvjsnQWQOrZ8N1rFg1_cIRbimgpUh5gkfSkdRH5I2so&s=72&v=4" width="24" alt="Avatar of mono0926"/> mono0926
 			</a><br/>
 			mono  Masayuki Ono
 		</td>
@@ -7159,7 +7159,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>543</td>
 		<td>
 			<a target="_blank" href="https://github.com/fukayatsu">
-				<img src="https://private-avatars.githubusercontent.com/u/1041857?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE4ODAsIm5iZiI6MTczNDQ2MDY4MCwicGF0aCI6Ii91LzEwNDE4NTcifQ.8gZOINlJHvnAUB2bfUoP9fY9H_OG7B00NewwhjxLfYk&s=72&v=4" width="24" alt="Avatar of fukayatsu"/> fukayatsu
+				<img src="https://private-avatars.githubusercontent.com/u/1041857?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE2ODAsIm5iZiI6MTczNDU3MDQ4MCwicGF0aCI6Ii91LzEwNDE4NTcifQ.zS8-wjxImGnAT629LJjlIej-Fxhi5gwKycE9Ly1f2q8&s=72&v=4" width="24" alt="Avatar of fukayatsu"/> fukayatsu
 			</a><br/>
 			Atsuo Fukaya
 		</td>
@@ -7172,7 +7172,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>544</td>
 		<td>
 			<a target="_blank" href="https://github.com/STAR-ZERO">
-				<img src="https://private-avatars.githubusercontent.com/u/376376?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjIwNjAsIm5iZiI6MTczNDQ2MDg2MCwicGF0aCI6Ii91LzM3NjM3NiJ9.NxwkfLyK-zPlWuXZc5n59y4342bahprjuNT6EXw_CxM&s=72&u=c9428e145dea238d8dec3e06ef275be6b59a77b8&v=4" width="24" alt="Avatar of STAR-ZERO"/> STAR-ZERO
+				<img src="https://private-avatars.githubusercontent.com/u/376376?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5NjAsIm5iZiI6MTczNDU2OTc2MCwicGF0aCI6Ii91LzM3NjM3NiJ9.J4G0TAoyVdaDcaV6Fea_ev04KOk3PUu98pm_ZyKZI-M&s=72&u=c9428e145dea238d8dec3e06ef275be6b59a77b8&v=4" width="24" alt="Avatar of STAR-ZERO"/> STAR-ZERO
 			</a><br/>
 			Kenji Abe
 		</td>
@@ -7185,7 +7185,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>545</td>
 		<td>
 			<a target="_blank" href="https://github.com/AntixK">
-				<img src="https://private-avatars.githubusercontent.com/u/14088134?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3NjAsIm5iZiI6MTczNDQ2MDU2MCwicGF0aCI6Ii91LzE0MDg4MTM0In0.iXo4CkkscYw4LZp_ldZ2mxxUIW8vFj-B9BgzQA6LjDk&s=72&u=c3974dd976b1bb7598ff6a69066d7b3a9e673946&v=4" width="24" alt="Avatar of AntixK"/> AntixK
+				<img src="https://private-avatars.githubusercontent.com/u/14088134?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1NjAsIm5iZiI6MTczNDU3MDM2MCwicGF0aCI6Ii91LzE0MDg4MTM0In0.824OZTNA3DHWVaTL0cipofbxFNzAzCHfX_E46hSWW_E&s=72&u=c3974dd976b1bb7598ff6a69066d7b3a9e673946&v=4" width="24" alt="Avatar of AntixK"/> AntixK
 			</a><br/>
 			Anand K Subramanian
 		</td>
@@ -7198,7 +7198,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>546</td>
 		<td>
 			<a target="_blank" href="https://github.com/houko">
-				<img src="https://private-avatars.githubusercontent.com/u/12625278?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExNjAsIm5iZiI6MTczNDQ1OTk2MCwicGF0aCI6Ii91LzEyNjI1Mjc4In0.8BgmsOLwtekbVXwJAEhC99XT7xWogkzxXu-YWJDwgsI&s=72&u=325ef18b20f3ee89802ee0bb38226edf20376f23&v=4" width="24" alt="Avatar of houko"/> houko
+				<img src="https://private-avatars.githubusercontent.com/u/12625278?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5NjAsIm5iZiI6MTczNDU2OTc2MCwicGF0aCI6Ii91LzEyNjI1Mjc4In0.twC8jo3o8cLCMGW1TKf80JBEIlDk2vfSrzihxjeu5SQ&s=72&u=325ef18b20f3ee89802ee0bb38226edf20376f23&v=4" width="24" alt="Avatar of houko"/> houko
 			</a><br/>
 			
 		</td>
@@ -7211,7 +7211,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>547</td>
 		<td>
 			<a target="_blank" href="https://github.com/hibariya">
-				<img src="https://private-avatars.githubusercontent.com/u/43346?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEzNDAsIm5iZiI6MTczNDQ2MDE0MCwicGF0aCI6Ii91LzQzMzQ2In0.Mc9y59WvvJM0JI-c_hpGvmofAMMpJHrsBJTcD3iQ4zM&s=72&u=f78a01904de85046519960fcece2a53ecb4bd7a4&v=4" width="24" alt="Avatar of hibariya"/> hibariya
+				<img src="https://private-avatars.githubusercontent.com/u/43346?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzExNDAsIm5iZiI6MTczNDU2OTk0MCwicGF0aCI6Ii91LzQzMzQ2In0.PY8cLAcCrVsgokS8TQk_mimregbHVZrJmxMWx2My9iA&s=72&u=f78a01904de85046519960fcece2a53ecb4bd7a4&v=4" width="24" alt="Avatar of hibariya"/> hibariya
 			</a><br/>
 			Hibariya
 		</td>
@@ -7224,7 +7224,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>548</td>
 		<td>
 			<a target="_blank" href="https://github.com/yosuke-furukawa">
-				<img src="https://private-avatars.githubusercontent.com/u/555645?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyODAsIm5iZiI6MTczNDQ2MDA4MCwicGF0aCI6Ii91LzU1NTY0NSJ9.SAfZmb9JiohVYgXQoku8HDzvPRFDwuDPydGlMCfSxIg&s=72&v=4" width="24" alt="Avatar of yosuke-furukawa"/> yosuke-furukawa
+				<img src="https://private-avatars.githubusercontent.com/u/555645?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwODAsIm5iZiI6MTczNDU2OTg4MCwicGF0aCI6Ii91LzU1NTY0NSJ9.oDh-rVzhRwVEw54giAmIKch6FV0vFCJb8iTCP3mVdCk&s=72&v=4" width="24" alt="Avatar of yosuke-furukawa"/> yosuke-furukawa
 			</a><br/>
 			Yosuke Furukawa
 		</td>
@@ -7237,7 +7237,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>549</td>
 		<td>
 			<a target="_blank" href="https://github.com/nineties">
-				<img src="https://private-avatars.githubusercontent.com/u/172570?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1MjAsIm5iZiI6MTczNDQ2MDMyMCwicGF0aCI6Ii91LzE3MjU3MCJ9.OlQ8MMdwgevGsBClyaiv-2zHHK-Efcn1WFH4DGJQEYk&s=72&v=4" width="24" alt="Avatar of nineties"/> nineties
+				<img src="https://private-avatars.githubusercontent.com/u/172570?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzMjAsIm5iZiI6MTczNDU3MDEyMCwicGF0aCI6Ii91LzE3MjU3MCJ9.D0PTSZsmQaOITnzSEouqYZR6JhYtjfgWxQIUeym1t0Q&s=72&v=4" width="24" alt="Avatar of nineties"/> nineties
 			</a><br/>
 			Koichi NAKAMURA
 		</td>
@@ -7250,7 +7250,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>550</td>
 		<td>
 			<a target="_blank" href="https://github.com/kjur">
-				<img src="https://private-avatars.githubusercontent.com/u/1206524?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjIwMDAsIm5iZiI6MTczNDQ2MDgwMCwicGF0aCI6Ii91LzEyMDY1MjQifQ.WPXG4XJopm-jWJsXyS7CqXiwxvIT5GxOU78fbMMA2iI&s=72&u=f2e33eb110cd3c7423edea6a929d93307df5ee51&v=4" width="24" alt="Avatar of kjur"/> kjur
+				<img src="https://private-avatars.githubusercontent.com/u/1206524?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5MDAsIm5iZiI6MTczNDU2OTcwMCwicGF0aCI6Ii91LzEyMDY1MjQifQ.9PPGghrZsCOu7bGMkgyxUHuIOJ5BRquN5y__HKLiQdE&s=72&u=f2e33eb110cd3c7423edea6a929d93307df5ee51&v=4" width="24" alt="Avatar of kjur"/> kjur
 			</a><br/>
 			Kenji Urushima
 		</td>
@@ -7263,7 +7263,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>551</td>
 		<td>
 			<a target="_blank" href="https://github.com/brettwooldridge">
-				<img src="https://private-avatars.githubusercontent.com/u/1538661?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA2MjAsIm5iZiI6MTczNDQ1OTQyMCwicGF0aCI6Ii91LzE1Mzg2NjEifQ.4ESsEhJLQvr8YGG0RKL7q1PWG6YCul-tKYYN0KgtUJE&s=72&u=283f28d238d11dbbb471c07c76a29543acbd77a1&v=4" width="24" alt="Avatar of brettwooldridge"/> brettwooldridge
+				<img src="https://private-avatars.githubusercontent.com/u/1538661?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA0MjAsIm5iZiI6MTczNDU2OTIyMCwicGF0aCI6Ii91LzE1Mzg2NjEifQ.NPCOKl7Qvqum16ypjE9d-lmQqD_Zu6dZUjQMTbIeSIQ&s=72&u=283f28d238d11dbbb471c07c76a29543acbd77a1&v=4" width="24" alt="Avatar of brettwooldridge"/> brettwooldridge
 			</a><br/>
 			Brett Wooldridge
 		</td>
@@ -7275,8 +7275,34 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 	<tr>
 		<td>552</td>
 		<td>
+			<a target="_blank" href="https://github.com/tkmru">
+				<img src="https://private-avatars.githubusercontent.com/u/1628214?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE2MjAsIm5iZiI6MTczNDU3MDQyMCwicGF0aCI6Ii91LzE2MjgyMTQifQ.Jegg6E2_VKOo2tPPjSn0OcvX_DJxIyA1LDcuZRdbZuc&s=72&u=1cdf28fb182408bcf04c22132a74e426403b4102&v=4" width="24" alt="Avatar of tkmru"/> tkmru
+			</a><br/>
+			@tkmru
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/tkmru">tkmru</a></td>
+		<td>Japan</td>
+		<td>84</td>
+	</tr>
+	<tr>
+		<td>553</td>
+		<td>
+			<a target="_blank" href="https://github.com/fenomas">
+				<img src="https://private-avatars.githubusercontent.com/u/352373?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwODAsIm5iZiI6MTczNDU2OTg4MCwicGF0aCI6Ii91LzM1MjM3MyJ9.pnBBq8uzoY4wUT1w2dvhIEAJdzVC9j8RraUwmU184B4&s=72&u=11b355897cc1c300b14929c0b2895a0746588c33&v=4" width="24" alt="Avatar of fenomas"/> fenomas
+			</a><br/>
+			Andy Hall fenomas
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tokyo</td>
+		<td>84</td>
+	</tr>
+	<tr>
+		<td>554</td>
+		<td>
 			<a target="_blank" href="https://github.com/adrianmcli">
-				<img src="https://private-avatars.githubusercontent.com/u/943555?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3MDAsIm5iZiI6MTczNDQ2MDUwMCwicGF0aCI6Ii91Lzk0MzU1NSJ9.aGqqgxwMkscwcUZbq_7FZym8zRR1bgS0nG8OUL_pHIE&s=72&u=4c81278246922879e632b6a580ad7c1ec6758268&v=4" width="24" alt="Avatar of adrianmcli"/> adrianmcli
+				<img src="https://private-avatars.githubusercontent.com/u/943555?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1MDAsIm5iZiI6MTczNDU3MDMwMCwicGF0aCI6Ii91Lzk0MzU1NSJ9.z-OU5kFBktFXLIk9Ifj3PkVSJOhTmHhggc2Fl99pjxs&s=72&u=4c81278246922879e632b6a580ad7c1ec6758268&v=4" width="24" alt="Avatar of adrianmcli"/> adrianmcli
 			</a><br/>
 			Adrian Li
 		</td>
@@ -7286,23 +7312,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>553</td>
-		<td>
-			<a target="_blank" href="https://github.com/tkmru">
-				<img src="https://private-avatars.githubusercontent.com/u/1628214?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE4MjAsIm5iZiI6MTczNDQ2MDYyMCwicGF0aCI6Ii91LzE2MjgyMTQifQ.3z35xRQwNHc_JxintHVzwajo0QqGKM9RhNucIq_p3R0&s=72&u=1cdf28fb182408bcf04c22132a74e426403b4102&v=4" width="24" alt="Avatar of tkmru"/> tkmru
-			</a><br/>
-			@tkmru
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/tkmru">tkmru</a></td>
-		<td>Japan</td>
-		<td>82</td>
-	</tr>
-	<tr>
-		<td>554</td>
+		<td>555</td>
 		<td>
 			<a target="_blank" href="https://github.com/keroxp">
-				<img src="https://private-avatars.githubusercontent.com/u/927286?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE4MjAsIm5iZiI6MTczNDQ2MDYyMCwicGF0aCI6Ii91LzkyNzI4NiJ9.xVJErTGEyx7MxYv5AprZf33S1S4s2BaYWPwsjCflmdE&s=72&u=9ca0c33c94beb88e1091d47b2f15b76096064f58&v=4" width="24" alt="Avatar of keroxp"/> keroxp
+				<img src="https://private-avatars.githubusercontent.com/u/927286?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE2MjAsIm5iZiI6MTczNDU3MDQyMCwicGF0aCI6Ii91LzkyNzI4NiJ9.l1eZZ2ranlKS_xDHdTdVA36XWN-t2amMdgeTeY30OwA&s=72&u=9ca0c33c94beb88e1091d47b2f15b76096064f58&v=4" width="24" alt="Avatar of keroxp"/> keroxp
 			</a><br/>
 			Yusuke Sakurai
 		</td>
@@ -7312,23 +7325,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>555</td>
-		<td>
-			<a target="_blank" href="https://github.com/fenomas">
-				<img src="https://private-avatars.githubusercontent.com/u/352373?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyODAsIm5iZiI6MTczNDQ2MDA4MCwicGF0aCI6Ii91LzM1MjM3MyJ9.8sYZD23JYtJn2TNHURPyOZoP9x4yi24pzoJA1IEplxo&s=72&u=11b355897cc1c300b14929c0b2895a0746588c33&v=4" width="24" alt="Avatar of fenomas"/> fenomas
-			</a><br/>
-			Andy Hall fenomas
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Tokyo</td>
-		<td>82</td>
-	</tr>
-	<tr>
 		<td>556</td>
 		<td>
 			<a target="_blank" href="https://github.com/ynagatomo">
-				<img src="https://private-avatars.githubusercontent.com/u/66309582?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEwNDAsIm5iZiI6MTczNDQ1OTg0MCwicGF0aCI6Ii91LzY2MzA5NTgyIn0.ZXVJ2_4JPWVcZF6f6FXvq9uyIyGJKOCDyrWdPsOufho&s=72&u=459fd9acfb79f8a40608668ad556d16f9aa14bbd&v=4" width="24" alt="Avatar of ynagatomo"/> ynagatomo
+				<img src="https://private-avatars.githubusercontent.com/u/66309582?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA4NDAsIm5iZiI6MTczNDU2OTY0MCwicGF0aCI6Ii91LzY2MzA5NTgyIn0.NEO0tyIurQuY4vSuxDEfINbZ97APYasm4Fo17fS2Nco&s=72&u=459fd9acfb79f8a40608668ad556d16f9aa14bbd&v=4" width="24" alt="Avatar of ynagatomo"/> ynagatomo
 			</a><br/>
 			Yasuhito Nagatomo
 		</td>
@@ -7341,7 +7341,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>557</td>
 		<td>
 			<a target="_blank" href="https://github.com/unchama">
-				<img src="https://private-avatars.githubusercontent.com/u/11990197?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1ODAsIm5iZiI6MTczNDQ2MDM4MCwicGF0aCI6Ii91LzExOTkwMTk3In0.M8tSBeVNLWy-J8cPPmdXDd9PeicfL9jD93SzLvKkwvQ&s=72&u=63c7d60c9fb1517af78eda0197212e5e0d5544ea&v=4" width="24" alt="Avatar of unchama"/> unchama
+				<img src="https://private-avatars.githubusercontent.com/u/11990197?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzODAsIm5iZiI6MTczNDU3MDE4MCwicGF0aCI6Ii91LzExOTkwMTk3In0.q45hFx8zvZsuaPR7IsmVMIAXpyHCzulp9gzj8bucVKk&s=72&u=63c7d60c9fb1517af78eda0197212e5e0d5544ea&v=4" width="24" alt="Avatar of unchama"/> unchama
 			</a><br/>
 			unchama
 		</td>
@@ -7354,7 +7354,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>558</td>
 		<td>
 			<a target="_blank" href="https://github.com/mitmul">
-				<img src="https://private-avatars.githubusercontent.com/u/666535?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA5MjAsIm5iZiI6MTczNDQ1OTcyMCwicGF0aCI6Ii91LzY2NjUzNSJ9.a6cVHk-bQXfljMwoaWBj6ySZFyd0QXeJ79lZ_J3Noh4&s=72&u=eddc85badac4df56f7aaad23ff14e7cbc1d6518d&v=4" width="24" alt="Avatar of mitmul"/> mitmul
+				<img src="https://private-avatars.githubusercontent.com/u/666535?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA3MjAsIm5iZiI6MTczNDU2OTUyMCwicGF0aCI6Ii91LzY2NjUzNSJ9.ihPaqE-5P7o971DARwxrWs2t2VliLeTtSckj4-dfAic&s=72&u=eddc85badac4df56f7aaad23ff14e7cbc1d6518d&v=4" width="24" alt="Avatar of mitmul"/> mitmul
 			</a><br/>
 			Shunta Saito
 		</td>
@@ -7367,7 +7367,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>559</td>
 		<td>
 			<a target="_blank" href="https://github.com/nov">
-				<img src="https://private-avatars.githubusercontent.com/u/27299?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEzNDAsIm5iZiI6MTczNDQ2MDE0MCwicGF0aCI6Ii91LzI3Mjk5In0.tJSiYKytAq8xIx0bJrwwMrTo6Pf8GG__-c08ragA1s8&s=72&u=d02b1d3e03dc134d2d0a42e670eac1be099064e0&v=4" width="24" alt="Avatar of nov"/> nov
+				<img src="https://private-avatars.githubusercontent.com/u/27299?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzExNDAsIm5iZiI6MTczNDU2OTk0MCwicGF0aCI6Ii91LzI3Mjk5In0.-AXPCJERRyRwkD2HkppDGkoSwQnqtIRPEjDBq-bmuOA&s=72&u=d02b1d3e03dc134d2d0a42e670eac1be099064e0&v=4" width="24" alt="Avatar of nov"/> nov
 			</a><br/>
 			Nov Matake
 		</td>
@@ -7380,7 +7380,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>560</td>
 		<td>
 			<a target="_blank" href="https://github.com/ptr-yudai">
-				<img src="https://private-avatars.githubusercontent.com/u/7546103?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE4MjAsIm5iZiI6MTczNDQ2MDYyMCwicGF0aCI6Ii91Lzc1NDYxMDMifQ.uDLUkMUakvefvLQfRMyo2YBLvHNIz4fqlSyRa9nlBaY&s=72&u=d5330b36756e2e41393927db01c6826cb6fc85f3&v=4" width="24" alt="Avatar of ptr-yudai"/> ptr-yudai
+				<img src="https://private-avatars.githubusercontent.com/u/7546103?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE2MjAsIm5iZiI6MTczNDU3MDQyMCwicGF0aCI6Ii91Lzc1NDYxMDMifQ.iaEJq8cr-t4Jfz6H347apuwrv6nZz-gm0g8fvJ-oe2o&s=72&u=d5330b36756e2e41393927db01c6826cb6fc85f3&v=4" width="24" alt="Avatar of ptr-yudai"/> ptr-yudai
 			</a><br/>
 			Yudai
 		</td>
@@ -7393,7 +7393,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>561</td>
 		<td>
 			<a target="_blank" href="https://github.com/AtsushiSakai">
-				<img src="https://private-avatars.githubusercontent.com/u/3813847?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA2MjAsIm5iZiI6MTczNDQ1OTQyMCwicGF0aCI6Ii91LzM4MTM4NDcifQ.QaZimii9Mtdj4SHvaAITyen-uvYExwf5qpkIL-BWbP4&s=72&v=4" width="24" alt="Avatar of AtsushiSakai"/> AtsushiSakai
+				<img src="https://private-avatars.githubusercontent.com/u/3813847?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA0MjAsIm5iZiI6MTczNDU2OTIyMCwicGF0aCI6Ii91LzM4MTM4NDcifQ.oQu7EcYVNJTNy_v24touuqoBCTDMzKd3dBSUtGSHEoQ&s=72&v=4" width="24" alt="Avatar of AtsushiSakai"/> AtsushiSakai
 			</a><br/>
 			Atsushi Sakai
 		</td>
@@ -7406,7 +7406,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>562</td>
 		<td>
 			<a target="_blank" href="https://github.com/potato4d">
-				<img src="https://private-avatars.githubusercontent.com/u/6993514?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0NjAsIm5iZiI6MTczNDQ2MDI2MCwicGF0aCI6Ii91LzY5OTM1MTQifQ.ss72E8Zv9JV7Kwe9aklO4L4fGLCavgpuBlF-kYz338o&s=72&u=c792fee61377539e732dd9085109d074945bc1ce&v=4" width="24" alt="Avatar of potato4d"/> potato4d
+				<img src="https://private-avatars.githubusercontent.com/u/6993514?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyNjAsIm5iZiI6MTczNDU3MDA2MCwicGF0aCI6Ii91LzY5OTM1MTQifQ.zSbbur5HdNqeR5TU6irk2Ulo067rqVduefdYZlNRLRs&s=72&u=c792fee61377539e732dd9085109d074945bc1ce&v=4" width="24" alt="Avatar of potato4d"/> potato4d
 			</a><br/>
 			Takuma HANATANI
 		</td>
@@ -7418,8 +7418,21 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 	<tr>
 		<td>563</td>
 		<td>
+			<a target="_blank" href="https://github.com/shuiRong">
+				<img src="https://private-avatars.githubusercontent.com/u/16076993?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwMjAsIm5iZiI6MTczNDU2OTgyMCwicGF0aCI6Ii91LzE2MDc2OTkzIn0.uwuazkKcLpXVuRqp11Mkk3xkHuZzudFcRFY06yIQeuA&s=72&u=65ad0bf403a44235d16e263b9b2e6df5336b357e&v=4" width="24" alt="Avatar of shuiRong"/> shuiRong
+			</a><br/>
+			shuirong
+		</td>
+		<td>Sparticle Inc </td>
+		<td>No Twitter Username</td>
+		<td>Tokyo Japan</td>
+		<td>79</td>
+	</tr>
+	<tr>
+		<td>564</td>
+		<td>
 			<a target="_blank" href="https://github.com/linxGnu">
-				<img src="https://private-avatars.githubusercontent.com/u/20961936?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExNjAsIm5iZiI6MTczNDQ1OTk2MCwicGF0aCI6Ii91LzIwOTYxOTM2In0.x9OkT0eXZedEDfMz3cHybZWaKxW28vOKYkOF6Y9OdLA&s=72&u=c0838d192d51a0dda37d516b02224fdf1d4b76c1&v=4" width="24" alt="Avatar of linxGnu"/> linxGnu
+				<img src="https://private-avatars.githubusercontent.com/u/20961936?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5NjAsIm5iZiI6MTczNDU2OTc2MCwicGF0aCI6Ii91LzIwOTYxOTM2In0.HVjctEilGnmzBT34XtxKs7bZ5Qs6ZUAjTl2-LkmdmKc&s=72&u=c0838d192d51a0dda37d516b02224fdf1d4b76c1&v=4" width="24" alt="Avatar of linxGnu"/> linxGnu
 			</a><br/>
 			Linh Tran Tuan
 		</td>
@@ -7429,10 +7442,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>79</td>
 	</tr>
 	<tr>
-		<td>564</td>
+		<td>565</td>
 		<td>
 			<a target="_blank" href="https://github.com/cocopon">
-				<img src="https://private-avatars.githubusercontent.com/u/602961?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE2NDAsIm5iZiI6MTczNDQ2MDQ0MCwicGF0aCI6Ii91LzYwMjk2MSJ9.eoouubcB5QwCxXlTyvOxnfRllUnAHqLvKzomXntqg68&s=72&u=48832889915523e3170c197e66bc04fc8303a096&v=4" width="24" alt="Avatar of cocopon"/> cocopon
+				<img src="https://private-avatars.githubusercontent.com/u/602961?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA1NDAsIm5iZiI6MTczNDU2OTM0MCwicGF0aCI6Ii91LzYwMjk2MSJ9.wASGOswCQ0TQ-hz8YPsRc21IVAfbL-MMe8N_NtAwN5c&s=72&u=48832889915523e3170c197e66bc04fc8303a096&v=4" width="24" alt="Avatar of cocopon"/> cocopon
 			</a><br/>
 			Hiroki Kokubun
 		</td>
@@ -7442,23 +7455,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>565</td>
-		<td>
-			<a target="_blank" href="https://github.com/shuiRong">
-				<img src="https://private-avatars.githubusercontent.com/u/16076993?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyMjAsIm5iZiI6MTczNDQ2MDAyMCwicGF0aCI6Ii91LzE2MDc2OTkzIn0.S5homDuZkW_HM9R5J3vYyUz6poCUIGPRu6XyFrQi0S4&s=72&u=65ad0bf403a44235d16e263b9b2e6df5336b357e&v=4" width="24" alt="Avatar of shuiRong"/> shuiRong
-			</a><br/>
-			shuirong
-		</td>
-		<td>Sparticle Inc </td>
-		<td>No Twitter Username</td>
-		<td>Tokyo Japan</td>
-		<td>78</td>
-	</tr>
-	<tr>
 		<td>566</td>
 		<td>
 			<a target="_blank" href="https://github.com/Makio64">
-				<img src="https://private-avatars.githubusercontent.com/u/213351?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3MDAsIm5iZiI6MTczNDQ2MDUwMCwicGF0aCI6Ii91LzIxMzM1MSJ9.5VVISStxLhsdXsfzXyRTKqTOE8YFgM_Z0w15gZqF_e8&s=72&v=4" width="24" alt="Avatar of Makio64"/> Makio64
+				<img src="https://private-avatars.githubusercontent.com/u/213351?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1MDAsIm5iZiI6MTczNDU3MDMwMCwicGF0aCI6Ii91LzIxMzM1MSJ9.9a5-LhmmI-kPKVV43ApFpW9VRu2ja2XutCROSVQXcPw&s=72&v=4" width="24" alt="Avatar of Makio64"/> Makio64
 			</a><br/>
 			Makio64
 		</td>
@@ -7471,7 +7471,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>567</td>
 		<td>
 			<a target="_blank" href="https://github.com/icoxfog417">
-				<img src="https://private-avatars.githubusercontent.com/u/544269?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExNjAsIm5iZiI6MTczNDQ1OTk2MCwicGF0aCI6Ii91LzU0NDI2OSJ9.W3Fjs6ALzMo6PISG013iCh2mTlzOOoSeuR7j9qiIUNc&s=72&u=798cdf2cc1640b25a4a2d608e8b3c508b0e7b71f&v=4" width="24" alt="Avatar of icoxfog417"/> icoxfog417
+				<img src="https://private-avatars.githubusercontent.com/u/544269?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5NjAsIm5iZiI6MTczNDU2OTc2MCwicGF0aCI6Ii91LzU0NDI2OSJ9.8XN0O2zAb153_Za2fGMxNwxqozYgC_VttVnhVpFQ3o8&s=72&u=798cdf2cc1640b25a4a2d608e8b3c508b0e7b71f&v=4" width="24" alt="Avatar of icoxfog417"/> icoxfog417
 			</a><br/>
 			Takahiro Kubo
 		</td>
@@ -7484,7 +7484,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>568</td>
 		<td>
 			<a target="_blank" href="https://github.com/try0">
-				<img src="https://private-avatars.githubusercontent.com/u/17096601?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyMjAsIm5iZiI6MTczNDQ2MDAyMCwicGF0aCI6Ii91LzE3MDk2NjAxIn0.2KgJRwbaFYNfjNvk7vJveOthZWxpTT-s5tiV6vAZb_A&s=72&v=4" width="24" alt="Avatar of try0"/> try0
+				<img src="https://private-avatars.githubusercontent.com/u/17096601?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwMjAsIm5iZiI6MTczNDU2OTgyMCwicGF0aCI6Ii91LzE3MDk2NjAxIn0.GF4jRsjz8iCxPuw2GfTXMSHW2RDgxvvjTdmRqBJ39lA&s=72&v=4" width="24" alt="Avatar of try0"/> try0
 			</a><br/>
 			try0
 		</td>
@@ -7497,7 +7497,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>569</td>
 		<td>
 			<a target="_blank" href="https://github.com/h6ah4i">
-				<img src="https://private-avatars.githubusercontent.com/u/2552365?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExNjAsIm5iZiI6MTczNDQ1OTk2MCwicGF0aCI6Ii91LzI1NTIzNjUifQ.WEnzGwDLKMyrVrB89bMtLuJ3tNpgYcrbeSxRUkYVhGQ&s=72&v=4" width="24" alt="Avatar of h6ah4i"/> h6ah4i
+				<img src="https://private-avatars.githubusercontent.com/u/2552365?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5NjAsIm5iZiI6MTczNDU2OTc2MCwicGF0aCI6Ii91LzI1NTIzNjUifQ.7gJ9yppBfE1jqkGO_SFrhoSfHIkcKGA3frFsZ7O8BAw&s=72&v=4" width="24" alt="Avatar of h6ah4i"/> h6ah4i
 			</a><br/>
 			Haruki Hasegawa
 		</td>
@@ -7510,7 +7510,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>570</td>
 		<td>
 			<a target="_blank" href="https://github.com/sikachu">
-				<img src="https://private-avatars.githubusercontent.com/u/4912?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA5MjAsIm5iZiI6MTczNDQ1OTcyMCwicGF0aCI6Ii91LzQ5MTIifQ.aWPO60XcodAfv6tjHXJ-qaM8Ppp03ICCDpIqvw7xd6A&s=72&u=eb3c70ddbc9885d49affd65ed2f468c2f5e36c3b&v=4" width="24" alt="Avatar of sikachu"/> sikachu
+				<img src="https://private-avatars.githubusercontent.com/u/4912?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA3MjAsIm5iZiI6MTczNDU2OTUyMCwicGF0aCI6Ii91LzQ5MTIifQ.xJnjiaWYVE-moF9NcD9JrfNZvLyxKCkLQZYK-BL2Tbw&s=72&u=eb3c70ddbc9885d49affd65ed2f468c2f5e36c3b&v=4" width="24" alt="Avatar of sikachu"/> sikachu
 			</a><br/>
 			Prem Sichanugrist
 		</td>
@@ -7523,7 +7523,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>571</td>
 		<td>
 			<a target="_blank" href="https://github.com/inket">
-				<img src="https://private-avatars.githubusercontent.com/u/679224?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExNjAsIm5iZiI6MTczNDQ1OTk2MCwicGF0aCI6Ii91LzY3OTIyNCJ9.FDQQo1rh2E2JG3HW_FSTNXIubX2nG_tuBXjkFxpq4JI&s=72&u=6200f6f01f2d4da0c4837c4748159e8e3989cf5e&v=4" width="24" alt="Avatar of inket"/> inket
+				<img src="https://private-avatars.githubusercontent.com/u/679224?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5NjAsIm5iZiI6MTczNDU2OTc2MCwicGF0aCI6Ii91LzY3OTIyNCJ9.RE5yeUy4NDnR4iqmizmzz48O_ZJELdalGNMDY2O_qZc&s=72&u=6200f6f01f2d4da0c4837c4748159e8e3989cf5e&v=4" width="24" alt="Avatar of inket"/> inket
 			</a><br/>
 			Mahdi Bchatnia
 		</td>
@@ -7536,7 +7536,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>572</td>
 		<td>
 			<a target="_blank" href="https://github.com/el-hoshino">
-				<img src="https://private-avatars.githubusercontent.com/u/3942121?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjIwMDAsIm5iZiI6MTczNDQ2MDgwMCwicGF0aCI6Ii91LzM5NDIxMjEifQ.NJ2aqk6GlCSvuObSReM80KMWlRj7zRGRVKhwd0vFNps&s=72&u=5407fdb6bb72e565906b1d93f1bc36e26ae5ee4f&v=4" width="24" alt="Avatar of el-hoshino"/> el-hoshino
+				<img src="https://private-avatars.githubusercontent.com/u/3942121?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE4MDAsIm5iZiI6MTczNDU3MDYwMCwicGF0aCI6Ii91LzM5NDIxMjEifQ.mYun31NHGtRCSaBvQ49j2drHIOg6xyUxvTPpv-YAjGQ&s=72&u=5407fdb6bb72e565906b1d93f1bc36e26ae5ee4f&v=4" width="24" alt="Avatar of el-hoshino"/> el-hoshino
 			</a><br/>
 			Elvis Shi
 		</td>
@@ -7549,7 +7549,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>573</td>
 		<td>
 			<a target="_blank" href="https://github.com/mpyw">
-				<img src="https://private-avatars.githubusercontent.com/u/1351893?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEwNDAsIm5iZiI6MTczNDQ1OTg0MCwicGF0aCI6Ii91LzEzNTE4OTMifQ.ZkDaDFpLfYE6X2sCjP2AAwP6ZzdSuBpCMSOxaS8v9jg&s=72&u=0be634988207274bf5411df2f745daa3e8cba6f2&v=4" width="24" alt="Avatar of mpyw"/> mpyw
+				<img src="https://private-avatars.githubusercontent.com/u/1351893?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA4NDAsIm5iZiI6MTczNDU2OTY0MCwicGF0aCI6Ii91LzEzNTE4OTMifQ.wGGvMIDjjUQiQnuX0R2yIffUI0gS87gzyugKrR7vLVc&s=72&u=0be634988207274bf5411df2f745daa3e8cba6f2&v=4" width="24" alt="Avatar of mpyw"/> mpyw
 			</a><br/>
 			mpyw
 		</td>
@@ -7562,7 +7562,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>574</td>
 		<td>
 			<a target="_blank" href="https://github.com/codeninja819">
-				<img src="https://private-avatars.githubusercontent.com/u/125676661?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0MDAsIm5iZiI6MTczNDQ2MDIwMCwicGF0aCI6Ii91LzEyNTY3NjY2MSJ9.wCICf4x0GtYodG8PxEbWYILdxkjgRrIcFYfhAb0WSsI&s=72&u=d829d230ae59994f19ee5b494fe46b5db6973ad2&v=4" width="24" alt="Avatar of codeninja819"/> codeninja819
+				<img src="https://private-avatars.githubusercontent.com/u/125676661?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyMDAsIm5iZiI6MTczNDU3MDAwMCwicGF0aCI6Ii91LzEyNTY3NjY2MSJ9.qwIYnQxuhcWSKmGYS3xOskw9arXINREsZwckSja2VxI&s=72&u=d829d230ae59994f19ee5b494fe46b5db6973ad2&v=4" width="24" alt="Avatar of codeninja819"/> codeninja819
 			</a><br/>
 			Jiro Matsumoto
 		</td>
@@ -7575,7 +7575,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>575</td>
 		<td>
 			<a target="_blank" href="https://github.com/d-date">
-				<img src="https://private-avatars.githubusercontent.com/u/20222809?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3MDAsIm5iZiI6MTczNDQ2MDUwMCwicGF0aCI6Ii91LzIwMjIyODA5In0.M94_tE-UTYPWD9NsYA-vijoFNj85USSxQbg5yE32Xqk&s=72&v=4" width="24" alt="Avatar of d-date"/> d-date
+				<img src="https://private-avatars.githubusercontent.com/u/20222809?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1MDAsIm5iZiI6MTczNDU3MDMwMCwicGF0aCI6Ii91LzIwMjIyODA5In0.0_PPwN6NF7czWHqWMsBdisVwrF1qM1f_LS2hEeW-WRs&s=72&v=4" width="24" alt="Avatar of d-date"/> d-date
 			</a><br/>
 			Daiki Matsudate
 		</td>
@@ -7588,7 +7588,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>576</td>
 		<td>
 			<a target="_blank" href="https://github.com/komavideo">
-				<img src="https://private-avatars.githubusercontent.com/u/36214529?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA5ODAsIm5iZiI6MTczNDQ1OTc4MCwicGF0aCI6Ii91LzM2MjE0NTI5In0.rVcbkHe__DUHb0a-AJIihDod9IbWcQzEvOj10AJZ5uE&s=72&u=fa63223aceb62211fe4ca7291fc9c04f273816d8&v=4" width="24" alt="Avatar of komavideo"/> komavideo
+				<img src="https://private-avatars.githubusercontent.com/u/36214529?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA3ODAsIm5iZiI6MTczNDU2OTU4MCwicGF0aCI6Ii91LzM2MjE0NTI5In0.Tl3oWk_tDc1hip_Qq2xOZTooAmZgHJQHNymbFFXxuK4&s=72&u=fa63223aceb62211fe4ca7291fc9c04f273816d8&v=4" width="24" alt="Avatar of komavideo"/> komavideo
 			</a><br/>
 			komavideo
 		</td>
@@ -7601,7 +7601,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>577</td>
 		<td>
 			<a target="_blank" href="https://github.com/Ohara124c41">
-				<img src="https://private-avatars.githubusercontent.com/u/28205732?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1ODAsIm5iZiI6MTczNDQ2MDM4MCwicGF0aCI6Ii91LzI4MjA1NzMyIn0.QsjrSLXUejZwGt86sy6tpFbkbMKJd3PN6PPfXHftcZo&s=72&u=0d6e505bfc2d0739506020785d5b49112f22b6f3&v=4" width="24" alt="Avatar of Ohara124c41"/> Ohara124c41
+				<img src="https://private-avatars.githubusercontent.com/u/28205732?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzODAsIm5iZiI6MTczNDU3MDE4MCwicGF0aCI6Ii91LzI4MjA1NzMyIn0.t46NSQHEJlpN_rW7oN5OR-u7mD1tZzdLU8YqEefJUpM&s=72&u=0d6e505bfc2d0739506020785d5b49112f22b6f3&v=4" width="24" alt="Avatar of Ohara124c41"/> Ohara124c41
 			</a><br/>
 			Christopher Ohara
 		</td>
@@ -7614,7 +7614,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>578</td>
 		<td>
 			<a target="_blank" href="https://github.com/shyouhei">
-				<img src="https://private-avatars.githubusercontent.com/u/15377?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE2NDAsIm5iZiI6MTczNDQ2MDQ0MCwicGF0aCI6Ii91LzE1Mzc3In0.JiHhHVAvJiQNWyj8lXUv_aFRYjEFuP8ww3S_cuONzbI&s=72&v=4" width="24" alt="Avatar of shyouhei"/> shyouhei
+				<img src="https://private-avatars.githubusercontent.com/u/15377?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE0NDAsIm5iZiI6MTczNDU3MDI0MCwicGF0aCI6Ii91LzE1Mzc3In0.F7j9rT8xlQtjfPeoElAaTtTgVqx4ldqMZR3GwyIlBy4&s=72&v=4" width="24" alt="Avatar of shyouhei"/> shyouhei
 			</a><br/>
 			
 		</td>
@@ -7626,8 +7626,21 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 	<tr>
 		<td>579</td>
 		<td>
+			<a target="_blank" href="https://github.com/maropu">
+				<img src="https://private-avatars.githubusercontent.com/u/692303?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyNjAsIm5iZiI6MTczNDU3MDA2MCwicGF0aCI6Ii91LzY5MjMwMyJ9.97ExQJQP_QvzFeye9uOVH2VIPDHLfrhoVSOLprlc9qE&s=72&u=104738358ec91a42369ec6b999b7800f640dc6b7&v=4" width="24" alt="Avatar of maropu"/> maropu
+			</a><br/>
+			Takeshi Yamamuro
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/maropu">maropu</a></td>
+		<td>TokyoJapan</td>
+		<td>72</td>
+	</tr>
+	<tr>
+		<td>580</td>
+		<td>
 			<a target="_blank" href="https://github.com/kana">
-				<img src="https://private-avatars.githubusercontent.com/u/1742?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA3NDAsIm5iZiI6MTczNDQ1OTU0MCwicGF0aCI6Ii91LzE3NDIifQ.4SzhFrmmEPPcTxaV1_nkujq4r82IJ_DlgUSox3ygsGk&s=72&u=a2ce5ca46e5de516a0d6e9c6f74f53f5f0101890&v=4" width="24" alt="Avatar of kana"/> kana
+				<img src="https://private-avatars.githubusercontent.com/u/1742?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA1NDAsIm5iZiI6MTczNDU2OTM0MCwicGF0aCI6Ii91LzE3NDIifQ.xY4FhLBfkSg9QSvyDxstLCzF7khFxpfvUILo3KsKucI&s=72&u=a2ce5ca46e5de516a0d6e9c6f74f53f5f0101890&v=4" width="24" alt="Avatar of kana"/> kana
 			</a><br/>
 			Kana Natsuno
 		</td>
@@ -7637,10 +7650,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>71</td>
 	</tr>
 	<tr>
-		<td>580</td>
+		<td>581</td>
 		<td>
 			<a target="_blank" href="https://github.com/mopemope">
-				<img src="https://private-avatars.githubusercontent.com/u/22645?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyMjAsIm5iZiI6MTczNDQ2MDAyMCwicGF0aCI6Ii91LzIyNjQ1In0.LEYzg7nRUut1AtldA42AW78lSKaDC1EoQTY78Yq-w_0&s=72&v=4" width="24" alt="Avatar of mopemope"/> mopemope
+				<img src="https://private-avatars.githubusercontent.com/u/22645?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwMjAsIm5iZiI6MTczNDU2OTgyMCwicGF0aCI6Ii91LzIyNjQ1In0.K5bLQfKlF3aggqbPkDzZtxAqHomnN6bvNCtmPtPHfvI&s=72&v=4" width="24" alt="Avatar of mopemope"/> mopemope
 			</a><br/>
 			Yutaka Matsubara
 		</td>
@@ -7650,10 +7663,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>71</td>
 	</tr>
 	<tr>
-		<td>581</td>
+		<td>582</td>
 		<td>
 			<a target="_blank" href="https://github.com/vaaaaanquish">
-				<img src="https://private-avatars.githubusercontent.com/u/47341845?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0MDAsIm5iZiI6MTczNDQ2MDIwMCwicGF0aCI6Ii91LzQ3MzQxODQ1In0.O_QXakMboqYcDRbe1qWF-quNty2YICyCMOz0pHLJxek&s=72&v=4" width="24" alt="Avatar of vaaaaanquish"/> vaaaaanquish
+				<img src="https://private-avatars.githubusercontent.com/u/47341845?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyMDAsIm5iZiI6MTczNDU3MDAwMCwicGF0aCI6Ii91LzQ3MzQxODQ1In0.Zy0h_6p7EtBKSntRZdoYKYNWpIYVl3xfSkvKYSTuLeA&s=72&v=4" width="24" alt="Avatar of vaaaaanquish"/> vaaaaanquish
 			</a><br/>
 			vaaaaanquish
 		</td>
@@ -7663,10 +7676,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>71</td>
 	</tr>
 	<tr>
-		<td>582</td>
+		<td>583</td>
 		<td>
 			<a target="_blank" href="https://github.com/haoict">
-				<img src="https://private-avatars.githubusercontent.com/u/7247750?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1ODAsIm5iZiI6MTczNDQ2MDM4MCwicGF0aCI6Ii91LzcyNDc3NTAifQ.UCJNevHezPN-gVMjvLR4Opf7o0d5fdj4IXXog9j79a8&s=72&v=4" width="24" alt="Avatar of haoict"/> haoict
+				<img src="https://private-avatars.githubusercontent.com/u/7247750?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzODAsIm5iZiI6MTczNDU3MDE4MCwicGF0aCI6Ii91LzcyNDc3NTAifQ.F6iMYGeeB-FwU-2sQEvKlQ0e7pNeqAJCNm3qfprn9ZA&s=72&v=4" width="24" alt="Avatar of haoict"/> haoict
 			</a><br/>
 			Hao Nguyen
 		</td>
@@ -7676,10 +7689,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>583</td>
+		<td>584</td>
 		<td>
 			<a target="_blank" href="https://github.com/ymotongpoo">
-				<img src="https://private-avatars.githubusercontent.com/u/145104?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE4MjAsIm5iZiI6MTczNDQ2MDYyMCwicGF0aCI6Ii91LzE0NTEwNCJ9.8V5-6L6jSamwDmGo2DDYyjhSHF_0wUfeUsMRiXma3g8&s=72&u=aceabad51967151eb61ea752273962360b910e10&v=4" width="24" alt="Avatar of ymotongpoo"/> ymotongpoo
+				<img src="https://private-avatars.githubusercontent.com/u/145104?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA3MjAsIm5iZiI6MTczNDU2OTUyMCwicGF0aCI6Ii91LzE0NTEwNCJ9.S0LcCA6JEbvFtg8kc87u-FtZBGcuNKqWo888aKC8nEs&s=72&u=aceabad51967151eb61ea752273962360b910e10&v=4" width="24" alt="Avatar of ymotongpoo"/> ymotongpoo
 			</a><br/>
 			Yoshi Yamaguchi
 		</td>
@@ -7689,10 +7702,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>584</td>
+		<td>585</td>
 		<td>
 			<a target="_blank" href="https://github.com/fqj1994">
-				<img src="https://private-avatars.githubusercontent.com/u/1436410?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE5NDAsIm5iZiI6MTczNDQ2MDc0MCwicGF0aCI6Ii91LzE0MzY0MTAifQ.4PdrNgozl8rTyMt5KwxbkSiA53OZV5V8Nf0r1mgMteM&s=72&v=4" width="24" alt="Avatar of fqj1994"/> fqj1994
+				<img src="https://private-avatars.githubusercontent.com/u/1436410?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE3NDAsIm5iZiI6MTczNDU3MDU0MCwicGF0aCI6Ii91LzE0MzY0MTAifQ.SwFbMTTcK2OidGQ5LE3Ct7bsgd8G_0q_KoyKmrJ1xn4&s=72&v=4" width="24" alt="Avatar of fqj1994"/> fqj1994
 			</a><br/>
 			Qijiang Fan
 		</td>
@@ -7702,10 +7715,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>585</td>
+		<td>586</td>
 		<td>
 			<a target="_blank" href="https://github.com/youpy">
-				<img src="https://private-avatars.githubusercontent.com/u/9128?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE5NDAsIm5iZiI6MTczNDQ2MDc0MCwicGF0aCI6Ii91LzkxMjgifQ._oUzRorpbYSB5jqTqc7RNQqtPCNE0otplDP-XxnAtRY&s=72&u=fc2a5b3f998a2e3fcb3d42c8c66ae0977321e22d&v=4" width="24" alt="Avatar of youpy"/> youpy
+				<img src="https://private-avatars.githubusercontent.com/u/9128?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE3NDAsIm5iZiI6MTczNDU3MDU0MCwicGF0aCI6Ii91LzkxMjgifQ.YnR3Z4NJ8iWRnT68T7xEbUlHOgxmtAWj781_Beu3F5M&s=72&u=fc2a5b3f998a2e3fcb3d42c8c66ae0977321e22d&v=4" width="24" alt="Avatar of youpy"/> youpy
 			</a><br/>
 			youpy
 		</td>
@@ -7715,10 +7728,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>70</td>
 	</tr>
 	<tr>
-		<td>586</td>
+		<td>587</td>
 		<td>
 			<a target="_blank" href="https://github.com/reimiyake9012">
-				<img src="https://private-avatars.githubusercontent.com/u/141316498?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA3NDAsIm5iZiI6MTczNDQ1OTU0MCwicGF0aCI6Ii91LzE0MTMxNjQ5OCJ9.J0AflohYoJ_Crbh6XDecXdp1mRZPPpQU_AzsQXP6F2M&s=72&u=fc61958027c66c653830143b26247f3a160cf15e&v=4" width="24" alt="Avatar of reimiyake9012"/> reimiyake9012
+				<img src="https://private-avatars.githubusercontent.com/u/141316498?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA1NDAsIm5iZiI6MTczNDU2OTM0MCwicGF0aCI6Ii91LzE0MTMxNjQ5OCJ9.itFtaWO5_0w4BAQEYlbuJqXIEIntf4x7xidnwAfGHdc&s=72&u=fc61958027c66c653830143b26247f3a160cf15e&v=4" width="24" alt="Avatar of reimiyake9012"/> reimiyake9012
 			</a><br/>
 			Rei Miyake
 		</td>
@@ -7728,10 +7741,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>587</td>
+		<td>588</td>
 		<td>
 			<a target="_blank" href="https://github.com/AAkira">
-				<img src="https://private-avatars.githubusercontent.com/u/3386962?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0NjAsIm5iZiI6MTczNDQ2MDI2MCwicGF0aCI6Ii91LzMzODY5NjIifQ.2wdhLWxXftMxxBrjkDdiO9OqAdxFuMmkrvt1NfYDTHY&s=72&v=4" width="24" alt="Avatar of AAkira"/> AAkira
+				<img src="https://private-avatars.githubusercontent.com/u/3386962?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyNjAsIm5iZiI6MTczNDU3MDA2MCwicGF0aCI6Ii91LzMzODY5NjIifQ.6XXb5SlEFsw_sHGRD7fm2kXZ7PiOfwnge18Qd3Mtd8Y&s=72&v=4" width="24" alt="Avatar of AAkira"/> AAkira
 			</a><br/>
 			Akira Aratani
 		</td>
@@ -7741,23 +7754,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>69</td>
 	</tr>
 	<tr>
-		<td>588</td>
-		<td>
-			<a target="_blank" href="https://github.com/maropu">
-				<img src="https://private-avatars.githubusercontent.com/u/692303?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0NjAsIm5iZiI6MTczNDQ2MDI2MCwicGF0aCI6Ii91LzY5MjMwMyJ9.f3RRZf01WnsGfBzssybIAKvhkBsaAeHmsaOnEXuPp5Y&s=72&u=104738358ec91a42369ec6b999b7800f640dc6b7&v=4" width="24" alt="Avatar of maropu"/> maropu
-			</a><br/>
-			Takeshi Yamamuro
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/maropu">maropu</a></td>
-		<td>TokyoJapan</td>
-		<td>69</td>
-	</tr>
-	<tr>
 		<td>589</td>
 		<td>
 			<a target="_blank" href="https://github.com/kazuhikoarase">
-				<img src="https://private-avatars.githubusercontent.com/u/1137546?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3NjAsIm5iZiI6MTczNDQ2MDU2MCwicGF0aCI6Ii91LzExMzc1NDYifQ.oytel8SGHU6CkOl0SbXVWqLyyMDamntMa2JXRJ71aIU&s=72&u=a6fa04ed7a4a578990d2daf415b2e4859ec6bb58&v=4" width="24" alt="Avatar of kazuhikoarase"/> kazuhikoarase
+				<img src="https://private-avatars.githubusercontent.com/u/1137546?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1NjAsIm5iZiI6MTczNDU3MDM2MCwicGF0aCI6Ii91LzExMzc1NDYifQ.5keY8q6pyHlPKxHLOgul4mYrh3WLM-b6WK9_ZDtEw0I&s=72&u=a6fa04ed7a4a578990d2daf415b2e4859ec6bb58&v=4" width="24" alt="Avatar of kazuhikoarase"/> kazuhikoarase
 			</a><br/>
 			kazuhiko arase
 		</td>
@@ -7770,33 +7770,33 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>590</td>
 		<td>
 			<a target="_blank" href="https://github.com/yoshiori">
-				<img src="https://private-avatars.githubusercontent.com/u/78609?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1MjAsIm5iZiI6MTczNDQ2MDMyMCwicGF0aCI6Ii91Lzc4NjA5In0.CkcPgxaFIM3ujrXTaKqs2U-BN8yv75yihGoqwdr9cNA&s=72&u=64d26cce2898dd6833a1300ba8b6c9016afff53d&v=4" width="24" alt="Avatar of yoshiori"/> yoshiori
+				<img src="https://private-avatars.githubusercontent.com/u/78609?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzMjAsIm5iZiI6MTczNDU3MDEyMCwicGF0aCI6Ii91Lzc4NjA5In0.gW1qcBXFachedYCyDDAmWpvYlWs-zfNdN9mKw1TcLEc&s=72&u=64d26cce2898dd6833a1300ba8b6c9016afff53d&v=4" width="24" alt="Avatar of yoshiori"/> yoshiori
 			</a><br/>
 			Yoshiori Shoji
 		</td>
 		<td>Launchable Inc </td>
 		<td><a target="_blank" href="https://twitter.com/yoshiori">yoshiori</a></td>
 		<td>Tokyo Japan</td>
-		<td>66</td>
+		<td>67</td>
 	</tr>
 	<tr>
 		<td>591</td>
 		<td>
 			<a target="_blank" href="https://github.com/norotime">
-				<img src="https://private-avatars.githubusercontent.com/u/7435505?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3MDAsIm5iZiI6MTczNDQ2MDUwMCwicGF0aCI6Ii91Lzc0MzU1MDUifQ.HpDHKVrFxZiwIMfVXw7SejPxUFILT1Xm64-7pYmgHdk&s=72&u=ce76567bbb86339071479498314d9cd51a91fb0e&v=4" width="24" alt="Avatar of norotime"/> norotime
+				<img src="https://private-avatars.githubusercontent.com/u/7435505?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1MDAsIm5iZiI6MTczNDU3MDMwMCwicGF0aCI6Ii91Lzc0MzU1MDUifQ.T_RnH3A3mCK0kzVvY3AzdypGrfEiTfSTv16e6DU4Gpk&s=72&u=ce76567bbb86339071479498314d9cd51a91fb0e&v=4" width="24" alt="Avatar of norotime"/> norotime
 			</a><br/>
 			NORO Edward Hiroyoshi
 		</td>
 		<td>Divic Corp </td>
 		<td><a target="_blank" href="https://twitter.com/norotime">norotime</a></td>
 		<td>Tokyo</td>
-		<td>66</td>
+		<td>67</td>
 	</tr>
 	<tr>
 		<td>592</td>
 		<td>
 			<a target="_blank" href="https://github.com/yaraki">
-				<img src="https://private-avatars.githubusercontent.com/u/1237536?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA4NjAsIm5iZiI6MTczNDQ1OTY2MCwicGF0aCI6Ii91LzEyMzc1MzYifQ.CBr_YpK2lg6RvdS8gvPwaLIRrfQxiFkeClV_q5iwb3Y&s=72&u=87187041aff394ae71ebb966b013e277668f3d1b&v=4" width="24" alt="Avatar of yaraki"/> yaraki
+				<img src="https://private-avatars.githubusercontent.com/u/1237536?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA2NjAsIm5iZiI6MTczNDU2OTQ2MCwicGF0aCI6Ii91LzEyMzc1MzYifQ.x_-ErxKGm6_QVDSIjvjveTBaO88cQniTpvthGF1ig2o&s=72&u=87187041aff394ae71ebb966b013e277668f3d1b&v=4" width="24" alt="Avatar of yaraki"/> yaraki
 			</a><br/>
 			Yuichi Araki
 		</td>
@@ -7809,7 +7809,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>593</td>
 		<td>
 			<a target="_blank" href="https://github.com/ojii">
-				<img src="https://private-avatars.githubusercontent.com/u/141122?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExNjAsIm5iZiI6MTczNDQ1OTk2MCwicGF0aCI6Ii91LzE0MTEyMiJ9.aWbe4EvOuYGTNVHG_R51tcBFdHgNfc7_SixQ2XznkaQ&s=72&v=4" width="24" alt="Avatar of ojii"/> ojii
+				<img src="https://private-avatars.githubusercontent.com/u/141122?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5NjAsIm5iZiI6MTczNDU2OTc2MCwicGF0aCI6Ii91LzE0MTEyMiJ9.YPWNowAbczD4vMA3NZFbYQXesLvecqVRsZ5vIStxcfw&s=72&v=4" width="24" alt="Avatar of ojii"/> ojii
 			</a><br/>
 			Jonas Obrist
 		</td>
@@ -7822,7 +7822,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>594</td>
 		<td>
 			<a target="_blank" href="https://github.com/ypresto">
-				<img src="https://private-avatars.githubusercontent.com/u/400558?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEzNDAsIm5iZiI6MTczNDQ2MDE0MCwicGF0aCI6Ii91LzQwMDU1OCJ9.YrGy1a1WguuTSHpElsU2OC0-iUUaTbN40pEOmaBUafI&s=72&u=b654337795f46062a0871af458c93f5ff863ee87&v=4" width="24" alt="Avatar of ypresto"/> ypresto
+				<img src="https://private-avatars.githubusercontent.com/u/400558?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzExNDAsIm5iZiI6MTczNDU2OTk0MCwicGF0aCI6Ii91LzQwMDU1OCJ9.8y8JFjdaYKrOupdZee526dBeTvZ3KZhkWkI-sHnpDbg&s=72&u=b654337795f46062a0871af458c93f5ff863ee87&v=4" width="24" alt="Avatar of ypresto"/> ypresto
 			</a><br/>
 			Yuya Tanaka
 		</td>
@@ -7835,7 +7835,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>595</td>
 		<td>
 			<a target="_blank" href="https://github.com/2bbb">
-				<img src="https://private-avatars.githubusercontent.com/u/200899?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0MDAsIm5iZiI6MTczNDQ2MDIwMCwicGF0aCI6Ii91LzIwMDg5OSJ9.1BZiX6bWKvm1urlfwhtJIWd9wgrGsxCTDjzkw2ukn-Q&s=72&u=0c78cf0058492085398d8a9774ca34a326bb85fd&v=4" width="24" alt="Avatar of 2bbb"/> 2bbb
+				<img src="https://private-avatars.githubusercontent.com/u/200899?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyMDAsIm5iZiI6MTczNDU3MDAwMCwicGF0aCI6Ii91LzIwMDg5OSJ9.Oivcuajryk-1WHqmw97psokn-zlOuX-wWENWaMAREvg&s=72&u=0c78cf0058492085398d8a9774ca34a326bb85fd&v=4" width="24" alt="Avatar of 2bbb"/> 2bbb
 			</a><br/>
 			2bit
 		</td>
@@ -7848,7 +7848,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>596</td>
 		<td>
 			<a target="_blank" href="https://github.com/superfashi">
-				<img src="https://private-avatars.githubusercontent.com/u/7406519?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3MDAsIm5iZiI6MTczNDQ2MDUwMCwicGF0aCI6Ii91Lzc0MDY1MTkifQ.d6Kr9tPQEaa6R4eeJ6U13MHYerUiNxDIcKLkG6bLgP4&s=72&u=602e2f96f1fd76bca891b762c6acab680d05a0e4&v=4" width="24" alt="Avatar of superfashi"/> superfashi
+				<img src="https://private-avatars.githubusercontent.com/u/7406519?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1MDAsIm5iZiI6MTczNDU3MDMwMCwicGF0aCI6Ii91Lzc0MDY1MTkifQ.gr-iwLf3DhD-0WrY-zGh6npckbhLBC4cVIrrLvfKAh0&s=72&u=602e2f96f1fd76bca891b762c6acab680d05a0e4&v=4" width="24" alt="Avatar of superfashi"/> superfashi
 			</a><br/>
 			SuperFashi
 		</td>
@@ -7861,7 +7861,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>597</td>
 		<td>
 			<a target="_blank" href="https://github.com/uzulla">
-				<img src="https://private-avatars.githubusercontent.com/u/870716?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0MDAsIm5iZiI6MTczNDQ2MDIwMCwicGF0aCI6Ii91Lzg3MDcxNiJ9.nc5U2bkeU8xVTgvJ0UutPFCSUTA-FRJzuOKfhHiWX0s&s=72&u=8166e55e521fe6d8d418a387151442eb993d6b17&v=4" width="24" alt="Avatar of uzulla"/> uzulla
+				<img src="https://private-avatars.githubusercontent.com/u/870716?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyMDAsIm5iZiI6MTczNDU3MDAwMCwicGF0aCI6Ii91Lzg3MDcxNiJ9.qLd7zlxlhUSJkoXItOmXmhZVYojh-JprpJtrMvfvR-w&s=72&u=8166e55e521fe6d8d418a387151442eb993d6b17&v=4" width="24" alt="Avatar of uzulla"/> uzulla
 			</a><br/>
 			uzulla  Junichi Ishida
 		</td>
@@ -7874,7 +7874,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>598</td>
 		<td>
 			<a target="_blank" href="https://github.com/inamiy">
-				<img src="https://private-avatars.githubusercontent.com/u/138476?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA3NDAsIm5iZiI6MTczNDQ1OTU0MCwicGF0aCI6Ii91LzEzODQ3NiJ9.gHZlQkbUWvGEt_jE84sMdcA3sBeArgcOo8dh-pUFKEk&s=72&u=a7c4a26490e7f96c80ec6a739204ce86a778615a&v=4" width="24" alt="Avatar of inamiy"/> inamiy
+				<img src="https://private-avatars.githubusercontent.com/u/138476?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA1NDAsIm5iZiI6MTczNDU2OTM0MCwicGF0aCI6Ii91LzEzODQ3NiJ9.dHlS7AUgNl-NmcHzzkq2x-NY7p5f98qmWUDYe0w95cs&s=72&u=a7c4a26490e7f96c80ec6a739204ce86a778615a&v=4" width="24" alt="Avatar of inamiy"/> inamiy
 			</a><br/>
 			Yasuhiro Inami
 		</td>
@@ -7887,7 +7887,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>599</td>
 		<td>
 			<a target="_blank" href="https://github.com/tanakh">
-				<img src="https://private-avatars.githubusercontent.com/u/109069?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0MDAsIm5iZiI6MTczNDQ2MDIwMCwicGF0aCI6Ii91LzEwOTA2OSJ9.nHw9n1p1LIIUVHODEAIMFKeCYXsJ51tZIUFLABa0G6s&s=72&v=4" width="24" alt="Avatar of tanakh"/> tanakh
+				<img src="https://private-avatars.githubusercontent.com/u/109069?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyMDAsIm5iZiI6MTczNDU3MDAwMCwicGF0aCI6Ii91LzEwOTA2OSJ9.ONkfWOac5wFds4Cj4WELYwF48057w5c9x91RUp2N-pU&s=72&v=4" width="24" alt="Avatar of tanakh"/> tanakh
 			</a><br/>
 			Hideyuki Tanaka
 		</td>
@@ -7900,7 +7900,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>600</td>
 		<td>
 			<a target="_blank" href="https://github.com/Rokt33r">
-				<img src="https://private-avatars.githubusercontent.com/u/5865853?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3NjAsIm5iZiI6MTczNDQ2MDU2MCwicGF0aCI6Ii91LzU4NjU4NTMifQ.Zz11NRDbIrGVbd6o1f6rdZQEu5g8jPgstrtYvsxiiKA&s=72&u=2076d1e95f211aca5c6ea905a62de37c695e0312&v=4" width="24" alt="Avatar of Rokt33r"/> Rokt33r
+				<img src="https://private-avatars.githubusercontent.com/u/5865853?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1NjAsIm5iZiI6MTczNDU3MDM2MCwicGF0aCI6Ii91LzU4NjU4NTMifQ.Cwo4hiyLNLuX3w6hqtvMv5Ehjz4H4ytTFD32AIePWmc&s=72&u=2076d1e95f211aca5c6ea905a62de37c695e0312&v=4" width="24" alt="Avatar of Rokt33r"/> Rokt33r
 			</a><br/>
 			Junyoung Choi
 		</td>
@@ -7913,7 +7913,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>601</td>
 		<td>
 			<a target="_blank" href="https://github.com/kevinzhow">
-				<img src="https://private-avatars.githubusercontent.com/u/1156192?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyMjAsIm5iZiI6MTczNDQ2MDAyMCwicGF0aCI6Ii91LzExNTYxOTIifQ.KYYVykOEwI7Am5QmQ8UytGhPSKsgGOi4UPPPxBBL0NA&s=72&u=b2b866f7ec90371a12e8f716e1d3fe396e1d9158&v=4" width="24" alt="Avatar of kevinzhow"/> kevinzhow
+				<img src="https://private-avatars.githubusercontent.com/u/1156192?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwMjAsIm5iZiI6MTczNDU2OTgyMCwicGF0aCI6Ii91LzExNTYxOTIifQ.96oYP60qTZh0XO5beJ0qEPhqGoXBPRKSYSxCksxBqvY&s=72&u=b2b866f7ec90371a12e8f716e1d3fe396e1d9158&v=4" width="24" alt="Avatar of kevinzhow"/> kevinzhow
 			</a><br/>
 			Kevin
 		</td>
@@ -7926,7 +7926,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>602</td>
 		<td>
 			<a target="_blank" href="https://github.com/sonsongithub">
-				<img src="https://private-avatars.githubusercontent.com/u/33768?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyODAsIm5iZiI6MTczNDQ2MDA4MCwicGF0aCI6Ii91LzMzNzY4In0.hLu4RvTQe8umDNabygulyJhYRZGeixU7pkUBDBMwBkU&s=72&u=8b6b3829362bb9fce28ccb5dce9c6a4e3d63651a&v=4" width="24" alt="Avatar of sonsongithub"/> sonsongithub
+				<img src="https://private-avatars.githubusercontent.com/u/33768?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwODAsIm5iZiI6MTczNDU2OTg4MCwicGF0aCI6Ii91LzMzNzY4In0.W1diC44G-j7oNhAPn6sUbDvW6jrpohHue8NM4l-MVi8&s=72&u=8b6b3829362bb9fce28ccb5dce9c6a4e3d63651a&v=4" width="24" alt="Avatar of sonsongithub"/> sonsongithub
 			</a><br/>
 			Yuichi Yoshida
 		</td>
@@ -7939,7 +7939,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>603</td>
 		<td>
 			<a target="_blank" href="https://github.com/ericnakagawa">
-				<img src="https://private-avatars.githubusercontent.com/u/23874?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0MDAsIm5iZiI6MTczNDQ2MDIwMCwicGF0aCI6Ii91LzIzODc0In0.Zju9ueSI74WYx_OPlqOxLmM5mo3SPHnlpTFY4XTjhBw&s=72&u=7f8c310abde1bef3761559732219b031a7188161&v=4" width="24" alt="Avatar of ericnakagawa"/> ericnakagawa
+				<img src="https://private-avatars.githubusercontent.com/u/23874?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyMDAsIm5iZiI6MTczNDU3MDAwMCwicGF0aCI6Ii91LzIzODc0In0.ZRbgpJl5IlqQOmAxa-CiHWHhV4DWzh7Bxe5kEjPdsOk&s=72&u=7f8c310abde1bef3761559732219b031a7188161&v=4" width="24" alt="Avatar of ericnakagawa"/> ericnakagawa
 			</a><br/>
 			Eric Nakagawa
 		</td>
@@ -7952,7 +7952,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>604</td>
 		<td>
 			<a target="_blank" href="https://github.com/acgotaku">
-				<img src="https://private-avatars.githubusercontent.com/u/1191834?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEzNDAsIm5iZiI6MTczNDQ2MDE0MCwicGF0aCI6Ii91LzExOTE4MzQifQ.XtvQHkQ15E7cS1rqE2NeULnegulB7oAHkWhh1aYizXc&s=72&u=b9f1bf747e4f71981b355949541cd97b65a95a48&v=4" width="24" alt="Avatar of acgotaku"/> acgotaku
+				<img src="https://private-avatars.githubusercontent.com/u/1191834?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzExNDAsIm5iZiI6MTczNDU2OTk0MCwicGF0aCI6Ii91LzExOTE4MzQifQ.Z1XAwLS7UQsm4NtfbXzG9SDMFlGW_izrQ2z3UXVA4SA&s=72&u=b9f1bf747e4f71981b355949541cd97b65a95a48&v=4" width="24" alt="Avatar of acgotaku"/> acgotaku
 			</a><br/>
 			
 		</td>
@@ -7965,7 +7965,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>605</td>
 		<td>
 			<a target="_blank" href="https://github.com/konifar">
-				<img src="https://private-avatars.githubusercontent.com/u/1269214?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExMDAsIm5iZiI6MTczNDQ1OTkwMCwicGF0aCI6Ii91LzEyNjkyMTQifQ.iCWyIsb5kExD2iUrB_POh_M9CJNrfQnEBH4spX3Owfk&s=72&v=4" width="24" alt="Avatar of konifar"/> konifar
+				<img src="https://private-avatars.githubusercontent.com/u/1269214?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5MDAsIm5iZiI6MTczNDU2OTcwMCwicGF0aCI6Ii91LzEyNjkyMTQifQ.4A_qrwJFICyiTR1wUmY3608Jy5JsI6T1h4boHPzaTNw&s=72&v=4" width="24" alt="Avatar of konifar"/> konifar
 			</a><br/>
 			Yusuke Konishi
 		</td>
@@ -7978,7 +7978,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>606</td>
 		<td>
 			<a target="_blank" href="https://github.com/taku910">
-				<img src="https://private-avatars.githubusercontent.com/u/11470708?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyODAsIm5iZiI6MTczNDQ2MDA4MCwicGF0aCI6Ii91LzExNDcwNzA4In0.tHn2iSf--LZMH3NDgk9h2Q1H9KU14P9sgVnyHBHny8M&s=72&u=b1482bb1257af844538259c40aab9423a1f91803&v=4" width="24" alt="Avatar of taku910"/> taku910
+				<img src="https://private-avatars.githubusercontent.com/u/11470708?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwODAsIm5iZiI6MTczNDU2OTg4MCwicGF0aCI6Ii91LzExNDcwNzA4In0.-dy5yWJgdw0s3zpm71jXxazP_LOUMeBv9sisTxyHZx4&s=72&u=b1482bb1257af844538259c40aab9423a1f91803&v=4" width="24" alt="Avatar of taku910"/> taku910
 			</a><br/>
 			Taku Kudo
 		</td>
@@ -7991,7 +7991,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>607</td>
 		<td>
 			<a target="_blank" href="https://github.com/iwiwi">
-				<img src="https://private-avatars.githubusercontent.com/u/469803?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1MjAsIm5iZiI6MTczNDQ2MDMyMCwicGF0aCI6Ii91LzQ2OTgwMyJ9.cg0h_Udl4HKn-tsrElUDxEYCM6LSzUJpMb76OYfVHmo&s=72&v=4" width="24" alt="Avatar of iwiwi"/> iwiwi
+				<img src="https://private-avatars.githubusercontent.com/u/469803?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzMjAsIm5iZiI6MTczNDU3MDEyMCwicGF0aCI6Ii91LzQ2OTgwMyJ9.4-RWS4lc7o5nsLwUcnMSeCYsIJjWLQCxuESYQ1Vn7Os&s=72&v=4" width="24" alt="Avatar of iwiwi"/> iwiwi
 			</a><br/>
 			Takuya Akiba
 		</td>
@@ -8004,7 +8004,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>608</td>
 		<td>
 			<a target="_blank" href="https://github.com/sanographix">
-				<img src="https://private-avatars.githubusercontent.com/u/1533421?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE2NDAsIm5iZiI6MTczNDQ2MDQ0MCwicGF0aCI6Ii91LzE1MzM0MjEifQ.sKCq-Vlvc3jh1KLt0qio1nvClaIweqvTqk0s8SGx09g&s=72&u=0e95aacbb42bb9fc7bae6fdae7c2f91b44e87e27&v=4" width="24" alt="Avatar of sanographix"/> sanographix
+				<img src="https://private-avatars.githubusercontent.com/u/1533421?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE0NDAsIm5iZiI6MTczNDU3MDI0MCwicGF0aCI6Ii91LzE1MzM0MjEifQ.PYkiP-tyG5DIu5l5LSQEuTl9atkuNi-aKNybsQBwC3A&s=72&u=0e95aacbb42bb9fc7bae6fdae7c2f91b44e87e27&v=4" width="24" alt="Avatar of sanographix"/> sanographix
 			</a><br/>
 			Showkaku Sano
 		</td>
@@ -8017,7 +8017,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>609</td>
 		<td>
 			<a target="_blank" href="https://github.com/babarot">
-				<img src="https://private-avatars.githubusercontent.com/u/4442708?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA4MDAsIm5iZiI6MTczNDQ1OTYwMCwicGF0aCI6Ii91LzQ0NDI3MDgifQ.A2Wk03DMWeewKT6Ofm9UqCiXetaiU4DD5dJ57eLO-5U&s=72&u=bb38b0d35a2cfd51aac1343463c2348be7e0013b&v=4" width="24" alt="Avatar of babarot"/> babarot
+				<img src="https://private-avatars.githubusercontent.com/u/4442708?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA2MDAsIm5iZiI6MTczNDU2OTQwMCwicGF0aCI6Ii91LzQ0NDI3MDgifQ.xFhKCCGQATqCqW5qiSbUdG0OUd1eni_XpID8qzo_pkk&s=72&u=bb38b0d35a2cfd51aac1343463c2348be7e0013b&v=4" width="24" alt="Avatar of babarot"/> babarot
 			</a><br/>
 			Masaki ISHIYAMA
 		</td>
@@ -8030,7 +8030,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>610</td>
 		<td>
 			<a target="_blank" href="https://github.com/yuin">
-				<img src="https://private-avatars.githubusercontent.com/u/56500?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExNjAsIm5iZiI6MTczNDQ1OTk2MCwicGF0aCI6Ii91LzU2NTAwIn0.avvbvP6mjqqVQJQnffCGp9OUpG5w-H4BDDSY-fAeQEQ&s=72&u=133b8624093ad3e97b1635c7e07e6ecae4da5852&v=4" width="24" alt="Avatar of yuin"/> yuin
+				<img src="https://private-avatars.githubusercontent.com/u/56500?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5NjAsIm5iZiI6MTczNDU2OTc2MCwicGF0aCI6Ii91LzU2NTAwIn0.ImC5d4Yv0wLkQUT1worV2IJcbe6PfxgZFowhH8ttd9c&s=72&u=133b8624093ad3e97b1635c7e07e6ecae4da5852&v=4" width="24" alt="Avatar of yuin"/> yuin
 			</a><br/>
 			Yusuke Inuzuka
 		</td>
@@ -8043,7 +8043,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>611</td>
 		<td>
 			<a target="_blank" href="https://github.com/miyabi">
-				<img src="https://private-avatars.githubusercontent.com/u/143255?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1ODAsIm5iZiI6MTczNDQ2MDM4MCwicGF0aCI6Ii91LzE0MzI1NSJ9.nua1QQrHubPC1SNl8qqyA20ehomd1ZCez3iquOIuvCM&s=72&v=4" width="24" alt="Avatar of miyabi"/> miyabi
+				<img src="https://private-avatars.githubusercontent.com/u/143255?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzODAsIm5iZiI6MTczNDU3MDE4MCwicGF0aCI6Ii91LzE0MzI1NSJ9.BCT3awM1uUtm9dywLHWyqL1FPegWOX6txyZ5_9KvSUw&s=72&v=4" width="24" alt="Avatar of miyabi"/> miyabi
 			</a><br/>
 			Masayuki Iwai
 		</td>
@@ -8056,7 +8056,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>612</td>
 		<td>
 			<a target="_blank" href="https://github.com/tmk">
-				<img src="https://private-avatars.githubusercontent.com/u/424590?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExMDAsIm5iZiI6MTczNDQ1OTkwMCwicGF0aCI6Ii91LzQyNDU5MCJ9.nzGXA6GcXmIY7rsWrQZEQZkS-R2thDp1hfWI9IopmF0&s=72&v=4" width="24" alt="Avatar of tmk"/> tmk
+				<img src="https://private-avatars.githubusercontent.com/u/424590?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5MDAsIm5iZiI6MTczNDU2OTcwMCwicGF0aCI6Ii91LzQyNDU5MCJ9.GphJhseHpo_zWW1qJhw4sjQle60sTY1JGoApFmwfoqQ&s=72&v=4" width="24" alt="Avatar of tmk"/> tmk
 			</a><br/>
 			hasu@tmk
 		</td>
@@ -8069,7 +8069,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>613</td>
 		<td>
 			<a target="_blank" href="https://github.com/teppeis">
-				<img src="https://private-avatars.githubusercontent.com/u/26476?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1MjAsIm5iZiI6MTczNDQ2MDMyMCwicGF0aCI6Ii91LzI2NDc2In0.8fklJH4Dw346IlLASBHfmpg5wLFQCkTtmoKGQ0hbeoY&s=72&v=4" width="24" alt="Avatar of teppeis"/> teppeis
+				<img src="https://private-avatars.githubusercontent.com/u/26476?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzMjAsIm5iZiI6MTczNDU3MDEyMCwicGF0aCI6Ii91LzI2NDc2In0.hOkt-A8xYWvT8OPkz7ueTz4O_yD4q-dGbdo0wxNig4s&s=72&v=4" width="24" alt="Avatar of teppeis"/> teppeis
 			</a><br/>
 			Teppei Sato
 		</td>
@@ -8082,7 +8082,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>614</td>
 		<td>
 			<a target="_blank" href="https://github.com/shibukawa">
-				<img src="https://private-avatars.githubusercontent.com/u/564612?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE5NDAsIm5iZiI6MTczNDQ2MDc0MCwicGF0aCI6Ii91LzU2NDYxMiJ9.9jg0TaCsEYkefJJ-k-MFehcwSysSBUcEifc9itrQNDo&s=72&u=a158eeb0b91aea7bd7815fccc33ba71be10a509c&v=4" width="24" alt="Avatar of shibukawa"/> shibukawa
+				<img src="https://private-avatars.githubusercontent.com/u/564612?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE3NDAsIm5iZiI6MTczNDU3MDU0MCwicGF0aCI6Ii91LzU2NDYxMiJ9.UMCim8eAQA--fxF7w_UGrsr8rc5Ctn1g3eV00o-BXmo&s=72&u=a158eeb0b91aea7bd7815fccc33ba71be10a509c&v=4" width="24" alt="Avatar of shibukawa"/> shibukawa
 			</a><br/>
 			Yoshiki Shibukawa
 		</td>
@@ -8095,7 +8095,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>615</td>
 		<td>
 			<a target="_blank" href="https://github.com/256-daisuki">
-				<img src="https://private-avatars.githubusercontent.com/u/115447369?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE5NDAsIm5iZiI6MTczNDQ2MDc0MCwicGF0aCI6Ii91LzExNTQ0NzM2OSJ9.cRRHxv9eWcGGHPsOe-yYFej3MKajgUJ2pY24hXA67rw&s=72&u=23738261213928a34857350fd40b7350a32dca23&v=4" width="24" alt="Avatar of 256-daisuki"/> 256-daisuki
+				<img src="https://private-avatars.githubusercontent.com/u/115447369?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE3NDAsIm5iZiI6MTczNDU3MDU0MCwicGF0aCI6Ii91LzExNTQ0NzM2OSJ9.qOw9LUOAeoT1UpJMk9N8VKMADHVEDSEpTaHmyhsQVa4&s=72&u=23738261213928a34857350fd40b7350a32dca23&v=4" width="24" alt="Avatar of 256-daisuki"/> 256-daisuki
 			</a><br/>
 			256
 		</td>
@@ -8108,7 +8108,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>616</td>
 		<td>
 			<a target="_blank" href="https://github.com/sienori">
-				<img src="https://private-avatars.githubusercontent.com/u/29514424?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyODAsIm5iZiI6MTczNDQ2MDA4MCwicGF0aCI6Ii91LzI5NTE0NDI0In0._2SiaLj2-uMOi3g7btI6SatGkwpExCHjJCJDytIkmbI&s=72&u=12f0b17b4b901f5e0e0467b06a8f99984ecc741f&v=4" width="24" alt="Avatar of sienori"/> sienori
+				<img src="https://private-avatars.githubusercontent.com/u/29514424?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwODAsIm5iZiI6MTczNDU2OTg4MCwicGF0aCI6Ii91LzI5NTE0NDI0In0.GhwyLKmMPRn4wpkw6-fcM0kM8So5W-BLUYWfKbkBDXw&s=72&u=12f0b17b4b901f5e0e0467b06a8f99984ecc741f&v=4" width="24" alt="Avatar of sienori"/> sienori
 			</a><br/>
 			No Name
 		</td>
@@ -8121,7 +8121,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>617</td>
 		<td>
 			<a target="_blank" href="https://github.com/baba-s">
-				<img src="https://private-avatars.githubusercontent.com/u/6134875?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE2NDAsIm5iZiI6MTczNDQ2MDQ0MCwicGF0aCI6Ii91LzYxMzQ4NzUifQ.BWoT7H4wrZW7ElH_bs782UaaHC5BnJa4Nh5xaUzW9qU&s=72&u=4dee5dac4c6be2a7e3a2e727c0756b247616fceb&v=4" width="24" alt="Avatar of baba-s"/> baba-s
+				<img src="https://private-avatars.githubusercontent.com/u/6134875?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA1NDAsIm5iZiI6MTczNDU2OTM0MCwicGF0aCI6Ii91LzYxMzQ4NzUifQ.UbcCJoivOV5PobzlsRvyYoKiH1fGzwVmH3QWjZEPsjM&s=72&u=4dee5dac4c6be2a7e3a2e727c0756b247616fceb&v=4" width="24" alt="Avatar of baba-s"/> baba-s
 			</a><br/>
 			babas
 		</td>
@@ -8134,7 +8134,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>618</td>
 		<td>
 			<a target="_blank" href="https://github.com/touyou">
-				<img src="https://private-avatars.githubusercontent.com/u/465697?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0NjAsIm5iZiI6MTczNDQ2MDI2MCwicGF0aCI6Ii91LzQ2NTY5NyJ9.v_yQe8auCyR6SA3_FVkX31Ds1mbNY8wTHKeW92PEbhE&s=72&u=92f2daee62af292c9489ae61a09ca61a351ca67d&v=4" width="24" alt="Avatar of touyou"/> touyou
+				<img src="https://private-avatars.githubusercontent.com/u/465697?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyNjAsIm5iZiI6MTczNDU3MDA2MCwicGF0aCI6Ii91LzQ2NTY5NyJ9.Es-bMOd3kOp0PghHSXs7sHLB_6eTnO_gtCmZRuNvzWk&s=72&u=92f2daee62af292c9489ae61a09ca61a351ca67d&v=4" width="24" alt="Avatar of touyou"/> touyou
 			</a><br/>
 			Fujii Yosuke
 		</td>
@@ -8147,7 +8147,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>619</td>
 		<td>
 			<a target="_blank" href="https://github.com/KeenS">
-				<img src="https://private-avatars.githubusercontent.com/u/4434568?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3MDAsIm5iZiI6MTczNDQ2MDUwMCwicGF0aCI6Ii91LzQ0MzQ1NjgifQ.ouJ8ucEUfU_YPEyb1g5LZQQ6GdLIN5JozSE04cNH8TM&s=72&u=adea146b14efa3b5b9d656320f21cf1326ef910a&v=4" width="24" alt="Avatar of KeenS"/> KeenS
+				<img src="https://private-avatars.githubusercontent.com/u/4434568?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA2MDAsIm5iZiI6MTczNDU2OTQwMCwicGF0aCI6Ii91LzQ0MzQ1NjgifQ.QIHh2qyNMVel9WIJEhpfHQ0T1y_iPjbblf7vSSKRjgg&s=72&u=adea146b14efa3b5b9d656320f21cf1326ef910a&v=4" width="24" alt="Avatar of KeenS"/> KeenS
 			</a><br/>
 			een
 		</td>
@@ -8160,7 +8160,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>620</td>
 		<td>
 			<a target="_blank" href="https://github.com/yusuke">
-				<img src="https://private-avatars.githubusercontent.com/u/74894?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1MjAsIm5iZiI6MTczNDQ2MDMyMCwicGF0aCI6Ii91Lzc0ODk0In0.5yyozZooS9RjP3Djh_zb6Yw-8Dzg91OkDPYjjkk0J_E&s=72&u=213713428e560b2ed545a298d53df08c1b57d0c9&v=4" width="24" alt="Avatar of yusuke"/> yusuke
+				<img src="https://private-avatars.githubusercontent.com/u/74894?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzMjAsIm5iZiI6MTczNDU3MDEyMCwicGF0aCI6Ii91Lzc0ODk0In0.pTvMWOd3l0yY9AtLAdfqEzZhPBHiQmrOU32eR0ek3B8&s=72&u=213713428e560b2ed545a298d53df08c1b57d0c9&v=4" width="24" alt="Avatar of yusuke"/> yusuke
 			</a><br/>
 			Yusuke Yamamoto
 		</td>
@@ -8173,7 +8173,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>621</td>
 		<td>
 			<a target="_blank" href="https://github.com/BBleae">
-				<img src="https://private-avatars.githubusercontent.com/u/13044102?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEzNDAsIm5iZiI6MTczNDQ2MDE0MCwicGF0aCI6Ii91LzEzMDQ0MTAyIn0.J4gtKsZmrcWnwGmCvVPogaXHa8aQHuMcHL7w3ETmOOc&s=72&u=f94a62fe85cc3ee44449f752939f21957e5a9f98&v=4" width="24" alt="Avatar of BBleae"/> BBleae
+				<img src="https://private-avatars.githubusercontent.com/u/13044102?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzExNDAsIm5iZiI6MTczNDU2OTk0MCwicGF0aCI6Ii91LzEzMDQ0MTAyIn0.2j4q77xKEgYQRt5G_GTVXp9C9S3HAc7uF2LD1autPDo&s=72&u=f94a62fe85cc3ee44449f752939f21957e5a9f98&v=4" width="24" alt="Avatar of BBleae"/> BBleae
 			</a><br/>
 			
 		</td>
@@ -8186,7 +8186,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>622</td>
 		<td>
 			<a target="_blank" href="https://github.com/fujita">
-				<img src="https://private-avatars.githubusercontent.com/u/726426?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0MDAsIm5iZiI6MTczNDQ2MDIwMCwicGF0aCI6Ii91LzcyNjQyNiJ9.VaoSxtpdKGR1zzn2LHHH1lPiJR_4NK7XYNtthNBBUBM&s=72&v=4" width="24" alt="Avatar of fujita"/> fujita
+				<img src="https://private-avatars.githubusercontent.com/u/726426?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyMDAsIm5iZiI6MTczNDU3MDAwMCwicGF0aCI6Ii91LzcyNjQyNiJ9.fBr3d0WBfWXMSR7FR6FFjCT4ffd134HXqw0bmWtkYvU&s=72&v=4" width="24" alt="Avatar of fujita"/> fujita
 			</a><br/>
 			FUJITA Tomonori
 		</td>
@@ -8199,7 +8199,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>623</td>
 		<td>
 			<a target="_blank" href="https://github.com/cho45">
-				<img src="https://private-avatars.githubusercontent.com/u/3092?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA4NjAsIm5iZiI6MTczNDQ1OTY2MCwicGF0aCI6Ii91LzMwOTIifQ.6BOUJSEjttwa2ZhU_Rp0fKxg1mmlWr4-pFkQp2HTZNM&s=72&u=ae96c78494471fdbdd4269ce2000c36ef8e23530&v=4" width="24" alt="Avatar of cho45"/> cho45
+				<img src="https://private-avatars.githubusercontent.com/u/3092?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA2NjAsIm5iZiI6MTczNDU2OTQ2MCwicGF0aCI6Ii91LzMwOTIifQ.UvJQ-a0qZvRzZab4Yc0yPfjbRHVGN-Octh7aJKlEEZQ&s=72&u=ae96c78494471fdbdd4269ce2000c36ef8e23530&v=4" width="24" alt="Avatar of cho45"/> cho45
 			</a><br/>
 			Satoh Hiroh
 		</td>
@@ -8212,7 +8212,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>624</td>
 		<td>
 			<a target="_blank" href="https://github.com/Fuuzetsu">
-				<img src="https://private-avatars.githubusercontent.com/u/893115?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExNjAsIm5iZiI6MTczNDQ1OTk2MCwicGF0aCI6Ii91Lzg5MzExNSJ9.KFxbbPmzXxFFr8vUciWHZCz0Hk-XUOckye4bUaVati0&s=72&u=2b3ed8e56b6289d8b885f397f57ca41c35b1f1cc&v=4" width="24" alt="Avatar of Fuuzetsu"/> Fuuzetsu
+				<img src="https://private-avatars.githubusercontent.com/u/893115?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5NjAsIm5iZiI6MTczNDU2OTc2MCwicGF0aCI6Ii91Lzg5MzExNSJ9.JaMksAbpvLIaUrF4YBnxjjwneAMBkm50z_Lh5bhrkoI&s=72&u=2b3ed8e56b6289d8b885f397f57ca41c35b1f1cc&v=4" width="24" alt="Avatar of Fuuzetsu"/> Fuuzetsu
 			</a><br/>
 			Mateusz Kowalczyk
 		</td>
@@ -8225,7 +8225,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>625</td>
 		<td>
 			<a target="_blank" href="https://github.com/mio-dokuhaki">
-				<img src="https://private-avatars.githubusercontent.com/u/97223678?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExMDAsIm5iZiI6MTczNDQ1OTkwMCwicGF0aCI6Ii91Lzk3MjIzNjc4In0.G_YE9Jt8ftzr7lwLnUj4CbShd3d92we3Z2WR3zNmUmY&s=72&v=4" width="24" alt="Avatar of mio-dokuhaki"/> mio-dokuhaki
+				<img src="https://private-avatars.githubusercontent.com/u/97223678?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5MDAsIm5iZiI6MTczNDU2OTcwMCwicGF0aCI6Ii91Lzk3MjIzNjc4In0.PPZnpHDU4ferrTViRxlhmwnPhX2JPbpP95VbJuT9Z9k&s=72&v=4" width="24" alt="Avatar of mio-dokuhaki"/> mio-dokuhaki
 			</a><br/>
 			miodokuhaki
 		</td>
@@ -8237,8 +8237,21 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 	<tr>
 		<td>626</td>
 		<td>
+			<a target="_blank" href="https://github.com/arubdesu">
+				<img src="https://private-avatars.githubusercontent.com/u/388808?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1NjAsIm5iZiI6MTczNDU3MDM2MCwicGF0aCI6Ii91LzM4ODgwOCJ9.HLMd33JzvVt6dlQetSRI9NID_Ah43XPmuS8Oa7awK5Q&s=72&u=eed8972a603692a787ebb8b92526c8a7ace09b3e&v=4" width="24" alt="Avatar of arubdesu"/> arubdesu
+			</a><br/>
+			Allister Banks
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Tokyo Japan</td>
+		<td>51</td>
+	</tr>
+	<tr>
+		<td>627</td>
+		<td>
 			<a target="_blank" href="https://github.com/Nirma">
-				<img src="https://private-avatars.githubusercontent.com/u/882822?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE2NDAsIm5iZiI6MTczNDQ2MDQ0MCwicGF0aCI6Ii91Lzg4MjgyMiJ9.I0ydDK5JLq3XcKot_MuvGHyTWc9PDpwyI-rBPUWxx3E&s=72&u=854f0fd2f7ab3e0482325fe73f407de19ae17826&v=4" width="24" alt="Avatar of Nirma"/> Nirma
+				<img src="https://private-avatars.githubusercontent.com/u/882822?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE0NDAsIm5iZiI6MTczNDU3MDI0MCwicGF0aCI6Ii91Lzg4MjgyMiJ9.SrYdmULOx7Oi_sDOxt8_Qthc8RctlAjxZ6KsdQ-lbJQ&s=72&u=854f0fd2f7ab3e0482325fe73f407de19ae17826&v=4" width="24" alt="Avatar of Nirma"/> Nirma
 			</a><br/>
 			Nicholas Maccharoli  
 		</td>
@@ -8248,25 +8261,12 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>627</td>
-		<td>
-			<a target="_blank" href="https://github.com/r-plus">
-				<img src="https://private-avatars.githubusercontent.com/u/425216?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE5NDAsIm5iZiI6MTczNDQ2MDc0MCwicGF0aCI6Ii91LzQyNTIxNiJ9.mTbhx15RXwcLkjT6mJlgQQcJw4I_mFtYw0YEb_25XiU&s=72&v=4" width="24" alt="Avatar of r-plus"/> r-plus
-			</a><br/>
-			rplus
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Tokyo Japan</td>
-		<td>50</td>
-	</tr>
-	<tr>
 		<td>628</td>
 		<td>
-			<a target="_blank" href="https://github.com/arubdesu">
-				<img src="https://private-avatars.githubusercontent.com/u/388808?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3NjAsIm5iZiI6MTczNDQ2MDU2MCwicGF0aCI6Ii91LzM4ODgwOCJ9.2iEPpCn5GoMWykfy65H7XZRSYfOHAxpAzR8WHXT4zJk&s=72&u=eed8972a603692a787ebb8b92526c8a7ace09b3e&v=4" width="24" alt="Avatar of arubdesu"/> arubdesu
+			<a target="_blank" href="https://github.com/r-plus">
+				<img src="https://private-avatars.githubusercontent.com/u/425216?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE3NDAsIm5iZiI6MTczNDU3MDU0MCwicGF0aCI6Ii91LzQyNTIxNiJ9.4-ShtOvos1-w1aJVs8lz_IJHroi65PvmH8jJk9DSdjg&s=72&v=4" width="24" alt="Avatar of r-plus"/> r-plus
 			</a><br/>
-			Allister Banks
+			rplus
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -8277,7 +8277,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>629</td>
 		<td>
 			<a target="_blank" href="https://github.com/RobertTLange">
-				<img src="https://private-avatars.githubusercontent.com/u/20374662?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExNjAsIm5iZiI6MTczNDQ1OTk2MCwicGF0aCI6Ii91LzIwMzc0NjYyIn0.ypD9mdz53rKeREFkqwG_AZymh08NtGkl1PI2XKAn1-c&s=72&u=e0698b272bf419d88e4a32bae7d29cf22165e189&v=4" width="24" alt="Avatar of RobertTLange"/> RobertTLange
+				<img src="https://private-avatars.githubusercontent.com/u/20374662?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5NjAsIm5iZiI6MTczNDU2OTc2MCwicGF0aCI6Ii91LzIwMzc0NjYyIn0.WH1oBqHpfFFSk7EQoYk32N1ug1M1qzF0j9yCJLN6zbM&s=72&u=e0698b272bf419d88e4a32bae7d29cf22165e189&v=4" width="24" alt="Avatar of RobertTLange"/> RobertTLange
 			</a><br/>
 			Robert Tjarko Lange
 		</td>
@@ -8290,7 +8290,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>630</td>
 		<td>
 			<a target="_blank" href="https://github.com/satoshi0212">
-				<img src="https://private-avatars.githubusercontent.com/u/5768361?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExMDAsIm5iZiI6MTczNDQ1OTkwMCwicGF0aCI6Ii91LzU3NjgzNjEifQ.ffJMvRYjLR-Vxvczgl3P82MEBCEy2pNn4ETymgt4CM0&s=72&u=25c234c5692d0c47801b86258f5ba7f9220a6141&v=4" width="24" alt="Avatar of satoshi0212"/> satoshi0212
+				<img src="https://private-avatars.githubusercontent.com/u/5768361?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5MDAsIm5iZiI6MTczNDU2OTcwMCwicGF0aCI6Ii91LzU3NjgzNjEifQ.GmccXl3ZFjEAPk8u9uc1VvzuumxZu_VGvYhRzbmO_vA&s=72&u=25c234c5692d0c47801b86258f5ba7f9220a6141&v=4" width="24" alt="Avatar of satoshi0212"/> satoshi0212
 			</a><br/>
 			Hattori Satoshi
 		</td>
@@ -8303,7 +8303,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>631</td>
 		<td>
 			<a target="_blank" href="https://github.com/bakura10">
-				<img src="https://private-avatars.githubusercontent.com/u/1198915?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3NjAsIm5iZiI6MTczNDQ2MDU2MCwicGF0aCI6Ii91LzExOTg5MTUifQ.lWcUJg39Pfe6bPwvePXJ-MpDhRxV0auWct9yb49YI-Y&s=72&u=5dabca633afe77afbfb17bfcf7221a1d9931685f&v=4" width="24" alt="Avatar of bakura10"/> bakura10
+				<img src="https://private-avatars.githubusercontent.com/u/1198915?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1NjAsIm5iZiI6MTczNDU3MDM2MCwicGF0aCI6Ii91LzExOTg5MTUifQ.QsaS3h7msXFyOWdcwzh4jASXSfOCEY6C0CVTDBoTZwQ&s=72&u=5dabca633afe77afbfb17bfcf7221a1d9931685f&v=4" width="24" alt="Avatar of bakura10"/> bakura10
 			</a><br/>
 			Michal Gallego
 		</td>
@@ -8316,7 +8316,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>632</td>
 		<td>
 			<a target="_blank" href="https://github.com/yamahigashi">
-				<img src="https://private-avatars.githubusercontent.com/u/523673?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE5NDAsIm5iZiI6MTczNDQ2MDc0MCwicGF0aCI6Ii91LzUyMzY3MyJ9.qQuyYAmagI73xQihu1zCAI4HK3n_ny9sO9sfPdJynl8&s=72&u=d1616008b73eb67ac0cb37cff696af48115fdf7d&v=4" width="24" alt="Avatar of yamahigashi"/> yamahigashi
+				<img src="https://private-avatars.githubusercontent.com/u/523673?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE3NDAsIm5iZiI6MTczNDU3MDU0MCwicGF0aCI6Ii91LzUyMzY3MyJ9.gj241W5WOWB5iuRFKxFhPvrrmm81JyiXV9q157AGSjE&s=72&u=d1616008b73eb67ac0cb37cff696af48115fdf7d&v=4" width="24" alt="Avatar of yamahigashi"/> yamahigashi
 			</a><br/>
 			No Name
 		</td>
@@ -8329,7 +8329,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>633</td>
 		<td>
 			<a target="_blank" href="https://github.com/k-takeuchi220">
-				<img src="https://private-avatars.githubusercontent.com/u/42257421?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEzNDAsIm5iZiI6MTczNDQ2MDE0MCwicGF0aCI6Ii91LzQyMjU3NDIxIn0.2BmPBXGfExp6KwzcsGqdG6i33Ex9aLYrD-Zcj6eahKg&s=72&u=733d08657087f54e97b8ad25fbab2a4cd7772db3&v=4" width="24" alt="Avatar of k-takeuchi220"/> k-takeuchi220
+				<img src="https://private-avatars.githubusercontent.com/u/42257421?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzExNDAsIm5iZiI6MTczNDU2OTk0MCwicGF0aCI6Ii91LzQyMjU3NDIxIn0._ehnRZBxfqzC8AOuQm4ahbsPt4BmzYKwlwOTin_YMyg&s=72&u=733d08657087f54e97b8ad25fbab2a4cd7772db3&v=4" width="24" alt="Avatar of k-takeuchi220"/> k-takeuchi220
 			</a><br/>
 			took
 		</td>
@@ -8342,7 +8342,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>634</td>
 		<td>
 			<a target="_blank" href="https://github.com/takefumi-yoshii">
-				<img src="https://private-avatars.githubusercontent.com/u/22139818?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3MDAsIm5iZiI6MTczNDQ2MDUwMCwicGF0aCI6Ii91LzIyMTM5ODE4In0.LoDF7XGtFAxu4DuP1JzJP1eAneQhpyQDSOO9-3k5OTQ&s=72&u=6a47eaed5e39c17019c263b7e53f9512befec9ee&v=4" width="24" alt="Avatar of takefumi-yoshii"/> takefumi-yoshii
+				<img src="https://private-avatars.githubusercontent.com/u/22139818?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1MDAsIm5iZiI6MTczNDU3MDMwMCwicGF0aCI6Ii91LzIyMTM5ODE4In0.KT66NnFqtm7524L6f4c6FHMTopdSliX9D6TAkOdKpD4&s=72&u=6a47eaed5e39c17019c263b7e53f9512befec9ee&v=4" width="24" alt="Avatar of takefumi-yoshii"/> takefumi-yoshii
 			</a><br/>
 			Takefumi Yoshii
 		</td>
@@ -8355,7 +8355,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>635</td>
 		<td>
 			<a target="_blank" href="https://github.com/JohnEstropia">
-				<img src="https://private-avatars.githubusercontent.com/u/3029684?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE2NDAsIm5iZiI6MTczNDQ2MDQ0MCwicGF0aCI6Ii91LzMwMjk2ODQifQ.jV3y1BKXYe3x8zTycwonSG65Bj5UCxEniSYmbDkKrKA&s=72&u=d189b2d3cf86180b281da1426ab12086556c705a&v=4" width="24" alt="Avatar of JohnEstropia"/> JohnEstropia
+				<img src="https://private-avatars.githubusercontent.com/u/3029684?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE0NDAsIm5iZiI6MTczNDU3MDI0MCwicGF0aCI6Ii91LzMwMjk2ODQifQ.tc-rCyTuUcsRu95UF5MLgDy3ZqGDOPOBxR2jdneYhCk&s=72&u=d189b2d3cf86180b281da1426ab12086556c705a&v=4" width="24" alt="Avatar of JohnEstropia"/> JohnEstropia
 			</a><br/>
 			John Estropia
 		</td>
@@ -8368,7 +8368,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>636</td>
 		<td>
 			<a target="_blank" href="https://github.com/shioyama">
-				<img src="https://private-avatars.githubusercontent.com/u/561827?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyMjAsIm5iZiI6MTczNDQ2MDAyMCwicGF0aCI6Ii91LzU2MTgyNyJ9.zbnS_YW_zd5uzMJdDQ8Vt4KuOr1F4TfZXUnDGFo_pDc&s=72&u=ee9089fddbd4d64bf5a0f985408a459b78cb73f5&v=4" width="24" alt="Avatar of shioyama"/> shioyama
+				<img src="https://private-avatars.githubusercontent.com/u/561827?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwMjAsIm5iZiI6MTczNDU2OTgyMCwicGF0aCI6Ii91LzU2MTgyNyJ9.fngXcgF-RR8GH6_iNO8mJV8KkP1rX8aXrYvpGpMz7vc&s=72&u=ee9089fddbd4d64bf5a0f985408a459b78cb73f5&v=4" width="24" alt="Avatar of shioyama"/> shioyama
 			</a><br/>
 			Chris Salzberg
 		</td>
@@ -8381,7 +8381,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>637</td>
 		<td>
 			<a target="_blank" href="https://github.com/miyosuda">
-				<img src="https://private-avatars.githubusercontent.com/u/537493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEwNDAsIm5iZiI6MTczNDQ1OTg0MCwicGF0aCI6Ii91LzUzNzQ5MyJ9.Cn4uYe2aUl5VDxFmPckVartuwg5I3WT4d9-mORIJUcg&s=72&u=f60c4a89cbcb7b99a45e1dd01181d64f383517db&v=4" width="24" alt="Avatar of miyosuda"/> miyosuda
+				<img src="https://private-avatars.githubusercontent.com/u/537493?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA4NDAsIm5iZiI6MTczNDU2OTY0MCwicGF0aCI6Ii91LzUzNzQ5MyJ9.EkRwr0FmxI_ze_YJPCEOahSxwj-m6owgLsbArcZ02Kk&s=72&u=f60c4a89cbcb7b99a45e1dd01181d64f383517db&v=4" width="24" alt="Avatar of miyosuda"/> miyosuda
 			</a><br/>
 			Kosuke Miyoshi
 		</td>
@@ -8394,7 +8394,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>638</td>
 		<td>
 			<a target="_blank" href="https://github.com/vvakame">
-				<img src="https://private-avatars.githubusercontent.com/u/125332?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0NjAsIm5iZiI6MTczNDQ2MDI2MCwicGF0aCI6Ii91LzEyNTMzMiJ9.kNek4YEPeac2dcRMFgRn4JvQsccO09YkCHnhO3v2oE8&s=72&u=dbbe032289a2c1560b04292cd6435c725546c3f8&v=4" width="24" alt="Avatar of vvakame"/> vvakame
+				<img src="https://private-avatars.githubusercontent.com/u/125332?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyNjAsIm5iZiI6MTczNDU3MDA2MCwicGF0aCI6Ii91LzEyNTMzMiJ9.5gMRXqUfopVAblTp_ovTsLCadaVjdQo9VPlbOtnXZ9k&s=72&u=dbbe032289a2c1560b04292cd6435c725546c3f8&v=4" width="24" alt="Avatar of vvakame"/> vvakame
 			</a><br/>
 			Masahiro Wakame
 		</td>
@@ -8407,7 +8407,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>639</td>
 		<td>
 			<a target="_blank" href="https://github.com/masuidrive">
-				<img src="https://private-avatars.githubusercontent.com/u/12104?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1ODAsIm5iZiI6MTczNDQ2MDM4MCwicGF0aCI6Ii91LzEyMTA0In0.DBcs_MzCAlIJKhFZAlDJW_wuieOP_UarBozsHOMxXwc&s=72&v=4" width="24" alt="Avatar of masuidrive"/> masuidrive
+				<img src="https://private-avatars.githubusercontent.com/u/12104?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA0ODAsIm5iZiI6MTczNDU2OTI4MCwicGF0aCI6Ii91LzEyMTA0In0.587gKqjffz8wfbV8u9L2dP61KXXcmNNPH2GCqR1Asio&s=72&v=4" width="24" alt="Avatar of masuidrive"/> masuidrive
 			</a><br/>
 			Yuichiro MASUI
 		</td>
@@ -8420,7 +8420,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>640</td>
 		<td>
 			<a target="_blank" href="https://github.com/nakabonne">
-				<img src="https://private-avatars.githubusercontent.com/u/19730728?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE2NDAsIm5iZiI6MTczNDQ2MDQ0MCwicGF0aCI6Ii91LzE5NzMwNzI4In0.mBwIsrwUe-0L8ofbDAh1QBn1USoZQuAjjUfTknUiyAY&s=72&u=88c465f1caf239c1852208116593939c22312c13&v=4" width="24" alt="Avatar of nakabonne"/> nakabonne
+				<img src="https://private-avatars.githubusercontent.com/u/19730728?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE0NDAsIm5iZiI6MTczNDU3MDI0MCwicGF0aCI6Ii91LzE5NzMwNzI4In0.MD_jqO0RTku-VbOArFMsAZnz2Zvv59fVglsrg0PRSOI&s=72&u=88c465f1caf239c1852208116593939c22312c13&v=4" width="24" alt="Avatar of nakabonne"/> nakabonne
 			</a><br/>
 			Ryo Nakao
 		</td>
@@ -8433,7 +8433,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>641</td>
 		<td>
 			<a target="_blank" href="https://github.com/stomita">
-				<img src="https://private-avatars.githubusercontent.com/u/23387?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyMjAsIm5iZiI6MTczNDQ2MDAyMCwicGF0aCI6Ii91LzIzMzg3In0.8O5sNxnY6LWuA1TVO1pGb7Iv8RcsWS1RQ6AZ9oG0uiY&s=72&v=4" width="24" alt="Avatar of stomita"/> stomita
+				<img src="https://private-avatars.githubusercontent.com/u/23387?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwMjAsIm5iZiI6MTczNDU2OTgyMCwicGF0aCI6Ii91LzIzMzg3In0.zgwAzVKsBVyR7Ny2nqWxeWBv41yxMFbTME3XsKt5fOw&s=72&v=4" width="24" alt="Avatar of stomita"/> stomita
 			</a><br/>
 			Shinichi Tomita
 		</td>
@@ -8446,7 +8446,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>642</td>
 		<td>
 			<a target="_blank" href="https://github.com/LanceMoe">
-				<img src="https://private-avatars.githubusercontent.com/u/18505474?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExNjAsIm5iZiI6MTczNDQ1OTk2MCwicGF0aCI6Ii91LzE4NTA1NDc0In0.4DW1-o5YhKYPMBsWbbgv_J8VMkB72X2EyPZP3dnIcVM&s=72&u=18c8fc165369c0764be02003488a75a6012698f3&v=4" width="24" alt="Avatar of LanceMoe"/> LanceMoe
+				<img src="https://private-avatars.githubusercontent.com/u/18505474?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5NjAsIm5iZiI6MTczNDU2OTc2MCwicGF0aCI6Ii91LzE4NTA1NDc0In0.vUwYW4Zm0ZS37PiZxcrTZI1tLvUpW5bKr2z0iFUb4sk&s=72&u=18c8fc165369c0764be02003488a75a6012698f3&v=4" width="24" alt="Avatar of LanceMoe"/> LanceMoe
 			</a><br/>
 			LanceMoe
 		</td>
@@ -8459,7 +8459,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>643</td>
 		<td>
 			<a target="_blank" href="https://github.com/creasty">
-				<img src="https://private-avatars.githubusercontent.com/u/1695538?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjIwMDAsIm5iZiI6MTczNDQ2MDgwMCwicGF0aCI6Ii91LzE2OTU1MzgifQ.nnwzAzEuXpJ5jqW97hx8RXjp4zSyTJTx4a_em-XGI6U&s=72&u=beae2bb448daeff51973d0f011a32c9eef345613&v=4" width="24" alt="Avatar of creasty"/> creasty
+				<img src="https://private-avatars.githubusercontent.com/u/1695538?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE4MDAsIm5iZiI6MTczNDU3MDYwMCwicGF0aCI6Ii91LzE2OTU1MzgifQ.DtMDAA7kAAzjsP3Qx0jxiVi-Lq0HrAge7Em-z1Rj4_Q&s=72&u=beae2bb448daeff51973d0f011a32c9eef345613&v=4" width="24" alt="Avatar of creasty"/> creasty
 			</a><br/>
 			Yuki Iwanaga
 		</td>
@@ -8472,7 +8472,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>644</td>
 		<td>
 			<a target="_blank" href="https://github.com/koichik">
-				<img src="https://private-avatars.githubusercontent.com/u/355825?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjIwMDAsIm5iZiI6MTczNDQ2MDgwMCwicGF0aCI6Ii91LzM1NTgyNSJ9.rHjiBeG8YXrHIqMl091U6j5Dd-d5bDxPRtZRceeWR4w&s=72&u=473720ba4c9a32a138edc80e81f6c44666ce9fcb&v=4" width="24" alt="Avatar of koichik"/> koichik
+				<img src="https://private-avatars.githubusercontent.com/u/355825?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE4MDAsIm5iZiI6MTczNDU3MDYwMCwicGF0aCI6Ii91LzM1NTgyNSJ9.ZxyD2gkGm6bU_NFuVeSYwB2e-g8nI_YPrcfPJJur6VA&s=72&u=473720ba4c9a32a138edc80e81f6c44666ce9fcb&v=4" width="24" alt="Avatar of koichik"/> koichik
 			</a><br/>
 			Koichi Kobayashi
 		</td>
@@ -8485,7 +8485,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>645</td>
 		<td>
 			<a target="_blank" href="https://github.com/timakin">
-				<img src="https://private-avatars.githubusercontent.com/u/2871985?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3NjAsIm5iZiI6MTczNDQ2MDU2MCwicGF0aCI6Ii91LzI4NzE5ODUifQ.9Ks-yrNprfhZaRnFlQFK0DRQ1qx5H93YWM4x_Zj40Jk&s=72&u=be50b07349d15e95de91c749796d49c9cf85f9d1&v=4" width="24" alt="Avatar of timakin"/> timakin
+				<img src="https://private-avatars.githubusercontent.com/u/2871985?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1NjAsIm5iZiI6MTczNDU3MDM2MCwicGF0aCI6Ii91LzI4NzE5ODUifQ.4w7HKsRCjvRY9gtGf_Jt-OwVkgbM2vkqchpWsbHrihI&s=72&u=be50b07349d15e95de91c749796d49c9cf85f9d1&v=4" width="24" alt="Avatar of timakin"/> timakin
 			</a><br/>
 			Seiji Takahashi
 		</td>
@@ -8497,8 +8497,21 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 	<tr>
 		<td>646</td>
 		<td>
+			<a target="_blank" href="https://github.com/hutajoullach">
+				<img src="https://private-avatars.githubusercontent.com/u/60039508?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyMDAsIm5iZiI6MTczNDU3MDAwMCwicGF0aCI6Ii91LzYwMDM5NTA4In0.1m3oDEdT3kdbOqM23kaVtm0egzCQfaaKAfvWepeLmFc&s=72&u=285d092ae6aac62fa0f3fec67f3fcedbe9ba342e&v=4" width="24" alt="Avatar of hutajoullach"/> hutajoullach
+			</a><br/>
+			Huta Joullach
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/hutajoullach">hutajoullach</a></td>
+		<td>Tokyo Japan</td>
+		<td>44</td>
+	</tr>
+	<tr>
+		<td>647</td>
+		<td>
 			<a target="_blank" href="https://github.com/asliddinxanov">
-				<img src="https://private-avatars.githubusercontent.com/u/100646459?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA5MjAsIm5iZiI6MTczNDQ1OTcyMCwicGF0aCI6Ii91LzEwMDY0NjQ1OSJ9.YU68ZtasoL1OkwfKiGiHNx2DGPAXL9S9rE7Hko2BfFI&s=72&u=7f0d13f496fd5670d105b86a578948392c74e667&v=4" width="24" alt="Avatar of asliddinxanov"/> asliddinxanov
+				<img src="https://private-avatars.githubusercontent.com/u/100646459?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA3MjAsIm5iZiI6MTczNDU2OTUyMCwicGF0aCI6Ii91LzEwMDY0NjQ1OSJ9.MvAtxmFV7vsphBbsYl3VYARJ9jPgmgF4UlmLMcLpPyo&s=72&u=7f0d13f496fd5670d105b86a578948392c74e667&v=4" width="24" alt="Avatar of asliddinxanov"/> asliddinxanov
 			</a><br/>
 			Asliddin Boburkhanov
 		</td>
@@ -8508,10 +8521,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>647</td>
+		<td>648</td>
 		<td>
 			<a target="_blank" href="https://github.com/Ryo-N7">
-				<img src="https://private-avatars.githubusercontent.com/u/19657164?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEzNDAsIm5iZiI6MTczNDQ2MDE0MCwicGF0aCI6Ii91LzE5NjU3MTY0In0.Xy0Vn5YYfdQCe2xSDYNEfPCI3z69Q8VpeQM-brsvK2g&s=72&u=198b1ad7876cf47f2e27cc85daef7c7ac7b761b5&v=4" width="24" alt="Avatar of Ryo-N7"/> Ryo-N7
+				<img src="https://private-avatars.githubusercontent.com/u/19657164?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzExNDAsIm5iZiI6MTczNDU2OTk0MCwicGF0aCI6Ii91LzE5NjU3MTY0In0.lprbyKJufJGpwQuuykAbq4knBzaIBdys8RkAJUYIGHA&s=72&u=198b1ad7876cf47f2e27cc85daef7c7ac7b761b5&v=4" width="24" alt="Avatar of Ryo-N7"/> Ryo-N7
 			</a><br/>
 			Ryo Nakagawara
 		</td>
@@ -8521,10 +8534,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>648</td>
+		<td>649</td>
 		<td>
 			<a target="_blank" href="https://github.com/kazuki43zoo">
-				<img src="https://private-avatars.githubusercontent.com/u/5616270?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEwNDAsIm5iZiI6MTczNDQ1OTg0MCwicGF0aCI6Ii91LzU2MTYyNzAifQ.b_nFmhEotfS19JV4Y164rWSZdOoOgQg8ReGs-WD9aEo&s=72&u=a8f84512d1696f17c359bb0b1c4a153466786d44&v=4" width="24" alt="Avatar of kazuki43zoo"/> kazuki43zoo
+				<img src="https://private-avatars.githubusercontent.com/u/5616270?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA4NDAsIm5iZiI6MTczNDU2OTY0MCwicGF0aCI6Ii91LzU2MTYyNzAifQ.ESbzgka_aus1-WqVDfnNk6JrobYpBNY0hdG5QfgU2Vs&s=72&u=a8f84512d1696f17c359bb0b1c4a153466786d44&v=4" width="24" alt="Avatar of kazuki43zoo"/> kazuki43zoo
 			</a><br/>
 			Kazuki Shimizu
 		</td>
@@ -8534,10 +8547,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>43</td>
 	</tr>
 	<tr>
-		<td>649</td>
+		<td>650</td>
 		<td>
 			<a target="_blank" href="https://github.com/hecomi">
-				<img src="https://private-avatars.githubusercontent.com/u/493433?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA5MjAsIm5iZiI6MTczNDQ1OTcyMCwicGF0aCI6Ii91LzQ5MzQzMyJ9.qRqeTxSEY965C1yRKfNb_Kx_8nW3s4ADTK50PROX_Ww&s=72&v=4" width="24" alt="Avatar of hecomi"/> hecomi
+				<img src="https://private-avatars.githubusercontent.com/u/493433?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA3MjAsIm5iZiI6MTczNDU2OTUyMCwicGF0aCI6Ii91LzQ5MzQzMyJ9.BZUOQS-cFHbBzQ7lE0-4LZsEinaqp8xU5wV3a-Z3mJc&s=72&v=4" width="24" alt="Avatar of hecomi"/> hecomi
 			</a><br/>
 			hecomi
 		</td>
@@ -8547,10 +8560,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>650</td>
+		<td>651</td>
 		<td>
 			<a target="_blank" href="https://github.com/kazeburo">
-				<img src="https://private-avatars.githubusercontent.com/u/46764?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyMjAsIm5iZiI6MTczNDQ2MDAyMCwicGF0aCI6Ii91LzQ2NzY0In0.oVdtCGm2PnBIAh0wTdpfl4s2lnIY3gPb5IPQaHrNfRk&s=72&v=4" width="24" alt="Avatar of kazeburo"/> kazeburo
+				<img src="https://private-avatars.githubusercontent.com/u/46764?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwMjAsIm5iZiI6MTczNDU2OTgyMCwicGF0aCI6Ii91LzQ2NzY0In0.HISGjYGWmUDn0Hc4Zvvv3ts5tQso4pJoF7QnphooIT4&s=72&v=4" width="24" alt="Avatar of kazeburo"/> kazeburo
 			</a><br/>
 			Masahiro Nagano
 		</td>
@@ -8560,10 +8573,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>651</td>
+		<td>652</td>
 		<td>
 			<a target="_blank" href="https://github.com/walf443">
-				<img src="https://private-avatars.githubusercontent.com/u/2655?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE2NDAsIm5iZiI6MTczNDQ2MDQ0MCwicGF0aCI6Ii91LzI2NTUifQ.geALQ72ifXt9i-_cBNOtky2pA009cSHkiqjnivmIrYI&s=72&v=4" width="24" alt="Avatar of walf443"/> walf443
+				<img src="https://private-avatars.githubusercontent.com/u/2655?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE0NDAsIm5iZiI6MTczNDU3MDI0MCwicGF0aCI6Ii91LzI2NTUifQ.VAsP2GjBKSCHkG_H-Lf2tuwfVo8R-1pVu6iLnfMc57k&s=72&v=4" width="24" alt="Avatar of walf443"/> walf443
 			</a><br/>
 			Keiji Yoshimi
 		</td>
@@ -8573,10 +8586,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>42</td>
 	</tr>
 	<tr>
-		<td>652</td>
+		<td>653</td>
 		<td>
 			<a target="_blank" href="https://github.com/shinh">
-				<img src="https://private-avatars.githubusercontent.com/u/29770?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyODAsIm5iZiI6MTczNDQ2MDA4MCwicGF0aCI6Ii91LzI5NzcwIn0.ADBmC6S40_DAO0fYE2hbZbtXJ1KvQOD6HiYDS592qi0&s=72&u=261b69496ba5cc481d45d7eb0da470b1c824bcb5&v=4" width="24" alt="Avatar of shinh"/> shinh
+				<img src="https://private-avatars.githubusercontent.com/u/29770?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwODAsIm5iZiI6MTczNDU2OTg4MCwicGF0aCI6Ii91LzI5NzcwIn0._G8cedRoC2Mshsi9vWhlgP33sFv-Cs2MaZkx6W31Yfg&s=72&u=261b69496ba5cc481d45d7eb0da470b1c824bcb5&v=4" width="24" alt="Avatar of shinh"/> shinh
 			</a><br/>
 			Shinichiro Hamaji
 		</td>
@@ -8586,10 +8599,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>653</td>
+		<td>654</td>
 		<td>
 			<a target="_blank" href="https://github.com/ichitaso">
-				<img src="https://private-avatars.githubusercontent.com/u/980215?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3NjAsIm5iZiI6MTczNDQ2MDU2MCwicGF0aCI6Ii91Lzk4MDIxNSJ9.qELqn7LckrklsVVYNP-foJthed9vVvy20-GPuWbMeeY&s=72&v=4" width="24" alt="Avatar of ichitaso"/> ichitaso
+				<img src="https://private-avatars.githubusercontent.com/u/980215?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA2NjAsIm5iZiI6MTczNDU2OTQ2MCwicGF0aCI6Ii91Lzk4MDIxNSJ9.n_21NWzMRX0f7A-t5EGOmHIGhAGJFS3nIe6549JDKzY&s=72&v=4" width="24" alt="Avatar of ichitaso"/> ichitaso
 			</a><br/>
 			ichitaso
 		</td>
@@ -8599,10 +8612,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>654</td>
+		<td>655</td>
 		<td>
 			<a target="_blank" href="https://github.com/ngs">
-				<img src="https://private-avatars.githubusercontent.com/u/18631?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1ODAsIm5iZiI6MTczNDQ2MDM4MCwicGF0aCI6Ii91LzE4NjMxIn0.DFrR9T0ZCEVCp87TFRkZxDhJSFRd4w14h0FrlGRSj60&s=72&u=ca5a8a84a31eb5b8366ee5188a6fb979f7325296&v=4" width="24" alt="Avatar of ngs"/> ngs
+				<img src="https://private-avatars.githubusercontent.com/u/18631?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzODAsIm5iZiI6MTczNDU3MDE4MCwicGF0aCI6Ii91LzE4NjMxIn0.baNZqB0giejnk2FEtWM5Neg0t9WtcM5glJj3_ZCFn9I&s=72&u=ca5a8a84a31eb5b8366ee5188a6fb979f7325296&v=4" width="24" alt="Avatar of ngs"/> ngs
 			</a><br/>
 			Atsushi NAGASE
 		</td>
@@ -8612,10 +8625,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>655</td>
+		<td>656</td>
 		<td>
 			<a target="_blank" href="https://github.com/kenn">
-				<img src="https://private-avatars.githubusercontent.com/u/10350?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3NjAsIm5iZiI6MTczNDQ2MDU2MCwicGF0aCI6Ii91LzEwMzUwIn0._3x1hdY2iUheyfvA-21S0-jldf_4et55UrqaDJf6O74&s=72&v=4" width="24" alt="Avatar of kenn"/> kenn
+				<img src="https://private-avatars.githubusercontent.com/u/10350?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1NjAsIm5iZiI6MTczNDU3MDM2MCwicGF0aCI6Ii91LzEwMzUwIn0.FhHWrSJI2aSS0Dkthmga9R5jMukHm_dpUdYN3yThC_M&s=72&v=4" width="24" alt="Avatar of kenn"/> kenn
 			</a><br/>
 			Kenn Ejima
 		</td>
@@ -8625,10 +8638,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>656</td>
+		<td>657</td>
 		<td>
 			<a target="_blank" href="https://github.com/aajisaka">
-				<img src="https://private-avatars.githubusercontent.com/u/3403122?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjIwMDAsIm5iZiI6MTczNDQ2MDgwMCwicGF0aCI6Ii91LzM0MDMxMjIifQ.lHqLfoKLETPyZbaUFe4fMWX6Tl3HvGs8W-YZzp8uUQM&s=72&u=965a8048df26c0f0e3ea36a21e54b1942e86de17&v=4" width="24" alt="Avatar of aajisaka"/> aajisaka
+				<img src="https://private-avatars.githubusercontent.com/u/3403122?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5MDAsIm5iZiI6MTczNDU2OTcwMCwicGF0aCI6Ii91LzM0MDMxMjIifQ.YeQgshVuE0cvLxVDQLSHj2ZPknmPqyegZzrblz9HLq0&s=72&u=965a8048df26c0f0e3ea36a21e54b1942e86de17&v=4" width="24" alt="Avatar of aajisaka"/> aajisaka
 			</a><br/>
 			Akira Ajisaka
 		</td>
@@ -8638,10 +8651,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>657</td>
+		<td>658</td>
 		<td>
 			<a target="_blank" href="https://github.com/k0i">
-				<img src="https://private-avatars.githubusercontent.com/u/100127291?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEzNDAsIm5iZiI6MTczNDQ2MDE0MCwicGF0aCI6Ii91LzEwMDEyNzI5MSJ9.ROlvqFd-xUQLHRYX_glhlNgJStDed8K91Hrgz9QRxtc&s=72&u=7a418b2da4c14209fa0c4f1fcb3294220c41c5e3&v=4" width="24" alt="Avatar of k0i"/> k0i
+				<img src="https://private-avatars.githubusercontent.com/u/100127291?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzExNDAsIm5iZiI6MTczNDU2OTk0MCwicGF0aCI6Ii91LzEwMDEyNzI5MSJ9.Xux_D5SgWLyCZriHX31xiHCq-Iz_z6e2wo0FrwAOr6w&s=72&u=7a418b2da4c14209fa0c4f1fcb3294220c41c5e3&v=4" width="24" alt="Avatar of k0i"/> k0i
 			</a><br/>
 			k0i
 		</td>
@@ -8651,10 +8664,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>658</td>
+		<td>659</td>
 		<td>
 			<a target="_blank" href="https://github.com/edandersen">
-				<img src="https://private-avatars.githubusercontent.com/u/548636?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjIwMDAsIm5iZiI6MTczNDQ2MDgwMCwicGF0aCI6Ii91LzU0ODYzNiJ9.tCJ0q6mVteIetef0a0mNZYVSZwiyaoTmgTZpAeXvh1Y&s=72&u=dc03d336be9772353fe63b044115591e90482516&v=4" width="24" alt="Avatar of edandersen"/> edandersen
+				<img src="https://private-avatars.githubusercontent.com/u/548636?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE4MDAsIm5iZiI6MTczNDU3MDYwMCwicGF0aCI6Ii91LzU0ODYzNiJ9.V2fkqpmldV-P6SmJE72p2H5Mx9xjXIh2x7vh4kjEa18&s=72&u=dc03d336be9772353fe63b044115591e90482516&v=4" width="24" alt="Avatar of edandersen"/> edandersen
 			</a><br/>
 			Ed Andersen
 		</td>
@@ -8664,10 +8677,23 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>41</td>
 	</tr>
 	<tr>
-		<td>659</td>
+		<td>660</td>
+		<td>
+			<a target="_blank" href="https://github.com/dtan4">
+				<img src="https://private-avatars.githubusercontent.com/u/680124?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1NjAsIm5iZiI6MTczNDU3MDM2MCwicGF0aCI6Ii91LzY4MDEyNCJ9.QBxowF64T3U5dju9PCkszdS5k_Y8fRWTS2N0vZjmZa4&s=72&u=1ff4b2613053b66639c6f6dd894e0eeee7fe716e&v=4" width="24" alt="Avatar of dtan4"/> dtan4
+			</a><br/>
+			Daisuke Fujita
+		</td>
+		<td>Mercari Inc @mercari </td>
+		<td><a target="_blank" href="https://twitter.com/dtan4">dtan4</a></td>
+		<td>Tokyo Japan</td>
+		<td>40</td>
+	</tr>
+	<tr>
+		<td>661</td>
 		<td>
 			<a target="_blank" href="https://github.com/vi-ctor-vi">
-				<img src="https://private-avatars.githubusercontent.com/u/20653244?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE5NDAsIm5iZiI6MTczNDQ2MDc0MCwicGF0aCI6Ii91LzIwNjUzMjQ0In0.GmGVGNAoSYkG9q8Nxj-OW6VENVy2YBmbQokrNAwB4to&s=72&u=1c4724afca2b1f5f4db53d2eacbae9630e2e8d2d&v=4" width="24" alt="Avatar of vi-ctor-vi"/> vi-ctor-vi
+				<img src="https://private-avatars.githubusercontent.com/u/20653244?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE3NDAsIm5iZiI6MTczNDU3MDU0MCwicGF0aCI6Ii91LzIwNjUzMjQ0In0.OektmHxaYlOn-zoN6-Dp8AlRE423O4-yawFWYxlLMJc&s=72&u=1c4724afca2b1f5f4db53d2eacbae9630e2e8d2d&v=4" width="24" alt="Avatar of vi-ctor-vi"/> vi-ctor-vi
 			</a><br/>
 			vi
 		</td>
@@ -8677,10 +8703,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>40</td>
 	</tr>
 	<tr>
-		<td>660</td>
+		<td>662</td>
 		<td>
 			<a target="_blank" href="https://github.com/Bunlong">
-				<img src="https://private-avatars.githubusercontent.com/u/1308397?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA3NDAsIm5iZiI6MTczNDQ1OTU0MCwicGF0aCI6Ii91LzEzMDgzOTcifQ.Ct9_yQ3vh0UpNfZwZZ_MK2EREgHfQp0s_V78D7ZEOp4&s=72&u=945dc6b97571e2b98b659d34b1c81ae2514046bf&v=4" width="24" alt="Avatar of Bunlong"/> Bunlong
+				<img src="https://private-avatars.githubusercontent.com/u/1308397?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA1NDAsIm5iZiI6MTczNDU2OTM0MCwicGF0aCI6Ii91LzEzMDgzOTcifQ.EYwsi06wuVQr8NdQa7BDY4LMYP9xoS5Ak5UL12w3Now&s=72&u=945dc6b97571e2b98b659d34b1c81ae2514046bf&v=4" width="24" alt="Avatar of Bunlong"/> Bunlong
 			</a><br/>
 			Bunlong VAN
 		</td>
@@ -8690,10 +8716,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>661</td>
+		<td>663</td>
 		<td>
 			<a target="_blank" href="https://github.com/koki0702">
-				<img src="https://private-avatars.githubusercontent.com/u/515809?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExNjAsIm5iZiI6MTczNDQ1OTk2MCwicGF0aCI6Ii91LzUxNTgwOSJ9.fNcjPO3xEShFUg7ejmL9u7rQR49I2jTB2Xxj_ns1NvU&s=72&u=b2e5c32d87932b48103dcc60838f0e5252724bde&v=4" width="24" alt="Avatar of koki0702"/> koki0702
+				<img src="https://private-avatars.githubusercontent.com/u/515809?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5NjAsIm5iZiI6MTczNDU2OTc2MCwicGF0aCI6Ii91LzUxNTgwOSJ9.Wnc2uFPapys1w8mEH4sl1y-Il2CI8BM5QnlXUXxUqvQ&s=72&u=b2e5c32d87932b48103dcc60838f0e5252724bde&v=4" width="24" alt="Avatar of koki0702"/> koki0702
 			</a><br/>
 			Koki Saitoh
 		</td>
@@ -8703,10 +8729,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>662</td>
+		<td>664</td>
 		<td>
 			<a target="_blank" href="https://github.com/doxas">
-				<img src="https://private-avatars.githubusercontent.com/u/6252881?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1ODAsIm5iZiI6MTczNDQ2MDM4MCwicGF0aCI6Ii91LzYyNTI4ODEifQ.saedAOxjIdq4wHJ9LNUfe-vUDYcDUnk_4lGJVNlgkxQ&s=72&v=4" width="24" alt="Avatar of doxas"/> doxas
+				<img src="https://private-avatars.githubusercontent.com/u/6252881?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzODAsIm5iZiI6MTczNDU3MDE4MCwicGF0aCI6Ii91LzYyNTI4ODEifQ.4s46exH5HPeO4b47-ZrK0PzgwY4unstDyRYfb1-h00M&s=72&v=4" width="24" alt="Avatar of doxas"/> doxas
 			</a><br/>
 			doxas
 		</td>
@@ -8716,10 +8742,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>39</td>
 	</tr>
 	<tr>
-		<td>663</td>
+		<td>665</td>
 		<td>
 			<a target="_blank" href="https://github.com/leemengtw">
-				<img src="https://private-avatars.githubusercontent.com/u/3454980?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA5ODAsIm5iZiI6MTczNDQ1OTc4MCwicGF0aCI6Ii91LzM0NTQ5ODAifQ.-M3jwS60wswpblOZcDqYmXbEUslsIalgfpW3gPywrZY&s=72&u=fa1e832184d7fb5e168c45b86fcad92333ecd2a8&v=4" width="24" alt="Avatar of leemengtw"/> leemengtw
+				<img src="https://private-avatars.githubusercontent.com/u/3454980?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA3ODAsIm5iZiI6MTczNDU2OTU4MCwicGF0aCI6Ii91LzM0NTQ5ODAifQ.MAQcqzWFcJsmMRY9K-KpWYtEAxIFpEwu-uYocIz8SK8&s=72&u=fa1e832184d7fb5e168c45b86fcad92333ecd2a8&v=4" width="24" alt="Avatar of leemengtw"/> leemengtw
 			</a><br/>
 			Meng Lee
 		</td>
@@ -8729,10 +8755,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>664</td>
+		<td>666</td>
 		<td>
 			<a target="_blank" href="https://github.com/rayston92">
-				<img src="https://private-avatars.githubusercontent.com/u/5518945?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEzNDAsIm5iZiI6MTczNDQ2MDE0MCwicGF0aCI6Ii91LzU1MTg5NDUifQ.nP5ibKpU9YUZPpcszhVzIGqI6PblPif_6NFXjV4b-zc&s=72&u=422501b612930c2efab111023d7eb36432796f33&v=4" width="24" alt="Avatar of rayston92"/> rayston92
+				<img src="https://private-avatars.githubusercontent.com/u/5518945?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzExNDAsIm5iZiI6MTczNDU2OTk0MCwicGF0aCI6Ii91LzU1MTg5NDUifQ.tWIhlCATKfUXHfrnRZZSTrf7iksxdXTh0vZolW942LY&s=72&u=422501b612930c2efab111023d7eb36432796f33&v=4" width="24" alt="Avatar of rayston92"/> rayston92
 			</a><br/>
 			Yishi Wang
 		</td>
@@ -8742,23 +8768,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>665</td>
-		<td>
-			<a target="_blank" href="https://github.com/dtan4">
-				<img src="https://private-avatars.githubusercontent.com/u/680124?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3NjAsIm5iZiI6MTczNDQ2MDU2MCwicGF0aCI6Ii91LzY4MDEyNCJ9.sQw58VqCdj0UWitqIaFvGZqF-ucpCBYwLXcjFQm1Ku8&s=72&u=1ff4b2613053b66639c6f6dd894e0eeee7fe716e&v=4" width="24" alt="Avatar of dtan4"/> dtan4
-			</a><br/>
-			Daisuke Fujita
-		</td>
-		<td>Mercari Inc @mercari </td>
-		<td><a target="_blank" href="https://twitter.com/dtan4">dtan4</a></td>
-		<td>Tokyo Japan</td>
-		<td>38</td>
-	</tr>
-	<tr>
-		<td>666</td>
+		<td>667</td>
 		<td>
 			<a target="_blank" href="https://github.com/Desgard">
-				<img src="https://private-avatars.githubusercontent.com/u/7804535?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExNjAsIm5iZiI6MTczNDQ1OTk2MCwicGF0aCI6Ii91Lzc4MDQ1MzUifQ.jfvFu3pDkWbfgRtcDyMz55bPtF2mqmqQadXiY2_IAJ0&s=72&u=f72443a69997a52868e52b5663b69e0dd7b5bddc&v=4" width="24" alt="Avatar of Desgard"/> Desgard
+				<img src="https://private-avatars.githubusercontent.com/u/7804535?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5NjAsIm5iZiI6MTczNDU2OTc2MCwicGF0aCI6Ii91Lzc4MDQ1MzUifQ.8Kd_0zLUBcryeRUpq9sovABBruXSZc5YFzTkT575Mec&s=72&u=f72443a69997a52868e52b5663b69e0dd7b5bddc&v=4" width="24" alt="Avatar of Desgard"/> Desgard
 			</a><br/>
 			Gua
 		</td>
@@ -8768,10 +8781,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>667</td>
+		<td>668</td>
 		<td>
 			<a target="_blank" href="https://github.com/soskek">
-				<img src="https://private-avatars.githubusercontent.com/u/9245278?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1MjAsIm5iZiI6MTczNDQ2MDMyMCwicGF0aCI6Ii91LzkyNDUyNzgifQ.W4P0FVlRDas9AMHDSTwaBJLGAWaJ3PKsU5h1GonYKjc&s=72&v=4" width="24" alt="Avatar of soskek"/> soskek
+				<img src="https://private-avatars.githubusercontent.com/u/9245278?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzMjAsIm5iZiI6MTczNDU3MDEyMCwicGF0aCI6Ii91LzkyNDUyNzgifQ.qi3etQuP80vCdumofSv7NZ_kxd6ZkmXv8Ir1lj6UShc&s=72&v=4" width="24" alt="Avatar of soskek"/> soskek
 			</a><br/>
 			Sosuke Kobayashi
 		</td>
@@ -8781,10 +8794,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>668</td>
+		<td>669</td>
 		<td>
 			<a target="_blank" href="https://github.com/tagomoris">
-				<img src="https://private-avatars.githubusercontent.com/u/230654?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE2NDAsIm5iZiI6MTczNDQ2MDQ0MCwicGF0aCI6Ii91LzIzMDY1NCJ9.TCJUNZRBvERpp4ysNQVQmmkTwzjEfoWIbhXHfACuAqk&s=72&u=27b60835c5d61e9da56c88518c6ed6ba8bc8c0f6&v=4" width="24" alt="Avatar of tagomoris"/> tagomoris
+				<img src="https://private-avatars.githubusercontent.com/u/230654?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE0NDAsIm5iZiI6MTczNDU3MDI0MCwicGF0aCI6Ii91LzIzMDY1NCJ9.2Gl7mM9ONqikfOoocuNBw1K-ATpON7cpu8FKrpd2YO0&s=72&u=27b60835c5d61e9da56c88518c6ed6ba8bc8c0f6&v=4" width="24" alt="Avatar of tagomoris"/> tagomoris
 			</a><br/>
 			Satoshi Tagomori
 		</td>
@@ -8794,10 +8807,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>669</td>
+		<td>670</td>
 		<td>
 			<a target="_blank" href="https://github.com/sonots">
-				<img src="https://private-avatars.githubusercontent.com/u/2290461?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1ODAsIm5iZiI6MTczNDQ2MDM4MCwicGF0aCI6Ii91LzIyOTA0NjEifQ.hC-M7gPp-2WEEdlDL85hmfA3uGtsPAIZR0cl_xd4Z3Y&s=72&u=f1d56949f58eb68769d9aa6fb9888d95bb398c0b&v=4" width="24" alt="Avatar of sonots"/> sonots
+				<img src="https://private-avatars.githubusercontent.com/u/2290461?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzODAsIm5iZiI6MTczNDU3MDE4MCwicGF0aCI6Ii91LzIyOTA0NjEifQ.bFmAALEsy7N0vAQ0f8_BsKfZu132YoTe_ntoN8_aWek&s=72&u=f1d56949f58eb68769d9aa6fb9888d95bb398c0b&v=4" width="24" alt="Avatar of sonots"/> sonots
 			</a><br/>
 			Naotoshi Seo
 		</td>
@@ -8807,10 +8820,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>670</td>
+		<td>671</td>
 		<td>
 			<a target="_blank" href="https://github.com/kazunori279">
-				<img src="https://private-avatars.githubusercontent.com/u/1623040?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEwNDAsIm5iZiI6MTczNDQ1OTg0MCwicGF0aCI6Ii91LzE2MjMwNDAifQ.QHULboq5hmx_q4WLE03GMc8djQmaPNqJKEOV_XzWRig&s=72&u=8f19d3b95557edd3f939ddeb3afacebdfe6cb87d&v=4" width="24" alt="Avatar of kazunori279"/> kazunori279
+				<img src="https://private-avatars.githubusercontent.com/u/1623040?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA4NDAsIm5iZiI6MTczNDU2OTY0MCwicGF0aCI6Ii91LzE2MjMwNDAifQ.ZZM35lh4_L4tyMise5yj_zD8Z6Fw3usMOyYzE_j_yHM&s=72&u=8f19d3b95557edd3f939ddeb3afacebdfe6cb87d&v=4" width="24" alt="Avatar of kazunori279"/> kazunori279
 			</a><br/>
 			Kaz Sato
 		</td>
@@ -8820,10 +8833,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>671</td>
+		<td>672</td>
 		<td>
 			<a target="_blank" href="https://github.com/ikegami-yukino">
-				<img src="https://private-avatars.githubusercontent.com/u/780831?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1MjAsIm5iZiI6MTczNDQ2MDMyMCwicGF0aCI6Ii91Lzc4MDgzMSJ9.ED7FOmXwNSQrS1b1uHfhZc4n36y9X1oddKt-HQiXpTQ&s=72&u=41cb886c7505a8e6c904013d7046d06ce5985404&v=4" width="24" alt="Avatar of ikegami-yukino"/> ikegami-yukino
+				<img src="https://private-avatars.githubusercontent.com/u/780831?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzMjAsIm5iZiI6MTczNDU3MDEyMCwicGF0aCI6Ii91Lzc4MDgzMSJ9.J3XxL0TwpV9asYW2RauNGGARLtGaK1kiQmSSkZx-PNk&s=72&u=41cb886c7505a8e6c904013d7046d06ce5985404&v=4" width="24" alt="Avatar of ikegami-yukino"/> ikegami-yukino
 			</a><br/>
 			IKEGAMI Yukino
 		</td>
@@ -8833,10 +8846,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>672</td>
+		<td>673</td>
 		<td>
 			<a target="_blank" href="https://github.com/kuy">
-				<img src="https://private-avatars.githubusercontent.com/u/151614?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0NjAsIm5iZiI6MTczNDQ2MDI2MCwicGF0aCI6Ii91LzE1MTYxNCJ9.vKvAlQsaaedHgAXKPI6x923ZxGOBmMZBEDqJ4uci4pM&s=72&v=4" width="24" alt="Avatar of kuy"/> kuy
+				<img src="https://private-avatars.githubusercontent.com/u/151614?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyNjAsIm5iZiI6MTczNDU3MDA2MCwicGF0aCI6Ii91LzE1MTYxNCJ9.WKH9F154grrhXBdFPExv_1STxcv5A62zAJ7KfyY9ZIA&s=72&v=4" width="24" alt="Avatar of kuy"/> kuy
 			</a><br/>
 			Yuki Kodama
 		</td>
@@ -8846,10 +8859,23 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>36</td>
 	</tr>
 	<tr>
-		<td>673</td>
+		<td>674</td>
+		<td>
+			<a target="_blank" href="https://github.com/deatiger">
+				<img src="https://private-avatars.githubusercontent.com/u/32066680?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE2MjAsIm5iZiI6MTczNDU3MDQyMCwicGF0aCI6Ii91LzMyMDY2NjgwIn0.LUlfj6AoRn4tATguu6C28v4Ny7nmDj-N3Z6eUknKrg4&s=72&u=ea084c2ae0219c985c658c9464bda507f4a959af&v=4" width="24" alt="Avatar of deatiger"/> deatiger
+			</a><br/>
+			deatiger
+		</td>
+		<td>Toraco Inc </td>
+		<td><a target="_blank" href="https://twitter.com/torahack_">torahack_</a></td>
+		<td>Tokyo Japan</td>
+		<td>35</td>
+	</tr>
+	<tr>
+		<td>675</td>
 		<td>
 			<a target="_blank" href="https://github.com/JiaLiPassion">
-				<img src="https://private-avatars.githubusercontent.com/u/1442575?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE4ODAsIm5iZiI6MTczNDQ2MDY4MCwicGF0aCI6Ii91LzE0NDI1NzUifQ.Fqr-3aeBIPBPOki1uDaIM-hAdC4djE27Q2zBE9sc0iM&s=72&u=2647e2415af92fd9de92b16e702ac842dc143f89&v=4" width="24" alt="Avatar of JiaLiPassion"/> JiaLiPassion
+				<img src="https://private-avatars.githubusercontent.com/u/1442575?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE2ODAsIm5iZiI6MTczNDU3MDQ4MCwicGF0aCI6Ii91LzE0NDI1NzUifQ.kN1k4L4d-9_CLLFQrGG2h_cCWyAP0lG5GvlmgoWACd4&s=72&u=2647e2415af92fd9de92b16e702ac842dc143f89&v=4" width="24" alt="Avatar of JiaLiPassion"/> JiaLiPassion
 			</a><br/>
 			JiaLiPassion
 		</td>
@@ -8859,10 +8885,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>35</td>
 	</tr>
 	<tr>
-		<td>674</td>
+		<td>676</td>
 		<td>
 			<a target="_blank" href="https://github.com/BrambleXu">
-				<img src="https://private-avatars.githubusercontent.com/u/10768193?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExNjAsIm5iZiI6MTczNDQ1OTk2MCwicGF0aCI6Ii91LzEwNzY4MTkzIn0.jI1z0V6zIrnVQO2hk1erhm377igLvBiwb7Z3KNMZpgk&s=72&u=aca826ab60fcdad342a55cd9eedb1977c69b8dff&v=4" width="24" alt="Avatar of BrambleXu"/> BrambleXu
+				<img src="https://private-avatars.githubusercontent.com/u/10768193?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5NjAsIm5iZiI6MTczNDU2OTc2MCwicGF0aCI6Ii91LzEwNzY4MTkzIn0.9lcY3Vt3nnnivDlbaENRpJUBGPa6xrSA22fEJ5IK54s&s=72&u=aca826ab60fcdad342a55cd9eedb1977c69b8dff&v=4" width="24" alt="Avatar of BrambleXu"/> BrambleXu
 			</a><br/>
 			BrambleXu
 		</td>
@@ -8872,10 +8898,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>675</td>
+		<td>677</td>
 		<td>
 			<a target="_blank" href="https://github.com/xerpi">
-				<img src="https://private-avatars.githubusercontent.com/u/560596?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0NjAsIm5iZiI6MTczNDQ2MDI2MCwicGF0aCI6Ii91LzU2MDU5NiJ9.Bbz3w_8n2OlvSSDPwC9Pf7f461-8wWK8GHDODDSQUAc&s=72&u=69839b4b5f81ab794651e83a43173f966d59a7cc&v=4" width="24" alt="Avatar of xerpi"/> xerpi
+				<img src="https://private-avatars.githubusercontent.com/u/560596?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyNjAsIm5iZiI6MTczNDU3MDA2MCwicGF0aCI6Ii91LzU2MDU5NiJ9.vdsh-dg4VFbaa6QV-0axlia3LezXuXCRUubQt1gG7GE&s=72&u=69839b4b5f81ab794651e83a43173f966d59a7cc&v=4" width="24" alt="Avatar of xerpi"/> xerpi
 			</a><br/>
 			Sergi Granell
 		</td>
@@ -8885,10 +8911,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>676</td>
+		<td>678</td>
 		<td>
 			<a target="_blank" href="https://github.com/hirocaster">
-				<img src="https://private-avatars.githubusercontent.com/u/122881?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE4MjAsIm5iZiI6MTczNDQ2MDYyMCwicGF0aCI6Ii91LzEyMjg4MSJ9.85hCy6pS1xnGmJQ_Ac_o_xu-V4ttBRdnNFcukDeT528&s=72&u=ce3afae4b2b20ce5192d8858a510c08eb233f68d&v=4" width="24" alt="Avatar of hirocaster"/> hirocaster
+				<img src="https://private-avatars.githubusercontent.com/u/122881?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE2MjAsIm5iZiI6MTczNDU3MDQyMCwicGF0aCI6Ii91LzEyMjg4MSJ9.QBd42bBRF3W8d6OtG-xYaPswvPeQ1iME9beaz_YzKbg&s=72&u=ce3afae4b2b20ce5192d8858a510c08eb233f68d&v=4" width="24" alt="Avatar of hirocaster"/> hirocaster
 			</a><br/>
 			Hiroki OHTSUKA
 		</td>
@@ -8898,23 +8924,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>677</td>
-		<td>
-			<a target="_blank" href="https://github.com/deatiger">
-				<img src="https://private-avatars.githubusercontent.com/u/32066680?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE4MjAsIm5iZiI6MTczNDQ2MDYyMCwicGF0aCI6Ii91LzMyMDY2NjgwIn0.GBAv26Ty_batE5-t2OwMvQT7WjD5nHCGuAmGuTibAWo&s=72&u=ea084c2ae0219c985c658c9464bda507f4a959af&v=4" width="24" alt="Avatar of deatiger"/> deatiger
-			</a><br/>
-			deatiger
-		</td>
-		<td>Toraco Inc </td>
-		<td><a target="_blank" href="https://twitter.com/torahack_">torahack_</a></td>
-		<td>Tokyo Japan</td>
-		<td>34</td>
-	</tr>
-	<tr>
-		<td>678</td>
+		<td>679</td>
 		<td>
 			<a target="_blank" href="https://github.com/bb-qq">
-				<img src="https://private-avatars.githubusercontent.com/u/4240463?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEzNDAsIm5iZiI6MTczNDQ2MDE0MCwicGF0aCI6Ii91LzQyNDA0NjMifQ.eV3kws9LqtaXxd-E1nvldpdvYsrNyZ96ZmV1FeDZ_uc&s=72&v=4" width="24" alt="Avatar of bb-qq"/> bb-qq
+				<img src="https://private-avatars.githubusercontent.com/u/4240463?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzExNDAsIm5iZiI6MTczNDU2OTk0MCwicGF0aCI6Ii91LzQyNDA0NjMifQ.ZzCQf7sjmZ6idYRFwzGwBgvVQQFN1K_ZP6XKvHyqMuM&s=72&v=4" width="24" alt="Avatar of bb-qq"/> bb-qq
 			</a><br/>
 			No Name
 		</td>
@@ -8924,10 +8937,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>34</td>
 	</tr>
 	<tr>
-		<td>679</td>
+		<td>680</td>
 		<td>
 			<a target="_blank" href="https://github.com/jfbastien">
-				<img src="https://private-avatars.githubusercontent.com/u/298127?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0MDAsIm5iZiI6MTczNDQ2MDIwMCwicGF0aCI6Ii91LzI5ODEyNyJ9.UoFGMQc_Nj7o-JxLr9-_s4A82hU5WrBiGxDR2e2AJKs&s=72&u=ec416d2c043aa20be82a6d0c15ded17aaf6a9d4b&v=4" width="24" alt="Avatar of jfbastien"/> jfbastien
+				<img src="https://private-avatars.githubusercontent.com/u/298127?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyMDAsIm5iZiI6MTczNDU3MDAwMCwicGF0aCI6Ii91LzI5ODEyNyJ9.f6jraRtGmnS47QPU8GvtAZKJlt-feJwdbdT9Svcm9jI&s=72&u=ec416d2c043aa20be82a6d0c15ded17aaf6a9d4b&v=4" width="24" alt="Avatar of jfbastien"/> jfbastien
 			</a><br/>
 			JF Bastien
 		</td>
@@ -8937,10 +8950,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>33</td>
 	</tr>
 	<tr>
-		<td>680</td>
+		<td>681</td>
 		<td>
 			<a target="_blank" href="https://github.com/hiyohiyo">
-				<img src="https://private-avatars.githubusercontent.com/u/3816714?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0NjAsIm5iZiI6MTczNDQ2MDI2MCwicGF0aCI6Ii91LzM4MTY3MTQifQ.BcgiPb590To8on0PSE8dB9hNbDXLbJ3ajK97rRIyHIw&s=72&u=b80bc7a4529aa98e166795d8d8f7e9adf66309b4&v=4" width="24" alt="Avatar of hiyohiyo"/> hiyohiyo
+				<img src="https://private-avatars.githubusercontent.com/u/3816714?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyNjAsIm5iZiI6MTczNDU3MDA2MCwicGF0aCI6Ii91LzM4MTY3MTQifQ.J2oA8gNVhKo5LC3GodR7xOj6iCsLSI7-dvq2yrrNinA&s=72&u=b80bc7a4529aa98e166795d8d8f7e9adf66309b4&v=4" width="24" alt="Avatar of hiyohiyo"/> hiyohiyo
 			</a><br/>
 			Noriyuki Miyazaki
 		</td>
@@ -8950,10 +8963,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>681</td>
+		<td>682</td>
 		<td>
 			<a target="_blank" href="https://github.com/JDDKCN">
-				<img src="https://private-avatars.githubusercontent.com/u/103011451?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1MjAsIm5iZiI6MTczNDQ2MDMyMCwicGF0aCI6Ii91LzEwMzAxMTQ1MSJ9.99FgbzbG_1_rrrpjsXwTZBJTzBUtkDRF3Z3pO5KteHI&s=72&u=e28f4be13eeef08b8f47cb32e2609a9b74faf847&v=4" width="24" alt="Avatar of JDDKCN"/> JDDKCN
+				<img src="https://private-avatars.githubusercontent.com/u/103011451?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzMjAsIm5iZiI6MTczNDU3MDEyMCwicGF0aCI6Ii91LzEwMzAxMTQ1MSJ9.jOFbi7SPxeC7KozH-3LraR7Uu3AkLp6CCc2W156zqAk&s=72&u=e28f4be13eeef08b8f47cb32e2609a9b74faf847&v=4" width="24" alt="Avatar of JDDKCN"/> JDDKCN
 			</a><br/>
 			KCN
 		</td>
@@ -8963,10 +8976,23 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>682</td>
+		<td>683</td>
+		<td>
+			<a target="_blank" href="https://github.com/lotz84">
+				<img src="https://private-avatars.githubusercontent.com/u/7668186?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE0NDAsIm5iZiI6MTczNDU3MDI0MCwicGF0aCI6Ii91Lzc2NjgxODYifQ.-7Psg-PL7Ue6gzMY_PQbP5vt_8b5fWJhtfn2NtOox9s&s=72&u=f9f0b40e8a68a2adfa94bd5dc7031b9c13fabcb8&v=4" width="24" alt="Avatar of lotz84"/> lotz84
+			</a><br/>
+			Tatsuya Hirose
+		</td>
+		<td>Folio </td>
+		<td>No Twitter Username</td>
+		<td>Hanzomon Tokyo JAPAN</td>
+		<td>32</td>
+	</tr>
+	<tr>
+		<td>684</td>
 		<td>
 			<a target="_blank" href="https://github.com/andriiginting">
-				<img src="https://private-avatars.githubusercontent.com/u/22597869?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExNjAsIm5iZiI6MTczNDQ1OTk2MCwicGF0aCI6Ii91LzIyNTk3ODY5In0.1UYGg-aAd8-ZXD5NE0FHgHTy1labaQKrb0hmGRJYYeI&s=72&u=cd6bcaac30538519dc406533872a7e4c03559095&v=4" width="24" alt="Avatar of andriiginting"/> andriiginting
+				<img src="https://private-avatars.githubusercontent.com/u/22597869?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5NjAsIm5iZiI6MTczNDU2OTc2MCwicGF0aCI6Ii91LzIyNTk3ODY5In0.Yq9mXIYfTbQWybFeYaDHX8qWSzNBALb1smMzlecWsuk&s=72&u=cd6bcaac30538519dc406533872a7e4c03559095&v=4" width="24" alt="Avatar of andriiginting"/> andriiginting
 			</a><br/>
 			Andri Ginting
 		</td>
@@ -8976,10 +9002,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>683</td>
+		<td>685</td>
 		<td>
 			<a target="_blank" href="https://github.com/falood">
-				<img src="https://private-avatars.githubusercontent.com/u/184053?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjIxODAsIm5iZiI6MTczNDQ2MDk4MCwicGF0aCI6Ii91LzE4NDA1MyJ9.u24_UnKLJCInhFDEcaebrpJKDHipGgDovdHOO2C3UxM&s=72&u=c7cfef4081ccae71e535311571a1c5199f96ea7a&v=4" width="24" alt="Avatar of falood"/> falood
+				<img src="https://private-avatars.githubusercontent.com/u/184053?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwODAsIm5iZiI6MTczNDU2OTg4MCwicGF0aCI6Ii91LzE4NDA1MyJ9.RvHqu8lX4vHx0TRrfwIxpsH3yay3CnNLOyDWflkOL0c&s=72&u=c7cfef4081ccae71e535311571a1c5199f96ea7a&v=4" width="24" alt="Avatar of falood"/> falood
 			</a><br/>
 			Falood Hao
 		</td>
@@ -8989,10 +9015,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>32</td>
 	</tr>
 	<tr>
-		<td>684</td>
+		<td>686</td>
 		<td>
 			<a target="_blank" href="https://github.com/predominant">
-				<img src="https://private-avatars.githubusercontent.com/u/24568?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExMDAsIm5iZiI6MTczNDQ1OTkwMCwicGF0aCI6Ii91LzI0NTY4In0.aaG-jGeEnu28LpB9_ZUtDKRr3SSP-uUtmf-s4Hsp6tQ&s=72&v=4" width="24" alt="Avatar of predominant"/> predominant
+				<img src="https://private-avatars.githubusercontent.com/u/24568?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5MDAsIm5iZiI6MTczNDU2OTcwMCwicGF0aCI6Ii91LzI0NTY4In0.YFgX9oti64gYDmG8QwkEFOGuIimRqYqVdzCOiopvLIY&s=72&v=4" width="24" alt="Avatar of predominant"/> predominant
 			</a><br/>
 			Graham Weldon
 		</td>
@@ -9002,23 +9028,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>685</td>
-		<td>
-			<a target="_blank" href="https://github.com/lotz84">
-				<img src="https://private-avatars.githubusercontent.com/u/7668186?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE2NDAsIm5iZiI6MTczNDQ2MDQ0MCwicGF0aCI6Ii91Lzc2NjgxODYifQ.oWNOvSP9I4Wn8Am7oSv2dfecstO90qX9HAv9lQSeFx8&s=72&u=f9f0b40e8a68a2adfa94bd5dc7031b9c13fabcb8&v=4" width="24" alt="Avatar of lotz84"/> lotz84
-			</a><br/>
-			Tatsuya Hirose
-		</td>
-		<td>Folio </td>
-		<td>No Twitter Username</td>
-		<td>Hanzomon Tokyo JAPAN</td>
-		<td>31</td>
-	</tr>
-	<tr>
-		<td>686</td>
+		<td>687</td>
 		<td>
 			<a target="_blank" href="https://github.com/okuryu">
-				<img src="https://private-avatars.githubusercontent.com/u/34588?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3NjAsIm5iZiI6MTczNDQ2MDU2MCwicGF0aCI6Ii91LzM0NTg4In0.pPWOnS2ytceTV3JZa4Z9jDNpg5iAqv7JYknA-xL0tfA&s=72&u=525e8712d38b08ad40a4a79d24b28031c40a2e94&v=4" width="24" alt="Avatar of okuryu"/> okuryu
+				<img src="https://private-avatars.githubusercontent.com/u/34588?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1NjAsIm5iZiI6MTczNDU3MDM2MCwicGF0aCI6Ii91LzM0NTg4In0.DkBW0ZnsLFx4kUqc7m0-ZrHGLI5eU5xPlyWmdhd3oo4&s=72&u=525e8712d38b08ad40a4a79d24b28031c40a2e94&v=4" width="24" alt="Avatar of okuryu"/> okuryu
 			</a><br/>
 			Ryuichi Okumura
 		</td>
@@ -9028,10 +9041,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>687</td>
+		<td>688</td>
 		<td>
 			<a target="_blank" href="https://github.com/yujiosaka">
-				<img src="https://private-avatars.githubusercontent.com/u/2261067?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3NjAsIm5iZiI6MTczNDQ2MDU2MCwicGF0aCI6Ii91LzIyNjEwNjcifQ.M6q_NnKz3p89IYsC2P6176TAAwruWlEz-6qwxwAP9lM&s=72&u=65289216fa6e896d4c00eab96d8dd92f1bf054cf&v=4" width="24" alt="Avatar of yujiosaka"/> yujiosaka
+				<img src="https://private-avatars.githubusercontent.com/u/2261067?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1NjAsIm5iZiI6MTczNDU3MDM2MCwicGF0aCI6Ii91LzIyNjEwNjcifQ.BVU7Z0VUTZ_n9bbeqq9-bLUrxX5jy8kNw6G28SkxWlc&s=72&u=65289216fa6e896d4c00eab96d8dd92f1bf054cf&v=4" width="24" alt="Avatar of yujiosaka"/> yujiosaka
 			</a><br/>
 			yujiosaka
 		</td>
@@ -9041,10 +9054,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>31</td>
 	</tr>
 	<tr>
-		<td>688</td>
+		<td>689</td>
 		<td>
 			<a target="_blank" href="https://github.com/mysticatea">
-				<img src="https://private-avatars.githubusercontent.com/u/1937871?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExNjAsIm5iZiI6MTczNDQ1OTk2MCwicGF0aCI6Ii91LzE5Mzc4NzEifQ.v8NPRxt4Kk5QepbUtlU1DSF6Y-p-eo0op12RT9_HpkU&s=72&v=4" width="24" alt="Avatar of mysticatea"/> mysticatea
+				<img src="https://private-avatars.githubusercontent.com/u/1937871?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5NjAsIm5iZiI6MTczNDU2OTc2MCwicGF0aCI6Ii91LzE5Mzc4NzEifQ.QgRp0bP3b-JEbhEF7YvokMZkGv0dgtHSqegkI6j-vR8&s=72&v=4" width="24" alt="Avatar of mysticatea"/> mysticatea
 			</a><br/>
 			Toru Nagashima
 		</td>
@@ -9054,10 +9067,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>689</td>
+		<td>690</td>
 		<td>
 			<a target="_blank" href="https://github.com/kakutani">
-				<img src="https://private-avatars.githubusercontent.com/u/2160?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA5MjAsIm5iZiI6MTczNDQ1OTcyMCwicGF0aCI6Ii91LzIxNjAifQ.QWYOXEqqW5SCBG617ftqUuro9_Lgr4PGkpkSpflj9t8&s=72&u=3db2e52406a721cc38a560a52d9fa5fb7cc39f59&v=4" width="24" alt="Avatar of kakutani"/> kakutani
+				<img src="https://private-avatars.githubusercontent.com/u/2160?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA3MjAsIm5iZiI6MTczNDU2OTUyMCwicGF0aCI6Ii91LzIxNjAifQ.6B3oYiAgNgMZR9nHBKGynwabpFj_HsyGFP7ElgYfEqQ&s=72&u=3db2e52406a721cc38a560a52d9fa5fb7cc39f59&v=4" width="24" alt="Avatar of kakutani"/> kakutani
 			</a><br/>
 			Kakutani Shintaro
 		</td>
@@ -9067,10 +9080,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>690</td>
+		<td>691</td>
 		<td>
 			<a target="_blank" href="https://github.com/yuichiroaoki">
-				<img src="https://private-avatars.githubusercontent.com/u/45054071?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE4MjAsIm5iZiI6MTczNDQ2MDYyMCwicGF0aCI6Ii91LzQ1MDU0MDcxIn0.t6CHg45rVpqvRMsm_qv1QOPkDrnPfwhF0ESOkAX4fMM&s=72&u=f8adae15ec8908ec180cc4ff63542bc3733b8e01&v=4" width="24" alt="Avatar of yuichiroaoki"/> yuichiroaoki
+				<img src="https://private-avatars.githubusercontent.com/u/45054071?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA3MjAsIm5iZiI6MTczNDU2OTUyMCwicGF0aCI6Ii91LzQ1MDU0MDcxIn0.M2uwM7Ids5dxLHf4dO0RdZPskhSaKr75dutAz849nSg&s=72&u=f8adae15ec8908ec180cc4ff63542bc3733b8e01&v=4" width="24" alt="Avatar of yuichiroaoki"/> yuichiroaoki
 			</a><br/>
 			Yuichiro Aoki
 		</td>
@@ -9080,10 +9093,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>691</td>
+		<td>692</td>
 		<td>
 			<a target="_blank" href="https://github.com/yutopp">
-				<img src="https://private-avatars.githubusercontent.com/u/219797?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE4MjAsIm5iZiI6MTczNDQ2MDYyMCwicGF0aCI6Ii91LzIxOTc5NyJ9.aFkvFol-Ec7ZkiUivr1BKeeK9CKfPLCF1Wqb9XS27O0&s=72&u=91ea0608d9a62c8edf1ca7efe10761bd2f0b4cba&v=4" width="24" alt="Avatar of yutopp"/> yutopp
+				<img src="https://private-avatars.githubusercontent.com/u/219797?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE2MjAsIm5iZiI6MTczNDU3MDQyMCwicGF0aCI6Ii91LzIxOTc5NyJ9.ZOKEZkO3IWplEI6TmBzePtSqYjFDLJMfeF4vpjnbyYE&s=72&u=91ea0608d9a62c8edf1ca7efe10761bd2f0b4cba&v=4" width="24" alt="Avatar of yutopp"/> yutopp
 			</a><br/>
 			yutopp
 		</td>
@@ -9093,10 +9106,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>692</td>
+		<td>693</td>
 		<td>
 			<a target="_blank" href="https://github.com/MaxMEllon">
-				<img src="https://private-avatars.githubusercontent.com/u/9594376?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEzNDAsIm5iZiI6MTczNDQ2MDE0MCwicGF0aCI6Ii91Lzk1OTQzNzYifQ.4daE_30UnVS03Czl3knIDXpZxkj8S_mWS1eIJLqqd0M&s=72&u=1400c767a884cb477d3419ced08803dc4dcb12f5&v=4" width="24" alt="Avatar of MaxMEllon"/> MaxMEllon
+				<img src="https://private-avatars.githubusercontent.com/u/9594376?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzExNDAsIm5iZiI6MTczNDU2OTk0MCwicGF0aCI6Ii91Lzk1OTQzNzYifQ.FgR5He6Yq6hwuqrBGdgwMGbhFdbyw29Pa1bE2tVAoEY&s=72&u=1400c767a884cb477d3419ced08803dc4dcb12f5&v=4" width="24" alt="Avatar of MaxMEllon"/> MaxMEllon
 			</a><br/>
 			Kento TSUJI
 		</td>
@@ -9106,10 +9119,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>693</td>
+		<td>694</td>
 		<td>
 			<a target="_blank" href="https://github.com/silverskyvicto">
-				<img src="https://private-avatars.githubusercontent.com/u/3609003?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE5NDAsIm5iZiI6MTczNDQ2MDc0MCwicGF0aCI6Ii91LzM2MDkwMDMifQ.ugOmvwRaLt0xABl7NrsFzrS_LEVUsGntgNqzPLUjdEU&s=72&u=1c11a80012fad280d373f8b9c23fda57ab88f726&v=4" width="24" alt="Avatar of silverskyvicto"/> silverskyvicto
+				<img src="https://private-avatars.githubusercontent.com/u/3609003?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE3NDAsIm5iZiI6MTczNDU3MDU0MCwicGF0aCI6Ii91LzM2MDkwMDMifQ.vmmpb2j73nBcEIBL_fpsgBSLbac6UL_rb9JCd4M5XnM&s=72&u=1c11a80012fad280d373f8b9c23fda57ab88f726&v=4" width="24" alt="Avatar of silverskyvicto"/> silverskyvicto
 			</a><br/>
 			Yuuki Ebihara
 		</td>
@@ -9119,10 +9132,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>30</td>
 	</tr>
 	<tr>
-		<td>694</td>
+		<td>695</td>
 		<td>
 			<a target="_blank" href="https://github.com/yasutakatou">
-				<img src="https://private-avatars.githubusercontent.com/u/22161385?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1MjAsIm5iZiI6MTczNDQ2MDMyMCwicGF0aCI6Ii91LzIyMTYxMzg1In0.ZKPTYonppoTVSfnElTrWVho_x5LDv0CRdRlTUNdyNH8&s=72&u=6b5cb0f85e2dae4f8792f0f8d278b8f84f221ee0&v=4" width="24" alt="Avatar of yasutakatou"/> yasutakatou
+				<img src="https://private-avatars.githubusercontent.com/u/22161385?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzMjAsIm5iZiI6MTczNDU3MDEyMCwicGF0aCI6Ii91LzIyMTYxMzg1In0.EXdJKGm-x2SPUPGq-b5QmDTDQZAVXPm6IlLc65zZYPc&s=72&u=6b5cb0f85e2dae4f8792f0f8d278b8f84f221ee0&v=4" width="24" alt="Avatar of yasutakatou"/> yasutakatou
 			</a><br/>
 			Yasutaka Kato
 		</td>
@@ -9132,10 +9145,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>695</td>
+		<td>696</td>
 		<td>
 			<a target="_blank" href="https://github.com/dav009">
-				<img src="https://private-avatars.githubusercontent.com/u/1659415?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0NjAsIm5iZiI6MTczNDQ2MDI2MCwicGF0aCI6Ii91LzE2NTk0MTUifQ.QMG03IjEU93ILUUua-FmCwh9RbXav69A6d3GeN09-zA&s=72&u=6c1ae56f9439a0cb71ffc67b72fa25dab44fc339&v=4" width="24" alt="Avatar of dav009"/> dav009
+				<img src="https://private-avatars.githubusercontent.com/u/1659415?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyNjAsIm5iZiI6MTczNDU3MDA2MCwicGF0aCI6Ii91LzE2NTk0MTUifQ.mrrr0WW2-wkDx9Q9vCHzXgGdomAkdOtZKBSCjgVzcjY&s=72&u=6c1ae56f9439a0cb71ffc67b72fa25dab44fc339&v=4" width="24" alt="Avatar of dav009"/> dav009
 			</a><br/>
 			David Przybilla
 		</td>
@@ -9145,10 +9158,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>696</td>
+		<td>697</td>
 		<td>
 			<a target="_blank" href="https://github.com/shspage">
-				<img src="https://private-avatars.githubusercontent.com/u/3269510?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3MDAsIm5iZiI6MTczNDQ2MDUwMCwicGF0aCI6Ii91LzMyNjk1MTAifQ.aAKUSX41mvPB8YP0pWwivrjpRLZ9fyy2_x6acsqdhEs&s=72&v=4" width="24" alt="Avatar of shspage"/> shspage
+				<img src="https://private-avatars.githubusercontent.com/u/3269510?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1MDAsIm5iZiI6MTczNDU3MDMwMCwicGF0aCI6Ii91LzMyNjk1MTAifQ.XwVIrOfClYn6JMhjnS6SA4yn6L21hgXkQshJqLMU8BY&s=72&v=4" width="24" alt="Avatar of shspage"/> shspage
 			</a><br/>
 			Hiroyuki Sato
 		</td>
@@ -9158,10 +9171,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>29</td>
 	</tr>
 	<tr>
-		<td>697</td>
+		<td>698</td>
 		<td>
 			<a target="_blank" href="https://github.com/wheatup">
-				<img src="https://private-avatars.githubusercontent.com/u/6663691?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEzNDAsIm5iZiI6MTczNDQ2MDE0MCwicGF0aCI6Ii91LzY2NjM2OTEifQ.8dCmY9cFmZ9wy7qFgUMF1lbmWM15YvoZITOb0huT33Y&s=72&u=65e37d13323928601a162844ad10a3c54a29ad0f&v=4" width="24" alt="Avatar of wheatup"/> wheatup
+				<img src="https://private-avatars.githubusercontent.com/u/6663691?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzExNDAsIm5iZiI6MTczNDU2OTk0MCwicGF0aCI6Ii91LzY2NjM2OTEifQ.eFevlrzwITWTPdQA_1kBj2h_1zDRluGWmrQwwg9nQFo&s=72&u=65e37d13323928601a162844ad10a3c54a29ad0f&v=4" width="24" alt="Avatar of wheatup"/> wheatup
 			</a><br/>
 			No Name
 		</td>
@@ -9171,10 +9184,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>28</td>
 	</tr>
 	<tr>
-		<td>698</td>
+		<td>699</td>
 		<td>
 			<a target="_blank" href="https://github.com/repeatedly">
-				<img src="https://private-avatars.githubusercontent.com/u/16928?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExNjAsIm5iZiI6MTczNDQ1OTk2MCwicGF0aCI6Ii91LzE2OTI4In0.RBiMjPkszhhcHdalNkulhtS88BaKjCybt7O2ZNhWOM8&s=72&v=4" width="24" alt="Avatar of repeatedly"/> repeatedly
+				<img src="https://private-avatars.githubusercontent.com/u/16928?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5NjAsIm5iZiI6MTczNDU2OTc2MCwicGF0aCI6Ii91LzE2OTI4In0.KmUzcelkkFyYgrYTvH2m-h_a6QMCjrQuB4RYc9YDA84&s=72&v=4" width="24" alt="Avatar of repeatedly"/> repeatedly
 			</a><br/>
 			Masahiro Nakagawa
 		</td>
@@ -9184,10 +9197,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>699</td>
+		<td>700</td>
 		<td>
 			<a target="_blank" href="https://github.com/ysds">
-				<img src="https://private-avatars.githubusercontent.com/u/4065765?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyMjAsIm5iZiI6MTczNDQ2MDAyMCwicGF0aCI6Ii91LzQwNjU3NjUifQ.VHx4-4Wy_cA1bjK8zYggIstIlSLINnzSGcbSJQpk2iY&s=72&u=fd1215dedd121ac28a220163b047fc88193856b0&v=4" width="24" alt="Avatar of ysds"/> ysds
+				<img src="https://private-avatars.githubusercontent.com/u/4065765?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwMjAsIm5iZiI6MTczNDU2OTgyMCwicGF0aCI6Ii91LzQwNjU3NjUifQ.PwO2-lT1lLZUnx8ASru5D2fvcNBrh8H9UnJvFilLKuo&s=72&u=fd1215dedd121ac28a220163b047fc88193856b0&v=4" width="24" alt="Avatar of ysds"/> ysds
 			</a><br/>
 			Shohei Yoshida
 		</td>
@@ -9197,10 +9210,23 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>700</td>
+		<td>701</td>
+		<td>
+			<a target="_blank" href="https://github.com/bcgameProject">
+				<img src="https://private-avatars.githubusercontent.com/u/34806974?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE0NDAsIm5iZiI6MTczNDU3MDI0MCwicGF0aCI6Ii91LzM0ODA2OTc0In0.h4-I_3-UtpQ8rH26Z7RigpmjVVeHGnV1hksVcFbOu0E&s=72&u=8cc7005d7f63c7a855441b1e7c23e74a60be763e&v=4" width="24" alt="Avatar of bcgameProject"/> bcgameProject
+			</a><br/>
+			emotokayo
+		</td>
+		<td>Studio </td>
+		<td>No Twitter Username</td>
+		<td>tokyo</td>
+		<td>27</td>
+	</tr>
+	<tr>
+		<td>702</td>
 		<td>
 			<a target="_blank" href="https://github.com/philwo">
-				<img src="https://private-avatars.githubusercontent.com/u/504652?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3MDAsIm5iZiI6MTczNDQ2MDUwMCwicGF0aCI6Ii91LzUwNDY1MiJ9.z9hPMZzO_m3-ao_JdNJc4i-sIAZN6hzCRksAptot19I&s=72&u=d76f23f6a15e782072c6df6e945bb2741cc06dfa&v=4" width="24" alt="Avatar of philwo"/> philwo
+				<img src="https://private-avatars.githubusercontent.com/u/504652?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1MDAsIm5iZiI6MTczNDU3MDMwMCwicGF0aCI6Ii91LzUwNDY1MiJ9.Kv2Q1l2WUxn5Giy_86kxFbkvdcIUyo3FycOajd7dYZY&s=72&u=d76f23f6a15e782072c6df6e945bb2741cc06dfa&v=4" width="24" alt="Avatar of philwo"/> philwo
 			</a><br/>
 			Philipp Wollermann
 		</td>
@@ -9210,10 +9236,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>27</td>
 	</tr>
 	<tr>
-		<td>701</td>
+		<td>703</td>
 		<td>
 			<a target="_blank" href="https://github.com/TsingJyujing">
-				<img src="https://private-avatars.githubusercontent.com/u/7792749?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0NjAsIm5iZiI6MTczNDQ2MDI2MCwicGF0aCI6Ii91Lzc3OTI3NDkifQ.fNG7EXat_S_nM4cOiyddE77KEsSDTVhsFqKZXWEk0Bo&s=72&u=692896e1b32d597fa7f605cbb13073f90aab29c1&v=4" width="24" alt="Avatar of TsingJyujing"/> TsingJyujing
+				<img src="https://private-avatars.githubusercontent.com/u/7792749?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyNjAsIm5iZiI6MTczNDU3MDA2MCwicGF0aCI6Ii91Lzc3OTI3NDkifQ.ctamMk3NFDG8aus-cL6Xat8OzEnXgg1U1UaB1xYpYkY&s=72&u=692896e1b32d597fa7f605cbb13073f90aab29c1&v=4" width="24" alt="Avatar of TsingJyujing"/> TsingJyujing
 			</a><br/>
 			Yuan Yifan
 		</td>
@@ -9223,23 +9249,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>702</td>
-		<td>
-			<a target="_blank" href="https://github.com/bcgameProject">
-				<img src="https://private-avatars.githubusercontent.com/u/34806974?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE2NDAsIm5iZiI6MTczNDQ2MDQ0MCwicGF0aCI6Ii91LzM0ODA2OTc0In0.MkH_yM6mtZdRLD-eqCRgQUn0z-x8gZxufh9EpBKsNwY&s=72&u=8cc7005d7f63c7a855441b1e7c23e74a60be763e&v=4" width="24" alt="Avatar of bcgameProject"/> bcgameProject
-			</a><br/>
-			emotokayo
-		</td>
-		<td>Studio </td>
-		<td>No Twitter Username</td>
-		<td>tokyo</td>
-		<td>26</td>
-	</tr>
-	<tr>
-		<td>703</td>
+		<td>704</td>
 		<td>
 			<a target="_blank" href="https://github.com/hppRC">
-				<img src="https://private-avatars.githubusercontent.com/u/48990104?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1ODAsIm5iZiI6MTczNDQ2MDM4MCwicGF0aCI6Ii91LzQ4OTkwMTA0In0.fqppWfba48vSZdFGPq0Mf0Q4AAw-vs2Op16jkB0iYoc&s=72&u=95b652270a2ed806e9e01e33e76cdb5fda5f7bcb&v=4" width="24" alt="Avatar of hppRC"/> hppRC
+				<img src="https://private-avatars.githubusercontent.com/u/48990104?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzODAsIm5iZiI6MTczNDU3MDE4MCwicGF0aCI6Ii91LzQ4OTkwMTA0In0.4PR0YQerHiB-mfsqr08ZiiJFuzFADEC7oV3UBCHyyuA&s=72&u=95b652270a2ed806e9e01e33e76cdb5fda5f7bcb&v=4" width="24" alt="Avatar of hppRC"/> hppRC
 			</a><br/>
 			Hayato Tsukagoshi
 		</td>
@@ -9249,10 +9262,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>704</td>
+		<td>705</td>
 		<td>
 			<a target="_blank" href="https://github.com/o8vm">
-				<img src="https://private-avatars.githubusercontent.com/u/17050637?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE4ODAsIm5iZiI6MTczNDQ2MDY4MCwicGF0aCI6Ii91LzE3MDUwNjM3In0.4n4NgEdrTqEjxkU_jI-KamnDZGciUC7r5CMeoutHnxg&s=72&u=f14995433088ea0a32623759d70409d513a15c2a&v=4" width="24" alt="Avatar of o8vm"/> o8vm
+				<img src="https://private-avatars.githubusercontent.com/u/17050637?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE2ODAsIm5iZiI6MTczNDU3MDQ4MCwicGF0aCI6Ii91LzE3MDUwNjM3In0.j0Ke_Jlkr1R6gMwyKxG3EufDFnO7wqicm4rQkKDJ98c&s=72&u=f14995433088ea0a32623759d70409d513a15c2a&v=4" width="24" alt="Avatar of o8vm"/> o8vm
 			</a><br/>
 			Hayato Ohhashi
 		</td>
@@ -9262,10 +9275,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>705</td>
+		<td>706</td>
 		<td>
 			<a target="_blank" href="https://github.com/gogotanaka">
-				<img src="https://private-avatars.githubusercontent.com/u/5266933?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE4ODAsIm5iZiI6MTczNDQ2MDY4MCwicGF0aCI6Ii91LzUyNjY5MzMifQ.jzkpyrxFsfw92W1KHz2DJKwOIRrgKCpiejHhJx-P9yc&s=72&u=1d2a33a3e8483111ea62b9cff6f65f801872b29a&v=4" width="24" alt="Avatar of gogotanaka"/> gogotanaka
+				<img src="https://private-avatars.githubusercontent.com/u/5266933?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE2ODAsIm5iZiI6MTczNDU3MDQ4MCwicGF0aCI6Ii91LzUyNjY5MzMifQ.3uXJ96gN6Nhw0ac41NbIvce7njkvRA_riVDa5Y8_LOY&s=72&u=1d2a33a3e8483111ea62b9cff6f65f801872b29a&v=4" width="24" alt="Avatar of gogotanaka"/> gogotanaka
 			</a><br/>
 			Kazuki Tanaka
 		</td>
@@ -9275,10 +9288,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>706</td>
+		<td>707</td>
 		<td>
 			<a target="_blank" href="https://github.com/SauceCat">
-				<img src="https://private-avatars.githubusercontent.com/u/15652756?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1ODAsIm5iZiI6MTczNDQ2MDM4MCwicGF0aCI6Ii91LzE1NjUyNzU2In0.55S269B7J38OF7-s096arlLAXO3xqH08XD61tj-hecY&s=72&u=e99a8ce05423d09c44c6540fc13b16983a743eb3&v=4" width="24" alt="Avatar of SauceCat"/> SauceCat
+				<img src="https://private-avatars.githubusercontent.com/u/15652756?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzODAsIm5iZiI6MTczNDU3MDE4MCwicGF0aCI6Ii91LzE1NjUyNzU2In0.rAxO8X9TRmoY1b9MZotSPdFLfgfegp5QBj3_tLGtzIc&s=72&u=e99a8ce05423d09c44c6540fc13b16983a743eb3&v=4" width="24" alt="Avatar of SauceCat"/> SauceCat
 			</a><br/>
 			Li Jiangchun
 		</td>
@@ -9288,10 +9301,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>26</td>
 	</tr>
 	<tr>
-		<td>707</td>
+		<td>708</td>
 		<td>
 			<a target="_blank" href="https://github.com/Hironsan">
-				<img src="https://private-avatars.githubusercontent.com/u/6737785?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEzNDAsIm5iZiI6MTczNDQ2MDE0MCwicGF0aCI6Ii91LzY3Mzc3ODUifQ.kRp3kFEHqlaaLBBuTsx4MFV-hXv4k-lgsZcNxHYHW1c&s=72&u=052d94c2d265c74806e59eb22fe39ece849f91f8&v=4" width="24" alt="Avatar of Hironsan"/> Hironsan
+				<img src="https://private-avatars.githubusercontent.com/u/6737785?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzExNDAsIm5iZiI6MTczNDU2OTk0MCwicGF0aCI6Ii91LzY3Mzc3ODUifQ.aOA-7R1yu-OtkpLKv4IVcgCb-TKxwbD-MlZgx70nSWU&s=72&u=052d94c2d265c74806e59eb22fe39ece849f91f8&v=4" width="24" alt="Avatar of Hironsan"/> Hironsan
 			</a><br/>
 			Hiroki Nakayama
 		</td>
@@ -9301,10 +9314,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>25</td>
 	</tr>
 	<tr>
-		<td>708</td>
+		<td>709</td>
 		<td>
 			<a target="_blank" href="https://github.com/Santos-Enoque">
-				<img src="https://private-avatars.githubusercontent.com/u/37243334?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExNjAsIm5iZiI6MTczNDQ1OTk2MCwicGF0aCI6Ii91LzM3MjQzMzM0In0.Oq6wATL4FjRwwSNZ9hNg1_UWVITXhfvyYQIEBubbG-s&s=72&u=d9d19c70ad3f076a16225ffdb23e71a6bb5a7351&v=4" width="24" alt="Avatar of Santos-Enoque"/> Santos-Enoque
+				<img src="https://private-avatars.githubusercontent.com/u/37243334?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5NjAsIm5iZiI6MTczNDU2OTc2MCwicGF0aCI6Ii91LzM3MjQzMzM0In0.WLBK9nXJMq0riKemZ72EkKd-_0w9AsVGKQcjM_gY5zY&s=72&u=d9d19c70ad3f076a16225ffdb23e71a6bb5a7351&v=4" width="24" alt="Avatar of Santos-Enoque"/> Santos-Enoque
 			</a><br/>
 			Santos Enoque
 		</td>
@@ -9314,10 +9327,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>709</td>
+		<td>710</td>
 		<td>
 			<a target="_blank" href="https://github.com/lyokato">
-				<img src="https://private-avatars.githubusercontent.com/u/30877?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE5NDAsIm5iZiI6MTczNDQ2MDc0MCwicGF0aCI6Ii91LzMwODc3In0.7wI1PsGZT7xJixdrWDyaKqPMWSGPV9mG_QkXnAfTGBk&s=72&u=e8b12fd7629d44b9288ab18c277d9bfa60fa186c&v=4" width="24" alt="Avatar of lyokato"/> lyokato
+				<img src="https://private-avatars.githubusercontent.com/u/30877?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE3NDAsIm5iZiI6MTczNDU3MDU0MCwicGF0aCI6Ii91LzMwODc3In0.50bu7VzCg1lphesGjcgr_mPt0SPEsdO9ZgfAfOE7RIg&s=72&u=e8b12fd7629d44b9288ab18c277d9bfa60fa186c&v=4" width="24" alt="Avatar of lyokato"/> lyokato
 			</a><br/>
 			Lyo Kato
 		</td>
@@ -9327,10 +9340,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>24</td>
 	</tr>
 	<tr>
-		<td>710</td>
+		<td>711</td>
 		<td>
 			<a target="_blank" href="https://github.com/rakina">
-				<img src="https://private-avatars.githubusercontent.com/u/6216978?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyODAsIm5iZiI6MTczNDQ2MDA4MCwicGF0aCI6Ii91LzYyMTY5NzgifQ.ViUJIfByLxEIJZzy63DMOtedNw2DB8nUhmZqpvGe93s&s=72&u=851d70fcdff4035c9cec17cf680a981c3972f253&v=4" width="24" alt="Avatar of rakina"/> rakina
+				<img src="https://private-avatars.githubusercontent.com/u/6216978?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwODAsIm5iZiI6MTczNDU2OTg4MCwicGF0aCI6Ii91LzYyMTY5NzgifQ.i2Amtdc6wxk9UtLsdu_vAMg8WQwY-XhNIlvwYGIv3vA&s=72&u=851d70fcdff4035c9cec17cf680a981c3972f253&v=4" width="24" alt="Avatar of rakina"/> rakina
 			</a><br/>
 			Rakina Zata Amni
 		</td>
@@ -9340,10 +9353,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>711</td>
+		<td>712</td>
 		<td>
 			<a target="_blank" href="https://github.com/nullpo-head">
-				<img src="https://private-avatars.githubusercontent.com/u/2311662?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3NjAsIm5iZiI6MTczNDQ2MDU2MCwicGF0aCI6Ii91LzIzMTE2NjIifQ.9xjWN6z3s6DxRCgxB6qf3PlcJKEX5mzZvQ8uhRdsEYs&s=72&u=7b3ea31537f09c0fff4948abc1172b9a9fbf25cb&v=4" width="24" alt="Avatar of nullpo-head"/> nullpo-head
+				<img src="https://private-avatars.githubusercontent.com/u/2311662?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1NjAsIm5iZiI6MTczNDU3MDM2MCwicGF0aCI6Ii91LzIzMTE2NjIifQ.IW3xl2toA8hj9l9RcQZ2d8eTF0645dLKKxRjp9QkdWE&s=72&u=7b3ea31537f09c0fff4948abc1172b9a9fbf25cb&v=4" width="24" alt="Avatar of nullpo-head"/> nullpo-head
 			</a><br/>
 			Takaya Saeki
 		</td>
@@ -9353,10 +9366,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>23</td>
 	</tr>
 	<tr>
-		<td>712</td>
+		<td>713</td>
 		<td>
 			<a target="_blank" href="https://github.com/Jessidhia">
-				<img src="https://private-avatars.githubusercontent.com/u/73085?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExNjAsIm5iZiI6MTczNDQ1OTk2MCwicGF0aCI6Ii91LzczMDg1In0.dKwq2NmNH-k5s7fUDYRyInztIslDCeYajOHvGkpX5no&s=72&u=752c86143c92c1088ed4c8b31a92c3b2ce2bc4da&v=4" width="24" alt="Avatar of Jessidhia"/> Jessidhia
+				<img src="https://private-avatars.githubusercontent.com/u/73085?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5NjAsIm5iZiI6MTczNDU2OTc2MCwicGF0aCI6Ii91LzczMDg1In0.b2tz6_qj25-MbURIN9naSrKIfzm98TmFTJCvwWGT_84&s=72&u=752c86143c92c1088ed4c8b31a92c3b2ce2bc4da&v=4" width="24" alt="Avatar of Jessidhia"/> Jessidhia
 			</a><br/>
 			Jessica Franco
 		</td>
@@ -9366,10 +9379,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>713</td>
+		<td>714</td>
 		<td>
 			<a target="_blank" href="https://github.com/securas">
-				<img src="https://private-avatars.githubusercontent.com/u/2881755?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1MjAsIm5iZiI6MTczNDQ2MDMyMCwicGF0aCI6Ii91LzI4ODE3NTUifQ.Ta5oHuoqcYcVsAY1H_vTTXnUvUfdTKZRRW3nIdznFU8&s=72&v=4" width="24" alt="Avatar of securas"/> securas
+				<img src="https://private-avatars.githubusercontent.com/u/2881755?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzMjAsIm5iZiI6MTczNDU3MDEyMCwicGF0aCI6Ii91LzI4ODE3NTUifQ.afO-AoligEgfefuu7fCnAo53f18C0U8BFVlkp4VSgck&s=72&v=4" width="24" alt="Avatar of securas"/> securas
 			</a><br/>
 			securas
 		</td>
@@ -9379,10 +9392,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>714</td>
+		<td>715</td>
 		<td>
 			<a target="_blank" href="https://github.com/g200kg">
-				<img src="https://private-avatars.githubusercontent.com/u/3472954?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1ODAsIm5iZiI6MTczNDQ2MDM4MCwicGF0aCI6Ii91LzM0NzI5NTQifQ.-Tar1kE77iOt2ipedGLZT3idDZkYS-6juZu-gSbbOZs&s=72&v=4" width="24" alt="Avatar of g200kg"/> g200kg
+				<img src="https://private-avatars.githubusercontent.com/u/3472954?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzODAsIm5iZiI6MTczNDU3MDE4MCwicGF0aCI6Ii91LzM0NzI5NTQifQ.sMOYr_m7pmsIIfHQ4qaLwnsU0aLYOzQqmrbBUjWBWwc&s=72&v=4" width="24" alt="Avatar of g200kg"/> g200kg
 			</a><br/>
 			No Name
 		</td>
@@ -9392,10 +9405,23 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>22</td>
 	</tr>
 	<tr>
-		<td>715</td>
+		<td>716</td>
+		<td>
+			<a target="_blank" href="https://github.com/hirokidaichi">
+				<img src="https://private-avatars.githubusercontent.com/u/95184?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE3NDAsIm5iZiI6MTczNDU3MDU0MCwicGF0aCI6Ii91Lzk1MTg0In0.bGlRxk1qhUX1nQdGYwyaY52znv_SNs29W7zC_Xgkwr0&s=72&v=4" width="24" alt="Avatar of hirokidaichi"/> hirokidaichi
+			</a><br/>
+			hirokidaichi
+		</td>
+		<td>Rector </td>
+		<td><a target="_blank" href="https://twitter.com/hiroki_daichi">hiroki_daichi</a></td>
+		<td>tokyo</td>
+		<td>22</td>
+	</tr>
+	<tr>
+		<td>717</td>
 		<td>
 			<a target="_blank" href="https://github.com/ikeay">
-				<img src="https://private-avatars.githubusercontent.com/u/1245781?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA2ODAsIm5iZiI6MTczNDQ1OTQ4MCwicGF0aCI6Ii91LzEyNDU3ODEifQ.UuxClWBjDH1z99P0cgW2V1ozRd9mr2jB0uQPbIyBHVo&s=72&u=a7e22a8214f85e207cdfa081b632f33fcf48fc0f&v=4" width="24" alt="Avatar of ikeay"/> ikeay
+				<img src="https://private-avatars.githubusercontent.com/u/1245781?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA0ODAsIm5iZiI6MTczNDU2OTI4MCwicGF0aCI6Ii91LzEyNDU3ODEifQ.zv_LfmE5tDpGcqls_2K4aCxA8_mMJaQkSLXIsvNegFg&s=72&u=a7e22a8214f85e207cdfa081b632f33fcf48fc0f&v=4" width="24" alt="Avatar of ikeay"/> ikeay
 			</a><br/>
 			Ayaka Ikezawa
 		</td>
@@ -9405,10 +9431,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>716</td>
+		<td>718</td>
 		<td>
 			<a target="_blank" href="https://github.com/ashchan">
-				<img src="https://private-avatars.githubusercontent.com/u/1391?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyMjAsIm5iZiI6MTczNDQ2MDAyMCwicGF0aCI6Ii91LzEzOTEifQ.8NOxlXt8ZJtsDvtsw9BR3IorIjBZLyFy4YidIe5V8nQ&s=72&u=878c1bcae1567eb6d70d90d5e7e1985189177171&v=4" width="24" alt="Avatar of ashchan"/> ashchan
+				<img src="https://private-avatars.githubusercontent.com/u/1391?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwMjAsIm5iZiI6MTczNDU2OTgyMCwicGF0aCI6Ii91LzEzOTEifQ.TKLhDsnwYc7SPYosQwlFVgIv7H5SVFbIQr7UJ--y-7k&s=72&u=878c1bcae1567eb6d70d90d5e7e1985189177171&v=4" width="24" alt="Avatar of ashchan"/> ashchan
 			</a><br/>
 			Jianming Chen
 		</td>
@@ -9418,10 +9444,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>717</td>
+		<td>719</td>
 		<td>
 			<a target="_blank" href="https://github.com/kitasenjudesign">
-				<img src="https://private-avatars.githubusercontent.com/u/16834962?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3MDAsIm5iZiI6MTczNDQ2MDUwMCwicGF0aCI6Ii91LzE2ODM0OTYyIn0.13n2ypzFJtRvP695qsals2nev9HhvW5UAUHBkz930aA&s=72&u=c0d2662f5c9663cc656c90b93fa63a5aa6932a82&v=4" width="24" alt="Avatar of kitasenjudesign"/> kitasenjudesign
+				<img src="https://private-avatars.githubusercontent.com/u/16834962?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1MDAsIm5iZiI6MTczNDU3MDMwMCwicGF0aCI6Ii91LzE2ODM0OTYyIn0.mPXBN8MbD4hbp2wY3WRdULNfZrnKWLGNEexNqGzinyA&s=72&u=c0d2662f5c9663cc656c90b93fa63a5aa6932a82&v=4" width="24" alt="Avatar of kitasenjudesign"/> kitasenjudesign
 			</a><br/>
 			Kitasenju Design
 		</td>
@@ -9431,10 +9457,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>718</td>
+		<td>720</td>
 		<td>
 			<a target="_blank" href="https://github.com/taichi">
-				<img src="https://private-avatars.githubusercontent.com/u/66100?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3MDAsIm5iZiI6MTczNDQ2MDUwMCwicGF0aCI6Ii91LzY2MTAwIn0.rDjwYSqSMmIXeEQoArLa2BPE0TeyRnA8PiRXtEjaL2k&s=72&u=517207d37255b200d72becad8bbc6e9373eb4e4c&v=4" width="24" alt="Avatar of taichi"/> taichi
+				<img src="https://private-avatars.githubusercontent.com/u/66100?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1MDAsIm5iZiI6MTczNDU3MDMwMCwicGF0aCI6Ii91LzY2MTAwIn0.G5CEVrHnI1gWuB6vFJeoCcJvCgItSgNhCe0S5-24X0g&s=72&u=517207d37255b200d72becad8bbc6e9373eb4e4c&v=4" width="24" alt="Avatar of taichi"/> taichi
 			</a><br/>
 			taichi
 		</td>
@@ -9444,10 +9470,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>719</td>
+		<td>721</td>
 		<td>
 			<a target="_blank" href="https://github.com/nnn1590">
-				<img src="https://private-avatars.githubusercontent.com/u/28985763?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0MDAsIm5iZiI6MTczNDQ2MDIwMCwicGF0aCI6Ii91LzI4OTg1NzYzIn0.gyieHLeGKEis4VrsPb_oJ98k0SjlgbZK--r5HsmUIaY&s=72&v=4" width="24" alt="Avatar of nnn1590"/> nnn1590
+				<img src="https://private-avatars.githubusercontent.com/u/28985763?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyMDAsIm5iZiI6MTczNDU3MDAwMCwicGF0aCI6Ii91LzI4OTg1NzYzIn0.6UOsuVV0m3l3i0AEZO73EotLASaVJyHCNRAkFaYy2BI&s=72&v=4" width="24" alt="Avatar of nnn1590"/> nnn1590
 			</a><br/>
 			
 		</td>
@@ -9457,23 +9483,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>21</td>
 	</tr>
 	<tr>
-		<td>720</td>
-		<td>
-			<a target="_blank" href="https://github.com/hirokidaichi">
-				<img src="https://private-avatars.githubusercontent.com/u/95184?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE5NDAsIm5iZiI6MTczNDQ2MDc0MCwicGF0aCI6Ii91Lzk1MTg0In0.ghgxgKzONMI73VlhLGHZG_0kygGTZ6P_mQYnolMCh8A&s=72&v=4" width="24" alt="Avatar of hirokidaichi"/> hirokidaichi
-			</a><br/>
-			hirokidaichi
-		</td>
-		<td>Rector </td>
-		<td><a target="_blank" href="https://twitter.com/hiroki_daichi">hiroki_daichi</a></td>
-		<td>tokyo</td>
-		<td>21</td>
-	</tr>
-	<tr>
-		<td>721</td>
+		<td>722</td>
 		<td>
 			<a target="_blank" href="https://github.com/simurai">
-				<img src="https://private-avatars.githubusercontent.com/u/378023?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyMjAsIm5iZiI6MTczNDQ2MDAyMCwicGF0aCI6Ii91LzM3ODAyMyJ9.5IfJfFzpcjMxI-PhWngUugeZyeiI_lU6-Si37VSUzOs&s=72&u=61cccfbe4951df52fedd133da506644f62721489&v=4" width="24" alt="Avatar of simurai"/> simurai
+				<img src="https://private-avatars.githubusercontent.com/u/378023?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwMjAsIm5iZiI6MTczNDU2OTgyMCwicGF0aCI6Ii91LzM3ODAyMyJ9.HuiQx9bI5RUwWVh3Nr27FEz5lUIsZZup65myWuv4oLA&s=72&u=61cccfbe4951df52fedd133da506644f62721489&v=4" width="24" alt="Avatar of simurai"/> simurai
 			</a><br/>
 			simurai
 		</td>
@@ -9483,10 +9496,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>722</td>
+		<td>723</td>
 		<td>
 			<a target="_blank" href="https://github.com/xct">
-				<img src="https://private-avatars.githubusercontent.com/u/9291767?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA2ODAsIm5iZiI6MTczNDQ1OTQ4MCwicGF0aCI6Ii91LzkyOTE3NjcifQ.UMCnekOBZeEwczRSx-DYQE7OB8kf8ou-nTG6x0CLLfY&s=72&u=12218bb318e93000fd9165c1b042fc8bbe8a1061&v=4" width="24" alt="Avatar of xct"/> xct
+				<img src="https://private-avatars.githubusercontent.com/u/9291767?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA0ODAsIm5iZiI6MTczNDU2OTI4MCwicGF0aCI6Ii91LzkyOTE3NjcifQ.dy9AZRDrUVExDsJP3yBLss2mDiOSM-gIkn_MR1dFWMA&s=72&u=12218bb318e93000fd9165c1b042fc8bbe8a1061&v=4" width="24" alt="Avatar of xct"/> xct
 			</a><br/>
 			xct
 		</td>
@@ -9496,10 +9509,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>723</td>
+		<td>724</td>
 		<td>
 			<a target="_blank" href="https://github.com/osqzss">
-				<img src="https://private-avatars.githubusercontent.com/u/7418842?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE5NDAsIm5iZiI6MTczNDQ2MDc0MCwicGF0aCI6Ii91Lzc0MTg4NDIifQ.APK52-Sc0h7kP4Bi5B6srt3BpyErtlmAhmcpe_W1na0&s=72&v=4" width="24" alt="Avatar of osqzss"/> osqzss
+				<img src="https://private-avatars.githubusercontent.com/u/7418842?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE3NDAsIm5iZiI6MTczNDU3MDU0MCwicGF0aCI6Ii91Lzc0MTg4NDIifQ.WLyrn4APA8QG7sG4526btZSY3MxrlkohK7m9OYzFE_8&s=72&v=4" width="24" alt="Avatar of osqzss"/> osqzss
 			</a><br/>
 			OSQZSS
 		</td>
@@ -9509,10 +9522,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>20</td>
 	</tr>
 	<tr>
-		<td>724</td>
+		<td>725</td>
 		<td>
 			<a target="_blank" href="https://github.com/tcnksm">
-				<img src="https://private-avatars.githubusercontent.com/u/1256183?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA5ODAsIm5iZiI6MTczNDQ1OTc4MCwicGF0aCI6Ii91LzEyNTYxODMifQ.bFzDrv3jNqbQ4ufODgXZhA_1GbLNoKKvJP99Fx1G3sQ&s=72&v=4" width="24" alt="Avatar of tcnksm"/> tcnksm
+				<img src="https://private-avatars.githubusercontent.com/u/1256183?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA3ODAsIm5iZiI6MTczNDU2OTU4MCwicGF0aCI6Ii91LzEyNTYxODMifQ.xEm9aR6FnNOOTbWDp5bizKWrTF2v7fLBX4dn3uEwQWA&s=72&v=4" width="24" alt="Avatar of tcnksm"/> tcnksm
 			</a><br/>
 			Taichi Nakashima
 		</td>
@@ -9522,10 +9535,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>725</td>
+		<td>726</td>
 		<td>
 			<a target="_blank" href="https://github.com/matthew-andrews">
-				<img src="https://private-avatars.githubusercontent.com/u/825088?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3NjAsIm5iZiI6MTczNDQ2MDU2MCwicGF0aCI6Ii91LzgyNTA4OCJ9.EUp2U677Pxh4gxxrRJpx9AnzbyNUcYqrUoWK7BwGRr8&s=72&u=b1975ff7f12cf01228d6fc2e2aadead4ba1b8563&v=4" width="24" alt="Avatar of matthew-andrews"/> matthew-andrews
+				<img src="https://private-avatars.githubusercontent.com/u/825088?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA2NjAsIm5iZiI6MTczNDU2OTQ2MCwicGF0aCI6Ii91LzgyNTA4OCJ9.eEhKm17iOeBokoVxBrL4ty2bluAmypM8dbRcZ6wYQV0&s=72&u=b1975ff7f12cf01228d6fc2e2aadead4ba1b8563&v=4" width="24" alt="Avatar of matthew-andrews"/> matthew-andrews
 			</a><br/>
 			Matt Andrews
 		</td>
@@ -9535,10 +9548,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>726</td>
+		<td>727</td>
 		<td>
 			<a target="_blank" href="https://github.com/akameco">
-				<img src="https://private-avatars.githubusercontent.com/u/4002137?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE4ODAsIm5iZiI6MTczNDQ2MDY4MCwicGF0aCI6Ii91LzQwMDIxMzcifQ.01xp5_p78NHdMuWQYTrezfpZjs20gq6bS30-Ypslxcs&s=72&v=4" width="24" alt="Avatar of akameco"/> akameco
+				<img src="https://private-avatars.githubusercontent.com/u/4002137?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE2ODAsIm5iZiI6MTczNDU3MDQ4MCwicGF0aCI6Ii91LzQwMDIxMzcifQ.iijSTJGv1vATLxYFiGiwRP8HMUXF_XQ1w2zTqAPOU7E&s=72&v=4" width="24" alt="Avatar of akameco"/> akameco
 			</a><br/>
 			akameco
 		</td>
@@ -9548,10 +9561,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>727</td>
+		<td>728</td>
 		<td>
 			<a target="_blank" href="https://github.com/yvt">
-				<img src="https://private-avatars.githubusercontent.com/u/5253988?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExNjAsIm5iZiI6MTczNDQ1OTk2MCwicGF0aCI6Ii91LzUyNTM5ODgifQ.pyTNa-If7rQzugFU2aEmIrsvL2hrBbkrCh4zYlxOtas&s=72&u=c5f5617a2f46a12e16ce297fc768a1d216a3c0d8&v=4" width="24" alt="Avatar of yvt"/> yvt
+				<img src="https://private-avatars.githubusercontent.com/u/5253988?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5NjAsIm5iZiI6MTczNDU2OTc2MCwicGF0aCI6Ii91LzUyNTM5ODgifQ.A4dUAhip3j94WvVU1wFape9zb8pAVAaf7AEEZMEpJ14&s=72&u=c5f5617a2f46a12e16ce297fc768a1d216a3c0d8&v=4" width="24" alt="Avatar of yvt"/> yvt
 			</a><br/>
 			yvt
 		</td>
@@ -9561,10 +9574,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>728</td>
+		<td>729</td>
 		<td>
 			<a target="_blank" href="https://github.com/rjyo">
-				<img src="https://private-avatars.githubusercontent.com/u/352545?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE5NDAsIm5iZiI6MTczNDQ2MDc0MCwicGF0aCI6Ii91LzM1MjU0NSJ9.mO_gNmreCWQ3KZj-i-XfWRte3s7Y2LEdfCX9I-wmFxQ&s=72&u=a11d08e4d733da34cff2b36e110390ee7f5b7611&v=4" width="24" alt="Avatar of rjyo"/> rjyo
+				<img src="https://private-avatars.githubusercontent.com/u/352545?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE3NDAsIm5iZiI6MTczNDU3MDU0MCwicGF0aCI6Ii91LzM1MjU0NSJ9.ULKwoEdGPnI4i91HWHxyw8Otvya7eZqv4C7t8YWL4i8&s=72&u=a11d08e4d733da34cff2b36e110390ee7f5b7611&v=4" width="24" alt="Avatar of rjyo"/> rjyo
 			</a><br/>
 			Rakuraku Jyo
 		</td>
@@ -9574,10 +9587,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>729</td>
+		<td>730</td>
 		<td>
 			<a target="_blank" href="https://github.com/yoichitgy">
-				<img src="https://private-avatars.githubusercontent.com/u/965994?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0MDAsIm5iZiI6MTczNDQ2MDIwMCwicGF0aCI6Ii91Lzk2NTk5NCJ9.e56WHUBGIzN1ghqPc0HynYfmjV5a9ZSnaZLxIKnoB5o&s=72&u=93e99c70b78a3ae4b4bd9e20138bfdb32a1a3eea&v=4" width="24" alt="Avatar of yoichitgy"/> yoichitgy
+				<img src="https://private-avatars.githubusercontent.com/u/965994?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyMDAsIm5iZiI6MTczNDU3MDAwMCwicGF0aCI6Ii91Lzk2NTk5NCJ9.042z5f90H4IHiwhveQ82F7BSCuJG_avxgRMtfBc0reA&s=72&u=93e99c70b78a3ae4b4bd9e20138bfdb32a1a3eea&v=4" width="24" alt="Avatar of yoichitgy"/> yoichitgy
 			</a><br/>
 			Yoichi Tagaya
 		</td>
@@ -9587,10 +9600,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>19</td>
 	</tr>
 	<tr>
-		<td>730</td>
+		<td>731</td>
 		<td>
 			<a target="_blank" href="https://github.com/Phineas">
-				<img src="https://private-avatars.githubusercontent.com/u/6209808?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0MDAsIm5iZiI6MTczNDQ2MDIwMCwicGF0aCI6Ii91LzYyMDk4MDgifQ.jtcS-DggJrTFIZG_3U44OhljkYDXSRbxKaKG0xdxcM0&s=72&u=cda3815fc58fbdeb867720aec9ad6b17acaeacf9&v=4" width="24" alt="Avatar of Phineas"/> Phineas
+				<img src="https://private-avatars.githubusercontent.com/u/6209808?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyMDAsIm5iZiI6MTczNDU3MDAwMCwicGF0aCI6Ii91LzYyMDk4MDgifQ.6RB1O-Fq0-em6bGtCHfFxGxC-uDVoPM_oitSiHnCx3U&s=72&u=cda3815fc58fbdeb867720aec9ad6b17acaeacf9&v=4" width="24" alt="Avatar of Phineas"/> Phineas
 			</a><br/>
 			No Name
 		</td>
@@ -9600,10 +9613,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>731</td>
+		<td>732</td>
 		<td>
 			<a target="_blank" href="https://github.com/nkmk">
-				<img src="https://private-avatars.githubusercontent.com/u/6695543?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0MDAsIm5iZiI6MTczNDQ2MDIwMCwicGF0aCI6Ii91LzY2OTU1NDMifQ.KGvzlDQE4eazeeFnBRd6KBa2jLifxXD87WCISwGaP_I&s=72&v=4" width="24" alt="Avatar of nkmk"/> nkmk
+				<img src="https://private-avatars.githubusercontent.com/u/6695543?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyMDAsIm5iZiI6MTczNDU3MDAwMCwicGF0aCI6Ii91LzY2OTU1NDMifQ.CJs2Vn5SrYS-Tk0cKKapzKjp4HsyoujP4o8ErVteqiU&s=72&v=4" width="24" alt="Avatar of nkmk"/> nkmk
 			</a><br/>
 			No Name
 		</td>
@@ -9613,10 +9626,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>732</td>
+		<td>733</td>
 		<td>
 			<a target="_blank" href="https://github.com/TaKO8Ki">
-				<img src="https://private-avatars.githubusercontent.com/u/41065217?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0NjAsIm5iZiI6MTczNDQ2MDI2MCwicGF0aCI6Ii91LzQxMDY1MjE3In0.sDFUQdl6P1Km4x1yWHjdxnm79Xdvh8w7RSG8C1mBNqs&s=72&u=54ba8f078375dcf0e23a49a5e0716c36f8f89635&v=4" width="24" alt="Avatar of TaKO8Ki"/> TaKO8Ki
+				<img src="https://private-avatars.githubusercontent.com/u/41065217?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyNjAsIm5iZiI6MTczNDU3MDA2MCwicGF0aCI6Ii91LzQxMDY1MjE3In0.VLovfzrOUhED3BnT7LI2UEJWyIv3Ucqfn73s5-xu8CY&s=72&u=54ba8f078375dcf0e23a49a5e0716c36f8f89635&v=4" width="24" alt="Avatar of TaKO8Ki"/> TaKO8Ki
 			</a><br/>
 			Takayuki Maeda
 		</td>
@@ -9626,10 +9639,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>733</td>
+		<td>734</td>
 		<td>
 			<a target="_blank" href="https://github.com/motikan2010">
-				<img src="https://private-avatars.githubusercontent.com/u/3177297?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0NjAsIm5iZiI6MTczNDQ2MDI2MCwicGF0aCI6Ii91LzMxNzcyOTcifQ.Qf62gLk1L8O8prPAV3I4EAFxGkZCzrojlSRNjuJ8Vu0&s=72&u=1dc4112dad2c6f5dbe118bba3031b9458cbd4d5e&v=4" width="24" alt="Avatar of motikan2010"/> motikan2010
+				<img src="https://private-avatars.githubusercontent.com/u/3177297?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyNjAsIm5iZiI6MTczNDU3MDA2MCwicGF0aCI6Ii91LzMxNzcyOTcifQ.HXGROnlbpLquNKy1vwjJAnqcPGJM63Jyn5RtmelpvOg&s=72&u=1dc4112dad2c6f5dbe118bba3031b9458cbd4d5e&v=4" width="24" alt="Avatar of motikan2010"/> motikan2010
 			</a><br/>
 			motikan2010
 		</td>
@@ -9639,10 +9652,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>734</td>
+		<td>735</td>
 		<td>
 			<a target="_blank" href="https://github.com/komietty">
-				<img src="https://private-avatars.githubusercontent.com/u/6054093?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEzNDAsIm5iZiI6MTczNDQ2MDE0MCwicGF0aCI6Ii91LzYwNTQwOTMifQ.IUrFamfhY2LPM0epv2OjArNB1yD0PLpzEwXXhXI7YY4&s=72&u=5ba0c7dd79bf7825dd7b19a2cee8c7485984defb&v=4" width="24" alt="Avatar of komietty"/> komietty
+				<img src="https://private-avatars.githubusercontent.com/u/6054093?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzExNDAsIm5iZiI6MTczNDU2OTk0MCwicGF0aCI6Ii91LzYwNTQwOTMifQ.3FTLg6p4cz_T6W9RAtf0MNk4EYicQyQsVG4HunCC2iY&s=72&u=5ba0c7dd79bf7825dd7b19a2cee8c7485984defb&v=4" width="24" alt="Avatar of komietty"/> komietty
 			</a><br/>
 			sakikomikado
 		</td>
@@ -9652,10 +9665,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>735</td>
+		<td>736</td>
 		<td>
 			<a target="_blank" href="https://github.com/kenji-miyake">
-				<img src="https://private-avatars.githubusercontent.com/u/31987104?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1MjAsIm5iZiI6MTczNDQ2MDMyMCwicGF0aCI6Ii91LzMxOTg3MTA0In0.b7ELTG-CCcvX36rdS0tR5QxsdQ36iAhFuAfYgWgpvXY&s=72&u=44bae03e1bbce0b6a9ba471727cfbb73ee2b1191&v=4" width="24" alt="Avatar of kenji-miyake"/> kenji-miyake
+				<img src="https://private-avatars.githubusercontent.com/u/31987104?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzMjAsIm5iZiI6MTczNDU3MDEyMCwicGF0aCI6Ii91LzMxOTg3MTA0In0.kIc-fTD9edwu3eb39PJyB1bEt_a-CpywtAgMrqPYLy4&s=72&u=44bae03e1bbce0b6a9ba471727cfbb73ee2b1191&v=4" width="24" alt="Avatar of kenji-miyake"/> kenji-miyake
 			</a><br/>
 			Kenji Miyake
 		</td>
@@ -9665,10 +9678,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>736</td>
+		<td>737</td>
 		<td>
 			<a target="_blank" href="https://github.com/hiroakioishi">
-				<img src="https://private-avatars.githubusercontent.com/u/1692957?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjIxMjAsIm5iZiI6MTczNDQ2MDkyMCwicGF0aCI6Ii91LzE2OTI5NTcifQ.oDNXWx9-XIjTzx0gpLXYPnQ_rX6AYBTKYTuvMW7VS3k&s=72&u=7a37d2ca46ac6426be786821f757220f6badef7d&v=4" width="24" alt="Avatar of hiroakioishi"/> hiroakioishi
+				<img src="https://private-avatars.githubusercontent.com/u/1692957?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE5MjAsIm5iZiI6MTczNDU3MDcyMCwicGF0aCI6Ii91LzE2OTI5NTcifQ.mS-YeP-HUBlicPIuvsY1xB3bZDzEgZCxwpy1NuHAHY8&s=72&u=7a37d2ca46ac6426be786821f757220f6badef7d&v=4" width="24" alt="Avatar of hiroakioishi"/> hiroakioishi
 			</a><br/>
 			No Name
 		</td>
@@ -9678,10 +9691,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>737</td>
+		<td>738</td>
 		<td>
 			<a target="_blank" href="https://github.com/chomado">
-				<img src="https://private-avatars.githubusercontent.com/u/3405269?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExNjAsIm5iZiI6MTczNDQ1OTk2MCwicGF0aCI6Ii91LzM0MDUyNjkifQ.9bVYt5SopGDgdkNv-Q5BMZGxeAhVlzhOPbXgQ7KHc40&s=72&u=a183b41df2250d0c885c00cab75f079aeb8e169b&v=4" width="24" alt="Avatar of chomado"/> chomado
+				<img src="https://private-avatars.githubusercontent.com/u/3405269?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5NjAsIm5iZiI6MTczNDU2OTc2MCwicGF0aCI6Ii91LzM0MDUyNjkifQ.YA1S_WgHGludqq-KolrQGlC5JwGLDOiHmpyM56nI-O4&s=72&u=a183b41df2250d0c885c00cab75f079aeb8e169b&v=4" width="24" alt="Avatar of chomado"/> chomado
 			</a><br/>
 			  Madoka Chiyoda
 		</td>
@@ -9691,10 +9704,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>738</td>
+		<td>739</td>
 		<td>
 			<a target="_blank" href="https://github.com/Grabacr07">
-				<img src="https://private-avatars.githubusercontent.com/u/1779073?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0MDAsIm5iZiI6MTczNDQ2MDIwMCwicGF0aCI6Ii91LzE3NzkwNzMifQ.ow5pFr_76wI5PGSiiRgyPHw3gzDbfwzgObFCqdmwEpI&s=72&u=ad8d87813409ad7a8cbc9101fcef6a9bfb85bce5&v=4" width="24" alt="Avatar of Grabacr07"/> Grabacr07
+				<img src="https://private-avatars.githubusercontent.com/u/1779073?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyMDAsIm5iZiI6MTczNDU3MDAwMCwicGF0aCI6Ii91LzE3NzkwNzMifQ.TAoukorU0hQrlnXQCVSyPMBanW2eiUDeAyDgKXypmRQ&s=72&u=ad8d87813409ad7a8cbc9101fcef6a9bfb85bce5&v=4" width="24" alt="Avatar of Grabacr07"/> Grabacr07
 			</a><br/>
 			Manato Kameya
 		</td>
@@ -9704,10 +9717,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>739</td>
+		<td>740</td>
 		<td>
 			<a target="_blank" href="https://github.com/84d010m08">
-				<img src="https://private-avatars.githubusercontent.com/u/1744778?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExNjAsIm5iZiI6MTczNDQ1OTk2MCwicGF0aCI6Ii91LzE3NDQ3NzgifQ.POoaKH12H4sFjqmnU8fZ5JcQ6IIzvEbWs2PIXfK9UIc&s=72&u=6117c52cfcd6a238f644797ce86d1200dc2ecb79&v=4" width="24" alt="Avatar of 84d010m08"/> 84d010m08
+				<img src="https://private-avatars.githubusercontent.com/u/1744778?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5NjAsIm5iZiI6MTczNDU2OTc2MCwicGF0aCI6Ii91LzE3NDQ3NzgifQ.c8d_U_YFFPukTyiMS_p3eisiqARybATSOAajQQANk1w&s=72&u=6117c52cfcd6a238f644797ce86d1200dc2ecb79&v=4" width="24" alt="Avatar of 84d010m08"/> 84d010m08
 			</a><br/>
 			Hashido Tomoya
 		</td>
@@ -9717,10 +9730,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>740</td>
+		<td>741</td>
 		<td>
 			<a target="_blank" href="https://github.com/SystemErrorWang">
-				<img src="https://private-avatars.githubusercontent.com/u/26077659?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3NjAsIm5iZiI6MTczNDQ2MDU2MCwicGF0aCI6Ii91LzI2MDc3NjU5In0.8VMlYxLa_6qMS6-nOIbPWNTX67kGkFxF-BABt75yPOI&s=72&v=4" width="24" alt="Avatar of SystemErrorWang"/> SystemErrorWang
+				<img src="https://private-avatars.githubusercontent.com/u/26077659?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1NjAsIm5iZiI6MTczNDU3MDM2MCwicGF0aCI6Ii91LzI2MDc3NjU5In0.qd7t53nd-8Qn4UhqdmtSrDD9Oj1jydz0FgACA9M4j7A&s=72&v=4" width="24" alt="Avatar of SystemErrorWang"/> SystemErrorWang
 			</a><br/>
 			No Name
 		</td>
@@ -9730,10 +9743,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>741</td>
+		<td>742</td>
 		<td>
 			<a target="_blank" href="https://github.com/sh-akira">
-				<img src="https://private-avatars.githubusercontent.com/u/30430584?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0MDAsIm5iZiI6MTczNDQ2MDIwMCwicGF0aCI6Ii91LzMwNDMwNTg0In0.cyoOCakJUC9zye1miA8TJYJMa6wtD77AKd3kX4ZBRjY&s=72&u=a7b9274ed44ac2c75fb4830c607a1f53b2c8a9d3&v=4" width="24" alt="Avatar of sh-akira"/> sh-akira
+				<img src="https://private-avatars.githubusercontent.com/u/30430584?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyMDAsIm5iZiI6MTczNDU3MDAwMCwicGF0aCI6Ii91LzMwNDMwNTg0In0.6G1HqZCdea0IwEvJBRLsEhdT7tqWPs4D73TilAk217E&s=72&u=a7b9274ed44ac2c75fb4830c607a1f53b2c8a9d3&v=4" width="24" alt="Avatar of sh-akira"/> sh-akira
 			</a><br/>
 			shakira
 		</td>
@@ -9743,10 +9756,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>742</td>
+		<td>743</td>
 		<td>
 			<a target="_blank" href="https://github.com/mogaming217">
-				<img src="https://private-avatars.githubusercontent.com/u/10220231?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3NjAsIm5iZiI6MTczNDQ2MDU2MCwicGF0aCI6Ii91LzEwMjIwMjMxIn0.1NUAf9qD_19YbgWkbwhy49YvuODQovZIRAiL_A2vZdo&s=72&u=fd5deae77836538dd004963d4d36c29692a99884&v=4" width="24" alt="Avatar of mogaming217"/> mogaming217
+				<img src="https://private-avatars.githubusercontent.com/u/10220231?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1NjAsIm5iZiI6MTczNDU3MDM2MCwicGF0aCI6Ii91LzEwMjIwMjMxIn0.cmz7BvK_qUAMpaCd3cbMXV6WpF7eIFJFy9GbXTaUoSg&s=72&u=fd5deae77836538dd004963d4d36c29692a99884&v=4" width="24" alt="Avatar of mogaming217"/> mogaming217
 			</a><br/>
 			moga
 		</td>
@@ -9756,10 +9769,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>743</td>
+		<td>744</td>
 		<td>
 			<a target="_blank" href="https://github.com/xqq">
-				<img src="https://private-avatars.githubusercontent.com/u/4645762?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA5ODAsIm5iZiI6MTczNDQ1OTc4MCwicGF0aCI6Ii91LzQ2NDU3NjIifQ.vJJU055WIpLNHyy1hhPmWlPR9bnkhminSoLHpfNyKb4&s=72&u=45f129d86f07e07f6c562447a08b092ed2731cf2&v=4" width="24" alt="Avatar of xqq"/> xqq
+				<img src="https://private-avatars.githubusercontent.com/u/4645762?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA3ODAsIm5iZiI6MTczNDU2OTU4MCwicGF0aCI6Ii91LzQ2NDU3NjIifQ.jdCq5l_MbcAZ5nD9FqDHLopw72O8GcE3fVIK0kSnLLs&s=72&u=45f129d86f07e07f6c562447a08b092ed2731cf2&v=4" width="24" alt="Avatar of xqq"/> xqq
 			</a><br/>
 			xqq
 		</td>
@@ -9769,10 +9782,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>744</td>
+		<td>745</td>
 		<td>
 			<a target="_blank" href="https://github.com/anshumanv">
-				<img src="https://private-avatars.githubusercontent.com/u/21009455?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExMDAsIm5iZiI6MTczNDQ1OTkwMCwicGF0aCI6Ii91LzIxMDA5NDU1In0.EKSwaNHxLz5fJlTThpub-EvIXdTh_yQfpcNAHoMJRGE&s=72&u=f5907fbe1d449faedbba43adf5eec9d9b6e9c0de&v=4" width="24" alt="Avatar of anshumanv"/> anshumanv
+				<img src="https://private-avatars.githubusercontent.com/u/21009455?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5MDAsIm5iZiI6MTczNDU2OTcwMCwicGF0aCI6Ii91LzIxMDA5NDU1In0.N12rfOZpwv7H6SG79qYlSgj6-nVlMOnKKqKcNbb_grY&s=72&u=f5907fbe1d449faedbba43adf5eec9d9b6e9c0de&v=4" width="24" alt="Avatar of anshumanv"/> anshumanv
 			</a><br/>
 			Anshuman
 		</td>
@@ -9782,10 +9795,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>745</td>
+		<td>746</td>
 		<td>
 			<a target="_blank" href="https://github.com/cognitom">
-				<img src="https://private-avatars.githubusercontent.com/u/16032?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExNjAsIm5iZiI6MTczNDQ1OTk2MCwicGF0aCI6Ii91LzE2MDMyIn0.rrgIsj4-vgyTmC9VZixUMezhPz_8Hv-wYFj7kJN_9BQ&s=72&u=2cb02e02f4494f2298dfc404bf242aabadb7b760&v=4" width="24" alt="Avatar of cognitom"/> cognitom
+				<img src="https://private-avatars.githubusercontent.com/u/16032?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5NjAsIm5iZiI6MTczNDU2OTc2MCwicGF0aCI6Ii91LzE2MDMyIn0.KwE5Fs3x7UVuEv8NX31R7Val4LiJKp-UZdGuESI4E18&s=72&u=2cb02e02f4494f2298dfc404bf242aabadb7b760&v=4" width="24" alt="Avatar of cognitom"/> cognitom
 			</a><br/>
 			Tsutomu Kawamura
 		</td>
@@ -9795,10 +9808,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>746</td>
+		<td>747</td>
 		<td>
 			<a target="_blank" href="https://github.com/hanachin">
-				<img src="https://private-avatars.githubusercontent.com/u/167012?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1ODAsIm5iZiI6MTczNDQ2MDM4MCwicGF0aCI6Ii91LzE2NzAxMiJ9.myCmAf_Lib_0TELwEnXC0Hw3joCgphNoKF_fY_TDPRE&s=72&u=35efa51df3174d85db5bea5af218f6d70a588124&v=4" width="24" alt="Avatar of hanachin"/> hanachin
+				<img src="https://private-avatars.githubusercontent.com/u/167012?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzODAsIm5iZiI6MTczNDU3MDE4MCwicGF0aCI6Ii91LzE2NzAxMiJ9.ANBQZUEI4WfM5dOILu_81a6wDU2F5OMxEAQoGr1GnRY&s=72&u=35efa51df3174d85db5bea5af218f6d70a588124&v=4" width="24" alt="Avatar of hanachin"/> hanachin
 			</a><br/>
 			Seiei Miyagi
 		</td>
@@ -9808,10 +9821,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>747</td>
+		<td>748</td>
 		<td>
 			<a target="_blank" href="https://github.com/lindwurm">
-				<img src="https://private-avatars.githubusercontent.com/u/1874549?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3MDAsIm5iZiI6MTczNDQ2MDUwMCwicGF0aCI6Ii91LzE4NzQ1NDkifQ.rhNDa-KWiAtTzt93T5GoiCiKTiXDeIrjSb-gyCGYjBs&s=72&u=85892571bc77bc199723b278f5b238daffc79771&v=4" width="24" alt="Avatar of lindwurm"/> lindwurm
+				<img src="https://private-avatars.githubusercontent.com/u/1874549?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1MDAsIm5iZiI6MTczNDU3MDMwMCwicGF0aCI6Ii91LzE4NzQ1NDkifQ.CTHi2s4cqWucYgmUscbnq5pKdiZek3_7YYXgQ0rvXgo&s=72&u=85892571bc77bc199723b278f5b238daffc79771&v=4" width="24" alt="Avatar of lindwurm"/> lindwurm
 			</a><br/>
 			hota
 		</td>
@@ -9821,10 +9834,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>748</td>
+		<td>749</td>
 		<td>
 			<a target="_blank" href="https://github.com/tokorom">
-				<img src="https://private-avatars.githubusercontent.com/u/629993?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyODAsIm5iZiI6MTczNDQ2MDA4MCwicGF0aCI6Ii91LzYyOTk5MyJ9.DTUcTVZc-73vD9vNoO65Xwhw_8Ko1awxtb6kS5ki_2M&s=72&u=95f8418a13d69dad164e2479d3ce5e950673fa03&v=4" width="24" alt="Avatar of tokorom"/> tokorom
+				<img src="https://private-avatars.githubusercontent.com/u/629993?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwODAsIm5iZiI6MTczNDU2OTg4MCwicGF0aCI6Ii91LzYyOTk5MyJ9.LoMLIIVLLbB2O5PqaxrDL0OXPfnHAjVtPMrUx2_IFvc&s=72&u=95f8418a13d69dad164e2479d3ce5e950673fa03&v=4" width="24" alt="Avatar of tokorom"/> tokorom
 			</a><br/>
 			tokorom
 		</td>
@@ -9834,10 +9847,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>749</td>
+		<td>750</td>
 		<td>
 			<a target="_blank" href="https://github.com/farseerfc">
-				<img src="https://private-avatars.githubusercontent.com/u/861563?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyODAsIm5iZiI6MTczNDQ2MDA4MCwicGF0aCI6Ii91Lzg2MTU2MyJ9.R3Pl7b5luWfnZ0JrTnlk_7rZvZzF0dqaQOBmWOG8yVA&s=72&u=77063fc3a70448ed478b347d4526d7a17e752cde&v=4" width="24" alt="Avatar of farseerfc"/> farseerfc
+				<img src="https://private-avatars.githubusercontent.com/u/861563?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwODAsIm5iZiI6MTczNDU2OTg4MCwicGF0aCI6Ii91Lzg2MTU2MyJ9.DR9vYjatHca1P74VjZBTN7mGvXigpql8lwiWbAy4G7A&s=72&u=77063fc3a70448ed478b347d4526d7a17e752cde&v=4" width="24" alt="Avatar of farseerfc"/> farseerfc
 			</a><br/>
 			Jiachen Yang
 		</td>
@@ -9847,10 +9860,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>750</td>
+		<td>751</td>
 		<td>
 			<a target="_blank" href="https://github.com/satoruhiga">
-				<img src="https://private-avatars.githubusercontent.com/u/43029?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEzNDAsIm5iZiI6MTczNDQ2MDE0MCwicGF0aCI6Ii91LzQzMDI5In0.DjoqsX4gYRRNKkq_k9ffenhcY-ZGF69zxTBAlvz39C0&s=72&v=4" width="24" alt="Avatar of satoruhiga"/> satoruhiga
+				<img src="https://private-avatars.githubusercontent.com/u/43029?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzExNDAsIm5iZiI6MTczNDU2OTk0MCwicGF0aCI6Ii91LzQzMDI5In0.m6G0Xq17ntSfEbwbG-FZaJPfJp9q5fKelVEg_xCTqYU&s=72&v=4" width="24" alt="Avatar of satoruhiga"/> satoruhiga
 			</a><br/>
 			Satoru Higa
 		</td>
@@ -9860,10 +9873,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>751</td>
+		<td>752</td>
 		<td>
 			<a target="_blank" href="https://github.com/soda-x">
-				<img src="https://private-avatars.githubusercontent.com/u/848515?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0MDAsIm5iZiI6MTczNDQ2MDIwMCwicGF0aCI6Ii91Lzg0ODUxNSJ9.C0Y9xx__BrVoY2-EGMXTg7-aavUMwth7nG-8GWjMqlg&s=72&u=34405a0e781de99ec91abf8f0749d409e1b28c55&v=4" width="24" alt="Avatar of soda-x"/> soda-x
+				<img src="https://private-avatars.githubusercontent.com/u/848515?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyMDAsIm5iZiI6MTczNDU3MDAwMCwicGF0aCI6Ii91Lzg0ODUxNSJ9.egfl5xCYWvXlgC7K6fyEl5U350em3Yrw6rJXd_5LUTc&s=72&u=34405a0e781de99ec91abf8f0749d409e1b28c55&v=4" width="24" alt="Avatar of soda-x"/> soda-x
 			</a><br/>
 			Soda
 		</td>
@@ -9873,10 +9886,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>752</td>
+		<td>753</td>
 		<td>
 			<a target="_blank" href="https://github.com/sugi-cho">
-				<img src="https://private-avatars.githubusercontent.com/u/346540?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1MjAsIm5iZiI6MTczNDQ2MDMyMCwicGF0aCI6Ii91LzM0NjU0MCJ9.CLKKNHwLNKn2YIQ8v6YmMOhSw4MzyiPShUAiNZA4OvM&s=72&u=c48734adf4466ce50c6a04b6d0cd578c2af2fd6a&v=4" width="24" alt="Avatar of sugi-cho"/> sugi-cho
+				<img src="https://private-avatars.githubusercontent.com/u/346540?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzMjAsIm5iZiI6MTczNDU3MDEyMCwicGF0aCI6Ii91LzM0NjU0MCJ9.Zducl7gF6utEwHqtlPj0ucgpo7cxsVsdzOtsCKLHNQA&s=72&u=c48734adf4466ce50c6a04b6d0cd578c2af2fd6a&v=4" width="24" alt="Avatar of sugi-cho"/> sugi-cho
 			</a><br/>
 			Hironori Sugino
 		</td>
@@ -9886,10 +9899,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>753</td>
+		<td>754</td>
 		<td>
 			<a target="_blank" href="https://github.com/ryanmcgrath">
-				<img src="https://private-avatars.githubusercontent.com/u/22712?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA5ODAsIm5iZiI6MTczNDQ1OTc4MCwicGF0aCI6Ii91LzIyNzEyIn0.sYdjOpJlsUJISbiRnLGBWdtmBVmuQ50YokTsX9Uzdxw&s=72&u=036c85390ed89c319040bda202b526e12cfd3825&v=4" width="24" alt="Avatar of ryanmcgrath"/> ryanmcgrath
+				<img src="https://private-avatars.githubusercontent.com/u/22712?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA3ODAsIm5iZiI6MTczNDU2OTU4MCwicGF0aCI6Ii91LzIyNzEyIn0.WGKn5zvFuevMPdu-Kht7sISnby32mOgwcaJ_XS2pPYs&s=72&u=036c85390ed89c319040bda202b526e12cfd3825&v=4" width="24" alt="Avatar of ryanmcgrath"/> ryanmcgrath
 			</a><br/>
 			Ryan McGrath
 		</td>
@@ -9899,10 +9912,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>754</td>
+		<td>755</td>
 		<td>
 			<a target="_blank" href="https://github.com/E869120">
-				<img src="https://private-avatars.githubusercontent.com/u/30901380?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEwNDAsIm5iZiI6MTczNDQ1OTg0MCwicGF0aCI6Ii91LzMwOTAxMzgwIn0.z2kjS_Oq_qSnFOUIQAwkiHQN5B2TSz863Q_NpeqX1k0&s=72&u=c631f14ecf883620d06ecb29a4f092ab423f2edd&v=4" width="24" alt="Avatar of E869120"/> E869120
+				<img src="https://private-avatars.githubusercontent.com/u/30901380?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA4NDAsIm5iZiI6MTczNDU2OTY0MCwicGF0aCI6Ii91LzMwOTAxMzgwIn0._98JhLfvaMhOLyzBvLONPynDUbqIFkT4RP12XBbBewY&s=72&u=c631f14ecf883620d06ecb29a4f092ab423f2edd&v=4" width="24" alt="Avatar of E869120"/> E869120
 			</a><br/>
 			Masataka Yoneda
 		</td>
@@ -9912,10 +9925,23 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>755</td>
+		<td>756</td>
+		<td>
+			<a target="_blank" href="https://github.com/horike37">
+				<img src="https://private-avatars.githubusercontent.com/u/1301012?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5MDAsIm5iZiI6MTczNDU2OTcwMCwicGF0aCI6Ii91LzEzMDEwMTIifQ.1BS9pnpMmxdYI76Jv8LPgMFD9eVvSBE5akD9-40Y7x8&s=72&u=c735240144c52844358f51395bf0e528c0fa2958&v=4" width="24" alt="Avatar of horike37"/> horike37
+			</a><br/>
+			Takahiro Horike
+		</td>
+		<td>Serverless Operations Inc </td>
+		<td>No Twitter Username</td>
+		<td>Japan</td>
+		<td>15</td>
+	</tr>
+	<tr>
+		<td>757</td>
 		<td>
 			<a target="_blank" href="https://github.com/anharu2394">
-				<img src="https://private-avatars.githubusercontent.com/u/26423094?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1MjAsIm5iZiI6MTczNDQ2MDMyMCwicGF0aCI6Ii91LzI2NDIzMDk0In0.feIkF2SZEFUxBpoBGlK--MSkNjMpOetpVar_kIiI3Yc&s=72&u=a78de84ec4d8dfe9d32f4168a7c35eaa7251dc67&v=4" width="24" alt="Avatar of anharu2394"/> anharu2394
+				<img src="https://private-avatars.githubusercontent.com/u/26423094?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzMjAsIm5iZiI6MTczNDU3MDEyMCwicGF0aCI6Ii91LzI2NDIzMDk0In0.Gzyfg7QO3dZbf98ZmXYnt7Y9u4LAC-8vspIFDk18Xxw&s=72&u=a78de84ec4d8dfe9d32f4168a7c35eaa7251dc67&v=4" width="24" alt="Avatar of anharu2394"/> anharu2394
 			</a><br/>
 			An Haru
 		</td>
@@ -9925,10 +9951,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>756</td>
+		<td>758</td>
 		<td>
 			<a target="_blank" href="https://github.com/jojonki">
-				<img src="https://private-avatars.githubusercontent.com/u/166852?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjIwNjAsIm5iZiI6MTczNDQ2MDg2MCwicGF0aCI6Ii91LzE2Njg1MiJ9.yfRuH2twncZ7jF1tql93Ml0b4Jd5CBncrsSAiTCWiB4&s=72&u=f719c928c3a896b018f9e82d91c2bbce981fe15e&v=4" width="24" alt="Avatar of jojonki"/> jojonki
+				<img src="https://private-avatars.githubusercontent.com/u/166852?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE4NjAsIm5iZiI6MTczNDU3MDY2MCwicGF0aCI6Ii91LzE2Njg1MiJ9.yjXIVfUROkeSgJ_DMLr3dLBLJWI1jiDa4hLmgevL_pM&s=72&u=f719c928c3a896b018f9e82d91c2bbce981fe15e&v=4" width="24" alt="Avatar of jojonki"/> jojonki
 			</a><br/>
 			Junki Ohmura
 		</td>
@@ -9938,10 +9964,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>15</td>
 	</tr>
 	<tr>
-		<td>757</td>
+		<td>759</td>
 		<td>
 			<a target="_blank" href="https://github.com/cj1128">
-				<img src="https://private-avatars.githubusercontent.com/u/4210829?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE2NDAsIm5iZiI6MTczNDQ2MDQ0MCwicGF0aCI6Ii91LzQyMTA4MjkifQ.Xnywhp7KAM3huv_hjaUPs4u1iKtf_p2lRNtLyfdhJCs&s=72&u=2fbe4f13a4c90f499d8e577715a905296b1d4711&v=4" width="24" alt="Avatar of cj1128"/> cj1128
+				<img src="https://private-avatars.githubusercontent.com/u/4210829?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA1NDAsIm5iZiI6MTczNDU2OTM0MCwicGF0aCI6Ii91LzQyMTA4MjkifQ.AnMLOge_M-Nt7IKizbSXDAurnh9x6EJ-l3Y567MgblE&s=72&u=2fbe4f13a4c90f499d8e577715a905296b1d4711&v=4" width="24" alt="Avatar of cj1128"/> cj1128
 			</a><br/>
 			CJ
 		</td>
@@ -9951,10 +9977,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>758</td>
+		<td>760</td>
 		<td>
 			<a target="_blank" href="https://github.com/TakuSemba">
-				<img src="https://private-avatars.githubusercontent.com/u/13956869?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExMDAsIm5iZiI6MTczNDQ1OTkwMCwicGF0aCI6Ii91LzEzOTU2ODY5In0.88-JR3JFNX_6PYRk-jrY4EdR_ZUH5WzfbaaG1PQwmW0&s=72&u=f11a930a59e56f32a86f23089af73d14677ed23d&v=4" width="24" alt="Avatar of TakuSemba"/> TakuSemba
+				<img src="https://private-avatars.githubusercontent.com/u/13956869?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5MDAsIm5iZiI6MTczNDU2OTcwMCwicGF0aCI6Ii91LzEzOTU2ODY5In0.nG7hqG4SqOsRQNA-vg06Mbh_ih3L34IRxNyddf9yIf4&s=72&u=f11a930a59e56f32a86f23089af73d14677ed23d&v=4" width="24" alt="Avatar of TakuSemba"/> TakuSemba
 			</a><br/>
 			TakuSemba
 		</td>
@@ -9964,10 +9990,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>14</td>
 	</tr>
 	<tr>
-		<td>759</td>
+		<td>761</td>
 		<td>
 			<a target="_blank" href="https://github.com/marty-suzuki">
-				<img src="https://private-avatars.githubusercontent.com/u/2082134?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA5ODAsIm5iZiI6MTczNDQ1OTc4MCwicGF0aCI6Ii91LzIwODIxMzQifQ.LJCcFg3IA3kK6WNWj6BsIRRGf6JX4akT4FzuG_cHhhQ&s=72&u=905a4246dca79785f50b3eb4e561cf668a698237&v=4" width="24" alt="Avatar of marty-suzuki"/> marty-suzuki
+				<img src="https://private-avatars.githubusercontent.com/u/2082134?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA3ODAsIm5iZiI6MTczNDU2OTU4MCwicGF0aCI6Ii91LzIwODIxMzQifQ._0NxnfFSPpbqGt9WTeVnTbEhwVgUa0TyTmY3mh_l1hY&s=72&u=905a4246dca79785f50b3eb4e561cf668a698237&v=4" width="24" alt="Avatar of marty-suzuki"/> marty-suzuki
 			</a><br/>
 			Taiki Suzuki
 		</td>
@@ -9977,23 +10003,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>760</td>
-		<td>
-			<a target="_blank" href="https://github.com/horike37">
-				<img src="https://private-avatars.githubusercontent.com/u/1301012?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExMDAsIm5iZiI6MTczNDQ1OTkwMCwicGF0aCI6Ii91LzEzMDEwMTIifQ.eEAKD3uwx7YfgStCKT9DZ00h4voBQdEdQhC66zAPcGI&s=72&u=c735240144c52844358f51395bf0e528c0fa2958&v=4" width="24" alt="Avatar of horike37"/> horike37
-			</a><br/>
-			Takahiro Horike
-		</td>
-		<td>Serverless Operations Inc </td>
-		<td>No Twitter Username</td>
-		<td>Japan</td>
-		<td>13</td>
-	</tr>
-	<tr>
-		<td>761</td>
+		<td>762</td>
 		<td>
 			<a target="_blank" href="https://github.com/Layzie">
-				<img src="https://private-avatars.githubusercontent.com/u/844804?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1MjAsIm5iZiI6MTczNDQ2MDMyMCwicGF0aCI6Ii91Lzg0NDgwNCJ9.qQw6ogBw2tnecU8sKC6mPTgmwNKbUa_9_GK89mttGHs&s=72&u=e5822e475074261482e88f5905e9273dee457212&v=4" width="24" alt="Avatar of Layzie"/> Layzie
+				<img src="https://private-avatars.githubusercontent.com/u/844804?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzMjAsIm5iZiI6MTczNDU3MDEyMCwicGF0aCI6Ii91Lzg0NDgwNCJ9.EYYoRZkXck8icd8IciRpmqXdoSHNNUSuG3jSaL2YGsY&s=72&u=e5822e475074261482e88f5905e9273dee457212&v=4" width="24" alt="Avatar of Layzie"/> Layzie
 			</a><br/>
 			HIRAKI Satoru
 		</td>
@@ -10003,10 +10016,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>762</td>
+		<td>763</td>
 		<td>
 			<a target="_blank" href="https://github.com/yandod">
-				<img src="https://private-avatars.githubusercontent.com/u/103903?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3NjAsIm5iZiI6MTczNDQ2MDU2MCwicGF0aCI6Ii91LzEwMzkwMyJ9.Oy4G9LCF1t8NPxgKEoW9hw7yLJQzaUuZ8vOLVjefczQ&s=72&v=4" width="24" alt="Avatar of yandod"/> yandod
+				<img src="https://private-avatars.githubusercontent.com/u/103903?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1NjAsIm5iZiI6MTczNDU3MDM2MCwicGF0aCI6Ii91LzEwMzkwMyJ9.YzmrGLh3wTVFMeV3icQZRYoP-VcMGaeTyYjsAo3YGuY&s=72&v=4" width="24" alt="Avatar of yandod"/> yandod
 			</a><br/>
 			Yusuke Ando
 		</td>
@@ -10016,10 +10029,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>763</td>
+		<td>764</td>
 		<td>
 			<a target="_blank" href="https://github.com/haqishen">
-				<img src="https://private-avatars.githubusercontent.com/u/10557602?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE4ODAsIm5iZiI6MTczNDQ2MDY4MCwicGF0aCI6Ii91LzEwNTU3NjAyIn0.fVFq8AFLcMr4E6dZNfY9TgYtRGwUNQ6_vHjHcBBhCrQ&s=72&u=7cc2168fc265a2e76fed570c84850b828e0ff2ca&v=4" width="24" alt="Avatar of haqishen"/> haqishen
+				<img src="https://private-avatars.githubusercontent.com/u/10557602?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE2ODAsIm5iZiI6MTczNDU3MDQ4MCwicGF0aCI6Ii91LzEwNTU3NjAyIn0.aYOr3altH3-p1K6BBrxg32FsTrcNEpX0XMlQEm8vVOc&s=72&u=7cc2168fc265a2e76fed570c84850b828e0ff2ca&v=4" width="24" alt="Avatar of haqishen"/> haqishen
 			</a><br/>
 			haqishen
 		</td>
@@ -10029,10 +10042,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>13</td>
 	</tr>
 	<tr>
-		<td>764</td>
+		<td>765</td>
 		<td>
 			<a target="_blank" href="https://github.com/Kaixhin">
-				<img src="https://private-avatars.githubusercontent.com/u/991891?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA4MDAsIm5iZiI6MTczNDQ1OTYwMCwicGF0aCI6Ii91Lzk5MTg5MSJ9.xHm7PLHGCGPqnV7R9LLtaqtlPktD-fvDTcAN56tbWiA&s=72&v=4" width="24" alt="Avatar of Kaixhin"/> Kaixhin
+				<img src="https://private-avatars.githubusercontent.com/u/991891?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA2MDAsIm5iZiI6MTczNDU2OTQwMCwicGF0aCI6Ii91Lzk5MTg5MSJ9.2Rh0dDZfMB3lZ4v2PLYQ6SG6fMX5YrBaJAHdis51vaA&s=72&v=4" width="24" alt="Avatar of Kaixhin"/> Kaixhin
 			</a><br/>
 			Kai Arulkumaran
 		</td>
@@ -10042,10 +10055,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>765</td>
+		<td>766</td>
 		<td>
 			<a target="_blank" href="https://github.com/Tedko">
-				<img src="https://private-avatars.githubusercontent.com/u/6687437?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3MDAsIm5iZiI6MTczNDQ2MDUwMCwicGF0aCI6Ii91LzY2ODc0MzcifQ.lMal8RBY20u2JpyLbXDhyk07rlKVSqps4X-j0OCl7D4&s=72&u=42404bc7a7ff29b877ca6cd24f364d9257776c2f&v=4" width="24" alt="Avatar of Tedko"/> Tedko
+				<img src="https://private-avatars.githubusercontent.com/u/6687437?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1MDAsIm5iZiI6MTczNDU3MDMwMCwicGF0aCI6Ii91LzY2ODc0MzcifQ.UkLIELjr16VCptxIGWMoTLtPr--90jJ8NZ5rfsN-juA&s=72&u=42404bc7a7ff29b877ca6cd24f364d9257776c2f&v=4" width="24" alt="Avatar of Tedko"/> Tedko
 			</a><br/>
 			Suji Yan
 		</td>
@@ -10055,10 +10068,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>766</td>
+		<td>767</td>
 		<td>
 			<a target="_blank" href="https://github.com/hiloki">
-				<img src="https://private-avatars.githubusercontent.com/u/445333?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyODAsIm5iZiI6MTczNDQ2MDA4MCwicGF0aCI6Ii91LzQ0NTMzMyJ9.qgfDjGeG-ZGfze53TIecMUmwiJcCFt4ZsiPuPCNNsx8&s=72&u=9519d8e6f866074158efc4acd8da8980b47752f7&v=4" width="24" alt="Avatar of hiloki"/> hiloki
+				<img src="https://private-avatars.githubusercontent.com/u/445333?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwODAsIm5iZiI6MTczNDU2OTg4MCwicGF0aCI6Ii91LzQ0NTMzMyJ9.TqXMbTg0KMqfMpqW5eIMD3yck9uE7GvWcFqHxNLtfiE&s=72&u=9519d8e6f866074158efc4acd8da8980b47752f7&v=4" width="24" alt="Avatar of hiloki"/> hiloki
 			</a><br/>
 			Hiroki Tani
 		</td>
@@ -10068,10 +10081,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>767</td>
+		<td>768</td>
 		<td>
 			<a target="_blank" href="https://github.com/hirak">
-				<img src="https://private-avatars.githubusercontent.com/u/835251?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3MDAsIm5iZiI6MTczNDQ2MDUwMCwicGF0aCI6Ii91LzgzNTI1MSJ9.6cdLfZWRe3wRUMeLcQp-e5Dk1k-6VgEe79PV2SE95FU&s=72&u=efed79175c641bb61a5a8e837709554aaf855791&v=4" width="24" alt="Avatar of hirak"/> hirak
+				<img src="https://private-avatars.githubusercontent.com/u/835251?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1MDAsIm5iZiI6MTczNDU3MDMwMCwicGF0aCI6Ii91LzgzNTI1MSJ9.ZtkkmwyMnptNHgXsIaDeEqm8uXOWZsorH8L1pM5XCtI&s=72&u=efed79175c641bb61a5a8e837709554aaf855791&v=4" width="24" alt="Avatar of hirak"/> hirak
 			</a><br/>
 			Hiraku NAKANO
 		</td>
@@ -10081,10 +10094,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>768</td>
+		<td>769</td>
 		<td>
 			<a target="_blank" href="https://github.com/matschaffer">
-				<img src="https://private-avatars.githubusercontent.com/u/690?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyMjAsIm5iZiI6MTczNDQ2MDAyMCwicGF0aCI6Ii91LzY5MCJ9.1nAk4DrxU6CYeUbGv043xWNOESB67zVzBzDk7__WjCY&s=72&u=a3b5d3678a950f4087a9927b4ed5dabd9318a9ab&v=4" width="24" alt="Avatar of matschaffer"/> matschaffer
+				<img src="https://private-avatars.githubusercontent.com/u/690?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwMjAsIm5iZiI6MTczNDU2OTgyMCwicGF0aCI6Ii91LzY5MCJ9.Urt0Xwavmq2Y6gKVB535VQNh1QhLYTTtJaF8OvnPQu8&s=72&u=a3b5d3678a950f4087a9927b4ed5dabd9318a9ab&v=4" width="24" alt="Avatar of matschaffer"/> matschaffer
 			</a><br/>
 			Mat Schaffer
 		</td>
@@ -10094,10 +10107,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>769</td>
+		<td>770</td>
 		<td>
 			<a target="_blank" href="https://github.com/Richard-Burns">
-				<img src="https://private-avatars.githubusercontent.com/u/3763399?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyODAsIm5iZiI6MTczNDQ2MDA4MCwicGF0aCI6Ii91LzM3NjMzOTkifQ._AWL4JEJkjcRrKDNA8pIxRehR-nxMBOe664fB7Mc58k&s=72&v=4" width="24" alt="Avatar of Richard-Burns"/> Richard-Burns
+				<img src="https://private-avatars.githubusercontent.com/u/3763399?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwODAsIm5iZiI6MTczNDU2OTg4MCwicGF0aCI6Ii91LzM3NjMzOTkifQ.mxIDRby1rd89CrtYX4XpGyHW8RzV_qUSAVhN28j0wOM&s=72&v=4" width="24" alt="Avatar of Richard-Burns"/> Richard-Burns
 			</a><br/>
 			Richard Burns
 		</td>
@@ -10107,10 +10120,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>770</td>
+		<td>771</td>
 		<td>
 			<a target="_blank" href="https://github.com/kotakanbe">
-				<img src="https://private-avatars.githubusercontent.com/u/534611?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE4ODAsIm5iZiI6MTczNDQ2MDY4MCwicGF0aCI6Ii91LzUzNDYxMSJ9.0G8dbsNWa7hKupKEUByGc4U-j32OlYJ54KtL_yz1-xA&s=72&u=758ece4f4c4e9073ef0bfbf363511dab2afab5a1&v=4" width="24" alt="Avatar of kotakanbe"/> kotakanbe
+				<img src="https://private-avatars.githubusercontent.com/u/534611?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE2ODAsIm5iZiI6MTczNDU3MDQ4MCwicGF0aCI6Ii91LzUzNDYxMSJ9.WETU8sCm-rPDqW-EssnrQpLRCULY0-cLj7cFlxUQHBw&s=72&u=758ece4f4c4e9073ef0bfbf363511dab2afab5a1&v=4" width="24" alt="Avatar of kotakanbe"/> kotakanbe
 			</a><br/>
 			Kota Kanbe
 		</td>
@@ -10120,10 +10133,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>12</td>
 	</tr>
 	<tr>
-		<td>771</td>
+		<td>772</td>
 		<td>
 			<a target="_blank" href="https://github.com/kaustubhhiware">
-				<img src="https://private-avatars.githubusercontent.com/u/11318551?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE4ODAsIm5iZiI6MTczNDQ2MDY4MCwicGF0aCI6Ii91LzExMzE4NTUxIn0.78siX-m8jQCRRabsxhuG7wMGs7GBJNpD9RMTqVfr2ds&s=72&u=9ae43ff335eb60baf361c3e4e1412936dc8a6d49&v=4" width="24" alt="Avatar of kaustubhhiware"/> kaustubhhiware
+				<img src="https://private-avatars.githubusercontent.com/u/11318551?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA3ODAsIm5iZiI6MTczNDU2OTU4MCwicGF0aCI6Ii91LzExMzE4NTUxIn0.CvZLMPRTXzkU5vCeLHXTnsdOEytMCskWj_thC1t-c4U&s=72&u=9ae43ff335eb60baf361c3e4e1412936dc8a6d49&v=4" width="24" alt="Avatar of kaustubhhiware"/> kaustubhhiware
 			</a><br/>
 			Kaustubh Hiware
 		</td>
@@ -10133,10 +10146,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>772</td>
+		<td>773</td>
 		<td>
 			<a target="_blank" href="https://github.com/thorikawa">
-				<img src="https://private-avatars.githubusercontent.com/u/108989?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjIxMjAsIm5iZiI6MTczNDQ2MDkyMCwicGF0aCI6Ii91LzEwODk4OSJ9.jrplZ5JQ5wiP0JNzpF_xHbuSo6C71OpptushQT8H0AM&s=72&u=4bc3511169e586a8dfee4f38c93cad37cf90e4c5&v=4" width="24" alt="Avatar of thorikawa"/> thorikawa
+				<img src="https://private-avatars.githubusercontent.com/u/108989?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwMjAsIm5iZiI6MTczNDU2OTgyMCwicGF0aCI6Ii91LzEwODk4OSJ9.e4Mb_PMJqaDHsm0fSkAYthEYyECbCBYtLSnpHiQCnlA&s=72&u=4bc3511169e586a8dfee4f38c93cad37cf90e4c5&v=4" width="24" alt="Avatar of thorikawa"/> thorikawa
 			</a><br/>
 			Takahiro Poly Horikawa
 		</td>
@@ -10146,10 +10159,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>773</td>
+		<td>774</td>
 		<td>
 			<a target="_blank" href="https://github.com/davidnguyen11">
-				<img src="https://private-avatars.githubusercontent.com/u/6290720?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE2NDAsIm5iZiI6MTczNDQ2MDQ0MCwicGF0aCI6Ii91LzYyOTA3MjAifQ.kJ7GS57Ajzx6WzAxyidZUIVJSbT3Rflxcwa_NCNsNJw&s=72&u=1961da926907f170589dd702dd11411e7b1cf8b0&v=4" width="24" alt="Avatar of davidnguyen11"/> davidnguyen11
+				<img src="https://private-avatars.githubusercontent.com/u/6290720?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE0NDAsIm5iZiI6MTczNDU3MDI0MCwicGF0aCI6Ii91LzYyOTA3MjAifQ.TCtHbuaHdhEqGlxVI4jplWWnfM2YotE750cij1GzVmM&s=72&u=1961da926907f170589dd702dd11411e7b1cf8b0&v=4" width="24" alt="Avatar of davidnguyen11"/> davidnguyen11
 			</a><br/>
 			David Nguyen
 		</td>
@@ -10159,23 +10172,10 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>11</td>
 	</tr>
 	<tr>
-		<td>774</td>
-		<td>
-			<a target="_blank" href="https://github.com/oukayuka">
-				<img src="https://private-avatars.githubusercontent.com/u/31567?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjIxMjAsIm5iZiI6MTczNDQ2MDkyMCwicGF0aCI6Ii91LzMxNTY3In0.8jaATEhz3vZl2yInwKyaRhBV-AQuseaPGxTtQ8vpA44&s=72&u=25d32cfd79d1339c07107689f33420339e4d5c65&v=4" width="24" alt="Avatar of oukayuka"/> oukayuka
-			</a><br/>
-			Yuka Ooka
-		</td>
-		<td>@klemiwary </td>
-		<td><a target="_blank" href="https://twitter.com/oukayuka">oukayuka</a></td>
-		<td>Kawasaki Japan</td>
-		<td>11</td>
-	</tr>
-	<tr>
 		<td>775</td>
 		<td>
 			<a target="_blank" href="https://github.com/MasayukiSuda">
-				<img src="https://private-avatars.githubusercontent.com/u/2410843?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0MDAsIm5iZiI6MTczNDQ2MDIwMCwicGF0aCI6Ii91LzI0MTA4NDMifQ.3GWl1DviPHvpksTG8rZZ-UbpqyxizuvXEwDyrr2WqQo&s=72&u=984607d68efaba86a603523c21b9060250f4e422&v=4" width="24" alt="Avatar of MasayukiSuda"/> MasayukiSuda
+				<img src="https://private-avatars.githubusercontent.com/u/2410843?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyMDAsIm5iZiI6MTczNDU3MDAwMCwicGF0aCI6Ii91LzI0MTA4NDMifQ.NPG-vx_hQkGUDiqCHGFyBFrMDn-SK6jI8Y3J9tg9DUM&s=72&u=984607d68efaba86a603523c21b9060250f4e422&v=4" width="24" alt="Avatar of MasayukiSuda"/> MasayukiSuda
 			</a><br/>
 			Masayuki Suda
 		</td>
@@ -10188,7 +10188,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>776</td>
 		<td>
 			<a target="_blank" href="https://github.com/cubicdaiya">
-				<img src="https://private-avatars.githubusercontent.com/u/56752?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE2NDAsIm5iZiI6MTczNDQ2MDQ0MCwicGF0aCI6Ii91LzU2NzUyIn0.gq-RCpF7Be23oQKaWmcbcq6_4eCrqin5IDkxlLNZN6o&s=72&u=3286caee9cc7c374ec32e2f172b2e2295bc16943&v=4" width="24" alt="Avatar of cubicdaiya"/> cubicdaiya
+				<img src="https://private-avatars.githubusercontent.com/u/56752?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE0NDAsIm5iZiI6MTczNDU3MDI0MCwicGF0aCI6Ii91LzU2NzUyIn0.a0Y35GfKkqYW8U0ZMB-eZ45tRK7s7twtawmyxTZ5X-s&s=72&u=3286caee9cc7c374ec32e2f172b2e2295bc16943&v=4" width="24" alt="Avatar of cubicdaiya"/> cubicdaiya
 			</a><br/>
 			Tatsuhiko Kubo
 		</td>
@@ -10201,7 +10201,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>777</td>
 		<td>
 			<a target="_blank" href="https://github.com/avie-dev">
-				<img src="https://private-avatars.githubusercontent.com/u/80023616?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1ODAsIm5iZiI6MTczNDQ2MDM4MCwicGF0aCI6Ii91LzgwMDIzNjE2In0.lH6plKyrls-fY5oKcUKO8mIVo2xq9aoYhjxANSkzbFk&s=72&u=2ae1119b0a541fe00fe579b469d14470dfb74671&v=4" width="24" alt="Avatar of avie-dev"/> avie-dev
+				<img src="https://private-avatars.githubusercontent.com/u/80023616?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzODAsIm5iZiI6MTczNDU3MDE4MCwicGF0aCI6Ii91LzgwMDIzNjE2In0.qHIjobDQEft9vQ8QJuHcrQrF4Q1hd2uEQ0q5Lju9YFw&s=72&u=2ae1119b0a541fe00fe579b469d14470dfb74671&v=4" width="24" alt="Avatar of avie-dev"/> avie-dev
 			</a><br/>
 			Jonavil Avie Fukai
 		</td>
@@ -10214,7 +10214,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>778</td>
 		<td>
 			<a target="_blank" href="https://github.com/hirose31">
-				<img src="https://private-avatars.githubusercontent.com/u/9108?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE2NDAsIm5iZiI6MTczNDQ2MDQ0MCwicGF0aCI6Ii91LzkxMDgifQ.29D9CpjoFlRpIdEwuTS3kHPfmUxeIgRuCT8y9OV-AHA&s=72&v=4" width="24" alt="Avatar of hirose31"/> hirose31
+				<img src="https://private-avatars.githubusercontent.com/u/9108?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE0NDAsIm5iZiI6MTczNDU3MDI0MCwicGF0aCI6Ii91LzkxMDgifQ.PVntGwCnJVIntlGJiWJ29JYWke3XIexFWvurJXoRDM4&s=72&v=4" width="24" alt="Avatar of hirose31"/> hirose31
 			</a><br/>
 			hirose31
 		</td>
@@ -10227,7 +10227,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>779</td>
 		<td>
 			<a target="_blank" href="https://github.com/nghialv">
-				<img src="https://private-avatars.githubusercontent.com/u/1751755?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExMDAsIm5iZiI6MTczNDQ1OTkwMCwicGF0aCI6Ii91LzE3NTE3NTUifQ.rafOc3DvQGS86cXEmWTWbcIYIFvw647MvPSY-FiERtw&s=72&u=488d7ea63fd8d67c4badb0d422812c51ddd22b60&v=4" width="24" alt="Avatar of nghialv"/> nghialv
+				<img src="https://private-avatars.githubusercontent.com/u/1751755?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5MDAsIm5iZiI6MTczNDU2OTcwMCwicGF0aCI6Ii91LzE3NTE3NTUifQ.Iqs44Y7zsMeoeyHDSjfBbFp8wOMJg1TyYEB4zIoNWpE&s=72&u=488d7ea63fd8d67c4badb0d422812c51ddd22b60&v=4" width="24" alt="Avatar of nghialv"/> nghialv
 			</a><br/>
 			nghialv
 		</td>
@@ -10240,7 +10240,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>780</td>
 		<td>
 			<a target="_blank" href="https://github.com/eneim">
-				<img src="https://private-avatars.githubusercontent.com/u/1776230?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3MDAsIm5iZiI6MTczNDQ2MDUwMCwicGF0aCI6Ii91LzE3NzYyMzAifQ.3rruNI0nzUT4zVHgkNk6IbVabFyJiRocuUS6OgEzo7s&s=72&u=4b1ccb9089de1609b8eb289feeed927ef739287c&v=4" width="24" alt="Avatar of eneim"/> eneim
+				<img src="https://private-avatars.githubusercontent.com/u/1776230?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1MDAsIm5iZiI6MTczNDU3MDMwMCwicGF0aCI6Ii91LzE3NzYyMzAifQ.RAVGnNNCeECGk6br9RZqz9HfdcGFmDtVz1PAHrTPl40&s=72&u=4b1ccb9089de1609b8eb289feeed927ef739287c&v=4" width="24" alt="Avatar of eneim"/> eneim
 			</a><br/>
 			Nam Nguyen
 		</td>
@@ -10253,7 +10253,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>781</td>
 		<td>
 			<a target="_blank" href="https://github.com/yoshiya0503">
-				<img src="https://private-avatars.githubusercontent.com/u/5334715?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjIxMjAsIm5iZiI6MTczNDQ2MDkyMCwicGF0aCI6Ii91LzUzMzQ3MTUifQ.dBvgIixUEdEMHmIBa77KRVkdqZsb9x0lcdW_YCVwqiA&s=72&u=0895bdc69ab8250c445db917876466816fa574b2&v=4" width="24" alt="Avatar of yoshiya0503"/> yoshiya0503
+				<img src="https://private-avatars.githubusercontent.com/u/5334715?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwMjAsIm5iZiI6MTczNDU2OTgyMCwicGF0aCI6Ii91LzUzMzQ3MTUifQ.EZLtPe7ASEPp949GxvMaaj9ldUudQuHbLiquN5BzePI&s=72&u=0895bdc69ab8250c445db917876466816fa574b2&v=4" width="24" alt="Avatar of yoshiya0503"/> yoshiya0503
 			</a><br/>
 			Ruki
 		</td>
@@ -10266,7 +10266,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>782</td>
 		<td>
 			<a target="_blank" href="https://github.com/uupaa">
-				<img src="https://private-avatars.githubusercontent.com/u/246448?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1ODAsIm5iZiI6MTczNDQ2MDM4MCwicGF0aCI6Ii91LzI0NjQ0OCJ9.jemaoERQgrmwWcKnfiG4fmFVnVMhdt7fcnFUGyoy3cY&s=72&v=4" width="24" alt="Avatar of uupaa"/> uupaa
+				<img src="https://private-avatars.githubusercontent.com/u/246448?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzODAsIm5iZiI6MTczNDU3MDE4MCwicGF0aCI6Ii91LzI0NjQ0OCJ9.bQwHKNYQKC6WzkJk9BwSt9TT3umxG3GAJCL9cLDGZoo&s=72&v=4" width="24" alt="Avatar of uupaa"/> uupaa
 			</a><br/>
 			uupaa
 		</td>
@@ -10279,7 +10279,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>783</td>
 		<td>
 			<a target="_blank" href="https://github.com/yugui">
-				<img src="https://private-avatars.githubusercontent.com/u/8161?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEzNDAsIm5iZiI6MTczNDQ2MDE0MCwicGF0aCI6Ii91LzgxNjEifQ.1r8u04ISgNKBbye_7WgpIj_P2tgC1X8_ltrHRHnhvrg&s=72&u=8effa02c2c9ba604e8aa86e3183623a5afe22285&v=4" width="24" alt="Avatar of yugui"/> yugui
+				<img src="https://private-avatars.githubusercontent.com/u/8161?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzExNDAsIm5iZiI6MTczNDU2OTk0MCwicGF0aCI6Ii91LzgxNjEifQ.wSScQd0u3Bzsu0uwYI1fCpYPH_X_8UgIZj5CoYlUQBQ&s=72&u=8effa02c2c9ba604e8aa86e3183623a5afe22285&v=4" width="24" alt="Avatar of yugui"/> yugui
 			</a><br/>
 			Yuki Yugui Sonoda
 		</td>
@@ -10292,7 +10292,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>784</td>
 		<td>
 			<a target="_blank" href="https://github.com/junnplus">
-				<img src="https://private-avatars.githubusercontent.com/u/8097526?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0NjAsIm5iZiI6MTczNDQ2MDI2MCwicGF0aCI6Ii91LzgwOTc1MjYifQ.ImwF_6GcJS-UOm5X8_KnJfci3u-inDpGszxTF90Dr0U&s=72&u=1775385fd06c9529a6c625173c2192ed171a27d0&v=4" width="24" alt="Avatar of junnplus"/> junnplus
+				<img src="https://private-avatars.githubusercontent.com/u/8097526?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyNjAsIm5iZiI6MTczNDU3MDA2MCwicGF0aCI6Ii91LzgwOTc1MjYifQ.stpTA7mgHr0nhVQKLD6vzYAFweFP-Ktto2_3G1OdWIc&s=72&u=1775385fd06c9529a6c625173c2192ed171a27d0&v=4" width="24" alt="Avatar of junnplus"/> junnplus
 			</a><br/>
 			Jun
 		</td>
@@ -10305,7 +10305,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>785</td>
 		<td>
 			<a target="_blank" href="https://github.com/ninjinkun">
-				<img src="https://private-avatars.githubusercontent.com/u/113420?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3NjAsIm5iZiI6MTczNDQ2MDU2MCwicGF0aCI6Ii91LzExMzQyMCJ9.OShLZGKGk04XzAY5tuimOtx12WZbEjsuQTSG6a5iA8A&s=72&u=db6f5f28368bfd500235742f56c4bdd59ddf5f15&v=4" width="24" alt="Avatar of ninjinkun"/> ninjinkun
+				<img src="https://private-avatars.githubusercontent.com/u/113420?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1NjAsIm5iZiI6MTczNDU3MDM2MCwicGF0aCI6Ii91LzExMzQyMCJ9.CfL1uQwKdGarqAzGoDG4UJBE1ATiyfZsDCt-fw1VHMA&s=72&u=db6f5f28368bfd500235742f56c4bdd59ddf5f15&v=4" width="24" alt="Avatar of ninjinkun"/> ninjinkun
 			</a><br/>
 			Satoshi Asano
 		</td>
@@ -10318,7 +10318,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>786</td>
 		<td>
 			<a target="_blank" href="https://github.com/shinout">
-				<img src="https://private-avatars.githubusercontent.com/u/196333?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0MDAsIm5iZiI6MTczNDQ2MDIwMCwicGF0aCI6Ii91LzE5NjMzMyJ9.lmF4GQXmVDlS-eAUs45CaekL0ox6SLykywDw6U-S1aw&s=72&u=43dc2ed97e3d520ae4f9cfdb903a4d8c0e8ed91c&v=4" width="24" alt="Avatar of shinout"/> shinout
+				<img src="https://private-avatars.githubusercontent.com/u/196333?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyMDAsIm5iZiI6MTczNDU3MDAwMCwicGF0aCI6Ii91LzE5NjMzMyJ9.QNGvVjY7HKcc57nrtR2KOtp7T0oDUCkZnQeZhQb3FhQ&s=72&u=43dc2ed97e3d520ae4f9cfdb903a4d8c0e8ed91c&v=4" width="24" alt="Avatar of shinout"/> shinout
 			</a><br/>
 			Shin Suzuki
 		</td>
@@ -10331,7 +10331,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>787</td>
 		<td>
 			<a target="_blank" href="https://github.com/mooz">
-				<img src="https://private-avatars.githubusercontent.com/u/40159?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1MjAsIm5iZiI6MTczNDQ2MDMyMCwicGF0aCI6Ii91LzQwMTU5In0.yH2DXu-R3sIC9cscnWl7Xv6jqhOc_9ZgGhtZz53S5S4&s=72&v=4" width="24" alt="Avatar of mooz"/> mooz
+				<img src="https://private-avatars.githubusercontent.com/u/40159?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzMjAsIm5iZiI6MTczNDU3MDEyMCwicGF0aCI6Ii91LzQwMTU5In0.nMyIOy_qlX2ihHTE4F69_n61VEpCh8aMPoRa-EOA94o&s=72&v=4" width="24" alt="Avatar of mooz"/> mooz
 			</a><br/>
 			Masafumi Oyamada
 		</td>
@@ -10344,7 +10344,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>788</td>
 		<td>
 			<a target="_blank" href="https://github.com/matsumotory">
-				<img src="https://private-avatars.githubusercontent.com/u/648437?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEwNDAsIm5iZiI6MTczNDQ1OTg0MCwicGF0aCI6Ii91LzY0ODQzNyJ9.Ioz-7TijYBfzEBmEoAhYG2RAYifvsnTOGG76qQqfmUA&s=72&u=f3ed5afc482e2e8d86ccc4cdafaa82d3ac188407&v=4" width="24" alt="Avatar of matsumotory"/> matsumotory
+				<img src="https://private-avatars.githubusercontent.com/u/648437?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA4NDAsIm5iZiI6MTczNDU2OTY0MCwicGF0aCI6Ii91LzY0ODQzNyJ9.ZSAkNO2HdSDgHkGpzVJXyaHpUzupp6mur49V1kDFcWA&s=72&u=f3ed5afc482e2e8d86ccc4cdafaa82d3ac188407&v=4" width="24" alt="Avatar of matsumotory"/> matsumotory
 			</a><br/>
 			Ryosuke Matsumoto  @matsumotory
 		</td>
@@ -10357,7 +10357,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>789</td>
 		<td>
 			<a target="_blank" href="https://github.com/yoshiko-pg">
-				<img src="https://private-avatars.githubusercontent.com/u/6822923?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExMDAsIm5iZiI6MTczNDQ1OTkwMCwicGF0aCI6Ii91LzY4MjI5MjMifQ.3RtEc5D_RAzxWpMr0sSb3CO2MFHOX8KTnUbIXlqjytk&s=72&u=b7bf903d2449d89aaa040111ee00f721995b1e75&v=4" width="24" alt="Avatar of yoshiko-pg"/> yoshiko-pg
+				<img src="https://private-avatars.githubusercontent.com/u/6822923?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5MDAsIm5iZiI6MTczNDU2OTcwMCwicGF0aCI6Ii91LzY4MjI5MjMifQ.Dm5E6pRU-bKRuEAAqzxC3NwqNBNeRx4cMBsWHfrIJbA&s=72&u=b7bf903d2449d89aaa040111ee00f721995b1e75&v=4" width="24" alt="Avatar of yoshiko-pg"/> yoshiko-pg
 			</a><br/>
 			
 		</td>
@@ -10370,7 +10370,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>790</td>
 		<td>
 			<a target="_blank" href="https://github.com/YutaroOgawa">
-				<img src="https://private-avatars.githubusercontent.com/u/38151872?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE4MjAsIm5iZiI6MTczNDQ2MDYyMCwicGF0aCI6Ii91LzM4MTUxODcyIn0.zQ48KMIRTvuYsbmXkH0kLRFEhDwGWwEIO0YX2d_vCMk&s=72&u=63af703ad24eb04fb9c478a8240c5dc19ef2649c&v=4" width="24" alt="Avatar of YutaroOgawa"/> YutaroOgawa
+				<img src="https://private-avatars.githubusercontent.com/u/38151872?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE2MjAsIm5iZiI6MTczNDU3MDQyMCwicGF0aCI6Ii91LzM4MTUxODcyIn0.fkbrkoHygyxt5PyyMIhThSX94ffgt0rMeLrx_zk3paw&s=72&u=63af703ad24eb04fb9c478a8240c5dc19ef2649c&v=4" width="24" alt="Avatar of YutaroOgawa"/> YutaroOgawa
 			</a><br/>
 			Yutaro Ogawa
 		</td>
@@ -10383,7 +10383,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>791</td>
 		<td>
 			<a target="_blank" href="https://github.com/summerwind">
-				<img src="https://private-avatars.githubusercontent.com/u/230145?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyODAsIm5iZiI6MTczNDQ2MDA4MCwicGF0aCI6Ii91LzIzMDE0NSJ9.WwiimPIcjxh8W2dfn7PrdKZKRqfpGPavgx-3xz4m84w&s=72&v=4" width="24" alt="Avatar of summerwind"/> summerwind
+				<img src="https://private-avatars.githubusercontent.com/u/230145?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwODAsIm5iZiI6MTczNDU2OTg4MCwicGF0aCI6Ii91LzIzMDE0NSJ9.KDZJ1V2gQ6TOURiPAEfkZKSXrgSoNxRLVoaWEbExMnM&s=72&v=4" width="24" alt="Avatar of summerwind"/> summerwind
 			</a><br/>
 			Moto Ishizawa
 		</td>
@@ -10396,7 +10396,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>792</td>
 		<td>
 			<a target="_blank" href="https://github.com/woodrush">
-				<img src="https://private-avatars.githubusercontent.com/u/4700588?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0NjAsIm5iZiI6MTczNDQ2MDI2MCwicGF0aCI6Ii91LzQ3MDA1ODgifQ.ZAsHcv8XGHhbDoz6UoqHHS-2UA4bqeX-GHRr2Z-N5io&s=72&u=6fefd04ca599bd777576b3b9b7052da2c3904a0e&v=4" width="24" alt="Avatar of woodrush"/> woodrush
+				<img src="https://private-avatars.githubusercontent.com/u/4700588?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyNjAsIm5iZiI6MTczNDU3MDA2MCwicGF0aCI6Ii91LzQ3MDA1ODgifQ.gSmZZIlRpg_snacg_PMvbqFVjfj4BKIQDXcDA0Iuxn4&s=72&u=6fefd04ca599bd777576b3b9b7052da2c3904a0e&v=4" width="24" alt="Avatar of woodrush"/> woodrush
 			</a><br/>
 			Hikaru Ikuta
 		</td>
@@ -10409,7 +10409,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>793</td>
 		<td>
 			<a target="_blank" href="https://github.com/ryo24">
-				<img src="https://private-avatars.githubusercontent.com/u/9673470?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE4ODAsIm5iZiI6MTczNDQ2MDY4MCwicGF0aCI6Ii91Lzk2NzM0NzAifQ.ZkVLoXtMolQZPTwfPJuoil0ClvoAp9oPNDl6OmfWwu0&s=72&u=cb72edbd5bd74b28d1903a47d2bc7a60ade2e67e&v=4" width="24" alt="Avatar of ryo24"/> ryo24
+				<img src="https://private-avatars.githubusercontent.com/u/9673470?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE2ODAsIm5iZiI6MTczNDU3MDQ4MCwicGF0aCI6Ii91Lzk2NzM0NzAifQ.qMh2TQAh33qSOgqRTlabtPps0TcZCHOXyyK4C1UYj5g&s=72&u=cb72edbd5bd74b28d1903a47d2bc7a60ade2e67e&v=4" width="24" alt="Avatar of ryo24"/> ryo24
 			</a><br/>
 			Ryo Yamamoto
 		</td>
@@ -10422,7 +10422,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>794</td>
 		<td>
 			<a target="_blank" href="https://github.com/moro">
-				<img src="https://private-avatars.githubusercontent.com/u/3419?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjIwMDAsIm5iZiI6MTczNDQ2MDgwMCwicGF0aCI6Ii91LzM0MTkifQ.58CUiiMQyNnltGkXgKrlNFTILuEUK8aK_nzc1DCq1aY&s=72&u=22d1dd18b824af643adbcf1581c7a6a50526020d&v=4" width="24" alt="Avatar of moro"/> moro
+				<img src="https://private-avatars.githubusercontent.com/u/3419?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE4MDAsIm5iZiI6MTczNDU3MDYwMCwicGF0aCI6Ii91LzM0MTkifQ.fLAk1HhlrUPbRjjnZ5RsWSx1Yz_JpJaJVzUnlToRQH4&s=72&u=22d1dd18b824af643adbcf1581c7a6a50526020d&v=4" width="24" alt="Avatar of moro"/> moro
 			</a><br/>
 			MOROHASHI Kyosuke
 		</td>
@@ -10435,7 +10435,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>795</td>
 		<td>
 			<a target="_blank" href="https://github.com/mehrankmlf">
-				<img src="https://private-avatars.githubusercontent.com/u/24524023?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1MjAsIm5iZiI6MTczNDQ2MDMyMCwicGF0aCI6Ii91LzI0NTI0MDIzIn0.A5dO1xFHGC1vhrNvh20TZVhidWvAOS7oDkDyQqGpoKI&s=72&u=5a03a0e19361dc2a2ab2b685c7bb1702af9f73de&v=4" width="24" alt="Avatar of mehrankmlf"/> mehrankmlf
+				<img src="https://private-avatars.githubusercontent.com/u/24524023?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzMjAsIm5iZiI6MTczNDU3MDEyMCwicGF0aCI6Ii91LzI0NTI0MDIzIn0.VUReswfWfa-vHIU8V6z2iHOPGPcu9erxGr0DCeadmy4&s=72&u=5a03a0e19361dc2a2ab2b685c7bb1702af9f73de&v=4" width="24" alt="Avatar of mehrankmlf"/> mehrankmlf
 			</a><br/>
 			Mehran Kamalifard
 		</td>
@@ -10448,7 +10448,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>796</td>
 		<td>
 			<a target="_blank" href="https://github.com/shokai">
-				<img src="https://private-avatars.githubusercontent.com/u/34204?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3NjAsIm5iZiI6MTczNDQ2MDU2MCwicGF0aCI6Ii91LzM0MjA0In0.GTjMAIsPU6WQ-kTMygwXa402TPw5BsMIvWqTWX7OZO0&s=72&u=8bec96595ac613e2936155cc9764fdf60ca766a2&v=4" width="24" alt="Avatar of shokai"/> shokai
+				<img src="https://private-avatars.githubusercontent.com/u/34204?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1NjAsIm5iZiI6MTczNDU3MDM2MCwicGF0aCI6Ii91LzM0MjA0In0.oPKHYqaM-KOUW5omxUDovjn3PvBhqj5H0rjEF4Css3E&s=72&u=8bec96595ac613e2936155cc9764fdf60ca766a2&v=4" width="24" alt="Avatar of shokai"/> shokai
 			</a><br/>
 			Sho Hashimoto
 		</td>
@@ -10461,7 +10461,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>797</td>
 		<td>
 			<a target="_blank" href="https://github.com/nyanp">
-				<img src="https://private-avatars.githubusercontent.com/u/378738?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE4MjAsIm5iZiI6MTczNDQ2MDYyMCwicGF0aCI6Ii91LzM3ODczOCJ9.XlrrrOWZYpZ77GaDkQr50e_1KOC6cutQuuf1cUL61V8&s=72&u=d549eeb4cd554286ccca402c165d4aaf070cd3ba&v=4" width="24" alt="Avatar of nyanp"/> nyanp
+				<img src="https://private-avatars.githubusercontent.com/u/378738?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE2MjAsIm5iZiI6MTczNDU3MDQyMCwicGF0aCI6Ii91LzM3ODczOCJ9.Z-K-L5mbeX4x3wCzyctQvEd-CtcV9UyPLByWroKCATM&s=72&u=d549eeb4cd554286ccca402c165d4aaf070cd3ba&v=4" width="24" alt="Avatar of nyanp"/> nyanp
 			</a><br/>
 			No Name
 		</td>
@@ -10474,7 +10474,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>798</td>
 		<td>
 			<a target="_blank" href="https://github.com/euske">
-				<img src="https://private-avatars.githubusercontent.com/u/143989?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE5NDAsIm5iZiI6MTczNDQ2MDc0MCwicGF0aCI6Ii91LzE0Mzk4OSJ9.d1DAB1kkv7-3do7EADmWsJhunPKha8EXL6m0oshqGJw&s=72&u=16a1312acd9f594c7654f727aa483eca1b1fb523&v=4" width="24" alt="Avatar of euske"/> euske
+				<img src="https://private-avatars.githubusercontent.com/u/143989?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE3NDAsIm5iZiI6MTczNDU3MDU0MCwicGF0aCI6Ii91LzE0Mzk4OSJ9.rsdo9wKpupf8JCzFkrdXa15TtBKYEQdIcZBpGLG-L7U&s=72&u=16a1312acd9f594c7654f727aa483eca1b1fb523&v=4" width="24" alt="Avatar of euske"/> euske
 			</a><br/>
 			Yusuke Shinyama
 		</td>
@@ -10487,7 +10487,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>799</td>
 		<td>
 			<a target="_blank" href="https://github.com/vanhuyz">
-				<img src="https://private-avatars.githubusercontent.com/u/7971458?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyODAsIm5iZiI6MTczNDQ2MDA4MCwicGF0aCI6Ii91Lzc5NzE0NTgifQ.An3Z66ZbHlcsa0-26dIjPuCd90afc16fiCL1fDTKpyc&s=72&u=792a9c4595db85de44b195ab0169c16a83304a4b&v=4" width="24" alt="Avatar of vanhuyz"/> vanhuyz
+				<img src="https://private-avatars.githubusercontent.com/u/7971458?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwODAsIm5iZiI6MTczNDU2OTg4MCwicGF0aCI6Ii91Lzc5NzE0NTgifQ.sawJfR2bPx1N0KvEDZ9ywPTYW-CGi6pe9iIpbG5X7U8&s=72&u=792a9c4595db85de44b195ab0169c16a83304a4b&v=4" width="24" alt="Avatar of vanhuyz"/> vanhuyz
 			</a><br/>
 			Van Huy
 		</td>
@@ -10500,7 +10500,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>800</td>
 		<td>
 			<a target="_blank" href="https://github.com/GomaGoma676">
-				<img src="https://private-avatars.githubusercontent.com/u/33549505?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3NjAsIm5iZiI6MTczNDQ2MDU2MCwicGF0aCI6Ii91LzMzNTQ5NTA1In0.CkuB_WyjCcJ9oLXP8DMTRGcdRm4QbzGX7ZAsx6poA3g&s=72&u=073a093d3be9619bd9edf991b6af74ed71a5aee9&v=4" width="24" alt="Avatar of GomaGoma676"/> GomaGoma676
+				<img src="https://private-avatars.githubusercontent.com/u/33549505?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1NjAsIm5iZiI6MTczNDU3MDM2MCwicGF0aCI6Ii91LzMzNTQ5NTA1In0.HG8WLpnpHGBxaQDkpQFD2OQB-1UtW7mdpjT93MyUGOg&s=72&u=073a093d3be9619bd9edf991b6af74ed71a5aee9&v=4" width="24" alt="Avatar of GomaGoma676"/> GomaGoma676
 			</a><br/>
 			Zinnux
 		</td>
@@ -10513,7 +10513,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>801</td>
 		<td>
 			<a target="_blank" href="https://github.com/jrjohansson">
-				<img src="https://private-avatars.githubusercontent.com/u/1198183?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA2ODAsIm5iZiI6MTczNDQ1OTQ4MCwicGF0aCI6Ii91LzExOTgxODMifQ.tFjEF0sLQq46ataCV7z_OBX1eunQ1_YVbl-4kE0Kdwg&s=72&v=4" width="24" alt="Avatar of jrjohansson"/> jrjohansson
+				<img src="https://private-avatars.githubusercontent.com/u/1198183?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA0ODAsIm5iZiI6MTczNDU2OTI4MCwicGF0aCI6Ii91LzExOTgxODMifQ.K0EnTQAZegmXGph5sZdcisp563ceIjU4PMYLVHjWfSA&s=72&v=4" width="24" alt="Avatar of jrjohansson"/> jrjohansson
 			</a><br/>
 			Robert Johansson
 		</td>
@@ -10526,7 +10526,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>802</td>
 		<td>
 			<a target="_blank" href="https://github.com/catnose99">
-				<img src="https://private-avatars.githubusercontent.com/u/34590683?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA4NjAsIm5iZiI6MTczNDQ1OTY2MCwicGF0aCI6Ii91LzM0NTkwNjgzIn0.RcWdulr0sMNbToX5U8PoZuEcWzOMhCCJtShcD43S9BE&s=72&u=1af8358707f8c7363f5c2ed1e5f3e7a565954650&v=4" width="24" alt="Avatar of catnose99"/> catnose99
+				<img src="https://private-avatars.githubusercontent.com/u/34590683?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA2NjAsIm5iZiI6MTczNDU2OTQ2MCwicGF0aCI6Ii91LzM0NTkwNjgzIn0.6qjFlAqrjp2jaaatja8tJVdY78pTs9sKqV4CcqX7SsA&s=72&u=1af8358707f8c7363f5c2ed1e5f3e7a565954650&v=4" width="24" alt="Avatar of catnose99"/> catnose99
 			</a><br/>
 			catnose
 		</td>
@@ -10539,7 +10539,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>803</td>
 		<td>
 			<a target="_blank" href="https://github.com/cournape">
-				<img src="https://private-avatars.githubusercontent.com/u/25111?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1ODAsIm5iZiI6MTczNDQ2MDM4MCwicGF0aCI6Ii91LzI1MTExIn0.Dhn1jzMBqgpVq89EROdS1hd1DM_KQV7UUYjcGqup6ww&s=72&v=4" width="24" alt="Avatar of cournape"/> cournape
+				<img src="https://private-avatars.githubusercontent.com/u/25111?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzODAsIm5iZiI6MTczNDU3MDE4MCwicGF0aCI6Ii91LzI1MTExIn0.piR3x4szh-9uO2amsmdszy-ZJoSYWMlfHK5kc_dF_Aw&s=72&v=4" width="24" alt="Avatar of cournape"/> cournape
 			</a><br/>
 			David Cournapeau
 		</td>
@@ -10552,7 +10552,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>804</td>
 		<td>
 			<a target="_blank" href="https://github.com/marioyc">
-				<img src="https://private-avatars.githubusercontent.com/u/382898?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExMDAsIm5iZiI6MTczNDQ1OTkwMCwicGF0aCI6Ii91LzM4Mjg5OCJ9.7DX_8k_6M6418V3vnUk4Ls9ZrlnxJ3lKc-0gXExzIJg&s=72&v=4" width="24" alt="Avatar of marioyc"/> marioyc
+				<img src="https://private-avatars.githubusercontent.com/u/382898?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5MDAsIm5iZiI6MTczNDU2OTcwMCwicGF0aCI6Ii91LzM4Mjg5OCJ9.fLtOjKXeZ4otUFPYqrmNTDnAfGInYoCjxLH-lwQNGcM&s=72&v=4" width="24" alt="Avatar of marioyc"/> marioyc
 			</a><br/>
 			Mario Ynocente Castro
 		</td>
@@ -10565,7 +10565,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>805</td>
 		<td>
 			<a target="_blank" href="https://github.com/ahomu">
-				<img src="https://private-avatars.githubusercontent.com/u/404356?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0MDAsIm5iZiI6MTczNDQ2MDIwMCwicGF0aCI6Ii91LzQwNDM1NiJ9.KsV4ldNkYSczrlyHmIWprSqUtIfGecGFEznWfYaG4vI&s=72&u=c4a5067175403e9395912418d5d33c4d7e783305&v=4" width="24" alt="Avatar of ahomu"/> ahomu
+				<img src="https://private-avatars.githubusercontent.com/u/404356?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyMDAsIm5iZiI6MTczNDU3MDAwMCwicGF0aCI6Ii91LzQwNDM1NiJ9.1C5TdhcqkaYscgrmx4G4opiwhNFfSfdXuHjrFhOqY_M&s=72&u=c4a5067175403e9395912418d5d33c4d7e783305&v=4" width="24" alt="Avatar of ahomu"/> ahomu
 			</a><br/>
 			Ayumu Sato
 		</td>
@@ -10578,7 +10578,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>806</td>
 		<td>
 			<a target="_blank" href="https://github.com/aitikgupta">
-				<img src="https://private-avatars.githubusercontent.com/u/43996118?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0NjAsIm5iZiI6MTczNDQ2MDI2MCwicGF0aCI6Ii91LzQzOTk2MTE4In0.WK_5bP91pnottQRwTHMkf7Cdon5FsGD7ftChNLdVNmk&s=72&u=c5cef41205c36c9d3f7744e8c6648b2e647f4597&v=4" width="24" alt="Avatar of aitikgupta"/> aitikgupta
+				<img src="https://private-avatars.githubusercontent.com/u/43996118?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyNjAsIm5iZiI6MTczNDU3MDA2MCwicGF0aCI6Ii91LzQzOTk2MTE4In0.4t4lc8nE5Awz-fqdM8rzyoy63dovOayYABil0IHOkPw&s=72&u=c5cef41205c36c9d3f7744e8c6648b2e647f4597&v=4" width="24" alt="Avatar of aitikgupta"/> aitikgupta
 			</a><br/>
 			Aitik Gupta
 		</td>
@@ -10591,7 +10591,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>807</td>
 		<td>
 			<a target="_blank" href="https://github.com/zaq1tomo">
-				<img src="https://private-avatars.githubusercontent.com/u/24784257?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3MDAsIm5iZiI6MTczNDQ2MDUwMCwicGF0aCI6Ii91LzI0Nzg0MjU3In0.2_DvKmw3XebwD4jIatlgIKK4zTDDpO83MZqhcwbg-VQ&s=72&u=523da1ebabfe84e9f51cb19326ad9ca9401fa2aa&v=4" width="24" alt="Avatar of zaq1tomo"/> zaq1tomo
+				<img src="https://private-avatars.githubusercontent.com/u/24784257?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1MDAsIm5iZiI6MTczNDU3MDMwMCwicGF0aCI6Ii91LzI0Nzg0MjU3In0.PwK6DYTjitqV8LhWqi2J7qhvHuwzEA6F4ldx3w2Gylg&s=72&u=523da1ebabfe84e9f51cb19326ad9ca9401fa2aa&v=4" width="24" alt="Avatar of zaq1tomo"/> zaq1tomo
 			</a><br/>
 			Tomoya Ishizaki
 		</td>
@@ -10604,7 +10604,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>808</td>
 		<td>
 			<a target="_blank" href="https://github.com/kumagi">
-				<img src="https://private-avatars.githubusercontent.com/u/153341?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0NjAsIm5iZiI6MTczNDQ2MDI2MCwicGF0aCI6Ii91LzE1MzM0MSJ9.6UCsMl8Y4LF5bWJuKN7sxvhfzwX8OehXA94p3vN14_w&s=72&v=4" width="24" alt="Avatar of kumagi"/> kumagi
+				<img src="https://private-avatars.githubusercontent.com/u/153341?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyNjAsIm5iZiI6MTczNDU3MDA2MCwicGF0aCI6Ii91LzE1MzM0MSJ9.xh-atBvtgNx3AOEi_o22Eg-HliQMy5ukwslX5adfhLo&s=72&v=4" width="24" alt="Avatar of kumagi"/> kumagi
 			</a><br/>
 			Hiroki KUMAZAKI
 		</td>
@@ -10617,7 +10617,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>809</td>
 		<td>
 			<a target="_blank" href="https://github.com/Kimtaro">
-				<img src="https://private-avatars.githubusercontent.com/u/15438?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0NjAsIm5iZiI6MTczNDQ2MDI2MCwicGF0aCI6Ii91LzE1NDM4In0.NwMeGFHxDyxVnH466SkDvMgEjoX6MA-7Tx2o2wTrTJA&s=72&v=4" width="24" alt="Avatar of Kimtaro"/> Kimtaro
+				<img src="https://private-avatars.githubusercontent.com/u/15438?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyNjAsIm5iZiI6MTczNDU3MDA2MCwicGF0aCI6Ii91LzE1NDM4In0.9Gd3MVA1Zohlo__EWvA3TKXBJqa09lTASpWzioL_TcY&s=72&v=4" width="24" alt="Avatar of Kimtaro"/> Kimtaro
 			</a><br/>
 			Kim Ahlstrm
 		</td>
@@ -10630,7 +10630,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>810</td>
 		<td>
 			<a target="_blank" href="https://github.com/tom3q">
-				<img src="https://private-avatars.githubusercontent.com/u/400091?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1ODAsIm5iZiI6MTczNDQ2MDM4MCwicGF0aCI6Ii91LzQwMDA5MSJ9.6HjtGzg2PDWYRjrdUoj7rGVtH2pmfeLUtQbHOvbXIcA&s=72&u=5587d074564079633a85a1d5fe3c17d7e524df7c&v=4" width="24" alt="Avatar of tom3q"/> tom3q
+				<img src="https://private-avatars.githubusercontent.com/u/400091?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzODAsIm5iZiI6MTczNDU3MDE4MCwicGF0aCI6Ii91LzQwMDA5MSJ9.1ZM_4MtBeHaL9viKh4jZZNKgdtNnyCiarcyUACYDWwU&s=72&u=5587d074564079633a85a1d5fe3c17d7e524df7c&v=4" width="24" alt="Avatar of tom3q"/> tom3q
 			</a><br/>
 			Tomasz Figa
 		</td>
@@ -10643,7 +10643,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>811</td>
 		<td>
 			<a target="_blank" href="https://github.com/ryotarai">
-				<img src="https://private-avatars.githubusercontent.com/u/706434?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3MDAsIm5iZiI6MTczNDQ2MDUwMCwicGF0aCI6Ii91LzcwNjQzNCJ9.jjwGydya67g0wKsTCHtoUWZhXvAm-daXPWdxQv2ONrA&s=72&v=4" width="24" alt="Avatar of ryotarai"/> ryotarai
+				<img src="https://private-avatars.githubusercontent.com/u/706434?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1MDAsIm5iZiI6MTczNDU3MDMwMCwicGF0aCI6Ii91LzcwNjQzNCJ9.ut5F6rfarwVxsN0212sOBo2eW_xdY8dfgMhNa0w0mw4&s=72&v=4" width="24" alt="Avatar of ryotarai"/> ryotarai
 			</a><br/>
 			Ryota Arai
 		</td>
@@ -10656,7 +10656,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>812</td>
 		<td>
 			<a target="_blank" href="https://github.com/chrislgarry">
-				<img src="https://private-avatars.githubusercontent.com/u/2200898?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0MDAsIm5iZiI6MTczNDQ2MDIwMCwicGF0aCI6Ii91LzIyMDA4OTgifQ.bUvKN5fR5a5-5Kzg6RDSo9TtK3S1CCMD4PY7ZNHRmuM&s=72&u=869cd05ccc116bde858730517fbd2ad01e455a90&v=4" width="24" alt="Avatar of chrislgarry"/> chrislgarry
+				<img src="https://private-avatars.githubusercontent.com/u/2200898?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyMDAsIm5iZiI6MTczNDU3MDAwMCwicGF0aCI6Ii91LzIyMDA4OTgifQ.XPu4sUUYVZrwZHWfrSH8cUTQbExPPo2nJ3Fp9XnO2s8&s=72&u=869cd05ccc116bde858730517fbd2ad01e455a90&v=4" width="24" alt="Avatar of chrislgarry"/> chrislgarry
 			</a><br/>
 			Chris Garry
 		</td>
@@ -10669,7 +10669,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>813</td>
 		<td>
 			<a target="_blank" href="https://github.com/dnobori">
-				<img src="https://private-avatars.githubusercontent.com/u/3041130?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA4NjAsIm5iZiI6MTczNDQ1OTY2MCwicGF0aCI6Ii91LzMwNDExMzAifQ.DVI6KSNmKlZAICHQSwcOdLgFTSIYVfbM9M0Czu20k9s&s=72&v=4" width="24" alt="Avatar of dnobori"/> dnobori
+				<img src="https://private-avatars.githubusercontent.com/u/3041130?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA2NjAsIm5iZiI6MTczNDU2OTQ2MCwicGF0aCI6Ii91LzMwNDExMzAifQ._dv2sjH4LW2Wg9IH5D926YbMT7XlcMuqhkuHWMdF_Ts&s=72&v=4" width="24" alt="Avatar of dnobori"/> dnobori
 			</a><br/>
 			Daiyuu Nobori
 		</td>
@@ -10682,7 +10682,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>814</td>
 		<td>
 			<a target="_blank" href="https://github.com/daitomanabe">
-				<img src="https://private-avatars.githubusercontent.com/u/72069?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA5MjAsIm5iZiI6MTczNDQ1OTcyMCwicGF0aCI6Ii91LzcyMDY5In0.GQT8aJ3bor2Y449yJ2r60UlLeQhfOeisqMEc-9Kxu-Y&s=72&u=35b7bf7edcb892336d4d48e3749cf03f97381cb8&v=4" width="24" alt="Avatar of daitomanabe"/> daitomanabe
+				<img src="https://private-avatars.githubusercontent.com/u/72069?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA3MjAsIm5iZiI6MTczNDU2OTUyMCwicGF0aCI6Ii91LzcyMDY5In0.NFqEF0KGuqVHS42xe392jvefqSl-QvU0p3TkyI977xY&s=72&u=35b7bf7edcb892336d4d48e3749cf03f97381cb8&v=4" width="24" alt="Avatar of daitomanabe"/> daitomanabe
 			</a><br/>
 			Daito Manabe
 		</td>
@@ -10695,7 +10695,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>815</td>
 		<td>
 			<a target="_blank" href="https://github.com/naokishibuya">
-				<img src="https://private-avatars.githubusercontent.com/u/1075889?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEzNDAsIm5iZiI6MTczNDQ2MDE0MCwicGF0aCI6Ii91LzEwNzU4ODkifQ.1xI_GPgTWXH-juM9lcFnkDqU-4qoycdyY1swGMEhUpg&s=72&u=5e52f33e51820b33f6a83e4d5fdd2475b6999d10&v=4" width="24" alt="Avatar of naokishibuya"/> naokishibuya
+				<img src="https://private-avatars.githubusercontent.com/u/1075889?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzExNDAsIm5iZiI6MTczNDU2OTk0MCwicGF0aCI6Ii91LzEwNzU4ODkifQ.PpyTCgxeMs4gaNSCmO3rxNG4IFX5k2pQBj9T3pQtgQg&s=72&u=5e52f33e51820b33f6a83e4d5fdd2475b6999d10&v=4" width="24" alt="Avatar of naokishibuya"/> naokishibuya
 			</a><br/>
 			Naoki Shibuya
 		</td>
@@ -10708,7 +10708,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>816</td>
 		<td>
 			<a target="_blank" href="https://github.com/suzana-ilic">
-				<img src="https://private-avatars.githubusercontent.com/u/27798583?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1ODAsIm5iZiI6MTczNDQ2MDM4MCwicGF0aCI6Ii91LzI3Nzk4NTgzIn0.4yPYr4pDLbAsMha2e2rCX7uebxwFVMdkTdohYlD5kqY&s=72&u=a0b76a52bb1cdb77c30cbb37a7219c0d92efda02&v=4" width="24" alt="Avatar of suzana-ilic"/> suzana-ilic
+				<img src="https://private-avatars.githubusercontent.com/u/27798583?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzODAsIm5iZiI6MTczNDU3MDE4MCwicGF0aCI6Ii91LzI3Nzk4NTgzIn0.gZmPN9J_HDxK_dgO49cXnp66j8SQnvPyspvsL6VMqfs&s=72&u=a0b76a52bb1cdb77c30cbb37a7219c0d92efda02&v=4" width="24" alt="Avatar of suzana-ilic"/> suzana-ilic
 			</a><br/>
 			Suzana Ili
 		</td>
@@ -10721,7 +10721,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>817</td>
 		<td>
 			<a target="_blank" href="https://github.com/yuki-koyama">
-				<img src="https://private-avatars.githubusercontent.com/u/2696321?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE4MjAsIm5iZiI6MTczNDQ2MDYyMCwicGF0aCI6Ii91LzI2OTYzMjEifQ.c_-hMqrNDt216D0o3_TFDD40to8Cgpsfnw4RYRCnRe0&s=72&u=0df91b311e408b096e457544c19df79137e39886&v=4" width="24" alt="Avatar of yuki-koyama"/> yuki-koyama
+				<img src="https://private-avatars.githubusercontent.com/u/2696321?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA3MjAsIm5iZiI6MTczNDU2OTUyMCwicGF0aCI6Ii91LzI2OTYzMjEifQ.yCGweB61ehlHiIiewjR6aHDYMjVg29BxEHK1UK7nu4I&s=72&u=0df91b311e408b096e457544c19df79137e39886&v=4" width="24" alt="Avatar of yuki-koyama"/> yuki-koyama
 			</a><br/>
 			Yuki Koyama
 		</td>
@@ -10734,7 +10734,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>818</td>
 		<td>
 			<a target="_blank" href="https://github.com/ChunML">
-				<img src="https://private-avatars.githubusercontent.com/u/22028884?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExMDAsIm5iZiI6MTczNDQ1OTkwMCwicGF0aCI6Ii91LzIyMDI4ODg0In0.mwqPstumQBlaaxiB-LGBWZE9bOTAOaHvDDI_LHp4Trg&s=72&u=fa05d18ad266bdd212e97741e98a586ed2b191b3&v=4" width="24" alt="Avatar of ChunML"/> ChunML
+				<img src="https://private-avatars.githubusercontent.com/u/22028884?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5MDAsIm5iZiI6MTczNDU2OTcwMCwicGF0aCI6Ii91LzIyMDI4ODg0In0.LjXV5cYVwgG_F-m5tq8ctjOtK1W9IIwwTsnxOucFRf4&s=72&u=fa05d18ad266bdd212e97741e98a586ed2b191b3&v=4" width="24" alt="Avatar of ChunML"/> ChunML
 			</a><br/>
 			Trung Tran
 		</td>
@@ -10747,7 +10747,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>819</td>
 		<td>
 			<a target="_blank" href="https://github.com/naotokui">
-				<img src="https://private-avatars.githubusercontent.com/u/970319?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExMDAsIm5iZiI6MTczNDQ1OTkwMCwicGF0aCI6Ii91Lzk3MDMxOSJ9.InNLsVOdlWfGMJS0MQbdzLxezi2F-ZR0jhG5PiUJUvI&s=72&v=4" width="24" alt="Avatar of naotokui"/> naotokui
+				<img src="https://private-avatars.githubusercontent.com/u/970319?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5MDAsIm5iZiI6MTczNDU2OTcwMCwicGF0aCI6Ii91Lzk3MDMxOSJ9.8r91RBA7J1iGGKER26Fh4FZWvyrIO0JPaIuZ2CmWPcs&s=72&v=4" width="24" alt="Avatar of naotokui"/> naotokui
 			</a><br/>
 			Nao Tokui
 		</td>
@@ -10760,7 +10760,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>820</td>
 		<td>
 			<a target="_blank" href="https://github.com/takumi0125">
-				<img src="https://private-avatars.githubusercontent.com/u/4657813?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3NjAsIm5iZiI6MTczNDQ2MDU2MCwicGF0aCI6Ii91LzQ2NTc4MTMifQ.LAVjAF8dEMdN3YEdWfyTTC-8S9LziBzJOipfTo2l89I&s=72&u=a4e88c52a58833752319309b1cea60f825d4bec7&v=4" width="24" alt="Avatar of takumi0125"/> takumi0125
+				<img src="https://private-avatars.githubusercontent.com/u/4657813?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1NjAsIm5iZiI6MTczNDU3MDM2MCwicGF0aCI6Ii91LzQ2NTc4MTMifQ.RPJO-AXr13_RrgB7rJWaG0jsKhUZKGux1SQEW1tuJsw&s=72&u=a4e88c52a58833752319309b1cea60f825d4bec7&v=4" width="24" alt="Avatar of takumi0125"/> takumi0125
 			</a><br/>
 			Takumi HASEGAWA unshift Inc
 		</td>
@@ -10773,7 +10773,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>821</td>
 		<td>
 			<a target="_blank" href="https://github.com/kawasima">
-				<img src="https://private-avatars.githubusercontent.com/u/59009?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3NjAsIm5iZiI6MTczNDQ2MDU2MCwicGF0aCI6Ii91LzU5MDA5In0.Gf9W47IaVUW7z0UPXVJhCksWsNs6jeyKOvyhf2rgg0w&s=72&v=4" width="24" alt="Avatar of kawasima"/> kawasima
+				<img src="https://private-avatars.githubusercontent.com/u/59009?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1NjAsIm5iZiI6MTczNDU3MDM2MCwicGF0aCI6Ii91LzU5MDA5In0.vMsZKaz_8c32bJyTKIZoo4QK9Ypvifb7WKD2Ssnlaeo&s=72&v=4" width="24" alt="Avatar of kawasima"/> kawasima
 			</a><br/>
 			Yoshitaka Kawashima
 		</td>
@@ -10786,7 +10786,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>822</td>
 		<td>
 			<a target="_blank" href="https://github.com/shigeki">
-				<img src="https://private-avatars.githubusercontent.com/u/782880?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExNjAsIm5iZiI6MTczNDQ1OTk2MCwicGF0aCI6Ii91Lzc4Mjg4MCJ9.O0opuldohha5WtoHQjVvLaBISfrs6-70UmdcjLIOJoE&s=72&u=3861c7bbe02d3a78cdc6c4e939464d70a4d5c0d1&v=4" width="24" alt="Avatar of shigeki"/> shigeki
+				<img src="https://private-avatars.githubusercontent.com/u/782880?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5NjAsIm5iZiI6MTczNDU2OTc2MCwicGF0aCI6Ii91Lzc4Mjg4MCJ9.A5Gqo1gke1awNk73OaTa4RFFNNWG2gOOxkrisnIWd5w&s=72&u=3861c7bbe02d3a78cdc6c4e939464d70a4d5c0d1&v=4" width="24" alt="Avatar of shigeki"/> shigeki
 			</a><br/>
 			Shigeki Ohtsu
 		</td>
@@ -10799,7 +10799,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>823</td>
 		<td>
 			<a target="_blank" href="https://github.com/samundrak">
-				<img src="https://private-avatars.githubusercontent.com/u/3079452?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE4MjAsIm5iZiI6MTczNDQ2MDYyMCwicGF0aCI6Ii91LzMwNzk0NTIifQ.QWg1ENopzHj0BgarsOAzDeF_AaVxedAft55IX5WHTqE&s=72&u=fdf9204620efab4939a7bfa756af4b4099bef80c&v=4" width="24" alt="Avatar of samundrak"/> samundrak
+				<img src="https://private-avatars.githubusercontent.com/u/3079452?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE2MjAsIm5iZiI6MTczNDU3MDQyMCwicGF0aCI6Ii91LzMwNzk0NTIifQ.ErnBAmK8kHt1z6VbTqbpsxVXtCdl6e3Kvp0wCIpwnuk&s=72&u=fdf9204620efab4939a7bfa756af4b4099bef80c&v=4" width="24" alt="Avatar of samundrak"/> samundrak
 			</a><br/>
 			Samundra Khatri
 		</td>
@@ -10812,7 +10812,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>824</td>
 		<td>
 			<a target="_blank" href="https://github.com/yqritc">
-				<img src="https://private-avatars.githubusercontent.com/u/6405259?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjIwNjAsIm5iZiI6MTczNDQ2MDg2MCwicGF0aCI6Ii91LzY0MDUyNTkifQ.Cn5NORnb8pX3PIVHouHAYNyHYnT6NAcezjaULt9uvZw&s=72&u=804b94cf75f10f5a85371e8dca3cf665e9925315&v=4" width="24" alt="Avatar of yqritc"/> yqritc
+				<img src="https://private-avatars.githubusercontent.com/u/6405259?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE4NjAsIm5iZiI6MTczNDU3MDY2MCwicGF0aCI6Ii91LzY0MDUyNTkifQ.x977GxY5JQGzHEgFbfHcooc6oW1yPC6ANnEaNQZ-_ZQ&s=72&u=804b94cf75f10f5a85371e8dca3cf665e9925315&v=4" width="24" alt="Avatar of yqritc"/> yqritc
 			</a><br/>
 			Yoshihito Ikeda
 		</td>
@@ -10825,7 +10825,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>825</td>
 		<td>
 			<a target="_blank" href="https://github.com/randrew">
-				<img src="https://private-avatars.githubusercontent.com/u/26056?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE5NDAsIm5iZiI6MTczNDQ2MDc0MCwicGF0aCI6Ii91LzI2MDU2In0.9Hf_KwqZBMUWb4Ddz3Z0pVVsKa_q0BHH1GRnXAaHP_o&s=72&u=b62a3cf9bcf2e3041ef9717c56c31f6fae9afc4e&v=4" width="24" alt="Avatar of randrew"/> randrew
+				<img src="https://private-avatars.githubusercontent.com/u/26056?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE3NDAsIm5iZiI6MTczNDU3MDU0MCwicGF0aCI6Ii91LzI2MDU2In0.96P6PzNNrrHspvJC8R_LXOJ50LvqRAluD87Mk4SWfzQ&s=72&u=b62a3cf9bcf2e3041ef9717c56c31f6fae9afc4e&v=4" width="24" alt="Avatar of randrew"/> randrew
 			</a><br/>
 			Andrew Richards
 		</td>
@@ -10838,7 +10838,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>826</td>
 		<td>
 			<a target="_blank" href="https://github.com/thagikura">
-				<img src="https://private-avatars.githubusercontent.com/u/796361?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA4MDAsIm5iZiI6MTczNDQ1OTYwMCwicGF0aCI6Ii91Lzc5NjM2MSJ9.PECosfxDkHV9nnbfzezOyIJL_IbG99pV_kGpoDHvxSs&s=72&u=63a7113fef3f7a119a64a40ae0787c88e43b0a6c&v=4" width="24" alt="Avatar of thagikura"/> thagikura
+				<img src="https://private-avatars.githubusercontent.com/u/796361?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA2MDAsIm5iZiI6MTczNDU2OTQwMCwicGF0aCI6Ii91Lzc5NjM2MSJ9.j6gXVTP9j1RK1rm8d3HdtLzud8C9KlpzV9tw4wkcvRA&s=72&u=63a7113fef3f7a119a64a40ae0787c88e43b0a6c&v=4" width="24" alt="Avatar of thagikura"/> thagikura
 			</a><br/>
 			Takeshi Hagikura
 		</td>
@@ -10851,7 +10851,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>827</td>
 		<td>
 			<a target="_blank" href="https://github.com/jamesknelson">
-				<img src="https://private-avatars.githubusercontent.com/u/161707?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExMDAsIm5iZiI6MTczNDQ1OTkwMCwicGF0aCI6Ii91LzE2MTcwNyJ9.fRonumBDw9Db1I9Lys673NGHubCls7n_FUIg5mnf3Cs&s=72&u=539a58a1b6fbde8e314162718a0df5aa5162b0a7&v=4" width="24" alt="Avatar of jamesknelson"/> jamesknelson
+				<img src="https://private-avatars.githubusercontent.com/u/161707?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5MDAsIm5iZiI6MTczNDU2OTcwMCwicGF0aCI6Ii91LzE2MTcwNyJ9.cj9G5mOMEVKrVIDftnSoyiKu9Nih2xJyLNTBSZ_pjHU&s=72&u=539a58a1b6fbde8e314162718a0df5aa5162b0a7&v=4" width="24" alt="Avatar of jamesknelson"/> jamesknelson
 			</a><br/>
 			James K Nelson
 		</td>
@@ -10864,7 +10864,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>828</td>
 		<td>
 			<a target="_blank" href="https://github.com/veryyoung">
-				<img src="https://private-avatars.githubusercontent.com/u/5799652?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyMjAsIm5iZiI6MTczNDQ2MDAyMCwicGF0aCI6Ii91LzU3OTk2NTIifQ.BksqALx2ac18iklgb0djRDaa3bJyJTBSGNTRLBN0yQM&s=72&u=a43f189d9914e2a71ec1b5a3e3eac30cdd9e8703&v=4" width="24" alt="Avatar of veryyoung"/> veryyoung
+				<img src="https://private-avatars.githubusercontent.com/u/5799652?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwMjAsIm5iZiI6MTczNDU2OTgyMCwicGF0aCI6Ii91LzU3OTk2NTIifQ.Y2dGIgRKv2PnCEaoTZdyBRijQvSwJZ-iUekpiZp3WpY&s=72&u=a43f189d9914e2a71ec1b5a3e3eac30cdd9e8703&v=4" width="24" alt="Avatar of veryyoung"/> veryyoung
 			</a><br/>
 			veryyoung
 		</td>
@@ -10877,7 +10877,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>829</td>
 		<td>
 			<a target="_blank" href="https://github.com/hotchemi">
-				<img src="https://private-avatars.githubusercontent.com/u/471318?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA4NjAsIm5iZiI6MTczNDQ1OTY2MCwicGF0aCI6Ii91LzQ3MTMxOCJ9.a6sIV6JGy3TBkaTlXd2XDNhaJk6V_9FHMv9kgu7N5V0&s=72&u=387a154caf43aefb33fc2e1571a0031d8157d7d0&v=4" width="24" alt="Avatar of hotchemi"/> hotchemi
+				<img src="https://private-avatars.githubusercontent.com/u/471318?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA2NjAsIm5iZiI6MTczNDU2OTQ2MCwicGF0aCI6Ii91LzQ3MTMxOCJ9.tixIn0R_A5-5pr9GgeXLWuERRhRhVfoFTP2ghNMPYtk&s=72&u=387a154caf43aefb33fc2e1571a0031d8157d7d0&v=4" width="24" alt="Avatar of hotchemi"/> hotchemi
 			</a><br/>
 			Shintaro Katafuchi
 		</td>
@@ -10890,7 +10890,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>830</td>
 		<td>
 			<a target="_blank" href="https://github.com/zlq4863947">
-				<img src="https://private-avatars.githubusercontent.com/u/6490251?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0NjAsIm5iZiI6MTczNDQ2MDI2MCwicGF0aCI6Ii91LzY0OTAyNTEifQ.NZL0ZlsrCO_AfjRVmxMm4rJ7KgzNFoyqATd1z4Rt8ng&s=72&u=d61e5d334740dcc4c35dad55965d0401c8bd15d0&v=4" width="24" alt="Avatar of zlq4863947"/> zlq4863947
+				<img src="https://private-avatars.githubusercontent.com/u/6490251?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyNjAsIm5iZiI6MTczNDU3MDA2MCwicGF0aCI6Ii91LzY0OTAyNTEifQ.6uFzy2IYkE0BhuWpSswDPteGQwgdzOHanxIij50Xi3g&s=72&u=d61e5d334740dcc4c35dad55965d0401c8bd15d0&v=4" width="24" alt="Avatar of zlq4863947"/> zlq4863947
 			</a><br/>
 			zlq4863947
 		</td>
@@ -10903,7 +10903,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>831</td>
 		<td>
 			<a target="_blank" href="https://github.com/sgr-ksmt">
-				<img src="https://private-avatars.githubusercontent.com/u/9350581?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3NjAsIm5iZiI6MTczNDQ2MDU2MCwicGF0aCI6Ii91LzkzNTA1ODEifQ.JKDH09DwlrwKwzRAfUDl934IbbekF2Mwkn5bXH2mgQ8&s=72&u=c6ac941e74e14295556f85f9e5cdfd5565c8abda&v=4" width="24" alt="Avatar of sgr-ksmt"/> sgr-ksmt
+				<img src="https://private-avatars.githubusercontent.com/u/9350581?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1NjAsIm5iZiI6MTczNDU3MDM2MCwicGF0aCI6Ii91LzkzNTA1ODEifQ.FHP2rIza6xQCqutalzTiKIXkqUCpZPqSKPPvC7QTJns&s=72&u=c6ac941e74e14295556f85f9e5cdfd5565c8abda&v=4" width="24" alt="Avatar of sgr-ksmt"/> sgr-ksmt
 			</a><br/>
 			Suguru Kishimoto
 		</td>
@@ -10916,7 +10916,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>832</td>
 		<td>
 			<a target="_blank" href="https://github.com/Azard">
-				<img src="https://private-avatars.githubusercontent.com/u/3364650?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE5NDAsIm5iZiI6MTczNDQ2MDc0MCwicGF0aCI6Ii91LzMzNjQ2NTAifQ.IrBn92EEIm4hIW2Q8lX4ZeYXRu-Ma3MDXY-JqndFv7s&s=72&u=17681d47366ad6954c3be43a883b5920841eac9d&v=4" width="24" alt="Avatar of Azard"/> Azard
+				<img src="https://private-avatars.githubusercontent.com/u/3364650?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE3NDAsIm5iZiI6MTczNDU3MDU0MCwicGF0aCI6Ii91LzMzNjQ2NTAifQ.UwBsOmPejxzlMYw1ymR5Vej2lGzgkRVEpgT0Fvmwq00&s=72&u=17681d47366ad6954c3be43a883b5920841eac9d&v=4" width="24" alt="Avatar of Azard"/> Azard
 			</a><br/>
 			Azard
 		</td>
@@ -10929,7 +10929,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>833</td>
 		<td>
 			<a target="_blank" href="https://github.com/aamine">
-				<img src="https://private-avatars.githubusercontent.com/u/1703556?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE2NDAsIm5iZiI6MTczNDQ2MDQ0MCwicGF0aCI6Ii91LzE3MDM1NTYifQ.GNCZ9pSAxDZivAmLIdnX0lJEMDd-KSc3rtVeI67SnP4&s=72&u=f3f5dfe2d28f0d3aa0ccd4a4be75c50ea882fae5&v=4" width="24" alt="Avatar of aamine"/> aamine
+				<img src="https://private-avatars.githubusercontent.com/u/1703556?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE0NDAsIm5iZiI6MTczNDU3MDI0MCwicGF0aCI6Ii91LzE3MDM1NTYifQ.vciiMB_1QCp_Le84Kwac3wyKYIFbhMeEvWC7fFEnGrA&s=72&u=f3f5dfe2d28f0d3aa0ccd4a4be75c50ea882fae5&v=4" width="24" alt="Avatar of aamine"/> aamine
 			</a><br/>
 			Minero Aoki
 		</td>
@@ -10942,7 +10942,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>834</td>
 		<td>
 			<a target="_blank" href="https://github.com/forresty">
-				<img src="https://private-avatars.githubusercontent.com/u/171245?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjIwNjAsIm5iZiI6MTczNDQ2MDg2MCwicGF0aCI6Ii91LzE3MTI0NSJ9.umP6ZqdRa1HRQEZWxb1NgaTWE3lcykCR5z1UISO34xQ&s=72&u=bbd0015632ea6d9fc96b1f71b6a70606296802aa&v=4" width="24" alt="Avatar of forresty"/> forresty
+				<img src="https://private-avatars.githubusercontent.com/u/171245?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE4NjAsIm5iZiI6MTczNDU3MDY2MCwicGF0aCI6Ii91LzE3MTI0NSJ9.c2q3mc4lxLuzTKFQ9C_JtsbyRvcHsKdS0BQpj0Q0zVw&s=72&u=bbd0015632ea6d9fc96b1f71b6a70606296802aa&v=4" width="24" alt="Avatar of forresty"/> forresty
 			</a><br/>
 			Feng Ye
 		</td>
@@ -10955,7 +10955,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>835</td>
 		<td>
 			<a target="_blank" href="https://github.com/imkira">
-				<img src="https://private-avatars.githubusercontent.com/u/470338?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE4ODAsIm5iZiI6MTczNDQ2MDY4MCwicGF0aCI6Ii91LzQ3MDMzOCJ9.tyYCxcwdgDrE8d7aNfJZmR8tfIpCmwWuR25tSTX_7hg&s=72&u=5f7f734f9efad405fcbc0a928a2b3a5d03418460&v=4" width="24" alt="Avatar of imkira"/> imkira
+				<img src="https://private-avatars.githubusercontent.com/u/470338?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE2ODAsIm5iZiI6MTczNDU3MDQ4MCwicGF0aCI6Ii91LzQ3MDMzOCJ9.wBahwTa7Pn4vrpdROovnFrpqow5JWWbevXqOXG56dwc&s=72&u=5f7f734f9efad405fcbc0a928a2b3a5d03418460&v=4" width="24" alt="Avatar of imkira"/> imkira
 			</a><br/>
 			Mrio Freitas
 		</td>
@@ -10968,7 +10968,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>836</td>
 		<td>
 			<a target="_blank" href="https://github.com/takayayuki">
-				<img src="https://private-avatars.githubusercontent.com/u/129437989?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1MjAsIm5iZiI6MTczNDQ2MDMyMCwicGF0aCI6Ii91LzEyOTQzNzk4OSJ9.DXm6MBRTxjJkByeTj9GyBbbnCYSlYetwh8awejQYi_4&s=72&v=4" width="24" alt="Avatar of takayayuki"/> takayayuki
+				<img src="https://private-avatars.githubusercontent.com/u/129437989?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzMjAsIm5iZiI6MTczNDU3MDEyMCwicGF0aCI6Ii91LzEyOTQzNzk4OSJ9.An7d9Asr_YLRxqvwXERrODVmQviM3DajN-oOEBHveM8&s=72&v=4" width="24" alt="Avatar of takayayuki"/> takayayuki
 			</a><br/>
 			Yuki Takaya
 		</td>
@@ -10981,7 +10981,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>837</td>
 		<td>
 			<a target="_blank" href="https://github.com/humiaozuzu">
-				<img src="https://private-avatars.githubusercontent.com/u/300016?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEzNDAsIm5iZiI6MTczNDQ2MDE0MCwicGF0aCI6Ii91LzMwMDAxNiJ9.d5WrgIBVQxlZinn98xuKamyRxU5FlZCdUiKovpbYwGY&s=72&u=6bdcdbeccf4e6cc1e298dbeb5fb840a06703f17e&v=4" width="24" alt="Avatar of humiaozuzu"/> humiaozuzu
+				<img src="https://private-avatars.githubusercontent.com/u/300016?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzExNDAsIm5iZiI6MTczNDU2OTk0MCwicGF0aCI6Ii91LzMwMDAxNiJ9._KDaHuEvu42aRU4zEB3odPqzI8kN9VKS0weEWJoa34w&s=72&u=6bdcdbeccf4e6cc1e298dbeb5fb840a06703f17e&v=4" width="24" alt="Avatar of humiaozuzu"/> humiaozuzu
 			</a><br/>
 			Maple
 		</td>
@@ -10994,7 +10994,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>838</td>
 		<td>
 			<a target="_blank" href="https://github.com/t32k">
-				<img src="https://private-avatars.githubusercontent.com/u/86519?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0NjAsIm5iZiI6MTczNDQ2MDI2MCwicGF0aCI6Ii91Lzg2NTE5In0.yKKDXwFLLbusG6ql1fV8c74PrazPNSVHz42q1DMw8zg&s=72&u=21e0af91a956f3bd75b1c119e40a6abdf21edd3b&v=4" width="24" alt="Avatar of t32k"/> t32k
+				<img src="https://private-avatars.githubusercontent.com/u/86519?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyNjAsIm5iZiI6MTczNDU3MDA2MCwicGF0aCI6Ii91Lzg2NTE5In0.F3gW_wdEK6PkNk4wyWikTTLNfqTJDKDvWenYKHqoQhM&s=72&u=21e0af91a956f3bd75b1c119e40a6abdf21edd3b&v=4" width="24" alt="Avatar of t32k"/> t32k
 			</a><br/>
 			t32k
 		</td>
@@ -11007,7 +11007,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>839</td>
 		<td>
 			<a target="_blank" href="https://github.com/shuhei">
-				<img src="https://private-avatars.githubusercontent.com/u/498635?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3NjAsIm5iZiI6MTczNDQ2MDU2MCwicGF0aCI6Ii91LzQ5ODYzNSJ9.FntIj4thwB8Aa3itSM7v_IYP8ieF7v_zGwbjn0qRELk&s=72&u=ebd67f87c90bfed4de301bcae4a02a566aefe3b3&v=4" width="24" alt="Avatar of shuhei"/> shuhei
+				<img src="https://private-avatars.githubusercontent.com/u/498635?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1NjAsIm5iZiI6MTczNDU3MDM2MCwicGF0aCI6Ii91LzQ5ODYzNSJ9.n93KZmQ3s69pXKqrB8L7dvMUH4Lvs2B2XG_CBOb4jnU&s=72&u=ebd67f87c90bfed4de301bcae4a02a566aefe3b3&v=4" width="24" alt="Avatar of shuhei"/> shuhei
 			</a><br/>
 			Shuhei Kagawa
 		</td>
@@ -11020,7 +11020,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>840</td>
 		<td>
 			<a target="_blank" href="https://github.com/kodai100">
-				<img src="https://private-avatars.githubusercontent.com/u/20334444?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0MDAsIm5iZiI6MTczNDQ2MDIwMCwicGF0aCI6Ii91LzIwMzM0NDQ0In0.-3laJ5B4PE8OMzWzau5uVYtUrtaL7gn74kt0QYNGCRU&s=72&u=c5b16f1f6dc2df5adb3a4d86dbc52694115fd7b5&v=4" width="24" alt="Avatar of kodai100"/> kodai100
+				<img src="https://private-avatars.githubusercontent.com/u/20334444?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyMDAsIm5iZiI6MTczNDU3MDAwMCwicGF0aCI6Ii91LzIwMzM0NDQ0In0.zpMJX7IPhA6nvmiIjJZ6AYF1_VEUy1oQTP7QL67Obpw&s=72&u=c5b16f1f6dc2df5adb3a4d86dbc52694115fd7b5&v=4" width="24" alt="Avatar of kodai100"/> kodai100
 			</a><br/>
 			Kodai Takao
 		</td>
@@ -11033,7 +11033,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>841</td>
 		<td>
 			<a target="_blank" href="https://github.com/atyenoria">
-				<img src="https://private-avatars.githubusercontent.com/u/7510974?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3MDAsIm5iZiI6MTczNDQ2MDUwMCwicGF0aCI6Ii91Lzc1MTA5NzQifQ.PdzW-9X4OjBmjIJqYwL62_WgEq1WZCIFDiPiGLDb07E&s=72&u=c55aa7166e6e78a24e73f6ccffe7104c8f168204&v=4" width="24" alt="Avatar of atyenoria"/> atyenoria
+				<img src="https://private-avatars.githubusercontent.com/u/7510974?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1MDAsIm5iZiI6MTczNDU3MDMwMCwicGF0aCI6Ii91Lzc1MTA5NzQifQ.9mfJFhHvSGJxF99ZPJmYKGiCKpT3v504IBclhlrN9zU&s=72&u=c55aa7166e6e78a24e73f6ccffe7104c8f168204&v=4" width="24" alt="Avatar of atyenoria"/> atyenoria
 			</a><br/>
 			Akinori Nakajima
 		</td>
@@ -11046,7 +11046,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>842</td>
 		<td>
 			<a target="_blank" href="https://github.com/kiwanami">
-				<img src="https://private-avatars.githubusercontent.com/u/158801?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExNjAsIm5iZiI6MTczNDQ1OTk2MCwicGF0aCI6Ii91LzE1ODgwMSJ9.Pxj5I8baq16xFqt30p9UgXfVg31OIMEAd9vCMl_93xI&s=72&u=e69c63167b3e1cf5aa591fcb99745d052251a644&v=4" width="24" alt="Avatar of kiwanami"/> kiwanami
+				<img src="https://private-avatars.githubusercontent.com/u/158801?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5NjAsIm5iZiI6MTczNDU2OTc2MCwicGF0aCI6Ii91LzE1ODgwMSJ9.FKFNen0xtdtvagQpFUFfSpJ84V092uc6bEK-Op9igSc&s=72&u=e69c63167b3e1cf5aa591fcb99745d052251a644&v=4" width="24" alt="Avatar of kiwanami"/> kiwanami
 			</a><br/>
 			Masashi Sakurai
 		</td>
@@ -11059,7 +11059,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>843</td>
 		<td>
 			<a target="_blank" href="https://github.com/swdyh">
-				<img src="https://private-avatars.githubusercontent.com/u/9168?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1MjAsIm5iZiI6MTczNDQ2MDMyMCwicGF0aCI6Ii91LzkxNjgifQ.zK77ZzCsw8HqIkJwUZ6cpp5deKQfwxgHvcDo4xLduxw&s=72&v=4" width="24" alt="Avatar of swdyh"/> swdyh
+				<img src="https://private-avatars.githubusercontent.com/u/9168?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzMjAsIm5iZiI6MTczNDU3MDEyMCwicGF0aCI6Ii91LzkxNjgifQ.65eGt-57w57EjBh-QgzUaJLgnFrZD8v0OSXsdkQTM3w&s=72&v=4" width="24" alt="Avatar of swdyh"/> swdyh
 			</a><br/>
 			swdyh
 		</td>
@@ -11072,7 +11072,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>844</td>
 		<td>
 			<a target="_blank" href="https://github.com/4416km">
-				<img src="https://private-avatars.githubusercontent.com/u/26922859?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjIwMDAsIm5iZiI6MTczNDQ2MDgwMCwicGF0aCI6Ii91LzI2OTIyODU5In0.ab1V8HJnpffNYOu5GDhD5Ziw0qaEwUOT8oqLG4EignA&s=72&u=59e54c03516202fa7a10200f14c7b272edb5b9fd&v=4" width="24" alt="Avatar of 4416km"/> 4416km
+				<img src="https://private-avatars.githubusercontent.com/u/26922859?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5MDAsIm5iZiI6MTczNDU2OTcwMCwicGF0aCI6Ii91LzI2OTIyODU5In0.oZI7LqVdSr6pBK8Lex-FMmp5FU4eMUzHaVUhKeVIKBI&s=72&u=59e54c03516202fa7a10200f14c7b272edb5b9fd&v=4" width="24" alt="Avatar of 4416km"/> 4416km
 			</a><br/>
 			Yoshihiro Komaru
 		</td>
@@ -11085,7 +11085,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>845</td>
 		<td>
 			<a target="_blank" href="https://github.com/nekokak">
-				<img src="https://private-avatars.githubusercontent.com/u/47076?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0NjAsIm5iZiI6MTczNDQ2MDI2MCwicGF0aCI6Ii91LzQ3MDc2In0.SRwCD4s0n_jqCEPKZafBdGC4Ghgvliw7Qinml0pYDT0&s=72&v=4" width="24" alt="Avatar of nekokak"/> nekokak
+				<img src="https://private-avatars.githubusercontent.com/u/47076?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyNjAsIm5iZiI6MTczNDU3MDA2MCwicGF0aCI6Ii91LzQ3MDc2In0.9xyOW5nqf7QL3UCXPg18KgZBeVS00E5gAZ--1Xsunug&s=72&v=4" width="24" alt="Avatar of nekokak"/> nekokak
 			</a><br/>
 			Atsushi Kobayashi
 		</td>
@@ -11098,7 +11098,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>846</td>
 		<td>
 			<a target="_blank" href="https://github.com/kitak">
-				<img src="https://private-avatars.githubusercontent.com/u/228410?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1ODAsIm5iZiI6MTczNDQ2MDM4MCwicGF0aCI6Ii91LzIyODQxMCJ9.GS8EbCCjW3IauQJdrQw5_Prq8Nrc2muDnt6rqxu0Qc8&s=72&u=fbb0ae4355bb94f6d9d61df83ddfacad72b726c0&v=4" width="24" alt="Avatar of kitak"/> kitak
+				<img src="https://private-avatars.githubusercontent.com/u/228410?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzODAsIm5iZiI6MTczNDU3MDE4MCwicGF0aCI6Ii91LzIyODQxMCJ9.BWl_vsStf6xKy3zG_1roNbQYbA_ms16HDoXLQP3cvyg&s=72&u=fbb0ae4355bb94f6d9d61df83ddfacad72b726c0&v=4" width="24" alt="Avatar of kitak"/> kitak
 			</a><br/>
 			Keisuke KITA
 		</td>
@@ -11111,7 +11111,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>847</td>
 		<td>
 			<a target="_blank" href="https://github.com/gimite">
-				<img src="https://private-avatars.githubusercontent.com/u/15363?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3MDAsIm5iZiI6MTczNDQ2MDUwMCwicGF0aCI6Ii91LzE1MzYzIn0.LWS4ECcvKSy4mK3BlBi9eLDasqSrkcv3XB0h_MKty30&s=72&v=4" width="24" alt="Avatar of gimite"/> gimite
+				<img src="https://private-avatars.githubusercontent.com/u/15363?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1MDAsIm5iZiI6MTczNDU3MDMwMCwicGF0aCI6Ii91LzE1MzYzIn0.M7bG0RCHCKhBIZJ1ncx_kpg4YjYEzxC-U4T3_upN_ZY&s=72&v=4" width="24" alt="Avatar of gimite"/> gimite
 			</a><br/>
 			Hiroshi Ichikawa
 		</td>
@@ -11124,7 +11124,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>848</td>
 		<td>
 			<a target="_blank" href="https://github.com/yuzushioh">
-				<img src="https://private-avatars.githubusercontent.com/u/12425729?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjIwNjAsIm5iZiI6MTczNDQ2MDg2MCwicGF0aCI6Ii91LzEyNDI1NzI5In0.zCRqwleUKs4sqvBxMBCaSLxtI1QP1rM9Lb1ZJifd3Dw&s=72&u=25edf755e54071f1248a2be389d9535635f8caf7&v=4" width="24" alt="Avatar of yuzushioh"/> yuzushioh
+				<img src="https://private-avatars.githubusercontent.com/u/12425729?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE4NjAsIm5iZiI6MTczNDU3MDY2MCwicGF0aCI6Ii91LzEyNDI1NzI5In0.4p908WJjMbGVyz54-KoZbw6OMnb3UGEg6uuyD5iNrk0&s=72&u=25edf755e54071f1248a2be389d9535635f8caf7&v=4" width="24" alt="Avatar of yuzushioh"/> yuzushioh
 			</a><br/>
 			yuzushioh
 		</td>
@@ -11137,7 +11137,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>849</td>
 		<td>
 			<a target="_blank" href="https://github.com/hardmaru">
-				<img src="https://private-avatars.githubusercontent.com/u/6318110?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExMDAsIm5iZiI6MTczNDQ1OTkwMCwicGF0aCI6Ii91LzYzMTgxMTAifQ.n3v3NdMsvS5MghRDeFwq-9R-yN4ZHVq-QrV2XGl9RQw&s=72&u=58436505d4ab583fe84485c4a8d0157a3fe467c9&v=4" width="24" alt="Avatar of hardmaru"/> hardmaru
+				<img src="https://private-avatars.githubusercontent.com/u/6318110?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5MDAsIm5iZiI6MTczNDU2OTcwMCwicGF0aCI6Ii91LzYzMTgxMTAifQ.9rHWEVSMA77ExoNB5emoEIuaSWX_elXemhEygNc5pGU&s=72&u=58436505d4ab583fe84485c4a8d0157a3fe467c9&v=4" width="24" alt="Avatar of hardmaru"/> hardmaru
 			</a><br/>
 			hardmaru
 		</td>
@@ -11150,7 +11150,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>850</td>
 		<td>
 			<a target="_blank" href="https://github.com/trananhtuat">
-				<img src="https://private-avatars.githubusercontent.com/u/67447840?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExNjAsIm5iZiI6MTczNDQ1OTk2MCwicGF0aCI6Ii91LzY3NDQ3ODQwIn0.STmKgiXYI1f5TaHgg56_rH3emE1c5vQ3h2MV_tpfro8&s=72&u=2e65d6bdf624ae888ac6f362361a00dcf6a31cd3&v=4" width="24" alt="Avatar of trananhtuat"/> trananhtuat
+				<img src="https://private-avatars.githubusercontent.com/u/67447840?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5NjAsIm5iZiI6MTczNDU2OTc2MCwicGF0aCI6Ii91LzY3NDQ3ODQwIn0.K9gyqXHg0k2FefefImqGh3XdwRiAPnQwebvvI3L500I&s=72&u=2e65d6bdf624ae888ac6f362361a00dcf6a31cd3&v=4" width="24" alt="Avatar of trananhtuat"/> trananhtuat
 			</a><br/>
 			Tran Anh Tuat
 		</td>
@@ -11163,7 +11163,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>851</td>
 		<td>
 			<a target="_blank" href="https://github.com/cambecc">
-				<img src="https://private-avatars.githubusercontent.com/u/3368530?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE0MDAsIm5iZiI6MTczNDQ2MDIwMCwicGF0aCI6Ii91LzMzNjg1MzAifQ.gwARHl8DSAvh9JmwGy41bFVkwgX_6le03Ssp5le9UfE&s=72&u=80cff1b049d8d66a51e25a7a5070fc1c6eb79aaf&v=4" width="24" alt="Avatar of cambecc"/> cambecc
+				<img src="https://private-avatars.githubusercontent.com/u/3368530?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEyMDAsIm5iZiI6MTczNDU3MDAwMCwicGF0aCI6Ii91LzMzNjg1MzAifQ.s82Ovf4QA-y9PmxqUm4mtX21bCn2beVa8rFwlJvo-0Q&s=72&u=80cff1b049d8d66a51e25a7a5070fc1c6eb79aaf&v=4" width="24" alt="Avatar of cambecc"/> cambecc
 			</a><br/>
 			Cameron Beccario
 		</td>
@@ -11176,7 +11176,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>852</td>
 		<td>
 			<a target="_blank" href="https://github.com/chriskempson">
-				<img src="https://private-avatars.githubusercontent.com/u/473831?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1ODAsIm5iZiI6MTczNDQ2MDM4MCwicGF0aCI6Ii91LzQ3MzgzMSJ9.TcsdAoUk5bU2YhZ68GbMtrzTnzu-bxrzYEdZWVCuLWw&s=72&u=9f381d4ce4aae902a11b604533134ba111582220&v=4" width="24" alt="Avatar of chriskempson"/> chriskempson
+				<img src="https://private-avatars.githubusercontent.com/u/473831?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA0ODAsIm5iZiI6MTczNDU2OTI4MCwicGF0aCI6Ii91LzQ3MzgzMSJ9.P9RIfjfImWGy2e1kbGE4Xk6kRz2I_N1cub1JSuVfhrQ&s=72&u=9f381d4ce4aae902a11b604533134ba111582220&v=4" width="24" alt="Avatar of chriskempson"/> chriskempson
 			</a><br/>
 			Chris Kempson
 		</td>
@@ -11189,7 +11189,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>853</td>
 		<td>
 			<a target="_blank" href="https://github.com/ksoichiro">
-				<img src="https://private-avatars.githubusercontent.com/u/801987?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjA4NjAsIm5iZiI6MTczNDQ1OTY2MCwicGF0aCI6Ii91LzgwMTk4NyJ9.j8-cZFWrf2EVvByqLEBkrBOGjm0PxISPDHVoQ_DTS3Y&s=72&v=4" width="24" alt="Avatar of ksoichiro"/> ksoichiro
+				<img src="https://private-avatars.githubusercontent.com/u/801987?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA2NjAsIm5iZiI6MTczNDU2OTQ2MCwicGF0aCI6Ii91LzgwMTk4NyJ9.Q1LY3xNdMlpgbxgpN_RdV18u_u1kxapsMc7ui9mBV2k&s=72&v=4" width="24" alt="Avatar of ksoichiro"/> ksoichiro
 			</a><br/>
 			Soichiro Kashima
 		</td>
@@ -11202,7 +11202,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>854</td>
 		<td>
 			<a target="_blank" href="https://github.com/tyru">
-				<img src="https://private-avatars.githubusercontent.com/u/48169?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExNjAsIm5iZiI6MTczNDQ1OTk2MCwicGF0aCI6Ii91LzQ4MTY5In0.mbkd9ycEsKOg3k7G_HZuzt9gkQglW3Fm0YVWTmRGuys&s=72&v=4" width="24" alt="Avatar of tyru"/> tyru
+				<img src="https://private-avatars.githubusercontent.com/u/48169?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5NjAsIm5iZiI6MTczNDU2OTc2MCwicGF0aCI6Ii91LzQ4MTY5In0.2ZO86d84rC05gj3PP0rERhpE5U7fGs_BDMHdjCJ3Mqk&s=72&v=4" width="24" alt="Avatar of tyru"/> tyru
 			</a><br/>
 			Fujiwara Takuya
 		</td>
@@ -11215,7 +11215,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>855</td>
 		<td>
 			<a target="_blank" href="https://github.com/yuroyoro">
-				<img src="https://private-avatars.githubusercontent.com/u/18634?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1MjAsIm5iZiI6MTczNDQ2MDMyMCwicGF0aCI6Ii91LzE4NjM0In0.vEXYMTWXhDvxP83MMIh6NFkoiNDFTcyNARjz10aqxx0&s=72&u=c9eb9296c2b749fc53ada57db69887256511e61c&v=4" width="24" alt="Avatar of yuroyoro"/> yuroyoro
+				<img src="https://private-avatars.githubusercontent.com/u/18634?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzMjAsIm5iZiI6MTczNDU3MDEyMCwicGF0aCI6Ii91LzE4NjM0In0.GKb5d2jYZ7GtWSf19cihY8Tz_1auU4DXTF4rxzpAJsg&s=72&u=c9eb9296c2b749fc53ada57db69887256511e61c&v=4" width="24" alt="Avatar of yuroyoro"/> yuroyoro
 			</a><br/>
 			
 		</td>
@@ -11228,7 +11228,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>856</td>
 		<td>
 			<a target="_blank" href="https://github.com/higepon">
-				<img src="https://private-avatars.githubusercontent.com/u/54491?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyODAsIm5iZiI6MTczNDQ2MDA4MCwicGF0aCI6Ii91LzU0NDkxIn0.axES4x-dvjsjsnSN0Lk3rU2GQwJ4Y3-vjhWraHJLUaM&s=72&v=4" width="24" alt="Avatar of higepon"/> higepon
+				<img src="https://private-avatars.githubusercontent.com/u/54491?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwODAsIm5iZiI6MTczNDU2OTg4MCwicGF0aCI6Ii91LzU0NDkxIn0.I1HoE2W0V34mU22_dTDyUyIhLLD6Bu5GlhvKi_J_9gE&s=72&v=4" width="24" alt="Avatar of higepon"/> higepon
 			</a><br/>
 			Higepon Taro Minowa
 		</td>
@@ -11241,7 +11241,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>857</td>
 		<td>
 			<a target="_blank" href="https://github.com/Aixile">
-				<img src="https://private-avatars.githubusercontent.com/u/4770853?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3NjAsIm5iZiI6MTczNDQ2MDU2MCwicGF0aCI6Ii91LzQ3NzA4NTMifQ.T7SA30B7S28-kfKkYOgyLVOw_DFLXCCZ5ebBdsd8pPM&s=72&u=93760886eff6b79ab2d41cc35df6c594e6589839&v=4" width="24" alt="Avatar of Aixile"/> Aixile
+				<img src="https://private-avatars.githubusercontent.com/u/4770853?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1NjAsIm5iZiI6MTczNDU3MDM2MCwicGF0aCI6Ii91LzQ3NzA4NTMifQ.NNn-0RCtuWJrp4i3Umge0g-C1dcsABbunQqAuooK__g&s=72&u=93760886eff6b79ab2d41cc35df6c594e6589839&v=4" width="24" alt="Avatar of Aixile"/> Aixile
 			</a><br/>
 			Yanghua Jin
 		</td>
@@ -11254,7 +11254,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>858</td>
 		<td>
 			<a target="_blank" href="https://github.com/alfonsogarciacaro">
-				<img src="https://private-avatars.githubusercontent.com/u/8275461?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjExNjAsIm5iZiI6MTczNDQ1OTk2MCwicGF0aCI6Ii91LzgyNzU0NjEifQ.pwa9PpK9_9VdTreGdfxampwTfYzIL2flgfO-Gvet3xw&s=72&u=06022f161b85e82689cbb83148c4515431f48dcf&v=4" width="24" alt="Avatar of alfonsogarciacaro"/> alfonsogarciacaro
+				<img src="https://private-avatars.githubusercontent.com/u/8275461?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA5NjAsIm5iZiI6MTczNDU2OTc2MCwicGF0aCI6Ii91LzgyNzU0NjEifQ.n6gJfhrhKIdVTKTUUZqv5GdvfQ8jsXrgRLEstHs_bt4&s=72&u=06022f161b85e82689cbb83148c4515431f48dcf&v=4" width="24" alt="Avatar of alfonsogarciacaro"/> alfonsogarciacaro
 			</a><br/>
 			Alfonso GarciaCaro
 		</td>
@@ -11267,7 +11267,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>859</td>
 		<td>
 			<a target="_blank" href="https://github.com/Chakazul">
-				<img src="https://private-avatars.githubusercontent.com/u/36795411?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyMjAsIm5iZiI6MTczNDQ2MDAyMCwicGF0aCI6Ii91LzM2Nzk1NDExIn0.3Ag3ZIHVYkCQ9UqA8xzLzO4ZKRfcahAq2IWIwshzSzg&s=72&u=a929d1425746afbc8c2432e750b8719bb6e58752&v=4" width="24" alt="Avatar of Chakazul"/> Chakazul
+				<img src="https://private-avatars.githubusercontent.com/u/36795411?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwMjAsIm5iZiI6MTczNDU2OTgyMCwicGF0aCI6Ii91LzM2Nzk1NDExIn0.GOAoJv0edERMR5wlggfxH8omQ8PkXEMYbdbHUvZE3R0&s=72&u=a929d1425746afbc8c2432e750b8719bb6e58752&v=4" width="24" alt="Avatar of Chakazul"/> Chakazul
 			</a><br/>
 			Bert Chan
 		</td>
@@ -11280,7 +11280,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>860</td>
 		<td>
 			<a target="_blank" href="https://github.com/Ryota-Kawamura">
-				<img src="https://private-avatars.githubusercontent.com/u/103838631?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEyMjAsIm5iZiI6MTczNDQ2MDAyMCwicGF0aCI6Ii91LzEwMzgzODYzMSJ9.lLMnnWj7DBbLQnK3ETGJiVeQmi4soLVRBI9U-ILt_S8&s=72&u=53571c12553a2621f5b1cc7019e429a2360bad5a&v=4" width="24" alt="Avatar of Ryota-Kawamura"/> Ryota-Kawamura
+				<img src="https://private-avatars.githubusercontent.com/u/103838631?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEwMjAsIm5iZiI6MTczNDU2OTgyMCwicGF0aCI6Ii91LzEwMzgzODYzMSJ9.dF_IYIZFW3w_Uy0cGMa7_Gtqr8zusWy5Y-0WpSIv3rY&s=72&u=53571c12553a2621f5b1cc7019e429a2360bad5a&v=4" width="24" alt="Avatar of Ryota-Kawamura"/> Ryota-Kawamura
 			</a><br/>
 			Ryota Kawamura
 		</td>
@@ -11293,7 +11293,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>861</td>
 		<td>
 			<a target="_blank" href="https://github.com/sotarok">
-				<img src="https://private-avatars.githubusercontent.com/u/29064?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE5NDAsIm5iZiI6MTczNDQ2MDc0MCwicGF0aCI6Ii91LzI5MDY0In0.zwFqPKxfvn9JcGW2eDSRxcjpJBc-MSBLC89O_SY0i3g&s=72&u=71b18e8a01dc3ebfb65803d2daa9258ecd264b85&v=4" width="24" alt="Avatar of sotarok"/> sotarok
+				<img src="https://private-avatars.githubusercontent.com/u/29064?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzA4NDAsIm5iZiI6MTczNDU2OTY0MCwicGF0aCI6Ii91LzI5MDY0In0.8vhZXSlJwSC02g1zSeR1sQMxT_BOsFjg3h591Iw1Pwc&s=72&u=71b18e8a01dc3ebfb65803d2daa9258ecd264b85&v=4" width="24" alt="Avatar of sotarok"/> sotarok
 			</a><br/>
 			Sotaro Karasawa
 		</td>
@@ -11306,7 +11306,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>862</td>
 		<td>
 			<a target="_blank" href="https://github.com/adarshaj">
-				<img src="https://private-avatars.githubusercontent.com/u/511183?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1ODAsIm5iZiI6MTczNDQ2MDM4MCwicGF0aCI6Ii91LzUxMTE4MyJ9.v4_I00ipKtfHVVKPgqVvrjYo4oQDvrx0HN8Sz_H2SxI&s=72&v=4" width="24" alt="Avatar of adarshaj"/> adarshaj
+				<img src="https://private-avatars.githubusercontent.com/u/511183?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzODAsIm5iZiI6MTczNDU3MDE4MCwicGF0aCI6Ii91LzUxMTE4MyJ9.fpa-NdCRej6fhgq-p1N_4qaloKlaBM_RXBKTU_H9bxM&s=72&v=4" width="24" alt="Avatar of adarshaj"/> adarshaj
 			</a><br/>
 			Adarsh J
 		</td>
@@ -11319,7 +11319,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>863</td>
 		<td>
 			<a target="_blank" href="https://github.com/alphaKAI">
-				<img src="https://private-avatars.githubusercontent.com/u/2123766?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjEzNDAsIm5iZiI6MTczNDQ2MDE0MCwicGF0aCI6Ii91LzIxMjM3NjYifQ.1k5FJKzjp7KfMTOt33EvBOJWzLYvxC4dd_PCCYn-vrI&s=72&u=38173881cea2343fd691c6168d9b787fe499d914&v=4" width="24" alt="Avatar of alphaKAI"/> alphaKAI
+				<img src="https://private-avatars.githubusercontent.com/u/2123766?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzExNDAsIm5iZiI6MTczNDU2OTk0MCwicGF0aCI6Ii91LzIxMjM3NjYifQ.saBSRl8zWi1hSetIl4flJBIlg01-cVQZExdbk6AQDRU&s=72&u=38173881cea2343fd691c6168d9b787fe499d914&v=4" width="24" alt="Avatar of alphaKAI"/> alphaKAI
 			</a><br/>
 			Akihiro Shoji
 		</td>
@@ -11332,7 +11332,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>864</td>
 		<td>
 			<a target="_blank" href="https://github.com/egoist-sx">
-				<img src="https://private-avatars.githubusercontent.com/u/8994157?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE3MDAsIm5iZiI6MTczNDQ2MDUwMCwicGF0aCI6Ii91Lzg5OTQxNTcifQ.qlo7P5EKPkTj5-O-dS26RGtTDgWSlDuXnqJFBLXbCJ8&s=72&u=1ddaf6bbc3cccb18671990dd6452454367981088&v=4" width="24" alt="Avatar of egoist-sx"/> egoist-sx
+				<img src="https://private-avatars.githubusercontent.com/u/8994157?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE1MDAsIm5iZiI6MTczNDU3MDMwMCwicGF0aCI6Ii91Lzg5OTQxNTcifQ.fnzQkgLS0R6yGMCLsIgYKMj1ETdYs6m4M-KRugHtA6w&s=72&u=1ddaf6bbc3cccb18671990dd6452454367981088&v=4" width="24" alt="Avatar of egoist-sx"/> egoist-sx
 			</a><br/>
 			Ethan Sun
 		</td>
@@ -11345,7 +11345,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>865</td>
 		<td>
 			<a target="_blank" href="https://github.com/ArvinH">
-				<img src="https://private-avatars.githubusercontent.com/u/286856?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE2NDAsIm5iZiI6MTczNDQ2MDQ0MCwicGF0aCI6Ii91LzI4Njg1NiJ9.dzb6vfcW3ERqm49wseLB77UCwIaucKRPc5E9HGJYtso&s=72&u=18b1f5e5c70573da898157adf29b03286b82a116&v=4" width="24" alt="Avatar of ArvinH"/> ArvinH
+				<img src="https://private-avatars.githubusercontent.com/u/286856?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzE0NDAsIm5iZiI6MTczNDU3MDI0MCwicGF0aCI6Ii91LzI4Njg1NiJ9.9-Ib-37cUIK39vMCEljKEaGa2ZrIoQQK8xDpg8CA3eE&s=72&u=18b1f5e5c70573da898157adf29b03286b82a116&v=4" width="24" alt="Avatar of ArvinH"/> ArvinH
 			</a><br/>
 			Huang ShuoHan
 		</td>
@@ -11358,7 +11358,7 @@ There are `963 users`  in Japan. You need at least `187 followers` to be on this
 		<td>866</td>
 		<td>
 			<a target="_blank" href="https://github.com/susieyy">
-				<img src="https://private-avatars.githubusercontent.com/u/62295?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ0NjE1MjAsIm5iZiI6MTczNDQ2MDMyMCwicGF0aCI6Ii91LzYyMjk1In0.jk30XzeA4vhjnIkv3eXUZW22HZQJyj_a7OmHg0s2JtU&s=72&u=dc6c047acb66c8da38ad36f69fcbd32cb2a12f6e&v=4" width="24" alt="Avatar of susieyy"/> susieyy
+				<img src="https://private-avatars.githubusercontent.com/u/62295?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ1NzEzMjAsIm5iZiI6MTczNDU3MDEyMCwicGF0aCI6Ii91LzYyMjk1In0.8i_-F0oZPHVaJj2c0Ayrcts97FgTPCjDOTZRy_nHxzA&s=72&u=dc6c047acb66c8da38ad36f69fcbd32cb2a12f6e&v=4" width="24" alt="Avatar of susieyy"/> susieyy
 			</a><br/>
 			yohei sugigami
 		</td>
