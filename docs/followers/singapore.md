@@ -10,7 +10,7 @@ description: Top GitHub Users By Followers in Singapore
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Singapore.svg" alt="Singapore"/>
 </a>
 
-The `number of followers` of users in Singapore on `2024/12/19 11:22 PM UTC`. This list contains users from Singapore and citiesSingapore and cities.
+The `number of followers` of users in Singapore on `2024/12/20 9:20 AM UTC`. This list contains users from Singapore and citiesSingapore and cities.
 
 There are `19 countries` and `130 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
@@ -113,20 +113,20 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>1</td>
 		<td>
 			<a target="_blank" href="https://github.com/yyx990803">
-				<img src="https://private-avatars.githubusercontent.com/u/499550?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA1MjAsIm5iZiI6MTczNDY0OTMyMCwicGF0aCI6Ii91LzQ5OTU1MCJ9.9UY63tb1qeyYqNoA9uwbZ0T3mnvaZUTMgAV-S7vuUvE&s=72&u=dd9a9ba40daf29be7c310f7075e74251609b03f3&v=4" width="24" alt="Avatar of yyx990803"/> yyx990803
+				<img src="https://private-avatars.githubusercontent.com/u/499550?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1MjAsIm5iZiI6MTczNDY4NTMyMCwicGF0aCI6Ii91LzQ5OTU1MCJ9.fhAfgFy6iTIeTG11r7KJ4ohbT9CHdY4Qwy7jhgU1WMY&s=72&u=dd9a9ba40daf29be7c310f7075e74251609b03f3&v=4" width="24" alt="Avatar of yyx990803"/> yyx990803
 			</a><br/>
 			Evan You
 		</td>
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/youyuxi">youyuxi</a></td>
 		<td>Singapore</td>
-		<td>102422</td>
+		<td>102428</td>
 	</tr>
 	<tr>
 		<td>2</td>
 		<td>
 			<a target="_blank" href="https://github.com/halfrost">
-				<img src="https://private-avatars.githubusercontent.com/u/10825609?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA5NDAsIm5iZiI6MTczNDY0OTc0MCwicGF0aCI6Ii91LzEwODI1NjA5In0.drt5iYyaTybr53jtYmhRheE8MUch37sYqdphCP6oZjU&s=72&u=03334ecb4f5215e795ed600b655acd597945d4f9&v=4" width="24" alt="Avatar of halfrost"/> halfrost
+				<img src="https://private-avatars.githubusercontent.com/u/10825609?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY5NDAsIm5iZiI6MTczNDY4NTc0MCwicGF0aCI6Ii91LzEwODI1NjA5In0.g9uZfMR6YNgIBvMnaPtEcoAOF8WR7AixbhMahi0CIq8&s=72&u=03334ecb4f5215e795ed600b655acd597945d4f9&v=4" width="24" alt="Avatar of halfrost"/> halfrost
 			</a><br/>
 			halfrost
 		</td>
@@ -139,20 +139,20 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>3</td>
 		<td>
 			<a target="_blank" href="https://github.com/DIYgod">
-				<img src="https://private-avatars.githubusercontent.com/u/8266075?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3NjAsIm5iZiI6MTczNDY0OTU2MCwicGF0aCI6Ii91LzgyNjYwNzUifQ.Cz9jLz13z6zEMC147HMeB45Umi5x3WRq0nrmzSP2lgw&s=72&u=9de49c9b3eaf4db02e685458cb64b64c172034bf&v=4" width="24" alt="Avatar of DIYgod"/> DIYgod
+				<img src="https://private-avatars.githubusercontent.com/u/8266075?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91LzgyNjYwNzUifQ.Bej5YZHKKhr-LTB1oOJf0G6SKOsQtEU2oiTkcHXEDMw&s=72&u=9de49c9b3eaf4db02e685458cb64b64c172034bf&v=4" width="24" alt="Avatar of DIYgod"/> DIYgod
 			</a><br/>
 			DIYgod
 		</td>
 		<td>Natural Selection Labs </td>
 		<td><a target="_blank" href="https://twitter.com/DIYdoge">DIYdoge</a></td>
 		<td>Singapore</td>
-		<td>14543</td>
+		<td>14551</td>
 	</tr>
 	<tr>
 		<td>4</td>
 		<td>
 			<a target="_blank" href="https://github.com/yangshun">
-				<img src="https://private-avatars.githubusercontent.com/u/1315101?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA1MjAsIm5iZiI6MTczNDY0OTMyMCwicGF0aCI6Ii91LzEzMTUxMDEifQ.KEK3HxxJfxFfEVvgFewkzFoBNkdeP_Grci_AiErQUT8&s=72&v=4" width="24" alt="Avatar of yangshun"/> yangshun
+				<img src="https://private-avatars.githubusercontent.com/u/1315101?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1MjAsIm5iZiI6MTczNDY4NTMyMCwicGF0aCI6Ii91LzEzMTUxMDEifQ.IdE4z0m7eu1g0iHyH2Lj-dLuhRkqnvs3mkKPaPnhYe4&s=72&v=4" width="24" alt="Avatar of yangshun"/> yangshun
 			</a><br/>
 			Yangshun Tay
 		</td>
@@ -165,7 +165,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>5</td>
 		<td>
 			<a target="_blank" href="https://github.com/Jinjiang">
-				<img src="https://private-avatars.githubusercontent.com/u/206848?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExMjAsIm5iZiI6MTczNDY0OTkyMCwicGF0aCI6Ii91LzIwNjg0OCJ9.3PP8_qVvBpS1NFW-HfszWMLEmxHT-U3LWc6iS-aIpc8&s=72&u=f3bf03cbf0c932c9c997641488f4a7e081cfa8b0&v=4" width="24" alt="Avatar of Jinjiang"/> Jinjiang
+				<img src="https://private-avatars.githubusercontent.com/u/206848?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODYyMjAsIm5iZiI6MTczNDY4NTAyMCwicGF0aCI6Ii91LzIwNjg0OCJ9.7HfLPVMYP_TgcBxPk1yqLDYauKBVuT0q2Oiekb_4zE0&s=72&u=f3bf03cbf0c932c9c997641488f4a7e081cfa8b0&v=4" width="24" alt="Avatar of Jinjiang"/> Jinjiang
 			</a><br/>
 			Jinjiang
 		</td>
@@ -178,20 +178,20 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>6</td>
 		<td>
 			<a target="_blank" href="https://github.com/phith0n">
-				<img src="https://private-avatars.githubusercontent.com/u/5711185?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4MjAsIm5iZiI6MTczNDY0OTYyMCwicGF0aCI6Ii91LzU3MTExODUifQ.fPCWsOOncd4N9pLMk9l52CSSKrB04vnBnkNXqGHN1oY&s=72&u=7fa01331ea2bd4287f322dde26b69cc8c8272b5c&v=4" width="24" alt="Avatar of phith0n"/> phith0n
+				<img src="https://private-avatars.githubusercontent.com/u/5711185?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4MjAsIm5iZiI6MTczNDY4NTYyMCwicGF0aCI6Ii91LzU3MTExODUifQ.1uXS-86_AyEZhKLDH-m6wqYFuv9zKFoel4QbrViVFKU&s=72&u=7fa01331ea2bd4287f322dde26b69cc8c8272b5c&v=4" width="24" alt="Avatar of phith0n"/> phith0n
 			</a><br/>
 			Owen Gong
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
-		<td>6902</td>
+		<td>6904</td>
 	</tr>
 	<tr>
 		<td>7</td>
 		<td>
 			<a target="_blank" href="https://github.com/rustdesk">
-				<img src="https://private-avatars.githubusercontent.com/u/71636191?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzcxNjM2MTkxIn0.8ddbUwcto_yRbhAfWkHXWmbK9gL84T36sgNVqkd9etg&s=72&u=fcdfa5bbe724bd4ec02f6c3b2419ff25b7f5eb07&v=4" width="24" alt="Avatar of rustdesk"/> rustdesk
+				<img src="https://private-avatars.githubusercontent.com/u/71636191?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODYyODAsIm5iZiI6MTczNDY4NTA4MCwicGF0aCI6Ii91LzcxNjM2MTkxIn0.kqdZnFG8YwTeDKNQSz29V6ZtN_jdReqitjQJdByB8DQ&s=72&u=fcdfa5bbe724bd4ec02f6c3b2419ff25b7f5eb07&v=4" width="24" alt="Avatar of rustdesk"/> rustdesk
 			</a><br/>
 			RustDesk
 		</td>
@@ -204,7 +204,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>8</td>
 		<td>
 			<a target="_blank" href="https://github.com/mmumshad">
-				<img src="https://private-avatars.githubusercontent.com/u/2704615?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3NjAsIm5iZiI6MTczNDY0OTU2MCwicGF0aCI6Ii91LzI3MDQ2MTUifQ.mT_QyfMPtGfgiHj76IF5stpdzSInu-N32e_88krcMiw&s=72&u=627db6c6ad927a39625860523f059201f6e65867&v=4" width="24" alt="Avatar of mmumshad"/> mmumshad
+				<img src="https://private-avatars.githubusercontent.com/u/2704615?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91LzI3MDQ2MTUifQ.CUugYEcNLbkf88yHy6vyn1QOLwiilx4cQy0sEtTn_-A&s=72&u=627db6c6ad927a39625860523f059201f6e65867&v=4" width="24" alt="Avatar of mmumshad"/> mmumshad
 			</a><br/>
 			Mumshad Mannambeth
 		</td>
@@ -217,20 +217,20 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>9</td>
 		<td>
 			<a target="_blank" href="https://github.com/Brooooooklyn">
-				<img src="https://private-avatars.githubusercontent.com/u/3468483?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTAzNDAsIm5iZiI6MTczNDY0OTE0MCwicGF0aCI6Ii91LzM0Njg0ODMifQ.GVfrHQT2CQ-fYhu1gJfw5t7GgIhE7fAxLBvUuWbN3AQ&s=72&u=daf25d236ad2cc227470fa0da2d5bdf3dbb7feed&v=4" width="24" alt="Avatar of Brooooooklyn"/> Brooooooklyn
+				<img src="https://private-avatars.githubusercontent.com/u/3468483?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODYzNDAsIm5iZiI6MTczNDY4NTE0MCwicGF0aCI6Ii91LzM0Njg0ODMifQ.U6m02HLMxgGfCCd8urWR0T9txBDNUt-C1-d2lbnpZk4&s=72&u=daf25d236ad2cc227470fa0da2d5bdf3dbb7feed&v=4" width="24" alt="Avatar of Brooooooklyn"/> Brooooooklyn
 			</a><br/>
 			LongYinan
 		</td>
 		<td>@toeverything </td>
 		<td><a target="_blank" href="https://twitter.com/Brooooook_lyn">Brooooook_lyn</a></td>
 		<td>Singapore</td>
-		<td>4609</td>
+		<td>4611</td>
 	</tr>
 	<tr>
 		<td>10</td>
 		<td>
 			<a target="_blank" href="https://github.com/doodlewind">
-				<img src="https://private-avatars.githubusercontent.com/u/7312949?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA5NDAsIm5iZiI6MTczNDY0OTc0MCwicGF0aCI6Ii91LzczMTI5NDkifQ.8245VvCTSF0SDXloAjJxanm73GSW3f5B-rA3ZEUQAmQ&s=72&u=d402fdd35f9b2ab311d08b3c7c83f1b64cc5ed0f&v=4" width="24" alt="Avatar of doodlewind"/> doodlewind
+				<img src="https://private-avatars.githubusercontent.com/u/7312949?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY5NDAsIm5iZiI6MTczNDY4NTc0MCwicGF0aCI6Ii91LzczMTI5NDkifQ.4Me5IOKtLmKMwVzKBkpCs9bMpSeLT1wV6OHVnnrMMAs&s=72&u=d402fdd35f9b2ab311d08b3c7c83f1b64cc5ed0f&v=4" width="24" alt="Avatar of doodlewind"/> doodlewind
 			</a><br/>
 			Yifeng Wang
 		</td>
@@ -243,7 +243,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>11</td>
 		<td>
 			<a target="_blank" href="https://github.com/JamesNK">
-				<img src="https://private-avatars.githubusercontent.com/u/303201?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA0NjAsIm5iZiI6MTczNDY0OTI2MCwicGF0aCI6Ii91LzMwMzIwMSJ9.cuWKYmxxWZiAbqqkJweEZqvZkEnYD1NbVIFuvGb3eJE&s=72&u=a4521438844aae7f844f8717a79a9858d6c805da&v=4" width="24" alt="Avatar of JamesNK"/> JamesNK
+				<img src="https://private-avatars.githubusercontent.com/u/303201?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY0NjAsIm5iZiI6MTczNDY4NTI2MCwicGF0aCI6Ii91LzMwMzIwMSJ9.5R23M4mRkZ7yi-jIs7BywcREU21Hu72Ptbm_15j4tZo&s=72&u=a4521438844aae7f844f8717a79a9858d6c805da&v=4" width="24" alt="Avatar of JamesNK"/> JamesNK
 			</a><br/>
 			James NewtonKing
 		</td>
@@ -256,20 +256,20 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>12</td>
 		<td>
 			<a target="_blank" href="https://github.com/cch123">
-				<img src="https://private-avatars.githubusercontent.com/u/384546?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3MDAsIm5iZiI6MTczNDY0OTUwMCwicGF0aCI6Ii91LzM4NDU0NiJ9.ejlHFleuzU0P1q9KwyrcOkeejLMOGBCj22Q5K15-xm4&s=72&u=b9f101045b6b9c0322ed6a41aad316c4f2ac5704&v=4" width="24" alt="Avatar of cch123"/> cch123
+				<img src="https://private-avatars.githubusercontent.com/u/384546?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3MDAsIm5iZiI6MTczNDY4NTUwMCwicGF0aCI6Ii91LzM4NDU0NiJ9.YKQms2_7XAkPhBmHHlt9YwHZOvY0vYeHc8418e0-SDs&s=72&u=b9f101045b6b9c0322ed6a41aad316c4f2ac5704&v=4" width="24" alt="Avatar of cch123"/> cch123
 			</a><br/>
 			Xargin
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Beijing China Singapore</td>
-		<td>4229</td>
+		<td>4230</td>
 	</tr>
 	<tr>
 		<td>13</td>
 		<td>
 			<a target="_blank" href="https://github.com/uknownothingsnow">
-				<img src="https://private-avatars.githubusercontent.com/u/212984?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTAzNDAsIm5iZiI6MTczNDY0OTE0MCwicGF0aCI6Ii91LzIxMjk4NCJ9.SFRxg9nQQBL5a3mMz28SsApKyifI9QeeG0wtqjtZrZQ&s=72&u=cd5ac3952f33d265ffb1bc3c25f6ba0e0bcfe682&v=4" width="24" alt="Avatar of uknownothingsnow"/> uknownothingsnow
+				<img src="https://private-avatars.githubusercontent.com/u/212984?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODYzNDAsIm5iZiI6MTczNDY4NTE0MCwicGF0aCI6Ii91LzIxMjk4NCJ9.P674OeXaYsuHlffDRquKzFrgoTTJyEAd8ekBkh2z6bc&s=72&u=cd5ac3952f33d265ffb1bc3c25f6ba0e0bcfe682&v=4" width="24" alt="Avatar of uknownothingsnow"/> uknownothingsnow
 			</a><br/>
 			Young for you
 		</td>
@@ -282,7 +282,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>14</td>
 		<td>
 			<a target="_blank" href="https://github.com/kazura233">
-				<img src="https://private-avatars.githubusercontent.com/u/26360761?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA1ODAsIm5iZiI6MTczNDY0OTM4MCwicGF0aCI6Ii91LzI2MzYwNzYxIn0.K0Rex8fgbpzSa4y9X2H_RW89Qq9oierFk4JVCrwjKIU&s=72&u=342b6f4cd864b7e2fe21eb9401cd22bf1fe38b35&v=4" width="24" alt="Avatar of kazura233"/> kazura233
+				<img src="https://private-avatars.githubusercontent.com/u/26360761?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1ODAsIm5iZiI6MTczNDY4NTM4MCwicGF0aCI6Ii91LzI2MzYwNzYxIn0.NnoEB0WSYh3Bc-g_sCnCo3z5fpiI5zqNiMTWq73Vf9s&s=72&u=342b6f4cd864b7e2fe21eb9401cd22bf1fe38b35&v=4" width="24" alt="Avatar of kazura233"/> kazura233
 			</a><br/>
 			kazura233
 		</td>
@@ -295,7 +295,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>15</td>
 		<td>
 			<a target="_blank" href="https://github.com/XingangPan">
-				<img src="https://private-avatars.githubusercontent.com/u/13579537?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTAzNDAsIm5iZiI6MTczNDY0OTE0MCwicGF0aCI6Ii91LzEzNTc5NTM3In0.VtQsIXAJBmvWrIvIfVsXKgLib5ynkAKpwHSQCysNtz4&s=72&u=d3436a58b7f07f60d1ddd0e30e33e9c1f0b5e331&v=4" width="24" alt="Avatar of XingangPan"/> XingangPan
+				<img src="https://private-avatars.githubusercontent.com/u/13579537?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODYzNDAsIm5iZiI6MTczNDY4NTE0MCwicGF0aCI6Ii91LzEzNTc5NTM3In0.wEZlL-hFfMaDut2ax5Ugxwvzwii2xEHeulFSxBk-X4w&s=72&u=d3436a58b7f07f60d1ddd0e30e33e9c1f0b5e331&v=4" width="24" alt="Avatar of XingangPan"/> XingangPan
 			</a><br/>
 			Xingang Pan
 		</td>
@@ -308,33 +308,33 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>16</td>
 		<td>
 			<a target="_blank" href="https://github.com/cmliu">
-				<img src="https://private-avatars.githubusercontent.com/u/24787744?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA0MDAsIm5iZiI6MTczNDY0OTIwMCwicGF0aCI6Ii91LzI0Nzg3NzQ0In0.j2ZzqnjjYx9JrDAdlj86hVAqPK4ayuYUuXzsuGIwwbI&s=72&u=703922e1f9e4129656faaddf2099a7da58d45254&v=4" width="24" alt="Avatar of cmliu"/> cmliu
+				<img src="https://private-avatars.githubusercontent.com/u/24787744?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY0MDAsIm5iZiI6MTczNDY4NTIwMCwicGF0aCI6Ii91LzI0Nzg3NzQ0In0.QuRnc6BPLPLE1rvR2QoVPii9UIa7gFLed7Etcmwg9ew&s=72&u=703922e1f9e4129656faaddf2099a7da58d45254&v=4" width="24" alt="Avatar of cmliu"/> cmliu
 			</a><br/>
 			CMLiussss
 		</td>
 		<td>Singapore </td>
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
-		<td>2644</td>
+		<td>2648</td>
 	</tr>
 	<tr>
 		<td>17</td>
 		<td>
 			<a target="_blank" href="https://github.com/sonnylazuardi">
-				<img src="https://private-avatars.githubusercontent.com/u/856609?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91Lzg1NjYwOSJ9.IMTNitNcLTYGgsU9viTNkOCu93akOLQvIw-caFih4JU&s=72&u=98c7f8fb0335c7e19ce1fb4a9cb6d449bbbc8cb7&v=4" width="24" alt="Avatar of sonnylazuardi"/> sonnylazuardi
+				<img src="https://private-avatars.githubusercontent.com/u/856609?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODYxNjAsIm5iZiI6MTczNDY4NDk2MCwicGF0aCI6Ii91Lzg1NjYwOSJ9.klSAhUSmnnifUR0zbF54bh67zDoWHjEnQl3t4hLc6-g&s=72&u=98c7f8fb0335c7e19ce1fb4a9cb6d449bbbc8cb7&v=4" width="24" alt="Avatar of sonnylazuardi"/> sonnylazuardi
 			</a><br/>
 			Sonny Lazuardi
 		</td>
 		<td>@grab </td>
 		<td><a target="_blank" href="https://twitter.com/sonnylazuardi">sonnylazuardi</a></td>
 		<td>Singapore  Indonesia</td>
-		<td>2439</td>
+		<td>2438</td>
 	</tr>
 	<tr>
 		<td>18</td>
 		<td>
 			<a target="_blank" href="https://github.com/Vamei">
-				<img src="https://private-avatars.githubusercontent.com/u/1069643?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwMDAsIm5iZiI6MTczNDY0OTgwMCwicGF0aCI6Ii91LzEwNjk2NDMifQ.nWbLKLX9xIyIJ2Q8gBwK3Kt5AV0rpolsT5ixZShzM-0&s=72&u=afd9331391c86ac27a48478dce72f9eb6a84e948&v=4" width="24" alt="Avatar of Vamei"/> Vamei
+				<img src="https://private-avatars.githubusercontent.com/u/1069643?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwMDAsIm5iZiI6MTczNDY4NTgwMCwicGF0aCI6Ii91LzEwNjk2NDMifQ.jyrk-bJBOSr8sWd59d-0GTdkqw4A_m26n0A7t8_eDa0&s=72&u=afd9331391c86ac27a48478dce72f9eb6a84e948&v=4" width="24" alt="Avatar of Vamei"/> Vamei
 			</a><br/>
 			Vamei
 		</td>
@@ -347,7 +347,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>19</td>
 		<td>
 			<a target="_blank" href="https://github.com/hpdang">
-				<img src="https://private-avatars.githubusercontent.com/u/1658742?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4MjAsIm5iZiI6MTczNDY0OTYyMCwicGF0aCI6Ii91LzE2NTg3NDIifQ.Mf90Us8TIze_uUMaFG563WDJQ7HoaGO93gSdhVJXTqc&s=72&u=47f83edbdae3ede5eba1aca10ea3eb378a74b8fd&v=4" width="24" alt="Avatar of hpdang"/> hpdang
+				<img src="https://private-avatars.githubusercontent.com/u/1658742?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4MjAsIm5iZiI6MTczNDY4NTYyMCwicGF0aCI6Ii91LzE2NTg3NDIifQ.2tX96Wcb-f7yrMa94qQPdnCCJVeP_s78Knb0M7ccRG4&s=72&u=47f83edbdae3ede5eba1aca10ea3eb378a74b8fd&v=4" width="24" alt="Avatar of hpdang"/> hpdang
 			</a><br/>
 			Hong Phuc Dang
 		</td>
@@ -360,7 +360,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>20</td>
 		<td>
 			<a target="_blank" href="https://github.com/CodexploreRepo">
-				<img src="https://private-avatars.githubusercontent.com/u/64508435?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA1MjAsIm5iZiI6MTczNDY0OTMyMCwicGF0aCI6Ii91LzY0NTA4NDM1In0.9Li3Kl0VUOxLsQGOjL5mvkSJm1V7vQ5i8cO1sbOgEzk&s=72&u=a6d521b6c483739524d88f64152047aed0bf87c6&v=4" width="24" alt="Avatar of CodexploreRepo"/> CodexploreRepo
+				<img src="https://private-avatars.githubusercontent.com/u/64508435?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1MjAsIm5iZiI6MTczNDY4NTMyMCwicGF0aCI6Ii91LzY0NTA4NDM1In0.FdB4YazSamHjA0i8kUgHW6xHVQrlZL2yAvrf-U_Dx50&s=72&u=a6d521b6c483739524d88f64152047aed0bf87c6&v=4" width="24" alt="Avatar of CodexploreRepo"/> CodexploreRepo
 			</a><br/>
 			CodeXplore
 		</td>
@@ -373,7 +373,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>21</td>
 		<td>
 			<a target="_blank" href="https://github.com/vintagewang">
-				<img src="https://private-avatars.githubusercontent.com/u/1527648?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzE1Mjc2NDgifQ.RTlo80lIpNYBIyTNQbQUNdJOdxVI029b9hDCb8JxU5I&s=72&u=9b9ed328f45640b4bc29594ffae22380a3048ae7&v=4" width="24" alt="Avatar of vintagewang"/> vintagewang
+				<img src="https://private-avatars.githubusercontent.com/u/1527648?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzE1Mjc2NDgifQ.hspFj2yvNFr_4f-tmx-BnFYS8oNSpL3xprQ46uV4g0Q&s=72&u=9b9ed328f45640b4bc29594ffae22380a3048ae7&v=4" width="24" alt="Avatar of vintagewang"/> vintagewang
 			</a><br/>
 			Xiaorui Wang
 		</td>
@@ -386,33 +386,33 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>22</td>
 		<td>
 			<a target="_blank" href="https://github.com/NaiboWang">
-				<img src="https://private-avatars.githubusercontent.com/u/30287768?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzMwMjg3NzY4In0.-XPi26nsiKKoczTjfls0l_eQ0AjfPpXrIe-OI8C9y3A&s=72&u=430d71312cd7b74533c807b08d7211a6e25d4edd&v=4" width="24" alt="Avatar of NaiboWang"/> NaiboWang
+				<img src="https://private-avatars.githubusercontent.com/u/30287768?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODYyODAsIm5iZiI6MTczNDY4NTA4MCwicGF0aCI6Ii91LzMwMjg3NzY4In0.RhymNuLR8ge6BxTBmUq91FWxuwBUgQ_BMZqpK18NbRw&s=72&u=430d71312cd7b74533c807b08d7211a6e25d4edd&v=4" width="24" alt="Avatar of NaiboWang"/> NaiboWang
 			</a><br/>
 			Naibo Wang
 		</td>
 		<td>National University Of Singapore<br/></td>
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
-		<td>1811</td>
+		<td>1812</td>
 	</tr>
 	<tr>
 		<td>23</td>
 		<td>
 			<a target="_blank" href="https://github.com/zer0yu">
-				<img src="https://private-avatars.githubusercontent.com/u/16551733?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3MDAsIm5iZiI6MTczNDY0OTUwMCwicGF0aCI6Ii91LzE2NTUxNzMzIn0.3M-7bm-bX1L-2NsAEHw2hAP6ukUNoFh6enXlTZiYpA8&s=72&u=0d6437de7d96a6b559df49c99578adf5771952a5&v=4" width="24" alt="Avatar of zer0yu"/> zer0yu
+				<img src="https://private-avatars.githubusercontent.com/u/16551733?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3MDAsIm5iZiI6MTczNDY4NTUwMCwicGF0aCI6Ii91LzE2NTUxNzMzIn0.huYYsbFASLPb-BNvyRSz5JLiO6iOxsRrlnTwf3ZkfZ4&s=72&u=0d6437de7d96a6b559df49c99578adf5771952a5&v=4" width="24" alt="Avatar of zer0yu"/> zer0yu
 			</a><br/>
 			z3r0yu
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
-		<td>1765</td>
+		<td>1766</td>
 	</tr>
 	<tr>
 		<td>24</td>
 		<td>
 			<a target="_blank" href="https://github.com/fmzquant">
-				<img src="https://private-avatars.githubusercontent.com/u/3872209?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA1MjAsIm5iZiI6MTczNDY0OTMyMCwicGF0aCI6Ii91LzM4NzIyMDkifQ.0tVac6G1vVKYUTkKQZ1hRnQbpJF3VbZHFyytbdtDi_4&s=72&u=c86cdcebed343061a6a0ed4983fa2458038250b4&v=4" width="24" alt="Avatar of fmzquant"/> fmzquant
+				<img src="https://private-avatars.githubusercontent.com/u/3872209?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1MjAsIm5iZiI6MTczNDY4NTMyMCwicGF0aCI6Ii91LzM4NzIyMDkifQ.aWYnpysOW6WjCqa5BspYxXp9XG7gaHhdxFwo3xb_j8s&s=72&u=c86cdcebed343061a6a0ed4983fa2458038250b4&v=4" width="24" alt="Avatar of fmzquant"/> fmzquant
 			</a><br/>
 			Zero
 		</td>
@@ -425,7 +425,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>25</td>
 		<td>
 			<a target="_blank" href="https://github.com/cheeaun">
-				<img src="https://private-avatars.githubusercontent.com/u/2296?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExMjAsIm5iZiI6MTczNDY0OTkyMCwicGF0aCI6Ii91LzIyOTYifQ.xq_Ldeo0w9SMbMxFBFdKzRQyoI7tDqFR7aboi_zbCQE&s=72&u=27cda8842db37edd84d12b2668f6d93564319899&v=4" width="24" alt="Avatar of cheeaun"/> cheeaun
+				<img src="https://private-avatars.githubusercontent.com/u/2296?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODYyMjAsIm5iZiI6MTczNDY4NTAyMCwicGF0aCI6Ii91LzIyOTYifQ.vPdhyeR-jXdUa5Uz3FwYjFbNBEuFFZWADVbkOfGeaf8&s=72&u=27cda8842db37edd84d12b2668f6d93564319899&v=4" width="24" alt="Avatar of cheeaun"/> cheeaun
 			</a><br/>
 			Chee Aun
 		</td>
@@ -438,7 +438,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>26</td>
 		<td>
 			<a target="_blank" href="https://github.com/mithi">
-				<img src="https://private-avatars.githubusercontent.com/u/1670421?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzE2NzA0MjEifQ.JmEbAkX8T8vWiNQi4mOBwqAFg_GiOo1rBd8xaTsXEF8&s=72&u=353ff864b8ab7ee262471ca87e36a5ea488ca839&v=4" width="24" alt="Avatar of mithi"/> mithi
+				<img src="https://private-avatars.githubusercontent.com/u/1670421?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODYyODAsIm5iZiI6MTczNDY4NTA4MCwicGF0aCI6Ii91LzE2NzA0MjEifQ.X-t6vkC9Ytl5KVmnPTR9r-ksYHq-Fwv2OPjg4EmlhlE&s=72&u=353ff864b8ab7ee262471ca87e36a5ea488ca839&v=4" width="24" alt="Avatar of mithi"/> mithi
 			</a><br/>
 			Mithi Sevilla
 		</td>
@@ -450,8 +450,21 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 	<tr>
 		<td>27</td>
 		<td>
+			<a target="_blank" href="https://github.com/tanhauhau">
+				<img src="https://private-avatars.githubusercontent.com/u/2338632?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1MjAsIm5iZiI6MTczNDY4NTMyMCwicGF0aCI6Ii91LzIzMzg2MzIifQ.udgCXmtzIrlss7Dvu8hRwhlBgI-p_jD2Sq2snhJdEGU&s=72&u=7ca35d9de31aadd8e9af2f8e75ac185c6c42d1ab&v=4" width="24" alt="Avatar of tanhauhau"/> tanhauhau
+			</a><br/>
+			Tan Li Hau
+		</td>
+		<td>@shopee </td>
+		<td>No Twitter Username</td>
+		<td>Singapore</td>
+		<td>1607</td>
+	</tr>
+	<tr>
+		<td>28</td>
+		<td>
 			<a target="_blank" href="https://github.com/liuziwei7">
-				<img src="https://private-avatars.githubusercontent.com/u/3158258?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA1ODAsIm5iZiI6MTczNDY0OTM4MCwicGF0aCI6Ii91LzMxNTgyNTgifQ.XvnIBHFfbW1e8iHvI-ZJvdT3hp_zQ491XSNICXZXiEo&s=72&u=2e75848201e352bdf89a383bbaec0ba651d75f50&v=4" width="24" alt="Avatar of liuziwei7"/> liuziwei7
+				<img src="https://private-avatars.githubusercontent.com/u/3158258?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1ODAsIm5iZiI6MTczNDY4NTM4MCwicGF0aCI6Ii91LzMxNTgyNTgifQ.50o7PBSFW77h1qCSxSp31QQYsP_70H3y2zWtViM0nIw&s=72&u=2e75848201e352bdf89a383bbaec0ba651d75f50&v=4" width="24" alt="Avatar of liuziwei7"/> liuziwei7
 			</a><br/>
 			Ziwei Liu
 		</td>
@@ -461,75 +474,62 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>1607</td>
 	</tr>
 	<tr>
-		<td>28</td>
-		<td>
-			<a target="_blank" href="https://github.com/tanhauhau">
-				<img src="https://private-avatars.githubusercontent.com/u/2338632?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA1MjAsIm5iZiI6MTczNDY0OTMyMCwicGF0aCI6Ii91LzIzMzg2MzIifQ.vfhWarHJ2qsluylc2zI2HmN6meAF13swo-U8tIXe1zY&s=72&u=7ca35d9de31aadd8e9af2f8e75ac185c6c42d1ab&v=4" width="24" alt="Avatar of tanhauhau"/> tanhauhau
-			</a><br/>
-			Tan Li Hau
-		</td>
-		<td>@shopee </td>
-		<td>No Twitter Username</td>
-		<td>Singapore</td>
-		<td>1606</td>
-	</tr>
-	<tr>
 		<td>29</td>
 		<td>
 			<a target="_blank" href="https://github.com/laixintao">
-				<img src="https://private-avatars.githubusercontent.com/u/9675939?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA2NDAsIm5iZiI6MTczNDY0OTQ0MCwicGF0aCI6Ii91Lzk2NzU5MzkifQ.ylzAkUxZED1AYGcWRYFFtsAo_jtRBtNkR4nPv4Qmzrs&s=72&u=60b409818f90c7e8326b3fd51c522c8559899d4e&v=4" width="24" alt="Avatar of laixintao"/> laixintao
+				<img src="https://private-avatars.githubusercontent.com/u/9675939?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91Lzk2NzU5MzkifQ.OnQaQ2RQRv_Qu7KCLLfxx6A_5bXl-08pJs5xNzeRasA&s=72&u=60b409818f90c7e8326b3fd51c522c8559899d4e&v=4" width="24" alt="Avatar of laixintao"/> laixintao
 			</a><br/>
 			No Name
 		</td>
 		<td>Shopee </td>
 		<td><a target="_blank" href="https://twitter.com/laixintao">laixintao</a></td>
 		<td>Singapore</td>
-		<td>1578</td>
+		<td>1577</td>
 	</tr>
 	<tr>
 		<td>30</td>
 		<td>
 			<a target="_blank" href="https://github.com/trungvose">
-				<img src="https://private-avatars.githubusercontent.com/u/6767322?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4MjAsIm5iZiI6MTczNDY0OTYyMCwicGF0aCI6Ii91LzY3NjczMjIifQ.bI4e9T3uxePTfIDWFUS9CiBkw9-T94jcMz7gWRd-jqE&s=72&u=78f2b51f7e089ffeaf82cbe817d5fe8e9aff0d19&v=4" width="24" alt="Avatar of trungvose"/> trungvose
+				<img src="https://private-avatars.githubusercontent.com/u/6767322?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4MjAsIm5iZiI6MTczNDY4NTYyMCwicGF0aCI6Ii91LzY3NjczMjIifQ.U9If1i9AbccS_KRejRGRE5BlLlSX72B_hOtNjcirjZ0&s=72&u=78f2b51f7e089ffeaf82cbe817d5fe8e9aff0d19&v=4" width="24" alt="Avatar of trungvose"/> trungvose
 			</a><br/>
 			Trung Vo
 		</td>
 		<td>@kaligo </td>
 		<td><a target="_blank" href="https://twitter.com/trungvose">trungvose</a></td>
 		<td>Singapore</td>
-		<td>1549</td>
+		<td>1548</td>
 	</tr>
 	<tr>
 		<td>31</td>
 		<td>
 			<a target="_blank" href="https://github.com/ldqk">
-				<img src="https://private-avatars.githubusercontent.com/u/20254980?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3NjAsIm5iZiI6MTczNDY0OTU2MCwicGF0aCI6Ii91LzIwMjU0OTgwIn0.LXyVY3DF7LyzK-1ESF0zc4K5tMlLLiG_s2rbSS-oD0Y&s=72&u=4bf9a3e12a0c94058b9ff767c2c90cadbd231c06&v=4" width="24" alt="Avatar of ldqk"/> ldqk
+				<img src="https://private-avatars.githubusercontent.com/u/20254980?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91LzIwMjU0OTgwIn0.1Rv5LPLwTMeM5wMcSWKs33WYDeuOmFfxWF1bdDFhyjk&s=72&u=4bf9a3e12a0c94058b9ff767c2c90cadbd231c06&v=4" width="24" alt="Avatar of ldqk"/> ldqk
 			</a><br/>
 			
 		</td>
 		<td> </td>
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
-		<td>1476</td>
+		<td>1477</td>
 	</tr>
 	<tr>
 		<td>32</td>
 		<td>
 			<a target="_blank" href="https://github.com/binhnguyennus">
-				<img src="https://private-avatars.githubusercontent.com/u/15001306?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA5NDAsIm5iZiI6MTczNDY0OTc0MCwicGF0aCI6Ii91LzE1MDAxMzA2In0.JGhgBCfVRvXVB6KNSmvtW20J0PT-xS0zL7XIuHUCan0&s=72&u=9133892e7a7265f046ba59c6d8ba8ae4ca37a936&v=4" width="24" alt="Avatar of binhnguyennus"/> binhnguyennus
+				<img src="https://private-avatars.githubusercontent.com/u/15001306?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY5NDAsIm5iZiI6MTczNDY4NTc0MCwicGF0aCI6Ii91LzE1MDAxMzA2In0.JJGziKp4GiYWP-_0UmA9ba1tyrO0wSw4XeQnT-_pwnw&s=72&u=9133892e7a7265f046ba59c6d8ba8ae4ca37a936&v=4" width="24" alt="Avatar of binhnguyennus"/> binhnguyennus
 			</a><br/>
 			Binh Nguyen
 		</td>
 		<td>Ibm </td>
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
-		<td>1407</td>
+		<td>1408</td>
 	</tr>
 	<tr>
 		<td>33</td>
 		<td>
 			<a target="_blank" href="https://github.com/ritchieng">
-				<img src="https://private-avatars.githubusercontent.com/u/11657655?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExMjAsIm5iZiI6MTczNDY0OTkyMCwicGF0aCI6Ii91LzExNjU3NjU1In0.edINDT0a1wrobiiCXO7K8iDeH8KfOqQedk3-UgdmWdw&s=72&u=94b5ed7226c15a7b1220fb711462ebf908dda6a5&v=4" width="24" alt="Avatar of ritchieng"/> ritchieng
+				<img src="https://private-avatars.githubusercontent.com/u/11657655?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODYyMjAsIm5iZiI6MTczNDY4NTAyMCwicGF0aCI6Ii91LzExNjU3NjU1In0.VLYZ-XdA40uuqQ1AkUx-1hokwjwDE07qPVIdF1YrnWA&s=72&u=94b5ed7226c15a7b1220fb711462ebf908dda6a5&v=4" width="24" alt="Avatar of ritchieng"/> ritchieng
 			</a><br/>
 			Ritchie Ng
 		</td>
@@ -542,7 +542,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>34</td>
 		<td>
 			<a target="_blank" href="https://github.com/Hackl0us">
-				<img src="https://private-avatars.githubusercontent.com/u/10215166?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwMDAsIm5iZiI6MTczNDY0OTgwMCwicGF0aCI6Ii91LzEwMjE1MTY2In0.rB_dKJITwcts4XjvMRae0uvXlCeRCOr7EwhYFc8mkFA&s=72&u=ac528064dd38fcf00a8979d11118f1dea8d07186&v=4" width="24" alt="Avatar of Hackl0us"/> Hackl0us
+				<img src="https://private-avatars.githubusercontent.com/u/10215166?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwMDAsIm5iZiI6MTczNDY4NTgwMCwicGF0aCI6Ii91LzEwMjE1MTY2In0.Mi3H9MUz83I5jBn5v_NOzPHmlM6fuGwNP1a77T5Nm-Q&s=72&u=ac528064dd38fcf00a8979d11118f1dea8d07186&v=4" width="24" alt="Avatar of Hackl0us"/> Hackl0us
 			</a><br/>
 			Jason Zhang
 		</td>
@@ -555,7 +555,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>35</td>
 		<td>
 			<a target="_blank" href="https://github.com/j3ssie">
-				<img src="https://private-avatars.githubusercontent.com/u/23289085?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4ODAsIm5iZiI6MTczNDY0OTY4MCwicGF0aCI6Ii91LzIzMjg5MDg1In0.w-FXZSWo7IscMP2VqjsK-Vf31GirKu4kIxZQrmYR48g&s=72&u=7c4022bc6f9ddcea4df7fc279831cf60d2da59db&v=4" width="24" alt="Avatar of j3ssie"/> j3ssie
+				<img src="https://private-avatars.githubusercontent.com/u/23289085?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4ODAsIm5iZiI6MTczNDY4NTY4MCwicGF0aCI6Ii91LzIzMjg5MDg1In0.fSktA0Insh_w167nn9SmC7GlinJBABaTqs8GyIy9vSU&s=72&u=7c4022bc6f9ddcea4df7fc279831cf60d2da59db&v=4" width="24" alt="Avatar of j3ssie"/> j3ssie
 			</a><br/>
 			Ai Ho j3ssie
 		</td>
@@ -568,7 +568,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>36</td>
 		<td>
 			<a target="_blank" href="https://github.com/sczhou">
-				<img src="https://private-avatars.githubusercontent.com/u/14334509?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA1ODAsIm5iZiI6MTczNDY0OTM4MCwicGF0aCI6Ii91LzE0MzM0NTA5In0.4f4rA9bt3NSlMxhrkI_rk_RFQ7mOly50MmSr-PLCEz4&s=72&u=7d30c71af7c2ab4d4f2fbbdead98722f5886cee8&v=4" width="24" alt="Avatar of sczhou"/> sczhou
+				<img src="https://private-avatars.githubusercontent.com/u/14334509?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1ODAsIm5iZiI6MTczNDY4NTM4MCwicGF0aCI6Ii91LzE0MzM0NTA5In0.I_gw6GFywPu6M9CBnkC6rV0WBQN431c6b9Wkw0bXRvQ&s=72&u=7d30c71af7c2ab4d4f2fbbdead98722f5886cee8&v=4" width="24" alt="Avatar of sczhou"/> sczhou
 			</a><br/>
 			Shangchen Zhou
 		</td>
@@ -581,7 +581,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>37</td>
 		<td>
 			<a target="_blank" href="https://github.com/niklasvh">
-				<img src="https://private-avatars.githubusercontent.com/u/551347?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzU1MTM0NyJ9.k2YcAsdtnyPpFya7DLUWhNgnRUMfn6G8H4i6GkOR_SI&s=72&u=3b7f436a57f4a525ceb216ead0c8a145875fced8&v=4" width="24" alt="Avatar of niklasvh"/> niklasvh
+				<img src="https://private-avatars.githubusercontent.com/u/551347?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzU1MTM0NyJ9.UebsQTN4uUS1QITWaI1No_lLsJjal479q9LXFXUipnA&s=72&u=3b7f436a57f4a525ceb216ead0c8a145875fced8&v=4" width="24" alt="Avatar of niklasvh"/> niklasvh
 			</a><br/>
 			Niklas von Hertzen
 		</td>
@@ -594,7 +594,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>38</td>
 		<td>
 			<a target="_blank" href="https://github.com/bunnie">
-				<img src="https://private-avatars.githubusercontent.com/u/1168375?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExMjAsIm5iZiI6MTczNDY0OTkyMCwicGF0aCI6Ii91LzExNjgzNzUifQ.7OcHbIh-SSLG9pAlXPSmYfE__oRTNWEt3J0NI_PHlY8&s=72&u=aafe8787199083829c0d108d83a1645ea71cd60e&v=4" width="24" alt="Avatar of bunnie"/> bunnie
+				<img src="https://private-avatars.githubusercontent.com/u/1168375?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODYyMjAsIm5iZiI6MTczNDY4NTAyMCwicGF0aCI6Ii91LzExNjgzNzUifQ.ai4vwymzwVH1XxV0rWhvzpqW7xJsxqouamMVvRMBg_U&s=72&u=aafe8787199083829c0d108d83a1645ea71cd60e&v=4" width="24" alt="Avatar of bunnie"/> bunnie
 			</a><br/>
 			bunnie
 		</td>
@@ -607,7 +607,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>39</td>
 		<td>
 			<a target="_blank" href="https://github.com/crownpku">
-				<img src="https://private-avatars.githubusercontent.com/u/2224389?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzIyMjQzODkifQ.WOrYWvAdXPpLYgyKelQS0SPbZL8CQzUGCjr9P7jY2SA&s=72&u=11198545c4b1a8ad258c2db644f64e1bf342a776&v=4" width="24" alt="Avatar of crownpku"/> crownpku
+				<img src="https://private-avatars.githubusercontent.com/u/2224389?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODYyODAsIm5iZiI6MTczNDY4NTA4MCwicGF0aCI6Ii91LzIyMjQzODkifQ.WG6Iq73g2TZaq6ZTc1N_j05Jld3yelpQR_UJVE-QCD8&s=72&u=11198545c4b1a8ad258c2db644f64e1bf342a776&v=4" width="24" alt="Avatar of crownpku"/> crownpku
 			</a><br/>
 			Guan Wang
 		</td>
@@ -620,7 +620,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>40</td>
 		<td>
 			<a target="_blank" href="https://github.com/rphly">
-				<img src="https://private-avatars.githubusercontent.com/u/23185489?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3MDAsIm5iZiI6MTczNDY0OTUwMCwicGF0aCI6Ii91LzIzMTg1NDg5In0.Pqj5dLWL5kz4M3Ulb7Tvp7K1KADxjm7mQpwoiQf2yCI&s=72&u=5e8cb2c3b2b9a5f6adc8fa02accd392bd6019929&v=4" width="24" alt="Avatar of rphly"/> rphly
+				<img src="https://private-avatars.githubusercontent.com/u/23185489?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3MDAsIm5iZiI6MTczNDY4NTUwMCwicGF0aCI6Ii91LzIzMTg1NDg5In0.UVXmFijyF6uxzi0ta_V3UXYXEGdzSBhPiWgLUKzwtcA&s=72&u=5e8cb2c3b2b9a5f6adc8fa02accd392bd6019929&v=4" width="24" alt="Avatar of rphly"/> rphly
 			</a><br/>
 			Raphael Yee
 		</td>
@@ -633,7 +633,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>41</td>
 		<td>
 			<a target="_blank" href="https://github.com/sausheong">
-				<img src="https://private-avatars.githubusercontent.com/u/5962?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzU5NjIifQ.KgZdO6OFq2EZMOZDD6U4fRfZroj_66Dp1CJYho3M_SM&s=72&u=6a0944007901abc59e2bd5d74470d77754c31ecf&v=4" width="24" alt="Avatar of sausheong"/> sausheong
+				<img src="https://private-avatars.githubusercontent.com/u/5962?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODYyODAsIm5iZiI6MTczNDY4NTA4MCwicGF0aCI6Ii91LzU5NjIifQ.j5CCUPLJljiZ8iPgj-ckAnJ3uo8mXUZ3igF3_kzf7Oo&s=72&u=6a0944007901abc59e2bd5d74470d77754c31ecf&v=4" width="24" alt="Avatar of sausheong"/> sausheong
 			</a><br/>
 			Chang Sau Sheong
 		</td>
@@ -646,7 +646,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>42</td>
 		<td>
 			<a target="_blank" href="https://github.com/Snowming04">
-				<img src="https://private-avatars.githubusercontent.com/u/47935594?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3MDAsIm5iZiI6MTczNDY0OTUwMCwicGF0aCI6Ii91LzQ3OTM1NTk0In0.lPHkCM4GU9khQbGMe17f4iiTEa-v9H4zSukvabA2xDc&s=72&u=716473ad05d13503e33777839aa6febc9056dcba&v=4" width="24" alt="Avatar of Snowming04"/> Snowming04
+				<img src="https://private-avatars.githubusercontent.com/u/47935594?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3MDAsIm5iZiI6MTczNDY4NTUwMCwicGF0aCI6Ii91LzQ3OTM1NTk0In0.onX0kuZLyIw4daiKYJj-uoHQOrOrdxoL_4k-MwjM3iQ&s=72&u=716473ad05d13503e33777839aa6febc9056dcba&v=4" width="24" alt="Avatar of Snowming04"/> Snowming04
 			</a><br/>
 			Snowming
 		</td>
@@ -659,7 +659,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>43</td>
 		<td>
 			<a target="_blank" href="https://github.com/zellwk">
-				<img src="https://private-avatars.githubusercontent.com/u/3607637?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3NjAsIm5iZiI6MTczNDY0OTU2MCwicGF0aCI6Ii91LzM2MDc2MzcifQ.sJrnQy977cN3Oe88RXbeAUCGJKYYjkHwc974AEmBLZ8&s=72&v=4" width="24" alt="Avatar of zellwk"/> zellwk
+				<img src="https://private-avatars.githubusercontent.com/u/3607637?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91LzM2MDc2MzcifQ.ta1FsyGPHKqdPW7gIudhZ6Fi2UX8RXQcmonBIkiKBeU&s=72&v=4" width="24" alt="Avatar of zellwk"/> zellwk
 			</a><br/>
 			Zell Liew
 		</td>
@@ -672,33 +672,33 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>44</td>
 		<td>
 			<a target="_blank" href="https://github.com/huijing">
-				<img src="https://private-avatars.githubusercontent.com/u/1461498?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4MjAsIm5iZiI6MTczNDY0OTYyMCwicGF0aCI6Ii91LzE0NjE0OTgifQ.2lj3NJoTa3WdmSrC8G6rZp7Zo12ZA4bUsweKOHanKs4&s=72&u=398c1e026c23238842cf2a8de79cadbf1d5cf42a&v=4" width="24" alt="Avatar of huijing"/> huijing
+				<img src="https://private-avatars.githubusercontent.com/u/1461498?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4MjAsIm5iZiI6MTczNDY4NTYyMCwicGF0aCI6Ii91LzE0NjE0OTgifQ.OgGDOTMJuyd-YLDGMW-uZsP_xkkUaEpb50rf7LYnMKo&s=72&u=398c1e026c23238842cf2a8de79cadbf1d5cf42a&v=4" width="24" alt="Avatar of huijing"/> huijing
 			</a><br/>
 			Chen Hui Jing
 		</td>
 		<td>@interledger  </td>
 		<td><a target="_blank" href="https://twitter.com/hj_chen">hj_chen</a></td>
 		<td>Singapore</td>
-		<td>1043</td>
+		<td>1042</td>
 	</tr>
 	<tr>
 		<td>45</td>
 		<td>
 			<a target="_blank" href="https://github.com/aniruddha-adhikary">
-				<img src="https://private-avatars.githubusercontent.com/u/932949?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzkzMjk0OSJ9.NELZWoXAQ2br5gK1WWBiSdsAfZAnm0XFT5Shr14hi0I&s=72&u=f49c1c0b958da191fd0f87ef0212cc40f8218cf8&v=4" width="24" alt="Avatar of aniruddha-adhikary"/> aniruddha-adhikary
+				<img src="https://private-avatars.githubusercontent.com/u/932949?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzkzMjk0OSJ9.jphRNPssqnVHJzrJoFWht8yfOL2YyrQpb_RyusRpmZI&s=72&u=f49c1c0b958da191fd0f87ef0212cc40f8218cf8&v=4" width="24" alt="Avatar of aniruddha-adhikary"/> aniruddha-adhikary
 			</a><br/>
 			Aniruddha Adhikary Ani
 		</td>
 		<td>@govtechsg </td>
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
-		<td>1022</td>
+		<td>1023</td>
 	</tr>
 	<tr>
 		<td>46</td>
 		<td>
 			<a target="_blank" href="https://github.com/plh97">
-				<img src="https://private-avatars.githubusercontent.com/u/14355994?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA1ODAsIm5iZiI6MTczNDY0OTM4MCwicGF0aCI6Ii91LzE0MzU1OTk0In0.E6lee3S8Z2mWHxgwwVtIAUCh_TOZ09ItIFT8yg_3G9k&s=72&u=4b9ebae91b21a12e40462470e4ab40a31e0a97bd&v=4" width="24" alt="Avatar of plh97"/> plh97
+				<img src="https://private-avatars.githubusercontent.com/u/14355994?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1ODAsIm5iZiI6MTczNDY4NTM4MCwicGF0aCI6Ii91LzE0MzU1OTk0In0.a9s4sOAIivHFqpiXiD3zYMbC0sLtgOIwEOCJzihvCCE&s=72&u=4b9ebae91b21a12e40462470e4ab40a31e0a97bd&v=4" width="24" alt="Avatar of plh97"/> plh97
 			</a><br/>
 			plh
 		</td>
@@ -711,7 +711,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>47</td>
 		<td>
 			<a target="_blank" href="https://github.com/RayeRen">
-				<img src="https://private-avatars.githubusercontent.com/u/16171482?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA2NDAsIm5iZiI6MTczNDY0OTQ0MCwicGF0aCI6Ii91LzE2MTcxNDgyIn0.__Yp2F5weEYbHt-xjzajjOgctBnQ-_mcnSBoZazHmk8&s=72&u=79497d3d267d70939540fa6863c09374c9244a6e&v=4" width="24" alt="Avatar of RayeRen"/> RayeRen
+				<img src="https://private-avatars.githubusercontent.com/u/16171482?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91LzE2MTcxNDgyIn0.lDAVbt1RHjJI7uP7bmICPYNMlMmP-9H9UcNItcYU6Mc&s=72&u=79497d3d267d70939540fa6863c09374c9244a6e&v=4" width="24" alt="Avatar of RayeRen"/> RayeRen
 			</a><br/>
 			Yi Ren
 		</td>
@@ -724,20 +724,20 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>48</td>
 		<td>
 			<a target="_blank" href="https://github.com/ptyadana">
-				<img src="https://private-avatars.githubusercontent.com/u/656931?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA1MjAsIm5iZiI6MTczNDY0OTMyMCwicGF0aCI6Ii91LzY1NjkzMSJ9.UhANG41fXFz_Zd2a9Yhvz7fkKzvUXYo1r_N-uOch6dg&s=72&u=a4676809a62afb45a69e67583226d213dd1a31c6&v=4" width="24" alt="Avatar of ptyadana"/> ptyadana
+				<img src="https://private-avatars.githubusercontent.com/u/656931?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1MjAsIm5iZiI6MTczNDY4NTMyMCwicGF0aCI6Ii91LzY1NjkzMSJ9.UJ0_NsGINp7sP_h_-Is2AROiELA62WozbrkJj47p2Bs&s=72&u=a4676809a62afb45a69e67583226d213dd1a31c6&v=4" width="24" alt="Avatar of ptyadana"/> ptyadana
 			</a><br/>
 			Phone Thiri Yadana
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
-		<td>1011</td>
+		<td>1012</td>
 	</tr>
 	<tr>
 		<td>49</td>
 		<td>
 			<a target="_blank" href="https://github.com/borisbanushev">
-				<img src="https://private-avatars.githubusercontent.com/u/36700291?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3NjAsIm5iZiI6MTczNDY0OTU2MCwicGF0aCI6Ii91LzM2NzAwMjkxIn0.qbtoMPetnuCjHoSylVHl0zmq33sKMjf5vM5gpjOqcko&s=72&u=e978a0030e05159aad083298e06e134d0bf18fe9&v=4" width="24" alt="Avatar of borisbanushev"/> borisbanushev
+				<img src="https://private-avatars.githubusercontent.com/u/36700291?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91LzM2NzAwMjkxIn0.BTlBl69wscUqTg0DtDfTBCe2oZ3yBlEhiJB1vX6Zx3M&s=72&u=e978a0030e05159aad083298e06e134d0bf18fe9&v=4" width="24" alt="Avatar of borisbanushev"/> borisbanushev
 			</a><br/>
 			Boris Banushev
 		</td>
@@ -750,7 +750,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>50</td>
 		<td>
 			<a target="_blank" href="https://github.com/dwmkerr">
-				<img src="https://private-avatars.githubusercontent.com/u/1926984?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzE5MjY5ODQifQ.SYSwgRbbEPAioyPqE-_WdEudAWl3ljcOeP6GJSIdQxo&s=72&u=50c038aec4c63eb1eb22b674d510b07053680a61&v=4" width="24" alt="Avatar of dwmkerr"/> dwmkerr
+				<img src="https://private-avatars.githubusercontent.com/u/1926984?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODYyODAsIm5iZiI6MTczNDY4NTA4MCwicGF0aCI6Ii91LzE5MjY5ODQifQ.sedp5PF5X5CNNjTiyMwEQRPrm5mnFGvoTdeQy-hqOZA&s=72&u=50c038aec4c63eb1eb22b674d510b07053680a61&v=4" width="24" alt="Avatar of dwmkerr"/> dwmkerr
 			</a><br/>
 			Dave Kerr
 		</td>
@@ -763,20 +763,20 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>51</td>
 		<td>
 			<a target="_blank" href="https://github.com/moonD4rk">
-				<img src="https://private-avatars.githubusercontent.com/u/24284231?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA0NjAsIm5iZiI6MTczNDY0OTI2MCwicGF0aCI6Ii91LzI0Mjg0MjMxIn0.ecZJwa7xo_MgczG5nFbvQi6XCQP6VnTNTxZQuhkenaQ&s=72&u=df5b9751ca9d5fabe3a2119f10dbb6e3acef3ced&v=4" width="24" alt="Avatar of moonD4rk"/> moonD4rk
+				<img src="https://private-avatars.githubusercontent.com/u/24284231?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY0NjAsIm5iZiI6MTczNDY4NTI2MCwicGF0aCI6Ii91LzI0Mjg0MjMxIn0.3o_i9-aoQ1iskT83lCsX8b9lLrp6_cKDxGcMDuGKdt4&s=72&u=df5b9751ca9d5fabe3a2119f10dbb6e3acef3ced&v=4" width="24" alt="Avatar of moonD4rk"/> moonD4rk
 			</a><br/>
 			D4
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
-		<td>991</td>
+		<td>990</td>
 	</tr>
 	<tr>
 		<td>52</td>
 		<td>
 			<a target="_blank" href="https://github.com/CMGS">
-				<img src="https://private-avatars.githubusercontent.com/u/506216?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzUwNjIxNiJ9._36OsXAjPskr5APQ_AAo5QkoP6pxfMrSABMSqWOBBU4&s=72&v=4" width="24" alt="Avatar of CMGS"/> CMGS
+				<img src="https://private-avatars.githubusercontent.com/u/506216?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzUwNjIxNiJ9.xX7bGnljO9YiA2vKtqaIuvO9Pd5lTk6ZG-RtZm1Un80&s=72&v=4" width="24" alt="Avatar of CMGS"/> CMGS
 			</a><br/>
 			CMGS
 		</td>
@@ -789,7 +789,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>53</td>
 		<td>
 			<a target="_blank" href="https://github.com/honcheng">
-				<img src="https://private-avatars.githubusercontent.com/u/208827?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwMDAsIm5iZiI6MTczNDY0OTgwMCwicGF0aCI6Ii91LzIwODgyNyJ9.9hSS0NalDaUpKdC7OMFzb7lZ6bEh6Tj-dk8BJs0fFzA&s=72&v=4" width="24" alt="Avatar of honcheng"/> honcheng
+				<img src="https://private-avatars.githubusercontent.com/u/208827?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwMDAsIm5iZiI6MTczNDY4NTgwMCwicGF0aCI6Ii91LzIwODgyNyJ9.awZJMKyW0l1sGiVep1X_u3ztgGNom--paAwNRg4vxvk&s=72&v=4" width="24" alt="Avatar of honcheng"/> honcheng
 			</a><br/>
 			honcheng
 		</td>
@@ -802,7 +802,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>54</td>
 		<td>
 			<a target="_blank" href="https://github.com/xbresson">
-				<img src="https://private-avatars.githubusercontent.com/u/22800385?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzIyODAwMzg1In0.3EIYhqbMPErmbRU68Kb4fb7EyS4JleJp_RF-tU-68PY&s=72&u=673e4cf43dfdeaff71cd123ba3e7ce731cc4a585&v=4" width="24" alt="Avatar of xbresson"/> xbresson
+				<img src="https://private-avatars.githubusercontent.com/u/22800385?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODYyODAsIm5iZiI6MTczNDY4NTA4MCwicGF0aCI6Ii91LzIyODAwMzg1In0.LOfAlL9f5VaLGjA4s83INeBmtc8q-omhR1bohuy2CFg&s=72&u=673e4cf43dfdeaff71cd123ba3e7ce731cc4a585&v=4" width="24" alt="Avatar of xbresson"/> xbresson
 			</a><br/>
 			Xavier Bresson
 		</td>
@@ -815,7 +815,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>55</td>
 		<td>
 			<a target="_blank" href="https://github.com/kennethleungty">
-				<img src="https://private-avatars.githubusercontent.com/u/16691614?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4MjAsIm5iZiI6MTczNDY0OTYyMCwicGF0aCI6Ii91LzE2NjkxNjE0In0.59rtX_nPpOl5LV8nghXChx_hyo7VIJrDNhQdxkoZoXk&s=72&u=79bee1ac6e74702838f71386c675f0ed6202b0b3&v=4" width="24" alt="Avatar of kennethleungty"/> kennethleungty
+				<img src="https://private-avatars.githubusercontent.com/u/16691614?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4MjAsIm5iZiI6MTczNDY4NTYyMCwicGF0aCI6Ii91LzE2NjkxNjE0In0.3AXTOCy-ERbRJeoddsTmtgcTpcwNRWJv8M9BiiAqdxU&s=72&u=79bee1ac6e74702838f71386c675f0ed6202b0b3&v=4" width="24" alt="Avatar of kennethleungty"/> kennethleungty
 			</a><br/>
 			Kenneth Leung
 		</td>
@@ -828,7 +828,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>56</td>
 		<td>
 			<a target="_blank" href="https://github.com/Elliott-Chong">
-				<img src="https://private-avatars.githubusercontent.com/u/77007117?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91Lzc3MDA3MTE3In0.g-h2Qr3Nogx6C2HVEqB7r_TBxiwMtV5zK5o3O09Ed44&s=72&u=c13cc04d60bfef68866a556cb510f1794bcaa5c4&v=4" width="24" alt="Avatar of Elliott-Chong"/> Elliott-Chong
+				<img src="https://private-avatars.githubusercontent.com/u/77007117?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODYyODAsIm5iZiI6MTczNDY4NTA4MCwicGF0aCI6Ii91Lzc3MDA3MTE3In0.5b9rcxjT87_VdEeUqPV7PBuhdqDnicmrc82jxgC_R2Y&s=72&u=c13cc04d60bfef68866a556cb510f1794bcaa5c4&v=4" width="24" alt="Avatar of Elliott-Chong"/> Elliott-Chong
 			</a><br/>
 			Elliott Chong
 		</td>
@@ -841,7 +841,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>57</td>
 		<td>
 			<a target="_blank" href="https://github.com/bxcodec">
-				<img src="https://private-avatars.githubusercontent.com/u/11002383?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEyNDAsIm5iZiI6MTczNDY1MDA0MCwicGF0aCI6Ii91LzExMDAyMzgzIn0.Nk0Em7Gx1U46bTCuX3uQx_CYigVgxdlsbMjdmG6lPF8&s=72&u=a88a4c7f2def4c4a976e8acd6d757030ef4669af&v=4" width="24" alt="Avatar of bxcodec"/> bxcodec
+				<img src="https://private-avatars.githubusercontent.com/u/11002383?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODYzNDAsIm5iZiI6MTczNDY4NTE0MCwicGF0aCI6Ii91LzExMDAyMzgzIn0.iuVKUkfSlCpmv3RaTwcjO7EGGDO0_h_tof-9go-qZ9A&s=72&u=a88a4c7f2def4c4a976e8acd6d757030ef4669af&v=4" width="24" alt="Avatar of bxcodec"/> bxcodec
 			</a><br/>
 			Iman Tumorang
 		</td>
@@ -854,7 +854,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>58</td>
 		<td>
 			<a target="_blank" href="https://github.com/rapiz1">
-				<img src="https://private-avatars.githubusercontent.com/u/20105061?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA0NjAsIm5iZiI6MTczNDY0OTI2MCwicGF0aCI6Ii91LzIwMTA1MDYxIn0.PYUL9oVIFC6neuWYkaBwY8nzZarQX4yunEclp6krX-k&s=72&u=e55c3bf8df9fb523e75fa61da42487496f4880dd&v=4" width="24" alt="Avatar of rapiz1"/> rapiz1
+				<img src="https://private-avatars.githubusercontent.com/u/20105061?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY0NjAsIm5iZiI6MTczNDY4NTI2MCwicGF0aCI6Ii91LzIwMTA1MDYxIn0.J_6H3F7oFII3_ehHixvHORrLGaKjpkoJDxghVIJzjKI&s=72&u=e55c3bf8df9fb523e75fa61da42487496f4880dd&v=4" width="24" alt="Avatar of rapiz1"/> rapiz1
 			</a><br/>
 			Yujia Qiao
 		</td>
@@ -867,7 +867,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>59</td>
 		<td>
 			<a target="_blank" href="https://github.com/yeyintminthuhtut">
-				<img src="https://private-avatars.githubusercontent.com/u/6358256?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA2NDAsIm5iZiI6MTczNDY0OTQ0MCwicGF0aCI6Ii91LzYzNTgyNTYifQ.6b3rz7aZ9CmwPosJYF0WHHeMwfp3K0hV_yikg8405TI&s=72&u=309688c0aaa61cc57d6028aeef505686f72b77ff&v=4" width="24" alt="Avatar of yeyintminthuhtut"/> yeyintminthuhtut
+				<img src="https://private-avatars.githubusercontent.com/u/6358256?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91LzYzNTgyNTYifQ.W3Ir3e2V8kSK3V8IHeBEPycHcwt8Jf2XOU6Gm69exfQ&s=72&u=309688c0aaa61cc57d6028aeef505686f72b77ff&v=4" width="24" alt="Avatar of yeyintminthuhtut"/> yeyintminthuhtut
 			</a><br/>
 			r0lan
 		</td>
@@ -880,7 +880,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>60</td>
 		<td>
 			<a target="_blank" href="https://github.com/izackwu">
-				<img src="https://private-avatars.githubusercontent.com/u/20233656?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzIwMjMzNjU2In0.AmW1kq99A7QAe3vSkec543BYMl7UWFwCDn-ylcmo7pc&s=72&u=261e9618e33664855cb352dc1809167ad8e69ea0&v=4" width="24" alt="Avatar of izackwu"/> izackwu
+				<img src="https://private-avatars.githubusercontent.com/u/20233656?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzIwMjMzNjU2In0.cXI5sXuw8rHBQ36TmuubHasp8zDKon0F8dVIhL-Fp8g&s=72&u=261e9618e33664855cb352dc1809167ad8e69ea0&v=4" width="24" alt="Avatar of izackwu"/> izackwu
 			</a><br/>
 			Zack Wu
 		</td>
@@ -893,7 +893,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>61</td>
 		<td>
 			<a target="_blank" href="https://github.com/stdrc">
-				<img src="https://private-avatars.githubusercontent.com/u/5317095?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA2NDAsIm5iZiI6MTczNDY0OTQ0MCwicGF0aCI6Ii91LzUzMTcwOTUifQ.QX_wI9JRUkFA9hBtaoBbRFkz2qizZZDEbJzv5xUnb1E&s=72&u=69600651708a38c37179be525ae99f4d9f079814&v=4" width="24" alt="Avatar of stdrc"/> stdrc
+				<img src="https://private-avatars.githubusercontent.com/u/5317095?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91LzUzMTcwOTUifQ.F_SAaohCQdwNekEJ74WzKuXSJVV2E3iWVxDw9WhxguA&s=72&u=69600651708a38c37179be525ae99f4d9f079814&v=4" width="24" alt="Avatar of stdrc"/> stdrc
 			</a><br/>
 			Richard Chien
 		</td>
@@ -905,8 +905,21 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 	<tr>
 		<td>62</td>
 		<td>
+			<a target="_blank" href="https://github.com/auxten">
+				<img src="https://private-avatars.githubusercontent.com/u/240147?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY5NDAsIm5iZiI6MTczNDY4NTc0MCwicGF0aCI6Ii91LzI0MDE0NyJ9.CtfOxIakotzY-tT0-1PftcTfNi7k5YG47QwS4AY7BUI&s=72&u=77aa13889341b015787f5b4bff4f1a938df0d877&v=4" width="24" alt="Avatar of auxten"/> auxten
+			</a><br/>
+			Auxten Wang
+		</td>
+		<td>@clickhouse </td>
+		<td><a target="_blank" href="https://twitter.com/auxten">auxten</a></td>
+		<td>Singapore</td>
+		<td>895</td>
+	</tr>
+	<tr>
+		<td>63</td>
+		<td>
 			<a target="_blank" href="https://github.com/gobysec">
-				<img src="https://private-avatars.githubusercontent.com/u/50955360?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzUwOTU1MzYwIn0.u1gPsxsfKwXrlxjVWqxikdZUtX0yJDdJcaNldeQC1FQ&s=72&u=732ce3310983974037c8df213dc714019e7061ec&v=4" width="24" alt="Avatar of gobysec"/> gobysec
+				<img src="https://private-avatars.githubusercontent.com/u/50955360?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzUwOTU1MzYwIn0.c4C5rB76W1i70klRlDRctGwoKmdT_szmWp5XI_he9Gk&s=72&u=732ce3310983974037c8df213dc714019e7061ec&v=4" width="24" alt="Avatar of gobysec"/> gobysec
 			</a><br/>
 			Goby
 		</td>
@@ -916,36 +929,23 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>895</td>
 	</tr>
 	<tr>
-		<td>63</td>
-		<td>
-			<a target="_blank" href="https://github.com/auxten">
-				<img src="https://private-avatars.githubusercontent.com/u/240147?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA5NDAsIm5iZiI6MTczNDY0OTc0MCwicGF0aCI6Ii91LzI0MDE0NyJ9.xYnT-DPWZ1To6sFZXVMItvhjXje5mGJVNN4ixxo-nj8&s=72&u=77aa13889341b015787f5b4bff4f1a938df0d877&v=4" width="24" alt="Avatar of auxten"/> auxten
-			</a><br/>
-			Auxten Wang
-		</td>
-		<td>@clickhouse </td>
-		<td><a target="_blank" href="https://twitter.com/auxten">auxten</a></td>
-		<td>Singapore</td>
-		<td>894</td>
-	</tr>
-	<tr>
 		<td>64</td>
 		<td>
 			<a target="_blank" href="https://github.com/mbrochh">
-				<img src="https://private-avatars.githubusercontent.com/u/166590?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA2NDAsIm5iZiI6MTczNDY0OTQ0MCwicGF0aCI6Ii91LzE2NjU5MCJ9.VzQlSs7MmK5aXef7FK9qZZafwM2-uu28J-w3LBwaXtE&s=72&u=604e52cccfef02728b3dc762f682963d68adda45&v=4" width="24" alt="Avatar of mbrochh"/> mbrochh
+				<img src="https://private-avatars.githubusercontent.com/u/166590?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91LzE2NjU5MCJ9.1KixenSZX-bf5GZc-lAEnto6Zj2IuhaYfBEcvMUcAPU&s=72&u=604e52cccfef02728b3dc762f682963d68adda45&v=4" width="24" alt="Avatar of mbrochh"/> mbrochh
 			</a><br/>
 			Martin Brochhaus
 		</td>
 		<td>@bitlabstudio  </td>
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
-		<td>878</td>
+		<td>879</td>
 	</tr>
 	<tr>
 		<td>65</td>
 		<td>
 			<a target="_blank" href="https://github.com/sanand0">
-				<img src="https://private-avatars.githubusercontent.com/u/63734?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA0MDAsIm5iZiI6MTczNDY0OTIwMCwicGF0aCI6Ii91LzYzNzM0In0.o89Nj9x-wQ86NDv7wh1udWFN0SSxiGd43-691FxIbUM&s=72&u=6bd1cb1c56673f7791c1f4b8df57f72b332f48b0&v=4" width="24" alt="Avatar of sanand0"/> sanand0
+				<img src="https://private-avatars.githubusercontent.com/u/63734?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY0MDAsIm5iZiI6MTczNDY4NTIwMCwicGF0aCI6Ii91LzYzNzM0In0.Vo66sjkI2fln7IjC8CnnQ14klhQGPlBUaUSOsekB8tM&s=72&u=6bd1cb1c56673f7791c1f4b8df57f72b332f48b0&v=4" width="24" alt="Avatar of sanand0"/> sanand0
 			</a><br/>
 			S Anand
 		</td>
@@ -958,20 +958,20 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>66</td>
 		<td>
 			<a target="_blank" href="https://github.com/sajal2692">
-				<img src="https://private-avatars.githubusercontent.com/u/12205993?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA5NDAsIm5iZiI6MTczNDY0OTc0MCwicGF0aCI6Ii91LzEyMjA1OTkzIn0.avE2HosYay_41BIZkmge_AhL5krWsKqz5aPYpd_nZ6k&s=72&u=c4483f577ce2b9f48d1671f0e64c35a08801cffb&v=4" width="24" alt="Avatar of sajal2692"/> sajal2692
+				<img src="https://private-avatars.githubusercontent.com/u/12205993?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY5NDAsIm5iZiI6MTczNDY4NTc0MCwicGF0aCI6Ii91LzEyMjA1OTkzIn0.Swz0boBiImcQVR2Od8kglYOYDX_M6YmII5uWRcPO7lQ&s=72&u=c4483f577ce2b9f48d1671f0e64c35a08801cffb&v=4" width="24" alt="Avatar of sajal2692"/> sajal2692
 			</a><br/>
 			Sajal Sharma
 		</td>
 		<td>@menyala  </td>
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
-		<td>864</td>
+		<td>863</td>
 	</tr>
 	<tr>
 		<td>67</td>
 		<td>
 			<a target="_blank" href="https://github.com/samwit">
-				<img src="https://private-avatars.githubusercontent.com/u/1183461?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA2NDAsIm5iZiI6MTczNDY0OTQ0MCwicGF0aCI6Ii91LzExODM0NjEifQ.CdpD7MZAjSVW7nU2nBGDRozcnng-eZNN-b3ZBkwxX44&s=72&v=4" width="24" alt="Avatar of samwit"/> samwit
+				<img src="https://private-avatars.githubusercontent.com/u/1183461?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91LzExODM0NjEifQ.UhcQLYDYv9KBLxBhq3hx8qHXSqkJw-zAaZbq1kskwww&s=72&v=4" width="24" alt="Avatar of samwit"/> samwit
 			</a><br/>
 			Sam Witteveen
 		</td>
@@ -984,7 +984,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>68</td>
 		<td>
 			<a target="_blank" href="https://github.com/ztjhz">
-				<img src="https://private-avatars.githubusercontent.com/u/59118459?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3MDAsIm5iZiI6MTczNDY0OTUwMCwicGF0aCI6Ii91LzU5MTE4NDU5In0.gza19IqtK5Fe-1jPtRNOkA_xMFestEJcVcMkG0MtUtM&s=72&u=4b15efa2be0f71a1e61d6af0baea5ea036a73a44&v=4" width="24" alt="Avatar of ztjhz"/> ztjhz
+				<img src="https://private-avatars.githubusercontent.com/u/59118459?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3MDAsIm5iZiI6MTczNDY4NTUwMCwicGF0aCI6Ii91LzU5MTE4NDU5In0.UWcY1nJKiY7hi8Ra2_df7CvWoxKrIZVCrBrL82n9ncg&s=72&u=4b15efa2be0f71a1e61d6af0baea5ea036a73a44&v=4" width="24" alt="Avatar of ztjhz"/> ztjhz
 			</a><br/>
 			Jing Hua
 		</td>
@@ -997,20 +997,20 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>69</td>
 		<td>
 			<a target="_blank" href="https://github.com/lupyuen">
-				<img src="https://private-avatars.githubusercontent.com/u/9960133?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3NjAsIm5iZiI6MTczNDY0OTU2MCwicGF0aCI6Ii91Lzk5NjAxMzMifQ.5lE3MA649TOttI2rB3lKIqVByqTlexSiscc0qR7yFjo&s=72&u=d9f94db174776621c4fadd0faad20ab12d0b3e11&v=4" width="24" alt="Avatar of lupyuen"/> lupyuen
+				<img src="https://private-avatars.githubusercontent.com/u/9960133?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91Lzk5NjAxMzMifQ.V-pplJMu7KkHDCmq-Grg4Zcu8k6wMCiQ3KGNdS7mKfU&s=72&u=d9f94db174776621c4fadd0faad20ab12d0b3e11&v=4" width="24" alt="Avatar of lupyuen"/> lupyuen
 			</a><br/>
 			Lup Yuen Lee
 		</td>
 		<td>@apache Nuttx Rtos Pmc<br/></td>
 		<td><a target="_blank" href="https://twitter.com/MisterTechBlog">MisterTechBlog</a></td>
 		<td>Singapore</td>
-		<td>803</td>
+		<td>802</td>
 	</tr>
 	<tr>
 		<td>70</td>
 		<td>
 			<a target="_blank" href="https://github.com/chen3feng">
-				<img src="https://private-avatars.githubusercontent.com/u/1998410?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3MDAsIm5iZiI6MTczNDY0OTUwMCwicGF0aCI6Ii91LzE5OTg0MTAifQ.4rrQF602isdD0DK_v_9mSW0XdvCGtTO4YsGrRl1cQ-s&s=72&u=3b300ae332057a4517f271a128d1a83dd028cf71&v=4" width="24" alt="Avatar of chen3feng"/> chen3feng
+				<img src="https://private-avatars.githubusercontent.com/u/1998410?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3MDAsIm5iZiI6MTczNDY4NTUwMCwicGF0aCI6Ii91LzE5OTg0MTAifQ.6KXUmGJF2wqab6Er6Pkxgs_z5FPzTCxR_gj-fj1FWRg&s=72&u=3b300ae332057a4517f271a128d1a83dd028cf71&v=4" width="24" alt="Avatar of chen3feng"/> chen3feng
 			</a><br/>
 			CHEN Feng
 		</td>
@@ -1023,7 +1023,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>71</td>
 		<td>
 			<a target="_blank" href="https://github.com/callmewhy">
-				<img src="https://private-avatars.githubusercontent.com/u/6276527?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4MjAsIm5iZiI6MTczNDY0OTYyMCwicGF0aCI6Ii91LzYyNzY1MjcifQ.r1samddvEXenqMTBiBETt-fKzy6t8lq4KW0uQ3l1EU4&s=72&u=111b4623b185733deb34b0dcfd2efab38d011745&v=4" width="24" alt="Avatar of callmewhy"/> callmewhy
+				<img src="https://private-avatars.githubusercontent.com/u/6276527?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4MjAsIm5iZiI6MTczNDY4NTYyMCwicGF0aCI6Ii91LzYyNzY1MjcifQ.h21w2qoQsLkApU3XBQ90tMLNZPcdmaoOcl-VCFPdK10&s=72&u=111b4623b185733deb34b0dcfd2efab38d011745&v=4" width="24" alt="Avatar of callmewhy"/> callmewhy
 			</a><br/>
 			Haiyang Wang
 		</td>
@@ -1036,7 +1036,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>72</td>
 		<td>
 			<a target="_blank" href="https://github.com/flycash">
-				<img src="https://private-avatars.githubusercontent.com/u/9923838?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA2NDAsIm5iZiI6MTczNDY0OTQ0MCwicGF0aCI6Ii91Lzk5MjM4MzgifQ.7GNoFH_kT-VpUuRDjwrxROQYsFLMLqq2jaJJoiXEUH0&s=72&u=5b281bc9f91a5486fb61ddd46d23c09c576d54d7&v=4" width="24" alt="Avatar of flycash"/> flycash
+				<img src="https://private-avatars.githubusercontent.com/u/9923838?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91Lzk5MjM4MzgifQ.wrFPqKPbqm3fo_qMB7Z1weuEp8wX3Df9APVTr37x0m8&s=72&u=5b281bc9f91a5486fb61ddd46d23c09c576d54d7&v=4" width="24" alt="Avatar of flycash"/> flycash
 			</a><br/>
 			Ming Deng
 		</td>
@@ -1049,7 +1049,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>73</td>
 		<td>
 			<a target="_blank" href="https://github.com/timlrx">
-				<img src="https://private-avatars.githubusercontent.com/u/28362229?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA5NDAsIm5iZiI6MTczNDY0OTc0MCwicGF0aCI6Ii91LzI4MzYyMjI5In0.8lSRWVPz0P6RHL_w_Qdcf5pLimiLGRSiTJVNK91SdHc&s=72&u=9a745ca31372ee324af682715ae88ce8522f9094&v=4" width="24" alt="Avatar of timlrx"/> timlrx
+				<img src="https://private-avatars.githubusercontent.com/u/28362229?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY5NDAsIm5iZiI6MTczNDY4NTc0MCwicGF0aCI6Ii91LzI4MzYyMjI5In0.thIf8brIOvW60NS0XxpS4vgS6BhoDghnv7g0euABT6Q&s=72&u=9a745ca31372ee324af682715ae88ce8522f9094&v=4" width="24" alt="Avatar of timlrx"/> timlrx
 			</a><br/>
 			Timothy
 		</td>
@@ -1062,7 +1062,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>74</td>
 		<td>
 			<a target="_blank" href="https://github.com/sayanee">
-				<img src="https://private-avatars.githubusercontent.com/u/413879?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3MDAsIm5iZiI6MTczNDY0OTUwMCwicGF0aCI6Ii91LzQxMzg3OSJ9.LvBTTcxnyeuHYz6eYvHahxXkBn5Ce9nKWsAY0BO-CYQ&s=72&v=4" width="24" alt="Avatar of sayanee"/> sayanee
+				<img src="https://private-avatars.githubusercontent.com/u/413879?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3MDAsIm5iZiI6MTczNDY4NTUwMCwicGF0aCI6Ii91LzQxMzg3OSJ9.-3jlkolMnS68didVoDFOUgIibWNuJ7qnd0kf2twVpXE&s=72&v=4" width="24" alt="Avatar of sayanee"/> sayanee
 			</a><br/>
 			Sayanee Basu
 		</td>
@@ -1075,7 +1075,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>75</td>
 		<td>
 			<a target="_blank" href="https://github.com/P-N-Suganthan">
-				<img src="https://private-avatars.githubusercontent.com/u/52367172?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4ODAsIm5iZiI6MTczNDY0OTY4MCwicGF0aCI6Ii91LzUyMzY3MTcyIn0.1zyj4aytwQC_N9NuifOqs0QE70bJyy7EQGUrNti5OPU&s=72&u=2e7eef393da129afd9fc41e4213dba423d2a4420&v=4" width="24" alt="Avatar of P-N-Suganthan"/> P-N-Suganthan
+				<img src="https://private-avatars.githubusercontent.com/u/52367172?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4ODAsIm5iZiI6MTczNDY4NTY4MCwicGF0aCI6Ii91LzUyMzY3MTcyIn0.U3lWHe6VDrYT-ZKA20afupF-ov0uQyuyC9Kz3YfjMao&s=72&u=2e7eef393da129afd9fc41e4213dba423d2a4420&v=4" width="24" alt="Avatar of P-N-Suganthan"/> P-N-Suganthan
 			</a><br/>
 			Ponnuthurai Nagaratnam Suganthan
 		</td>
@@ -1088,7 +1088,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>76</td>
 		<td>
 			<a target="_blank" href="https://github.com/wh200720041">
-				<img src="https://private-avatars.githubusercontent.com/u/7567415?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA0MDAsIm5iZiI6MTczNDY0OTIwMCwicGF0aCI6Ii91Lzc1Njc0MTUifQ.cywpMT2X5Dm74AVTZTpMsAM4W-H9Ynn9LyoqGSeSDDw&s=72&u=bc2650f15a6837907f2ac9fb39b8dd96ea43ceb1&v=4" width="24" alt="Avatar of wh200720041"/> wh200720041
+				<img src="https://private-avatars.githubusercontent.com/u/7567415?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY0MDAsIm5iZiI6MTczNDY4NTIwMCwicGF0aCI6Ii91Lzc1Njc0MTUifQ.50GZhWy8pM6ITUMTV0Uq3M2B026i4oMcJIUJU7NrTpg&s=72&u=bc2650f15a6837907f2ac9fb39b8dd96ea43ceb1&v=4" width="24" alt="Avatar of wh200720041"/> wh200720041
 			</a><br/>
 			Wang Han 
 		</td>
@@ -1101,7 +1101,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>77</td>
 		<td>
 			<a target="_blank" href="https://github.com/kossnocorp">
-				<img src="https://private-avatars.githubusercontent.com/u/52201?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEyNDAsIm5iZiI6MTczNDY1MDA0MCwicGF0aCI6Ii91LzUyMjAxIn0.o6UEHxDPCR2khcB8NI-kiqEF7-a3wViertizSybRzuw&s=72&u=b75a9168211d4d80afb556ec534f7dcc7a13006d&v=4" width="24" alt="Avatar of kossnocorp"/> kossnocorp
+				<img src="https://private-avatars.githubusercontent.com/u/52201?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODYzNDAsIm5iZiI6MTczNDY4NTE0MCwicGF0aCI6Ii91LzUyMjAxIn0.X2sJCYOYNcCOVHI6LTFSYpY3N7JkNuOkwrX42JAM8PU&s=72&u=b75a9168211d4d80afb556ec534f7dcc7a13006d&v=4" width="24" alt="Avatar of kossnocorp"/> kossnocorp
 			</a><br/>
 			Sasha Koss
 		</td>
@@ -1114,7 +1114,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>78</td>
 		<td>
 			<a target="_blank" href="https://github.com/chuanxshi">
-				<img src="https://private-avatars.githubusercontent.com/u/153513?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEyNDAsIm5iZiI6MTczNDY1MDA0MCwicGF0aCI6Ii91LzE1MzUxMyJ9.M1qML-5UufWLodyG6S5gkG-Hq64ph3JneCJtNQubcOs&s=72&u=8878ebf0d6ed1366802da7e2da404adb4e8f9c04&v=4" width="24" alt="Avatar of chuanxshi"/> chuanxshi
+				<img src="https://private-avatars.githubusercontent.com/u/153513?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODYzNDAsIm5iZiI6MTczNDY4NTE0MCwicGF0aCI6Ii91LzE1MzUxMyJ9.fKoabfk2bNqxNocmx6A6m8LhXYkHQ5NWpuHq_ZEm_UU&s=72&u=8878ebf0d6ed1366802da7e2da404adb4e8f9c04&v=4" width="24" alt="Avatar of chuanxshi"/> chuanxshi
 			</a><br/>
 			Chuan Shi
 		</td>
@@ -1127,7 +1127,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>79</td>
 		<td>
 			<a target="_blank" href="https://github.com/stevenhalim">
-				<img src="https://private-avatars.githubusercontent.com/u/5258040?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3MDAsIm5iZiI6MTczNDY0OTUwMCwicGF0aCI6Ii91LzUyNTgwNDAifQ.rOE4AZWnjRnVkkXIxI0pXCOIUqaiAkM9a5aPqMEegqw&s=72&u=736c7661e1d685934a798429ad31128f21469974&v=4" width="24" alt="Avatar of stevenhalim"/> stevenhalim
+				<img src="https://private-avatars.githubusercontent.com/u/5258040?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3MDAsIm5iZiI6MTczNDY4NTUwMCwicGF0aCI6Ii91LzUyNTgwNDAifQ.22_UpUyQPcQ-mKtJzqXnd-Ws57_ovpkfGhrfDCnXqAk&s=72&u=736c7661e1d685934a798429ad31128f21469974&v=4" width="24" alt="Avatar of stevenhalim"/> stevenhalim
 			</a><br/>
 			Steven Halim
 		</td>
@@ -1140,7 +1140,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>80</td>
 		<td>
 			<a target="_blank" href="https://github.com/TimothyYe">
-				<img src="https://private-avatars.githubusercontent.com/u/860685?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA0MDAsIm5iZiI6MTczNDY0OTIwMCwicGF0aCI6Ii91Lzg2MDY4NSJ9.urFykRlbPPrlM_unhwGfH_GP0Sr2tn89BYm0ZnGOrNk&s=72&u=c89c1457d0ca5af3d2dc0775551c2821e50d9365&v=4" width="24" alt="Avatar of TimothyYe"/> TimothyYe
+				<img src="https://private-avatars.githubusercontent.com/u/860685?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY0MDAsIm5iZiI6MTczNDY4NTIwMCwicGF0aCI6Ii91Lzg2MDY4NSJ9.ytfbDxpsMmf2fuXd_O2Pc0fXlyJ8bYNq8vyUf-YsdMw&s=72&u=c89c1457d0ca5af3d2dc0775551c2821e50d9365&v=4" width="24" alt="Avatar of TimothyYe"/> TimothyYe
 			</a><br/>
 			Timothy
 		</td>
@@ -1153,7 +1153,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>81</td>
 		<td>
 			<a target="_blank" href="https://github.com/Spritetm">
-				<img src="https://private-avatars.githubusercontent.com/u/8977247?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4MjAsIm5iZiI6MTczNDY0OTYyMCwicGF0aCI6Ii91Lzg5NzcyNDcifQ.r92SBvrnvDbiBq3-CpzBMZJl_QuMR8EkbSidkc9H18Y&s=72&u=16c33c908ecc6d081298f8f30219e39c44c5c81a&v=4" width="24" alt="Avatar of Spritetm"/> Spritetm
+				<img src="https://private-avatars.githubusercontent.com/u/8977247?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4MjAsIm5iZiI6MTczNDY4NTYyMCwicGF0aCI6Ii91Lzg5NzcyNDcifQ.f2paMv6K2RT2FroSq2E072h4yYPHIAS_wnJXDUJSI_Q&s=72&u=16c33c908ecc6d081298f8f30219e39c44c5c81a&v=4" width="24" alt="Avatar of Spritetm"/> Spritetm
 			</a><br/>
 			Jeroen Domburg
 		</td>
@@ -1166,7 +1166,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>82</td>
 		<td>
 			<a target="_blank" href="https://github.com/nvh95">
-				<img src="https://private-avatars.githubusercontent.com/u/8603085?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4MjAsIm5iZiI6MTczNDY0OTYyMCwicGF0aCI6Ii91Lzg2MDMwODUifQ.uL50XR-FH8R-X3VjQQAYaANvTh3ix47M05DOkWRmjbk&s=72&v=4" width="24" alt="Avatar of nvh95"/> nvh95
+				<img src="https://private-avatars.githubusercontent.com/u/8603085?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4MjAsIm5iZiI6MTczNDY4NTYyMCwicGF0aCI6Ii91Lzg2MDMwODUifQ.d4yEn_HyH5PpbDgDUb9czfWsMXmlwoDOsqk40y7sYpU&s=72&v=4" width="24" alt="Avatar of nvh95"/> nvh95
 			</a><br/>
 			Hung Viet Nguyen
 		</td>
@@ -1179,7 +1179,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>83</td>
 		<td>
 			<a target="_blank" href="https://github.com/jfzhang95">
-				<img src="https://private-avatars.githubusercontent.com/u/25397555?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA2NDAsIm5iZiI6MTczNDY0OTQ0MCwicGF0aCI6Ii91LzI1Mzk3NTU1In0.xUMN2IWLQjVTCC-QragEN1y0WVb1ffmTp2Gc-pYUYQ8&s=72&u=56c9bfd59dbc93d16d7e9b6d5e7bce61e0608243&v=4" width="24" alt="Avatar of jfzhang95"/> jfzhang95
+				<img src="https://private-avatars.githubusercontent.com/u/25397555?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91LzI1Mzk3NTU1In0.WW9M1aH3lK0br7bpwWf7Bz739lzOvzXGlwMIOxE4gr8&s=72&u=56c9bfd59dbc93d16d7e9b6d5e7bce61e0608243&v=4" width="24" alt="Avatar of jfzhang95"/> jfzhang95
 			</a><br/>
 			Pyjcsx
 		</td>
@@ -1192,7 +1192,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>84</td>
 		<td>
 			<a target="_blank" href="https://github.com/xxchan">
-				<img src="https://private-avatars.githubusercontent.com/u/37948597?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzM3OTQ4NTk3In0.K9jkmLy-aI9FosmAvjqeg-5Zwr557bEDlGzE3-wq42c&s=72&u=5646f402921f42eda35c5f85e22f3e874eca1991&v=4" width="24" alt="Avatar of xxchan"/> xxchan
+				<img src="https://private-avatars.githubusercontent.com/u/37948597?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODYyODAsIm5iZiI6MTczNDY4NTA4MCwicGF0aCI6Ii91LzM3OTQ4NTk3In0.hgEAObon89uDo2QFLajWjzGewAB4jLlkW_OoeWeYSmU&s=72&u=5646f402921f42eda35c5f85e22f3e874eca1991&v=4" width="24" alt="Avatar of xxchan"/> xxchan
 			</a><br/>
 			xxchan
 		</td>
@@ -1205,7 +1205,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>85</td>
 		<td>
 			<a target="_blank" href="https://github.com/shivam5992">
-				<img src="https://private-avatars.githubusercontent.com/u/4301965?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExMjAsIm5iZiI6MTczNDY0OTkyMCwicGF0aCI6Ii91LzQzMDE5NjUifQ.DBhQTMUfkrs2eMdVzs_AkvyxT8SLhrzhqKQO-LvNiaY&s=72&u=8f18e4a661f10d35d75011af44dcd7fb1ffa1e33&v=4" width="24" alt="Avatar of shivam5992"/> shivam5992
+				<img src="https://private-avatars.githubusercontent.com/u/4301965?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODYyMjAsIm5iZiI6MTczNDY4NTAyMCwicGF0aCI6Ii91LzQzMDE5NjUifQ.1jJL_aDemWd6hYaZjMIzNdzf0s2B14lW3L94yHoR_Js&s=72&u=8f18e4a661f10d35d75011af44dcd7fb1ffa1e33&v=4" width="24" alt="Avatar of shivam5992"/> shivam5992
 			</a><br/>
 			Shivam Bansal
 		</td>
@@ -1218,7 +1218,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>86</td>
 		<td>
 			<a target="_blank" href="https://github.com/jamesmawm">
-				<img src="https://private-avatars.githubusercontent.com/u/7599006?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA0NjAsIm5iZiI6MTczNDY0OTI2MCwicGF0aCI6Ii91Lzc1OTkwMDYifQ.g1SRZLyuO_VGCf3wWITdSdXUp6zyfZiv6COmr2419ho&s=72&u=1580ccfb6084a210b84b1b0afd34fcbdf9154e52&v=4" width="24" alt="Avatar of jamesmawm"/> jamesmawm
+				<img src="https://private-avatars.githubusercontent.com/u/7599006?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY0NjAsIm5iZiI6MTczNDY4NTI2MCwicGF0aCI6Ii91Lzc1OTkwMDYifQ.WohAtiFtR-jJOsApSRbABIsOA7nAhzAzNRZBECmHM1E&s=72&u=1580ccfb6084a210b84b1b0afd34fcbdf9154e52&v=4" width="24" alt="Avatar of jamesmawm"/> jamesmawm
 			</a><br/>
 			James Ma
 		</td>
@@ -1231,7 +1231,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>87</td>
 		<td>
 			<a target="_blank" href="https://github.com/xobs">
-				<img src="https://private-avatars.githubusercontent.com/u/238325?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA1MjAsIm5iZiI6MTczNDY0OTMyMCwicGF0aCI6Ii91LzIzODMyNSJ9.tOGa9aYaYGiCMWey8YaoXzKSdHoio9cEYQntJHX4QO4&s=72&u=b59727af980e521e9a721416836e4162aa32758e&v=4" width="24" alt="Avatar of xobs"/> xobs
+				<img src="https://private-avatars.githubusercontent.com/u/238325?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1MjAsIm5iZiI6MTczNDY4NTMyMCwicGF0aCI6Ii91LzIzODMyNSJ9.BhMcIoWs4EvngjLrp0cvUesP-HlxgO9vekOkGK9diqs&s=72&u=b59727af980e521e9a721416836e4162aa32758e&v=4" width="24" alt="Avatar of xobs"/> xobs
 			</a><br/>
 			Sean Cross
 		</td>
@@ -1244,7 +1244,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>88</td>
 		<td>
 			<a target="_blank" href="https://github.com/haosdent">
-				<img src="https://private-avatars.githubusercontent.com/u/950759?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA0MDAsIm5iZiI6MTczNDY0OTIwMCwicGF0aCI6Ii91Lzk1MDc1OSJ9.okc095WH241LMg_g-glQAv8Wz4O4z9jQPj3XCL7YGC0&s=72&u=5b7cadb11584be604f4ae10f7b62f59499874a78&v=4" width="24" alt="Avatar of haosdent"/> haosdent
+				<img src="https://private-avatars.githubusercontent.com/u/950759?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY0MDAsIm5iZiI6MTczNDY4NTIwMCwicGF0aCI6Ii91Lzk1MDc1OSJ9.A94tJWTFud5lZRnDTxI7xP1uBdPC9zg7rEsEMikO6ow&s=72&u=5b7cadb11584be604f4ae10f7b62f59499874a78&v=4" width="24" alt="Avatar of haosdent"/> haosdent
 			</a><br/>
 			haosdent
 		</td>
@@ -1257,7 +1257,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>89</td>
 		<td>
 			<a target="_blank" href="https://github.com/SivilTaram">
-				<img src="https://private-avatars.githubusercontent.com/u/10275209?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA5NDAsIm5iZiI6MTczNDY0OTc0MCwicGF0aCI6Ii91LzEwMjc1MjA5In0.eJ7uMO-jEH81oxthTaKP0mNLdlk2edT3GISO8-FbUP4&s=72&u=b61f3c84e8ebfc9a01fb22aa649ef4a53e7a1817&v=4" width="24" alt="Avatar of SivilTaram"/> SivilTaram
+				<img src="https://private-avatars.githubusercontent.com/u/10275209?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY5NDAsIm5iZiI6MTczNDY4NTc0MCwicGF0aCI6Ii91LzEwMjc1MjA5In0.gJbn58NoCmXBARVFMcAugs31RoG_FKlxZqjvhVmDwlo&s=72&u=b61f3c84e8ebfc9a01fb22aa649ef4a53e7a1817&v=4" width="24" alt="Avatar of SivilTaram"/> SivilTaram
 			</a><br/>
 			Qian
 		</td>
@@ -1270,7 +1270,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>90</td>
 		<td>
 			<a target="_blank" href="https://github.com/momika233">
-				<img src="https://private-avatars.githubusercontent.com/u/56291820?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzU2MjkxODIwIn0.zL7v-rnPc2BxVH6v219eDU5ZbVLGombyZ62AptYxOlQ&s=72&u=0e0aa33057f10e55f6ec399b11e4998522411444&v=4" width="24" alt="Avatar of momika233"/> momika233
+				<img src="https://private-avatars.githubusercontent.com/u/56291820?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzU2MjkxODIwIn0.YVUR-nAUQVrtrtvrYzI5B8eT8HTIr6xhFlc0nS1gtYs&s=72&u=0e0aa33057f10e55f6ec399b11e4998522411444&v=4" width="24" alt="Avatar of momika233"/> momika233
 			</a><br/>
 			momika233
 		</td>
@@ -1283,7 +1283,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>91</td>
 		<td>
 			<a target="_blank" href="https://github.com/VainF">
-				<img src="https://private-avatars.githubusercontent.com/u/18592211?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExMjAsIm5iZiI6MTczNDY0OTkyMCwicGF0aCI6Ii91LzE4NTkyMjExIn0.nC7302W1pRq_B6mH_SLCROjjEcv9WDxiHncuxLNoZ1k&s=72&u=ba65f3c5389fd6a171030abf5d4ea6435f285b6b&v=4" width="24" alt="Avatar of VainF"/> VainF
+				<img src="https://private-avatars.githubusercontent.com/u/18592211?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODYyMjAsIm5iZiI6MTczNDY4NTAyMCwicGF0aCI6Ii91LzE4NTkyMjExIn0.MBjGIaaZwRXsCLwNeXNak0kIKZ9JuCIefrW-zRK7pGI&s=72&u=ba65f3c5389fd6a171030abf5d4ea6435f285b6b&v=4" width="24" alt="Avatar of VainF"/> VainF
 			</a><br/>
 			Gongfan Fang
 		</td>
@@ -1296,7 +1296,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>92</td>
 		<td>
 			<a target="_blank" href="https://github.com/nagix">
-				<img src="https://private-avatars.githubusercontent.com/u/723188?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA1ODAsIm5iZiI6MTczNDY0OTM4MCwicGF0aCI6Ii91LzcyMzE4OCJ9.GPLT3sVMLvKWxb35BHVc8R7EsI730GHEQ9jDQ_vJEIA&s=72&v=4" width="24" alt="Avatar of nagix"/> nagix
+				<img src="https://private-avatars.githubusercontent.com/u/723188?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1ODAsIm5iZiI6MTczNDY4NTM4MCwicGF0aCI6Ii91LzcyMzE4OCJ9.g2pv96KgRaY2g3tl-Mxw4zyqqH6sUfZ5EVFpC-BI3fU&s=72&v=4" width="24" alt="Avatar of nagix"/> nagix
 			</a><br/>
 			Akihiko Kusanagi
 		</td>
@@ -1309,33 +1309,33 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>93</td>
 		<td>
 			<a target="_blank" href="https://github.com/lxtGH">
-				<img src="https://private-avatars.githubusercontent.com/u/17202268?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3MDAsIm5iZiI6MTczNDY0OTUwMCwicGF0aCI6Ii91LzE3MjAyMjY4In0.bxqJGahcSUXthoR-RNJVE3fwVgBSEqD7Npyl0fj4F10&s=72&u=b60b7af2a0b06d34986af6449ab5803b45f2c406&v=4" width="24" alt="Avatar of lxtGH"/> lxtGH
+				<img src="https://private-avatars.githubusercontent.com/u/17202268?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3MDAsIm5iZiI6MTczNDY4NTUwMCwicGF0aCI6Ii91LzE3MjAyMjY4In0.0DvITuLfr4AkyEo8KCpIChCZZIYLgW4xDctTB-Irr1U&s=72&u=b60b7af2a0b06d34986af6449ab5803b45f2c406&v=4" width="24" alt="Avatar of lxtGH"/> lxtGH
 			</a><br/>
 			Xiangtai  Li
 		</td>
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/xtl994">xtl994</a></td>
 		<td>Singapore</td>
-		<td>594</td>
+		<td>595</td>
 	</tr>
 	<tr>
 		<td>94</td>
 		<td>
 			<a target="_blank" href="https://github.com/Miraculous-Arathi">
-				<img src="https://private-avatars.githubusercontent.com/u/81008680?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3MDAsIm5iZiI6MTczNDY0OTUwMCwicGF0aCI6Ii91LzgxMDA4NjgwIn0.I6mQJu88CYhGHn7aloS0zooBhxThvFBElOccj6DRiNA&s=72&u=37d44ec71e878b6036a85082e3d03c64de7d9c83&v=4" width="24" alt="Avatar of Miraculous-Arathi"/> Miraculous-Arathi
+				<img src="https://private-avatars.githubusercontent.com/u/81008680?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3MDAsIm5iZiI6MTczNDY4NTUwMCwicGF0aCI6Ii91LzgxMDA4NjgwIn0.JBCvsfeMU2ehU6BgQtxFXGY8APg1cfjTdm48yQ3d44U&s=72&u=37d44ec71e878b6036a85082e3d03c64de7d9c83&v=4" width="24" alt="Avatar of Miraculous-Arathi"/> Miraculous-Arathi
 			</a><br/>
 			Arathi Mahesh
 		</td>
 		<td>Httpsarathimaheshwhj </td>
 		<td><a target="_blank" href="https://twitter.com/Arathi97983">Arathi97983</a></td>
 		<td>Singapore Woodlands</td>
-		<td>585</td>
+		<td>586</td>
 	</tr>
 	<tr>
 		<td>95</td>
 		<td>
 			<a target="_blank" href="https://github.com/BugenZhao">
-				<img src="https://private-avatars.githubusercontent.com/u/25862682?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4ODAsIm5iZiI6MTczNDY0OTY4MCwicGF0aCI6Ii91LzI1ODYyNjgyIn0.hNvEZRxggyQLl_90PdTJ0mUczL1F-Af5WZlhqkjCfRs&s=72&u=18e49829c8c6b426cf66e25f2523ee6bd3118b6a&v=4" width="24" alt="Avatar of BugenZhao"/> BugenZhao
+				<img src="https://private-avatars.githubusercontent.com/u/25862682?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4ODAsIm5iZiI6MTczNDY4NTY4MCwicGF0aCI6Ii91LzI1ODYyNjgyIn0.B5Y5OAYL94GmCnTVQxcP-KQvCZqIF4nFa5WA-_ej0MM&s=72&u=18e49829c8c6b426cf66e25f2523ee6bd3118b6a&v=4" width="24" alt="Avatar of BugenZhao"/> BugenZhao
 			</a><br/>
 			Bugen Zhao
 		</td>
@@ -1348,7 +1348,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>96</td>
 		<td>
 			<a target="_blank" href="https://github.com/xiangwang1223">
-				<img src="https://private-avatars.githubusercontent.com/u/5371426?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA0MDAsIm5iZiI6MTczNDY0OTIwMCwicGF0aCI6Ii91LzUzNzE0MjYifQ.UtSPRmyYxpi2NFSxHgK0d_yN1HRFW7Z7tCN0DKLG-KI&s=72&u=410c34fb7acd2dda6222b771a2a2af888ea0dd3c&v=4" width="24" alt="Avatar of xiangwang1223"/> xiangwang1223
+				<img src="https://private-avatars.githubusercontent.com/u/5371426?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY0MDAsIm5iZiI6MTczNDY4NTIwMCwicGF0aCI6Ii91LzUzNzE0MjYifQ.uszsW9myg8PoaGENNRG5E24mF3dIacMi0LYzFc3gJzc&s=72&u=410c34fb7acd2dda6222b771a2a2af888ea0dd3c&v=4" width="24" alt="Avatar of xiangwang1223"/> xiangwang1223
 			</a><br/>
 			Xiang Wang
 		</td>
@@ -1361,7 +1361,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>97</td>
 		<td>
 			<a target="_blank" href="https://github.com/gera2ld">
-				<img src="https://private-avatars.githubusercontent.com/u/3139113?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3NjAsIm5iZiI6MTczNDY0OTU2MCwicGF0aCI6Ii91LzMxMzkxMTMifQ.VRa72Lm6A0q5bNaySY2UiAH5rCM1LV_N9EpzCizp3Gg&s=72&v=4" width="24" alt="Avatar of gera2ld"/> gera2ld
+				<img src="https://private-avatars.githubusercontent.com/u/3139113?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91LzMxMzkxMTMifQ.YQoluM_ui0RuYKMgZLppjJaY6tLcs1M7P8HhQ5FVqYY&s=72&v=4" width="24" alt="Avatar of gera2ld"/> gera2ld
 			</a><br/>
 			Gerald
 		</td>
@@ -1373,8 +1373,21 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 	<tr>
 		<td>98</td>
 		<td>
+			<a target="_blank" href="https://github.com/rjl493456442">
+				<img src="https://private-avatars.githubusercontent.com/u/5959481?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91LzU5NTk0ODEifQ.NhtsOPBvEizNvtZ0XWmhuTpu780Z1zGHLaeaxU48sB8&s=72&u=e633f116e6b02648d9333a0ad406d50c2788e563&v=4" width="24" alt="Avatar of rjl493456442"/> rjl493456442
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Singapore</td>
+		<td>568</td>
+	</tr>
+	<tr>
+		<td>99</td>
+		<td>
 			<a target="_blank" href="https://github.com/mdda">
-				<img src="https://private-avatars.githubusercontent.com/u/362532?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA5NDAsIm5iZiI6MTczNDY0OTc0MCwicGF0aCI6Ii91LzM2MjUzMiJ9.XySJRvhhQlWJAf9zoPhRb7s2izh6qx66KPWSp6joFps&s=72&u=d8d19c748ecd9f14ccebc1340d292224920f48f0&v=4" width="24" alt="Avatar of mdda"/> mdda
+				<img src="https://private-avatars.githubusercontent.com/u/362532?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY5NDAsIm5iZiI6MTczNDY4NTc0MCwicGF0aCI6Ii91LzM2MjUzMiJ9.nRJSDymCc94MZZALnpb6_rAj2kTUpIBSTYCzPYSNwzk&s=72&u=d8d19c748ecd9f14ccebc1340d292224920f48f0&v=4" width="24" alt="Avatar of mdda"/> mdda
 			</a><br/>
 			Martin Andrews
 		</td>
@@ -1384,36 +1397,23 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>568</td>
 	</tr>
 	<tr>
-		<td>99</td>
-		<td>
-			<a target="_blank" href="https://github.com/rjl493456442">
-				<img src="https://private-avatars.githubusercontent.com/u/5959481?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3NjAsIm5iZiI6MTczNDY0OTU2MCwicGF0aCI6Ii91LzU5NTk0ODEifQ.xd1ZxLTs2zanXCVLxRCgl7Zn91gO-cNNPqbchR4mJPk&s=72&u=e633f116e6b02648d9333a0ad406d50c2788e563&v=4" width="24" alt="Avatar of rjl493456442"/> rjl493456442
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Singapore</td>
-		<td>567</td>
-	</tr>
-	<tr>
 		<td>100</td>
 		<td>
 			<a target="_blank" href="https://github.com/realthunder">
-				<img src="https://private-avatars.githubusercontent.com/u/1207888?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzEyMDc4ODgifQ.3DO2ZcuPWc9LQ5muDUl6WRRCFYjwNJ5z7Z-D-g5z-IE&s=72&u=d2fa711dea825bfef98064ffdc8b82de39277441&v=4" width="24" alt="Avatar of realthunder"/> realthunder
+				<img src="https://private-avatars.githubusercontent.com/u/1207888?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODYyODAsIm5iZiI6MTczNDY4NTA4MCwicGF0aCI6Ii91LzEyMDc4ODgifQ.WGcIuuUpu0wU8ZKR74PcY-4o0MEc86kii4pB-IG75xo&s=72&u=d2fa711dea825bfef98064ffdc8b82de39277441&v=4" width="24" alt="Avatar of realthunder"/> realthunder
 			</a><br/>
 			Zheng Lei
 		</td>
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/RealThunder12">RealThunder12</a></td>
 		<td>Singapore</td>
-		<td>558</td>
+		<td>559</td>
 	</tr>
 	<tr>
 		<td>101</td>
 		<td>
 			<a target="_blank" href="https://github.com/experiencor">
-				<img src="https://private-avatars.githubusercontent.com/u/5645503?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3NjAsIm5iZiI6MTczNDY0OTU2MCwicGF0aCI6Ii91LzU2NDU1MDMifQ.VyxwuZkgeRPRU3S4tF5jEMdd8G4LUcPqKt4QiC-vojc&s=72&u=ee62b76759dabbbf424303029675b29e69414ff1&v=4" width="24" alt="Avatar of experiencor"/> experiencor
+				<img src="https://private-avatars.githubusercontent.com/u/5645503?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91LzU2NDU1MDMifQ.RdMHQ_hAgkTgzI3eTC7ZAhBUHIcTF1q3A7T3Gvfxgfg&s=72&u=ee62b76759dabbbf424303029675b29e69414ff1&v=4" width="24" alt="Avatar of experiencor"/> experiencor
 			</a><br/>
 			Huynh Ngoc Anh
 		</td>
@@ -1426,20 +1426,20 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>102</td>
 		<td>
 			<a target="_blank" href="https://github.com/juzhiyuan">
-				<img src="https://private-avatars.githubusercontent.com/u/2106987?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExMjAsIm5iZiI6MTczNDY0OTkyMCwicGF0aCI6Ii91LzIxMDY5ODcifQ.If-pmB0TxHz_lUNkbpyAAH3VGTIk17Tfr9GNg4Rb6_s&s=72&u=5b04797d5dc7a1d955dc46f3e2c1bb57c2abbdb0&v=4" width="24" alt="Avatar of juzhiyuan"/> juzhiyuan
+				<img src="https://private-avatars.githubusercontent.com/u/2106987?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODYyMjAsIm5iZiI6MTczNDY4NTAyMCwicGF0aCI6Ii91LzIxMDY5ODcifQ.FFjfVX3e3GE1xEoCLDiPQx2G14ho72wtLH7K5AQxfAw&s=72&u=5b04797d5dc7a1d955dc46f3e2c1bb57c2abbdb0&v=4" width="24" alt="Avatar of juzhiyuan"/> juzhiyuan
 			</a><br/>
 			  Zhiyuan Ju
 		</td>
 		<td>Api7ai </td>
 		<td><a target="_blank" href="https://twitter.com/jjzhiyuan">jjzhiyuan</a></td>
 		<td>Singapore</td>
-		<td>550</td>
+		<td>549</td>
 	</tr>
 	<tr>
 		<td>103</td>
 		<td>
 			<a target="_blank" href="https://github.com/mavenlin">
-				<img src="https://private-avatars.githubusercontent.com/u/1367713?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3MDAsIm5iZiI6MTczNDY0OTUwMCwicGF0aCI6Ii91LzEzNjc3MTMifQ.xCpISbgOUDGO_WkxRLil-_y_TJbp7uFM-2xdsLrWJLc&s=72&v=4" width="24" alt="Avatar of mavenlin"/> mavenlin
+				<img src="https://private-avatars.githubusercontent.com/u/1367713?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3MDAsIm5iZiI6MTczNDY4NTUwMCwicGF0aCI6Ii91LzEzNjc3MTMifQ.bS6PpreX8ZMkL4PuQn_bkBo3D8NIp6RBAFbCQUzeFxc&s=72&v=4" width="24" alt="Avatar of mavenlin"/> mavenlin
 			</a><br/>
 			mavenlin
 		</td>
@@ -1452,7 +1452,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>104</td>
 		<td>
 			<a target="_blank" href="https://github.com/harttle">
-				<img src="https://private-avatars.githubusercontent.com/u/4427974?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzQ0Mjc5NzQifQ.Ru_QrZPVufcxBQ0yaRcjwYuAoWQNVisS5BWrkvq9ihQ&s=72&v=4" width="24" alt="Avatar of harttle"/> harttle
+				<img src="https://private-avatars.githubusercontent.com/u/4427974?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzQ0Mjc5NzQifQ.Vh5dBoPaicOd9KyUfQnUmCRed6Ooj41E2FZVc47pR2Q&s=72&v=4" width="24" alt="Avatar of harttle"/> harttle
 			</a><br/>
 			Jun Yang
 		</td>
@@ -1465,7 +1465,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>105</td>
 		<td>
 			<a target="_blank" href="https://github.com/brant-ruan">
-				<img src="https://private-avatars.githubusercontent.com/u/13882906?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExMjAsIm5iZiI6MTczNDY0OTkyMCwicGF0aCI6Ii91LzEzODgyOTA2In0.cpeebVXGoCQ5fhIsirjsK84u4d6vXazyK0wTJw0l8-U&s=72&u=8f7518e39c3c3e720e82947dcc06784dc98d5548&v=4" width="24" alt="Avatar of brant-ruan"/> brant-ruan
+				<img src="https://private-avatars.githubusercontent.com/u/13882906?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODYyMjAsIm5iZiI6MTczNDY4NTAyMCwicGF0aCI6Ii91LzEzODgyOTA2In0.32amYDaI2M4U4Ge2k4OgBY_-aWQeo2fz4DVuQwMLA-g&s=72&u=8f7518e39c3c3e720e82947dcc06784dc98d5548&v=4" width="24" alt="Avatar of brant-ruan"/> brant-ruan
 			</a><br/>
 			Bonan Ruan
 		</td>
@@ -1478,7 +1478,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>106</td>
 		<td>
 			<a target="_blank" href="https://github.com/dandyweng">
-				<img src="https://private-avatars.githubusercontent.com/u/5425979?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA1ODAsIm5iZiI6MTczNDY0OTM4MCwicGF0aCI6Ii91LzU0MjU5NzkifQ.DuLAl1RO66GWgheKU1cGvfRZNhDKOLx2H72-6Jt9gu0&s=72&v=4" width="24" alt="Avatar of dandyweng"/> dandyweng
+				<img src="https://private-avatars.githubusercontent.com/u/5425979?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1ODAsIm5iZiI6MTczNDY4NTM4MCwicGF0aCI6Ii91LzU0MjU5NzkifQ.lzBrKzIb2eRJqsOgmnndc4vLfMfbJdDI_sO2WFs1Qx4&s=72&v=4" width="24" alt="Avatar of dandyweng"/> dandyweng
 			</a><br/>
 			Dandy Weng
 		</td>
@@ -1491,7 +1491,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>107</td>
 		<td>
 			<a target="_blank" href="https://github.com/Li-Chongyi">
-				<img src="https://private-avatars.githubusercontent.com/u/34166801?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4MjAsIm5iZiI6MTczNDY0OTYyMCwicGF0aCI6Ii91LzM0MTY2ODAxIn0.jWlLSs0mFipwc2TQMd_dbct4hPV_2mS2SdricXs3tn4&s=72&u=753827a82e1dea517790895da3547e01a09501fa&v=4" width="24" alt="Avatar of Li-Chongyi"/> Li-Chongyi
+				<img src="https://private-avatars.githubusercontent.com/u/34166801?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4MjAsIm5iZiI6MTczNDY4NTYyMCwicGF0aCI6Ii91LzM0MTY2ODAxIn0.ZLQqY-m2aNqTpd72qz9VpY-Dj4Qc_mzPkFofHm6dCHs&s=72&u=753827a82e1dea517790895da3547e01a09501fa&v=4" width="24" alt="Avatar of Li-Chongyi"/> Li-Chongyi
 			</a><br/>
 			Chongyi Li
 		</td>
@@ -1504,7 +1504,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>108</td>
 		<td>
 			<a target="_blank" href="https://github.com/ZwwWayne">
-				<img src="https://private-avatars.githubusercontent.com/u/40779233?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3NjAsIm5iZiI6MTczNDY0OTU2MCwicGF0aCI6Ii91LzQwNzc5MjMzIn0.lMvf0P6ARSaLwHQJ33vamjBXUgTIesYpRLo0rDi7sl4&s=72&u=381d4ae593f972c0a2dd02aa10057fba774ba23b&v=4" width="24" alt="Avatar of ZwwWayne"/> ZwwWayne
+				<img src="https://private-avatars.githubusercontent.com/u/40779233?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91LzQwNzc5MjMzIn0.nR6YlE0WQwGJXH8JJr7prlje2E1AW_ZgyCPcG9ywETk&s=72&u=381d4ae593f972c0a2dd02aa10057fba774ba23b&v=4" width="24" alt="Avatar of ZwwWayne"/> ZwwWayne
 			</a><br/>
 			Wenwei Zhang
 		</td>
@@ -1517,7 +1517,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>109</td>
 		<td>
 			<a target="_blank" href="https://github.com/fuyufjh">
-				<img src="https://private-avatars.githubusercontent.com/u/10192522?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4ODAsIm5iZiI6MTczNDY0OTY4MCwicGF0aCI6Ii91LzEwMTkyNTIyIn0.-W8HmlR3y-BJl2YCxCNlgKvz1x81ncxeYzW1soT2ONg&s=72&u=b716e3193fae2656027cf3a6e1c770e6ee2913a4&v=4" width="24" alt="Avatar of fuyufjh"/> fuyufjh
+				<img src="https://private-avatars.githubusercontent.com/u/10192522?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4ODAsIm5iZiI6MTczNDY4NTY4MCwicGF0aCI6Ii91LzEwMTkyNTIyIn0._vnSlEpuaiLsO0My71L5QeLlHmZQAIlWB5w_nN-7SNg&s=72&u=b716e3193fae2656027cf3a6e1c770e6ee2913a4&v=4" width="24" alt="Avatar of fuyufjh"/> fuyufjh
 			</a><br/>
 			Eric Fu
 		</td>
@@ -1530,7 +1530,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>110</td>
 		<td>
 			<a target="_blank" href="https://github.com/nosuggest">
-				<img src="https://private-avatars.githubusercontent.com/u/31870721?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA0NjAsIm5iZiI6MTczNDY0OTI2MCwicGF0aCI6Ii91LzMxODcwNzIxIn0.eEI42ng47Phkaveo0Ewy74EaEcgHQaw9M434Zye1VuE&s=72&v=4" width="24" alt="Avatar of nosuggest"/> nosuggest
+				<img src="https://private-avatars.githubusercontent.com/u/31870721?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY0NjAsIm5iZiI6MTczNDY4NTI2MCwicGF0aCI6Ii91LzMxODcwNzIxIn0.Zkn1ljgwf8WWRv_G5FDVxb8ZbS-zgQ6G6-MbNVrRAEI&s=72&v=4" width="24" alt="Avatar of nosuggest"/> nosuggest
 			</a><br/>
 			Jimmy Lee
 		</td>
@@ -1543,7 +1543,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>111</td>
 		<td>
 			<a target="_blank" href="https://github.com/mebjas">
-				<img src="https://private-avatars.githubusercontent.com/u/3007365?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwMDAsIm5iZiI6MTczNDY0OTgwMCwicGF0aCI6Ii91LzMwMDczNjUifQ.AyfD5kdZiW9Bj14dOMjoNyAI05PKgpylo1L4T7tRBvM&s=72&u=82304c8a9d85391d2c74760668bdad4ee84ec73d&v=4" width="24" alt="Avatar of mebjas"/> mebjas
+				<img src="https://private-avatars.githubusercontent.com/u/3007365?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwMDAsIm5iZiI6MTczNDY4NTgwMCwicGF0aCI6Ii91LzMwMDczNjUifQ.tQIGnmxqNgFcXdmo73JYHAV_3_JAMhR-P8dy2kp8A3Q&s=72&u=82304c8a9d85391d2c74760668bdad4ee84ec73d&v=4" width="24" alt="Avatar of mebjas"/> mebjas
 			</a><br/>
 			minhaz
 		</td>
@@ -1556,20 +1556,20 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>112</td>
 		<td>
 			<a target="_blank" href="https://github.com/kamelorac">
-				<img src="https://private-avatars.githubusercontent.com/u/129031543?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4ODAsIm5iZiI6MTczNDY0OTY4MCwicGF0aCI6Ii91LzEyOTAzMTU0MyJ9.0SQtjehE1-hebsoa6_76Zdz4ePBLxa6y4fshMdQln-4&s=72&u=5ee3d0b2a9e8791c3059c54710a139b92e2da510&v=4" width="24" alt="Avatar of kamelorac"/> kamelorac
+				<img src="https://private-avatars.githubusercontent.com/u/129031543?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4ODAsIm5iZiI6MTczNDY4NTY4MCwicGF0aCI6Ii91LzEyOTAzMTU0MyJ9.S4n4eSLrbtsmsGhDw255FLgzVBpvIU8tGemZAwVHhsM&s=72&u=5ee3d0b2a9e8791c3059c54710a139b92e2da510&v=4" width="24" alt="Avatar of kamelorac"/> kamelorac
 			</a><br/>
 			Beh De Kang
 		</td>
 		<td>Kamelorac@outlookcom </td>
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
-		<td>503</td>
+		<td>504</td>
 	</tr>
 	<tr>
 		<td>113</td>
 		<td>
 			<a target="_blank" href="https://github.com/awalias">
-				<img src="https://private-avatars.githubusercontent.com/u/458736?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3NjAsIm5iZiI6MTczNDY0OTU2MCwicGF0aCI6Ii91LzQ1ODczNiJ9.KibTQ2JkxjJpmCR2L_LAnnq8jMotmsP1FjcoYecugW0&s=72&u=7bc13764a2f8dd974acc7ca284850390a6f914e0&v=4" width="24" alt="Avatar of awalias"/> awalias
+				<img src="https://private-avatars.githubusercontent.com/u/458736?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91LzQ1ODczNiJ9.Mwmfhy50btMViy8avWaJhrrhYFgIkTfxSztxalyJg2w&s=72&u=7bc13764a2f8dd974acc7ca284850390a6f914e0&v=4" width="24" alt="Avatar of awalias"/> awalias
 			</a><br/>
 			Ant Wilson
 		</td>
@@ -1582,7 +1582,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>114</td>
 		<td>
 			<a target="_blank" href="https://github.com/Bharathkumarraju">
-				<img src="https://private-avatars.githubusercontent.com/u/5610588?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA2NDAsIm5iZiI6MTczNDY0OTQ0MCwicGF0aCI6Ii91LzU2MTA1ODgifQ.lXP40MXqp2TqoQmqTw7YsxXzq6nCyErQD2nxipt9aJI&s=72&u=c74d5e9afb378890eaf62c4d6cbed23208b89701&v=4" width="24" alt="Avatar of Bharathkumarraju"/> Bharathkumarraju
+				<img src="https://private-avatars.githubusercontent.com/u/5610588?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91LzU2MTA1ODgifQ.Q7t8DyUuyyZIsgMJZw-dFlQctYo9vauTy-ahUs0JLTQ&s=72&u=c74d5e9afb378890eaf62c4d6cbed23208b89701&v=4" width="24" alt="Avatar of Bharathkumarraju"/> Bharathkumarraju
 			</a><br/>
 			Bharathkumar
 		</td>
@@ -1595,7 +1595,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>115</td>
 		<td>
 			<a target="_blank" href="https://github.com/Plachtaa">
-				<img src="https://private-avatars.githubusercontent.com/u/112609742?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEyNDAsIm5iZiI6MTczNDY1MDA0MCwicGF0aCI6Ii91LzExMjYwOTc0MiJ9.5VSfymJGVNgIx8CkkTgTjVNogGMMvWKfDWjBcklFj7A&s=72&u=6fdb2377bd8f770cc39e7611f6e7e06c7a0f216b&v=4" width="24" alt="Avatar of Plachtaa"/> Plachtaa
+				<img src="https://private-avatars.githubusercontent.com/u/112609742?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODYzNDAsIm5iZiI6MTczNDY4NTE0MCwicGF0aCI6Ii91LzExMjYwOTc0MiJ9.yguljtugWmsi--6VR6JdjwvqgNPPjtmS3FsqQFHxgH8&s=72&u=6fdb2377bd8f770cc39e7611f6e7e06c7a0f216b&v=4" width="24" alt="Avatar of Plachtaa"/> Plachtaa
 			</a><br/>
 			Songting
 		</td>
@@ -1608,20 +1608,20 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>116</td>
 		<td>
 			<a target="_blank" href="https://github.com/leenxyz">
-				<img src="https://private-avatars.githubusercontent.com/u/2668081?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3NjAsIm5iZiI6MTczNDY0OTU2MCwicGF0aCI6Ii91LzI2NjgwODEifQ.c4F_hHJwoAlMYVm0TDwsjzuJUa4umL1alRezCKjxf8w&s=72&u=44ab27b140d5ffee39bc2a327c8a4039c6c4b812&v=4" width="24" alt="Avatar of leenxyz"/> leenxyz
+				<img src="https://private-avatars.githubusercontent.com/u/2668081?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91LzI2NjgwODEifQ.9yXc0bIYBqsoJAE-uVYCSDDgJDbln4ibDR5K3vqjZNE&s=72&u=44ab27b140d5ffee39bc2a327c8a4039c6c4b812&v=4" width="24" alt="Avatar of leenxyz"/> leenxyz
 			</a><br/>
 			Leen
 		</td>
 		<td>Free </td>
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
-		<td>494</td>
+		<td>493</td>
 	</tr>
 	<tr>
 		<td>117</td>
 		<td>
 			<a target="_blank" href="https://github.com/joway">
-				<img src="https://private-avatars.githubusercontent.com/u/8353464?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4ODAsIm5iZiI6MTczNDY0OTY4MCwicGF0aCI6Ii91LzgzNTM0NjQifQ.yL0xlm844gaqZwYkEm-LokMGE5UQiZ6-LrcMy72Hh2E&s=72&u=5336f545fd24eaf086428d8250090ba8e0a16cd5&v=4" width="24" alt="Avatar of joway"/> joway
+				<img src="https://private-avatars.githubusercontent.com/u/8353464?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4ODAsIm5iZiI6MTczNDY4NTY4MCwicGF0aCI6Ii91LzgzNTM0NjQifQ.hRwcNGBcYPTzDai4BDc1_WZhlsi7OYosi1CIl-Ssda4&s=72&u=5336f545fd24eaf086428d8250090ba8e0a16cd5&v=4" width="24" alt="Avatar of joway"/> joway
 			</a><br/>
 			Joway
 		</td>
@@ -1634,7 +1634,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>118</td>
 		<td>
 			<a target="_blank" href="https://github.com/yanyan-li">
-				<img src="https://private-avatars.githubusercontent.com/u/26913401?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzI2OTEzNDAxIn0.zYcvtr8QfxoB_y6vqHJQyp-ZMCv9sD3UrvWcsnAGhpo&s=72&u=91426254b249ed7d5f4ebac160cf056d372636c4&v=4" width="24" alt="Avatar of yanyan-li"/> yanyan-li
+				<img src="https://private-avatars.githubusercontent.com/u/26913401?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzI2OTEzNDAxIn0.aWt76wc8reHwEVB5RKrPb-fdP_JcjOrwB-mAuSLlgGw&s=72&u=91426254b249ed7d5f4ebac160cf056d372636c4&v=4" width="24" alt="Avatar of yanyan-li"/> yanyan-li
 			</a><br/>
 			Yanyan Li
 		</td>
@@ -1647,7 +1647,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>119</td>
 		<td>
 			<a target="_blank" href="https://github.com/MaxPoon">
-				<img src="https://private-avatars.githubusercontent.com/u/18631871?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA1MjAsIm5iZiI6MTczNDY0OTMyMCwicGF0aCI6Ii91LzE4NjMxODcxIn0.qMJWvSmBnq0fRxt7Gf8JQ8DYqJqIN6N3-tNtM8cMxko&s=72&u=df347db5deeb4597025e62f969ce4da5c8ed72b8&v=4" width="24" alt="Avatar of MaxPoon"/> MaxPoon
+				<img src="https://private-avatars.githubusercontent.com/u/18631871?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1MjAsIm5iZiI6MTczNDY4NTMyMCwicGF0aCI6Ii91LzE4NjMxODcxIn0.4G18oS0CGniU_jeeS-hII7smIX4z6Hc3ScfetZnZ650&s=72&u=df347db5deeb4597025e62f969ce4da5c8ed72b8&v=4" width="24" alt="Avatar of MaxPoon"/> MaxPoon
 			</a><br/>
 			Max Poon
 		</td>
@@ -1660,7 +1660,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>120</td>
 		<td>
 			<a target="_blank" href="https://github.com/benjamintanweihao">
-				<img src="https://private-avatars.githubusercontent.com/u/861236?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91Lzg2MTIzNiJ9.jVJn1ACMPOpP1nIOL8No3mcvYb0oUTQMX21hCdUtZYo&s=72&u=53258e3de829f19ba3dea1c2a945746d7576fb64&v=4" width="24" alt="Avatar of benjamintanweihao"/> benjamintanweihao
+				<img src="https://private-avatars.githubusercontent.com/u/861236?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODYyODAsIm5iZiI6MTczNDY4NTA4MCwicGF0aCI6Ii91Lzg2MTIzNiJ9.CfLT7nSFGgMIITOc5Py3Nn8vv3hBXanIGyFsIug8TCE&s=72&u=53258e3de829f19ba3dea1c2a945746d7576fb64&v=4" width="24" alt="Avatar of benjamintanweihao"/> benjamintanweihao
 			</a><br/>
 			Benjamin Tan Wei Hao
 		</td>
@@ -1673,7 +1673,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>121</td>
 		<td>
 			<a target="_blank" href="https://github.com/Luodian">
-				<img src="https://private-avatars.githubusercontent.com/u/15847405?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA0NjAsIm5iZiI6MTczNDY0OTI2MCwicGF0aCI6Ii91LzE1ODQ3NDA1In0.OgMG8uH4Na0FOMf9U7GN_FLRjwumzM3J0q27fAGKx7U&s=72&u=f8a6c02b64db7e9899e9ac6ce07e8d0a66cd013d&v=4" width="24" alt="Avatar of Luodian"/> Luodian
+				<img src="https://private-avatars.githubusercontent.com/u/15847405?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY0NjAsIm5iZiI6MTczNDY4NTI2MCwicGF0aCI6Ii91LzE1ODQ3NDA1In0.SdgZC0lCrcEI1u-uZV9TkLWFAP3sQ3NrZejTfFG2-Ss&s=72&u=f8a6c02b64db7e9899e9ac6ce07e8d0a66cd013d&v=4" width="24" alt="Avatar of Luodian"/> Luodian
 			</a><br/>
 			Li Bo
 		</td>
@@ -1686,20 +1686,20 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>122</td>
 		<td>
 			<a target="_blank" href="https://github.com/salamer">
-				<img src="https://private-avatars.githubusercontent.com/u/11182185?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4MjAsIm5iZiI6MTczNDY0OTYyMCwicGF0aCI6Ii91LzExMTgyMTg1In0.iDATqwi1qZpgl7S8o22aAnqUxT1HNUM4RfskWuUrJKQ&s=72&u=2e673ebb5bea57d3e5247addb9135f33c6c55a62&v=4" width="24" alt="Avatar of salamer"/> salamer
+				<img src="https://private-avatars.githubusercontent.com/u/11182185?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4MjAsIm5iZiI6MTczNDY4NTYyMCwicGF0aCI6Ii91LzExMTgyMTg1In0.sycFgCloPKKVIk5rJH3MPmYWhyqbXvhCU2AnR6WF4Uc&s=72&u=2e673ebb5bea57d3e5247addb9135f33c6c55a62&v=4" width="24" alt="Avatar of salamer"/> salamer
 			</a><br/>
 			aljun
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
-		<td>461</td>
+		<td>460</td>
 	</tr>
 	<tr>
 		<td>123</td>
 		<td>
 			<a target="_blank" href="https://github.com/KaihuaTang">
-				<img src="https://private-avatars.githubusercontent.com/u/24402685?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzI0NDAyNjg1In0.3OxkFYvS6r6mciSThsxPTrxe5V36F7Kr5Z1e3Ogl0N0&s=72&u=284dbea01463cc22014fb99ca31b31bb786cb192&v=4" width="24" alt="Avatar of KaihuaTang"/> KaihuaTang
+				<img src="https://private-avatars.githubusercontent.com/u/24402685?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzI0NDAyNjg1In0.30lX440VzqS3WZ0LRMkdd0vLCj7vBjPhfTDD2CPIBXQ&s=72&u=284dbea01463cc22014fb99ca31b31bb786cb192&v=4" width="24" alt="Avatar of KaihuaTang"/> KaihuaTang
 			</a><br/>
 			Kaihua Tang
 		</td>
@@ -1712,7 +1712,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>124</td>
 		<td>
 			<a target="_blank" href="https://github.com/Scitator">
-				<img src="https://private-avatars.githubusercontent.com/u/7606451?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3MDAsIm5iZiI6MTczNDY0OTUwMCwicGF0aCI6Ii91Lzc2MDY0NTEifQ.q0j-vRyIKVyt-BfX_SdXKa3nqVfs8LHq5Cmf2WhbQy0&s=72&u=7178991463ef95d42350e4b7be7d5ada95266630&v=4" width="24" alt="Avatar of Scitator"/> Scitator
+				<img src="https://private-avatars.githubusercontent.com/u/7606451?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3MDAsIm5iZiI6MTczNDY4NTUwMCwicGF0aCI6Ii91Lzc2MDY0NTEifQ.0CM3ye7ePVXK5651NOm-6vc6FqovkW8CbjJJ6eXQGWc&s=72&u=7178991463ef95d42350e4b7be7d5ada95266630&v=4" width="24" alt="Avatar of Scitator"/> Scitator
 			</a><br/>
 			Sergey Kolesnikov
 		</td>
@@ -1725,7 +1725,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>125</td>
 		<td>
 			<a target="_blank" href="https://github.com/lijx10">
-				<img src="https://private-avatars.githubusercontent.com/u/12218345?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEyNDAsIm5iZiI6MTczNDY1MDA0MCwicGF0aCI6Ii91LzEyMjE4MzQ1In0.dhGTdsnIvzmEriK5dLArmPevjybu5dH78XoW7cM2cOU&s=72&v=4" width="24" alt="Avatar of lijx10"/> lijx10
+				<img src="https://private-avatars.githubusercontent.com/u/12218345?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODYzNDAsIm5iZiI6MTczNDY4NTE0MCwicGF0aCI6Ii91LzEyMjE4MzQ1In0.LsQh8YdcTtlExQbeS_Ig1mqhQohWcGAaZYQZOLdSZfU&s=72&v=4" width="24" alt="Avatar of lijx10"/> lijx10
 			</a><br/>
 			Li Jiaxin
 		</td>
@@ -1738,7 +1738,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>126</td>
 		<td>
 			<a target="_blank" href="https://github.com/loverajoel">
-				<img src="https://private-avatars.githubusercontent.com/u/1700100?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA5NDAsIm5iZiI6MTczNDY0OTc0MCwicGF0aCI6Ii91LzE3MDAxMDAifQ.xpoBifneYZqUKxmLqQeXLE6PIalOxiTIyiOBirm7UAE&s=72&u=e954e099320ea935177ff4f8e4fdd2e301e6bc11&v=4" width="24" alt="Avatar of loverajoel"/> loverajoel
+				<img src="https://private-avatars.githubusercontent.com/u/1700100?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY5NDAsIm5iZiI6MTczNDY4NTc0MCwicGF0aCI6Ii91LzE3MDAxMDAifQ.VaNIXFPLyqlrrwnhRUt898VRaASNWpHylKPmddagAO4&s=72&u=e954e099320ea935177ff4f8e4fdd2e301e6bc11&v=4" width="24" alt="Avatar of loverajoel"/> loverajoel
 			</a><br/>
 			Joel Lovera
 		</td>
@@ -1751,7 +1751,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>127</td>
 		<td>
 			<a target="_blank" href="https://github.com/anthonyng2">
-				<img src="https://private-avatars.githubusercontent.com/u/11265777?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA0NjAsIm5iZiI6MTczNDY0OTI2MCwicGF0aCI6Ii91LzExMjY1Nzc3In0.crUpNbGoK7x4S7GLA38RLzErSyXDKHWsmRXkx4l8rC0&s=72&u=4b6fee79761ec33f12967be9991a492093b6f332&v=4" width="24" alt="Avatar of anthonyng2"/> anthonyng2
+				<img src="https://private-avatars.githubusercontent.com/u/11265777?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY0NjAsIm5iZiI6MTczNDY4NTI2MCwicGF0aCI6Ii91LzExMjY1Nzc3In0.4G5tCkat5mMpwtElRlwxs9Uqz77NVuqwrSCO7vAd5DA&s=72&u=4b6fee79761ec33f12967be9991a492093b6f332&v=4" width="24" alt="Avatar of anthonyng2"/> anthonyng2
 			</a><br/>
 			Anthony Ng
 		</td>
@@ -1764,7 +1764,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>128</td>
 		<td>
 			<a target="_blank" href="https://github.com/ovasylenko">
-				<img src="https://private-avatars.githubusercontent.com/u/3797513?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA1ODAsIm5iZiI6MTczNDY0OTM4MCwicGF0aCI6Ii91LzM3OTc1MTMifQ.3QYt5gI5ozsQo4_y1z3wo-3BtTm3TG_ga6Ft4zVlbkE&s=72&u=547e5a7d3a12cbc6c0d3f8b6b9b5a22e1de25ef3&v=4" width="24" alt="Avatar of ovasylenko"/> ovasylenko
+				<img src="https://private-avatars.githubusercontent.com/u/3797513?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1ODAsIm5iZiI6MTczNDY4NTM4MCwicGF0aCI6Ii91LzM3OTc1MTMifQ.RUmzQ-pYuMiUashSZZ2gmHApuhGowk-3JClOKYZTcig&s=72&u=547e5a7d3a12cbc6c0d3f8b6b9b5a22e1de25ef3&v=4" width="24" alt="Avatar of ovasylenko"/> ovasylenko
 			</a><br/>
 			Oleksii
 		</td>
@@ -1777,7 +1777,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>129</td>
 		<td>
 			<a target="_blank" href="https://github.com/hzxie">
-				<img src="https://private-avatars.githubusercontent.com/u/1730504?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzE3MzA1MDQifQ.zAc8JQ5PtR-j3MqcE6pZpOAw04NXv2h1WfpS7edaQMY&s=72&u=f9d1a8c3f07baf0bf92c378b4fa8101e7ec7bd26&v=4" width="24" alt="Avatar of hzxie"/> hzxie
+				<img src="https://private-avatars.githubusercontent.com/u/1730504?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODYyODAsIm5iZiI6MTczNDY4NTA4MCwicGF0aCI6Ii91LzE3MzA1MDQifQ.ApyQdeb2LRZKKSAAdWsjs3sOIsqL2693hoyW7QflB0Q&s=72&u=f9d1a8c3f07baf0bf92c378b4fa8101e7ec7bd26&v=4" width="24" alt="Avatar of hzxie"/> hzxie
 			</a><br/>
 			Haozhe Xie
 		</td>
@@ -1790,7 +1790,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>130</td>
 		<td>
 			<a target="_blank" href="https://github.com/RussellDash332">
-				<img src="https://private-avatars.githubusercontent.com/u/63991775?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwMDAsIm5iZiI6MTczNDY0OTgwMCwicGF0aCI6Ii91LzYzOTkxNzc1In0.bwda44MCMaCJbU0BHS1BulIyPKHkC848jEUDHsSils0&s=72&u=651da5ee5b91fd076bc275f035ee2c8cf4ece9f8&v=4" width="24" alt="Avatar of RussellDash332"/> RussellDash332
+				<img src="https://private-avatars.githubusercontent.com/u/63991775?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwMDAsIm5iZiI6MTczNDY4NTgwMCwicGF0aCI6Ii91LzYzOTkxNzc1In0.AJYFSKu8bS1RVpcCzfhiNHrXm0aS_dfZ1ueqAXyNNhE&s=72&u=651da5ee5b91fd076bc275f035ee2c8cf4ece9f8&v=4" width="24" alt="Avatar of RussellDash332"/> RussellDash332
 			</a><br/>
 			Russell Saerang
 		</td>
@@ -1803,7 +1803,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>131</td>
 		<td>
 			<a target="_blank" href="https://github.com/GreyDGL">
-				<img src="https://private-avatars.githubusercontent.com/u/78410652?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3NjAsIm5iZiI6MTczNDY0OTU2MCwicGF0aCI6Ii91Lzc4NDEwNjUyIn0.UWCMIWpZv18HGZUn3oOVaP_GiLYChAw2ZTM5EIbbtXY&s=72&v=4" width="24" alt="Avatar of GreyDGL"/> GreyDGL
+				<img src="https://private-avatars.githubusercontent.com/u/78410652?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91Lzc4NDEwNjUyIn0.WTyFGbed1FaVyCBtG6nRRghZDqFHx-vlS0_RdBhipM0&s=72&v=4" width="24" alt="Avatar of GreyDGL"/> GreyDGL
 			</a><br/>
 			Gelei Deng
 		</td>
@@ -1815,21 +1815,8 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 	<tr>
 		<td>132</td>
 		<td>
-			<a target="_blank" href="https://github.com/chuongmep">
-				<img src="https://private-avatars.githubusercontent.com/u/31106432?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzMDAsIm5iZiI6MTczNDY1MDEwMCwicGF0aCI6Ii91LzMxMTA2NDMyIn0.8S8_bTJ3No12YsEOI6o1CWHck4iN1qppEjyXA_3G0rI&s=72&u=9c8403f250b48c14bc1a64551cb4c47421248a92&v=4" width="24" alt="Avatar of chuongmep"/> chuongmep
-			</a><br/>
-			Chuong Ho
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/chuongmep">chuongmep</a></td>
-		<td>Singapore</td>
-		<td>430</td>
-	</tr>
-	<tr>
-		<td>133</td>
-		<td>
 			<a target="_blank" href="https://github.com/jeromewu">
-				<img src="https://private-avatars.githubusercontent.com/u/5723124?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA2NDAsIm5iZiI6MTczNDY0OTQ0MCwicGF0aCI6Ii91LzU3MjMxMjQifQ.RlTGA8bgZriwkIvKN3iexbluREMFGuD8Y2g4CYtDcrU&s=72&u=fe7954be095f7852e8f9a076a1d478e16e2e1d2f&v=4" width="24" alt="Avatar of jeromewu"/> jeromewu
+				<img src="https://private-avatars.githubusercontent.com/u/5723124?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91LzU3MjMxMjQifQ.55-JbwpOSTcy5Jn66qTlhZ_hqAGqpZieF9_wq4svy_A&s=72&u=fe7954be095f7852e8f9a076a1d478e16e2e1d2f&v=4" width="24" alt="Avatar of jeromewu"/> jeromewu
 			</a><br/>
 			jeromewu
 		</td>
@@ -1839,10 +1826,23 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>430</td>
 	</tr>
 	<tr>
+		<td>133</td>
+		<td>
+			<a target="_blank" href="https://github.com/chuongmep">
+				<img src="https://private-avatars.githubusercontent.com/u/31106432?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY0MDAsIm5iZiI6MTczNDY4NTIwMCwicGF0aCI6Ii91LzMxMTA2NDMyIn0.Q3E7J4wr13DpVY0Z-Z7bMXzC9yQx-VsgBXHkJ3n3v_k&s=72&u=9c8403f250b48c14bc1a64551cb4c47421248a92&v=4" width="24" alt="Avatar of chuongmep"/> chuongmep
+			</a><br/>
+			Chuong Ho
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/chuongmep">chuongmep</a></td>
+		<td>Singapore</td>
+		<td>429</td>
+	</tr>
+	<tr>
 		<td>134</td>
 		<td>
 			<a target="_blank" href="https://github.com/2BAB">
-				<img src="https://private-avatars.githubusercontent.com/u/5710495?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3NjAsIm5iZiI6MTczNDY0OTU2MCwicGF0aCI6Ii91LzU3MTA0OTUifQ.vdmAgRqKh7Kzr6VgDAjjNcBVDhl26U1v1Z6lRac4KZI&s=72&u=e240abf90baaba34eedf83061fa8596037b0f3a7&v=4" width="24" alt="Avatar of 2BAB"/> 2BAB
+				<img src="https://private-avatars.githubusercontent.com/u/5710495?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91LzU3MTA0OTUifQ.eDywOYsROshFEAP7lWDfi0516wN4kBVY-v-ot7-RxHk&s=72&u=e240abf90baaba34eedf83061fa8596037b0f3a7&v=4" width="24" alt="Avatar of 2BAB"/> 2BAB
 			</a><br/>
 			El Zhang
 		</td>
@@ -1855,33 +1855,33 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>135</td>
 		<td>
 			<a target="_blank" href="https://github.com/hongfz16">
-				<img src="https://private-avatars.githubusercontent.com/u/23376858?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEyNDAsIm5iZiI6MTczNDY1MDA0MCwicGF0aCI6Ii91LzIzMzc2ODU4In0.TwlCPWLsld-e24BLiC_ThmMYZfMDmMLQTjPA8fnpxg0&s=72&u=b900fed76e2ecee9d096ca95e8cb3e3594227741&v=4" width="24" alt="Avatar of hongfz16"/> hongfz16
+				<img src="https://private-avatars.githubusercontent.com/u/23376858?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODYzNDAsIm5iZiI6MTczNDY4NTE0MCwicGF0aCI6Ii91LzIzMzc2ODU4In0.kQCM2eUpNna2qGljVB6lJwStYg6_B0iiS0POBA4Sd84&s=72&u=b900fed76e2ecee9d096ca95e8cb3e3594227741&v=4" width="24" alt="Avatar of hongfz16"/> hongfz16
 			</a><br/>
 			Fangzhou Hong
 		</td>
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/hongfz16">hongfz16</a></td>
 		<td>Singapore</td>
-		<td>415</td>
+		<td>416</td>
 	</tr>
 	<tr>
 		<td>136</td>
 		<td>
 			<a target="_blank" href="https://github.com/thinkininfinity">
-				<img src="https://private-avatars.githubusercontent.com/u/9530963?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3MDAsIm5iZiI6MTczNDY0OTUwMCwicGF0aCI6Ii91Lzk1MzA5NjMifQ.lOT0S6Jg2cp_1l1ixx683wojF_66crMfOoYc_s8-7b4&s=72&u=4f6241ff28d18620f01efcdb201dacff6bcc7fc2&v=4" width="24" alt="Avatar of thinkininfinity"/> thinkininfinity
+				<img src="https://private-avatars.githubusercontent.com/u/9530963?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3MDAsIm5iZiI6MTczNDY4NTUwMCwicGF0aCI6Ii91Lzk1MzA5NjMifQ.u_fVQRMqebq_RkjzIyzahFzgaozKZm_OAPmVT-ONCfs&s=72&u=4f6241ff28d18620f01efcdb201dacff6bcc7fc2&v=4" width="24" alt="Avatar of thinkininfinity"/> thinkininfinity
 			</a><br/>
 			Think In Infinity
 		</td>
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/ooo_infinity">ooo_infinity</a></td>
 		<td>Singapore</td>
-		<td>409</td>
+		<td>408</td>
 	</tr>
 	<tr>
 		<td>137</td>
 		<td>
 			<a target="_blank" href="https://github.com/m3yevn">
-				<img src="https://private-avatars.githubusercontent.com/u/26303704?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA5NDAsIm5iZiI6MTczNDY0OTc0MCwicGF0aCI6Ii91LzI2MzAzNzA0In0.J6D0C31EkFskOoxyJgyEnjtU107Jsd2akpabazJHdLA&s=72&u=6d6f9cc3d4e6c339f761ccb306775b0db17f6f75&v=4" width="24" alt="Avatar of m3yevn"/> m3yevn
+				<img src="https://private-avatars.githubusercontent.com/u/26303704?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY5NDAsIm5iZiI6MTczNDY4NTc0MCwicGF0aCI6Ii91LzI2MzAzNzA0In0.knsKTlnb09NQ7X8SuJHAX8ZMVn0vAwbcT2pGPfa4ft0&s=72&u=6d6f9cc3d4e6c339f761ccb306775b0db17f6f75&v=4" width="24" alt="Avatar of m3yevn"/> m3yevn
 			</a><br/>
 			Kevin Moe Myint Myat
 		</td>
@@ -1894,7 +1894,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>138</td>
 		<td>
 			<a target="_blank" href="https://github.com/w4123">
-				<img src="https://private-avatars.githubusercontent.com/u/34530484?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3NjAsIm5iZiI6MTczNDY0OTU2MCwicGF0aCI6Ii91LzM0NTMwNDg0In0.iAlctpvgljcbaBLDnEyTQhSI8KOFgkXQd3iVyJh19dI&s=72&u=cf711406906aecb9f4f35582833b5fdd03b4954a&v=4" width="24" alt="Avatar of w4123"/> w4123
+				<img src="https://private-avatars.githubusercontent.com/u/34530484?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91LzM0NTMwNDg0In0.eT1KsKM2XTmB-WvxLOEemWDDBxJe1MAdUH1ymE9v4dA&s=72&u=cf711406906aecb9f4f35582833b5fdd03b4954a&v=4" width="24" alt="Avatar of w4123"/> w4123
 			</a><br/>
 			
 		</td>
@@ -1907,7 +1907,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>139</td>
 		<td>
 			<a target="_blank" href="https://github.com/weicao">
-				<img src="https://private-avatars.githubusercontent.com/u/1135270?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA2NDAsIm5iZiI6MTczNDY0OTQ0MCwicGF0aCI6Ii91LzExMzUyNzAifQ.SKHLLr3ljiIkKiFYv7aFwCgh0W3-ITOTSxYrFYBroC4&s=72&v=4" width="24" alt="Avatar of weicao"/> weicao
+				<img src="https://private-avatars.githubusercontent.com/u/1135270?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91LzExMzUyNzAifQ.A573DT8loYrlQyEhxmChFW7riNQ8visx_Jj-K5FjPyI&s=72&v=4" width="24" alt="Avatar of weicao"/> weicao
 			</a><br/>
 			Wei Cao
 		</td>
@@ -1920,7 +1920,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>140</td>
 		<td>
 			<a target="_blank" href="https://github.com/asdf2014">
-				<img src="https://private-avatars.githubusercontent.com/u/8108788?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4MjAsIm5iZiI6MTczNDY0OTYyMCwicGF0aCI6Ii91LzgxMDg3ODgifQ.4CCJN2JP7F8HF4pdXwN_owdEwmNlUfyqX_gd1RB6uvA&s=72&u=ee61dc4cc1065e236f45594f5765377986da04e1&v=4" width="24" alt="Avatar of asdf2014"/> asdf2014
+				<img src="https://private-avatars.githubusercontent.com/u/8108788?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4MjAsIm5iZiI6MTczNDY4NTYyMCwicGF0aCI6Ii91LzgxMDg3ODgifQ.18-CLvibPFqWB0kotLziLDuQ5WGZKVM1ukgZyH5QB4U&s=72&u=ee61dc4cc1065e236f45594f5765377986da04e1&v=4" width="24" alt="Avatar of asdf2014"/> asdf2014
 			</a><br/>
 			Benedict Jin
 		</td>
@@ -1933,7 +1933,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>141</td>
 		<td>
 			<a target="_blank" href="https://github.com/ngthanhtrung23">
-				<img src="https://private-avatars.githubusercontent.com/u/1361511?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4MjAsIm5iZiI6MTczNDY0OTYyMCwicGF0aCI6Ii91LzEzNjE1MTEifQ.kBlth_HAx81nLywc3fwR50VjOMVIaVbNIL8pOU12Q6c&s=72&u=29960d728a5340d3f7d6b118e4b2f14942d105e1&v=4" width="24" alt="Avatar of ngthanhtrung23"/> ngthanhtrung23
+				<img src="https://private-avatars.githubusercontent.com/u/1361511?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4MjAsIm5iZiI6MTczNDY4NTYyMCwicGF0aCI6Ii91LzEzNjE1MTEifQ.sQ_9__riGxNI07zjsy6-CJn0AY6P7N3HXkI29cr7vO8&s=72&u=29960d728a5340d3f7d6b118e4b2f14942d105e1&v=4" width="24" alt="Avatar of ngthanhtrung23"/> ngthanhtrung23
 			</a><br/>
 			Trung Nguyen
 		</td>
@@ -1946,7 +1946,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>142</td>
 		<td>
 			<a target="_blank" href="https://github.com/dzuizz">
-				<img src="https://private-avatars.githubusercontent.com/u/59071340?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzU5MDcxMzQwIn0.i8lRbSkVDO6rfjfesja-Vu8S3PZpOXznYGmKVE51TEw&s=72&u=9e2db3ae9cac1a97509f7a13c32116cca591098a&v=4" width="24" alt="Avatar of dzuizz"/> dzuizz
+				<img src="https://private-avatars.githubusercontent.com/u/59071340?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODYyODAsIm5iZiI6MTczNDY4NTA4MCwicGF0aCI6Ii91LzU5MDcxMzQwIn0.mCabwqJicywn0A92oNZdTYE2x06RtEQGgr_QFoCMaCQ&s=72&u=9e2db3ae9cac1a97509f7a13c32116cca591098a&v=4" width="24" alt="Avatar of dzuizz"/> dzuizz
 			</a><br/>
 			Ahmad Dzuizz Annajib
 		</td>
@@ -1959,7 +1959,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>143</td>
 		<td>
 			<a target="_blank" href="https://github.com/arunkumar9t2">
-				<img src="https://private-avatars.githubusercontent.com/u/3940492?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA0NjAsIm5iZiI6MTczNDY0OTI2MCwicGF0aCI6Ii91LzM5NDA0OTIifQ.Xixdf9ntcVxoNQs7nShBFm0f4P8-DEVqGQAAwXv68zU&s=72&u=08dfd4b67bc06b64dfb051fddf4a5f66f7248ed3&v=4" width="24" alt="Avatar of arunkumar9t2"/> arunkumar9t2
+				<img src="https://private-avatars.githubusercontent.com/u/3940492?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY0NjAsIm5iZiI6MTczNDY4NTI2MCwicGF0aCI6Ii91LzM5NDA0OTIifQ.Mz6UJkZyGw6ujLHCE2wWhE6AqFL4FRJu4H2dLexhjhc&s=72&u=08dfd4b67bc06b64dfb051fddf4a5f66f7248ed3&v=4" width="24" alt="Avatar of arunkumar9t2"/> arunkumar9t2
 			</a><br/>
 			Arunkumar
 		</td>
@@ -1972,20 +1972,20 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>144</td>
 		<td>
 			<a target="_blank" href="https://github.com/unclecode">
-				<img src="https://private-avatars.githubusercontent.com/u/12494079?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3NjAsIm5iZiI6MTczNDY0OTU2MCwicGF0aCI6Ii91LzEyNDk0MDc5In0.jPDvafnkO5yD7M5K4H693yHZzESr_6fbQnE8X8R-6gA&s=72&u=413d68156031fdfe74861491b75ffe6d426d8228&v=4" width="24" alt="Avatar of unclecode"/> unclecode
+				<img src="https://private-avatars.githubusercontent.com/u/12494079?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91LzEyNDk0MDc5In0.F0hIpws3Rrog6tOOXKu4ExhxhEMoyPrKnfrhk8zkVPw&s=72&u=413d68156031fdfe74861491b75ffe6d426d8228&v=4" width="24" alt="Avatar of unclecode"/> unclecode
 			</a><br/>
 			UncleCode
 		</td>
 		<td>Alephnul And Kidocode </td>
 		<td><a target="_blank" href="https://twitter.com/unclecode">unclecode</a></td>
 		<td>Singapore</td>
-		<td>390</td>
+		<td>391</td>
 	</tr>
 	<tr>
 		<td>145</td>
 		<td>
 			<a target="_blank" href="https://github.com/HalloKyle">
-				<img src="https://private-avatars.githubusercontent.com/u/51123970?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA1ODAsIm5iZiI6MTczNDY0OTM4MCwicGF0aCI6Ii91LzUxMTIzOTcwIn0.qBCCsFJHpFWQHgc5Y-Z1-HGzbTDqQk7kVEqV4XdXfOw&s=72&u=48a1f2c4c7afffd2d63a759ebbe8363164dabe8f&v=4" width="24" alt="Avatar of HalloKyle"/> HalloKyle
+				<img src="https://private-avatars.githubusercontent.com/u/51123970?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1ODAsIm5iZiI6MTczNDY4NTM4MCwicGF0aCI6Ii91LzUxMTIzOTcwIn0.GM9BkmDmTjnKFN2sW8u-92a_7q172n0kENi_0hgF3Vo&s=72&u=48a1f2c4c7afffd2d63a759ebbe8363164dabe8f&v=4" width="24" alt="Avatar of HalloKyle"/> HalloKyle
 			</a><br/>
 			Kyle
 		</td>
@@ -1998,7 +1998,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>146</td>
 		<td>
 			<a target="_blank" href="https://github.com/wsgzao">
-				<img src="https://private-avatars.githubusercontent.com/u/2049845?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA2NDAsIm5iZiI6MTczNDY0OTQ0MCwicGF0aCI6Ii91LzIwNDk4NDUifQ.tXjdnEfO1PqvhZR5k7s4E7c2sdTwQn81C8Tgz3azqJg&s=72&u=df3177f76330141a0f6045e07fa7cf2fd8e6e620&v=4" width="24" alt="Avatar of wsgzao"/> wsgzao
+				<img src="https://private-avatars.githubusercontent.com/u/2049845?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91LzIwNDk4NDUifQ.nVK84YjjANgpRfbvoU-PIG3pFEJ7-BPwsW-GoV0uE50&s=72&u=df3177f76330141a0f6045e07fa7cf2fd8e6e620&v=4" width="24" alt="Avatar of wsgzao"/> wsgzao
 			</a><br/>
 			OX
 		</td>
@@ -2011,7 +2011,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>147</td>
 		<td>
 			<a target="_blank" href="https://github.com/fanweixiao">
-				<img src="https://private-avatars.githubusercontent.com/u/65603?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4MjAsIm5iZiI6MTczNDY0OTYyMCwicGF0aCI6Ii91LzY1NjAzIn0.oCoZvh2u7Nh1eFiHDLChU8foQcPaFDKbuF3J7Pf4hYo&s=72&u=c9af7ced37197e4cfe9cf1be5751cc053417ce15&v=4" width="24" alt="Avatar of fanweixiao"/> fanweixiao
+				<img src="https://private-avatars.githubusercontent.com/u/65603?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4MjAsIm5iZiI6MTczNDY4NTYyMCwicGF0aCI6Ii91LzY1NjAzIn0.3pvJqsv6GRV7iunB4E5bm4kKYWy3dcUGYKO58DWvTh8&s=72&u=c9af7ced37197e4cfe9cf1be5751cc053417ce15&v=4" width="24" alt="Avatar of fanweixiao"/> fanweixiao
 			</a><br/>
 			CC
 		</td>
@@ -2024,7 +2024,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>148</td>
 		<td>
 			<a target="_blank" href="https://github.com/wgao19">
-				<img src="https://private-avatars.githubusercontent.com/u/2055384?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4MjAsIm5iZiI6MTczNDY0OTYyMCwicGF0aCI6Ii91LzIwNTUzODQifQ.pOF3vzsNET3ES3ix5AvdEGEhJpojIXj8LpKTYjKzlaY&s=72&v=4" width="24" alt="Avatar of wgao19"/> wgao19
+				<img src="https://private-avatars.githubusercontent.com/u/2055384?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4MjAsIm5iZiI6MTczNDY4NTYyMCwicGF0aCI6Ii91LzIwNTUzODQifQ.uIsokEkIz2KhAhHS-7YlugY2nHQ4fIAQnJbFfuBdNLw&s=72&v=4" width="24" alt="Avatar of wgao19"/> wgao19
 			</a><br/>
 			Wei Gao
 		</td>
@@ -2037,7 +2037,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>149</td>
 		<td>
 			<a target="_blank" href="https://github.com/imtsuki">
-				<img src="https://private-avatars.githubusercontent.com/u/8423594?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91Lzg0MjM1OTQifQ.69mtVAskPq3BcMRxPp-vks1HvBuXP3Awt-IABT-DCo4&s=72&u=6b8035d2e2d709c4a361991dfe1e19d130155db4&v=4" width="24" alt="Avatar of imtsuki"/> imtsuki
+				<img src="https://private-avatars.githubusercontent.com/u/8423594?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODYyODAsIm5iZiI6MTczNDY4NTA4MCwicGF0aCI6Ii91Lzg0MjM1OTQifQ.T4FJepC0GgnnYFIOaUCttm48dEBy0yKLhtXvHSVX_OM&s=72&u=6b8035d2e2d709c4a361991dfe1e19d130155db4&v=4" width="24" alt="Avatar of imtsuki"/> imtsuki
 			</a><br/>
 			Jianxin Qiu
 		</td>
@@ -2050,7 +2050,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>150</td>
 		<td>
 			<a target="_blank" href="https://github.com/P2333">
-				<img src="https://private-avatars.githubusercontent.com/u/18375572?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3MDAsIm5iZiI6MTczNDY0OTUwMCwicGF0aCI6Ii91LzE4Mzc1NTcyIn0.wWYvHXzPNjqLkTMj8-Jb49XXiOeWAq_tuLEmL7EUuvM&s=72&u=9a225b0af3593c5a6a3ac964c8f1626e5773bbeb&v=4" width="24" alt="Avatar of P2333"/> P2333
+				<img src="https://private-avatars.githubusercontent.com/u/18375572?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3MDAsIm5iZiI6MTczNDY4NTUwMCwicGF0aCI6Ii91LzE4Mzc1NTcyIn0.nD8fa_m505fMiEe5On6jTyYkMTyHirV4uP2MC_7IpQg&s=72&u=9a225b0af3593c5a6a3ac964c8f1626e5773bbeb&v=4" width="24" alt="Avatar of P2333"/> P2333
 			</a><br/>
 			Tianyu Pang
 		</td>
@@ -2063,7 +2063,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>151</td>
 		<td>
 			<a target="_blank" href="https://github.com/Ortiz2525">
-				<img src="https://private-avatars.githubusercontent.com/u/135733065?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzEzNTczMzA2NSJ9.B0OUTM5zR6Nh9fK7Nwf9xsB3Ui4Meakdr8UcOcXvZmc&s=72&u=f3c6589883310f5eb6d07787072b2c4e42b695df&v=4" width="24" alt="Avatar of Ortiz2525"/> Ortiz2525
+				<img src="https://private-avatars.githubusercontent.com/u/135733065?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzEzNTczMzA2NSJ9.3rQmy_s05LpR3KhiDM961aZEZlYYeXy2I2cMsqdV_Fk&s=72&u=f3c6589883310f5eb6d07787072b2c4e42b695df&v=4" width="24" alt="Avatar of Ortiz2525"/> Ortiz2525
 			</a><br/>
 			Nicolas Ortiz
 		</td>
@@ -2076,20 +2076,20 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>152</td>
 		<td>
 			<a target="_blank" href="https://github.com/yuweihao">
-				<img src="https://private-avatars.githubusercontent.com/u/15921929?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA0NjAsIm5iZiI6MTczNDY0OTI2MCwicGF0aCI6Ii91LzE1OTIxOTI5In0.XaUfINkOvu0GH6Cp0gf0DPmemsOsf6zfUh8UgH3i4Xg&s=72&u=de98caa4ed7b6d388843b53a943ec5207e544ca1&v=4" width="24" alt="Avatar of yuweihao"/> yuweihao
+				<img src="https://private-avatars.githubusercontent.com/u/15921929?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY0NjAsIm5iZiI6MTczNDY4NTI2MCwicGF0aCI6Ii91LzE1OTIxOTI5In0.aa67gSBI87tG-iky8cVvmr63aXBlTr8tYo3ccgrc-VE&s=72&u=de98caa4ed7b6d388843b53a943ec5207e544ca1&v=4" width="24" alt="Avatar of yuweihao"/> yuweihao
 			</a><br/>
 			Weihao Yu
 		</td>
 		<td>National University Of Singapore<br/></td>
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
-		<td>368</td>
+		<td>369</td>
 	</tr>
 	<tr>
 		<td>153</td>
 		<td>
 			<a target="_blank" href="https://github.com/grassjelly">
-				<img src="https://private-avatars.githubusercontent.com/u/5070395?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4MjAsIm5iZiI6MTczNDY0OTYyMCwicGF0aCI6Ii91LzUwNzAzOTUifQ.vvF0d5w22kgHK5cvWsgdJsymMAB38Z3Pg7PpXF2kntk&s=72&u=0d503d399f1287521aca6761c31c9ecfe51d3170&v=4" width="24" alt="Avatar of grassjelly"/> grassjelly
+				<img src="https://private-avatars.githubusercontent.com/u/5070395?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4MjAsIm5iZiI6MTczNDY4NTYyMCwicGF0aCI6Ii91LzUwNzAzOTUifQ.GYEuojjTydfAnwkufmh-pjUiLvHfGF797Dtb98dHMRU&s=72&u=0d503d399f1287521aca6761c31c9ecfe51d3170&v=4" width="24" alt="Avatar of grassjelly"/> grassjelly
 			</a><br/>
 			Juan Miguel Jimeno
 		</td>
@@ -2102,20 +2102,20 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>154</td>
 		<td>
 			<a target="_blank" href="https://github.com/0xkookoo">
-				<img src="https://private-avatars.githubusercontent.com/u/28261876?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4MjAsIm5iZiI6MTczNDY0OTYyMCwicGF0aCI6Ii91LzI4MjYxODc2In0.UblErJZr9HrmL-vZO0LhNtexYEfmxsTnAxIk7lWmdN0&s=72&u=81ddafd37a23aa16f1aaa6768fc525860b6100d8&v=4" width="24" alt="Avatar of 0xkookoo"/> 0xkookoo
+				<img src="https://private-avatars.githubusercontent.com/u/28261876?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4MjAsIm5iZiI6MTczNDY4NTYyMCwicGF0aCI6Ii91LzI4MjYxODc2In0.Y1rMNU30ShOIN-1o6pbz1eFmwP0vPJiohZsGQCPg42I&s=72&u=81ddafd37a23aa16f1aaa6768fc525860b6100d8&v=4" width="24" alt="Avatar of 0xkookoo"/> 0xkookoo
 			</a><br/>
 			0xkookoo
 		</td>
 		<td>Web3 </td>
 		<td><a target="_blank" href="https://twitter.com/0xkookoo">0xkookoo</a></td>
 		<td>Singapore SG</td>
-		<td>367</td>
+		<td>366</td>
 	</tr>
 	<tr>
 		<td>155</td>
 		<td>
 			<a target="_blank" href="https://github.com/yongkanghe">
-				<img src="https://private-avatars.githubusercontent.com/u/40347406?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEyNDAsIm5iZiI6MTczNDY1MDA0MCwicGF0aCI6Ii91LzQwMzQ3NDA2In0.9pZDpUexgF-3v_lWCagTKMQAIYsR0Si2HlXkKUr9XyE&s=72&u=c8b123e6e7c23f3474cccf89bb45bfaad2fec118&v=4" width="24" alt="Avatar of yongkanghe"/> yongkanghe
+				<img src="https://private-avatars.githubusercontent.com/u/40347406?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODYzNDAsIm5iZiI6MTczNDY4NTE0MCwicGF0aCI6Ii91LzQwMzQ3NDA2In0.w7ewQkOFCMvYBuO9ylYHxKMlklopIoDYBp9d2857wx8&s=72&u=c8b123e6e7c23f3474cccf89bb45bfaad2fec118&v=4" width="24" alt="Avatar of yongkanghe"/> yongkanghe
 			</a><br/>
 			Yongkang He
 		</td>
@@ -2128,7 +2128,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>156</td>
 		<td>
 			<a target="_blank" href="https://github.com/JNYH">
-				<img src="https://private-avatars.githubusercontent.com/u/52286325?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4MjAsIm5iZiI6MTczNDY0OTYyMCwicGF0aCI6Ii91LzUyMjg2MzI1In0.tATSZDRX5RHx43LprlVhHv_5XzEqkW7nCQC0fsnjL90&s=72&u=638cecf9b29c3e9fe42608ad283b26692ff4d236&v=4" width="24" alt="Avatar of JNYH"/> JNYH
+				<img src="https://private-avatars.githubusercontent.com/u/52286325?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4MjAsIm5iZiI6MTczNDY4NTYyMCwicGF0aCI6Ii91LzUyMjg2MzI1In0.VlivTCrKHOhUKXj7EIqCYqn8aft92gU7ohGFQgjo1x4&s=72&u=638cecf9b29c3e9fe42608ad283b26692ff4d236&v=4" width="24" alt="Avatar of JNYH"/> JNYH
 			</a><br/>
 			01101010 01101110
 		</td>
@@ -2141,7 +2141,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>157</td>
 		<td>
 			<a target="_blank" href="https://github.com/ldkong1205">
-				<img src="https://private-avatars.githubusercontent.com/u/44147391?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExMjAsIm5iZiI6MTczNDY0OTkyMCwicGF0aCI6Ii91LzQ0MTQ3MzkxIn0.p1beaTgKyN7GvixGXtjA32MsX1mhRZnoDb1u2SKHrzs&s=72&u=3775273b924a03ea13e3afd2f4c2dc911e170274&v=4" width="24" alt="Avatar of ldkong1205"/> ldkong1205
+				<img src="https://private-avatars.githubusercontent.com/u/44147391?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxMjAsIm5iZiI6MTczNDY4NTkyMCwicGF0aCI6Ii91LzQ0MTQ3MzkxIn0.fNG7XaSVp4jlJQiAogNPvb7EUG9mAOIFLHtvdHFZOsk&s=72&u=3775273b924a03ea13e3afd2f4c2dc911e170274&v=4" width="24" alt="Avatar of ldkong1205"/> ldkong1205
 			</a><br/>
 			Lingdong Kong
 		</td>
@@ -2154,7 +2154,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>158</td>
 		<td>
 			<a target="_blank" href="https://github.com/thorwebdev">
-				<img src="https://private-avatars.githubusercontent.com/u/5748289?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA0NjAsIm5iZiI6MTczNDY0OTI2MCwicGF0aCI6Ii91LzU3NDgyODkifQ.0erSJKbYCNOAy-LNMv0s3REh4ih8SGfEupPt22hr7IE&s=72&u=ef74388e3ad0b4192792832e644d09758479a337&v=4" width="24" alt="Avatar of thorwebdev"/> thorwebdev
+				<img src="https://private-avatars.githubusercontent.com/u/5748289?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY0NjAsIm5iZiI6MTczNDY4NTI2MCwicGF0aCI6Ii91LzU3NDgyODkifQ.QBNmf6rHAJT61i6yrDxe6TnOyIL7sPyV13n0iG4kr1I&s=72&u=ef74388e3ad0b4192792832e644d09758479a337&v=4" width="24" alt="Avatar of thorwebdev"/> thorwebdev
 			</a><br/>
 			Thor  Schaeff
 		</td>
@@ -2167,7 +2167,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>159</td>
 		<td>
 			<a target="_blank" href="https://github.com/uzyn">
-				<img src="https://private-avatars.githubusercontent.com/u/280505?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA0NjAsIm5iZiI6MTczNDY0OTI2MCwicGF0aCI6Ii91LzI4MDUwNSJ9.eRV3pylwDipyunMEjw34ycYxrA8Vpmc3SYXyi0Qe3jI&s=72&u=45a6cde3f5ace803dae24a77f461d2f826497102&v=4" width="24" alt="Avatar of uzyn"/> uzyn
+				<img src="https://private-avatars.githubusercontent.com/u/280505?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY0NjAsIm5iZiI6MTczNDY4NTI2MCwicGF0aCI6Ii91LzI4MDUwNSJ9.jIW2hgPSBSerPS8AWufOAnSH31xAvm-roiV3Roa2piM&s=72&u=45a6cde3f5ace803dae24a77f461d2f826497102&v=4" width="24" alt="Avatar of uzyn"/> uzyn
 			</a><br/>
 			UZyn Chua
 		</td>
@@ -2180,7 +2180,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>160</td>
 		<td>
 			<a target="_blank" href="https://github.com/tc-imba">
-				<img src="https://private-avatars.githubusercontent.com/u/9911074?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA1MjAsIm5iZiI6MTczNDY0OTMyMCwicGF0aCI6Ii91Lzk5MTEwNzQifQ.RSYbfdcZ3UUEtyBxW2zQ1inJmq-XUXPmidS0mE76iUo&s=72&v=4" width="24" alt="Avatar of tc-imba"/> tc-imba
+				<img src="https://private-avatars.githubusercontent.com/u/9911074?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1MjAsIm5iZiI6MTczNDY4NTMyMCwicGF0aCI6Ii91Lzk5MTEwNzQifQ.NhFn2xWZPaKo75swBOOE1meGNSo7H7Q5LamxfrPoRjs&s=72&v=4" width="24" alt="Avatar of tc-imba"/> tc-imba
 			</a><br/>
 			Liu Yihao
 		</td>
@@ -2193,7 +2193,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>161</td>
 		<td>
 			<a target="_blank" href="https://github.com/tlkh">
-				<img src="https://private-avatars.githubusercontent.com/u/5409617?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA2NDAsIm5iZiI6MTczNDY0OTQ0MCwicGF0aCI6Ii91LzU0MDk2MTcifQ.Bd1vdi0M97MyP31OQA_Q30w0bUpLQHZlBzpScU6ro9A&s=72&u=82533542493ab0cb2d8fd5ed92182c212553df92&v=4" width="24" alt="Avatar of tlkh"/> tlkh
+				<img src="https://private-avatars.githubusercontent.com/u/5409617?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91LzU0MDk2MTcifQ.rC-KuY8EBn8ls5kaMcxv-LaQSsSIWyv6fb9pqE2CXF4&s=72&u=82533542493ab0cb2d8fd5ed92182c212553df92&v=4" width="24" alt="Avatar of tlkh"/> tlkh
 			</a><br/>
 			Timothy Liu
 		</td>
@@ -2206,7 +2206,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>162</td>
 		<td>
 			<a target="_blank" href="https://github.com/zhengzangw">
-				<img src="https://private-avatars.githubusercontent.com/u/30647653?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3NjAsIm5iZiI6MTczNDY0OTU2MCwicGF0aCI6Ii91LzMwNjQ3NjUzIn0.x7-X-sq19s8m2Hvd8L5LicZZ-Cgzuq02Ha3x6t4H3dY&s=72&u=f394cdc5c599c708249eb204b04484311c5dd0e2&v=4" width="24" alt="Avatar of zhengzangw"/> zhengzangw
+				<img src="https://private-avatars.githubusercontent.com/u/30647653?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91LzMwNjQ3NjUzIn0.ItYFHWo4mcRE_lMptfp7YnhIlwoW_O_CzgS4vselLoM&s=72&u=f394cdc5c599c708249eb204b04484311c5dd0e2&v=4" width="24" alt="Avatar of zhengzangw"/> zhengzangw
 			</a><br/>
 			Zheng Zangwei Alex Zheng
 		</td>
@@ -2219,7 +2219,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>163</td>
 		<td>
 			<a target="_blank" href="https://github.com/tzhangchi">
-				<img src="https://private-avatars.githubusercontent.com/u/5910926?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA0NjAsIm5iZiI6MTczNDY0OTI2MCwicGF0aCI6Ii91LzU5MTA5MjYifQ.IiiNW4uUH0dG-6M6Oz2vr44JkTMhJ5wHn-y5Lthhgzc&s=72&u=c56f7abd37c076054bc861f8ff2d43b9fc611310&v=4" width="24" alt="Avatar of tzhangchi"/> tzhangchi
+				<img src="https://private-avatars.githubusercontent.com/u/5910926?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY0NjAsIm5iZiI6MTczNDY4NTI2MCwicGF0aCI6Ii91LzU5MTA5MjYifQ.i8Yraab91TLLvLfe2_7wV1ExIu2cyqr33CQ6pGf7X_A&s=72&u=c56f7abd37c076054bc861f8ff2d43b9fc611310&v=4" width="24" alt="Avatar of tzhangchi"/> tzhangchi
 			</a><br/>
 			Terry Zhang
 		</td>
@@ -2232,20 +2232,20 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>164</td>
 		<td>
 			<a target="_blank" href="https://github.com/the-robot">
-				<img src="https://private-avatars.githubusercontent.com/u/9334746?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwMDAsIm5iZiI6MTczNDY0OTgwMCwicGF0aCI6Ii91LzkzMzQ3NDYifQ.drpIsDXhOSCqMOpSxdzN3Js6zEuQ7YUtUj2hXlvnlx8&s=72&u=0b223e39ccc4c92e6dd26305cb44c5eb07624395&v=4" width="24" alt="Avatar of the-robot"/> the-robot
+				<img src="https://private-avatars.githubusercontent.com/u/9334746?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwMDAsIm5iZiI6MTczNDY4NTgwMCwicGF0aCI6Ii91LzkzMzQ3NDYifQ.BmWYBlVOpFmwdrTn9Q_cssK2r_S7GhRR5reByFg_5bI&s=72&u=0b223e39ccc4c92e6dd26305cb44c5eb07624395&v=4" width="24" alt="Avatar of the-robot"/> the-robot
 			</a><br/>
 			khant
 		</td>
 		<td>@opengovsg </td>
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
-		<td>342</td>
+		<td>343</td>
 	</tr>
 	<tr>
 		<td>165</td>
 		<td>
 			<a target="_blank" href="https://github.com/paradite">
-				<img src="https://private-avatars.githubusercontent.com/u/1209810?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA1MjAsIm5iZiI6MTczNDY0OTMyMCwicGF0aCI6Ii91LzEyMDk4MTAifQ.cS4Yr4ZYdgkOd4TomhtVBhdRFNJuj8_qmQx3XIbGkdY&s=72&u=cbaaba7e3d59034be153b94590db0bce034eb6ee&v=4" width="24" alt="Avatar of paradite"/> paradite
+				<img src="https://private-avatars.githubusercontent.com/u/1209810?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1MjAsIm5iZiI6MTczNDY4NTMyMCwicGF0aCI6Ii91LzEyMDk4MTAifQ.3V8yXXBi_13knw6TmUmjncH-MumlnVWsF7XWUG6L7ts&s=72&u=cbaaba7e3d59034be153b94590db0bce034eb6ee&v=4" width="24" alt="Avatar of paradite"/> paradite
 			</a><br/>
 			Zhu Liang
 		</td>
@@ -2258,7 +2258,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>166</td>
 		<td>
 			<a target="_blank" href="https://github.com/vishymails">
-				<img src="https://private-avatars.githubusercontent.com/u/22291848?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4ODAsIm5iZiI6MTczNDY0OTY4MCwicGF0aCI6Ii91LzIyMjkxODQ4In0.tQivx0T9tnrUdsBTvgbzdCDh0JJj3pUzHWz17o797Dk&s=72&u=464a18bd8e76348dc2600436454a777c0e1b2a67&v=4" width="24" alt="Avatar of vishymails"/> vishymails
+				<img src="https://private-avatars.githubusercontent.com/u/22291848?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4ODAsIm5iZiI6MTczNDY4NTY4MCwicGF0aCI6Ii91LzIyMjkxODQ4In0.YyN7t6mfhFvA0RPKHAQv0ASIbQndVvB1k25VuIBhCa8&s=72&u=464a18bd8e76348dc2600436454a777c0e1b2a67&v=4" width="24" alt="Avatar of vishymails"/> vishymails
 			</a><br/>
 			Dr Vishwanath Rao
 		</td>
@@ -2271,7 +2271,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>167</td>
 		<td>
 			<a target="_blank" href="https://github.com/jellydn">
-				<img src="https://private-avatars.githubusercontent.com/u/870029?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4ODAsIm5iZiI6MTczNDY0OTY4MCwicGF0aCI6Ii91Lzg3MDAyOSJ9.qzIIDEshislMl6580Bdzglg4X9sDAqyC8Sc-C-zb7fc&s=72&u=cc065539910207b6661bbabba39a9e78294e251d&v=4" width="24" alt="Avatar of jellydn"/> jellydn
+				<img src="https://private-avatars.githubusercontent.com/u/870029?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4ODAsIm5iZiI6MTczNDY4NTY4MCwicGF0aCI6Ii91Lzg3MDAyOSJ9.yHHGtQRfhOGog_Em2tn-H4Zm5VzzIb3fVG6APow4ORQ&s=72&u=cc065539910207b6661bbabba39a9e78294e251d&v=4" width="24" alt="Avatar of jellydn"/> jellydn
 			</a><br/>
 			Dung Duc Huynh Kaka
 		</td>
@@ -2284,7 +2284,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>168</td>
 		<td>
 			<a target="_blank" href="https://github.com/jinglescode">
-				<img src="https://private-avatars.githubusercontent.com/u/1694368?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3MDAsIm5iZiI6MTczNDY0OTUwMCwicGF0aCI6Ii91LzE2OTQzNjgifQ.8PTgvXsC_uQ1GFOqCLy3IYwtMDzbpCxtQmhoRcctzWk&s=72&u=a5c8703f2bf99578a5c6f1beac21f834b3caf80d&v=4" width="24" alt="Avatar of jinglescode"/> jinglescode
+				<img src="https://private-avatars.githubusercontent.com/u/1694368?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3MDAsIm5iZiI6MTczNDY4NTUwMCwicGF0aCI6Ii91LzE2OTQzNjgifQ.WPAtA26EbizsnNbsdBnSjqSQIgmPQM0TcD30niZd7Pg&s=72&u=a5c8703f2bf99578a5c6f1beac21f834b3caf80d&v=4" width="24" alt="Avatar of jinglescode"/> jinglescode
 			</a><br/>
 			Hong Jing Jingles
 		</td>
@@ -2297,7 +2297,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>169</td>
 		<td>
 			<a target="_blank" href="https://github.com/darvincisec">
-				<img src="https://private-avatars.githubusercontent.com/u/57146337?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3MDAsIm5iZiI6MTczNDY0OTUwMCwicGF0aCI6Ii91LzU3MTQ2MzM3In0.0Vyadbu8wooKB6GZclP8P3vzS9FSYQRsZydn_iYNXwg&s=72&v=4" width="24" alt="Avatar of darvincisec"/> darvincisec
+				<img src="https://private-avatars.githubusercontent.com/u/57146337?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3MDAsIm5iZiI6MTczNDY4NTUwMCwicGF0aCI6Ii91LzU3MTQ2MzM3In0.GTZZSNoIugwovTbOanXReJNlcU7gPsjOMnAn-_AiZmg&s=72&v=4" width="24" alt="Avatar of darvincisec"/> darvincisec
 			</a><br/>
 			Darvin
 		</td>
@@ -2310,7 +2310,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>170</td>
 		<td>
 			<a target="_blank" href="https://github.com/cL0und">
-				<img src="https://private-avatars.githubusercontent.com/u/30562775?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3MDAsIm5iZiI6MTczNDY0OTUwMCwicGF0aCI6Ii91LzMwNTYyNzc1In0.2GyCRvE-FuB2MjAIvicYsse5-0NBumMew4JGw0U7wYI&s=72&u=9a2e21fd9f25142c9bd007b4f9b9ebce8030d5da&v=4" width="24" alt="Avatar of cL0und"/> cL0und
+				<img src="https://private-avatars.githubusercontent.com/u/30562775?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3MDAsIm5iZiI6MTczNDY4NTUwMCwicGF0aCI6Ii91LzMwNTYyNzc1In0.3HiRPXu6OlQt-ixQek5GpfNYj9v9gmJOclgyhrekE9Y&s=72&u=9a2e21fd9f25142c9bd007b4f9b9ebce8030d5da&v=4" width="24" alt="Avatar of cL0und"/> cL0und
 			</a><br/>
 			
 		</td>
@@ -2323,7 +2323,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>171</td>
 		<td>
 			<a target="_blank" href="https://github.com/chaofengc">
-				<img src="https://private-avatars.githubusercontent.com/u/7187685?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3NjAsIm5iZiI6MTczNDY0OTU2MCwicGF0aCI6Ii91LzcxODc2ODUifQ.akzxO4ToMnJMIb4lTnTyi7Ew7ONtEY5XFuTyEHMC3T0&s=72&u=1a087f911dca71539997871aa8bfe768e8f9cdfd&v=4" width="24" alt="Avatar of chaofengc"/> chaofengc
+				<img src="https://private-avatars.githubusercontent.com/u/7187685?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91LzcxODc2ODUifQ.kqUjishCL1ukb-mEkNgDicN_ogXFU--TidFpDIpAwDc&s=72&u=1a087f911dca71539997871aa8bfe768e8f9cdfd&v=4" width="24" alt="Avatar of chaofengc"/> chaofengc
 			</a><br/>
 			Chaofeng Chen
 		</td>
@@ -2335,21 +2335,8 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 	<tr>
 		<td>172</td>
 		<td>
-			<a target="_blank" href="https://github.com/donvito">
-				<img src="https://private-avatars.githubusercontent.com/u/890270?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4ODAsIm5iZiI6MTczNDY0OTY4MCwicGF0aCI6Ii91Lzg5MDI3MCJ9.4pMhGFIxmcLR4K1XkqGgq4YsMV2-lY_llu9onDlJCTM&s=72&u=ce056e653a47b87f912883b3b1629515baed56f3&v=4" width="24" alt="Avatar of donvito"/> donvito
-			</a><br/>
-			Melvin Vivas @DonvitoCodes
-		</td>
-		<td>Donvitocodes </td>
-		<td><a target="_blank" href="https://twitter.com/donvito">donvito</a></td>
-		<td>Singapore</td>
-		<td>328</td>
-	</tr>
-	<tr>
-		<td>173</td>
-		<td>
 			<a target="_blank" href="https://github.com/26hzhang">
-				<img src="https://private-avatars.githubusercontent.com/u/20762516?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzIwNzYyNTE2In0.jd3soiaIACmM2lk1SWCLB6Tod_-3W1On_BzMNh9_WGY&s=72&u=c7fd23995a87c573abab8d63d5696f97f2f4a4a7&v=4" width="24" alt="Avatar of 26hzhang"/> 26hzhang
+				<img src="https://private-avatars.githubusercontent.com/u/20762516?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzIwNzYyNTE2In0.4MsKjJ7kOYiWkZEBQZdcFkQ5dBJdq16H67PwSHYoVmo&s=72&u=c7fd23995a87c573abab8d63d5696f97f2f4a4a7&v=4" width="24" alt="Avatar of 26hzhang"/> 26hzhang
 			</a><br/>
 			ZHANG HAO
 		</td>
@@ -2359,10 +2346,23 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>328</td>
 	</tr>
 	<tr>
+		<td>173</td>
+		<td>
+			<a target="_blank" href="https://github.com/donvito">
+				<img src="https://private-avatars.githubusercontent.com/u/890270?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4ODAsIm5iZiI6MTczNDY4NTY4MCwicGF0aCI6Ii91Lzg5MDI3MCJ9.6tFJTObRJaNhBr0_fidiy-nn89-BCbQYEqdj-qN6I_g&s=72&u=ce056e653a47b87f912883b3b1629515baed56f3&v=4" width="24" alt="Avatar of donvito"/> donvito
+			</a><br/>
+			Melvin Vivas @DonvitoCodes
+		</td>
+		<td>Donvitocodes </td>
+		<td><a target="_blank" href="https://twitter.com/donvito">donvito</a></td>
+		<td>Singapore</td>
+		<td>327</td>
+	</tr>
+	<tr>
 		<td>174</td>
 		<td>
 			<a target="_blank" href="https://github.com/matiassingers">
-				<img src="https://private-avatars.githubusercontent.com/u/938453?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzMDAsIm5iZiI6MTczNDY1MDEwMCwicGF0aCI6Ii91LzkzODQ1MyJ9.HjtXRT_pUAbVbf47FP_71OxP0g9BIcTwh0xsy1l4VbA&s=72&v=4" width="24" alt="Avatar of matiassingers"/> matiassingers
+				<img src="https://private-avatars.githubusercontent.com/u/938453?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY0MDAsIm5iZiI6MTczNDY4NTIwMCwicGF0aCI6Ii91LzkzODQ1MyJ9.NeR1vpAjC6sjkTNDVe4rUUtx630SpE90ZzBCOsDNzlw&s=72&v=4" width="24" alt="Avatar of matiassingers"/> matiassingers
 			</a><br/>
 			Matias Singers
 		</td>
@@ -2374,8 +2374,21 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 	<tr>
 		<td>175</td>
 		<td>
+			<a target="_blank" href="https://github.com/secfigo">
+				<img src="https://private-avatars.githubusercontent.com/u/11695998?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91LzExNjk1OTk4In0.epXpXcBCxEnH7GVA0V9MAABCa0OmbEVQ02sJK2AxGHw&s=72&u=cb29b487be54b3f5988af14cb079a52b19e06b2f&v=4" width="24" alt="Avatar of secfigo"/> secfigo
+			</a><br/>
+			Mohammed A Imran
+		</td>
+		<td>Practical Devsecops </td>
+		<td>No Twitter Username</td>
+		<td>Singapore</td>
+		<td>326</td>
+	</tr>
+	<tr>
+		<td>176</td>
+		<td>
 			<a target="_blank" href="https://github.com/hujie-frank">
-				<img src="https://private-avatars.githubusercontent.com/u/11649912?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzExNjQ5OTEyIn0.snFCuNAraq71NK0914DkArOzibh-2KQsvq_t9mr1zq8&s=72&u=3eccdbabe838e0f186040c0088d5011fbb145b8a&v=4" width="24" alt="Avatar of hujie-frank"/> hujie-frank
+				<img src="https://private-avatars.githubusercontent.com/u/11649912?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODYyODAsIm5iZiI6MTczNDY4NTA4MCwicGF0aCI6Ii91LzExNjQ5OTEyIn0.1mX7o_7uL5bFVKgvEC4ex7xPYccnEN3R8QSD3n15zOo&s=72&u=3eccdbabe838e0f186040c0088d5011fbb145b8a&v=4" width="24" alt="Avatar of hujie-frank"/> hujie-frank
 			</a><br/>
 			Jie Hu
 		</td>
@@ -2385,10 +2398,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>325</td>
 	</tr>
 	<tr>
-		<td>176</td>
+		<td>177</td>
 		<td>
 			<a target="_blank" href="https://github.com/thorsten-stripe">
-				<img src="https://private-avatars.githubusercontent.com/u/23213994?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3MDAsIm5iZiI6MTczNDY0OTUwMCwicGF0aCI6Ii91LzIzMjEzOTk0In0.ozpYTDzSkmVWWFmychEZdQEqUhC4kNZgakb6JJir3Bc&s=72&u=8cff72396a42675cc6ef0d61548ede736370e66e&v=4" width="24" alt="Avatar of thorsten-stripe"/> thorsten-stripe
+				<img src="https://private-avatars.githubusercontent.com/u/23213994?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3MDAsIm5iZiI6MTczNDY4NTUwMCwicGF0aCI6Ii91LzIzMjEzOTk0In0.Q1peRlfz0uZjZ8hGGgbTVQs4DsekOeoLFIvKvjiGxrc&s=72&u=8cff72396a42675cc6ef0d61548ede736370e66e&v=4" width="24" alt="Avatar of thorsten-stripe"/> thorsten-stripe
 			</a><br/>
 			Thor 
 		</td>
@@ -2398,36 +2411,23 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>325</td>
 	</tr>
 	<tr>
-		<td>177</td>
-		<td>
-			<a target="_blank" href="https://github.com/secfigo">
-				<img src="https://private-avatars.githubusercontent.com/u/11695998?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA2NDAsIm5iZiI6MTczNDY0OTQ0MCwicGF0aCI6Ii91LzExNjk1OTk4In0.R8MbZHrl20-Yca0WkWvEv5L9U4QOCsN8PU_Zn8IEG34&s=72&u=cb29b487be54b3f5988af14cb079a52b19e06b2f&v=4" width="24" alt="Avatar of secfigo"/> secfigo
-			</a><br/>
-			Mohammed A Imran
-		</td>
-		<td>Practical Devsecops </td>
-		<td>No Twitter Username</td>
-		<td>Singapore</td>
-		<td>325</td>
-	</tr>
-	<tr>
 		<td>178</td>
 		<td>
 			<a target="_blank" href="https://github.com/mdluo">
-				<img src="https://private-avatars.githubusercontent.com/u/4597409?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzQ1OTc0MDkifQ.JQsvnyEF2LN96gS5HQ4axLpsOuYL5rZp9ChXvxpP5lY&s=72&u=bf17c9e7f9454aae34c813672fb431042695fd52&v=4" width="24" alt="Avatar of mdluo"/> mdluo
+				<img src="https://private-avatars.githubusercontent.com/u/4597409?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzQ1OTc0MDkifQ.pk7hGCPpJi0yDBM86sCad1231LVqJZb8RKJbA43hmWs&s=72&u=bf17c9e7f9454aae34c813672fb431042695fd52&v=4" width="24" alt="Avatar of mdluo"/> mdluo
 			</a><br/>
 			Carl Luo
 		</td>
 		<td>Voltade </td>
 		<td><a target="_blank" href="https://twitter.com/mdluo">mdluo</a></td>
 		<td>Singapore</td>
-		<td>324</td>
+		<td>323</td>
 	</tr>
 	<tr>
 		<td>179</td>
 		<td>
 			<a target="_blank" href="https://github.com/temasek">
-				<img src="https://private-avatars.githubusercontent.com/u/1400864?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA1ODAsIm5iZiI6MTczNDY0OTM4MCwicGF0aCI6Ii91LzE0MDA4NjQifQ._wsibD6kIlLiH3Qa-jZO-2SykftRhp3U2yixgAssN04&s=72&v=4" width="24" alt="Avatar of temasek"/> temasek
+				<img src="https://private-avatars.githubusercontent.com/u/1400864?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1ODAsIm5iZiI6MTczNDY4NTM4MCwicGF0aCI6Ii91LzE0MDA4NjQifQ.oHolT8aJIOp1FMA4B-ClbgBPpgA4yTq5wdPAFMVaZCc&s=72&v=4" width="24" alt="Avatar of temasek"/> temasek
 			</a><br/>
 			Janson Kang
 		</td>
@@ -2440,7 +2440,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>180</td>
 		<td>
 			<a target="_blank" href="https://github.com/iCHAIT">
-				<img src="https://private-avatars.githubusercontent.com/u/8472314?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA1ODAsIm5iZiI6MTczNDY0OTM4MCwicGF0aCI6Ii91Lzg0NzIzMTQifQ.9eBVyU27jGAXSVvkVwCgcciKUGp-FwvnUN7DWYde0dA&s=72&u=3e6f37e42518322643eea0404d23b7d8e9dbb895&v=4" width="24" alt="Avatar of iCHAIT"/> iCHAIT
+				<img src="https://private-avatars.githubusercontent.com/u/8472314?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1ODAsIm5iZiI6MTczNDY4NTM4MCwicGF0aCI6Ii91Lzg0NzIzMTQifQ.vAAxZIwOAujm1mfIaXl_MuKCXcgGiXHL92XIZABzOBw&s=72&u=3e6f37e42518322643eea0404d23b7d8e9dbb895&v=4" width="24" alt="Avatar of iCHAIT"/> iCHAIT
 			</a><br/>
 			Chaitanya Gupta
 		</td>
@@ -2453,7 +2453,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>181</td>
 		<td>
 			<a target="_blank" href="https://github.com/bnjmnt4n">
-				<img src="https://private-avatars.githubusercontent.com/u/813865?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA0NjAsIm5iZiI6MTczNDY0OTI2MCwicGF0aCI6Ii91LzgxMzg2NSJ9.pNZEx7REIsbqH4vghRdF2owAeCx5L8jrA8C5ddEz8Jo&s=72&u=4c7f82cd5583956011f2da5888e00b37856e9131&v=4" width="24" alt="Avatar of bnjmnt4n"/> bnjmnt4n
+				<img src="https://private-avatars.githubusercontent.com/u/813865?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY0NjAsIm5iZiI6MTczNDY4NTI2MCwicGF0aCI6Ii91LzgxMzg2NSJ9.J2C5R2oI6jQZQIm5EKg_cM88BJcJezS3nwd4a68Zqdg&s=72&u=4c7f82cd5583956011f2da5888e00b37856e9131&v=4" width="24" alt="Avatar of bnjmnt4n"/> bnjmnt4n
 			</a><br/>
 			Benjamin Tan
 		</td>
@@ -2466,7 +2466,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>182</td>
 		<td>
 			<a target="_blank" href="https://github.com/cmiller8">
-				<img src="https://private-avatars.githubusercontent.com/u/193675?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA1ODAsIm5iZiI6MTczNDY0OTM4MCwicGF0aCI6Ii91LzE5MzY3NSJ9.KE-IqznKD39nR9-vOBj8NAMYt7SDrOy6LKjuHy8CJcI&s=72&v=4" width="24" alt="Avatar of cmiller8"/> cmiller8
+				<img src="https://private-avatars.githubusercontent.com/u/193675?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1ODAsIm5iZiI6MTczNDY4NTM4MCwicGF0aCI6Ii91LzE5MzY3NSJ9.WmwjySiBiTGrMomCyUkwYBmmzIaXT6ENrSabrt5Wd4I&s=72&v=4" width="24" alt="Avatar of cmiller8"/> cmiller8
 			</a><br/>
 			Clayton Miller
 		</td>
@@ -2479,7 +2479,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>183</td>
 		<td>
 			<a target="_blank" href="https://github.com/isuruAb">
-				<img src="https://private-avatars.githubusercontent.com/u/7692626?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA0NjAsIm5iZiI6MTczNDY0OTI2MCwicGF0aCI6Ii91Lzc2OTI2MjYifQ.MTxITf1C12gBlqQlbfaVcQZBXQ6m3t441OYUaWt7p6M&s=72&u=7ca58ce79bcca4d59392781ca53d18e991455ea9&v=4" width="24" alt="Avatar of isuruAb"/> isuruAb
+				<img src="https://private-avatars.githubusercontent.com/u/7692626?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY0NjAsIm5iZiI6MTczNDY4NTI2MCwicGF0aCI6Ii91Lzc2OTI2MjYifQ.rQf6rqQcu-XOtic-LdBOz2jOja8P8OmzUGxDjagB58I&s=72&u=7ca58ce79bcca4d59392781ca53d18e991455ea9&v=4" width="24" alt="Avatar of isuruAb"/> isuruAb
 			</a><br/>
 			Isuru Abeywardana
 		</td>
@@ -2492,7 +2492,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>184</td>
 		<td>
 			<a target="_blank" href="https://github.com/pankajparkar">
-				<img src="https://private-avatars.githubusercontent.com/u/5320044?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA2NDAsIm5iZiI6MTczNDY0OTQ0MCwicGF0aCI6Ii91LzUzMjAwNDQifQ.5ZGgyxaOr_nKVLV6JVCPMzoST5jazUycSDSc6eXA0Yg&s=72&u=a164cb024b322aaf525e0b6602020d4b0428d3fd&v=4" width="24" alt="Avatar of pankajparkar"/> pankajparkar
+				<img src="https://private-avatars.githubusercontent.com/u/5320044?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91LzUzMjAwNDQifQ.QET5qY42P07m05kuXBXOJgI9TNbnx86ythZIOqB2umo&s=72&u=a164cb024b322aaf525e0b6602020d4b0428d3fd&v=4" width="24" alt="Avatar of pankajparkar"/> pankajparkar
 			</a><br/>
 			Pankaj Parkar
 		</td>
@@ -2505,7 +2505,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>185</td>
 		<td>
 			<a target="_blank" href="https://github.com/623637646">
-				<img src="https://private-avatars.githubusercontent.com/u/5275802?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzUyNzU4MDIifQ.up6AQqEaxzTm4E-8UX26dNWOeyEdKwQqV9meFVrB-sg&s=72&u=967799cef1973873bc632cdba8b8c670b702d9c6&v=4" width="24" alt="Avatar of 623637646"/> 623637646
+				<img src="https://private-avatars.githubusercontent.com/u/5275802?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzUyNzU4MDIifQ.mW17YYOzd_QoxKz4jbv2g87DpGNNYa0FsJpE3pRFQfY&s=72&u=967799cef1973873bc632cdba8b8c670b702d9c6&v=4" width="24" alt="Avatar of 623637646"/> 623637646
 			</a><br/>
 			Yanni Wang
 		</td>
@@ -2518,7 +2518,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>186</td>
 		<td>
 			<a target="_blank" href="https://github.com/project-ubin">
-				<img src="https://private-avatars.githubusercontent.com/u/33472159?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzMzNDcyMTU5In0.6QhcoYGTUlFR7hqEbWlo9u_UP5Kj-YpMGukrTfltqDA&s=72&u=87587cf051b1f022c89738e3bfd4efa8a35d3838&v=4" width="24" alt="Avatar of project-ubin"/> project-ubin
+				<img src="https://private-avatars.githubusercontent.com/u/33472159?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzMzNDcyMTU5In0.0EU3ZdWVRksZEHZrbZzolnTYGcz5WpNes1BTStxlcPc&s=72&u=87587cf051b1f022c89738e3bfd4efa8a35d3838&v=4" width="24" alt="Avatar of project-ubin"/> project-ubin
 			</a><br/>
 			Project Ubin
 		</td>
@@ -2531,7 +2531,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>187</td>
 		<td>
 			<a target="_blank" href="https://github.com/u1i">
-				<img src="https://private-avatars.githubusercontent.com/u/27874591?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA0NjAsIm5iZiI6MTczNDY0OTI2MCwicGF0aCI6Ii91LzI3ODc0NTkxIn0.F-wbnhZfDsNj-s4y-gv070fq1dtFmkiH71tMsTqURYs&s=72&u=51490f4aa192b12aa3dee7a9d3a5b76c6153ffd5&v=4" width="24" alt="Avatar of u1i"/> u1i
+				<img src="https://private-avatars.githubusercontent.com/u/27874591?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY0NjAsIm5iZiI6MTczNDY4NTI2MCwicGF0aCI6Ii91LzI3ODc0NTkxIn0.szopaEMTDFs6t1XnpXjJnjaZeebugwgBFvTn8DWMuaM&s=72&u=51490f4aa192b12aa3dee7a9d3a5b76c6153ffd5&v=4" width="24" alt="Avatar of u1i"/> u1i
 			</a><br/>
 			Uli
 		</td>
@@ -2544,7 +2544,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>188</td>
 		<td>
 			<a target="_blank" href="https://github.com/lilien1010">
-				<img src="https://private-avatars.githubusercontent.com/u/3814966?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA5NDAsIm5iZiI6MTczNDY0OTc0MCwicGF0aCI6Ii91LzM4MTQ5NjYifQ.T084n0pjmno838NidKGEu0Dr2wMvEDleiUzAyGm0H5Y&s=72&u=4aa6d962390b7d9c2bab274312b677c949feb0ef&v=4" width="24" alt="Avatar of lilien1010"/> lilien1010
+				<img src="https://private-avatars.githubusercontent.com/u/3814966?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY5NDAsIm5iZiI6MTczNDY4NTc0MCwicGF0aCI6Ii91LzM4MTQ5NjYifQ.k9YWKi5SWRgVtGAsEDn-Nja9gbJ-RJXP8_oSF1JJaAE&s=72&u=4aa6d962390b7d9c2bab274312b677c949feb0ef&v=4" width="24" alt="Avatar of lilien1010"/> lilien1010
 			</a><br/>
 			Lien Li
 		</td>
@@ -2557,7 +2557,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>189</td>
 		<td>
 			<a target="_blank" href="https://github.com/SOF3">
-				<img src="https://private-avatars.githubusercontent.com/u/19623715?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4MjAsIm5iZiI6MTczNDY0OTYyMCwicGF0aCI6Ii91LzE5NjIzNzE1In0.IOSuw31eXcVn5aAw4gEKgeBQ-XFPkHNzGEfVJBW9vQ4&s=72&u=8fc1200ecfbd85a03c59f998f50ee2822ee45e20&v=4" width="24" alt="Avatar of SOF3"/> SOF3
+				<img src="https://private-avatars.githubusercontent.com/u/19623715?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4MjAsIm5iZiI6MTczNDY4NTYyMCwicGF0aCI6Ii91LzE5NjIzNzE1In0.YXhEslg2lzs93aIc4RFG_cJog2e9qPp4TTzuiEuiDdA&s=72&u=8fc1200ecfbd85a03c59f998f50ee2822ee45e20&v=4" width="24" alt="Avatar of SOF3"/> SOF3
 			</a><br/>
 			Jonathan Chan Kwan Yin
 		</td>
@@ -2570,7 +2570,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>190</td>
 		<td>
 			<a target="_blank" href="https://github.com/shazron">
-				<img src="https://private-avatars.githubusercontent.com/u/36107?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA2NDAsIm5iZiI6MTczNDY0OTQ0MCwicGF0aCI6Ii91LzM2MTA3In0.n2nHF_ktmOSStx3rvyjmEGDmSABnUW5jZEJ4onuZxCY&s=72&u=3753425749524f3d193c1f7edf965ec513ffae55&v=4" width="24" alt="Avatar of shazron"/> shazron
+				<img src="https://private-avatars.githubusercontent.com/u/36107?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91LzM2MTA3In0.NzNQWja4g4D7W3NhIhMaT0k8R4fUfSwStG1TBhOM6EY&s=72&u=3753425749524f3d193c1f7edf965ec513ffae55&v=4" width="24" alt="Avatar of shazron"/> shazron
 			</a><br/>
 			Shazron Abdullah
 		</td>
@@ -2583,7 +2583,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>191</td>
 		<td>
 			<a target="_blank" href="https://github.com/zwliew">
-				<img src="https://private-avatars.githubusercontent.com/u/4538946?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA1MjAsIm5iZiI6MTczNDY0OTMyMCwicGF0aCI6Ii91LzQ1Mzg5NDYifQ.bYRI1D1mCQS-gOwSys_oI3wuKK9IAJDv0DiL8P4iLCk&s=72&u=8260ff651fc64932b7f8135b14c736e44fc8bc74&v=4" width="24" alt="Avatar of zwliew"/> zwliew
+				<img src="https://private-avatars.githubusercontent.com/u/4538946?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1MjAsIm5iZiI6MTczNDY4NTMyMCwicGF0aCI6Ii91LzQ1Mzg5NDYifQ.xgKxOcaHMslajAcJgbACHAMWYRAk1KqxfG0i6X6-vzI&s=72&u=8260ff651fc64932b7f8135b14c736e44fc8bc74&v=4" width="24" alt="Avatar of zwliew"/> zwliew
 			</a><br/>
 			Zhao Wei Liew
 		</td>
@@ -2596,7 +2596,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>192</td>
 		<td>
 			<a target="_blank" href="https://github.com/yelinaung">
-				<img src="https://private-avatars.githubusercontent.com/u/275120?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA1ODAsIm5iZiI6MTczNDY0OTM4MCwicGF0aCI6Ii91LzI3NTEyMCJ9.Ie6fGITcdLmboXxAe1HHlgVS_eSKayLxcT5AiZrdM14&s=72&u=c96f445e510c305755caa6697c9d12fb7dd5a537&v=4" width="24" alt="Avatar of yelinaung"/> yelinaung
+				<img src="https://private-avatars.githubusercontent.com/u/275120?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1ODAsIm5iZiI6MTczNDY4NTM4MCwicGF0aCI6Ii91LzI3NTEyMCJ9.un6TP9ffBNBvh82bfh04C3KKv7yEPBKnUNli2iXpRgM&s=72&u=c96f445e510c305755caa6697c9d12fb7dd5a537&v=4" width="24" alt="Avatar of yelinaung"/> yelinaung
 			</a><br/>
 			Ye Lin Aung
 		</td>
@@ -2609,7 +2609,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>193</td>
 		<td>
 			<a target="_blank" href="https://github.com/sogko">
-				<img src="https://private-avatars.githubusercontent.com/u/78585?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA1ODAsIm5iZiI6MTczNDY0OTM4MCwicGF0aCI6Ii91Lzc4NTg1In0.-4A0Lk5rhAuVdBZzApUaO1zXah0xh1ravxcNnahdsH0&s=72&v=4" width="24" alt="Avatar of sogko"/> sogko
+				<img src="https://private-avatars.githubusercontent.com/u/78585?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1ODAsIm5iZiI6MTczNDY4NTM4MCwicGF0aCI6Ii91Lzc4NTg1In0.2X4IFhavB_b20jNn8il3EJ38UyZsYKWWuo_R6JrZc0I&s=72&v=4" width="24" alt="Avatar of sogko"/> sogko
 			</a><br/>
 			Hafiz Ismail
 		</td>
@@ -2622,7 +2622,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>194</td>
 		<td>
 			<a target="_blank" href="https://github.com/wtdcode">
-				<img src="https://private-avatars.githubusercontent.com/u/30623163?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4MjAsIm5iZiI6MTczNDY0OTYyMCwicGF0aCI6Ii91LzMwNjIzMTYzIn0.cexLnjI4unwJq8GPbomRrDfCLT9bqUcBmpuAAeTgAww&s=72&u=0349d29c906330eae5e106f37944c0e34ede49f5&v=4" width="24" alt="Avatar of wtdcode"/> wtdcode
+				<img src="https://private-avatars.githubusercontent.com/u/30623163?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4MjAsIm5iZiI6MTczNDY4NTYyMCwicGF0aCI6Ii91LzMwNjIzMTYzIn0.K5tYnpWJKxp7dpXPtndzEnq9dJJgB8pcPtbzpfWWuGI&s=72&u=0349d29c906330eae5e106f37944c0e34ede49f5&v=4" width="24" alt="Avatar of wtdcode"/> wtdcode
 			</a><br/>
 			lazymio
 		</td>
@@ -2635,7 +2635,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>195</td>
 		<td>
 			<a target="_blank" href="https://github.com/melvincwng">
-				<img src="https://private-avatars.githubusercontent.com/u/77479885?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA1MjAsIm5iZiI6MTczNDY0OTMyMCwicGF0aCI6Ii91Lzc3NDc5ODg1In0.rUerQYMYfSyMBflxzPatHatViYiUCrak1OmXnXF4zRs&s=72&u=cf28174ea31022bf2c738335e8ef04af7d0861fc&v=4" width="24" alt="Avatar of melvincwng"/> melvincwng
+				<img src="https://private-avatars.githubusercontent.com/u/77479885?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1MjAsIm5iZiI6MTczNDY4NTMyMCwicGF0aCI6Ii91Lzc3NDc5ODg1In0.mRZbaH-4ieRT6BEeAa8ORWttmeFcNFj17A-3Yc3HDc8&s=72&u=cf28174ea31022bf2c738335e8ef04af7d0861fc&v=4" width="24" alt="Avatar of melvincwng"/> melvincwng
 			</a><br/>
 			Melvin Ng RPh
 		</td>
@@ -2648,7 +2648,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>196</td>
 		<td>
 			<a target="_blank" href="https://github.com/huihongxiao">
-				<img src="https://private-avatars.githubusercontent.com/u/8307594?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA1ODAsIm5iZiI6MTczNDY0OTM4MCwicGF0aCI6Ii91LzgzMDc1OTQifQ.AASqZq-tE-hFO7Y-y_I2Oaz3xcny2RjrOFUshSgUyjs&s=72&u=027eb8b297a494f3b47f1819171f41e71563a12e&v=4" width="24" alt="Avatar of huihongxiao"/> huihongxiao
+				<img src="https://private-avatars.githubusercontent.com/u/8307594?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1ODAsIm5iZiI6MTczNDY4NTM4MCwicGF0aCI6Ii91LzgzMDc1OTQifQ.FLt71CwjlkrGpHftPnEHXWHlNz7_XC7sTyqlDrJaExg&s=72&u=027eb8b297a494f3b47f1819171f41e71563a12e&v=4" width="24" alt="Avatar of huihongxiao"/> huihongxiao
 			</a><br/>
 			HongHui Xiao
 		</td>
@@ -2661,7 +2661,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>197</td>
 		<td>
 			<a target="_blank" href="https://github.com/tpiros">
-				<img src="https://private-avatars.githubusercontent.com/u/2042718?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzIwNDI3MTgifQ.igod9drgMNTyssRgJiz3KA-b9dGQHxOtqzki4029ZIo&s=72&u=6730475b46e139c81cfb86fbca5420f1c4c38207&v=4" width="24" alt="Avatar of tpiros"/> tpiros
+				<img src="https://private-avatars.githubusercontent.com/u/2042718?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzIwNDI3MTgifQ.9xMakAoQTpHgNqCTA65geZIqDOvb7SWVktKj9bgmxxk&s=72&u=6730475b46e139c81cfb86fbca5420f1c4c38207&v=4" width="24" alt="Avatar of tpiros"/> tpiros
 			</a><br/>
 			Tamas Piros
 		</td>
@@ -2674,7 +2674,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>198</td>
 		<td>
 			<a target="_blank" href="https://github.com/AlnurFaisal">
-				<img src="https://private-avatars.githubusercontent.com/u/5437113?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4MjAsIm5iZiI6MTczNDY0OTYyMCwicGF0aCI6Ii91LzU0MzcxMTMifQ.Ry8h0Y9iwDLJuZEMGaq6tAefkdK_44pBvOWpr5g4mnA&s=72&u=a9236c6de355bd7d4631675f3545c097a34ebbe5&v=4" width="24" alt="Avatar of AlnurFaisal"/> AlnurFaisal
+				<img src="https://private-avatars.githubusercontent.com/u/5437113?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4MjAsIm5iZiI6MTczNDY4NTYyMCwicGF0aCI6Ii91LzU0MzcxMTMifQ._KHupRDGZXr2vrnL_Eq-vwUqj-157opExmjJIoeGHbU&s=72&u=a9236c6de355bd7d4631675f3545c097a34ebbe5&v=4" width="24" alt="Avatar of AlnurFaisal"/> AlnurFaisal
 			</a><br/>
 			Alnur Faisal
 		</td>
@@ -2687,7 +2687,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>199</td>
 		<td>
 			<a target="_blank" href="https://github.com/woojiahao">
-				<img src="https://private-avatars.githubusercontent.com/u/29497029?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA1ODAsIm5iZiI6MTczNDY0OTM4MCwicGF0aCI6Ii91LzI5NDk3MDI5In0.zq_pwL0D3btctF3RNMe970ELbmehlhYCiXJvZa8IBgM&s=72&u=c5664d254eb2a2bec4e36a0c2fd5caf39c64a6eb&v=4" width="24" alt="Avatar of woojiahao"/> woojiahao
+				<img src="https://private-avatars.githubusercontent.com/u/29497029?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1ODAsIm5iZiI6MTczNDY4NTM4MCwicGF0aCI6Ii91LzI5NDk3MDI5In0.yNtgpSJqwiCOfzxTKipf5M8sEdDO5LymsfERmq6Selw&s=72&u=c5664d254eb2a2bec4e36a0c2fd5caf39c64a6eb&v=4" width="24" alt="Avatar of woojiahao"/> woojiahao
 			</a><br/>
 			Jiahao
 		</td>
@@ -2700,7 +2700,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>200</td>
 		<td>
 			<a target="_blank" href="https://github.com/AlanWei">
-				<img src="https://private-avatars.githubusercontent.com/u/3828728?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzM4Mjg3MjgifQ.8pd6Vo3pPZiW_M3AoCRJHfCuT76FR10JndafMRQYMYw&s=72&u=7898b6859d560e8bc85953867661a9e66dcf0a25&v=4" width="24" alt="Avatar of AlanWei"/> AlanWei
+				<img src="https://private-avatars.githubusercontent.com/u/3828728?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODYyODAsIm5iZiI6MTczNDY4NTA4MCwicGF0aCI6Ii91LzM4Mjg3MjgifQ.ZuwP3UYvVK-3YELi4rWrLMKAUYOPeNy_3uejCK8L12A&s=72&u=7898b6859d560e8bc85953867661a9e66dcf0a25&v=4" width="24" alt="Avatar of AlanWei"/> AlanWei
 			</a><br/>
 			Alan Wei
 		</td>
@@ -2713,7 +2713,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>201</td>
 		<td>
 			<a target="_blank" href="https://github.com/Hsury">
-				<img src="https://private-avatars.githubusercontent.com/u/26821563?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEyNDAsIm5iZiI6MTczNDY1MDA0MCwicGF0aCI6Ii91LzI2ODIxNTYzIn0.aWmJ5TmlAxJwBKsqMiiU5jOKZpnir7VobwLav3hEc8k&s=72&u=b08a6b30d878d3d4f28e543d9a3cda7deecc3022&v=4" width="24" alt="Avatar of Hsury"/> Hsury
+				<img src="https://private-avatars.githubusercontent.com/u/26821563?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODYzNDAsIm5iZiI6MTczNDY4NTE0MCwicGF0aCI6Ii91LzI2ODIxNTYzIn0.bKsSYXgPlh99cZ-u0E3yE7dGyW5IeCPPGICiDF0Yg8A&s=72&u=b08a6b30d878d3d4f28e543d9a3cda7deecc3022&v=4" width="24" alt="Avatar of Hsury"/> Hsury
 			</a><br/>
 			Ruoyang
 		</td>
@@ -2726,7 +2726,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>202</td>
 		<td>
 			<a target="_blank" href="https://github.com/scofield7419">
-				<img src="https://private-avatars.githubusercontent.com/u/18722770?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4ODAsIm5iZiI6MTczNDY0OTY4MCwicGF0aCI6Ii91LzE4NzIyNzcwIn0.dAmKR6Eb6r29jAuC_MUx6ycRpRxbBTseVqktHnpP6dQ&s=72&u=c646832ebef87702dff76ed18a6439f2c0512c31&v=4" width="24" alt="Avatar of scofield7419"/> scofield7419
+				<img src="https://private-avatars.githubusercontent.com/u/18722770?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4ODAsIm5iZiI6MTczNDY4NTY4MCwicGF0aCI6Ii91LzE4NzIyNzcwIn0.71sFa9-l7lMjvfh7Aj2oNV251xQb9iQ9j3s3TWmlZA8&s=72&u=c646832ebef87702dff76ed18a6439f2c0512c31&v=4" width="24" alt="Avatar of scofield7419"/> scofield7419
 			</a><br/>
 			Hao Fei
 		</td>
@@ -2739,7 +2739,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>203</td>
 		<td>
 			<a target="_blank" href="https://github.com/vdt">
-				<img src="https://private-avatars.githubusercontent.com/u/1792491?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzMDAsIm5iZiI6MTczNDY1MDEwMCwicGF0aCI6Ii91LzE3OTI0OTEifQ.oDrGWkb_6ahRFHujjt-Za7cs9aoXAVYomyfI2yfSm7w&s=72&u=3d0ed4453521a31146922b1c3f6adf775e76db39&v=4" width="24" alt="Avatar of vdt"/> vdt
+				<img src="https://private-avatars.githubusercontent.com/u/1792491?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY0MDAsIm5iZiI6MTczNDY4NTIwMCwicGF0aCI6Ii91LzE3OTI0OTEifQ.VHWRK2LNpZOkogzjYnE5VoKisK8C4IAK0fczHNu9fWc&s=72&u=3d0ed4453521a31146922b1c3f6adf775e76db39&v=4" width="24" alt="Avatar of vdt"/> vdt
 			</a><br/>
 			Vikram Dutt
 		</td>
@@ -2752,7 +2752,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>204</td>
 		<td>
 			<a target="_blank" href="https://github.com/Lucas170">
-				<img src="https://private-avatars.githubusercontent.com/u/7984154?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA2NDAsIm5iZiI6MTczNDY0OTQ0MCwicGF0aCI6Ii91Lzc5ODQxNTQifQ.gcfCpQlHwFD8HsyTsba8Jke7sCfIudhjOYyd9ek15rk&s=72&u=6528320e02b1a99a04ddd9188b06970c5a4c0a1e&v=4" width="24" alt="Avatar of Lucas170"/> Lucas170
+				<img src="https://private-avatars.githubusercontent.com/u/7984154?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91Lzc5ODQxNTQifQ.kXxFUAs3ztG0FpZ0u_o63HyiCDwnembD7CW1q16g5ow&s=72&u=6528320e02b1a99a04ddd9188b06970c5a4c0a1e&v=4" width="24" alt="Avatar of Lucas170"/> Lucas170
 			</a><br/>
 			Lucas Liew
 		</td>
@@ -2765,7 +2765,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>205</td>
 		<td>
 			<a target="_blank" href="https://github.com/yongfook">
-				<img src="https://private-avatars.githubusercontent.com/u/30496?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzMDAsIm5iZiI6MTczNDY1MDEwMCwicGF0aCI6Ii91LzMwNDk2In0.2kK9SYnXefU7pHUU61cUXZ_LeSENJPpa17LaUImO8Z4&s=72&u=14de040846e051ae68fa893d181602d86e6267d4&v=4" width="24" alt="Avatar of yongfook"/> yongfook
+				<img src="https://private-avatars.githubusercontent.com/u/30496?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY0MDAsIm5iZiI6MTczNDY4NTIwMCwicGF0aCI6Ii91LzMwNDk2In0.D8IQd_KMSbO1uHpZYe5RmOkGvkCWtFuZhaeL_aiR8Jk&s=72&u=14de040846e051ae68fa893d181602d86e6267d4&v=4" width="24" alt="Avatar of yongfook"/> yongfook
 			</a><br/>
 			Jon Yongfook
 		</td>
@@ -2778,7 +2778,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>206</td>
 		<td>
 			<a target="_blank" href="https://github.com/DexterHuang">
-				<img src="https://private-avatars.githubusercontent.com/u/18545294?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzMDAsIm5iZiI6MTczNDY1MDEwMCwicGF0aCI6Ii91LzE4NTQ1Mjk0In0.vjGtmAYvafpx0424TboGyUitYGtNAjGBdXblIfs35Eg&s=72&u=fad162362cc66d12d3a615cb6ed8dc6f0c38305b&v=4" width="24" alt="Avatar of DexterHuang"/> DexterHuang
+				<img src="https://private-avatars.githubusercontent.com/u/18545294?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY0MDAsIm5iZiI6MTczNDY4NTIwMCwicGF0aCI6Ii91LzE4NTQ1Mjk0In0.OU0m_ncRuaEL8go2q3COhAcjUV204dt0prqbAp2b380&s=72&u=fad162362cc66d12d3a615cb6ed8dc6f0c38305b&v=4" width="24" alt="Avatar of DexterHuang"/> DexterHuang
 			</a><br/>
 			DexterHuang
 		</td>
@@ -2790,8 +2790,21 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 	<tr>
 		<td>207</td>
 		<td>
+			<a target="_blank" href="https://github.com/soujanyaporia">
+				<img src="https://private-avatars.githubusercontent.com/u/40890991?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4MjAsIm5iZiI6MTczNDY4NTYyMCwicGF0aCI6Ii91LzQwODkwOTkxIn0.Mr6vh_RHilC8pJJaNp5RuCz7NsgUEgwTm-px3aeo_io&s=72&u=5a85e55c22351c28d678e5190495570c25b8f2fe&v=4" width="24" alt="Avatar of soujanyaporia"/> soujanyaporia
+			</a><br/>
+			Soujanya Poria
+		</td>
+		<td>Singapore University Of Technology<br/>And<br/>Design<br/></td>
+		<td>No Twitter Username</td>
+		<td>Singapore</td>
+		<td>292</td>
+	</tr>
+	<tr>
+		<td>208</td>
+		<td>
 			<a target="_blank" href="https://github.com/kenken64">
-				<img src="https://private-avatars.githubusercontent.com/u/631205?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA5NDAsIm5iZiI6MTczNDY0OTc0MCwicGF0aCI6Ii91LzYzMTIwNSJ9.3VYOl3pFJL3KZ6xmqW0MBaDeOrYmrT27Ogga58i2isY&s=72&u=305283800c90e9038e76fb7e48320534a7f81b19&v=4" width="24" alt="Avatar of kenken64"/> kenken64
+				<img src="https://private-avatars.githubusercontent.com/u/631205?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY5NDAsIm5iZiI6MTczNDY4NTc0MCwicGF0aCI6Ii91LzYzMTIwNSJ9.RjvRgfNJYeSViMcuBmLwPRyxqn7ZMV8K6Abks6N27fo&s=72&u=305283800c90e9038e76fb7e48320534a7f81b19&v=4" width="24" alt="Avatar of kenken64"/> kenken64
 			</a><br/>
 			Kenken64 Kenneth
 		</td>
@@ -2801,23 +2814,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>291</td>
 	</tr>
 	<tr>
-		<td>208</td>
-		<td>
-			<a target="_blank" href="https://github.com/soujanyaporia">
-				<img src="https://private-avatars.githubusercontent.com/u/40890991?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4MjAsIm5iZiI6MTczNDY0OTYyMCwicGF0aCI6Ii91LzQwODkwOTkxIn0.WPGFR0wSaWoe28xO5D7YxUhY1e-2KU--zcZV-GaIyNM&s=72&u=5a85e55c22351c28d678e5190495570c25b8f2fe&v=4" width="24" alt="Avatar of soujanyaporia"/> soujanyaporia
-			</a><br/>
-			Soujanya Poria
-		</td>
-		<td>Singapore University Of Technology<br/>And<br/>Design<br/></td>
-		<td>No Twitter Username</td>
-		<td>Singapore</td>
-		<td>291</td>
-	</tr>
-	<tr>
 		<td>209</td>
 		<td>
 			<a target="_blank" href="https://github.com/LiHongbo97">
-				<img src="https://private-avatars.githubusercontent.com/u/24786324?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA1MjAsIm5iZiI6MTczNDY0OTMyMCwicGF0aCI6Ii91LzI0Nzg2MzI0In0.DZ6RioOaCwYCGIyMHM83l3ynbFcwBQB2c_xkRY9Cd5w&s=72&u=fc661cbaefbdca25826af69e8bac4d23d57d33fc&v=4" width="24" alt="Avatar of LiHongbo97"/> LiHongbo97
+				<img src="https://private-avatars.githubusercontent.com/u/24786324?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1MjAsIm5iZiI6MTczNDY4NTMyMCwicGF0aCI6Ii91LzI0Nzg2MzI0In0.BXDLPgqywaofaLTb4rm8YgGsVDFIXMETmUsBOuwHSpU&s=72&u=fc661cbaefbdca25826af69e8bac4d23d57d33fc&v=4" width="24" alt="Avatar of LiHongbo97"/> LiHongbo97
 			</a><br/>
 			Hongbo Li
 		</td>
@@ -2830,20 +2830,20 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>210</td>
 		<td>
 			<a target="_blank" href="https://github.com/jin">
-				<img src="https://private-avatars.githubusercontent.com/u/347918?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA0NjAsIm5iZiI6MTczNDY0OTI2MCwicGF0aCI6Ii91LzM0NzkxOCJ9.8uNyVGy1Pv-WR91wvqcRfN1OGDt9Yi9pEGr_WwjCuBY&s=72&u=a411d298ac16ccc2f2ba4337225cc1778c64c56e&v=4" width="24" alt="Avatar of jin"/> jin
+				<img src="https://private-avatars.githubusercontent.com/u/347918?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY0NjAsIm5iZiI6MTczNDY4NTI2MCwicGF0aCI6Ii91LzM0NzkxOCJ9.oRnpFve_Jz8lOIXcSa7WtKguf7rDtuhSNz8gS7UfcWk&s=72&u=a411d298ac16ccc2f2ba4337225cc1778c64c56e&v=4" width="24" alt="Avatar of jin"/> jin
 			</a><br/>
 			Jin
 		</td>
 		<td>Google </td>
 		<td><a target="_blank" href="https://twitter.com/jin_">jin_</a></td>
 		<td>Singapore</td>
-		<td>283</td>
+		<td>284</td>
 	</tr>
 	<tr>
 		<td>211</td>
 		<td>
 			<a target="_blank" href="https://github.com/7kms">
-				<img src="https://private-avatars.githubusercontent.com/u/12625342?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA5NDAsIm5iZiI6MTczNDY0OTc0MCwicGF0aCI6Ii91LzEyNjI1MzQyIn0.Di4uIHLtHhfsTmoeNjaPz5PiPC5g733muvBv9WmuuRk&s=72&u=1548d9cb8bd763f138e98849b4ed18b8cad95ab7&v=4" width="24" alt="Avatar of 7kms"/> 7kms
+				<img src="https://private-avatars.githubusercontent.com/u/12625342?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY5NDAsIm5iZiI6MTczNDY4NTc0MCwicGF0aCI6Ii91LzEyNjI1MzQyIn0.EYgQ1gwJe_VoFnUpQEFPFOTXGKTFdYbpTqlKXAax8cA&s=72&u=1548d9cb8bd763f138e98849b4ed18b8cad95ab7&v=4" width="24" alt="Avatar of 7kms"/> 7kms
 			</a><br/>
 			Liam
 		</td>
@@ -2856,7 +2856,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>212</td>
 		<td>
 			<a target="_blank" href="https://github.com/yulu">
-				<img src="https://private-avatars.githubusercontent.com/u/3497980?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4ODAsIm5iZiI6MTczNDY0OTY4MCwicGF0aCI6Ii91LzM0OTc5ODAifQ.vjpQjVxz_X9LafSIkCrACU2SiLvLm3iTqmPHEut1w-g&s=72&v=4" width="24" alt="Avatar of yulu"/> yulu
+				<img src="https://private-avatars.githubusercontent.com/u/3497980?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4ODAsIm5iZiI6MTczNDY4NTY4MCwicGF0aCI6Ii91LzM0OTc5ODAifQ.5XogYEbgVuTUvyxNA0IynXLt5wG4gCx_JDWiL_PiEiU&s=72&v=4" width="24" alt="Avatar of yulu"/> yulu
 			</a><br/>
 			Yu Lu
 		</td>
@@ -2869,7 +2869,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>213</td>
 		<td>
 			<a target="_blank" href="https://github.com/hrishioa">
-				<img src="https://private-avatars.githubusercontent.com/u/973967?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91Lzk3Mzk2NyJ9.aOGgWW9nYh6jwwiZsUMBb_n-NIp7vmJGnmsVXHDuITE&s=72&u=a0b7427029ca9aed8133316aef4ebfb06e6a94f9&v=4" width="24" alt="Avatar of hrishioa"/> hrishioa
+				<img src="https://private-avatars.githubusercontent.com/u/973967?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91Lzk3Mzk2NyJ9.YIo97kbh1_Etl6gpKExTxxF84BfmzF_UC_hGw4SMRVc&s=72&u=a0b7427029ca9aed8133316aef4ebfb06e6a94f9&v=4" width="24" alt="Avatar of hrishioa"/> hrishioa
 			</a><br/>
 			Hrishi Olickel
 		</td>
@@ -2882,7 +2882,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>214</td>
 		<td>
 			<a target="_blank" href="https://github.com/alyssaq">
-				<img src="https://private-avatars.githubusercontent.com/u/2819448?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEyNDAsIm5iZiI6MTczNDY1MDA0MCwicGF0aCI6Ii91LzI4MTk0NDgifQ.dloh9vC3HUVt0HJloVuPjBACebnq5uUlSyD18hCqL90&s=72&v=4" width="24" alt="Avatar of alyssaq"/> alyssaq
+				<img src="https://private-avatars.githubusercontent.com/u/2819448?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODYzNDAsIm5iZiI6MTczNDY4NTE0MCwicGF0aCI6Ii91LzI4MTk0NDgifQ.wmWpXVdXKh54zdRUdO8Gvq79n2nH1xje2sPJVZCTuew&s=72&v=4" width="24" alt="Avatar of alyssaq"/> alyssaq
 			</a><br/>
 			Alyssa Quek
 		</td>
@@ -2895,7 +2895,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>215</td>
 		<td>
 			<a target="_blank" href="https://github.com/kaiwren">
-				<img src="https://private-avatars.githubusercontent.com/u/19141?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEyNDAsIm5iZiI6MTczNDY1MDA0MCwicGF0aCI6Ii91LzE5MTQxIn0.4VteLDfJZk2KtpwCIiU3JGd0iLhGGvsCzK6Pq5x0tv4&s=72&v=4" width="24" alt="Avatar of kaiwren"/> kaiwren
+				<img src="https://private-avatars.githubusercontent.com/u/19141?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODYzNDAsIm5iZiI6MTczNDY4NTE0MCwicGF0aCI6Ii91LzE5MTQxIn0.VB9QAceeKSES8VUI_xBtmOKM1upMDfGGCIDd-0caHbE&s=72&v=4" width="24" alt="Avatar of kaiwren"/> kaiwren
 			</a><br/>
 			Sidu Ponnappa
 		</td>
@@ -2908,7 +2908,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>216</td>
 		<td>
 			<a target="_blank" href="https://github.com/ziqihuangg">
-				<img src="https://private-avatars.githubusercontent.com/u/66513392?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEyNDAsIm5iZiI6MTczNDY1MDA0MCwicGF0aCI6Ii91LzY2NTEzMzkyIn0.7zC5v908R6H3XusZa9T-mAOG0wsZWeJuFnfV-vGuLT4&s=72&u=568ae9b74d766779557b9dc2c6ef0833ba34af19&v=4" width="24" alt="Avatar of ziqihuangg"/> ziqihuangg
+				<img src="https://private-avatars.githubusercontent.com/u/66513392?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODYzNDAsIm5iZiI6MTczNDY4NTE0MCwicGF0aCI6Ii91LzY2NTEzMzkyIn0.8CMqssz_CBdlh_-cQis3XrXgpDPsGnPzQ0J9GoQ-hm8&s=72&u=568ae9b74d766779557b9dc2c6ef0833ba34af19&v=4" width="24" alt="Avatar of ziqihuangg"/> ziqihuangg
 			</a><br/>
 			Ziqi Huang
 		</td>
@@ -2921,7 +2921,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>217</td>
 		<td>
 			<a target="_blank" href="https://github.com/lesterchan">
-				<img src="https://private-avatars.githubusercontent.com/u/355829?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwMDAsIm5iZiI6MTczNDY0OTgwMCwicGF0aCI6Ii91LzM1NTgyOSJ9.HcxpyGRnHJQWuLMOCz2wH9EnPd7rfLr51s-BsrBZBxk&s=72&u=4e9e2db210369c070d319cf5d5aeba8ca426fede&v=4" width="24" alt="Avatar of lesterchan"/> lesterchan
+				<img src="https://private-avatars.githubusercontent.com/u/355829?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwMDAsIm5iZiI6MTczNDY4NTgwMCwicGF0aCI6Ii91LzM1NTgyOSJ9.h0slxI1tQ-5bQBNDC-P8ld8qyy_ilMFPKqeIAmwl5pU&s=72&u=4e9e2db210369c070d319cf5d5aeba8ca426fede&v=4" width="24" alt="Avatar of lesterchan"/> lesterchan
 			</a><br/>
 			Lester Chan
 		</td>
@@ -2934,7 +2934,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>218</td>
 		<td>
 			<a target="_blank" href="https://github.com/Jingkang50">
-				<img src="https://private-avatars.githubusercontent.com/u/17070708?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA2NDAsIm5iZiI6MTczNDY0OTQ0MCwicGF0aCI6Ii91LzE3MDcwNzA4In0.Y6Wb8WRKsUap8pdGms72xEQ7NzdmPbspEhZtNtcYlUE&s=72&u=5ae3b32849104051c717162260208780bcd9236f&v=4" width="24" alt="Avatar of Jingkang50"/> Jingkang50
+				<img src="https://private-avatars.githubusercontent.com/u/17070708?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91LzE3MDcwNzA4In0.V_GGyO1Qg4qM6g09z1O0hZo03jkF5Ln7VrIBFwwb0w0&s=72&u=5ae3b32849104051c717162260208780bcd9236f&v=4" width="24" alt="Avatar of Jingkang50"/> Jingkang50
 			</a><br/>
 			Jingkang Yang
 		</td>
@@ -2947,7 +2947,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>219</td>
 		<td>
 			<a target="_blank" href="https://github.com/yueliu1999">
-				<img src="https://private-avatars.githubusercontent.com/u/41297969?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwMDAsIm5iZiI6MTczNDY0OTgwMCwicGF0aCI6Ii91LzQxMjk3OTY5In0.kATzUAJLvV6R2ovLH5MIXgDCcyb5MqVWd7uAdtfHNic&s=72&u=8d26866a0ae59a39fc468825875909c8903add8e&v=4" width="24" alt="Avatar of yueliu1999"/> yueliu1999
+				<img src="https://private-avatars.githubusercontent.com/u/41297969?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwMDAsIm5iZiI6MTczNDY4NTgwMCwicGF0aCI6Ii91LzQxMjk3OTY5In0.sl5J8xZ_Vdku2vfw19GoPnkztfdmiYJxmg4BK-oFKHQ&s=72&u=8d26866a0ae59a39fc468825875909c8903add8e&v=4" width="24" alt="Avatar of yueliu1999"/> yueliu1999
 			</a><br/>
 			yueliu1999
 		</td>
@@ -2960,7 +2960,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>220</td>
 		<td>
 			<a target="_blank" href="https://github.com/deancn">
-				<img src="https://private-avatars.githubusercontent.com/u/1617384?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzE2MTczODQifQ.xr29mDGGOC9OUlhA6xDVvbEMUxGCxBI9l_aiVOoYjvk&s=72&u=bd0613954340ac07f687e73bb1557cce35157461&v=4" width="24" alt="Avatar of deancn"/> deancn
+				<img src="https://private-avatars.githubusercontent.com/u/1617384?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzE2MTczODQifQ.MF_gkQAu6_GZE3uzhXzlLejmXw0lOeoo57hCXGKAJE0&s=72&u=bd0613954340ac07f687e73bb1557cce35157461&v=4" width="24" alt="Avatar of deancn"/> deancn
 			</a><br/>
 			Dean CN
 		</td>
@@ -2973,7 +2973,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>221</td>
 		<td>
 			<a target="_blank" href="https://github.com/dukedaily">
-				<img src="https://private-avatars.githubusercontent.com/u/57478150?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA2NDAsIm5iZiI6MTczNDY0OTQ0MCwicGF0aCI6Ii91LzU3NDc4MTUwIn0.fyTeEFASXmZt6ofSSVDQ2yrCoPDkwrOQZn3qxJPxOMk&s=72&u=2ffdd9f54c69ff8aad109eed4f535f792ab62704&v=4" width="24" alt="Avatar of dukedaily"/> dukedaily
+				<img src="https://private-avatars.githubusercontent.com/u/57478150?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91LzU3NDc4MTUwIn0.o9zcvc-5jjJiQDSNoSHBAomegRRy_urmUGMDfGHBAk4&s=72&u=2ffdd9f54c69ff8aad109eed4f535f792ab62704&v=4" width="24" alt="Avatar of dukedaily"/> dukedaily
 			</a><br/>
 			dukedu
 		</td>
@@ -2986,7 +2986,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>222</td>
 		<td>
 			<a target="_blank" href="https://github.com/SachaEpskamp">
-				<img src="https://private-avatars.githubusercontent.com/u/1207242?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA2NDAsIm5iZiI6MTczNDY0OTQ0MCwicGF0aCI6Ii91LzEyMDcyNDIifQ.ZJB_6p79_O_fN5yVsWYLjU6OtnBRpT2uQBosAzXTwJM&s=72&u=ff98feec958a4ed63f8be89f24871949f555a83c&v=4" width="24" alt="Avatar of SachaEpskamp"/> SachaEpskamp
+				<img src="https://private-avatars.githubusercontent.com/u/1207242?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91LzEyMDcyNDIifQ.2w_hxzc4xO3LkSF-UDJCRLGZEh2KNwxkWV2obQ0_V0w&s=72&u=ff98feec958a4ed63f8be89f24871949f555a83c&v=4" width="24" alt="Avatar of SachaEpskamp"/> SachaEpskamp
 			</a><br/>
 			Sacha Epskamp
 		</td>
@@ -2999,7 +2999,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>223</td>
 		<td>
 			<a target="_blank" href="https://github.com/creativepsyco">
-				<img src="https://private-avatars.githubusercontent.com/u/547235?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzU0NzIzNSJ9.Q24CXYU1baXrGe33W81u9efFiCg7wqF4NrgEl3Mhfhs&s=72&u=da11815e97e4524adb89212d60d7bf0d2fbec101&v=4" width="24" alt="Avatar of creativepsyco"/> creativepsyco
+				<img src="https://private-avatars.githubusercontent.com/u/547235?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzU0NzIzNSJ9.Jxq1LhuwXMx8XGegFRi_I_BkQaqTBFvchdIde5P_bw8&s=72&u=da11815e97e4524adb89212d60d7bf0d2fbec101&v=4" width="24" alt="Avatar of creativepsyco"/> creativepsyco
 			</a><br/>
 			Mohit Kanwal
 		</td>
@@ -3012,7 +3012,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>224</td>
 		<td>
 			<a target="_blank" href="https://github.com/weilu">
-				<img src="https://private-avatars.githubusercontent.com/u/412533?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzQxMjUzMyJ9.OlV1exS40T-OoqKBoUdAT0Q09-5ON6-8ITBf8WOMPDg&s=72&v=4" width="24" alt="Avatar of weilu"/> weilu
+				<img src="https://private-avatars.githubusercontent.com/u/412533?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzQxMjUzMyJ9.p0H9zyu_8t7NCXZdTQrpQ3n1AsNdDEoThw0L4_5UGnk&s=72&v=4" width="24" alt="Avatar of weilu"/> weilu
 			</a><br/>
 			Wei Lu
 		</td>
@@ -3025,7 +3025,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>225</td>
 		<td>
 			<a target="_blank" href="https://github.com/thebengeu">
-				<img src="https://private-avatars.githubusercontent.com/u/1154867?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA5NDAsIm5iZiI6MTczNDY0OTc0MCwicGF0aCI6Ii91LzExNTQ4NjcifQ.1w3fXjWYml5D_8YRQYF23kRkkFw1jodz2_qEaUOWpsw&s=72&u=14a741e1410656d21dc10c8f2210673378d12faa&v=4" width="24" alt="Avatar of thebengeu"/> thebengeu
+				<img src="https://private-avatars.githubusercontent.com/u/1154867?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY5NDAsIm5iZiI6MTczNDY4NTc0MCwicGF0aCI6Ii91LzExNTQ4NjcifQ.H65lF9yHpvmhdwfOHGm0Y-O7cYZd_JwqGrMjLenm8j4&s=72&u=14a741e1410656d21dc10c8f2210673378d12faa&v=4" width="24" alt="Avatar of thebengeu"/> thebengeu
 			</a><br/>
 			Beng Eu
 		</td>
@@ -3038,7 +3038,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>226</td>
 		<td>
 			<a target="_blank" href="https://github.com/numencyber">
-				<img src="https://private-avatars.githubusercontent.com/u/91452046?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwMDAsIm5iZiI6MTczNDY0OTgwMCwicGF0aCI6Ii91LzkxNDUyMDQ2In0.DXhilpNhod6gqvrwmxVNXURHu36lCYXHTJBCbC8EV7U&s=72&u=c33ee05b824066c2f9e276d8e882fa37dce38846&v=4" width="24" alt="Avatar of numencyber"/> numencyber
+				<img src="https://private-avatars.githubusercontent.com/u/91452046?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwMDAsIm5iZiI6MTczNDY4NTgwMCwicGF0aCI6Ii91LzkxNDUyMDQ2In0.Fs5guQ3RNAOyE5VHp8D7jR5RAdouoQ9TXlH0dEZJpIY&s=72&u=c33ee05b824066c2f9e276d8e882fa37dce38846&v=4" width="24" alt="Avatar of numencyber"/> numencyber
 			</a><br/>
 			Numen Cyber
 		</td>
@@ -3051,7 +3051,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>227</td>
 		<td>
 			<a target="_blank" href="https://github.com/jamesbuckett">
-				<img src="https://private-avatars.githubusercontent.com/u/18049790?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA5NDAsIm5iZiI6MTczNDY0OTc0MCwicGF0aCI6Ii91LzE4MDQ5NzkwIn0.eEwIti7Zv0P8ruJCN1n-wtGwR767XQ0Z6llXaXNQHuQ&s=72&u=0a739f1c3ed737fd8cf8becc4fb9870413f60574&v=4" width="24" alt="Avatar of jamesbuckett"/> jamesbuckett
+				<img src="https://private-avatars.githubusercontent.com/u/18049790?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY5NDAsIm5iZiI6MTczNDY4NTc0MCwicGF0aCI6Ii91LzE4MDQ5NzkwIn0.bixn6-lBkO34EyYe5j_-uccdEhYFoBFzk1kf0Pi2o8U&s=72&u=0a739f1c3ed737fd8cf8becc4fb9870413f60574&v=4" width="24" alt="Avatar of jamesbuckett"/> jamesbuckett
 			</a><br/>
 			James Buckett
 		</td>
@@ -3064,7 +3064,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>228</td>
 		<td>
 			<a target="_blank" href="https://github.com/lxcid">
-				<img src="https://private-avatars.githubusercontent.com/u/297156?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzNjAsIm5iZiI6MTczNDY1MDE2MCwicGF0aCI6Ii91LzI5NzE1NiJ9.hcyc8iW_XHtXJeF35s2Kkf-jOJeEacLIh7PIZ7JbCHs&s=72&v=4" width="24" alt="Avatar of lxcid"/> lxcid
+				<img src="https://private-avatars.githubusercontent.com/u/297156?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY0NjAsIm5iZiI6MTczNDY4NTI2MCwicGF0aCI6Ii91LzI5NzE1NiJ9.hGVxqokkNWBMWlJo8VXEDM9kr4piNUPgt62oteq-RAE&s=72&v=4" width="24" alt="Avatar of lxcid"/> lxcid
 			</a><br/>
 			Stan Chang
 		</td>
@@ -3077,7 +3077,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>229</td>
 		<td>
 			<a target="_blank" href="https://github.com/wjq990112">
-				<img src="https://private-avatars.githubusercontent.com/u/45777252?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA1ODAsIm5iZiI6MTczNDY0OTM4MCwicGF0aCI6Ii91LzQ1Nzc3MjUyIn0.68IEdh7t4ZxqCk40obVJi83orxtYx8WqpaKXw990j2Y&s=72&u=bf6eb9131f27829c4e79ec6db4195e17ae365fe8&v=4" width="24" alt="Avatar of wjq990112"/> wjq990112
+				<img src="https://private-avatars.githubusercontent.com/u/45777252?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1ODAsIm5iZiI6MTczNDY4NTM4MCwicGF0aCI6Ii91LzQ1Nzc3MjUyIn0.Z-a0A_ADHpAUdxTJ3vBY5iooySbuBH1s7BkvNGxINe8&s=72&u=bf6eb9131f27829c4e79ec6db4195e17ae365fe8&v=4" width="24" alt="Avatar of wjq990112"/> wjq990112
 			</a><br/>
 			J4ck W4n9
 		</td>
@@ -3090,7 +3090,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>230</td>
 		<td>
 			<a target="_blank" href="https://github.com/Raysmond">
-				<img src="https://private-avatars.githubusercontent.com/u/4071863?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4ODAsIm5iZiI6MTczNDY0OTY4MCwicGF0aCI6Ii91LzQwNzE4NjMifQ.aHEV0NV1KiQrwxZK9efPThJM3mG9X7pKsUeXb3odYq8&s=72&u=0fcce283e11ceb4dbc85b42af402262ac07e5ea6&v=4" width="24" alt="Avatar of Raysmond"/> Raysmond
+				<img src="https://private-avatars.githubusercontent.com/u/4071863?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4ODAsIm5iZiI6MTczNDY4NTY4MCwicGF0aCI6Ii91LzQwNzE4NjMifQ.l6HJ8XbYQXfYmTaWLxh3gzTLXyyH8IVLOUx8ZHaVq7Q&s=72&u=0fcce283e11ceb4dbc85b42af402262ac07e5ea6&v=4" width="24" alt="Avatar of Raysmond"/> Raysmond
 			</a><br/>
 			Raysmond
 		</td>
@@ -3103,7 +3103,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>231</td>
 		<td>
 			<a target="_blank" href="https://github.com/sol">
-				<img src="https://private-avatars.githubusercontent.com/u/461132?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzQ2MTEzMiJ9.sOBNG3Vnon0WjSW_SwnpFO11a5NAJza1c9_hJgaqVD4&s=72&u=7d44dc89642d3a37a5c0d2332f395a2ec01c584d&v=4" width="24" alt="Avatar of sol"/> sol
+				<img src="https://private-avatars.githubusercontent.com/u/461132?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxODAsIm5iZiI6MTczNDY4NTk4MCwicGF0aCI6Ii91LzQ2MTEzMiJ9.dKHoax8aVrPLOjA0aUHwm0x_fEDzFkPk4yvUCA8-UGs&s=72&u=7d44dc89642d3a37a5c0d2332f395a2ec01c584d&v=4" width="24" alt="Avatar of sol"/> sol
 			</a><br/>
 			Simon Hengel
 		</td>
@@ -3116,7 +3116,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>232</td>
 		<td>
 			<a target="_blank" href="https://github.com/IceClear">
-				<img src="https://private-avatars.githubusercontent.com/u/22350795?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3MDAsIm5iZiI6MTczNDY0OTUwMCwicGF0aCI6Ii91LzIyMzUwNzk1In0.ENQXQbsPFK61vXuLDc3SDs_jnUyNWRYZydD4EJqvJAs&s=72&u=72c242759ed97d04d5ee5fcd6d63722dbbca22f9&v=4" width="24" alt="Avatar of IceClear"/> IceClear
+				<img src="https://private-avatars.githubusercontent.com/u/22350795?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3MDAsIm5iZiI6MTczNDY4NTUwMCwicGF0aCI6Ii91LzIyMzUwNzk1In0.9zmvOZ4ST1szz7TJQuAEC5e522qN0yOwFKuCxD0B5mc&s=72&u=72c242759ed97d04d5ee5fcd6d63722dbbca22f9&v=4" width="24" alt="Avatar of IceClear"/> IceClear
 			</a><br/>
 			Jianyi Wang
 		</td>
@@ -3129,7 +3129,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>233</td>
 		<td>
 			<a target="_blank" href="https://github.com/cypw">
-				<img src="https://private-avatars.githubusercontent.com/u/13816895?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA1ODAsIm5iZiI6MTczNDY0OTM4MCwicGF0aCI6Ii91LzEzODE2ODk1In0.16b3dB2jgVh79fk9eG8M_k-5cMYe2H3SleJIHQiVoq8&s=72&u=b14ec1d384c6a645811bab39cc9b619224720290&v=4" width="24" alt="Avatar of cypw"/> cypw
+				<img src="https://private-avatars.githubusercontent.com/u/13816895?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1ODAsIm5iZiI6MTczNDY4NTM4MCwicGF0aCI6Ii91LzEzODE2ODk1In0.71UqjPFglfz7xI0UbWGraGaXVlB1RUcJ9iKp9iSzlw0&s=72&u=b14ec1d384c6a645811bab39cc9b619224720290&v=4" width="24" alt="Avatar of cypw"/> cypw
 			</a><br/>
 			Yunpeng
 		</td>
@@ -3142,7 +3142,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>234</td>
 		<td>
 			<a target="_blank" href="https://github.com/Sierkinhane">
-				<img src="https://private-avatars.githubusercontent.com/u/41798797?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4ODAsIm5iZiI6MTczNDY0OTY4MCwicGF0aCI6Ii91LzQxNzk4Nzk3In0.rlpoPB9EcHoYeBzoJJHi_7TY2049Oy-zJjdNU5MM45w&s=72&u=9e15d389bdc3232e878574b02ff5a6ed107c987d&v=4" width="24" alt="Avatar of Sierkinhane"/> Sierkinhane
+				<img src="https://private-avatars.githubusercontent.com/u/41798797?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4ODAsIm5iZiI6MTczNDY4NTY4MCwicGF0aCI6Ii91LzQxNzk4Nzk3In0.Gx6RmUWM7bXZIwj3MLCFhnyBuAN-mN9raACT77bvSFY&s=72&u=9e15d389bdc3232e878574b02ff5a6ed107c987d&v=4" width="24" alt="Avatar of Sierkinhane"/> Sierkinhane
 			</a><br/>
 			Jinheng Xie
 		</td>
@@ -3155,7 +3155,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>235</td>
 		<td>
 			<a target="_blank" href="https://github.com/chi-feng">
-				<img src="https://private-avatars.githubusercontent.com/u/336681?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4ODAsIm5iZiI6MTczNDY0OTY4MCwicGF0aCI6Ii91LzMzNjY4MSJ9.T6N_JaTjw01UdEI4qMpLJ0C4zSYw5fg6cNlOeX0lp9o&s=72&u=636bbf1c6e6812dceb491723129c59cec64d2098&v=4" width="24" alt="Avatar of chi-feng"/> chi-feng
+				<img src="https://private-avatars.githubusercontent.com/u/336681?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4ODAsIm5iZiI6MTczNDY4NTY4MCwicGF0aCI6Ii91LzMzNjY4MSJ9.4SOUGJT1if2RzjAJE7raW62M8t9AauwX2ioUi5kGRWI&s=72&u=636bbf1c6e6812dceb491723129c59cec64d2098&v=4" width="24" alt="Avatar of chi-feng"/> chi-feng
 			</a><br/>
 			Chi Feng
 		</td>
@@ -3168,7 +3168,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>236</td>
 		<td>
 			<a target="_blank" href="https://github.com/kaiwang960112">
-				<img src="https://private-avatars.githubusercontent.com/u/37533040?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEyNDAsIm5iZiI6MTczNDY1MDA0MCwicGF0aCI6Ii91LzM3NTMzMDQwIn0.T0BpBmgiPOUdNZm3i6KSgw85Ck4DyPV-AA-260PRJiE&s=72&u=eb71d9dc328f15001645f8815a793744d8268ff1&v=4" width="24" alt="Avatar of kaiwang960112"/> kaiwang960112
+				<img src="https://private-avatars.githubusercontent.com/u/37533040?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODYzNDAsIm5iZiI6MTczNDY4NTE0MCwicGF0aCI6Ii91LzM3NTMzMDQwIn0.fVmv_EvRrS6pgxotnjliNg40pcWPd0LOZ7eyB4Fxo6g&s=72&u=eb71d9dc328f15001645f8815a793744d8268ff1&v=4" width="24" alt="Avatar of kaiwang960112"/> kaiwang960112
 			</a><br/>
 			Kai Wang Victor Kai
 		</td>
@@ -3181,7 +3181,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>237</td>
 		<td>
 			<a target="_blank" href="https://github.com/JailBreakC">
-				<img src="https://private-avatars.githubusercontent.com/u/7326583?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzczMjY1ODMifQ.-I1muAB-3v0-w7BW1g_MQzqcI2IU-gOJTkTxrHESKqw&s=72&u=2bec0a7831d7e45d539d19652e4bb7226d6f26f6&v=4" width="24" alt="Avatar of JailBreakC"/> JailBreakC
+				<img src="https://private-avatars.githubusercontent.com/u/7326583?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzczMjY1ODMifQ.MwseanIelWAyDRW2GcVGNr3fdvdSpgPcb30Wvx91afM&s=72&u=2bec0a7831d7e45d539d19652e4bb7226d6f26f6&v=4" width="24" alt="Avatar of JailBreakC"/> JailBreakC
 			</a><br/>
 			Bieber
 		</td>
@@ -3194,7 +3194,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>238</td>
 		<td>
 			<a target="_blank" href="https://github.com/jaspershen">
-				<img src="https://private-avatars.githubusercontent.com/u/13146969?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3NjAsIm5iZiI6MTczNDY0OTU2MCwicGF0aCI6Ii91LzEzMTQ2OTY5In0.xUd4umrz_QP2uPm8cUiT8O9gcxMdryuowJ8oPiaAlFI&s=72&u=4c0b203536b5cbeab8b6c31af9d36dd717346321&v=4" width="24" alt="Avatar of jaspershen"/> jaspershen
+				<img src="https://private-avatars.githubusercontent.com/u/13146969?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91LzEzMTQ2OTY5In0.CDNqxvDO_8hvJKC5PDNqITOaaVd-UKsMay9eR0RAHUY&s=72&u=4c0b203536b5cbeab8b6c31af9d36dd717346321&v=4" width="24" alt="Avatar of jaspershen"/> jaspershen
 			</a><br/>
 			Xiaotao Shen
 		</td>
@@ -3206,8 +3206,21 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 	<tr>
 		<td>239</td>
 		<td>
+			<a target="_blank" href="https://github.com/iamgini">
+				<img src="https://private-avatars.githubusercontent.com/u/4469813?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY0MDAsIm5iZiI6MTczNDY4NTIwMCwicGF0aCI6Ii91LzQ0Njk4MTMifQ.4tDS4unw83WyyS8KyIuOJKBY0KyvqI_b_LZ0X8MXkeM&s=72&u=af0f1739759818f40b8c8370e4cd81c2449730c4&v=4" width="24" alt="Avatar of iamgini"/> iamgini
+			</a><br/>
+			Gineesh Madapparambath
+		</td>
+		<td>Red Hat </td>
+		<td><a target="_blank" href="https://twitter.com/iamgineesh">iamgineesh</a></td>
+		<td>Singapore</td>
+		<td>255</td>
+	</tr>
+	<tr>
+		<td>240</td>
+		<td>
 			<a target="_blank" href="https://github.com/virgil">
-				<img src="https://private-avatars.githubusercontent.com/u/81322?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzMDAsIm5iZiI6MTczNDY1MDEwMCwicGF0aCI6Ii91LzgxMzIyIn0.ePglF1TpC3Rz2d31KDIDuiF6SYAHGFBdZ4QqKFywjEI&s=72&u=a62c16d1a465a14d2098d2422e7afca38ce41c78&v=4" width="24" alt="Avatar of virgil"/> virgil
+				<img src="https://private-avatars.githubusercontent.com/u/81322?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY0MDAsIm5iZiI6MTczNDY4NTIwMCwicGF0aCI6Ii91LzgxMzIyIn0.49KlKPpXt5X03zYXRZd38_27wY_DeOoT_xnl_IfTe3I&s=72&u=a62c16d1a465a14d2098d2422e7afca38ce41c78&v=4" width="24" alt="Avatar of virgil"/> virgil
 			</a><br/>
 			Virgil Griffith
 		</td>
@@ -3217,23 +3230,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>255</td>
 	</tr>
 	<tr>
-		<td>240</td>
-		<td>
-			<a target="_blank" href="https://github.com/iamgini">
-				<img src="https://private-avatars.githubusercontent.com/u/4469813?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzMDAsIm5iZiI6MTczNDY1MDEwMCwicGF0aCI6Ii91LzQ0Njk4MTMifQ.pjWXCTi9rKXAlxXR7MonAis3z-KgrzVVcqYfokxtJqo&s=72&u=af0f1739759818f40b8c8370e4cd81c2449730c4&v=4" width="24" alt="Avatar of iamgini"/> iamgini
-			</a><br/>
-			Gineesh Madapparambath
-		</td>
-		<td>Red Hat </td>
-		<td><a target="_blank" href="https://twitter.com/iamgineesh">iamgineesh</a></td>
-		<td>Singapore</td>
-		<td>254</td>
-	</tr>
-	<tr>
 		<td>241</td>
 		<td>
 			<a target="_blank" href="https://github.com/jiawei-ren">
-				<img src="https://private-avatars.githubusercontent.com/u/72253125?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA1MjAsIm5iZiI6MTczNDY0OTMyMCwicGF0aCI6Ii91LzcyMjUzMTI1In0.hU9MEiGlviogHKp1gA2mMJbt2DE_jgCT_by4wERH7tA&s=72&u=685feab7fb90cbd3374f9daaa5d4296272d36030&v=4" width="24" alt="Avatar of jiawei-ren"/> jiawei-ren
+				<img src="https://private-avatars.githubusercontent.com/u/72253125?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1MjAsIm5iZiI6MTczNDY4NTMyMCwicGF0aCI6Ii91LzcyMjUzMTI1In0.EXWDdqIoeYp-f__6yjggx3FO2EZNIreRMahE7qzW0C8&s=72&u=685feab7fb90cbd3374f9daaa5d4296272d36030&v=4" width="24" alt="Avatar of jiawei-ren"/> jiawei-ren
 			</a><br/>
 			Jiawei Ren
 		</td>
@@ -3246,7 +3246,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>242</td>
 		<td>
 			<a target="_blank" href="https://github.com/suriarasai">
-				<img src="https://private-avatars.githubusercontent.com/u/1589044?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA1ODAsIm5iZiI6MTczNDY0OTM4MCwicGF0aCI6Ii91LzE1ODkwNDQifQ.DLUwnkz087nh-Py5disfhbOEc1_s7bd1EMdSkxPmq40&s=72&u=b1d0a7dcfbcfea69e17deaca7043c2faa3aec043&v=4" width="24" alt="Avatar of suriarasai"/> suriarasai
+				<img src="https://private-avatars.githubusercontent.com/u/1589044?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1ODAsIm5iZiI6MTczNDY4NTM4MCwicGF0aCI6Ii91LzE1ODkwNDQifQ.ZUMv6P-LDBJLuwCNHFyGM5BXu_tQYm_HeCzMw2nbubw&s=72&u=b1d0a7dcfbcfea69e17deaca7043c2faa3aec043&v=4" width="24" alt="Avatar of suriarasai"/> suriarasai
 			</a><br/>
 			Suria R Asai
 		</td>
@@ -3259,7 +3259,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>243</td>
 		<td>
 			<a target="_blank" href="https://github.com/pkuliyi2015">
-				<img src="https://private-avatars.githubusercontent.com/u/59076257?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3NjAsIm5iZiI6MTczNDY0OTU2MCwicGF0aCI6Ii91LzU5MDc2MjU3In0.QG57gF8VGY9jnCbJDwS0fVHXtgJwzZDMAABU5gj6Dxg&s=72&u=71402ca813fdb26834bc9a322020e7baf9c6133b&v=4" width="24" alt="Avatar of pkuliyi2015"/> pkuliyi2015
+				<img src="https://private-avatars.githubusercontent.com/u/59076257?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91LzU5MDc2MjU3In0.v_aoIR9dqOd4LwcDn_Hi2CVG2gw1l3DUyyKtKKzoDRo&s=72&u=71402ca813fdb26834bc9a322020e7baf9c6133b&v=4" width="24" alt="Avatar of pkuliyi2015"/> pkuliyi2015
 			</a><br/>
 			LightChaser
 		</td>
@@ -3272,7 +3272,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>244</td>
 		<td>
 			<a target="_blank" href="https://github.com/n3tr">
-				<img src="https://private-avatars.githubusercontent.com/u/155392?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4MjAsIm5iZiI6MTczNDY0OTYyMCwicGF0aCI6Ii91LzE1NTM5MiJ9.pfIXS-2s9-URZTxzdNiY4arFrKiKTRw2OyRhwMoq1qA&s=72&u=be6d89faef5baa7dfe1539ef6af2894085ec3928&v=4" width="24" alt="Avatar of n3tr"/> n3tr
+				<img src="https://private-avatars.githubusercontent.com/u/155392?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4MjAsIm5iZiI6MTczNDY4NTYyMCwicGF0aCI6Ii91LzE1NTM5MiJ9.Tlaq-zBhndn4pNB0iwJcBpYTPZgcw-0V1qOi-Ti82uM&s=72&u=be6d89faef5baa7dfe1539ef6af2894085ec3928&v=4" width="24" alt="Avatar of n3tr"/> n3tr
 			</a><br/>
 			Jirat Ki
 		</td>
@@ -3285,7 +3285,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>245</td>
 		<td>
 			<a target="_blank" href="https://github.com/setkyar">
-				<img src="https://private-avatars.githubusercontent.com/u/4435358?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzQ0MzUzNTgifQ.u7DxNFlRpqk5qB2CRMt1ysxWrG9hdFyAGOO0cMK-avE&s=72&u=6d414fde804cb9e07747db8089f43b74800a59fd&v=4" width="24" alt="Avatar of setkyar"/> setkyar
+				<img src="https://private-avatars.githubusercontent.com/u/4435358?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxODAsIm5iZiI6MTczNDY4NTk4MCwicGF0aCI6Ii91LzQ0MzUzNTgifQ.YV78BH8p4lWlhn5v4tc1e-v5V3skXOtqkdMoKbR2RfU&s=72&u=6d414fde804cb9e07747db8089f43b74800a59fd&v=4" width="24" alt="Avatar of setkyar"/> setkyar
 			</a><br/>
 			Set Kyar Wa Lar Universe
 		</td>
@@ -3298,7 +3298,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>246</td>
 		<td>
 			<a target="_blank" href="https://github.com/XiaoxinHe">
-				<img src="https://private-avatars.githubusercontent.com/u/48676630?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExMjAsIm5iZiI6MTczNDY0OTkyMCwicGF0aCI6Ii91LzQ4Njc2NjMwIn0.I2ZP7vYFaBseUvqS9opl5t2bHvslkHZz7wmWvm-0M90&s=72&u=7161759ceb73dfa955c5bc543d33b4f915962663&v=4" width="24" alt="Avatar of XiaoxinHe"/> XiaoxinHe
+				<img src="https://private-avatars.githubusercontent.com/u/48676630?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxMjAsIm5iZiI6MTczNDY4NTkyMCwicGF0aCI6Ii91LzQ4Njc2NjMwIn0.-a9Cc4aaqAXVdFcHdBmlfEpw9GSqJWEfw_RQyKxzBN0&s=72&u=7161759ceb73dfa955c5bc543d33b4f915962663&v=4" width="24" alt="Avatar of XiaoxinHe"/> XiaoxinHe
 			</a><br/>
 			No Name
 		</td>
@@ -3311,7 +3311,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>247</td>
 		<td>
 			<a target="_blank" href="https://github.com/Matheus-Garbelini">
-				<img src="https://private-avatars.githubusercontent.com/u/6465668?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4MjAsIm5iZiI6MTczNDY0OTYyMCwicGF0aCI6Ii91LzY0NjU2NjgifQ.mW6x1WxQbQrYgYmf_U2eXS9Kn1SAk4BAjq_Yn6RDX8k&s=72&u=e41928e621481f9e74a115466e82df7433975705&v=4" width="24" alt="Avatar of Matheus-Garbelini"/> Matheus-Garbelini
+				<img src="https://private-avatars.githubusercontent.com/u/6465668?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4MjAsIm5iZiI6MTczNDY4NTYyMCwicGF0aCI6Ii91LzY0NjU2NjgifQ.PTmxnmkjNTbkMkDSbK9TM48bVUkZd4DHQf3pF4wpw1o&s=72&u=e41928e621481f9e74a115466e82df7433975705&v=4" width="24" alt="Avatar of Matheus-Garbelini"/> Matheus-Garbelini
 			</a><br/>
 			Matheus Eduardo
 		</td>
@@ -3324,7 +3324,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>248</td>
 		<td>
 			<a target="_blank" href="https://github.com/FrankLeeeee">
-				<img src="https://private-avatars.githubusercontent.com/u/31818963?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3MDAsIm5iZiI6MTczNDY0OTUwMCwicGF0aCI6Ii91LzMxODE4OTYzIn0.Q2ysXpOFTq5fdMlMkKl6HzpINlYZObUTNtVzY6ZBRsI&s=72&u=afc433bdb00eafda70fab88c0e7785c95201206f&v=4" width="24" alt="Avatar of FrankLeeeee"/> FrankLeeeee
+				<img src="https://private-avatars.githubusercontent.com/u/31818963?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3MDAsIm5iZiI6MTczNDY4NTUwMCwicGF0aCI6Ii91LzMxODE4OTYzIn0.tM7OHtCCrczTrPFAUeRYCobe9A3LZEL96ruxsDjClC4&s=72&u=afc433bdb00eafda70fab88c0e7785c95201206f&v=4" width="24" alt="Avatar of FrankLeeeee"/> FrankLeeeee
 			</a><br/>
 			Shenggui Li
 		</td>
@@ -3337,20 +3337,20 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>249</td>
 		<td>
 			<a target="_blank" href="https://github.com/mrigger">
-				<img src="https://private-avatars.githubusercontent.com/u/14328197?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEyNDAsIm5iZiI6MTczNDY1MDA0MCwicGF0aCI6Ii91LzE0MzI4MTk3In0.OGd10RWdiNqSSdrBFql_49_AhFvkYn7oudpmjwbGm0o&s=72&u=e97ef0750006855d997af2dbd65413ff0a6bcd72&v=4" width="24" alt="Avatar of mrigger"/> mrigger
+				<img src="https://private-avatars.githubusercontent.com/u/14328197?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODYzNDAsIm5iZiI6MTczNDY4NTE0MCwicGF0aCI6Ii91LzE0MzI4MTk3In0.wVCOLftX1EzWjMBmTvC8DAKFJncEWYCPVlhV0buIO_o&s=72&u=e97ef0750006855d997af2dbd65413ff0a6bcd72&v=4" width="24" alt="Avatar of mrigger"/> mrigger
 			</a><br/>
 			Manuel Rigger
 		</td>
 		<td>National University Of Singapore<br/></td>
 		<td><a target="_blank" href="https://twitter.com/RiggerManuel">RiggerManuel</a></td>
 		<td>Singapore</td>
-		<td>248</td>
+		<td>247</td>
 	</tr>
 	<tr>
 		<td>250</td>
 		<td>
 			<a target="_blank" href="https://github.com/enzoampil">
-				<img src="https://private-avatars.githubusercontent.com/u/39557688?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzMDAsIm5iZiI6MTczNDY1MDEwMCwicGF0aCI6Ii91LzM5NTU3Njg4In0.RUKi8rz0uFhwBCtB6OX3kWuGqYHSkMREXFo6Ph6Hm-Y&s=72&u=a3788314bf9c541789636a9d99cdc342c7d8c9d5&v=4" width="24" alt="Avatar of enzoampil"/> enzoampil
+				<img src="https://private-avatars.githubusercontent.com/u/39557688?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY0MDAsIm5iZiI6MTczNDY4NTIwMCwicGF0aCI6Ii91LzM5NTU3Njg4In0.PPfJ9-KcWTAQyNL4BX2qhVHt0ppQkGSfXGyT5fh02GU&s=72&u=a3788314bf9c541789636a9d99cdc342c7d8c9d5&v=4" width="24" alt="Avatar of enzoampil"/> enzoampil
 			</a><br/>
 			Lorenzo Ampil
 		</td>
@@ -3363,7 +3363,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>251</td>
 		<td>
 			<a target="_blank" href="https://github.com/RaghavSood">
-				<img src="https://private-avatars.githubusercontent.com/u/903072?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3NjAsIm5iZiI6MTczNDY0OTU2MCwicGF0aCI6Ii91LzkwMzA3MiJ9.nqKzNND8pMQJoy8Aw6G0IY9bwdYgcMpD4nHHCgjuAJU&s=72&u=68a0d81ae25e036ee889d25a471b7c5bf1382aa9&v=4" width="24" alt="Avatar of RaghavSood"/> RaghavSood
+				<img src="https://private-avatars.githubusercontent.com/u/903072?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91LzkwMzA3MiJ9.lv65jdW2OLyooGOqMMtl70Xy5JFXZ-7xhyKQIahvf0k&s=72&u=68a0d81ae25e036ee889d25a471b7c5bf1382aa9&v=4" width="24" alt="Avatar of RaghavSood"/> RaghavSood
 			</a><br/>
 			Raghav Sood
 		</td>
@@ -3376,7 +3376,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>252</td>
 		<td>
 			<a target="_blank" href="https://github.com/abhivaikar">
-				<img src="https://private-avatars.githubusercontent.com/u/1690028?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzE2OTAwMjgifQ.ya04qGPxiL4ogEvAwhaCpHXQPNYU7d0lbRU6yMQnL64&s=72&u=ac2c25d677a100f2177849715119f6901ab11f0c&v=4" width="24" alt="Avatar of abhivaikar"/> abhivaikar
+				<img src="https://private-avatars.githubusercontent.com/u/1690028?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxODAsIm5iZiI6MTczNDY4NTk4MCwicGF0aCI6Ii91LzE2OTAwMjgifQ.QTDx1mOweNQzRD2w74oBMfwSPLnJpcRBCzZm3xBbOVY&s=72&u=ac2c25d677a100f2177849715119f6901ab11f0c&v=4" width="24" alt="Avatar of abhivaikar"/> abhivaikar
 			</a><br/>
 			Abhijeet Vaikar
 		</td>
@@ -3389,7 +3389,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>253</td>
 		<td>
 			<a target="_blank" href="https://github.com/darkskygit">
-				<img src="https://private-avatars.githubusercontent.com/u/25152247?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzMDAsIm5iZiI6MTczNDY1MDEwMCwicGF0aCI6Ii91LzI1MTUyMjQ3In0.hEr73RqssaJmn1UrlXfiOUAMJ4eNJAwwp4sRNrVs9iM&s=72&u=8078de6cecc0b47768b6138c928a1f655141963e&v=4" width="24" alt="Avatar of darkskygit"/> darkskygit
+				<img src="https://private-avatars.githubusercontent.com/u/25152247?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY0MDAsIm5iZiI6MTczNDY4NTIwMCwicGF0aCI6Ii91LzI1MTUyMjQ3In0.V9-yjWLe-RBuo5hOcHvUMJboexUGVEfGlwaWST8CM3A&s=72&u=8078de6cecc0b47768b6138c928a1f655141963e&v=4" width="24" alt="Avatar of darkskygit"/> darkskygit
 			</a><br/>
 			DarkSky
 		</td>
@@ -3402,7 +3402,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>254</td>
 		<td>
 			<a target="_blank" href="https://github.com/tuhuynh27">
-				<img src="https://private-avatars.githubusercontent.com/u/13906546?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4ODAsIm5iZiI6MTczNDY0OTY4MCwicGF0aCI6Ii91LzEzOTA2NTQ2In0.YRPod_6AaDSOZA6Z2IM6Fk43d41kjd_RGXdR5a8mGQ4&s=72&u=d4bc4d128a899be60ee2d0e922f010889fc15564&v=4" width="24" alt="Avatar of tuhuynh27"/> tuhuynh27
+				<img src="https://private-avatars.githubusercontent.com/u/13906546?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4ODAsIm5iZiI6MTczNDY4NTY4MCwicGF0aCI6Ii91LzEzOTA2NTQ2In0.5EfxxgdT60_rygZmflSAzQnAoDY2NW_TlyPtACt5nZ0&s=72&u=d4bc4d128a899be60ee2d0e922f010889fc15564&v=4" width="24" alt="Avatar of tuhuynh27"/> tuhuynh27
 			</a><br/>
 			Tu Huynh
 		</td>
@@ -3415,7 +3415,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>255</td>
 		<td>
 			<a target="_blank" href="https://github.com/danielepolencic">
-				<img src="https://private-avatars.githubusercontent.com/u/1130499?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzExMzA0OTkifQ.SaIkFOBA8Lfx_a5cH81F4Le31R-3KMLa4O9pfdeHVts&s=72&u=5af8d47a51be852e926957a97ec710aea03b6196&v=4" width="24" alt="Avatar of danielepolencic"/> danielepolencic
+				<img src="https://private-avatars.githubusercontent.com/u/1130499?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxODAsIm5iZiI6MTczNDY4NTk4MCwicGF0aCI6Ii91LzExMzA0OTkifQ.-kfMD7QpWoqBbms-Hx8fo8j0CqKdoH9wLJRbuql3rgY&s=72&u=5af8d47a51be852e926957a97ec710aea03b6196&v=4" width="24" alt="Avatar of danielepolencic"/> danielepolencic
 			</a><br/>
 			Daniele Polencic
 		</td>
@@ -3428,7 +3428,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>256</td>
 		<td>
 			<a target="_blank" href="https://github.com/yshashi">
-				<img src="https://private-avatars.githubusercontent.com/u/21971232?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA1MjAsIm5iZiI6MTczNDY0OTMyMCwicGF0aCI6Ii91LzIxOTcxMjMyIn0.v_kn8i_hsQIUZzgldobiDaPPjyhVZfPNom1vyiEW39A&s=72&u=cfe57e34e0ee8577933fb3b232d96409066ca1a5&v=4" width="24" alt="Avatar of yshashi"/> yshashi
+				<img src="https://private-avatars.githubusercontent.com/u/21971232?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1MjAsIm5iZiI6MTczNDY4NTMyMCwicGF0aCI6Ii91LzIxOTcxMjMyIn0.y7AvI36_RhDMFcvXfEG6eD07tJIkJIRY6QPH_zrgO_M&s=72&u=cfe57e34e0ee8577933fb3b232d96409066ca1a5&v=4" width="24" alt="Avatar of yshashi"/> yshashi
 			</a><br/>
 			Sashikumar Yadav
 		</td>
@@ -3441,7 +3441,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>257</td>
 		<td>
 			<a target="_blank" href="https://github.com/nkorange">
-				<img src="https://private-avatars.githubusercontent.com/u/4593375?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEyNDAsIm5iZiI6MTczNDY1MDA0MCwicGF0aCI6Ii91LzQ1OTMzNzUifQ.HJvi8YsO_c9JrzO5aGve6C8-0h77RkckFCBll7BA8xo&s=72&u=edadb62057c3d0744f4a8ce68071feebb697dab1&v=4" width="24" alt="Avatar of nkorange"/> nkorange
+				<img src="https://private-avatars.githubusercontent.com/u/4593375?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODYzNDAsIm5iZiI6MTczNDY4NTE0MCwicGF0aCI6Ii91LzQ1OTMzNzUifQ.BwKWQXO2JB-fHquh5uwNONF6Va9e6uCWU7-Me8PHCd0&s=72&u=edadb62057c3d0744f4a8ce68071feebb697dab1&v=4" width="24" alt="Avatar of nkorange"/> nkorange
 			</a><br/>
 			Peter Zhu
 		</td>
@@ -3454,7 +3454,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>258</td>
 		<td>
 			<a target="_blank" href="https://github.com/winzou">
-				<img src="https://private-avatars.githubusercontent.com/u/702928?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA2NDAsIm5iZiI6MTczNDY0OTQ0MCwicGF0aCI6Ii91LzcwMjkyOCJ9.q_RV0r67v4GP3tifjy3yH-hZx5hUVOjXNHEYYdLDt-A&s=72&u=c1b861cc48fcdd2409bd5a43e5c10d9053a7b0d5&v=4" width="24" alt="Avatar of winzou"/> winzou
+				<img src="https://private-avatars.githubusercontent.com/u/702928?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91LzcwMjkyOCJ9.0uaHk2Fk4MoQbf7rIlNQBRxXAlFId7Gk17dl9GYkmLc&s=72&u=c1b861cc48fcdd2409bd5a43e5c10d9053a7b0d5&v=4" width="24" alt="Avatar of winzou"/> winzou
 			</a><br/>
 			Alexandre Bacco
 		</td>
@@ -3467,7 +3467,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>259</td>
 		<td>
 			<a target="_blank" href="https://github.com/davidzollo">
-				<img src="https://private-avatars.githubusercontent.com/u/15833811?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzE1ODMzODExIn0.CuN4nUd_ex5D4W8jYI1ukxcREVPuRCm2tlE8gldEk1g&s=72&u=c89d4fe1e8d27827dd8e35df5d33be8587e29505&v=4" width="24" alt="Avatar of davidzollo"/> davidzollo
+				<img src="https://private-avatars.githubusercontent.com/u/15833811?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzE1ODMzODExIn0.kpNM8p2dh8r5Pxmxr9ShTp3KBh8a7TwOLXY5ggvz-jE&s=72&u=c89d4fe1e8d27827dd8e35df5d33be8587e29505&v=4" width="24" alt="Avatar of davidzollo"/> davidzollo
 			</a><br/>
 			David Zollo
 		</td>
@@ -3480,7 +3480,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>260</td>
 		<td>
 			<a target="_blank" href="https://github.com/therealyingtong">
-				<img src="https://private-avatars.githubusercontent.com/u/14323671?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEyNDAsIm5iZiI6MTczNDY1MDA0MCwicGF0aCI6Ii91LzE0MzIzNjcxIn0.3-04R1NzSZshO5GC7-pekgr0-ohadR7GfeWB_s9kUlw&s=72&u=d9413130142c2eda2e1b79f9c9e98ac853c50238&v=4" width="24" alt="Avatar of therealyingtong"/> therealyingtong
+				<img src="https://private-avatars.githubusercontent.com/u/14323671?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODYzNDAsIm5iZiI6MTczNDY4NTE0MCwicGF0aCI6Ii91LzE0MzIzNjcxIn0.Zjdf2hJ4aBTOAP9uL6UUu4v5xHEmEdlvrhF8TuqMqXo&s=72&u=d9413130142c2eda2e1b79f9c9e98ac853c50238&v=4" width="24" alt="Avatar of therealyingtong"/> therealyingtong
 			</a><br/>
 			ying tong
 		</td>
@@ -3493,7 +3493,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>261</td>
 		<td>
 			<a target="_blank" href="https://github.com/HzFu">
-				<img src="https://private-avatars.githubusercontent.com/u/5155209?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzUxNTUyMDkifQ.kXKznnANtS-9hCJypVN2T8ynG9wReXsuaqgIAsXU84s&s=72&u=b13a5fe3e5e9c88d708c9dfee943a73229c8acd0&v=4" width="24" alt="Avatar of HzFu"/> HzFu
+				<img src="https://private-avatars.githubusercontent.com/u/5155209?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzUxNTUyMDkifQ.sIgcJ4ijIuT0XwRP3Ha5BGfvLAe1Eccg3UiVufHWy54&s=72&u=b13a5fe3e5e9c88d708c9dfee943a73229c8acd0&v=4" width="24" alt="Avatar of HzFu"/> HzFu
 			</a><br/>
 			Huazhu FU
 		</td>
@@ -3506,7 +3506,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>262</td>
 		<td>
 			<a target="_blank" href="https://github.com/tishion">
-				<img src="https://private-avatars.githubusercontent.com/u/5869938?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEyNDAsIm5iZiI6MTczNDY1MDA0MCwicGF0aCI6Ii91LzU4Njk5MzgifQ.m26rQmlw78VZFuh_tsixKWGzTCpREMkWXvml0Hs1lHY&s=72&u=be4262ea5ec67de5c2292bcafc489e89ff00d5b3&v=4" width="24" alt="Avatar of tishion"/> tishion
+				<img src="https://private-avatars.githubusercontent.com/u/5869938?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODYzNDAsIm5iZiI6MTczNDY4NTE0MCwicGF0aCI6Ii91LzU4Njk5MzgifQ.q3B3ebljPrbCXVKhTMytsYZd12Rc_FnlCSzVGhkWNA8&s=72&u=be4262ea5ec67de5c2292bcafc489e89ff00d5b3&v=4" width="24" alt="Avatar of tishion"/> tishion
 			</a><br/>
 			Sheen Tian
 		</td>
@@ -3519,7 +3519,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>263</td>
 		<td>
 			<a target="_blank" href="https://github.com/jarektkaczyk">
-				<img src="https://private-avatars.githubusercontent.com/u/6928818?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3MDAsIm5iZiI6MTczNDY0OTUwMCwicGF0aCI6Ii91LzY5Mjg4MTgifQ.GMi-hLuWH8b_gz-QJfw6K1p5RMUwTvXQDt9Hm707lBU&s=72&u=86cce7f4e1f9db3cf0acc5bfef3f67da27b57f2f&v=4" width="24" alt="Avatar of jarektkaczyk"/> jarektkaczyk
+				<img src="https://private-avatars.githubusercontent.com/u/6928818?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3MDAsIm5iZiI6MTczNDY4NTUwMCwicGF0aCI6Ii91LzY5Mjg4MTgifQ.DAXicj7bvhFxkK-L-VfOaI-NavwUVSpqxEMN7JiVuGU&s=72&u=86cce7f4e1f9db3cf0acc5bfef3f67da27b57f2f&v=4" width="24" alt="Avatar of jarektkaczyk"/> jarektkaczyk
 			</a><br/>
 			Jarek Tkaczyk
 		</td>
@@ -3532,7 +3532,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>264</td>
 		<td>
 			<a target="_blank" href="https://github.com/zsyOAOA">
-				<img src="https://private-avatars.githubusercontent.com/u/11041787?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA1ODAsIm5iZiI6MTczNDY0OTM4MCwicGF0aCI6Ii91LzExMDQxNzg3In0.UMoOWaVNyHBmGlmxTMuYY0pcAwBjB2XMQBN7DdGPsGw&s=72&u=ce73c76c92865a762a1a8f8eccc6b8cf27a5793c&v=4" width="24" alt="Avatar of zsyOAOA"/> zsyOAOA
+				<img src="https://private-avatars.githubusercontent.com/u/11041787?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1ODAsIm5iZiI6MTczNDY4NTM4MCwicGF0aCI6Ii91LzExMDQxNzg3In0.gq12I4Vn5TlksUnkSNkCGHuqnWFL-nEtYpI2TpBfAO4&s=72&u=ce73c76c92865a762a1a8f8eccc6b8cf27a5793c&v=4" width="24" alt="Avatar of zsyOAOA"/> zsyOAOA
 			</a><br/>
 			Zongsheng Yue
 		</td>
@@ -3545,7 +3545,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>265</td>
 		<td>
 			<a target="_blank" href="https://github.com/ilyasergey">
-				<img src="https://private-avatars.githubusercontent.com/u/161937?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA5NDAsIm5iZiI6MTczNDY0OTc0MCwicGF0aCI6Ii91LzE2MTkzNyJ9.GofC1o0fIdnWxqEtpiVknoLBgfWMY04irunaXqaot7U&s=72&u=7ee380f67373d5ff8d4b9646b49cbc5b8c1d6fab&v=4" width="24" alt="Avatar of ilyasergey"/> ilyasergey
+				<img src="https://private-avatars.githubusercontent.com/u/161937?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY5NDAsIm5iZiI6MTczNDY4NTc0MCwicGF0aCI6Ii91LzE2MTkzNyJ9.rkBzUwxub_Q25sfDlw2hA-SLH8vMrBC-5h2Fy1AHeKg&s=72&u=7ee380f67373d5ff8d4b9646b49cbc5b8c1d6fab&v=4" width="24" alt="Avatar of ilyasergey"/> ilyasergey
 			</a><br/>
 			Ilya Sergey
 		</td>
@@ -3557,21 +3557,8 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 	<tr>
 		<td>266</td>
 		<td>
-			<a target="_blank" href="https://github.com/notthetup">
-				<img src="https://private-avatars.githubusercontent.com/u/553140?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA1MjAsIm5iZiI6MTczNDY0OTMyMCwicGF0aCI6Ii91LzU1MzE0MCJ9.t5qKi_YNxtZkmGJK2Wku3uHHMfmR5UBZSxvl7MPLTiU&s=72&u=8ffb92fd35b0d172904b8e1a542fecc0285eaeb9&v=4" width="24" alt="Avatar of notthetup"/> notthetup
-			</a><br/>
-			Chinmay Pendharkar
-		</td>
-		<td>@subnero1  </td>
-		<td>No Twitter Username</td>
-		<td>Singapore</td>
-		<td>233</td>
-	</tr>
-	<tr>
-		<td>267</td>
-		<td>
 			<a target="_blank" href="https://github.com/ruidan">
-				<img src="https://private-avatars.githubusercontent.com/u/6541089?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA2NDAsIm5iZiI6MTczNDY0OTQ0MCwicGF0aCI6Ii91LzY1NDEwODkifQ.DnX1ZpY-0YlZ9us3Kk8X9nytUzh3matvXO5uz9796So&s=72&u=10afa47ae91048f1dd58efb20b75a8b9eba0d515&v=4" width="24" alt="Avatar of ruidan"/> ruidan
+				<img src="https://private-avatars.githubusercontent.com/u/6541089?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91LzY1NDEwODkifQ.XV7-RjgPItDX9xbzupgnLI-gTizL6WQzWN2M4J56iCU&s=72&u=10afa47ae91048f1dd58efb20b75a8b9eba0d515&v=4" width="24" alt="Avatar of ruidan"/> ruidan
 			</a><br/>
 			Ruidan He
 		</td>
@@ -3581,10 +3568,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>233</td>
 	</tr>
 	<tr>
-		<td>268</td>
+		<td>267</td>
 		<td>
 			<a target="_blank" href="https://github.com/Adamdad">
-				<img src="https://private-avatars.githubusercontent.com/u/26020510?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzI2MDIwNTEwIn0.3kUwapv3GTaleflRPF6_bRp57lHQZ7a3VZgYb3_cQkI&s=72&u=f7135f6629000aff52dac559f3d48c6184dd4fd3&v=4" width="24" alt="Avatar of Adamdad"/> Adamdad
+				<img src="https://private-avatars.githubusercontent.com/u/26020510?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxODAsIm5iZiI6MTczNDY4NTk4MCwicGF0aCI6Ii91LzI2MDIwNTEwIn0.7gvydXtqzoaFvBqpBes6vxfHvMgeUnMdBobhEyORcHw&s=72&u=f7135f6629000aff52dac559f3d48c6184dd4fd3&v=4" width="24" alt="Avatar of Adamdad"/> Adamdad
 			</a><br/>
 			Xingyi Yang
 		</td>
@@ -3594,10 +3581,23 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>232</td>
 	</tr>
 	<tr>
+		<td>268</td>
+		<td>
+			<a target="_blank" href="https://github.com/notthetup">
+				<img src="https://private-avatars.githubusercontent.com/u/553140?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1MjAsIm5iZiI6MTczNDY4NTMyMCwicGF0aCI6Ii91LzU1MzE0MCJ9.LfaB4PpwD9u8jl-o7zfYwndxwJMyITKnr7YJ1YENkZE&s=72&u=8ffb92fd35b0d172904b8e1a542fecc0285eaeb9&v=4" width="24" alt="Avatar of notthetup"/> notthetup
+			</a><br/>
+			Chinmay Pendharkar
+		</td>
+		<td>@subnero1  </td>
+		<td>No Twitter Username</td>
+		<td>Singapore</td>
+		<td>232</td>
+	</tr>
+	<tr>
 		<td>269</td>
 		<td>
 			<a target="_blank" href="https://github.com/gildor">
-				<img src="https://private-avatars.githubusercontent.com/u/186017?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwMDAsIm5iZiI6MTczNDY0OTgwMCwicGF0aCI6Ii91LzE4NjAxNyJ9.BiXc6cgOc93TJrPeiGu-32mK8kCfJbSDg7ZPUa50lok&s=72&u=16bf22b93cf669fd6a00b0e99aed203a7271c5ce&v=4" width="24" alt="Avatar of gildor"/> gildor
+				<img src="https://private-avatars.githubusercontent.com/u/186017?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwMDAsIm5iZiI6MTczNDY4NTgwMCwicGF0aCI6Ii91LzE4NjAxNyJ9.Aw_JFcaZnw7_PjoagBkELA0fZaYD_j-E5LtbGp9zBA4&s=72&u=16bf22b93cf669fd6a00b0e99aed203a7271c5ce&v=4" width="24" alt="Avatar of gildor"/> gildor
 			</a><br/>
 			Andrey Mischenko
 		</td>
@@ -3610,7 +3610,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>270</td>
 		<td>
 			<a target="_blank" href="https://github.com/wrfly">
-				<img src="https://private-avatars.githubusercontent.com/u/7827389?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzNjAsIm5iZiI6MTczNDY1MDE2MCwicGF0aCI6Ii91Lzc4MjczODkifQ.hvmg2sxRwsTUWb4Yvq1gDDwvor8iTT20bvk8oi12kS8&s=72&u=dc0515605d92c77c9e6c1c63a744145ca73665d7&v=4" width="24" alt="Avatar of wrfly"/> wrfly
+				<img src="https://private-avatars.githubusercontent.com/u/7827389?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY0NjAsIm5iZiI6MTczNDY4NTI2MCwicGF0aCI6Ii91Lzc4MjczODkifQ.F3_kj3HSsAbCezs6K5HlMLiJh6prhWp1AwsyQO9aSq0&s=72&u=dc0515605d92c77c9e6c1c63a744145ca73665d7&v=4" width="24" alt="Avatar of wrfly"/> wrfly
 			</a><br/>
 			Shaun
 		</td>
@@ -3623,7 +3623,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>271</td>
 		<td>
 			<a target="_blank" href="https://github.com/horseee">
-				<img src="https://private-avatars.githubusercontent.com/u/22924514?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4MjAsIm5iZiI6MTczNDY0OTYyMCwicGF0aCI6Ii91LzIyOTI0NTE0In0.wAbZRod19qY-SdDdfwwIkkVDYKJXioID-fikGnaeLl0&s=72&u=79058338a1e8359e6eb2a64bece081080b750bcb&v=4" width="24" alt="Avatar of horseee"/> horseee
+				<img src="https://private-avatars.githubusercontent.com/u/22924514?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4MjAsIm5iZiI6MTczNDY4NTYyMCwicGF0aCI6Ii91LzIyOTI0NTE0In0.qQA6evlxijJcLf6VaeRCmYqeF4-TgWxgYahtxfLAFMo&s=72&u=79058338a1e8359e6eb2a64bece081080b750bcb&v=4" width="24" alt="Avatar of horseee"/> horseee
 			</a><br/>
 			Ma Xinyin
 		</td>
@@ -3636,7 +3636,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>272</td>
 		<td>
 			<a target="_blank" href="https://github.com/sfdye">
-				<img src="https://private-avatars.githubusercontent.com/u/1016390?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4ODAsIm5iZiI6MTczNDY0OTY4MCwicGF0aCI6Ii91LzEwMTYzOTAifQ.WkBRUUW614vor-In0INOdlgZllIMAGI9xdXQV_R8naw&s=72&u=8a75c7b0b400943dbeead246c03931e0c5182c4d&v=4" width="24" alt="Avatar of sfdye"/> sfdye
+				<img src="https://private-avatars.githubusercontent.com/u/1016390?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4ODAsIm5iZiI6MTczNDY4NTY4MCwicGF0aCI6Ii91LzEwMTYzOTAifQ.B8Ydv2FxRV1x2ts5I13mqo1w1SItDEs93tCoEm5770w&s=72&u=8a75c7b0b400943dbeead246c03931e0c5182c4d&v=4" width="24" alt="Avatar of sfdye"/> sfdye
 			</a><br/>
 			Liuyang Wan
 		</td>
@@ -3649,7 +3649,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>273</td>
 		<td>
 			<a target="_blank" href="https://github.com/gaozhangmin">
-				<img src="https://private-avatars.githubusercontent.com/u/9278488?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEyNDAsIm5iZiI6MTczNDY1MDA0MCwicGF0aCI6Ii91LzkyNzg0ODgifQ.uafxBDc2UB4jqT0X8Q3c_Y_YXHFqWLUsI7Ra5UeNdJ8&s=72&u=5616f527e85eb57fc20f99668088c7acf46fe91a&v=4" width="24" alt="Avatar of gaozhangmin"/> gaozhangmin
+				<img src="https://private-avatars.githubusercontent.com/u/9278488?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODYzNDAsIm5iZiI6MTczNDY4NTE0MCwicGF0aCI6Ii91LzkyNzg0ODgifQ.Cp-PR2g2sPl-VVSsRQ4Sn4PPEuJKew4aTXU04ZC0Xac&s=72&u=5616f527e85eb57fc20f99668088c7acf46fe91a&v=4" width="24" alt="Avatar of gaozhangmin"/> gaozhangmin
 			</a><br/>
 			Zhangao
 		</td>
@@ -3662,7 +3662,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>274</td>
 		<td>
 			<a target="_blank" href="https://github.com/stacygohyunsi">
-				<img src="https://private-avatars.githubusercontent.com/u/10786795?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEyNDAsIm5iZiI6MTczNDY1MDA0MCwicGF0aCI6Ii91LzEwNzg2Nzk1In0.Rz6_Ea5ZW1N1XEHQKhS_QLmwhxpWnk9sXbYYfFmiUIE&s=72&u=174324f9fa30511f04ddc24577acd5e5b5776c26&v=4" width="24" alt="Avatar of stacygohyunsi"/> stacygohyunsi
+				<img src="https://private-avatars.githubusercontent.com/u/10786795?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODYzNDAsIm5iZiI6MTczNDY4NTE0MCwicGF0aCI6Ii91LzEwNzg2Nzk1In0.y8V5GDZdu6KruP-vJNXzhfpM2AHq4igrwIotwRwqxFY&s=72&u=174324f9fa30511f04ddc24577acd5e5b5776c26&v=4" width="24" alt="Avatar of stacygohyunsi"/> stacygohyunsi
 			</a><br/>
 			Stacy Goh
 		</td>
@@ -3675,7 +3675,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>275</td>
 		<td>
 			<a target="_blank" href="https://github.com/vbanthia-zz">
-				<img src="https://private-avatars.githubusercontent.com/u/7875161?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4MjAsIm5iZiI6MTczNDY0OTYyMCwicGF0aCI6Ii91Lzc4NzUxNjEifQ.0pBIiw2cJ9G2qPxGscyeN5gXdnDOJwB9s-YjAP9seno&s=72&v=4" width="24" alt="Avatar of vbanthia-zz"/> vbanthia-zz
+				<img src="https://private-avatars.githubusercontent.com/u/7875161?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4MjAsIm5iZiI6MTczNDY4NTYyMCwicGF0aCI6Ii91Lzc4NzUxNjEifQ.LynuPRo8hTTw-QXEafrdRIP0Zmo60bWwlQDmY3sWsA8&s=72&v=4" width="24" alt="Avatar of vbanthia-zz"/> vbanthia-zz
 			</a><br/>
 			Vishal Banthia
 		</td>
@@ -3688,7 +3688,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>276</td>
 		<td>
 			<a target="_blank" href="https://github.com/hehefan">
-				<img src="https://private-avatars.githubusercontent.com/u/20786152?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA1MjAsIm5iZiI6MTczNDY0OTMyMCwicGF0aCI6Ii91LzIwNzg2MTUyIn0.uMRIa6-IFawHHxrppRWvvWY-SAcDQT-EoA6V9pO88GQ&s=72&u=44f62c4dd8d1c06e8e428658bf0ba2c5a4a2fcbf&v=4" width="24" alt="Avatar of hehefan"/> hehefan
+				<img src="https://private-avatars.githubusercontent.com/u/20786152?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1MjAsIm5iZiI6MTczNDY4NTMyMCwicGF0aCI6Ii91LzIwNzg2MTUyIn0.MGhnF3wFVEPdpfP07YqjcPYVtY-keZ2qRH3W6NuU0V0&s=72&u=44f62c4dd8d1c06e8e428658bf0ba2c5a4a2fcbf&v=4" width="24" alt="Avatar of hehefan"/> hehefan
 			</a><br/>
 			Hehe Fan
 		</td>
@@ -3701,7 +3701,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>277</td>
 		<td>
 			<a target="_blank" href="https://github.com/jglim">
-				<img src="https://private-avatars.githubusercontent.com/u/1116555?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA2NDAsIm5iZiI6MTczNDY0OTQ0MCwicGF0aCI6Ii91LzExMTY1NTUifQ.QMgI4UUAvLk06oa9EO_8i003zDjX4KW4NHy5Ehc8wsk&s=72&v=4" width="24" alt="Avatar of jglim"/> jglim
+				<img src="https://private-avatars.githubusercontent.com/u/1116555?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91LzExMTY1NTUifQ.KXqz6L0JQLZ65QIXD8I4XEQzTe3vYSjvtnqRgaXlWzI&s=72&v=4" width="24" alt="Avatar of jglim"/> jglim
 			</a><br/>
 			JinGen Lim
 		</td>
@@ -3714,7 +3714,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>278</td>
 		<td>
 			<a target="_blank" href="https://github.com/lbayer10">
-				<img src="https://private-avatars.githubusercontent.com/u/103097039?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwMDAsIm5iZiI6MTczNDY0OTgwMCwicGF0aCI6Ii91LzEwMzA5NzAzOSJ9.ri3hAazm-MzZhhs-joQWidoq38VRgckmZ7sKXrWWURA&s=72&u=bb35ffb4cb035486ae7b65c3d75328fb99d1093f&v=4" width="24" alt="Avatar of lbayer10"/> lbayer10
+				<img src="https://private-avatars.githubusercontent.com/u/103097039?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwMDAsIm5iZiI6MTczNDY4NTgwMCwicGF0aCI6Ii91LzEwMzA5NzAzOSJ9.j1ZZhXTuK1IEtNKnoX8fRMZl4M1lqfVGv1_qxNKARoI&s=72&u=bb35ffb4cb035486ae7b65c3d75328fb99d1093f&v=4" width="24" alt="Avatar of lbayer10"/> lbayer10
 			</a><br/>
 			Lenny Bayer
 		</td>
@@ -3727,20 +3727,20 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>279</td>
 		<td>
 			<a target="_blank" href="https://github.com/dangkhoasdc">
-				<img src="https://private-avatars.githubusercontent.com/u/3388047?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA5NDAsIm5iZiI6MTczNDY0OTc0MCwicGF0aCI6Ii91LzMzODgwNDcifQ.ARbv6byMZBJVTrY5Xzyg0B49-Ujod_NSRLcog4hELeU&s=72&v=4" width="24" alt="Avatar of dangkhoasdc"/> dangkhoasdc
+				<img src="https://private-avatars.githubusercontent.com/u/3388047?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY5NDAsIm5iZiI6MTczNDY4NTc0MCwicGF0aCI6Ii91LzMzODgwNDcifQ.hUm-TfihllSTBa1CFBX2t7BWCY3rSyAS3IpV_K2vync&s=72&v=4" width="24" alt="Avatar of dangkhoasdc"/> dangkhoasdc
 			</a><br/>
 			Le Tan Dang Khoa
 		</td>
 		<td>Visenze </td>
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
-		<td>222</td>
+		<td>221</td>
 	</tr>
 	<tr>
 		<td>280</td>
 		<td>
 			<a target="_blank" href="https://github.com/152334H">
-				<img src="https://private-avatars.githubusercontent.com/u/54623771?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzMDAsIm5iZiI6MTczNDY1MDEwMCwicGF0aCI6Ii91LzU0NjIzNzcxIn0.fE365f5tXA-aDVYV9X0VHq-UCoVauthYT7XqhzwcT_c&s=72&v=4" width="24" alt="Avatar of 152334H"/> 152334H
+				<img src="https://private-avatars.githubusercontent.com/u/54623771?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY0MDAsIm5iZiI6MTczNDY4NTIwMCwicGF0aCI6Ii91LzU0NjIzNzcxIn0.1-LgfcgegLomIgr1icoWiO_QE0CA9PifPyXbP0mg3pc&s=72&v=4" width="24" alt="Avatar of 152334H"/> 152334H
 			</a><br/>
 			152334H
 		</td>
@@ -3753,7 +3753,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>281</td>
 		<td>
 			<a target="_blank" href="https://github.com/harishpillay">
-				<img src="https://private-avatars.githubusercontent.com/u/73917?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA2NDAsIm5iZiI6MTczNDY0OTQ0MCwicGF0aCI6Ii91LzczOTE3In0.uu1mOwFz_DMqw4-14iTR-O0oYJAt6HbxXFCE1DnqC2U&s=72&u=c774451199e3982a25542fb0f9e17251901598b4&v=4" width="24" alt="Avatar of harishpillay"/> harishpillay
+				<img src="https://private-avatars.githubusercontent.com/u/73917?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91LzczOTE3In0.r_OjQB1z1_7chyWaQVSLtOJtPPF3QrbHxbEDgcC6_Fg&s=72&u=c774451199e3982a25542fb0f9e17251901598b4&v=4" width="24" alt="Avatar of harishpillay"/> harishpillay
 			</a><br/>
 			Harish Pillay
 		</td>
@@ -3766,7 +3766,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>282</td>
 		<td>
 			<a target="_blank" href="https://github.com/filecxx">
-				<img src="https://private-avatars.githubusercontent.com/u/100348948?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExMjAsIm5iZiI6MTczNDY0OTkyMCwicGF0aCI6Ii91LzEwMDM0ODk0OCJ9.qzOOKrhbL4VLk7TCjuktjzdo4buZRBmHXeR3P5Mu3vI&s=72&u=d8563d779bdb796b1ad7ba640313a8da4c2c354a&v=4" width="24" alt="Avatar of filecxx"/> filecxx
+				<img src="https://private-avatars.githubusercontent.com/u/100348948?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxMjAsIm5iZiI6MTczNDY4NTkyMCwicGF0aCI6Ii91LzEwMDM0ODk0OCJ9.1C1tiuX07C0_TfmTENFIlumiWu4SsuUS0bE6CzpQYaA&s=72&u=d8563d779bdb796b1ad7ba640313a8da4c2c354a&v=4" width="24" alt="Avatar of filecxx"/> filecxx
 			</a><br/>
 			filecxx
 		</td>
@@ -3779,7 +3779,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>283</td>
 		<td>
 			<a target="_blank" href="https://github.com/wangfenjin">
-				<img src="https://private-avatars.githubusercontent.com/u/4160646?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzQxNjA2NDYifQ.pKvAoZyi0OOpCH8LFkWVteTepio5VI-8JoJNtcD1RbQ&s=72&u=30e02f49fd8d7c730d97cfecb29f9e45871de5ff&v=4" width="24" alt="Avatar of wangfenjin"/> wangfenjin
+				<img src="https://private-avatars.githubusercontent.com/u/4160646?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzQxNjA2NDYifQ.360bmj4RLdHthtkE7QpbwUdL0SPmIzEfT55TlGl0zBU&s=72&u=30e02f49fd8d7c730d97cfecb29f9e45871de5ff&v=4" width="24" alt="Avatar of wangfenjin"/> wangfenjin
 			</a><br/>
 			Wang Fenjin
 		</td>
@@ -3792,7 +3792,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>284</td>
 		<td>
 			<a target="_blank" href="https://github.com/jgeewax">
-				<img src="https://private-avatars.githubusercontent.com/u/112928?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3NjAsIm5iZiI6MTczNDY0OTU2MCwicGF0aCI6Ii91LzExMjkyOCJ9.n1jucCCR0-fsHirzTSpa3uDsmBbPvNtO3eyPPrqUvLw&s=72&v=4" width="24" alt="Avatar of jgeewax"/> jgeewax
+				<img src="https://private-avatars.githubusercontent.com/u/112928?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91LzExMjkyOCJ9.vpVZpMKtRsAVV1dwnpbHCAc9IwBsBSG2KmsI__GA2fo&s=72&v=4" width="24" alt="Avatar of jgeewax"/> jgeewax
 			</a><br/>
 			JJ Geewax
 		</td>
@@ -3805,7 +3805,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>285</td>
 		<td>
 			<a target="_blank" href="https://github.com/hellokvn">
-				<img src="https://private-avatars.githubusercontent.com/u/10362899?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4ODAsIm5iZiI6MTczNDY0OTY4MCwicGF0aCI6Ii91LzEwMzYyODk5In0.wNQHwcKNslFLJSe0iBHQXv0pBJOa8Sf-wFIsHCf6BUY&s=72&u=da089e4d47231b6d735b3943b13defdcfdbdf0db&v=4" width="24" alt="Avatar of hellokvn"/> hellokvn
+				<img src="https://private-avatars.githubusercontent.com/u/10362899?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4ODAsIm5iZiI6MTczNDY4NTY4MCwicGF0aCI6Ii91LzEwMzYyODk5In0.Sfrq79g3fc2-VeyL4M0bUXhajYUAmyoMfhreFf-BR-c&s=72&u=da089e4d47231b6d735b3943b13defdcfdbdf0db&v=4" width="24" alt="Avatar of hellokvn"/> hellokvn
 			</a><br/>
 			Kevin
 		</td>
@@ -3818,20 +3818,20 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>286</td>
 		<td>
 			<a target="_blank" href="https://github.com/Optixal">
-				<img src="https://private-avatars.githubusercontent.com/u/19287477?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzNjAsIm5iZiI6MTczNDY1MDE2MCwicGF0aCI6Ii91LzE5Mjg3NDc3In0.7gEOQOGuMGy4Tsr_ZhvyLhFdcuWCOPXrTCqJ7HZWC3o&s=72&u=87e0929a1bda8909d42504ffdf1b3e902626ef34&v=4" width="24" alt="Avatar of Optixal"/> Optixal
+				<img src="https://private-avatars.githubusercontent.com/u/19287477?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY0NjAsIm5iZiI6MTczNDY4NTI2MCwicGF0aCI6Ii91LzE5Mjg3NDc3In0.Fj2uvLN5a12TOfFoqqqTl0UI5MmcZ-H_1gQ78DBnUCE&s=72&u=87e0929a1bda8909d42504ffdf1b3e902626ef34&v=4" width="24" alt="Avatar of Optixal"/> Optixal
 			</a><br/>
 			Shawn
 		</td>
 		<td>Wallace Corporation </td>
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
-		<td>219</td>
+		<td>218</td>
 	</tr>
 	<tr>
 		<td>287</td>
 		<td>
 			<a target="_blank" href="https://github.com/joshenlim">
-				<img src="https://private-avatars.githubusercontent.com/u/19742402?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3MDAsIm5iZiI6MTczNDY0OTUwMCwicGF0aCI6Ii91LzE5NzQyNDAyIn0.7v8t2cFwe79-GVzdGvzzn8B-VR93MfFMYGrU8P6mEaI&s=72&u=cbfc76b4fcb07e30bea68ecdc67f3da3dd6995cc&v=4" width="24" alt="Avatar of joshenlim"/> joshenlim
+				<img src="https://private-avatars.githubusercontent.com/u/19742402?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3MDAsIm5iZiI6MTczNDY4NTUwMCwicGF0aCI6Ii91LzE5NzQyNDAyIn0.HPAYO4fwaDQ50V4G2nWY46tJW4mav_T7yd9v61EiXHg&s=72&u=cbfc76b4fcb07e30bea68ecdc67f3da3dd6995cc&v=4" width="24" alt="Avatar of joshenlim"/> joshenlim
 			</a><br/>
 			Joshen Lim
 		</td>
@@ -3844,7 +3844,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>288</td>
 		<td>
 			<a target="_blank" href="https://github.com/chesterhow">
-				<img src="https://private-avatars.githubusercontent.com/u/9312956?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA5NDAsIm5iZiI6MTczNDY0OTc0MCwicGF0aCI6Ii91LzkzMTI5NTYifQ.hnJsvwAWP9w2SVfqcUOeHhgD4g_83qHwvuqQyKshMbU&s=72&u=d2e3d62d7dd93b0f0d21821edff4e15e6a117408&v=4" width="24" alt="Avatar of chesterhow"/> chesterhow
+				<img src="https://private-avatars.githubusercontent.com/u/9312956?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY5NDAsIm5iZiI6MTczNDY4NTc0MCwicGF0aCI6Ii91LzkzMTI5NTYifQ.LITgAjj1aPuI-1DZ_eJG72YOLvzFb-7Fq_t4_33CKrs&s=72&u=d2e3d62d7dd93b0f0d21821edff4e15e6a117408&v=4" width="24" alt="Avatar of chesterhow"/> chesterhow
 			</a><br/>
 			Chester How
 		</td>
@@ -3857,7 +3857,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>289</td>
 		<td>
 			<a target="_blank" href="https://github.com/Ayrx">
-				<img src="https://private-avatars.githubusercontent.com/u/1937160?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA1MjAsIm5iZiI6MTczNDY0OTMyMCwicGF0aCI6Ii91LzE5MzcxNjAifQ.6R-q8QwG9EkuTdLiFYLDecvHe-BrlBJAjAPmoUaI80s&s=72&u=06c2f82759e3d5c9dcafcbf15c62c4d596a3f094&v=4" width="24" alt="Avatar of Ayrx"/> Ayrx
+				<img src="https://private-avatars.githubusercontent.com/u/1937160?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1MjAsIm5iZiI6MTczNDY4NTMyMCwicGF0aCI6Ii91LzE5MzcxNjAifQ.3YRPCH6owBCUoM8FmrR0uLgolSBsUzZ7Eq5eNFp8I94&s=72&u=06c2f82759e3d5c9dcafcbf15c62c4d596a3f094&v=4" width="24" alt="Avatar of Ayrx"/> Ayrx
 			</a><br/>
 			Terry Chia
 		</td>
@@ -3870,7 +3870,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>290</td>
 		<td>
 			<a target="_blank" href="https://github.com/yizhe-ang">
-				<img src="https://private-avatars.githubusercontent.com/u/17507891?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA5NDAsIm5iZiI6MTczNDY0OTc0MCwicGF0aCI6Ii91LzE3NTA3ODkxIn0.knqgJaVNIB3peqYXvkfGb3FrFaeU4wFexsk5FWpT-q8&s=72&u=e356bc1794e86f708c63d01f3fa1fcf1c1f86d57&v=4" width="24" alt="Avatar of yizhe-ang"/> yizhe-ang
+				<img src="https://private-avatars.githubusercontent.com/u/17507891?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY5NDAsIm5iZiI6MTczNDY4NTc0MCwicGF0aCI6Ii91LzE3NTA3ODkxIn0.sRdn34r8LPx5In4sG6-WdNr2iHY7WRyFFOJv5mL2mjU&s=72&u=e356bc1794e86f708c63d01f3fa1fcf1c1f86d57&v=4" width="24" alt="Avatar of yizhe-ang"/> yizhe-ang
 			</a><br/>
 			Yi Zhe Ang
 		</td>
@@ -3883,7 +3883,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>291</td>
 		<td>
 			<a target="_blank" href="https://github.com/ajmalafif">
-				<img src="https://private-avatars.githubusercontent.com/u/827167?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA5NDAsIm5iZiI6MTczNDY0OTc0MCwicGF0aCI6Ii91LzgyNzE2NyJ9.s1UNP4XBZRuAXNc_O20AKFeusKi4wwfOUtsQu2qEuew&s=72&u=e54e2a0099cdc9f06c84fd9c33ce2ef055946b8c&v=4" width="24" alt="Avatar of ajmalafif"/> ajmalafif
+				<img src="https://private-avatars.githubusercontent.com/u/827167?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY5NDAsIm5iZiI6MTczNDY4NTc0MCwicGF0aCI6Ii91LzgyNzE2NyJ9.Y2Xc6nxkEpU7IMS5UAp4z0UKhiXw000PBv2GZyCB60w&s=72&u=e54e2a0099cdc9f06c84fd9c33ce2ef055946b8c&v=4" width="24" alt="Avatar of ajmalafif"/> ajmalafif
 			</a><br/>
 			Ajmal Afif
 		</td>
@@ -3895,8 +3895,21 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 	<tr>
 		<td>292</td>
 		<td>
+			<a target="_blank" href="https://github.com/SingleZombie">
+				<img src="https://private-avatars.githubusercontent.com/u/47652064?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91LzQ3NjUyMDY0In0.5FidfmleVRLn1ZYwm83VfDE9bLXT98ds7CoGyv1AImI&s=72&u=6a70636b124e6f88f92df166a58039df24c1584a&v=4" width="24" alt="Avatar of SingleZombie"/> SingleZombie
+			</a><br/>
+			Yifan Zhou
+		</td>
+		<td>Slab Ntu </td>
+		<td>No Twitter Username</td>
+		<td>Singapore</td>
+		<td>213</td>
+	</tr>
+	<tr>
+		<td>293</td>
+		<td>
 			<a target="_blank" href="https://github.com/Asphaltt">
-				<img src="https://private-avatars.githubusercontent.com/u/6274610?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA5NDAsIm5iZiI6MTczNDY0OTc0MCwicGF0aCI6Ii91LzYyNzQ2MTAifQ.G9LHX_AVN6F377SIKH3zLbCJ9KzIoXEoevD4OkhHHLc&s=72&u=5581e678f3983abcd9db3b164c119ce7eddb0619&v=4" width="24" alt="Avatar of Asphaltt"/> Asphaltt
+				<img src="https://private-avatars.githubusercontent.com/u/6274610?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY5NDAsIm5iZiI6MTczNDY4NTc0MCwicGF0aCI6Ii91LzYyNzQ2MTAifQ.JELURvHHtJH2ZeSMmdlfHSx5ONbCXw-jmLyLh0_uJfA&s=72&u=5581e678f3983abcd9db3b164c119ce7eddb0619&v=4" width="24" alt="Avatar of Asphaltt"/> Asphaltt
 			</a><br/>
 			Leon Hwang
 		</td>
@@ -3906,23 +3919,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>212</td>
 	</tr>
 	<tr>
-		<td>293</td>
-		<td>
-			<a target="_blank" href="https://github.com/SingleZombie">
-				<img src="https://private-avatars.githubusercontent.com/u/47652064?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA2NDAsIm5iZiI6MTczNDY0OTQ0MCwicGF0aCI6Ii91LzQ3NjUyMDY0In0.RFu8Ghk4gPbnTNlFNchFEfgNtt3duSKs4B1ioJLRe5U&s=72&u=6a70636b124e6f88f92df166a58039df24c1584a&v=4" width="24" alt="Avatar of SingleZombie"/> SingleZombie
-			</a><br/>
-			Yifan Zhou
-		</td>
-		<td>Slab Ntu </td>
-		<td>No Twitter Username</td>
-		<td>Singapore</td>
-		<td>212</td>
-	</tr>
-	<tr>
 		<td>294</td>
 		<td>
 			<a target="_blank" href="https://github.com/sonictk">
-				<img src="https://private-avatars.githubusercontent.com/u/2504199?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExMjAsIm5iZiI6MTczNDY0OTkyMCwicGF0aCI6Ii91LzI1MDQxOTkifQ.Slj0g0hgudtGeJCYi0FWrTDFnzKk56BS9oztBVK-Aj4&s=72&u=716428a8f6ca32ee5024c267ed64c867bbdbd6da&v=4" width="24" alt="Avatar of sonictk"/> sonictk
+				<img src="https://private-avatars.githubusercontent.com/u/2504199?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxMjAsIm5iZiI6MTczNDY4NTkyMCwicGF0aCI6Ii91LzI1MDQxOTkifQ.6tKio_Ykadl3bNzAiI4h7A7g-jk8LkhlroB-Syk3CWE&s=72&u=716428a8f6ca32ee5024c267ed64c867bbdbd6da&v=4" width="24" alt="Avatar of sonictk"/> sonictk
 			</a><br/>
 			Siew Yi Liang
 		</td>
@@ -3935,7 +3935,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>295</td>
 		<td>
 			<a target="_blank" href="https://github.com/loong">
-				<img src="https://private-avatars.githubusercontent.com/u/1732217?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzE3MzIyMTcifQ.TAIzuZfPiJAn3ksGUZo4XefoxDd2ZfWZlENwQVt7H70&s=72&u=19f69807b5e4bd2a1e6b85dc3a73a3739ca88919&v=4" width="24" alt="Avatar of loong"/> loong
+				<img src="https://private-avatars.githubusercontent.com/u/1732217?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzE3MzIyMTcifQ.18hO2Oudc2S7N3yFqya8KbpHB8rWp-cGIqyPJop-8Do&s=72&u=19f69807b5e4bd2a1e6b85dc3a73a3739ca88919&v=4" width="24" alt="Avatar of loong"/> loong
 			</a><br/>
 			Long Hoang
 		</td>
@@ -3948,20 +3948,20 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>296</td>
 		<td>
 			<a target="_blank" href="https://github.com/ZhangYuanhan-AI">
-				<img src="https://private-avatars.githubusercontent.com/u/18485270?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA2NDAsIm5iZiI6MTczNDY0OTQ0MCwicGF0aCI6Ii91LzE4NDg1MjcwIn0.tHYGym1QFxt5pPx_I_f4vClfkLOYPtJR7VjtaPdcIho&s=72&u=1d0342a50017c65d5441daaa0c4fd863c8aa83ae&v=4" width="24" alt="Avatar of ZhangYuanhan-AI"/> ZhangYuanhan-AI
+				<img src="https://private-avatars.githubusercontent.com/u/18485270?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91LzE4NDg1MjcwIn0.DteJKY6b1z7VHiO-0xxISYEbHL4bM3lcMY4jNMKy6DQ&s=72&u=1d0342a50017c65d5441daaa0c4fd863c8aa83ae&v=4" width="24" alt="Avatar of ZhangYuanhan-AI"/> ZhangYuanhan-AI
 			</a><br/>
 			Yuanhan Zhang
 		</td>
 		<td>Nanyang Technological University </td>
 		<td><a target="_blank" href="https://twitter.com/zhang_yuanhan">zhang_yuanhan</a></td>
 		<td>Singapore</td>
-		<td>209</td>
+		<td>210</td>
 	</tr>
 	<tr>
 		<td>297</td>
 		<td>
 			<a target="_blank" href="https://github.com/popei69">
-				<img src="https://private-avatars.githubusercontent.com/u/1432849?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA1MjAsIm5iZiI6MTczNDY0OTMyMCwicGF0aCI6Ii91LzE0MzI4NDkifQ.XKqfjgVpEgMWPAhROhntLIlunnI5xYOSDPyJA4v3wck&s=72&u=c7807070416e4c8a9f9fb08440aacf262fa605e0&v=4" width="24" alt="Avatar of popei69"/> popei69
+				<img src="https://private-avatars.githubusercontent.com/u/1432849?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1MjAsIm5iZiI6MTczNDY4NTMyMCwicGF0aCI6Ii91LzE0MzI4NDkifQ.h2OGECw-YjgRL8_P51hBuAZZxna1sAmEL1c2xtZrJQc&s=72&u=c7807070416e4c8a9f9fb08440aacf262fa605e0&v=4" width="24" alt="Avatar of popei69"/> popei69
 			</a><br/>
 			Benoit Pasquier
 		</td>
@@ -3974,20 +3974,20 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>298</td>
 		<td>
 			<a target="_blank" href="https://github.com/JSeam2">
-				<img src="https://private-avatars.githubusercontent.com/u/22354889?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEyNDAsIm5iZiI6MTczNDY1MDA0MCwicGF0aCI6Ii91LzIyMzU0ODg5In0.7EcEZLWOp1JbiwQaYCrAVnEBIDJfrdjwQME2Ybfp0UM&s=72&u=93224406d415abaf8ab43c064630a41c5e01a9f3&v=4" width="24" alt="Avatar of JSeam2"/> JSeam2
+				<img src="https://private-avatars.githubusercontent.com/u/22354889?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODYzNDAsIm5iZiI6MTczNDY4NTE0MCwicGF0aCI6Ii91LzIyMzU0ODg5In0.wwEwwEGxf4x7yi8muuZvRSXSfG7McN4qIi5XZ27WFwE&s=72&u=93224406d415abaf8ab43c064630a41c5e01a9f3&v=4" width="24" alt="Avatar of JSeam2"/> JSeam2
 			</a><br/>
 			Jseam
 		</td>
 		<td>Zkonduit </td>
 		<td><a target="_blank" href="https://twitter.com/henlojseam">henlojseam</a></td>
 		<td>Singapore</td>
-		<td>208</td>
+		<td>207</td>
 	</tr>
 	<tr>
 		<td>299</td>
 		<td>
 			<a target="_blank" href="https://github.com/TaoRuijie">
-				<img src="https://private-avatars.githubusercontent.com/u/45703754?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEyNDAsIm5iZiI6MTczNDY1MDA0MCwicGF0aCI6Ii91LzQ1NzAzNzU0In0.RN76_ZofPZWjSWVR9ULftMsIEMmWqErouvKqFepUhOM&s=72&u=8cf3689886bb1ca1fd18584f942d4cb7753baa5c&v=4" width="24" alt="Avatar of TaoRuijie"/> TaoRuijie
+				<img src="https://private-avatars.githubusercontent.com/u/45703754?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODYzNDAsIm5iZiI6MTczNDY4NTE0MCwicGF0aCI6Ii91LzQ1NzAzNzU0In0.smOQYM17x3iljUR1syOc-tNFcQawjbv0pXzpc9tB31A&s=72&u=8cf3689886bb1ca1fd18584f942d4cb7753baa5c&v=4" width="24" alt="Avatar of TaoRuijie"/> TaoRuijie
 			</a><br/>
 			Tao Ruijie
 		</td>
@@ -4000,7 +4000,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>300</td>
 		<td>
 			<a target="_blank" href="https://github.com/bertzzie">
-				<img src="https://private-avatars.githubusercontent.com/u/610268?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEyNDAsIm5iZiI6MTczNDY1MDA0MCwicGF0aCI6Ii91LzYxMDI2OCJ9.bXiZieO2zqqhSg8fRPjdg_3PlTBYQOABbCHzVybObs0&s=72&v=4" width="24" alt="Avatar of bertzzie"/> bertzzie
+				<img src="https://private-avatars.githubusercontent.com/u/610268?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODYzNDAsIm5iZiI6MTczNDY4NTE0MCwicGF0aCI6Ii91LzYxMDI2OCJ9.TJgJJYFz4A8egsNCN8hF8gazPye9wQQmtVDBGYoIQgU&s=72&v=4" width="24" alt="Avatar of bertzzie"/> bertzzie
 			</a><br/>
 			Alex Xandra Albert Sim
 		</td>
@@ -4013,7 +4013,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>301</td>
 		<td>
 			<a target="_blank" href="https://github.com/Wangt-CN">
-				<img src="https://private-avatars.githubusercontent.com/u/32795963?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzMyNzk1OTYzIn0.CCd1NBLlyv1RTDRvUjHsdrgdpHamq-LdAgJ8OIAhUG8&s=72&u=caf717e128a3683f81eca991f6c3f72ab3ae6e58&v=4" width="24" alt="Avatar of Wangt-CN"/> Wangt-CN
+				<img src="https://private-avatars.githubusercontent.com/u/32795963?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzMyNzk1OTYzIn0.2Vda1Xj0y1D9N7QpshPyACVV2Vw1j1zRc__5Md9MpeU&s=72&u=caf717e128a3683f81eca991f6c3f72ab3ae6e58&v=4" width="24" alt="Avatar of Wangt-CN"/> Wangt-CN
 			</a><br/>
 			Wang Tan
 		</td>
@@ -4026,7 +4026,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>302</td>
 		<td>
 			<a target="_blank" href="https://github.com/sunnyadn">
-				<img src="https://private-avatars.githubusercontent.com/u/11365555?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzExMzY1NTU1In0.54jKUBFTmLEVjrQ5HLOU8y4T9jjOhgXOB84_MXMFKoI&s=72&u=103f0c0f1e0f201dc558c95fe2190c3064ced062&v=4" width="24" alt="Avatar of sunnyadn"/> sunnyadn
+				<img src="https://private-avatars.githubusercontent.com/u/11365555?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzExMzY1NTU1In0.SNr8LgB7cJFom9yLmSiIzo2eOMlEW61Fh0VazWxVV9M&s=72&u=103f0c0f1e0f201dc558c95fe2190c3064ced062&v=4" width="24" alt="Avatar of sunnyadn"/> sunnyadn
 			</a><br/>
 			Sunny
 		</td>
@@ -4039,7 +4039,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>303</td>
 		<td>
 			<a target="_blank" href="https://github.com/alextanhongpin">
-				<img src="https://private-avatars.githubusercontent.com/u/6033638?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzYwMzM2MzgifQ.EwlJRGmEbhuRtf98qcsZt09CD17S7LROUmRw-HphWHI&s=72&u=22076cb88dcff9e003d13ca89d3ce5dbc2ec9b8f&v=4" width="24" alt="Avatar of alextanhongpin"/> alextanhongpin
+				<img src="https://private-avatars.githubusercontent.com/u/6033638?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzYwMzM2MzgifQ.F5XzreWlUdpbCAFRzUq6XCqazct0rcICtaANGnE350k&s=72&u=22076cb88dcff9e003d13ca89d3ce5dbc2ec9b8f&v=4" width="24" alt="Avatar of alextanhongpin"/> alextanhongpin
 			</a><br/>
 			Alex Tan Hong Pin
 		</td>
@@ -4052,7 +4052,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>304</td>
 		<td>
 			<a target="_blank" href="https://github.com/Mythologyli">
-				<img src="https://private-avatars.githubusercontent.com/u/15955880?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzE1OTU1ODgwIn0.lcWT-A8oIZ5qOjhx-sk2CbBPlAYtANdO--v0AigUqJI&s=72&u=8c5c503ae514393ac2a4feb80cbb076cbd926f90&v=4" width="24" alt="Avatar of Mythologyli"/> Mythologyli
+				<img src="https://private-avatars.githubusercontent.com/u/15955880?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzE1OTU1ODgwIn0.ExiKSLvM8tyu-M0oNVNBtr2PxGf90palEv5bbDUZn5Y&s=72&u=8c5c503ae514393ac2a4feb80cbb076cbd926f90&v=4" width="24" alt="Avatar of Mythologyli"/> Mythologyli
 			</a><br/>
 			Myth
 		</td>
@@ -4065,7 +4065,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>305</td>
 		<td>
 			<a target="_blank" href="https://github.com/SuyashLakhotia">
-				<img src="https://private-avatars.githubusercontent.com/u/8863065?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA1MjAsIm5iZiI6MTczNDY0OTMyMCwicGF0aCI6Ii91Lzg4NjMwNjUifQ.3VG34vjxCk7bbhXyubGPevHheZ7NsLFPkypBuAIPExM&s=72&u=a1920d34da8c0c9cb4f4fb9ea632a12d36a75987&v=4" width="24" alt="Avatar of SuyashLakhotia"/> SuyashLakhotia
+				<img src="https://private-avatars.githubusercontent.com/u/8863065?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1MjAsIm5iZiI6MTczNDY4NTMyMCwicGF0aCI6Ii91Lzg4NjMwNjUifQ.bpDxCbwB0VJMGMCuW_IaKLQQJjwLyHmn70U3C0g4bS0&s=72&u=a1920d34da8c0c9cb4f4fb9ea632a12d36a75987&v=4" width="24" alt="Avatar of SuyashLakhotia"/> SuyashLakhotia
 			</a><br/>
 			Suyash Lakhotia
 		</td>
@@ -4078,7 +4078,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>306</td>
 		<td>
 			<a target="_blank" href="https://github.com/nubela">
-				<img src="https://private-avatars.githubusercontent.com/u/146607?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3NjAsIm5iZiI6MTczNDY0OTU2MCwicGF0aCI6Ii91LzE0NjYwNyJ9.X0OKO7DyXSSUF2NpQg6Eh8ClnnuSFDNhzgHpgNNUgmQ&s=72&u=da66c0791772716abfaff404b75e73e3c3df443f&v=4" width="24" alt="Avatar of nubela"/> nubela
+				<img src="https://private-avatars.githubusercontent.com/u/146607?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91LzE0NjYwNyJ9.kq0lkVE1Ue0bgfhZnNR4gDYukXZCDPQjMlpQMSeZmTg&s=72&u=da66c0791772716abfaff404b75e73e3c3df443f&v=4" width="24" alt="Avatar of nubela"/> nubela
 			</a><br/>
 			nubela
 		</td>
@@ -4091,7 +4091,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>307</td>
 		<td>
 			<a target="_blank" href="https://github.com/beenhero">
-				<img src="https://private-avatars.githubusercontent.com/u/8139?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4ODAsIm5iZiI6MTczNDY0OTY4MCwicGF0aCI6Ii91LzgxMzkifQ.RngTYBvp6jBmiNvIZ1AndYBRNe-7x8dmYWK8kGEh5ok&s=72&u=3ebe3aa6e8b90c17aec500e84f92f93c58a8422a&v=4" width="24" alt="Avatar of beenhero"/> beenhero
+				<img src="https://private-avatars.githubusercontent.com/u/8139?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4ODAsIm5iZiI6MTczNDY4NTY4MCwicGF0aCI6Ii91LzgxMzkifQ.auoJq9jM-5ycdqnmSnDbeagOuNUv7nbHnyWTGuj1nG0&s=72&u=3ebe3aa6e8b90c17aec500e84f92f93c58a8422a&v=4" width="24" alt="Avatar of beenhero"/> beenhero
 			</a><br/>
 			beenhero
 		</td>
@@ -4104,7 +4104,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>308</td>
 		<td>
 			<a target="_blank" href="https://github.com/al8n">
-				<img src="https://private-avatars.githubusercontent.com/u/42351146?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3NjAsIm5iZiI6MTczNDY0OTU2MCwicGF0aCI6Ii91LzQyMzUxMTQ2In0.N1JyyaoeQO4yvr4FfYD_k9c8V2l4JrNwOFYKLwi6Z3Y&s=72&v=4" width="24" alt="Avatar of al8n"/> al8n
+				<img src="https://private-avatars.githubusercontent.com/u/42351146?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91LzQyMzUxMTQ2In0._4yGTiarBW_jXK4kVENeeba5wviexAnjTXcPTlkAGoU&s=72&v=4" width="24" alt="Avatar of al8n"/> al8n
 			</a><br/>
 			Al Liu
 		</td>
@@ -4117,7 +4117,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>309</td>
 		<td>
 			<a target="_blank" href="https://github.com/SS47816">
-				<img src="https://private-avatars.githubusercontent.com/u/36634506?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3MDAsIm5iZiI6MTczNDY0OTUwMCwicGF0aCI6Ii91LzM2NjM0NTA2In0.jFWJvBUTaK1A9XgcS-l5-FnLA9EUwe_HHxF2HhFTADg&s=72&u=b6c07360eeb61421b9a1ab64b11f2525a67f6cee&v=4" width="24" alt="Avatar of SS47816"/> SS47816
+				<img src="https://private-avatars.githubusercontent.com/u/36634506?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3MDAsIm5iZiI6MTczNDY4NTUwMCwicGF0aCI6Ii91LzM2NjM0NTA2In0.nhlw-vBOZS6eN8wMpVz17nFhHb0VrqsRt-f9Jh0TvWs&s=72&u=b6c07360eeb61421b9a1ab64b11f2525a67f6cee&v=4" width="24" alt="Avatar of SS47816"/> SS47816
 			</a><br/>
 			Shuo Sun
 		</td>
@@ -4130,7 +4130,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>310</td>
 		<td>
 			<a target="_blank" href="https://github.com/tejitak">
-				<img src="https://private-avatars.githubusercontent.com/u/5313274?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA5NDAsIm5iZiI6MTczNDY0OTc0MCwicGF0aCI6Ii91LzUzMTMyNzQifQ.Hy9N5taaQXSWS2OlZn5efmsjuMPdo13avy08zcQrwDs&s=72&u=c57d88ac39a39cb39c33d8b103337ba068e4d63e&v=4" width="24" alt="Avatar of tejitak"/> tejitak
+				<img src="https://private-avatars.githubusercontent.com/u/5313274?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY5NDAsIm5iZiI6MTczNDY4NTc0MCwicGF0aCI6Ii91LzUzMTMyNzQifQ.htYNvnzN0HEzfbAJW8Z3Q81qxHcF7HCQgP8XvJqNlU0&s=72&u=c57d88ac39a39cb39c33d8b103337ba068e4d63e&v=4" width="24" alt="Avatar of tejitak"/> tejitak
 			</a><br/>
 			Takuya Tejima
 		</td>
@@ -4143,7 +4143,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>311</td>
 		<td>
 			<a target="_blank" href="https://github.com/luugiathuy">
-				<img src="https://private-avatars.githubusercontent.com/u/656820?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA1MjAsIm5iZiI6MTczNDY0OTMyMCwicGF0aCI6Ii91LzY1NjgyMCJ9.XvUuY3qnY424Sx9P5icTM02Csc147JmNuAGhIbXb2zI&s=72&u=9697527079d0c0057dc4e72307a7512b6cb790d7&v=4" width="24" alt="Avatar of luugiathuy"/> luugiathuy
+				<img src="https://private-avatars.githubusercontent.com/u/656820?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1MjAsIm5iZiI6MTczNDY4NTMyMCwicGF0aCI6Ii91LzY1NjgyMCJ9.ZVVj7qEq4-MdiZGxwmGPyM_A3PUFdz92Q58SmsuOv5I&s=72&u=9697527079d0c0057dc4e72307a7512b6cb790d7&v=4" width="24" alt="Avatar of luugiathuy"/> luugiathuy
 			</a><br/>
 			Luu Gia Thuy
 		</td>
@@ -4156,7 +4156,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>312</td>
 		<td>
 			<a target="_blank" href="https://github.com/avicoder">
-				<img src="https://private-avatars.githubusercontent.com/u/2093260?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4ODAsIm5iZiI6MTczNDY0OTY4MCwicGF0aCI6Ii91LzIwOTMyNjAifQ.jYilw4zCR-6N6bpZDpXN4XbHYNxifmkelB-UsizG8BE&s=72&u=db443deee67e5462bb3ca918d07205c7f15a9e96&v=4" width="24" alt="Avatar of avicoder"/> avicoder
+				<img src="https://private-avatars.githubusercontent.com/u/2093260?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4ODAsIm5iZiI6MTczNDY4NTY4MCwicGF0aCI6Ii91LzIwOTMyNjAifQ.V6xaiqV01_Bp5jt7ctky8fyc59A2Qjdq0gr4wIXdFRE&s=72&u=db443deee67e5462bb3ca918d07205c7f15a9e96&v=4" width="24" alt="Avatar of avicoder"/> avicoder
 			</a><br/>
 			avicoder
 		</td>
@@ -4169,7 +4169,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>313</td>
 		<td>
 			<a target="_blank" href="https://github.com/SauceCat">
-				<img src="https://private-avatars.githubusercontent.com/u/15652756?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA1ODAsIm5iZiI6MTczNDY0OTM4MCwicGF0aCI6Ii91LzE1NjUyNzU2In0.TcUMw3yHHB3ABclNCB6anvLZyX6D1xAsIYOdXHaGBTQ&s=72&u=e99a8ce05423d09c44c6540fc13b16983a743eb3&v=4" width="24" alt="Avatar of SauceCat"/> SauceCat
+				<img src="https://private-avatars.githubusercontent.com/u/15652756?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1ODAsIm5iZiI6MTczNDY4NTM4MCwicGF0aCI6Ii91LzE1NjUyNzU2In0.sUp6jCK3iahRoooyXclCaGEqmYGpzzUFiar2mjwCeTE&s=72&u=e99a8ce05423d09c44c6540fc13b16983a743eb3&v=4" width="24" alt="Avatar of SauceCat"/> SauceCat
 			</a><br/>
 			Li Jiangchun
 		</td>
@@ -4182,7 +4182,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>314</td>
 		<td>
 			<a target="_blank" href="https://github.com/P3t3rp4rk3r">
-				<img src="https://private-avatars.githubusercontent.com/u/7028794?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzMDAsIm5iZiI6MTczNDY1MDEwMCwicGF0aCI6Ii91LzcwMjg3OTQifQ.ijwhkC8XaH00hKSqDrpQNX6vmjd3odcqJDaqZ9BM25c&s=72&u=f50344635c9e28a034d19e32e204a4250590d140&v=4" width="24" alt="Avatar of P3t3rp4rk3r"/> P3t3rp4rk3r
+				<img src="https://private-avatars.githubusercontent.com/u/7028794?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY0MDAsIm5iZiI6MTczNDY4NTIwMCwicGF0aCI6Ii91LzcwMjg3OTQifQ.x8BKhacfL08wMMAvKqFBquQb4LhN5WlBf9GauxDoLg8&s=72&u=f50344635c9e28a034d19e32e204a4250590d140&v=4" width="24" alt="Avatar of P3t3rp4rk3r"/> P3t3rp4rk3r
 			</a><br/>
 			Santhosh Baswa
 		</td>
@@ -4195,7 +4195,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>315</td>
 		<td>
 			<a target="_blank" href="https://github.com/winston">
-				<img src="https://private-avatars.githubusercontent.com/u/2112?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3MDAsIm5iZiI6MTczNDY0OTUwMCwicGF0aCI6Ii91LzIxMTIifQ.e8qOzqcMwV6GfVuuMtzsprhPlexgMX5Mh9go2zK7fVw&s=72&v=4" width="24" alt="Avatar of winston"/> winston
+				<img src="https://private-avatars.githubusercontent.com/u/2112?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3MDAsIm5iZiI6MTczNDY4NTUwMCwicGF0aCI6Ii91LzIxMTIifQ.Gf93docpi6TipltWjy1IHV-I2JCOkBXJMAhwoz78IQ4&s=72&v=4" width="24" alt="Avatar of winston"/> winston
 			</a><br/>
 			Winston
 		</td>
@@ -4208,7 +4208,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>316</td>
 		<td>
 			<a target="_blank" href="https://github.com/micheloosterhof">
-				<img src="https://private-avatars.githubusercontent.com/u/1063043?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA5NDAsIm5iZiI6MTczNDY0OTc0MCwicGF0aCI6Ii91LzEwNjMwNDMifQ.KZy99JdbeCz_OJfTKcw1YBvyvmqIBSMQS68SXL0kBu4&s=72&v=4" width="24" alt="Avatar of micheloosterhof"/> micheloosterhof
+				<img src="https://private-avatars.githubusercontent.com/u/1063043?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY5NDAsIm5iZiI6MTczNDY4NTc0MCwicGF0aCI6Ii91LzEwNjMwNDMifQ.1wQrLsxMHMezzX0jrrykQHN743LxJ2zKRPpBU3kK1JA&s=72&v=4" width="24" alt="Avatar of micheloosterhof"/> micheloosterhof
 			</a><br/>
 			Michel Oosterhof
 		</td>
@@ -4221,7 +4221,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>317</td>
 		<td>
 			<a target="_blank" href="https://github.com/lei-cao">
-				<img src="https://private-avatars.githubusercontent.com/u/136104?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzEzNjEwNCJ9.dCCmEQFqbLXpoaHipZnrN1zGl5WRaVwGE-3LJjJuhYw&s=72&u=76ca3917b646fb74755161615aba11eaf1068b6b&v=4" width="24" alt="Avatar of lei-cao"/> lei-cao
+				<img src="https://private-avatars.githubusercontent.com/u/136104?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxODAsIm5iZiI6MTczNDY4NTk4MCwicGF0aCI6Ii91LzEzNjEwNCJ9.hmc3mD5FV7BMIddVt7qCACQXk7ZmI0_V4DuWKYje0-o&s=72&u=76ca3917b646fb74755161615aba11eaf1068b6b&v=4" width="24" alt="Avatar of lei-cao"/> lei-cao
 			</a><br/>
 			Lei Cao
 		</td>
@@ -4234,7 +4234,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>318</td>
 		<td>
 			<a target="_blank" href="https://github.com/FrozenBurning">
-				<img src="https://private-avatars.githubusercontent.com/u/35674081?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzM1Njc0MDgxIn0.gpB_MnxTziTYXDoNz2w96rcWjZ8T_K5Qll7gxcq-ErU&s=72&u=ef16d3d858ffffb682c665e427ba4f0b8b0da233&v=4" width="24" alt="Avatar of FrozenBurning"/> FrozenBurning
+				<img src="https://private-avatars.githubusercontent.com/u/35674081?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxODAsIm5iZiI6MTczNDY4NTk4MCwicGF0aCI6Ii91LzM1Njc0MDgxIn0.W8umYvnq85jqX4djmihFJxWnz2baSzRDGPH9-Ujo1qM&s=72&u=ef16d3d858ffffb682c665e427ba4f0b8b0da233&v=4" width="24" alt="Avatar of FrozenBurning"/> FrozenBurning
 			</a><br/>
 			Zhaoxi Chen
 		</td>
@@ -4247,7 +4247,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>319</td>
 		<td>
 			<a target="_blank" href="https://github.com/LiuYuancheng">
-				<img src="https://private-avatars.githubusercontent.com/u/26474823?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA2NDAsIm5iZiI6MTczNDY0OTQ0MCwicGF0aCI6Ii91LzI2NDc0ODIzIn0.teHvQyzv3L8Fne4XUg-wmtKqzta8XfzS3guY8W4671M&s=72&u=cc3eee95a310605af99eafa8c6a97beed377a697&v=4" width="24" alt="Avatar of LiuYuancheng"/> LiuYuancheng
+				<img src="https://private-avatars.githubusercontent.com/u/26474823?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91LzI2NDc0ODIzIn0.ZDtBiDa0_exg6USeOvTTzSx74NSR9BiUBvEbnIYAz4I&s=72&u=cc3eee95a310605af99eafa8c6a97beed377a697&v=4" width="24" alt="Avatar of LiuYuancheng"/> LiuYuancheng
 			</a><br/>
 			Yuancheng Liu
 		</td>
@@ -4260,7 +4260,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>320</td>
 		<td>
 			<a target="_blank" href="https://github.com/goh-chunlin">
-				<img src="https://private-avatars.githubusercontent.com/u/8535306?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91Lzg1MzUzMDYifQ.yywtebDQWapyp0NhUd9QNxFtsRWmkACcmRdjQ2qumXE&s=72&u=ead806b2959b98812ad21b0177d22b07e83b6311&v=4" width="24" alt="Avatar of goh-chunlin"/> goh-chunlin
+				<img src="https://private-avatars.githubusercontent.com/u/8535306?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91Lzg1MzUzMDYifQ.GixwITpLvCHaBFc_UnrckeGoZePaQKv8g6QW-mmyGkM&s=72&u=ead806b2959b98812ad21b0177d22b07e83b6311&v=4" width="24" alt="Avatar of goh-chunlin"/> goh-chunlin
 			</a><br/>
 			Goh Chun Lin
 		</td>
@@ -4273,7 +4273,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>321</td>
 		<td>
 			<a target="_blank" href="https://github.com/lyqht">
-				<img src="https://private-avatars.githubusercontent.com/u/35736525?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExMjAsIm5iZiI6MTczNDY0OTkyMCwicGF0aCI6Ii91LzM1NzM2NTI1In0.dK8WLhm7w2OSQ-hAsbk7THM9BlomfZBrGFrEV_siWhM&s=72&u=fe3c97ae45263ad982eb246e3ce961c725cf74da&v=4" width="24" alt="Avatar of lyqht"/> lyqht
+				<img src="https://private-avatars.githubusercontent.com/u/35736525?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxMjAsIm5iZiI6MTczNDY4NTkyMCwicGF0aCI6Ii91LzM1NzM2NTI1In0.Mwdtnrc6ITW32jZ3LDucpXBZLAKTXZQFkH8TsfHuE4Y&s=72&u=fe3c97ae45263ad982eb246e3ce961c725cf74da&v=4" width="24" alt="Avatar of lyqht"/> lyqht
 			</a><br/>
 			Estee Tey
 		</td>
@@ -4286,7 +4286,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>322</td>
 		<td>
 			<a target="_blank" href="https://github.com/yangmingshan">
-				<img src="https://private-avatars.githubusercontent.com/u/13585043?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA1MjAsIm5iZiI6MTczNDY0OTMyMCwicGF0aCI6Ii91LzEzNTg1MDQzIn0.-7JDO3mqTrp7bEOIC9fvAk1dL3C-a8mK5KSBUXyOww8&s=72&u=2d2a26e1f2f18f095a38e9755f8811860f8172c5&v=4" width="24" alt="Avatar of yangmingshan"/> yangmingshan
+				<img src="https://private-avatars.githubusercontent.com/u/13585043?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1MjAsIm5iZiI6MTczNDY4NTMyMCwicGF0aCI6Ii91LzEzNTg1MDQzIn0.BkW0uENuA6uspmbBN1Z9rn0I_Pf7DOgUUb4FJPj1XY0&s=72&u=2d2a26e1f2f18f095a38e9755f8811860f8172c5&v=4" width="24" alt="Avatar of yangmingshan"/> yangmingshan
 			</a><br/>
 			Yang Mingshan
 		</td>
@@ -4299,7 +4299,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>323</td>
 		<td>
 			<a target="_blank" href="https://github.com/XueFuzhao">
-				<img src="https://private-avatars.githubusercontent.com/u/57164838?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzU3MTY0ODM4In0.NF6qnLe52kyO9F4-rKuB9m0gC3IJcno_r6JPOI0UKpQ&s=72&u=f0fdc9a3c95160d9ee1207b515fb5113761c220a&v=4" width="24" alt="Avatar of XueFuzhao"/> XueFuzhao
+				<img src="https://private-avatars.githubusercontent.com/u/57164838?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzU3MTY0ODM4In0.NhAtZIwiumUAqjD7IaTEIWe3mMtH-IFcxms_qbLRnJw&s=72&u=f0fdc9a3c95160d9ee1207b515fb5113761c220a&v=4" width="24" alt="Avatar of XueFuzhao"/> XueFuzhao
 			</a><br/>
 			Xue Fuzhao
 		</td>
@@ -4312,7 +4312,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>324</td>
 		<td>
 			<a target="_blank" href="https://github.com/pea3nut">
-				<img src="https://private-avatars.githubusercontent.com/u/13781420?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzMDAsIm5iZiI6MTczNDY1MDEwMCwicGF0aCI6Ii91LzEzNzgxNDIwIn0.dfGfpXlrl-P-yTyxSUP1raQPMqvUfMzhw0NHJvrdmwI&s=72&u=c4717fe3b2d5060eb9a8c698701b6d5362703982&v=4" width="24" alt="Avatar of pea3nut"/> pea3nut
+				<img src="https://private-avatars.githubusercontent.com/u/13781420?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY0MDAsIm5iZiI6MTczNDY4NTIwMCwicGF0aCI6Ii91LzEzNzgxNDIwIn0.m3sjn6IhGGa037eVkSKLVYMb--6bea2D_mflsrxAOCo&s=72&u=c4717fe3b2d5060eb9a8c698701b6d5362703982&v=4" width="24" alt="Avatar of pea3nut"/> pea3nut
 			</a><br/>
 			Peadar
 		</td>
@@ -4325,7 +4325,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>325</td>
 		<td>
 			<a target="_blank" href="https://github.com/rolandturner">
-				<img src="https://private-avatars.githubusercontent.com/u/646827?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA1ODAsIm5iZiI6MTczNDY0OTM4MCwicGF0aCI6Ii91LzY0NjgyNyJ9.C0cZjXkbGsQkBWHq4I8tvQGX-m-Lp7uq_22mFOTnRfA&s=72&v=4" width="24" alt="Avatar of rolandturner"/> rolandturner
+				<img src="https://private-avatars.githubusercontent.com/u/646827?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1ODAsIm5iZiI6MTczNDY4NTM4MCwicGF0aCI6Ii91LzY0NjgyNyJ9.PqfpySnEiEIpAZm74AA_NI8Zl8wNc_-SBP0H_gS5rIs&s=72&v=4" width="24" alt="Avatar of rolandturner"/> rolandturner
 			</a><br/>
 			Roland Turner
 		</td>
@@ -4338,7 +4338,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>326</td>
 		<td>
 			<a target="_blank" href="https://github.com/tgxworld">
-				<img src="https://private-avatars.githubusercontent.com/u/4335742?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzQzMzU3NDIifQ.bs3RXIgNLWw3fh-4_MQWNxX-mrFH0D__P0CwkJYQnYg&s=72&u=f8a62d4fc697f34bd6a2c9bd4103da2501cd8370&v=4" width="24" alt="Avatar of tgxworld"/> tgxworld
+				<img src="https://private-avatars.githubusercontent.com/u/4335742?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxODAsIm5iZiI6MTczNDY4NTk4MCwicGF0aCI6Ii91LzQzMzU3NDIifQ.77eu5GYVtdUM8XJXSfBkqFkdimOWg6_umyRenaspIBc&s=72&u=f8a62d4fc697f34bd6a2c9bd4103da2501cd8370&v=4" width="24" alt="Avatar of tgxworld"/> tgxworld
 			</a><br/>
 			Alan Guo Xiang Tan
 		</td>
@@ -4351,7 +4351,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>327</td>
 		<td>
 			<a target="_blank" href="https://github.com/lenguyenthedat">
-				<img src="https://private-avatars.githubusercontent.com/u/1543321?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4ODAsIm5iZiI6MTczNDY0OTY4MCwicGF0aCI6Ii91LzE1NDMzMjEifQ.aWBLs6B2X69K3PMkcUrR_XKj4Dc41xdmcbalzzdkdqA&s=72&u=27286ecbd92beddb6a300d1357bf7b411795e350&v=4" width="24" alt="Avatar of lenguyenthedat"/> lenguyenthedat
+				<img src="https://private-avatars.githubusercontent.com/u/1543321?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4ODAsIm5iZiI6MTczNDY4NTY4MCwicGF0aCI6Ii91LzE1NDMzMjEifQ.HhlKwIysmWaIRfyAM5wgYqSMpQ-BlJ5qb-BAg6BQkhg&s=72&u=27286ecbd92beddb6a300d1357bf7b411795e350&v=4" width="24" alt="Avatar of lenguyenthedat"/> lenguyenthedat
 			</a><br/>
 			Dat Le
 		</td>
@@ -4364,7 +4364,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>328</td>
 		<td>
 			<a target="_blank" href="https://github.com/derekcoder">
-				<img src="https://private-avatars.githubusercontent.com/u/19852435?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4MjAsIm5iZiI6MTczNDY0OTYyMCwicGF0aCI6Ii91LzE5ODUyNDM1In0.zlJ6OSTLoAeW_IqpdaT10G-ncVpn9pLnou7idQuuH3Y&s=72&u=d5df1a8bbfc34a953eb1a3c8f3c54d014333b616&v=4" width="24" alt="Avatar of derekcoder"/> derekcoder
+				<img src="https://private-avatars.githubusercontent.com/u/19852435?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4MjAsIm5iZiI6MTczNDY4NTYyMCwicGF0aCI6Ii91LzE5ODUyNDM1In0.AEbTFVUM4J2Qolw7M1E6S2usjzPvsMzSeGyvrOc4J1M&s=72&u=d5df1a8bbfc34a953eb1a3c8f3c54d014333b616&v=4" width="24" alt="Avatar of derekcoder"/> derekcoder
 			</a><br/>
 			ZHOU DENGFENG
 		</td>
@@ -4377,7 +4377,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>329</td>
 		<td>
 			<a target="_blank" href="https://github.com/renlulu">
-				<img src="https://private-avatars.githubusercontent.com/u/8149051?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzNjAsIm5iZiI6MTczNDY1MDE2MCwicGF0aCI6Ii91LzgxNDkwNTEifQ.6v8Y9MgTtzKryvAMwSaVfcLJlYNR-LWy2URhvZhfHNE&s=72&u=001a339b366e297d951ff1155837fe1e1510c398&v=4" width="24" alt="Avatar of renlulu"/> renlulu
+				<img src="https://private-avatars.githubusercontent.com/u/8149051?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY0NjAsIm5iZiI6MTczNDY4NTI2MCwicGF0aCI6Ii91LzgxNDkwNTEifQ.IKEFbNSJjkKYkxic73jc5vh1F3tlXXPbo9M38aAgyV4&s=72&u=001a339b366e297d951ff1155837fe1e1510c398&v=4" width="24" alt="Avatar of renlulu"/> renlulu
 			</a><br/>
 			xiaohuo
 		</td>
@@ -4390,7 +4390,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>330</td>
 		<td>
 			<a target="_blank" href="https://github.com/aam-at">
-				<img src="https://private-avatars.githubusercontent.com/u/486336?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzQ4NjMzNiJ9.DEsvQy6uTTClJGsvP8GNrd2Q1VW3JHpGnZTAJLN0NpA&s=72&v=4" width="24" alt="Avatar of aam-at"/> aam-at
+				<img src="https://private-avatars.githubusercontent.com/u/486336?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxODAsIm5iZiI6MTczNDY4NTk4MCwicGF0aCI6Ii91LzQ4NjMzNiJ9.NgOF4t4UQIPeW-Qhy34j5yFfAzQ9KJvs7HpzpoKIkzQ&s=72&v=4" width="24" alt="Avatar of aam-at"/> aam-at
 			</a><br/>
 			Alexander Matyasko
 		</td>
@@ -4403,7 +4403,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>331</td>
 		<td>
 			<a target="_blank" href="https://github.com/yeokm1">
-				<img src="https://private-avatars.githubusercontent.com/u/1570592?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwMDAsIm5iZiI6MTczNDY0OTgwMCwicGF0aCI6Ii91LzE1NzA1OTIifQ.1aVtF36fP5GVryyuUTelMuVDD6ZVDyLKY5CHrj6xgaQ&s=72&u=f3b49e725869572a530685d5aff9ebab966533f0&v=4" width="24" alt="Avatar of yeokm1"/> yeokm1
+				<img src="https://private-avatars.githubusercontent.com/u/1570592?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwMDAsIm5iZiI6MTczNDY4NTgwMCwicGF0aCI6Ii91LzE1NzA1OTIifQ.ku0cH1RdQWDL-iMeJLmX7MgSofIlnETG3erfMw-E4Sg&s=72&u=f3b49e725869572a530685d5aff9ebab966533f0&v=4" width="24" alt="Avatar of yeokm1"/> yeokm1
 			</a><br/>
 			Yeo Kheng Meng
 		</td>
@@ -4416,7 +4416,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>332</td>
 		<td>
 			<a target="_blank" href="https://github.com/winkyao">
-				<img src="https://private-avatars.githubusercontent.com/u/6949944?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzY5NDk5NDQifQ.89f9WAZVQcIUens4eDUEoSnUyeO29CFpTyIu_hnRthY&s=72&u=1cef7e0dc0787fbf56e6e71de5031c5343d8b72e&v=4" width="24" alt="Avatar of winkyao"/> winkyao
+				<img src="https://private-avatars.githubusercontent.com/u/6949944?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxODAsIm5iZiI6MTczNDY4NTk4MCwicGF0aCI6Ii91LzY5NDk5NDQifQ.qXljlo4-HDkOhl5K-3hhjNzwF1VBkZrgnwX9gdxqWF0&s=72&u=1cef7e0dc0787fbf56e6e71de5031c5343d8b72e&v=4" width="24" alt="Avatar of winkyao"/> winkyao
 			</a><br/>
 			winkyao
 		</td>
@@ -4429,7 +4429,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>333</td>
 		<td>
 			<a target="_blank" href="https://github.com/pluto-player">
-				<img src="https://private-avatars.githubusercontent.com/u/109806237?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA1MjAsIm5iZiI6MTczNDY0OTMyMCwicGF0aCI6Ii91LzEwOTgwNjIzNyJ9.7pAMJEDCcyh6xiUJJmDUQo7-ge44wQXWEvLbXoUUk1M&s=72&u=80c7f9615797e1bd6fa5ca8625acca73fec9b590&v=4" width="24" alt="Avatar of pluto-player"/> pluto-player
+				<img src="https://private-avatars.githubusercontent.com/u/109806237?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1MjAsIm5iZiI6MTczNDY4NTMyMCwicGF0aCI6Ii91LzEwOTgwNjIzNyJ9.CRTZ3KSSe9BB5G_2MQIli312Vh6W7fMmgVRyErZLR0w&s=72&u=80c7f9615797e1bd6fa5ca8625acca73fec9b590&v=4" width="24" alt="Avatar of pluto-player"/> pluto-player
 			</a><br/>
 			Pluto Player
 		</td>
@@ -4442,20 +4442,20 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>334</td>
 		<td>
 			<a target="_blank" href="https://github.com/maitrungduc1410">
-				<img src="https://private-avatars.githubusercontent.com/u/16630193?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA1ODAsIm5iZiI6MTczNDY0OTM4MCwicGF0aCI6Ii91LzE2NjMwMTkzIn0.geqlj9UJ4Aj-3Qjx3XnOcd02AOI5xaJnqFXM7cWp-vA&s=72&u=5cb156906f33978f3fbd114fc2ef187c540b1a9d&v=4" width="24" alt="Avatar of maitrungduc1410"/> maitrungduc1410
+				<img src="https://private-avatars.githubusercontent.com/u/16630193?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1ODAsIm5iZiI6MTczNDY4NTM4MCwicGF0aCI6Ii91LzE2NjMwMTkzIn0.y5tdKb-t3BEjxe_9UpRou3J-ryz2TfsslAL_6sDKUq0&s=72&u=5cb156906f33978f3fbd114fc2ef187c540b1a9d&v=4" width="24" alt="Avatar of maitrungduc1410"/> maitrungduc1410
 			</a><br/>
 			Duc Trung Mai
 		</td>
 		<td>Tiktok </td>
 		<td><a target="_blank" href="https://twitter.com/maitrungduc1410">maitrungduc1410</a></td>
 		<td>Singapore</td>
-		<td>189</td>
+		<td>188</td>
 	</tr>
 	<tr>
 		<td>335</td>
 		<td>
 			<a target="_blank" href="https://github.com/yukuku">
-				<img src="https://private-avatars.githubusercontent.com/u/1407837?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEyNDAsIm5iZiI6MTczNDY1MDA0MCwicGF0aCI6Ii91LzE0MDc4MzcifQ.WWiod1o48vTI9KfTVQb2vLvWqwxqFx7XgSqqlKLrlFM&s=72&u=90c4227aac1845f1c84c4874617ccd263314695d&v=4" width="24" alt="Avatar of yukuku"/> yukuku
+				<img src="https://private-avatars.githubusercontent.com/u/1407837?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcyNDAsIm5iZiI6MTczNDY4NjA0MCwicGF0aCI6Ii91LzE0MDc4MzcifQ.N9H1jqYfxSlH9GwW4PviCjV3sewkWRix3902hAnMkrM&s=72&u=90c4227aac1845f1c84c4874617ccd263314695d&v=4" width="24" alt="Avatar of yukuku"/> yukuku
 			</a><br/>
 			Randy Sugianto Yuku
 		</td>
@@ -4468,7 +4468,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>336</td>
 		<td>
 			<a target="_blank" href="https://github.com/khzaw">
-				<img src="https://private-avatars.githubusercontent.com/u/264626?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwMDAsIm5iZiI6MTczNDY0OTgwMCwicGF0aCI6Ii91LzI2NDYyNiJ9.JHQzjVytg07NnTHVxl3q4EiB5PROgGWcymG6dNBABU0&s=72&u=de20f9a024cefa987971564fa3f84122ccd8b025&v=4" width="24" alt="Avatar of khzaw"/> khzaw
+				<img src="https://private-avatars.githubusercontent.com/u/264626?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwMDAsIm5iZiI6MTczNDY4NTgwMCwicGF0aCI6Ii91LzI2NDYyNiJ9.6VTTsjp2QQplsT2diyKsekVYcvW_cKMeaSmtAQfocUo&s=72&u=de20f9a024cefa987971564fa3f84122ccd8b025&v=4" width="24" alt="Avatar of khzaw"/> khzaw
 			</a><br/>
 			Kaung Htet
 		</td>
@@ -4481,7 +4481,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>337</td>
 		<td>
 			<a target="_blank" href="https://github.com/WaiYanNyeinNaing">
-				<img src="https://private-avatars.githubusercontent.com/u/31321485?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA5NDAsIm5iZiI6MTczNDY0OTc0MCwicGF0aCI6Ii91LzMxMzIxNDg1In0.Kes5IrJrkWUfy91YDR8doiFtjzM_kgrjtdHYx5m_-n8&s=72&u=38ebd8afd6085d7327f581365cbc7f1c17db298f&v=4" width="24" alt="Avatar of WaiYanNyeinNaing"/> WaiYanNyeinNaing
+				<img src="https://private-avatars.githubusercontent.com/u/31321485?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY5NDAsIm5iZiI6MTczNDY4NTc0MCwicGF0aCI6Ii91LzMxMzIxNDg1In0.e3baBKVsuSyqHBvQ2coHt1RHXSUZ25raCAsFryzqdMo&s=72&u=38ebd8afd6085d7327f581365cbc7f1c17db298f&v=4" width="24" alt="Avatar of WaiYanNyeinNaing"/> WaiYanNyeinNaing
 			</a><br/>
 			No Name
 		</td>
@@ -4494,7 +4494,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>338</td>
 		<td>
 			<a target="_blank" href="https://github.com/Abbas-Khann">
-				<img src="https://private-avatars.githubusercontent.com/u/78753275?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEyNDAsIm5iZiI6MTczNDY1MDA0MCwicGF0aCI6Ii91Lzc4NzUzMjc1In0.0Ua3pz5XY4KkGZoUo3W4AamPDmG6Vc__toT29KMjmQM&s=72&u=2048dc1c1bca13fe92178ff96e55458cda968131&v=4" width="24" alt="Avatar of Abbas-Khann"/> Abbas-Khann
+				<img src="https://private-avatars.githubusercontent.com/u/78753275?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcyNDAsIm5iZiI6MTczNDY4NjA0MCwicGF0aCI6Ii91Lzc4NzUzMjc1In0.sWBEFwfgzokkQUEaI-PAxnTj-ls-DZVDKWxqJ8q2Y5A&s=72&u=2048dc1c1bca13fe92178ff96e55458cda968131&v=4" width="24" alt="Avatar of Abbas-Khann"/> Abbas-Khann
 			</a><br/>
 			Abbas Khan
 		</td>
@@ -4507,7 +4507,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>339</td>
 		<td>
 			<a target="_blank" href="https://github.com/zhongwen">
-				<img src="https://private-avatars.githubusercontent.com/u/409579?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA2NDAsIm5iZiI6MTczNDY0OTQ0MCwicGF0aCI6Ii91LzQwOTU3OSJ9.Cppd_sModVitbABYVfBnekGdUgW72AoM2UTCLk8hv2k&s=72&v=4" width="24" alt="Avatar of zhongwen"/> zhongwen
+				<img src="https://private-avatars.githubusercontent.com/u/409579?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91LzQwOTU3OSJ9.tEg0BGEcgnDMfg7919Y_fi3hjMreNSLwmMb9hDP_67o&s=72&v=4" width="24" alt="Avatar of zhongwen"/> zhongwen
 			</a><br/>
 			Zhongwen Xu
 		</td>
@@ -4520,7 +4520,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>340</td>
 		<td>
 			<a target="_blank" href="https://github.com/VincentTatan">
-				<img src="https://private-avatars.githubusercontent.com/u/7019411?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA1ODAsIm5iZiI6MTczNDY0OTM4MCwicGF0aCI6Ii91LzcwMTk0MTEifQ.Ps6vBZiHyd4x4yU6lJ5x-L1mV7d_tgF85QN6-31yMxk&s=72&u=536fd5dd0cafad36214cf4b33633a9d6316e8508&v=4" width="24" alt="Avatar of VincentTatan"/> VincentTatan
+				<img src="https://private-avatars.githubusercontent.com/u/7019411?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1ODAsIm5iZiI6MTczNDY4NTM4MCwicGF0aCI6Ii91LzcwMTk0MTEifQ.h5woOsC4C29dh30A_vXTtm-1JHrKZytj4uanXbmLE9A&s=72&u=536fd5dd0cafad36214cf4b33633a9d6316e8508&v=4" width="24" alt="Avatar of VincentTatan"/> VincentTatan
 			</a><br/>
 			vincentkernn
 		</td>
@@ -4533,7 +4533,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>341</td>
 		<td>
 			<a target="_blank" href="https://github.com/fikriauliya">
-				<img src="https://private-avatars.githubusercontent.com/u/341555?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3MDAsIm5iZiI6MTczNDY0OTUwMCwicGF0aCI6Ii91LzM0MTU1NSJ9.R94NeRoXVm9lKkLgLzeZCx6xHzSiGk4hXN0lwO-l0mk&s=72&u=632c9773bed26eaa7db7778f710908050eb961cb&v=4" width="24" alt="Avatar of fikriauliya"/> fikriauliya
+				<img src="https://private-avatars.githubusercontent.com/u/341555?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3MDAsIm5iZiI6MTczNDY4NTUwMCwicGF0aCI6Ii91LzM0MTU1NSJ9.Yve_H8U7vdyC-KcbRkV66auD3ZlMt7WhXqPLJXtnols&s=72&u=632c9773bed26eaa7db7778f710908050eb961cb&v=4" width="24" alt="Avatar of fikriauliya"/> fikriauliya
 			</a><br/>
 			Pahlevi Fikri Auliya
 		</td>
@@ -4546,7 +4546,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>342</td>
 		<td>
 			<a target="_blank" href="https://github.com/Shenggan">
-				<img src="https://private-avatars.githubusercontent.com/u/20657639?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA2NDAsIm5iZiI6MTczNDY0OTQ0MCwicGF0aCI6Ii91LzIwNjU3NjM5In0.mbtMTJOnmmx4ghnBFTLBbOjBt9YRI1qQcu44xZQ_Nu8&s=72&u=1bebe537ab42c785ed3cf2259a124e6e93479c35&v=4" width="24" alt="Avatar of Shenggan"/> Shenggan
+				<img src="https://private-avatars.githubusercontent.com/u/20657639?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91LzIwNjU3NjM5In0.MP9FO2SHG-KQ9-RVIDOhKCwjjqg0bYdOlVi0Wp0XTMY&s=72&u=1bebe537ab42c785ed3cf2259a124e6e93479c35&v=4" width="24" alt="Avatar of Shenggan"/> Shenggan
 			</a><br/>
 			shenggan
 		</td>
@@ -4558,21 +4558,8 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 	<tr>
 		<td>343</td>
 		<td>
-			<a target="_blank" href="https://github.com/owen800q">
-				<img src="https://private-avatars.githubusercontent.com/u/19252045?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE0MjAsIm5iZiI6MTczNDY1MDIyMCwicGF0aCI6Ii91LzE5MjUyMDQ1In0.KkP0JY2-29J9GyM_tXx9qvou2BEqy3W6Xd-n3mItZHE&s=72&u=8a842f62883855de2623a6f2730a94cdafb6f0ed&v=4" width="24" alt="Avatar of owen800q"/> owen800q
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Singapore</td>
-		<td>185</td>
-	</tr>
-	<tr>
-		<td>344</td>
-		<td>
 			<a target="_blank" href="https://github.com/darryl1975">
-				<img src="https://private-avatars.githubusercontent.com/u/8895749?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA1ODAsIm5iZiI6MTczNDY0OTM4MCwicGF0aCI6Ii91Lzg4OTU3NDkifQ.Lf4H9wvVK0piP0GNPgvRj7YJIyU51QZgllNq2aIabC8&s=72&u=82e56d515d6ea610addf5b5fd0d2e9c8ce3fd03a&v=4" width="24" alt="Avatar of darryl1975"/> darryl1975
+				<img src="https://private-avatars.githubusercontent.com/u/8895749?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1ODAsIm5iZiI6MTczNDY4NTM4MCwicGF0aCI6Ii91Lzg4OTU3NDkifQ.ZgWIzw9cGZzkbsnFsH7cs0TCzuxfJWa2T8U0SyAZTH0&s=72&u=82e56d515d6ea610addf5b5fd0d2e9c8ce3fd03a&v=4" width="24" alt="Avatar of darryl1975"/> darryl1975
 			</a><br/>
 			darryl1975
 		</td>
@@ -4582,10 +4569,23 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>184</td>
 	</tr>
 	<tr>
+		<td>344</td>
+		<td>
+			<a target="_blank" href="https://github.com/owen800q">
+				<img src="https://private-avatars.githubusercontent.com/u/19252045?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1MjAsIm5iZiI6MTczNDY4NTMyMCwicGF0aCI6Ii91LzE5MjUyMDQ1In0.fJlRASoZdPysIoOFoMQWQ4_mclVUCRrwWJlndv4sS0U&s=72&u=8a842f62883855de2623a6f2730a94cdafb6f0ed&v=4" width="24" alt="Avatar of owen800q"/> owen800q
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Singapore</td>
+		<td>184</td>
+	</tr>
+	<tr>
 		<td>345</td>
 		<td>
 			<a target="_blank" href="https://github.com/pyaesone17">
-				<img src="https://private-avatars.githubusercontent.com/u/11407146?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3NjAsIm5iZiI6MTczNDY0OTU2MCwicGF0aCI6Ii91LzExNDA3MTQ2In0.NsmjkWTgEkdvTHL20rzaErrUFbUPzKNhnZkGf3crgC0&s=72&u=e7185bfeb506991acd51ca6662baa977e15cd0fa&v=4" width="24" alt="Avatar of pyaesone17"/> pyaesone17
+				<img src="https://private-avatars.githubusercontent.com/u/11407146?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91LzExNDA3MTQ2In0.nVI7Plx_d3-MvcYitLJ5bVvkalfK81Z12skN1DAVbjI&s=72&u=e7185bfeb506991acd51ca6662baa977e15cd0fa&v=4" width="24" alt="Avatar of pyaesone17"/> pyaesone17
 			</a><br/>
 			Nyan Win
 		</td>
@@ -4598,7 +4598,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>346</td>
 		<td>
 			<a target="_blank" href="https://github.com/kemingy">
-				<img src="https://private-avatars.githubusercontent.com/u/12974685?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4MjAsIm5iZiI6MTczNDY0OTYyMCwicGF0aCI6Ii91LzEyOTc0Njg1In0.MNe-3unmMai3Js085777tJHGAiQfeK7JDv0tmmPD5lc&s=72&u=23dba410fa2a9d73199c40f5b32136fed048df73&v=4" width="24" alt="Avatar of kemingy"/> kemingy
+				<img src="https://private-avatars.githubusercontent.com/u/12974685?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4MjAsIm5iZiI6MTczNDY4NTYyMCwicGF0aCI6Ii91LzEyOTc0Njg1In0.zCfBuwYLF6RK4qAGks4V3h2RwZjIaNL6kNEZzC-xU2w&s=72&u=23dba410fa2a9d73199c40f5b32136fed048df73&v=4" width="24" alt="Avatar of kemingy"/> kemingy
 			</a><br/>
 			Keming
 		</td>
@@ -4611,7 +4611,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>347</td>
 		<td>
 			<a target="_blank" href="https://github.com/choonkeat">
-				<img src="https://private-avatars.githubusercontent.com/u/473?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzNjAsIm5iZiI6MTczNDY1MDE2MCwicGF0aCI6Ii91LzQ3MyJ9.L_oVm00irKsrtB4mVHOAzvAQfUMGfwuyWzksP4uYlJo&s=72&v=4" width="24" alt="Avatar of choonkeat"/> choonkeat
+				<img src="https://private-avatars.githubusercontent.com/u/473?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY0NjAsIm5iZiI6MTczNDY4NTI2MCwicGF0aCI6Ii91LzQ3MyJ9.CfkHfLzqll-HYwNmVjRXtMa-jwcZGYFGf2lcojCDkp4&s=72&v=4" width="24" alt="Avatar of choonkeat"/> choonkeat
 			</a><br/>
 			Chew Choon Keat
 		</td>
@@ -4624,7 +4624,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>348</td>
 		<td>
 			<a target="_blank" href="https://github.com/hassanabidpk">
-				<img src="https://private-avatars.githubusercontent.com/u/554255?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzU1NDI1NSJ9.yvClEHitzntkXoQsL0MSUaCyIa4Ci8NoTtd7516UMbw&s=72&u=286f7608c9c5e60fc0921eed848e9968f650a56c&v=4" width="24" alt="Avatar of hassanabidpk"/> hassanabidpk
+				<img src="https://private-avatars.githubusercontent.com/u/554255?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzU1NDI1NSJ9.VySf4BZmJUzvooj7lg-6kwjWt-bR7ScjPjooPOn_ByA&s=72&u=286f7608c9c5e60fc0921eed848e9968f650a56c&v=4" width="24" alt="Avatar of hassanabidpk"/> hassanabidpk
 			</a><br/>
 			Hassan Abid
 		</td>
@@ -4637,7 +4637,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>349</td>
 		<td>
 			<a target="_blank" href="https://github.com/yhsiang">
-				<img src="https://private-avatars.githubusercontent.com/u/93509?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzMDAsIm5iZiI6MTczNDY1MDEwMCwicGF0aCI6Ii91LzkzNTA5In0.qwTlRH8c2k8ITEiaKQc3ckRPfe8eXwaVx36JLuOnFH8&s=72&v=4" width="24" alt="Avatar of yhsiang"/> yhsiang
+				<img src="https://private-avatars.githubusercontent.com/u/93509?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY0MDAsIm5iZiI6MTczNDY4NTIwMCwicGF0aCI6Ii91LzkzNTA5In0.tGHvh3zMe1QeXSLgUZt_vXj1ssFo1-RreQMaqsqEmao&s=72&v=4" width="24" alt="Avatar of yhsiang"/> yhsiang
 			</a><br/>
 			LY Cheng
 		</td>
@@ -4650,7 +4650,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>350</td>
 		<td>
 			<a target="_blank" href="https://github.com/ryanbaxendale">
-				<img src="https://private-avatars.githubusercontent.com/u/2605002?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4ODAsIm5iZiI6MTczNDY0OTY4MCwicGF0aCI6Ii91LzI2MDUwMDIifQ.7yEwcmREbDQTAmyPB5Qul1k0FmXX3W15TtDdwYEv9_A&s=72&u=54ca1f3a40b8fcef112ff5d4992dc38b39a627fa&v=4" width="24" alt="Avatar of ryanbaxendale"/> ryanbaxendale
+				<img src="https://private-avatars.githubusercontent.com/u/2605002?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4ODAsIm5iZiI6MTczNDY4NTY4MCwicGF0aCI6Ii91LzI2MDUwMDIifQ.IUSvrWhMXL0xvQF2WKZRBqOxVbsl51OZJtBhh-cC1iA&s=72&u=54ca1f3a40b8fcef112ff5d4992dc38b39a627fa&v=4" width="24" alt="Avatar of ryanbaxendale"/> ryanbaxendale
 			</a><br/>
 			Ryan Baxendale
 		</td>
@@ -4663,7 +4663,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>351</td>
 		<td>
 			<a target="_blank" href="https://github.com/zeyu2001">
-				<img src="https://private-avatars.githubusercontent.com/u/39144422?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEyNDAsIm5iZiI6MTczNDY1MDA0MCwicGF0aCI6Ii91LzM5MTQ0NDIyIn0.t1DU4a2KP8ke2nygUiEJFCBu6SkVGin2hJXdD5G-gcI&s=72&u=68842082da4a1882110fa23247c9c7eddd9ea8e0&v=4" width="24" alt="Avatar of zeyu2001"/> zeyu2001
+				<img src="https://private-avatars.githubusercontent.com/u/39144422?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcyNDAsIm5iZiI6MTczNDY4NjA0MCwicGF0aCI6Ii91LzM5MTQ0NDIyIn0.TwKNIUhj9T0E5UD0sy7mKHbOhAYWJko4eFGC-YKv3Xs&s=72&u=68842082da4a1882110fa23247c9c7eddd9ea8e0&v=4" width="24" alt="Avatar of zeyu2001"/> zeyu2001
 			</a><br/>
 			Zeyu Zhang
 		</td>
@@ -4676,7 +4676,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>352</td>
 		<td>
 			<a target="_blank" href="https://github.com/miccheng">
-				<img src="https://private-avatars.githubusercontent.com/u/211980?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4ODAsIm5iZiI6MTczNDY0OTY4MCwicGF0aCI6Ii91LzIxMTk4MCJ9.xGRPgDywtm--smQeyAEj6N-DXS9EBqQRHK8fLYQVLc4&s=72&u=ec25c1e7b71f598fce2c228b5e50166235099767&v=4" width="24" alt="Avatar of miccheng"/> miccheng
+				<img src="https://private-avatars.githubusercontent.com/u/211980?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4ODAsIm5iZiI6MTczNDY4NTY4MCwicGF0aCI6Ii91LzIxMTk4MCJ9.zKUj9bwheqYcjpnh2eAFf0-ISKSy9Or_wVoz_aWGbzs&s=72&u=ec25c1e7b71f598fce2c228b5e50166235099767&v=4" width="24" alt="Avatar of miccheng"/> miccheng
 			</a><br/>
 			Michael Cheng
 		</td>
@@ -4689,7 +4689,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>353</td>
 		<td>
 			<a target="_blank" href="https://github.com/lisiyao21">
-				<img src="https://private-avatars.githubusercontent.com/u/81355712?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4MjAsIm5iZiI6MTczNDY0OTYyMCwicGF0aCI6Ii91LzgxMzU1NzEyIn0._1ktbHEfkZIDSFS_M8QDJreO8GpmvSqXPHww4d_9q4I&s=72&u=1bc4e32755eccc4cc4963183c51754a6011172d3&v=4" width="24" alt="Avatar of lisiyao21"/> lisiyao21
+				<img src="https://private-avatars.githubusercontent.com/u/81355712?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4MjAsIm5iZiI6MTczNDY4NTYyMCwicGF0aCI6Ii91LzgxMzU1NzEyIn0.e-I-QQMXj28moJleVgwKmZg5c6KLoQSZHtiZLj8cqIM&s=72&u=1bc4e32755eccc4cc4963183c51754a6011172d3&v=4" width="24" alt="Avatar of lisiyao21"/> lisiyao21
 			</a><br/>
 			Li Siyao
 		</td>
@@ -4702,7 +4702,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>354</td>
 		<td>
 			<a target="_blank" href="https://github.com/sojamo">
-				<img src="https://private-avatars.githubusercontent.com/u/81155?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzMDAsIm5iZiI6MTczNDY1MDEwMCwicGF0aCI6Ii91LzgxMTU1In0.i-XkXhmATN3NHaIFTvCcjk1e3KqJEZ8BpwtCHYRSJ94&s=72&u=e35b273a8529845a1e74d9fcfa6f97671fd89dbf&v=4" width="24" alt="Avatar of sojamo"/> sojamo
+				<img src="https://private-avatars.githubusercontent.com/u/81155?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY0MDAsIm5iZiI6MTczNDY4NTIwMCwicGF0aCI6Ii91LzgxMTU1In0.E6Ti4UnQ2XsU0N6DvvLmqVA2FHBmCTUEccTwCF6lewU&s=72&u=e35b273a8529845a1e74d9fcfa6f97671fd89dbf&v=4" width="24" alt="Avatar of sojamo"/> sojamo
 			</a><br/>
 			andreas schlegel
 		</td>
@@ -4715,7 +4715,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>355</td>
 		<td>
 			<a target="_blank" href="https://github.com/wyf0912">
-				<img src="https://private-avatars.githubusercontent.com/u/26561397?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEyNDAsIm5iZiI6MTczNDY1MDA0MCwicGF0aCI6Ii91LzI2NTYxMzk3In0.isPD-caUCq5DRfVqJfD3Wpigc8zOWhbGYuyhWI9Cwe0&s=72&u=c4b189ae22f02b1ac732e14ce5c91a5536e55e0b&v=4" width="24" alt="Avatar of wyf0912"/> wyf0912
+				<img src="https://private-avatars.githubusercontent.com/u/26561397?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcyNDAsIm5iZiI6MTczNDY4NjA0MCwicGF0aCI6Ii91LzI2NTYxMzk3In0.y-_mIz0RmCALpBOMXI9xvLXEYuUH6T4sskFM8S9PURQ&s=72&u=c4b189ae22f02b1ac732e14ce5c91a5536e55e0b&v=4" width="24" alt="Avatar of wyf0912"/> wyf0912
 			</a><br/>
 			Yufei Wang
 		</td>
@@ -4727,8 +4727,21 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 	<tr>
 		<td>356</td>
 		<td>
+			<a target="_blank" href="https://github.com/buaacyw">
+				<img src="https://private-avatars.githubusercontent.com/u/52091468?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1ODAsIm5iZiI6MTczNDY4NTM4MCwicGF0aCI6Ii91LzUyMDkxNDY4In0.YojGjDgIioCFIIPw2kvr0WeSHqU0NywK_WDltVL0ewc&s=72&u=8a4bf89f0aae60ab87ebc913b022d72ae5c20ff0&v=4" width="24" alt="Avatar of buaacyw"/> buaacyw
+			</a><br/>
+			Yiwen Chen
+		</td>
+		<td>Nanyang Technological University </td>
+		<td>No Twitter Username</td>
+		<td>Singapore</td>
+		<td>176</td>
+	</tr>
+	<tr>
+		<td>357</td>
+		<td>
 			<a target="_blank" href="https://github.com/caizhongang">
-				<img src="https://private-avatars.githubusercontent.com/u/62529255?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4ODAsIm5iZiI6MTczNDY0OTY4MCwicGF0aCI6Ii91LzYyNTI5MjU1In0.OJ_821symJ3idDCydgTqd6L3zj44A7JOqavW3fyiAyI&s=72&u=ef20e3616158fab63bcd5587124430111244fe0e&v=4" width="24" alt="Avatar of caizhongang"/> caizhongang
+				<img src="https://private-avatars.githubusercontent.com/u/62529255?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4ODAsIm5iZiI6MTczNDY4NTY4MCwicGF0aCI6Ii91LzYyNTI5MjU1In0.xla-o4KIgB3W_SnJCjYO9VW6QHjEhbijpirBk74XlSM&s=72&u=ef20e3616158fab63bcd5587124430111244fe0e&v=4" width="24" alt="Avatar of caizhongang"/> caizhongang
 			</a><br/>
 			Zhongang Cai
 		</td>
@@ -4738,10 +4751,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>176</td>
 	</tr>
 	<tr>
-		<td>357</td>
+		<td>358</td>
 		<td>
 			<a target="_blank" href="https://github.com/TalEliyahu">
-				<img src="https://private-avatars.githubusercontent.com/u/31100945?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzNjAsIm5iZiI6MTczNDY1MDE2MCwicGF0aCI6Ii91LzMxMTAwOTQ1In0.93FHZxkM9O5guDGj9zUoSLMM2xmLIZhu_ycXd0c7Ux4&s=72&u=a9a7914eba602be04a0e06ed506e7cd91bb02e2e&v=4" width="24" alt="Avatar of TalEliyahu"/> TalEliyahu
+				<img src="https://private-avatars.githubusercontent.com/u/31100945?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY0NjAsIm5iZiI6MTczNDY4NTI2MCwicGF0aCI6Ii91LzMxMTAwOTQ1In0.eeAwFUyDaFGr4VTPKFkdwnz3Oow8ztE1iMc-eneNwTY&s=72&u=a9a7914eba602be04a0e06ed506e7cd91bb02e2e&v=4" width="24" alt="Avatar of TalEliyahu"/> TalEliyahu
 			</a><br/>
 			Tal Eliyahu
 		</td>
@@ -4751,10 +4764,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>176</td>
 	</tr>
 	<tr>
-		<td>358</td>
+		<td>359</td>
 		<td>
 			<a target="_blank" href="https://github.com/itsbagpack">
-				<img src="https://private-avatars.githubusercontent.com/u/2077895?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEyNDAsIm5iZiI6MTczNDY1MDA0MCwicGF0aCI6Ii91LzIwNzc4OTUifQ.Si6k0xqY73LYxOdcdCvBihnEzslDZXr0Lh7fEG6v74s&s=72&u=ec5656fbf5061a91f5d0714a31e1f7900c547127&v=4" width="24" alt="Avatar of itsbagpack"/> itsbagpack
+				<img src="https://private-avatars.githubusercontent.com/u/2077895?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcyNDAsIm5iZiI6MTczNDY4NjA0MCwicGF0aCI6Ii91LzIwNzc4OTUifQ.l6zoFbbfPPoLwqdSrEtZIdN4p3FSZKtd4K05WhSwFEo&s=72&u=ec5656fbf5061a91f5d0714a31e1f7900c547127&v=4" width="24" alt="Avatar of itsbagpack"/> itsbagpack
 			</a><br/>
 			Yumin Wong
 		</td>
@@ -4764,10 +4777,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>175</td>
 	</tr>
 	<tr>
-		<td>359</td>
+		<td>360</td>
 		<td>
 			<a target="_blank" href="https://github.com/AnnatarHe">
-				<img src="https://private-avatars.githubusercontent.com/u/8704175?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwMDAsIm5iZiI6MTczNDY0OTgwMCwicGF0aCI6Ii91Lzg3MDQxNzUifQ.3ZF1Lh5jfytQxVw4Rw3b0PKpggApA0lyVFXEyVcFGs0&s=72&u=d0bfa8db2b0214c67772697b6f24ea039e49ec0d&v=4" width="24" alt="Avatar of AnnatarHe"/> AnnatarHe
+				<img src="https://private-avatars.githubusercontent.com/u/8704175?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwMDAsIm5iZiI6MTczNDY4NTgwMCwicGF0aCI6Ii91Lzg3MDQxNzUifQ.ZSVHUH9eH2YCFNRXdpHb7oq4P_dJbV0V_jtuWz3oHwI&s=72&u=d0bfa8db2b0214c67772697b6f24ea039e49ec0d&v=4" width="24" alt="Avatar of AnnatarHe"/> AnnatarHe
 			</a><br/>
 			Le He
 		</td>
@@ -4777,23 +4790,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>175</td>
 	</tr>
 	<tr>
-		<td>360</td>
-		<td>
-			<a target="_blank" href="https://github.com/buaacyw">
-				<img src="https://private-avatars.githubusercontent.com/u/52091468?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA1ODAsIm5iZiI6MTczNDY0OTM4MCwicGF0aCI6Ii91LzUyMDkxNDY4In0.izcuk4wy4PHLeqje69UBL-qUPZ2trzRLyLDzljrZCcc&s=72&u=8a4bf89f0aae60ab87ebc913b022d72ae5c20ff0&v=4" width="24" alt="Avatar of buaacyw"/> buaacyw
-			</a><br/>
-			Yiwen Chen
-		</td>
-		<td>Nanyang Technological University </td>
-		<td>No Twitter Username</td>
-		<td>Singapore</td>
-		<td>175</td>
-	</tr>
-	<tr>
 		<td>361</td>
 		<td>
 			<a target="_blank" href="https://github.com/jikkujose">
-				<img src="https://private-avatars.githubusercontent.com/u/227739?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExMjAsIm5iZiI6MTczNDY0OTkyMCwicGF0aCI6Ii91LzIyNzczOSJ9.eTeaVEbdlY5ikPD0lk3Tj7n2YQFQQEoaDwUqJjkHUQw&s=72&u=5a7f5dc0d01b0fc75d665e0780c1288e17d16dca&v=4" width="24" alt="Avatar of jikkujose"/> jikkujose
+				<img src="https://private-avatars.githubusercontent.com/u/227739?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxMjAsIm5iZiI6MTczNDY4NTkyMCwicGF0aCI6Ii91LzIyNzczOSJ9.MZWPn3tVGCCTPEeB32CRQRAxNTrg7GmPn4LNsdLSfE4&s=72&u=5a7f5dc0d01b0fc75d665e0780c1288e17d16dca&v=4" width="24" alt="Avatar of jikkujose"/> jikkujose
 			</a><br/>
 			Jikku Jose
 		</td>
@@ -4805,23 +4805,23 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 	<tr>
 		<td>362</td>
 		<td>
-			<a target="_blank" href="https://github.com/ytbryan">
-				<img src="https://private-avatars.githubusercontent.com/u/323891?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA1ODAsIm5iZiI6MTczNDY0OTM4MCwicGF0aCI6Ii91LzMyMzg5MSJ9.rpHqJNtAKAfcScza9QQrw8mkT-zdTZTOfMPRQxsUWtk&s=72&u=ebddf0db89e81a363f911bc5611775fed1a36ef1&v=4" width="24" alt="Avatar of ytbryan"/> ytbryan
+			<a target="_blank" href="https://github.com/xuwenhao">
+				<img src="https://private-avatars.githubusercontent.com/u/42074?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4MjAsIm5iZiI6MTczNDY4NTYyMCwicGF0aCI6Ii91LzQyMDc0In0.T_KKjM7CzT-r96Eo621a7CyoPTdlTOJghN902MX9jD4&s=72&u=73a635c65db9ac8ad2f10222b5898020bd483452&v=4" width="24" alt="Avatar of xuwenhao"/> xuwenhao
 			</a><br/>
-			Bryan Lim
+			Xu Wenhao
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
-		<td>173</td>
+		<td>172</td>
 	</tr>
 	<tr>
 		<td>363</td>
 		<td>
-			<a target="_blank" href="https://github.com/xuwenhao">
-				<img src="https://private-avatars.githubusercontent.com/u/42074?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4MjAsIm5iZiI6MTczNDY0OTYyMCwicGF0aCI6Ii91LzQyMDc0In0.Ew2x9LHrmr0XBSGYjxhIUI418gNlpTVryVZZw9Ti878&s=72&u=73a635c65db9ac8ad2f10222b5898020bd483452&v=4" width="24" alt="Avatar of xuwenhao"/> xuwenhao
+			<a target="_blank" href="https://github.com/ytbryan">
+				<img src="https://private-avatars.githubusercontent.com/u/323891?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1ODAsIm5iZiI6MTczNDY4NTM4MCwicGF0aCI6Ii91LzMyMzg5MSJ9.X9m8gmk6zx7bVsNPbww19D9Oa04ngHzkWfCsu61nOZ0&s=72&u=ebddf0db89e81a363f911bc5611775fed1a36ef1&v=4" width="24" alt="Avatar of ytbryan"/> ytbryan
 			</a><br/>
-			Xu Wenhao
+			Bryan Lim
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -4832,7 +4832,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>364</td>
 		<td>
 			<a target="_blank" href="https://github.com/atsixian">
-				<img src="https://private-avatars.githubusercontent.com/u/43892874?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA2NDAsIm5iZiI6MTczNDY0OTQ0MCwicGF0aCI6Ii91LzQzODkyODc0In0.RUpZMSYY5tBd1N2zUTTyfg1u33mA8LrX_msH5ienkN4&s=72&u=dbfcb62ef6279f2b38602d5c4cfb7084c902110e&v=4" width="24" alt="Avatar of atsixian"/> atsixian
+				<img src="https://private-avatars.githubusercontent.com/u/43892874?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91LzQzODkyODc0In0.ao_k3t6uF0YwySj5zg72vTASO2ALrbPrMRKhTtAHwH4&s=72&u=dbfcb62ef6279f2b38602d5c4cfb7084c902110e&v=4" width="24" alt="Avatar of atsixian"/> atsixian
 			</a><br/>
 			Sixian Li
 		</td>
@@ -4845,7 +4845,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>365</td>
 		<td>
 			<a target="_blank" href="https://github.com/damithc">
-				<img src="https://private-avatars.githubusercontent.com/u/1673303?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3NjAsIm5iZiI6MTczNDY0OTU2MCwicGF0aCI6Ii91LzE2NzMzMDMifQ.1RHTUwI06unCePUE2fy9JjKZVwjh6B7k3pC0YNBFVE8&s=72&u=1732a87200a4da87271fefb1f5ebaa20a482f286&v=4" width="24" alt="Avatar of damithc"/> damithc
+				<img src="https://private-avatars.githubusercontent.com/u/1673303?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91LzE2NzMzMDMifQ.isKk3gnDb-LISwqpCA0_VMNlHWprS6iHthcAZu5wkGc&s=72&u=1732a87200a4da87271fefb1f5ebaa20a482f286&v=4" width="24" alt="Avatar of damithc"/> damithc
 			</a><br/>
 			Damith C Rajapakse
 		</td>
@@ -4858,7 +4858,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>366</td>
 		<td>
 			<a target="_blank" href="https://github.com/farisv">
-				<img src="https://private-avatars.githubusercontent.com/u/44131180?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE0MjAsIm5iZiI6MTczNDY1MDIyMCwicGF0aCI6Ii91LzQ0MTMxMTgwIn0.lPFHW7Vmvq-4ysvuBxHc53_h-kRze6eYTx6PD4cDiXA&s=72&u=2ca6ffea97af7c29ea61c782173125113f5a0349&v=4" width="24" alt="Avatar of farisv"/> farisv
+				<img src="https://private-avatars.githubusercontent.com/u/44131180?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1MjAsIm5iZiI6MTczNDY4NTMyMCwicGF0aCI6Ii91LzQ0MTMxMTgwIn0.itpZQRyFufjPxjANoOCCWv04crmClWIA41W4wVwyuj8&s=72&u=2ca6ffea97af7c29ea61c782173125113f5a0349&v=4" width="24" alt="Avatar of farisv"/> farisv
 			</a><br/>
 			Fariskhi Vidyan
 		</td>
@@ -4871,7 +4871,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>367</td>
 		<td>
 			<a target="_blank" href="https://github.com/MiloTruck">
-				<img src="https://private-avatars.githubusercontent.com/u/44202116?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3NjAsIm5iZiI6MTczNDY0OTU2MCwicGF0aCI6Ii91LzQ0MjAyMTE2In0.bYfUucVw9V2lRWbeLJWxu9LxI_ZS8yzNuk38ITdc-Ps&s=72&u=48ef489d655e07ed51c20d8a6630b226039b7a3c&v=4" width="24" alt="Avatar of MiloTruck"/> MiloTruck
+				<img src="https://private-avatars.githubusercontent.com/u/44202116?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91LzQ0MjAyMTE2In0.96PTW_oDXyMjVLhHK_WevcfnfKKG0-JAxQ5XAkp_EGM&s=72&u=48ef489d655e07ed51c20d8a6630b226039b7a3c&v=4" width="24" alt="Avatar of MiloTruck"/> MiloTruck
 			</a><br/>
 			No Name
 		</td>
@@ -4884,7 +4884,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>368</td>
 		<td>
 			<a target="_blank" href="https://github.com/zhiayang">
-				<img src="https://private-avatars.githubusercontent.com/u/500236?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzMDAsIm5iZiI6MTczNDY1MDEwMCwicGF0aCI6Ii91LzUwMDIzNiJ9.w7T1B4OmZ3nVAAWkbf45XtdDGUOu7US9t-Y73G4hP9g&s=72&u=50ff926cb6d0f89ff712d8adc96b556a542fc2a5&v=4" width="24" alt="Avatar of zhiayang"/> zhiayang
+				<img src="https://private-avatars.githubusercontent.com/u/500236?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY0MDAsIm5iZiI6MTczNDY4NTIwMCwicGF0aCI6Ii91LzUwMDIzNiJ9.H4YtgtrB6HFbgqWRdZAmh-YldI1IYbsrieu0uzct8Ug&s=72&u=50ff926cb6d0f89ff712d8adc96b556a542fc2a5&v=4" width="24" alt="Avatar of zhiayang"/> zhiayang
 			</a><br/>
 			yuki
 		</td>
@@ -4897,7 +4897,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>369</td>
 		<td>
 			<a target="_blank" href="https://github.com/cyclese96">
-				<img src="https://private-avatars.githubusercontent.com/u/76770451?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA5NDAsIm5iZiI6MTczNDY0OTc0MCwicGF0aCI6Ii91Lzc2NzcwNDUxIn0.ykRMT2CN_-N_Vhlg5-31K59SURoC0WDBPrg_aYZ-W88&s=72&u=e85dff83f57897c6615edac2d7dfb38a5f0d8da9&v=4" width="24" alt="Avatar of cyclese96"/> cyclese96
+				<img src="https://private-avatars.githubusercontent.com/u/76770451?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY5NDAsIm5iZiI6MTczNDY4NTc0MCwicGF0aCI6Ii91Lzc2NzcwNDUxIn0.5BCDSL6fQ8tdcPVrIJ0kn9cV_BruFXAri_eodD0axXc&s=72&u=e85dff83f57897c6615edac2d7dfb38a5f0d8da9&v=4" width="24" alt="Avatar of cyclese96"/> cyclese96
 			</a><br/>
 			PolkaBridge
 		</td>
@@ -4910,7 +4910,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>370</td>
 		<td>
 			<a target="_blank" href="https://github.com/JervyShi">
-				<img src="https://private-avatars.githubusercontent.com/u/1862729?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4MjAsIm5iZiI6MTczNDY0OTYyMCwicGF0aCI6Ii91LzE4NjI3MjkifQ.SOhxEEaKGFb_dL1dVhFokI3aDCHakbEYQ_8S1GTQIuw&s=72&v=4" width="24" alt="Avatar of JervyShi"/> JervyShi
+				<img src="https://private-avatars.githubusercontent.com/u/1862729?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4MjAsIm5iZiI6MTczNDY4NTYyMCwicGF0aCI6Ii91LzE4NjI3MjkifQ.ox_4dWC-TLVUtVEcKZc7ugcjGlQ6BpGRCT0mrxPmxvo&s=72&v=4" width="24" alt="Avatar of JervyShi"/> JervyShi
 			</a><br/>
 			JervyShi
 		</td>
@@ -4923,7 +4923,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>371</td>
 		<td>
 			<a target="_blank" href="https://github.com/allanj">
-				<img src="https://private-avatars.githubusercontent.com/u/3351187?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzMDAsIm5iZiI6MTczNDY1MDEwMCwicGF0aCI6Ii91LzMzNTExODcifQ.0kQyqYI7oeHqTG-z4lf1Kf5VJfzkngWObPF8Hugnnv4&s=72&u=f0feab47627bad404470aea574d848ba3f5621c4&v=4" width="24" alt="Avatar of allanj"/> allanj
+				<img src="https://private-avatars.githubusercontent.com/u/3351187?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY0MDAsIm5iZiI6MTczNDY4NTIwMCwicGF0aCI6Ii91LzMzNTExODcifQ.gpTPN_79kzfo11LNwx7Y8m_MD6TI4MCOdmyS1vPgluA&s=72&u=f0feab47627bad404470aea574d848ba3f5621c4&v=4" width="24" alt="Avatar of allanj"/> allanj
 			</a><br/>
 			Allan Jie
 		</td>
@@ -4936,7 +4936,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>372</td>
 		<td>
 			<a target="_blank" href="https://github.com/Wuvist">
-				<img src="https://private-avatars.githubusercontent.com/u/657796?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExMjAsIm5iZiI6MTczNDY0OTkyMCwicGF0aCI6Ii91LzY1Nzc5NiJ9.B0X7SLbB56l507SVWRW7545USVod78G2W_pNGK2WA2k&s=72&u=c23818f13ab690743d4b133880db0dab95e9ccea&v=4" width="24" alt="Avatar of Wuvist"/> Wuvist
+				<img src="https://private-avatars.githubusercontent.com/u/657796?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxMjAsIm5iZiI6MTczNDY4NTkyMCwicGF0aCI6Ii91LzY1Nzc5NiJ9.MF9En-HO3i7M4z17Sw1jB-7eAF9KcdATeA9UOcvFEA8&s=72&u=c23818f13ab690743d4b133880db0dab95e9ccea&v=4" width="24" alt="Avatar of Wuvist"/> Wuvist
 			</a><br/>
 			Weng Wei
 		</td>
@@ -4949,7 +4949,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>373</td>
 		<td>
 			<a target="_blank" href="https://github.com/ngzhian">
-				<img src="https://private-avatars.githubusercontent.com/u/1749303?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA2NDAsIm5iZiI6MTczNDY0OTQ0MCwicGF0aCI6Ii91LzE3NDkzMDMifQ.1mMCEZp4Bg2lBRbL-49tq2XvZl_nToBgYaRqgiSCsnk&s=72&u=86c2071e45ef840d7d62e015a965e91bf3e0aa5e&v=4" width="24" alt="Avatar of ngzhian"/> ngzhian
+				<img src="https://private-avatars.githubusercontent.com/u/1749303?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91LzE3NDkzMDMifQ.NeHNxSOUy4UlXjF-pGCICtH4AU7YAezmcClrAp8e8ME&s=72&u=86c2071e45ef840d7d62e015a965e91bf3e0aa5e&v=4" width="24" alt="Avatar of ngzhian"/> ngzhian
 			</a><br/>
 			Ng Zhi An
 		</td>
@@ -4962,7 +4962,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>374</td>
 		<td>
 			<a target="_blank" href="https://github.com/ver217">
-				<img src="https://private-avatars.githubusercontent.com/u/23111350?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzNjAsIm5iZiI6MTczNDY1MDE2MCwicGF0aCI6Ii91LzIzMTExMzUwIn0.iAG4a0PGdBU6ShZ3wduaR6QBC778UYpYsvbivgfAwtY&s=72&u=e3963555deb24ee4e4e5f0b72b81c986cbaf1bb3&v=4" width="24" alt="Avatar of ver217"/> ver217
+				<img src="https://private-avatars.githubusercontent.com/u/23111350?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY0NjAsIm5iZiI6MTczNDY4NTI2MCwicGF0aCI6Ii91LzIzMTExMzUwIn0.QB62pB4t_61c1CCr2sBmJAUNe6Cbb1DYVk-eGu39cQo&s=72&u=e3963555deb24ee4e4e5f0b72b81c986cbaf1bb3&v=4" width="24" alt="Avatar of ver217"/> ver217
 			</a><br/>
 			Hongxin Liu
 		</td>
@@ -4974,21 +4974,21 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 	<tr>
 		<td>375</td>
 		<td>
-			<a target="_blank" href="https://github.com/fajarsiddiqfs">
-				<img src="https://private-avatars.githubusercontent.com/u/20717334?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEyNDAsIm5iZiI6MTczNDY1MDA0MCwicGF0aCI6Ii91LzIwNzE3MzM0In0.l8EKGVQ_rrJv60bmMRb1CG61Kv-OX_-9eHRYAQ0nZRc&s=72&u=baca7c110edc1f4ffbb324ea409380fdd2e18104&v=4" width="24" alt="Avatar of fajarsiddiqfs"/> fajarsiddiqfs
+			<a target="_blank" href="https://github.com/fish98">
+				<img src="https://private-avatars.githubusercontent.com/u/33076808?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzMzMDc2ODA4In0.j-urDnIgi6yqwDOoWfnKwkpIDyXf5P3xaMoCcVAdJNI&s=72&u=f2e96c6c2be45208317a458a33d713090e9ee0d8&v=4" width="24" alt="Avatar of fish98"/> fish98
 			</a><br/>
-			Fajar Siddiq 
+			TTFISH
 		</td>
-		<td>@euphoryahq </td>
-		<td><a target="_blank" href="https://twitter.com/fajarsiddiqfs">fajarsiddiqfs</a></td>
-		<td>Yishun Singapore</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Singapore</td>
 		<td>166</td>
 	</tr>
 	<tr>
 		<td>376</td>
 		<td>
 			<a target="_blank" href="https://github.com/tranHieuDev23">
-				<img src="https://private-avatars.githubusercontent.com/u/23050868?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3NjAsIm5iZiI6MTczNDY0OTU2MCwicGF0aCI6Ii91LzIzMDUwODY4In0.4R4wUvrNxbHLVr6fEQo6xxSaMfm94KZIL9bgLrQmJV8&s=72&u=8b1ffe66cec345066f95258f504ac7cb0ab2ca98&v=4" width="24" alt="Avatar of tranHieuDev23"/> tranHieuDev23
+				<img src="https://private-avatars.githubusercontent.com/u/23050868?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91LzIzMDUwODY4In0.B0IHkFBnTmyIisbKzBTB__IYWS4EMigLrp48xaiITvY&s=72&u=8b1ffe66cec345066f95258f504ac7cb0ab2ca98&v=4" width="24" alt="Avatar of tranHieuDev23"/> tranHieuDev23
 			</a><br/>
 			Tran Minh Hieu
 		</td>
@@ -5001,7 +5001,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>377</td>
 		<td>
 			<a target="_blank" href="https://github.com/arunma">
-				<img src="https://private-avatars.githubusercontent.com/u/143679?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzE0MzY3OSJ9.aV5gzOyNk8p-NJGzGeADW6hs2iDPXMKZ8ezibuGdXyE&s=72&u=330efb75d340a58c873e1b2bff8389c643d4d86f&v=4" width="24" alt="Avatar of arunma"/> arunma
+				<img src="https://private-avatars.githubusercontent.com/u/143679?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxODAsIm5iZiI6MTczNDY4NTk4MCwicGF0aCI6Ii91LzE0MzY3OSJ9.Z6x27Sk22xP_EwLgk4mfktc8nAulvecwNt9ypSnHEZg&s=72&u=330efb75d340a58c873e1b2bff8389c643d4d86f&v=4" width="24" alt="Avatar of arunma"/> arunma
 			</a><br/>
 			Argon
 		</td>
@@ -5014,7 +5014,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>378</td>
 		<td>
 			<a target="_blank" href="https://github.com/microfisher">
-				<img src="https://private-avatars.githubusercontent.com/u/6093582?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzYwOTM1ODIifQ.Qab8LVb9Lm58LtkW4p9N_GRuQ-HxKD-GsuR2IDr8U6k&s=72&u=cc8bfefb509e22de8d36526f0a1c815c33f97b57&v=4" width="24" alt="Avatar of microfisher"/> microfisher
+				<img src="https://private-avatars.githubusercontent.com/u/6093582?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzYwOTM1ODIifQ.5Wt4cDqTquRtBkZyRiFe5OgbCL9w90ZdojSVT58P-k8&s=72&u=cc8bfefb509e22de8d36526f0a1c815c33f97b57&v=4" width="24" alt="Avatar of microfisher"/> microfisher
 			</a><br/>
 			Wesley
 		</td>
@@ -5027,7 +5027,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>379</td>
 		<td>
 			<a target="_blank" href="https://github.com/architdate">
-				<img src="https://private-avatars.githubusercontent.com/u/17220860?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4ODAsIm5iZiI6MTczNDY0OTY4MCwicGF0aCI6Ii91LzE3MjIwODYwIn0.cpa9ScdYtaK4vGuP07_DYVFaIP1NKoJ9TNqxlYnEqow&s=72&u=eb4867523007390552d85d8465eeae9af0364308&v=4" width="24" alt="Avatar of architdate"/> architdate
+				<img src="https://private-avatars.githubusercontent.com/u/17220860?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4ODAsIm5iZiI6MTczNDY4NTY4MCwicGF0aCI6Ii91LzE3MjIwODYwIn0.D9ZhxPBrm90azp0NS_QMU9oUzvu0MHYpT5bGQgGq_04&s=72&u=eb4867523007390552d85d8465eeae9af0364308&v=4" width="24" alt="Avatar of architdate"/> architdate
 			</a><br/>
 			Archit Date
 		</td>
@@ -5040,7 +5040,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>380</td>
 		<td>
 			<a target="_blank" href="https://github.com/codelion">
-				<img src="https://private-avatars.githubusercontent.com/u/603317?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzMDAsIm5iZiI6MTczNDY1MDEwMCwicGF0aCI6Ii91LzYwMzMxNyJ9.KNIAv4bzlSLqfqtwAYhlV3fpH0T8zt8r4sNLZ4dCZWM&s=72&u=33f9407d0cb3a9c3ffa437813d4d91d77605810a&v=4" width="24" alt="Avatar of codelion"/> codelion
+				<img src="https://private-avatars.githubusercontent.com/u/603317?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY0MDAsIm5iZiI6MTczNDY4NTIwMCwicGF0aCI6Ii91LzYwMzMxNyJ9.PHkr0ya2dME3r3zz397Go4BRVv5R0kra2NfN4Ecyfo4&s=72&u=33f9407d0cb3a9c3ffa437813d4d91d77605810a&v=4" width="24" alt="Avatar of codelion"/> codelion
 			</a><br/>
 			Asankhaya Sharma
 		</td>
@@ -5052,21 +5052,21 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 	<tr>
 		<td>381</td>
 		<td>
-			<a target="_blank" href="https://github.com/fish98">
-				<img src="https://private-avatars.githubusercontent.com/u/33076808?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzMzMDc2ODA4In0.NBh2RQcz1ne1x1EvgQ6o83ByijC4Ehic0Au3owyPM0o&s=72&u=f2e96c6c2be45208317a458a33d713090e9ee0d8&v=4" width="24" alt="Avatar of fish98"/> fish98
+			<a target="_blank" href="https://github.com/fajarsiddiqfs">
+				<img src="https://private-avatars.githubusercontent.com/u/20717334?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcyNDAsIm5iZiI6MTczNDY4NjA0MCwicGF0aCI6Ii91LzIwNzE3MzM0In0.LbtDH9P9UYxpplOuLD7m0CoEcIFKhqA9B_eT3dq7CYU&s=72&u=baca7c110edc1f4ffbb324ea409380fdd2e18104&v=4" width="24" alt="Avatar of fajarsiddiqfs"/> fajarsiddiqfs
 			</a><br/>
-			TTFISH
+			Fajar Siddiq 
 		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Singapore</td>
+		<td>@euphoryahq </td>
+		<td><a target="_blank" href="https://twitter.com/fajarsiddiqfs">fajarsiddiqfs</a></td>
+		<td>Yishun Singapore</td>
 		<td>165</td>
 	</tr>
 	<tr>
 		<td>382</td>
 		<td>
 			<a target="_blank" href="https://github.com/vn-crypto">
-				<img src="https://private-avatars.githubusercontent.com/u/94950553?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3NjAsIm5iZiI6MTczNDY0OTU2MCwicGF0aCI6Ii91Lzk0OTUwNTUzIn0.Ygw4IpiFDLlw8nzsvBF0fRnfXryI_qe3JytdluQb--Y&s=72&v=4" width="24" alt="Avatar of vn-crypto"/> vn-crypto
+				<img src="https://private-avatars.githubusercontent.com/u/94950553?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91Lzk0OTUwNTUzIn0.TGyAhQCiyEPfwd38zx382d96veKuJ0o-R42BpfnSMO4&s=72&v=4" width="24" alt="Avatar of vn-crypto"/> vn-crypto
 			</a><br/>
 			vncrypto
 		</td>
@@ -5079,7 +5079,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>383</td>
 		<td>
 			<a target="_blank" href="https://github.com/Na-Z">
-				<img src="https://private-avatars.githubusercontent.com/u/35828432?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzMDAsIm5iZiI6MTczNDY1MDEwMCwicGF0aCI6Ii91LzM1ODI4NDMyIn0.7Gpwig2L2j91a56-BYFB95l-pjmrjKblBeDI5X2PQJg&s=72&v=4" width="24" alt="Avatar of Na-Z"/> Na-Z
+				<img src="https://private-avatars.githubusercontent.com/u/35828432?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY0MDAsIm5iZiI6MTczNDY4NTIwMCwicGF0aCI6Ii91LzM1ODI4NDMyIn0.25oa_uZwU7WKmfMtb-H3L40pS_YGBREqw7oP1T4sMpo&s=72&v=4" width="24" alt="Avatar of Na-Z"/> Na-Z
 			</a><br/>
 			No Name
 		</td>
@@ -5092,7 +5092,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>384</td>
 		<td>
 			<a target="_blank" href="https://github.com/telegeography">
-				<img src="https://private-avatars.githubusercontent.com/u/1068625?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA1ODAsIm5iZiI6MTczNDY0OTM4MCwicGF0aCI6Ii91LzEwNjg2MjUifQ.0ymX5qngB1rIAYiXKDnUOB8eOOtJT3GI-fG7arrd2zQ&s=72&v=4" width="24" alt="Avatar of telegeography"/> telegeography
+				<img src="https://private-avatars.githubusercontent.com/u/1068625?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1ODAsIm5iZiI6MTczNDY4NTM4MCwicGF0aCI6Ii91LzEwNjg2MjUifQ.4gjqX2-RFWbUjH74mGOfUWoSy-ZkBnW2838RKLfl9BM&s=72&v=4" width="24" alt="Avatar of telegeography"/> telegeography
 			</a><br/>
 			No Name
 		</td>
@@ -5105,7 +5105,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>385</td>
 		<td>
 			<a target="_blank" href="https://github.com/Xuedixuedi">
-				<img src="https://private-avatars.githubusercontent.com/u/43920794?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA2NDAsIm5iZiI6MTczNDY0OTQ0MCwicGF0aCI6Ii91LzQzOTIwNzk0In0.u_BOD1k-yRv-1Mu-eMlSpNzrc90Ii5VZe82LPWdtj1M&s=72&u=98e0e8ec120942fd880ed1824470a45ba3f749f0&v=4" width="24" alt="Avatar of Xuedixuedi"/> Xuedixuedi
+				<img src="https://private-avatars.githubusercontent.com/u/43920794?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91LzQzOTIwNzk0In0.OB79jEHkBUxhu5gyndOD-ntPF4KhxhYBTGNujiIcE_w&s=72&u=98e0e8ec120942fd880ed1824470a45ba3f749f0&v=4" width="24" alt="Avatar of Xuedixuedi"/> Xuedixuedi
 			</a><br/>
 			
 		</td>
@@ -5118,7 +5118,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>386</td>
 		<td>
 			<a target="_blank" href="https://github.com/nisdas">
-				<img src="https://private-avatars.githubusercontent.com/u/33201827?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3NjAsIm5iZiI6MTczNDY0OTU2MCwicGF0aCI6Ii91LzMzMjAxODI3In0.98vOiUt3CWBsHtpKR7TTyUT-90fxGuglfWaozjRIbjE&s=72&u=237644f422467c55d98eab69d7b360d4d2b9e54f&v=4" width="24" alt="Avatar of nisdas"/> nisdas
+				<img src="https://private-avatars.githubusercontent.com/u/33201827?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91LzMzMjAxODI3In0.iOqwJ4JCvmzdgfPl7kjunwUyFXiAw8BizBJvb4fCB8s&s=72&u=237644f422467c55d98eab69d7b360d4d2b9e54f&v=4" width="24" alt="Avatar of nisdas"/> nisdas
 			</a><br/>
 			Nishant Das
 		</td>
@@ -5131,7 +5131,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>387</td>
 		<td>
 			<a target="_blank" href="https://github.com/brootware">
-				<img src="https://private-avatars.githubusercontent.com/u/7734956?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3NjAsIm5iZiI6MTczNDY0OTU2MCwicGF0aCI6Ii91Lzc3MzQ5NTYifQ.Nj7hLzI1UN-Hi6RhQUTP-MecEwPbWPf24yvo_9ZGmcs&s=72&u=37e8975ac3bac2029862505a8679425262b74eb1&v=4" width="24" alt="Avatar of brootware"/> brootware
+				<img src="https://private-avatars.githubusercontent.com/u/7734956?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91Lzc3MzQ5NTYifQ.BfOysDpA4Kb1auul_n2C936b_S4_KMSm8iuNBpM6YMk&s=72&u=37e8975ac3bac2029862505a8679425262b74eb1&v=4" width="24" alt="Avatar of brootware"/> brootware
 			</a><br/>
 			Oaker Min
 		</td>
@@ -5144,7 +5144,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>388</td>
 		<td>
 			<a target="_blank" href="https://github.com/yuewang-cuhk">
-				<img src="https://private-avatars.githubusercontent.com/u/8224463?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE0MjAsIm5iZiI6MTczNDY1MDIyMCwicGF0aCI6Ii91LzgyMjQ0NjMifQ.23kgdPgFl0iYSeCHf_Mz7W4EzB17UJe87X0V8AGmTUY&s=72&u=265726ade3fffc192e75e118a14311bb0057bb26&v=4" width="24" alt="Avatar of yuewang-cuhk"/> yuewang-cuhk
+				<img src="https://private-avatars.githubusercontent.com/u/8224463?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1MjAsIm5iZiI6MTczNDY4NTMyMCwicGF0aCI6Ii91LzgyMjQ0NjMifQ.vYPste_mfVnx_YQK9o4-tCfknscoeYw8S6zj80oCrrA&s=72&u=265726ade3fffc192e75e118a14311bb0057bb26&v=4" width="24" alt="Avatar of yuewang-cuhk"/> yuewang-cuhk
 			</a><br/>
 			WANG Yue
 		</td>
@@ -5157,7 +5157,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>389</td>
 		<td>
 			<a target="_blank" href="https://github.com/ArchitectAK">
-				<img src="https://private-avatars.githubusercontent.com/u/3774909?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE0MjAsIm5iZiI6MTczNDY1MDIyMCwicGF0aCI6Ii91LzM3NzQ5MDkifQ.4OwunXiAKl9WiuwRWsIAPVJY0KbeBlexYvcXqnkg69A&s=72&u=254346498448ba3f652992a27aba2efd6da8ff07&v=4" width="24" alt="Avatar of ArchitectAK"/> ArchitectAK
+				<img src="https://private-avatars.githubusercontent.com/u/3774909?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1MjAsIm5iZiI6MTczNDY4NTMyMCwicGF0aCI6Ii91LzM3NzQ5MDkifQ.nauzO5oXDxgLN8J3G1YbifCRITDGNE3JOL54XLMq6xU&s=72&u=254346498448ba3f652992a27aba2efd6da8ff07&v=4" width="24" alt="Avatar of ArchitectAK"/> ArchitectAK
 			</a><br/>
 			Ankit Kumar
 		</td>
@@ -5170,7 +5170,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>390</td>
 		<td>
 			<a target="_blank" href="https://github.com/jmeistrich">
-				<img src="https://private-avatars.githubusercontent.com/u/1284492?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE0MjAsIm5iZiI6MTczNDY1MDIyMCwicGF0aCI6Ii91LzEyODQ0OTIifQ.CbtDO0QGkd7j7auMRtAp--d640TzUcghDZuI9LckWjM&s=72&u=52e6c27a1c9a4def418d68a503a2acf1887cd9a9&v=4" width="24" alt="Avatar of jmeistrich"/> jmeistrich
+				<img src="https://private-avatars.githubusercontent.com/u/1284492?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1MjAsIm5iZiI6MTczNDY4NTMyMCwicGF0aCI6Ii91LzEyODQ0OTIifQ.Q6uoM8lmeBb1tAS51t19nStM_TTEa2-XvTbx8esWbCs&s=72&u=52e6c27a1c9a4def418d68a503a2acf1887cd9a9&v=4" width="24" alt="Avatar of jmeistrich"/> jmeistrich
 			</a><br/>
 			Jay Meistrich
 		</td>
@@ -5183,7 +5183,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>391</td>
 		<td>
 			<a target="_blank" href="https://github.com/loiluu">
-				<img src="https://private-avatars.githubusercontent.com/u/5085931?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA1ODAsIm5iZiI6MTczNDY0OTM4MCwicGF0aCI6Ii91LzUwODU5MzEifQ.i2jtEnFVwAODQ-sBzKqA_o2zzjmpt2HbGO_h1fKs7qc&s=72&u=960481c4970ec310fa3288f1e2d1d8780342bb46&v=4" width="24" alt="Avatar of loiluu"/> loiluu
+				<img src="https://private-avatars.githubusercontent.com/u/5085931?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1ODAsIm5iZiI6MTczNDY4NTM4MCwicGF0aCI6Ii91LzUwODU5MzEifQ.gX93q6xX1rP1_iyxEPqTsyClAGGrHBUOWldmHf4rfMw&s=72&u=960481c4970ec310fa3288f1e2d1d8780342bb46&v=4" width="24" alt="Avatar of loiluu"/> loiluu
 			</a><br/>
 			Loi Luu
 		</td>
@@ -5196,7 +5196,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>392</td>
 		<td>
 			<a target="_blank" href="https://github.com/rmdort">
-				<img src="https://private-avatars.githubusercontent.com/u/118231?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3NjAsIm5iZiI6MTczNDY0OTU2MCwicGF0aCI6Ii91LzExODIzMSJ9.MM12YWj3613JoRTpQbqGICBfFGHCoRmWJrQsN4p0MTI&s=72&u=9095c32d97507437ea6a5e17ba28383a85596cfc&v=4" width="24" alt="Avatar of rmdort"/> rmdort
+				<img src="https://private-avatars.githubusercontent.com/u/118231?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91LzExODIzMSJ9.CkfQpB0qX8n2WjYJcgdE-Xjj5Qyb1GDdipdZlQuqANY&s=72&u=9095c32d97507437ea6a5e17ba28383a85596cfc&v=4" width="24" alt="Avatar of rmdort"/> rmdort
 			</a><br/>
 			Vinay M
 		</td>
@@ -5209,7 +5209,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>393</td>
 		<td>
 			<a target="_blank" href="https://github.com/ejamesc">
-				<img src="https://private-avatars.githubusercontent.com/u/337175?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4MjAsIm5iZiI6MTczNDY0OTYyMCwicGF0aCI6Ii91LzMzNzE3NSJ9.aL4hQgHoSoCh5wz49-_-D0cCO73NFa9DpPNY1v_7-hQ&s=72&u=e4a62417cff55b6eac4730dcaa71ebdd2c77e22f&v=4" width="24" alt="Avatar of ejamesc"/> ejamesc
+				<img src="https://private-avatars.githubusercontent.com/u/337175?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4MjAsIm5iZiI6MTczNDY4NTYyMCwicGF0aCI6Ii91LzMzNzE3NSJ9.c09Lb5_wBAxBlP5-pjjQHFT-h78TT1bB0nO6CbZj8TA&s=72&u=e4a62417cff55b6eac4730dcaa71ebdd2c77e22f&v=4" width="24" alt="Avatar of ejamesc"/> ejamesc
 			</a><br/>
 			Cedric Chin
 		</td>
@@ -5222,7 +5222,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>394</td>
 		<td>
 			<a target="_blank" href="https://github.com/lmbxmu">
-				<img src="https://private-avatars.githubusercontent.com/u/40844301?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzQwODQ0MzAxIn0.4GhUVQEz-9TZkVtvDOm-Gn9xerm1C7YcICEtTgxbk40&s=72&v=4" width="24" alt="Avatar of lmbxmu"/> lmbxmu
+				<img src="https://private-avatars.githubusercontent.com/u/40844301?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzQwODQ0MzAxIn0.zSxugPpWIBOPtGKarRDIOTpU8bgvXw41h9DfQf5FV-E&s=72&v=4" width="24" alt="Avatar of lmbxmu"/> lmbxmu
 			</a><br/>
 			Mingbao Lin 
 		</td>
@@ -5235,7 +5235,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>395</td>
 		<td>
 			<a target="_blank" href="https://github.com/alanchn31">
-				<img src="https://private-avatars.githubusercontent.com/u/24425756?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4ODAsIm5iZiI6MTczNDY0OTY4MCwicGF0aCI6Ii91LzI0NDI1NzU2In0.dI46fYch8qXxacC7uJ_As4u2WewfHcRJqjzMO9X63VE&s=72&u=8f8ae6cd3807e88e1b12249f803d8c7454b5c888&v=4" width="24" alt="Avatar of alanchn31"/> alanchn31
+				<img src="https://private-avatars.githubusercontent.com/u/24425756?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4ODAsIm5iZiI6MTczNDY4NTY4MCwicGF0aCI6Ii91LzI0NDI1NzU2In0.4bmqi63cS-UyLZ5Fk1QJojqa3KDTZlUgPIC0JT9Orfk&s=72&u=8f8ae6cd3807e88e1b12249f803d8c7454b5c888&v=4" width="24" alt="Avatar of alanchn31"/> alanchn31
 			</a><br/>
 			Alan Choon
 		</td>
@@ -5248,7 +5248,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>396</td>
 		<td>
 			<a target="_blank" href="https://github.com/guyuchao">
-				<img src="https://private-avatars.githubusercontent.com/u/31696690?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA5NDAsIm5iZiI6MTczNDY0OTc0MCwicGF0aCI6Ii91LzMxNjk2NjkwIn0.eTgBWnOgzIbItJbVOHvrAHJcRNVPTx9P2AxpGdIjBjs&s=72&u=525c68631984d366b667c5668885d13434963544&v=4" width="24" alt="Avatar of guyuchao"/> guyuchao
+				<img src="https://private-avatars.githubusercontent.com/u/31696690?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY5NDAsIm5iZiI6MTczNDY4NTc0MCwicGF0aCI6Ii91LzMxNjk2NjkwIn0.HngmB1a-8P5uZZmLr__qg-56otzkJaJv8l4lBcpACoE&s=72&u=525c68631984d366b667c5668885d13434963544&v=4" width="24" alt="Avatar of guyuchao"/> guyuchao
 			</a><br/>
 			Yuchao Gu
 		</td>
@@ -5261,7 +5261,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>397</td>
 		<td>
 			<a target="_blank" href="https://github.com/GhiXu">
-				<img src="https://private-avatars.githubusercontent.com/u/50974749?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA2NDAsIm5iZiI6MTczNDY0OTQ0MCwicGF0aCI6Ii91LzUwOTc0NzQ5In0._sfgJTXGRvEWSnUXd-HFaPTAaIU925992RG_JtxGpUY&s=72&v=4" width="24" alt="Avatar of GhiXu"/> GhiXu
+				<img src="https://private-avatars.githubusercontent.com/u/50974749?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91LzUwOTc0NzQ5In0.7YFR32bSF6oW48HQl68pWQZAZQoa97GwyvEwJ7hGjTA&s=72&v=4" width="24" alt="Avatar of GhiXu"/> GhiXu
 			</a><br/>
 			Qingshan Xu
 		</td>
@@ -5274,7 +5274,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>398</td>
 		<td>
 			<a target="_blank" href="https://github.com/terryyin">
-				<img src="https://private-avatars.githubusercontent.com/u/788834?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzMDAsIm5iZiI6MTczNDY1MDEwMCwicGF0aCI6Ii91Lzc4ODgzNCJ9.cqrRGtIBkKpQPud46NoetGcHQZArb-Se0FLANFVhn9U&s=72&v=4" width="24" alt="Avatar of terryyin"/> terryyin
+				<img src="https://private-avatars.githubusercontent.com/u/788834?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY0MDAsIm5iZiI6MTczNDY4NTIwMCwicGF0aCI6Ii91Lzc4ODgzNCJ9.SwjLl7IwlN-FovAqqbE3Io6qUmWa3cG7LdzHx7P0XA8&s=72&v=4" width="24" alt="Avatar of terryyin"/> terryyin
 			</a><br/>
 			Terry Yin
 		</td>
@@ -5287,7 +5287,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>399</td>
 		<td>
 			<a target="_blank" href="https://github.com/adastreamer">
-				<img src="https://private-avatars.githubusercontent.com/u/919292?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEyNDAsIm5iZiI6MTczNDY1MDA0MCwicGF0aCI6Ii91LzkxOTI5MiJ9.lMMZHfNsvm9Z723dAnkl2ksHvuQPVsbp0wXLH5hTdi0&s=72&u=9c595a67996f5917f84d0a3c9756bd00933eac0a&v=4" width="24" alt="Avatar of adastreamer"/> adastreamer
+				<img src="https://private-avatars.githubusercontent.com/u/919292?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcyNDAsIm5iZiI6MTczNDY4NjA0MCwicGF0aCI6Ii91LzkxOTI5MiJ9.R4HT5LGNZ7pfOCiD2lXg3naC6Waf5NWsmFI0h-F_jTI&s=72&u=9c595a67996f5917f84d0a3c9756bd00933eac0a&v=4" width="24" alt="Avatar of adastreamer"/> adastreamer
 			</a><br/>
 			Eugene Khashin
 		</td>
@@ -5300,7 +5300,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>400</td>
 		<td>
 			<a target="_blank" href="https://github.com/happyharis">
-				<img src="https://private-avatars.githubusercontent.com/u/31005114?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA5NDAsIm5iZiI6MTczNDY0OTc0MCwicGF0aCI6Ii91LzMxMDA1MTE0In0.la_Jpk-VwNIFLGpEtMuJxJC3et7lCjb66cDGkaheZKU&s=72&u=afac133599144168517840b2ccd948f9e5daee1b&v=4" width="24" alt="Avatar of happyharis"/> happyharis
+				<img src="https://private-avatars.githubusercontent.com/u/31005114?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY5NDAsIm5iZiI6MTczNDY4NTc0MCwicGF0aCI6Ii91LzMxMDA1MTE0In0.bvLH56bBfcTEH_spIBq3M9koUCBpGXBPmYpv-CT8zIM&s=72&u=afac133599144168517840b2ccd948f9e5daee1b&v=4" width="24" alt="Avatar of happyharis"/> happyharis
 			</a><br/>
 			Haris Samingan
 		</td>
@@ -5313,7 +5313,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>401</td>
 		<td>
 			<a target="_blank" href="https://github.com/hungpham2511">
-				<img src="https://private-avatars.githubusercontent.com/u/9715532?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEyNDAsIm5iZiI6MTczNDY1MDA0MCwicGF0aCI6Ii91Lzk3MTU1MzIifQ.sh70z1_ur7iP0T7ukAuyyQcN7ZQunTbaL8vGDSQmHSs&s=72&u=e810f6cc7e274428ece2453b009b28b5779114e3&v=4" width="24" alt="Avatar of hungpham2511"/> hungpham2511
+				<img src="https://private-avatars.githubusercontent.com/u/9715532?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcyNDAsIm5iZiI6MTczNDY4NjA0MCwicGF0aCI6Ii91Lzk3MTU1MzIifQ.5R7S-E2jzP_zOJo8Q_qOCiw3ulVh5kSWAjTd8FKg_tI&s=72&u=e810f6cc7e274428ece2453b009b28b5779114e3&v=4" width="24" alt="Avatar of hungpham2511"/> hungpham2511
 			</a><br/>
 			Hung Pham Phm Tin Hng
 		</td>
@@ -5326,7 +5326,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>402</td>
 		<td>
 			<a target="_blank" href="https://github.com/gatariee">
-				<img src="https://private-avatars.githubusercontent.com/u/79693291?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwMDAsIm5iZiI6MTczNDY0OTgwMCwicGF0aCI6Ii91Lzc5NjkzMjkxIn0.LwBwV89sevqyGzP7cbWVXLoD4JOjnU5mhmnWONxC2q4&s=72&u=dc2e90734c0df14e3712b5fbe795b53999efd276&v=4" width="24" alt="Avatar of gatariee"/> gatariee
+				<img src="https://private-avatars.githubusercontent.com/u/79693291?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwMDAsIm5iZiI6MTczNDY4NTgwMCwicGF0aCI6Ii91Lzc5NjkzMjkxIn0.wIly5IH6pWwX8bj7Aef99byNDBldFebx2p91xG-8_us&s=72&u=dc2e90734c0df14e3712b5fbe795b53999efd276&v=4" width="24" alt="Avatar of gatariee"/> gatariee
 			</a><br/>
 			gatari
 		</td>
@@ -5339,7 +5339,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>403</td>
 		<td>
 			<a target="_blank" href="https://github.com/chrisirhc">
-				<img src="https://private-avatars.githubusercontent.com/u/132584?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExMjAsIm5iZiI6MTczNDY0OTkyMCwicGF0aCI6Ii91LzEzMjU4NCJ9.kJI1ZvHwfTE1UIKiFTjVFl_RhvtnRLK0sz_v-2UHdQc&s=72&v=4" width="24" alt="Avatar of chrisirhc"/> chrisirhc
+				<img src="https://private-avatars.githubusercontent.com/u/132584?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxMjAsIm5iZiI6MTczNDY4NTkyMCwicGF0aCI6Ii91LzEzMjU4NCJ9.p36JXPPDvdo40ibeu5KOgAqiN04xzEB0G-CRpgz4THQ&s=72&v=4" width="24" alt="Avatar of chrisirhc"/> chrisirhc
 			</a><br/>
 			Chris Chua
 		</td>
@@ -5352,7 +5352,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>404</td>
 		<td>
 			<a target="_blank" href="https://github.com/andi611">
-				<img src="https://private-avatars.githubusercontent.com/u/25531495?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA2NDAsIm5iZiI6MTczNDY0OTQ0MCwicGF0aCI6Ii91LzI1NTMxNDk1In0.PYccHH_FMoy150KyPs-ZHeAb3YijkHfE5m-csl5j99c&s=72&u=e82650aab2e3c486b1a81c59c94c8b74f044439d&v=4" width="24" alt="Avatar of andi611"/> andi611
+				<img src="https://private-avatars.githubusercontent.com/u/25531495?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91LzI1NTMxNDk1In0.AUE3JzPwV4uH-51gNsR8filL453VokzJs8a1jrS1ChU&s=72&u=e82650aab2e3c486b1a81c59c94c8b74f044439d&v=4" width="24" alt="Avatar of andi611"/> andi611
 			</a><br/>
 			Andy T Liu
 		</td>
@@ -5365,7 +5365,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>405</td>
 		<td>
 			<a target="_blank" href="https://github.com/bennojoy">
-				<img src="https://private-avatars.githubusercontent.com/u/315687?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA5NDAsIm5iZiI6MTczNDY0OTc0MCwicGF0aCI6Ii91LzMxNTY4NyJ9.6z0uuaMjZL7TCtr6R7y_gHFbZTaKhPuJvjs7ZI7stfM&s=72&u=d6e26718dabaf4538745abf654b41608627e6906&v=4" width="24" alt="Avatar of bennojoy"/> bennojoy
+				<img src="https://private-avatars.githubusercontent.com/u/315687?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY5NDAsIm5iZiI6MTczNDY4NTc0MCwicGF0aCI6Ii91LzMxNTY4NyJ9.mIDZBq2pXED1UhAvU8I9Iz0fC3irZJcqb5QeqZCIskE&s=72&u=d6e26718dabaf4538745abf654b41608627e6906&v=4" width="24" alt="Avatar of bennojoy"/> bennojoy
 			</a><br/>
 			Benno Joy
 		</td>
@@ -5378,7 +5378,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>406</td>
 		<td>
 			<a target="_blank" href="https://github.com/tardate">
-				<img src="https://private-avatars.githubusercontent.com/u/16432?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3MDAsIm5iZiI6MTczNDY0OTUwMCwicGF0aCI6Ii91LzE2NDMyIn0.QJQR3InM-k-m7mEypZNzJArQSANw6B_WmhK6tzYwuSY&s=72&v=4" width="24" alt="Avatar of tardate"/> tardate
+				<img src="https://private-avatars.githubusercontent.com/u/16432?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3MDAsIm5iZiI6MTczNDY4NTUwMCwicGF0aCI6Ii91LzE2NDMyIn0._euXbv43lCkEK3SASc4GxchKFnOdQOPmGTatUMfMmOE&s=72&v=4" width="24" alt="Avatar of tardate"/> tardate
 			</a><br/>
 			Paul Gallagher
 		</td>
@@ -5391,7 +5391,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>407</td>
 		<td>
 			<a target="_blank" href="https://github.com/inian">
-				<img src="https://private-avatars.githubusercontent.com/u/2155545?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzMDAsIm5iZiI6MTczNDY1MDEwMCwicGF0aCI6Ii91LzIxNTU1NDUifQ.OyBGzY-m700Ea7SYSB2lL6X2kJ0SbYiVB5DWKYLPzmU&s=72&u=2ff9d14b413a4a45c3d45f7335198e11f357d1d1&v=4" width="24" alt="Avatar of inian"/> inian
+				<img src="https://private-avatars.githubusercontent.com/u/2155545?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODczMDAsIm5iZiI6MTczNDY4NjEwMCwicGF0aCI6Ii91LzIxNTU1NDUifQ.QlP4dNXopgCPGjyApT6H4OYYBz5kaZEgVCAtb2z65to&s=72&u=2ff9d14b413a4a45c3d45f7335198e11f357d1d1&v=4" width="24" alt="Avatar of inian"/> inian
 			</a><br/>
 			Inian
 		</td>
@@ -5404,7 +5404,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>408</td>
 		<td>
 			<a target="_blank" href="https://github.com/sizovs">
-				<img src="https://private-avatars.githubusercontent.com/u/2264968?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA2NDAsIm5iZiI6MTczNDY0OTQ0MCwicGF0aCI6Ii91LzIyNjQ5NjgifQ.NsrIGB5KjOsicCBD_Ixlt6Uv0mX9qbVE-idxedaJ-J4&s=72&u=259aef796ed3d70dad8b364f2f24d6c539e16850&v=4" width="24" alt="Avatar of sizovs"/> sizovs
+				<img src="https://private-avatars.githubusercontent.com/u/2264968?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91LzIyNjQ5NjgifQ.JgxXfMh5QW_i-tUtwLQxvQZBvPNBOsN6b1SeI4-FfAk&s=72&u=259aef796ed3d70dad8b364f2f24d6c539e16850&v=4" width="24" alt="Avatar of sizovs"/> sizovs
 			</a><br/>
 			Eduards Sizovs
 		</td>
@@ -5417,7 +5417,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>409</td>
 		<td>
 			<a target="_blank" href="https://github.com/supermamon">
-				<img src="https://private-avatars.githubusercontent.com/u/6381508?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEyNDAsIm5iZiI6MTczNDY1MDA0MCwicGF0aCI6Ii91LzYzODE1MDgifQ.ggR7OOMWZKt_itwG1kW8YHGAXHUVUCyImCt-XssYCVU&s=72&v=4" width="24" alt="Avatar of supermamon"/> supermamon
+				<img src="https://private-avatars.githubusercontent.com/u/6381508?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcyNDAsIm5iZiI6MTczNDY4NjA0MCwicGF0aCI6Ii91LzYzODE1MDgifQ.4JxgDzBrbe04eZoqEKu0BIR0KvvJx28ljrqGtOyQygY&s=72&v=4" width="24" alt="Avatar of supermamon"/> supermamon
 			</a><br/>
 			Raymond Velasquez
 		</td>
@@ -5429,21 +5429,8 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 	<tr>
 		<td>410</td>
 		<td>
-			<a target="_blank" href="https://github.com/daryllxd">
-				<img src="https://private-avatars.githubusercontent.com/u/2204029?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3NjAsIm5iZiI6MTczNDY0OTU2MCwicGF0aCI6Ii91LzIyMDQwMjkifQ.LAaGgNyfYtld_pJRRo6CiiuRRDlJSkZzcVQcm8D1CDo&s=72&u=ee26486b6889f6ee5230b4d605bab718cc372aea&v=4" width="24" alt="Avatar of daryllxd"/> daryllxd
-			</a><br/>
-			Daryll Santos
-		</td>
-		<td>Ascenda Loyalty Pte Ltd<br/></td>
-		<td>No Twitter Username</td>
-		<td>Singapore</td>
-		<td>154</td>
-	</tr>
-	<tr>
-		<td>411</td>
-		<td>
 			<a target="_blank" href="https://github.com/email2vimalraj">
-				<img src="https://private-avatars.githubusercontent.com/u/1214686?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA1ODAsIm5iZiI6MTczNDY0OTM4MCwicGF0aCI6Ii91LzEyMTQ2ODYifQ.oXN3AjPjQPsSyWB6-f95ZrbtlMbd2g8ldDAjWn2m11Q&s=72&u=668b5c6d85b2375d9d2fc35d6d24a91237572c6d&v=4" width="24" alt="Avatar of email2vimalraj"/> email2vimalraj
+				<img src="https://private-avatars.githubusercontent.com/u/1214686?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1ODAsIm5iZiI6MTczNDY4NTM4MCwicGF0aCI6Ii91LzEyMTQ2ODYifQ.IC6gJ5wbvYIFTzECdEwJa0UGUk9PYhrKBABnNBqeDTo&s=72&u=668b5c6d85b2375d9d2fc35d6d24a91237572c6d&v=4" width="24" alt="Avatar of email2vimalraj"/> email2vimalraj
 			</a><br/>
 			VimalRaj Selvam
 		</td>
@@ -5453,10 +5440,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>154</td>
 	</tr>
 	<tr>
-		<td>412</td>
+		<td>411</td>
 		<td>
 			<a target="_blank" href="https://github.com/mutability">
-				<img src="https://private-avatars.githubusercontent.com/u/3055062?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwMDAsIm5iZiI6MTczNDY0OTgwMCwicGF0aCI6Ii91LzMwNTUwNjIifQ.AjQflZKJeXHD6xLXATIoo7rwu4hOD8yK2Zc-SGXyCaE&s=72&v=4" width="24" alt="Avatar of mutability"/> mutability
+				<img src="https://private-avatars.githubusercontent.com/u/3055062?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwMDAsIm5iZiI6MTczNDY4NTgwMCwicGF0aCI6Ii91LzMwNTUwNjIifQ.uy_FPEUW7U9chlSA2yIxcxaHaYx-EEDRaCPGqf2k_6c&s=72&v=4" width="24" alt="Avatar of mutability"/> mutability
 			</a><br/>
 			Oliver Jowett
 		</td>
@@ -5466,10 +5453,23 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>154</td>
 	</tr>
 	<tr>
+		<td>412</td>
+		<td>
+			<a target="_blank" href="https://github.com/daryllxd">
+				<img src="https://private-avatars.githubusercontent.com/u/2204029?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91LzIyMDQwMjkifQ.viV8-9V7SN5vRGYSJSrzVKOkDnaJdkosPzURCnarJF0&s=72&u=ee26486b6889f6ee5230b4d605bab718cc372aea&v=4" width="24" alt="Avatar of daryllxd"/> daryllxd
+			</a><br/>
+			Daryll Santos
+		</td>
+		<td>Ascenda Loyalty Pte Ltd<br/></td>
+		<td>No Twitter Username</td>
+		<td>Singapore</td>
+		<td>153</td>
+	</tr>
+	<tr>
 		<td>413</td>
 		<td>
 			<a target="_blank" href="https://github.com/arkbriar">
-				<img src="https://private-avatars.githubusercontent.com/u/8898435?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4ODAsIm5iZiI6MTczNDY0OTY4MCwicGF0aCI6Ii91Lzg4OTg0MzUifQ.5Wtf-NrBRRP1TjSq7Ta0XdT646ui9yv9_H6A0piVylo&s=72&u=169643def91ab48f5606e291ceee7e24a2bcd9cb&v=4" width="24" alt="Avatar of arkbriar"/> arkbriar
+				<img src="https://private-avatars.githubusercontent.com/u/8898435?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4ODAsIm5iZiI6MTczNDY4NTY4MCwicGF0aCI6Ii91Lzg4OTg0MzUifQ.FYkmnS-OE07Tt-OrdwLnnZTUcO1hfNYV4OmR9CDOwPg&s=72&u=169643def91ab48f5606e291ceee7e24a2bcd9cb&v=4" width="24" alt="Avatar of arkbriar"/> arkbriar
 			</a><br/>
 			ArkBriar
 		</td>
@@ -5482,7 +5482,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>414</td>
 		<td>
 			<a target="_blank" href="https://github.com/serverwentdown">
-				<img src="https://private-avatars.githubusercontent.com/u/1705906?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA2NDAsIm5iZiI6MTczNDY0OTQ0MCwicGF0aCI6Ii91LzE3MDU5MDYifQ.XrtvoOLA0NPE1GWeJwqlKiRrQ5TrySYgtjh4ZWVl-YE&s=72&u=e350c6b9bd368ed902a066d133deae4e0cc1fb02&v=4" width="24" alt="Avatar of serverwentdown"/> serverwentdown
+				<img src="https://private-avatars.githubusercontent.com/u/1705906?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91LzE3MDU5MDYifQ.65M-qw4pFpQxF1fkzU21Y6-V5Xb-IWGjghdLyVxDOO0&s=72&u=e350c6b9bd368ed902a066d133deae4e0cc1fb02&v=4" width="24" alt="Avatar of serverwentdown"/> serverwentdown
 			</a><br/>
 			Ambrose Chua
 		</td>
@@ -5495,7 +5495,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>415</td>
 		<td>
 			<a target="_blank" href="https://github.com/tabVersion">
-				<img src="https://private-avatars.githubusercontent.com/u/14017336?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzE0MDE3MzM2In0.rn-gLb_rUGFacS_H6HSG9cKA2LMP4r_OZQZt0Fsv820&s=72&u=0dc8ae9d25222b46a5c84f4bca723ea066a239a6&v=4" width="24" alt="Avatar of tabVersion"/> tabVersion
+				<img src="https://private-avatars.githubusercontent.com/u/14017336?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzE0MDE3MzM2In0.aXtRPz9Gph_iZKaEof8hHb90aGp4CbGDyg-DWNfjsCw&s=72&u=0dc8ae9d25222b46a5c84f4bca723ea066a239a6&v=4" width="24" alt="Avatar of tabVersion"/> tabVersion
 			</a><br/>
 			Bohan Zhang
 		</td>
@@ -5508,7 +5508,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>416</td>
 		<td>
 			<a target="_blank" href="https://github.com/keithrozario">
-				<img src="https://private-avatars.githubusercontent.com/u/795867?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExMjAsIm5iZiI6MTczNDY0OTkyMCwicGF0aCI6Ii91Lzc5NTg2NyJ9.jld3S3G13V8izhkDsQAv1FKIPNT0EbqmY7LiHjLg8Ok&s=72&u=e76f6657d949d2e301e58e1460edeb75c3faa999&v=4" width="24" alt="Avatar of keithrozario"/> keithrozario
+				<img src="https://private-avatars.githubusercontent.com/u/795867?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxMjAsIm5iZiI6MTczNDY4NTkyMCwicGF0aCI6Ii91Lzc5NTg2NyJ9.expjBG5Gr0jM7tZNvxpApeIFTqWAVpvfYTQJ2N7b_rA&s=72&u=e76f6657d949d2e301e58e1460edeb75c3faa999&v=4" width="24" alt="Avatar of keithrozario"/> keithrozario
 			</a><br/>
 			Keith Rozario
 		</td>
@@ -5521,7 +5521,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>417</td>
 		<td>
 			<a target="_blank" href="https://github.com/joelowj">
-				<img src="https://private-avatars.githubusercontent.com/u/13001361?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4ODAsIm5iZiI6MTczNDY0OTY4MCwicGF0aCI6Ii91LzEzMDAxMzYxIn0.LoYJ4Nq8muv7KrW9WNHCtAOZRzNqcGqBcrfUl9lQ47s&s=72&v=4" width="24" alt="Avatar of joelowj"/> joelowj
+				<img src="https://private-avatars.githubusercontent.com/u/13001361?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4ODAsIm5iZiI6MTczNDY4NTY4MCwicGF0aCI6Ii91LzEzMDAxMzYxIn0.5GhyY6hySwDUG1j1hWw1NvthKKbZFNR3kjlCvyCnh80&s=72&v=4" width="24" alt="Avatar of joelowj"/> joelowj
 			</a><br/>
 			Joel Ong
 		</td>
@@ -5534,7 +5534,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>418</td>
 		<td>
 			<a target="_blank" href="https://github.com/imhele">
-				<img src="https://private-avatars.githubusercontent.com/u/32428655?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE0MjAsIm5iZiI6MTczNDY1MDIyMCwicGF0aCI6Ii91LzMyNDI4NjU1In0.gDcQCaQw4CU6OTbgwPWMB7dEOTYNwyk5UBffbnWuSQM&s=72&u=85214442fd202a517ac2ee243807fd18cfab2726&v=4" width="24" alt="Avatar of imhele"/> imhele
+				<img src="https://private-avatars.githubusercontent.com/u/32428655?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1MjAsIm5iZiI6MTczNDY4NTMyMCwicGF0aCI6Ii91LzMyNDI4NjU1In0.xkpBngXYanslaG7wRAzt7vq4fickZLB6pZ6hDcfvycg&s=72&u=85214442fd202a517ac2ee243807fd18cfab2726&v=4" width="24" alt="Avatar of imhele"/> imhele
 			</a><br/>
 			
 		</td>
@@ -5547,7 +5547,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>419</td>
 		<td>
 			<a target="_blank" href="https://github.com/askeluv">
-				<img src="https://private-avatars.githubusercontent.com/u/2386262?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzMDAsIm5iZiI6MTczNDY1MDEwMCwicGF0aCI6Ii91LzIzODYyNjIifQ.9tyA0TMltF66vWReP6NNfeyeKYAPOA67Mn17vTFXx1Y&s=72&v=4" width="24" alt="Avatar of askeluv"/> askeluv
+				<img src="https://private-avatars.githubusercontent.com/u/2386262?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODczMDAsIm5iZiI6MTczNDY4NjEwMCwicGF0aCI6Ii91LzIzODYyNjIifQ.1Uj7PKoAlI10Cl8Se7xlFm-1Z_v0kKYhmU5Cawkr2gA&s=72&v=4" width="24" alt="Avatar of askeluv"/> askeluv
 			</a><br/>
 			Alex Svanevik
 		</td>
@@ -5560,7 +5560,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>420</td>
 		<td>
 			<a target="_blank" href="https://github.com/qin-guan">
-				<img src="https://private-avatars.githubusercontent.com/u/10321883?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEyNDAsIm5iZiI6MTczNDY1MDA0MCwicGF0aCI6Ii91LzEwMzIxODgzIn0.5F7u412EnOJCfAnEmBWB9Qi1pgRIFud__tloBuWuc34&s=72&u=8229002f33f4ab55f977a6734f6e4f9376981fd0&v=4" width="24" alt="Avatar of qin-guan"/> qin-guan
+				<img src="https://private-avatars.githubusercontent.com/u/10321883?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcyNDAsIm5iZiI6MTczNDY4NjA0MCwicGF0aCI6Ii91LzEwMzIxODgzIn0.eur7Kd8LYsIGuBTOn9Qlot1nVaEV_J0gLnisLgMEJHg&s=72&u=8229002f33f4ab55f977a6734f6e4f9376981fd0&v=4" width="24" alt="Avatar of qin-guan"/> qin-guan
 			</a><br/>
 			Qin Guan
 		</td>
@@ -5573,7 +5573,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>421</td>
 		<td>
 			<a target="_blank" href="https://github.com/bobmayuze">
-				<img src="https://private-avatars.githubusercontent.com/u/14257524?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzNjAsIm5iZiI6MTczNDY1MDE2MCwicGF0aCI6Ii91LzE0MjU3NTI0In0.T8sd7X8u00E1d8fZVL06f4d7mc_36x1uHFTlpxmS0nw&s=72&u=b158fdcda5321cb848ccf83009d5116e28c96898&v=4" width="24" alt="Avatar of bobmayuze"/> bobmayuze
+				<img src="https://private-avatars.githubusercontent.com/u/14257524?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY0NjAsIm5iZiI6MTczNDY4NTI2MCwicGF0aCI6Ii91LzE0MjU3NTI0In0.b5qNe4RP2it5R-raLilWfgUsaTMVA4DA9-ypqSijdpM&s=72&u=b158fdcda5321cb848ccf83009d5116e28c96898&v=4" width="24" alt="Avatar of bobmayuze"/> bobmayuze
 			</a><br/>
 			Yuze Ma
 		</td>
@@ -5586,7 +5586,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>422</td>
 		<td>
 			<a target="_blank" href="https://github.com/pyraxo">
-				<img src="https://private-avatars.githubusercontent.com/u/4499470?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA2NDAsIm5iZiI6MTczNDY0OTQ0MCwicGF0aCI6Ii91LzQ0OTk0NzAifQ.PfP3VFdsYvd74Cggv1kGfu8TOA7Te3WzLA2sRMZJWDc&s=72&u=53d4efdf9de7f7a8a4c2aed361573c05a2a42234&v=4" width="24" alt="Avatar of pyraxo"/> pyraxo
+				<img src="https://private-avatars.githubusercontent.com/u/4499470?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91LzQ0OTk0NzAifQ.x3CSn1XGWYwLqav4CAp0gtU5_jxIhg7kFwF_Vm3twCQ&s=72&u=53d4efdf9de7f7a8a4c2aed361573c05a2a42234&v=4" width="24" alt="Avatar of pyraxo"/> pyraxo
 			</a><br/>
 			Aaron
 		</td>
@@ -5599,7 +5599,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>423</td>
 		<td>
 			<a target="_blank" href="https://github.com/lowesyang">
-				<img src="https://private-avatars.githubusercontent.com/u/10328169?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA2NDAsIm5iZiI6MTczNDY0OTQ0MCwicGF0aCI6Ii91LzEwMzI4MTY5In0.mO8IKe7K0Wpxp55dUkJ2TmYdtVCZRJzI-_01wOfH4YQ&s=72&u=9a7f8897d33bc59b9e68a4a891e7da2a0e84320e&v=4" width="24" alt="Avatar of lowesyang"/> lowesyang
+				<img src="https://private-avatars.githubusercontent.com/u/10328169?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91LzEwMzI4MTY5In0.eaOz2j0Brs5sctFWOteUc-RswCx9X6BcNeCCJ9UWuKw&s=72&u=9a7f8897d33bc59b9e68a4a891e7da2a0e84320e&v=4" width="24" alt="Avatar of lowesyang"/> lowesyang
 			</a><br/>
 			LowesYang
 		</td>
@@ -5612,7 +5612,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>424</td>
 		<td>
 			<a target="_blank" href="https://github.com/GaoJiasheng">
-				<img src="https://private-avatars.githubusercontent.com/u/5546200?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzNjAsIm5iZiI6MTczNDY1MDE2MCwicGF0aCI6Ii91LzU1NDYyMDAifQ.tGzX8WRL-Wp_Y5GCI3gepyJ0xwlbsbAGu8NcLsAtatM&s=72&u=e1de6851f25fecfd997383060988f01786013488&v=4" width="24" alt="Avatar of GaoJiasheng"/> GaoJiasheng
+				<img src="https://private-avatars.githubusercontent.com/u/5546200?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY0NjAsIm5iZiI6MTczNDY4NTI2MCwicGF0aCI6Ii91LzU1NDYyMDAifQ.QHWm7i5OXuqkj8l-PrfV0uIHdCfulFjaHBqb68V6pWU&s=72&u=e1de6851f25fecfd997383060988f01786013488&v=4" width="24" alt="Avatar of GaoJiasheng"/> GaoJiasheng
 			</a><br/>
 			Gavin Gao
 		</td>
@@ -5625,7 +5625,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>425</td>
 		<td>
 			<a target="_blank" href="https://github.com/Anything-of-anything">
-				<img src="https://private-avatars.githubusercontent.com/u/130584435?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE0MjAsIm5iZiI6MTczNDY1MDIyMCwicGF0aCI6Ii91LzEzMDU4NDQzNSJ9.mvWD7bZETa6UP8DIhJkKq5Y2oVS0rPN_N17qkcLFAiU&s=72&u=59006e27f77b358098e9c85a117bbec43ae49414&v=4" width="24" alt="Avatar of Anything-of-anything"/> Anything-of-anything
+				<img src="https://private-avatars.githubusercontent.com/u/130584435?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1MjAsIm5iZiI6MTczNDY4NTMyMCwicGF0aCI6Ii91LzEzMDU4NDQzNSJ9.LfTNzjxxfBwrxbktJPbg8eSo1pdTXL2WKlJtsv3RKAM&s=72&u=59006e27f77b358098e9c85a117bbec43ae49414&v=4" width="24" alt="Avatar of Anything-of-anything"/> Anything-of-anything
 			</a><br/>
 			AnythingofAnything 
 		</td>
@@ -5638,7 +5638,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>426</td>
 		<td>
 			<a target="_blank" href="https://github.com/QiushiSun">
-				<img src="https://private-avatars.githubusercontent.com/u/54871790?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE0MjAsIm5iZiI6MTczNDY1MDIyMCwicGF0aCI6Ii91LzU0ODcxNzkwIn0.094aoDpZ9yl21c44_X-f1PN6BZr_TYtexrRdiCUXWaE&s=72&u=a00b29b41e592ea297ad9bdfbc8a6631ac24a301&v=4" width="24" alt="Avatar of QiushiSun"/> QiushiSun
+				<img src="https://private-avatars.githubusercontent.com/u/54871790?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1MjAsIm5iZiI6MTczNDY4NTMyMCwicGF0aCI6Ii91LzU0ODcxNzkwIn0.XLbq6lPOfPK9yZFvDQUsMgu2pg9DBIKtMDVZtCXqO_A&s=72&u=a00b29b41e592ea297ad9bdfbc8a6631ac24a301&v=4" width="24" alt="Avatar of QiushiSun"/> QiushiSun
 			</a><br/>
 			Qiushi
 		</td>
@@ -5651,7 +5651,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>427</td>
 		<td>
 			<a target="_blank" href="https://github.com/nowa">
-				<img src="https://private-avatars.githubusercontent.com/u/3835?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE0MjAsIm5iZiI6MTczNDY1MDIyMCwicGF0aCI6Ii91LzM4MzUifQ.WQITLQNNYK8hCB8IL9uh5y6wcIW4gdbCw7smuH1eTE4&s=72&u=159863acb38a2ed7dc91b1a682143fe511af0add&v=4" width="24" alt="Avatar of nowa"/> nowa
+				<img src="https://private-avatars.githubusercontent.com/u/3835?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1MjAsIm5iZiI6MTczNDY4NTMyMCwicGF0aCI6Ii91LzM4MzUifQ.0Y_z_QkG_wo7FOAsmaJXnVBduJJWwGOYkgdKMQIQVxk&s=72&u=159863acb38a2ed7dc91b1a682143fe511af0add&v=4" width="24" alt="Avatar of nowa"/> nowa
 			</a><br/>
 			Nowa Zhu
 		</td>
@@ -5664,7 +5664,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>428</td>
 		<td>
 			<a target="_blank" href="https://github.com/xuanxuan0">
-				<img src="https://private-avatars.githubusercontent.com/u/32537788?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4ODAsIm5iZiI6MTczNDY0OTY4MCwicGF0aCI6Ii91LzMyNTM3Nzg4In0.aXGigyVBEoM5WvBZweFJfDeLwCFZm2SkFDphZ-jlsOM&s=72&u=14e2e2abd47849976cd72dc828febbce1621ec0e&v=4" width="24" alt="Avatar of xuanxuan0"/> xuanxuan0
+				<img src="https://private-avatars.githubusercontent.com/u/32537788?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4ODAsIm5iZiI6MTczNDY4NTY4MCwicGF0aCI6Ii91LzMyNTM3Nzg4In0.tyJPZI7Mz-r3XnbaMC7rNZOnX20EczXjXEwROPzbIb8&s=72&u=14e2e2abd47849976cd72dc828febbce1621ec0e&v=4" width="24" alt="Avatar of xuanxuan0"/> xuanxuan0
 			</a><br/>
 			Filip Olszak
 		</td>
@@ -5676,21 +5676,8 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 	<tr>
 		<td>429</td>
 		<td>
-			<a target="_blank" href="https://github.com/kenrick95">
-				<img src="https://private-avatars.githubusercontent.com/u/3090380?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4ODAsIm5iZiI6MTczNDY0OTY4MCwicGF0aCI6Ii91LzMwOTAzODAifQ.4m5P_fLhCpleMq26aVFTcmt3MYeGrtNWDvYBOmgNA4g&s=72&u=ea8ebd8a50c55e22c8a474812911a201bdc2c17c&v=4" width="24" alt="Avatar of kenrick95"/> kenrick95
-			</a><br/>
-			Kenrick
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Singapore</td>
-		<td>149</td>
-	</tr>
-	<tr>
-		<td>430</td>
-		<td>
 			<a target="_blank" href="https://github.com/travistangvh">
-				<img src="https://private-avatars.githubusercontent.com/u/59107903?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA2NDAsIm5iZiI6MTczNDY0OTQ0MCwicGF0aCI6Ii91LzU5MTA3OTAzIn0.AvF4gQfUk4WWK_ln9FRduwYSyZ7ZLXJs7rHeQvyWzcY&s=72&u=35f53e5352466657c17857c0fad0f0d7c5470de1&v=4" width="24" alt="Avatar of travistangvh"/> travistangvh
+				<img src="https://private-avatars.githubusercontent.com/u/59107903?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91LzU5MTA3OTAzIn0.wJ-Wo7gjH1JMf1hcy9wzAlk1hN83HB7NO6AhfW8WWZo&s=72&u=35f53e5352466657c17857c0fad0f0d7c5470de1&v=4" width="24" alt="Avatar of travistangvh"/> travistangvh
 			</a><br/>
 			Travis Tang
 		</td>
@@ -5700,10 +5687,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>149</td>
 	</tr>
 	<tr>
-		<td>431</td>
+		<td>430</td>
 		<td>
 			<a target="_blank" href="https://github.com/fuxingloh">
-				<img src="https://private-avatars.githubusercontent.com/u/4266087?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzQyNjYwODcifQ.VwgRJi0WQ5R2UAbBOocPSJQdE39kaYz7KXSBU-M9vrs&s=72&u=4a3b98a573ffeb1d80b3ebe163eeec17d4856d32&v=4" width="24" alt="Avatar of fuxingloh"/> fuxingloh
+				<img src="https://private-avatars.githubusercontent.com/u/4266087?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxODAsIm5iZiI6MTczNDY4NTk4MCwicGF0aCI6Ii91LzQyNjYwODcifQ.OLy05tWX4AyOYqLDicigPqc74SN6-NDb7xy_U9KCqHs&s=72&u=4a3b98a573ffeb1d80b3ebe163eeec17d4856d32&v=4" width="24" alt="Avatar of fuxingloh"/> fuxingloh
 			</a><br/>
 			Fuxing Loh
 		</td>
@@ -5713,23 +5700,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>148</td>
 	</tr>
 	<tr>
-		<td>432</td>
-		<td>
-			<a target="_blank" href="https://github.com/jetnew">
-				<img src="https://private-avatars.githubusercontent.com/u/27071473?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzMDAsIm5iZiI6MTczNDY1MDEwMCwicGF0aCI6Ii91LzI3MDcxNDczIn0.uUiRCSzrRDoT79HaF-SALRmtzUYjfEabEx1hTUH7Pk4&s=72&u=fdccc2283bbf7bc91683c4646cc57428ad0f51fd&v=4" width="24" alt="Avatar of jetnew"/> jetnew
-			</a><br/>
-			Jet New
-		</td>
-		<td>National University Of Singapore<br/></td>
-		<td><a target="_blank" href="https://twitter.com/jetnew_sg">jetnew_sg</a></td>
-		<td>Singapore</td>
-		<td>148</td>
-	</tr>
-	<tr>
-		<td>433</td>
+		<td>431</td>
 		<td>
 			<a target="_blank" href="https://github.com/arnaudlh">
-				<img src="https://private-avatars.githubusercontent.com/u/20535201?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE0ODAsIm5iZiI6MTczNDY1MDI4MCwicGF0aCI6Ii91LzIwNTM1MjAxIn0.xJ1ZZaUniHNlGcZsvtrHmgLlJrNNfdMAphV2SS4w_DI&s=72&u=597e2847533c9c61bee4b235d2093f46561a0943&v=4" width="24" alt="Avatar of arnaudlh"/> arnaudlh
+				<img src="https://private-avatars.githubusercontent.com/u/20535201?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1ODAsIm5iZiI6MTczNDY4NTM4MCwicGF0aCI6Ii91LzIwNTM1MjAxIn0.wdNoSgO3pumQVWC04DzGim71T_KHNaHlwNOHDwf3mvs&s=72&u=597e2847533c9c61bee4b235d2093f46561a0943&v=4" width="24" alt="Avatar of arnaudlh"/> arnaudlh
 			</a><br/>
 			Arnaud Lheureux
 		</td>
@@ -5739,10 +5713,23 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>148</td>
 	</tr>
 	<tr>
-		<td>434</td>
+		<td>432</td>
+		<td>
+			<a target="_blank" href="https://github.com/kenrick95">
+				<img src="https://private-avatars.githubusercontent.com/u/3090380?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4ODAsIm5iZiI6MTczNDY4NTY4MCwicGF0aCI6Ii91LzMwOTAzODAifQ.hVprUDF_tjy7LxP9O8KBKenBti4qvLoXuF3lGYGVOPI&s=72&u=ea8ebd8a50c55e22c8a474812911a201bdc2c17c&v=4" width="24" alt="Avatar of kenrick95"/> kenrick95
+			</a><br/>
+			Kenrick
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Singapore</td>
+		<td>148</td>
+	</tr>
+	<tr>
+		<td>433</td>
 		<td>
 			<a target="_blank" href="https://github.com/bensadeghi">
-				<img src="https://private-avatars.githubusercontent.com/u/1551277?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzMDAsIm5iZiI6MTczNDY1MDEwMCwicGF0aCI6Ii91LzE1NTEyNzcifQ.J_i4EyKd-_F8O70KCQMzkoqYMNKf5eak_AO8cUuPXFY&s=72&u=8b2df9ba36ecde3106fdb83f6dd202d18531b9e3&v=4" width="24" alt="Avatar of bensadeghi"/> bensadeghi
+				<img src="https://private-avatars.githubusercontent.com/u/1551277?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODczMDAsIm5iZiI6MTczNDY4NjEwMCwicGF0aCI6Ii91LzE1NTEyNzcifQ.zDmdXe0u3Ol-E9j3t7HTuWckm97LB_d0jj5kdg39ITA&s=72&u=8b2df9ba36ecde3106fdb83f6dd202d18531b9e3&v=4" width="24" alt="Avatar of bensadeghi"/> bensadeghi
 			</a><br/>
 			Ben Sadeghi
 		</td>
@@ -5752,10 +5739,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>148</td>
 	</tr>
 	<tr>
-		<td>435</td>
+		<td>434</td>
 		<td>
 			<a target="_blank" href="https://github.com/MarioAriasC">
-				<img src="https://private-avatars.githubusercontent.com/u/4005377?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzQwMDUzNzcifQ.bGF1e88QEW_hsjuZudyFSaeg3JgdwArXKireb1mVJp4&s=72&u=ea6ab5122318c7ae0e8aa8a6dbbb6d732601b20b&v=4" width="24" alt="Avatar of MarioAriasC"/> MarioAriasC
+				<img src="https://private-avatars.githubusercontent.com/u/4005377?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzQwMDUzNzcifQ.AeInKvwDRuJzywi7G21vB4IcKMMwirwjYXtLN7v78J4&s=72&u=ea6ab5122318c7ae0e8aa8a6dbbb6d732601b20b&v=4" width="24" alt="Avatar of MarioAriasC"/> MarioAriasC
 			</a><br/>
 			Mario Arias
 		</td>
@@ -5765,10 +5752,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>148</td>
 	</tr>
 	<tr>
-		<td>436</td>
+		<td>435</td>
 		<td>
 			<a target="_blank" href="https://github.com/FingerRec">
-				<img src="https://private-avatars.githubusercontent.com/u/20349006?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA5NDAsIm5iZiI6MTczNDY0OTc0MCwicGF0aCI6Ii91LzIwMzQ5MDA2In0.AcL7bPmnlpPbzoMAuoTZWISM0ndM6we4EoyIIj35VN0&s=72&u=1dabc43c901debb4f9bc1336bd13cbfa56556054&v=4" width="24" alt="Avatar of FingerRec"/> FingerRec
+				<img src="https://private-avatars.githubusercontent.com/u/20349006?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY5NDAsIm5iZiI6MTczNDY4NTc0MCwicGF0aCI6Ii91LzIwMzQ5MDA2In0.RmnWs5gvm7xAmMPWaPbwtUDBK9sI3zgrWxZhM1nNruc&s=72&u=1dabc43c901debb4f9bc1336bd13cbfa56556054&v=4" width="24" alt="Avatar of FingerRec"/> FingerRec
 			</a><br/>
 			Jinpeng Wang
 		</td>
@@ -5778,10 +5765,23 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>148</td>
 	</tr>
 	<tr>
+		<td>436</td>
+		<td>
+			<a target="_blank" href="https://github.com/jetnew">
+				<img src="https://private-avatars.githubusercontent.com/u/27071473?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODczMDAsIm5iZiI6MTczNDY4NjEwMCwicGF0aCI6Ii91LzI3MDcxNDczIn0.SS4SK8OMr858h41eSVgsWBmeZFvLN_9lMBnVkO6ByDU&s=72&u=fdccc2283bbf7bc91683c4646cc57428ad0f51fd&v=4" width="24" alt="Avatar of jetnew"/> jetnew
+			</a><br/>
+			Jet New
+		</td>
+		<td>National University Of Singapore<br/></td>
+		<td><a target="_blank" href="https://twitter.com/jetnew_sg">jetnew_sg</a></td>
+		<td>Singapore</td>
+		<td>147</td>
+	</tr>
+	<tr>
 		<td>437</td>
 		<td>
 			<a target="_blank" href="https://github.com/calvinchengx">
-				<img src="https://private-avatars.githubusercontent.com/u/95563?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzNjAsIm5iZiI6MTczNDY1MDE2MCwicGF0aCI6Ii91Lzk1NTYzIn0.4TCuWO17nSNl8aPv6qfJYYCcTRHUCQujcduxSoYfwR4&s=72&v=4" width="24" alt="Avatar of calvinchengx"/> calvinchengx
+				<img src="https://private-avatars.githubusercontent.com/u/95563?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY0NjAsIm5iZiI6MTczNDY4NTI2MCwicGF0aCI6Ii91Lzk1NTYzIn0.Ca8C4ZqsWA7FG6YYreaUjhc2txN2CrC_BNhpI58-cs4&s=72&v=4" width="24" alt="Avatar of calvinchengx"/> calvinchengx
 			</a><br/>
 			Calvin Cheng
 		</td>
@@ -5794,7 +5794,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>438</td>
 		<td>
 			<a target="_blank" href="https://github.com/shantanu561993">
-				<img src="https://private-avatars.githubusercontent.com/u/8576432?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwMDAsIm5iZiI6MTczNDY0OTgwMCwicGF0aCI6Ii91Lzg1NzY0MzIifQ.cheJzKyDnW46qh_JySNt_NOxnCIPnX_VA1PJwk1PDdY&s=72&u=71489410cab44d5414e9844887a4686dbcb705f1&v=4" width="24" alt="Avatar of shantanu561993"/> shantanu561993
+				<img src="https://private-avatars.githubusercontent.com/u/8576432?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwMDAsIm5iZiI6MTczNDY4NTgwMCwicGF0aCI6Ii91Lzg1NzY0MzIifQ.OdJT4Y_6hi_i_lAYWpRlNN5o5Xzy9oQwWkifASdeMI4&s=72&u=71489410cab44d5414e9844887a4686dbcb705f1&v=4" width="24" alt="Avatar of shantanu561993"/> shantanu561993
 			</a><br/>
 			Shantanu Khandelwal
 		</td>
@@ -5807,7 +5807,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>439</td>
 		<td>
 			<a target="_blank" href="https://github.com/agpyaephyo">
-				<img src="https://private-avatars.githubusercontent.com/u/2491168?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE0MjAsIm5iZiI6MTczNDY1MDIyMCwicGF0aCI6Ii91LzI0OTExNjgifQ.inV4FyPV5yUf6xQG10oJFiorMAbBRwJCgo7RtaqD48g&s=72&u=2a157f4c882f55c4ffe4c460d1ca4926f0f0d210&v=4" width="24" alt="Avatar of agpyaephyo"/> agpyaephyo
+				<img src="https://private-avatars.githubusercontent.com/u/2491168?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1MjAsIm5iZiI6MTczNDY4NTMyMCwicGF0aCI6Ii91LzI0OTExNjgifQ.PM_xxz63UkRVQnTEJ9jepZnpqPCKfr4lQX4CpsuOjgE&s=72&u=2a157f4c882f55c4ffe4c460d1ca4926f0f0d210&v=4" width="24" alt="Avatar of agpyaephyo"/> agpyaephyo
 			</a><br/>
 			Aung Pyae Phyo
 		</td>
@@ -5820,7 +5820,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>440</td>
 		<td>
 			<a target="_blank" href="https://github.com/amulyakhare">
-				<img src="https://private-avatars.githubusercontent.com/u/643983?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzNjAsIm5iZiI6MTczNDY1MDE2MCwicGF0aCI6Ii91LzY0Mzk4MyJ9.3s8du8j7HiSxx4jgFNX2x98yuT5Pv1vfoBhWTa6wmk0&s=72&v=4" width="24" alt="Avatar of amulyakhare"/> amulyakhare
+				<img src="https://private-avatars.githubusercontent.com/u/643983?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY0NjAsIm5iZiI6MTczNDY4NTI2MCwicGF0aCI6Ii91LzY0Mzk4MyJ9.SF4EJW5S8G05NxmUVxDy9V40eaas8B5FC9-J17x2uBI&s=72&v=4" width="24" alt="Avatar of amulyakhare"/> amulyakhare
 			</a><br/>
 			Amulya Khare
 		</td>
@@ -5833,7 +5833,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>441</td>
 		<td>
 			<a target="_blank" href="https://github.com/encryptedtouhid">
-				<img src="https://private-avatars.githubusercontent.com/u/10276184?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzMDAsIm5iZiI6MTczNDY1MDEwMCwicGF0aCI6Ii91LzEwMjc2MTg0In0.WC6jXwXTIV6YI7KU1xXIfCPdm3wkHroYp8k7GtSZPvA&s=72&u=ff332c5975cdd1486539d22a8a5bd083eab4a54d&v=4" width="24" alt="Avatar of encryptedtouhid"/> encryptedtouhid
+				<img src="https://private-avatars.githubusercontent.com/u/10276184?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODczMDAsIm5iZiI6MTczNDY4NjEwMCwicGF0aCI6Ii91LzEwMjc2MTg0In0.EcXSoQBc1ZlanncluF8jEvX7FJgQYiLNxjAe-7b3O-s&s=72&u=ff332c5975cdd1486539d22a8a5bd083eab4a54d&v=4" width="24" alt="Avatar of encryptedtouhid"/> encryptedtouhid
 			</a><br/>
 			Khaled
 		</td>
@@ -5846,7 +5846,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>442</td>
 		<td>
 			<a target="_blank" href="https://github.com/sagizty">
-				<img src="https://private-avatars.githubusercontent.com/u/50575108?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzMDAsIm5iZiI6MTczNDY1MDEwMCwicGF0aCI6Ii91LzUwNTc1MTA4In0.EboMXHYPG0D-yodIb1M1PXdWU98wVyrpsvvM3S3U2NA&s=72&u=dff0e8955d8fe6e84f2bf2aba595960b6a27b365&v=4" width="24" alt="Avatar of sagizty"/> sagizty
+				<img src="https://private-avatars.githubusercontent.com/u/50575108?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODczMDAsIm5iZiI6MTczNDY4NjEwMCwicGF0aCI6Ii91LzUwNTc1MTA4In0.8xQ8kNWfvzdgp7W8aAE_EJksi1McBVYwd0HCwEmCuzU&s=72&u=dff0e8955d8fe6e84f2bf2aba595960b6a27b365&v=4" width="24" alt="Avatar of sagizty"/> sagizty
 			</a><br/>
 			Tianyi Zhang
 		</td>
@@ -5859,7 +5859,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>443</td>
 		<td>
 			<a target="_blank" href="https://github.com/angerman">
-				<img src="https://private-avatars.githubusercontent.com/u/40449?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzQwNDQ5In0.7p58RnNhh0jkOZNMQLp0ybKemjM094GADZeVa7rpZfA&s=72&u=bb3a7f932cea7c9d7b7775ab5b26bc0b265af0f5&v=4" width="24" alt="Avatar of angerman"/> angerman
+				<img src="https://private-avatars.githubusercontent.com/u/40449?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxODAsIm5iZiI6MTczNDY4NTk4MCwicGF0aCI6Ii91LzQwNDQ5In0.TEP9EWlOr2AKhEYBqUoA0g8Bi3Nrn4IyCOICb5-hIMQ&s=72&u=bb3a7f932cea7c9d7b7775ab5b26bc0b265af0f5&v=4" width="24" alt="Avatar of angerman"/> angerman
 			</a><br/>
 			Moritz Angermann
 		</td>
@@ -5872,7 +5872,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>444</td>
 		<td>
 			<a target="_blank" href="https://github.com/emadeldeen24">
-				<img src="https://private-avatars.githubusercontent.com/u/37911596?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzNjAsIm5iZiI6MTczNDY1MDE2MCwicGF0aCI6Ii91LzM3OTExNTk2In0.qjMuPHrdgkL8DeslnUW7dxecgqy8g0k8B9w0XOLT11Q&s=72&u=f9ce1483bd109be28b5cc4662cfb8bb67649e40e&v=4" width="24" alt="Avatar of emadeldeen24"/> emadeldeen24
+				<img src="https://private-avatars.githubusercontent.com/u/37911596?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY0NjAsIm5iZiI6MTczNDY4NTI2MCwicGF0aCI6Ii91LzM3OTExNTk2In0.UuReJxajefpun7cgmoRCHav0WAT9CaaCRLbGDT1f4Y8&s=72&u=f9ce1483bd109be28b5cc4662cfb8bb67649e40e&v=4" width="24" alt="Avatar of emadeldeen24"/> emadeldeen24
 			</a><br/>
 			Emadeldeen Eldele
 		</td>
@@ -5885,7 +5885,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>445</td>
 		<td>
 			<a target="_blank" href="https://github.com/geocine">
-				<img src="https://private-avatars.githubusercontent.com/u/507464?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzMDAsIm5iZiI6MTczNDY1MDEwMCwicGF0aCI6Ii91LzUwNzQ2NCJ9.ojy_C-J5wsH4G817FTCGN213zrzgUR2Fw0UsxGeoJNk&s=72&u=7a5baefc133ef3d759822130abc393d8b8d0a187&v=4" width="24" alt="Avatar of geocine"/> geocine
+				<img src="https://private-avatars.githubusercontent.com/u/507464?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODczMDAsIm5iZiI6MTczNDY4NjEwMCwicGF0aCI6Ii91LzUwNzQ2NCJ9.1h_XGvGZsoffA1aTktqd_F5SEpqoQ8GY2c2RrFpatJE&s=72&u=7a5baefc133ef3d759822130abc393d8b8d0a187&v=4" width="24" alt="Avatar of geocine"/> geocine
 			</a><br/>
 			Aivan Monceller
 		</td>
@@ -5898,7 +5898,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>446</td>
 		<td>
 			<a target="_blank" href="https://github.com/zha0gongz1">
-				<img src="https://private-avatars.githubusercontent.com/u/41460798?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE0ODAsIm5iZiI6MTczNDY1MDI4MCwicGF0aCI6Ii91LzQxNDYwNzk4In0.a3a6SbcPzyMx5hs9C-NVp7PJLSuq68indH8JRgv3Oa4&s=72&u=0e1979e6abbf3c92b843be84d709b34f925ae8ca&v=4" width="24" alt="Avatar of zha0gongz1"/> zha0gongz1
+				<img src="https://private-avatars.githubusercontent.com/u/41460798?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1ODAsIm5iZiI6MTczNDY4NTM4MCwicGF0aCI6Ii91LzQxNDYwNzk4In0.IYxe38F5pF5RsHKBoawHHZKwIEjtp_IdpA-KDrczWPA&s=72&u=0e1979e6abbf3c92b843be84d709b34f925ae8ca&v=4" width="24" alt="Avatar of zha0gongz1"/> zha0gongz1
 			</a><br/>
 			0x326
 		</td>
@@ -5911,7 +5911,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>447</td>
 		<td>
 			<a target="_blank" href="https://github.com/jiangzhubo">
-				<img src="https://private-avatars.githubusercontent.com/u/26918997?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzMDAsIm5iZiI6MTczNDY1MDEwMCwicGF0aCI6Ii91LzI2OTE4OTk3In0.cgenSSCeLpL19hOtZkrLo7zEFxGzsbXq6d3mUTa2sHg&s=72&v=4" width="24" alt="Avatar of jiangzhubo"/> jiangzhubo
+				<img src="https://private-avatars.githubusercontent.com/u/26918997?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODczMDAsIm5iZiI6MTczNDY4NjEwMCwicGF0aCI6Ii91LzI2OTE4OTk3In0.HbfOMQ7srgnDDkQh8NfyqeL6TZIpXd8M55itPybmRLY&s=72&v=4" width="24" alt="Avatar of jiangzhubo"/> jiangzhubo
 			</a><br/>
 			bobo
 		</td>
@@ -5924,7 +5924,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>448</td>
 		<td>
 			<a target="_blank" href="https://github.com/guanlinz">
-				<img src="https://private-avatars.githubusercontent.com/u/22729408?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3NjAsIm5iZiI6MTczNDY0OTU2MCwicGF0aCI6Ii91LzIyNzI5NDA4In0.1K3w7-IB1nS6dOqjnnRhkorRUxfUGnU7Dy-vm0pZVs4&s=72&u=61d13c9573b8974a5e746f8a1f60bd21b853ae85&v=4" width="24" alt="Avatar of guanlinz"/> guanlinz
+				<img src="https://private-avatars.githubusercontent.com/u/22729408?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91LzIyNzI5NDA4In0.VlAhUdoXKHAYlKs_-I2p6E4iiJ56f993ddha0ltJZG8&s=72&u=61d13c9573b8974a5e746f8a1f60bd21b853ae85&v=4" width="24" alt="Avatar of guanlinz"/> guanlinz
 			</a><br/>
 			Guanlin Zhang
 		</td>
@@ -5937,7 +5937,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>449</td>
 		<td>
 			<a target="_blank" href="https://github.com/timoast">
-				<img src="https://private-avatars.githubusercontent.com/u/4591688?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzMDAsIm5iZiI6MTczNDY1MDEwMCwicGF0aCI6Ii91LzQ1OTE2ODgifQ.pwVXiVOrkz-U5lvOTyfl9iuI-FtQ0QkHkGY5xwCPNnA&s=72&v=4" width="24" alt="Avatar of timoast"/> timoast
+				<img src="https://private-avatars.githubusercontent.com/u/4591688?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODczMDAsIm5iZiI6MTczNDY4NjEwMCwicGF0aCI6Ii91LzQ1OTE2ODgifQ.ehNsZc8T6-9tbECkFFEckeYBzJzSXQ_Vg7aMB1w-NOA&s=72&v=4" width="24" alt="Avatar of timoast"/> timoast
 			</a><br/>
 			Tim Stuart
 		</td>
@@ -5950,7 +5950,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>450</td>
 		<td>
 			<a target="_blank" href="https://github.com/alxiong">
-				<img src="https://private-avatars.githubusercontent.com/u/20514086?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzIwNTE0MDg2In0.psW8Eoc45bfrdO_Z5iVaj7vCPHdLdEGFNbaOZEOuZaI&s=72&u=8d1c69565dfd09d4edd2a185943131e96f263911&v=4" width="24" alt="Avatar of alxiong"/> alxiong
+				<img src="https://private-avatars.githubusercontent.com/u/20514086?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzIwNTE0MDg2In0.MdOYS4hmZNqWC03-oa6QoFtiTaALOLhTMkBnBPCV2LM&s=72&u=8d1c69565dfd09d4edd2a185943131e96f263911&v=4" width="24" alt="Avatar of alxiong"/> alxiong
 			</a><br/>
 			Alex Xiong
 		</td>
@@ -5963,7 +5963,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>451</td>
 		<td>
 			<a target="_blank" href="https://github.com/tengyifei">
-				<img src="https://private-avatars.githubusercontent.com/u/2877531?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3NjAsIm5iZiI6MTczNDY0OTU2MCwicGF0aCI6Ii91LzI4Nzc1MzEifQ.vD84wnDfjR4nqlm__FY3cKBDm0zOb934HPtozCyK3QM&s=72&u=0e482adbc4c0950ef5f3173c1cf1a46c9548a529&v=4" width="24" alt="Avatar of tengyifei"/> tengyifei
+				<img src="https://private-avatars.githubusercontent.com/u/2877531?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91LzI4Nzc1MzEifQ.pIDXXRoVcanJPLNlqc3L43J_RPRJ3RU6Q0jR8kXUvKA&s=72&u=0e482adbc4c0950ef5f3173c1cf1a46c9548a529&v=4" width="24" alt="Avatar of tengyifei"/> tengyifei
 			</a><br/>
 			Yifei Teng
 		</td>
@@ -5976,7 +5976,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>452</td>
 		<td>
 			<a target="_blank" href="https://github.com/yutong-xia">
-				<img src="https://private-avatars.githubusercontent.com/u/80108368?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4MjAsIm5iZiI6MTczNDY0OTYyMCwicGF0aCI6Ii91LzgwMTA4MzY4In0._Qvt_Gk_XQ8Wwp_GaaVl95ucqamz62vsvw7KTwXikG8&s=72&u=0df469913f7c027ca692cb72551ccff7c0a5e9bf&v=4" width="24" alt="Avatar of yutong-xia"/> yutong-xia
+				<img src="https://private-avatars.githubusercontent.com/u/80108368?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4MjAsIm5iZiI6MTczNDY4NTYyMCwicGF0aCI6Ii91LzgwMTA4MzY4In0.3hC4i5dEJpyyIjYIo87Q4z4v9eOu_yQCmNAGkPg2o_Y&s=72&u=0df469913f7c027ca692cb72551ccff7c0a5e9bf&v=4" width="24" alt="Avatar of yutong-xia"/> yutong-xia
 			</a><br/>
 			Yutong XIA
 		</td>
@@ -5989,7 +5989,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>453</td>
 		<td>
 			<a target="_blank" href="https://github.com/lowjoel">
-				<img src="https://private-avatars.githubusercontent.com/u/2505070?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3MDAsIm5iZiI6MTczNDY0OTUwMCwicGF0aCI6Ii91LzI1MDUwNzAifQ.Vgl3uFc_UbmOAAfEt6P9AJyiCBKYeVN-3IfgXH-GvI0&s=72&v=4" width="24" alt="Avatar of lowjoel"/> lowjoel
+				<img src="https://private-avatars.githubusercontent.com/u/2505070?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3MDAsIm5iZiI6MTczNDY4NTUwMCwicGF0aCI6Ii91LzI1MDUwNzAifQ.f6SNafg780B5PEzcA21ArkDTW8YvqZGpHw-ZxDxJDZ4&s=72&v=4" width="24" alt="Avatar of lowjoel"/> lowjoel
 			</a><br/>
 			Joel Low
 		</td>
@@ -6002,7 +6002,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>454</td>
 		<td>
 			<a target="_blank" href="https://github.com/XiaogangHe">
-				<img src="https://private-avatars.githubusercontent.com/u/7798592?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzNjAsIm5iZiI6MTczNDY1MDE2MCwicGF0aCI6Ii91Lzc3OTg1OTIifQ.0jmJFCckazEZs86lH3xAHsHGQu7PG-sw6KSPzUbUA2s&s=72&u=884ec748fc86338c7c29f6f84c993b46bace147f&v=4" width="24" alt="Avatar of XiaogangHe"/> XiaogangHe
+				<img src="https://private-avatars.githubusercontent.com/u/7798592?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY0NjAsIm5iZiI6MTczNDY4NTI2MCwicGF0aCI6Ii91Lzc3OTg1OTIifQ.2ooZNoxzVZOOOO4SPac7KGdiOP3bSzl36bfZ6yU6RAs&s=72&u=884ec748fc86338c7c29f6f84c993b46bace147f&v=4" width="24" alt="Avatar of XiaogangHe"/> XiaogangHe
 			</a><br/>
 			Xiaogang He
 		</td>
@@ -6015,7 +6015,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>455</td>
 		<td>
 			<a target="_blank" href="https://github.com/tonghuikang">
-				<img src="https://private-avatars.githubusercontent.com/u/17105577?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4ODAsIm5iZiI6MTczNDY0OTY4MCwicGF0aCI6Ii91LzE3MTA1NTc3In0.9yDxxutRta0mu0EK940qkEPPGqUuVEAAs-Zrx6zHzTQ&s=72&u=f923d365d349dedec7efcf6bb3a6f76fa853284c&v=4" width="24" alt="Avatar of tonghuikang"/> tonghuikang
+				<img src="https://private-avatars.githubusercontent.com/u/17105577?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4ODAsIm5iZiI6MTczNDY4NTY4MCwicGF0aCI6Ii91LzE3MTA1NTc3In0.6ohss_bshJWMxrZQl64s1Fk8hM9ECZnpj3meRW2NHRA&s=72&u=f923d365d349dedec7efcf6bb3a6f76fa853284c&v=4" width="24" alt="Avatar of tonghuikang"/> tonghuikang
 			</a><br/>
 			Tong Hui Kang
 		</td>
@@ -6028,7 +6028,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>456</td>
 		<td>
 			<a target="_blank" href="https://github.com/chuyeow">
-				<img src="https://private-avatars.githubusercontent.com/u/213?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzMDAsIm5iZiI6MTczNDY1MDEwMCwicGF0aCI6Ii91LzIxMyJ9.6Ci4H8Cho_mdXORHhgs00TbnQ9wp-cJxJIInVN1FZ9U&s=72&u=61fec6a5fa6f10a040f8f095d8e8e85d8941f703&v=4" width="24" alt="Avatar of chuyeow"/> chuyeow
+				<img src="https://private-avatars.githubusercontent.com/u/213?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODczMDAsIm5iZiI6MTczNDY4NjEwMCwicGF0aCI6Ii91LzIxMyJ9.YMrbujm_yfbZZCA-84iR4IhpTuBZe2Ob2nq4pbDaBqU&s=72&u=61fec6a5fa6f10a040f8f095d8e8e85d8941f703&v=4" width="24" alt="Avatar of chuyeow"/> chuyeow
 			</a><br/>
 			Cheah Chu Yeow
 		</td>
@@ -6040,8 +6040,21 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 	<tr>
 		<td>457</td>
 		<td>
+			<a target="_blank" href="https://github.com/DarrelA">
+				<img src="https://private-avatars.githubusercontent.com/u/30693380?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1ODAsIm5iZiI6MTczNDY4NTM4MCwicGF0aCI6Ii91LzMwNjkzMzgwIn0.iZJr_TZsZpnb3x9Z0kFKnCxlvIOk2VMUAmEoddC0whA&s=72&u=465255a63ce0d5d7f64d8498bd22bedd659cb086&v=4" width="24" alt="Avatar of DarrelA"/> DarrelA
+			</a><br/>
+			Darrel Ang
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/DarrelAJS">DarrelAJS</a></td>
+		<td>Singapore</td>
+		<td>139</td>
+	</tr>
+	<tr>
+		<td>458</td>
+		<td>
 			<a target="_blank" href="https://github.com/luqmanarifin">
-				<img src="https://private-avatars.githubusercontent.com/u/8296835?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzgyOTY4MzUifQ.vDjD2-dkV3ro9lQXoZZCmlz9j_uh1_3Z4qy_88jcAks&s=72&u=32e151121375936a79f89779ea8d8fe04cdb9f67&v=4" width="24" alt="Avatar of luqmanarifin"/> luqmanarifin
+				<img src="https://private-avatars.githubusercontent.com/u/8296835?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzgyOTY4MzUifQ.ZhucpBSdvZPdKc66VDUfaYDMuizLckm0cWqvBpZBZlQ&s=72&u=32e151121375936a79f89779ea8d8fe04cdb9f67&v=4" width="24" alt="Avatar of luqmanarifin"/> luqmanarifin
 			</a><br/>
 			Luqman A Siswanto
 		</td>
@@ -6051,10 +6064,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>139</td>
 	</tr>
 	<tr>
-		<td>458</td>
+		<td>459</td>
 		<td>
 			<a target="_blank" href="https://github.com/shramee">
-				<img src="https://private-avatars.githubusercontent.com/u/11048263?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE0ODAsIm5iZiI6MTczNDY1MDI4MCwicGF0aCI6Ii91LzExMDQ4MjYzIn0.NnPsgKFy3uoSHedOh5tBZ8OEYbJ-3O0sOOiRAlB31yI&s=72&u=1d361a7a8b76ca163712d90124e0d9aa646a1fa9&v=4" width="24" alt="Avatar of shramee"/> shramee
+				<img src="https://private-avatars.githubusercontent.com/u/11048263?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1ODAsIm5iZiI6MTczNDY4NTM4MCwicGF0aCI6Ii91LzExMDQ4MjYzIn0.j0gCn1xPOjEFFJAqglLXVlMfxIe5ADDx23Oi9RU6gOI&s=72&u=1d361a7a8b76ca163712d90124e0d9aa646a1fa9&v=4" width="24" alt="Avatar of shramee"/> shramee
 			</a><br/>
 			Shramee Srivastav
 		</td>
@@ -6064,23 +6077,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>138</td>
 	</tr>
 	<tr>
-		<td>459</td>
-		<td>
-			<a target="_blank" href="https://github.com/DarrelA">
-				<img src="https://private-avatars.githubusercontent.com/u/30693380?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE0ODAsIm5iZiI6MTczNDY1MDI4MCwicGF0aCI6Ii91LzMwNjkzMzgwIn0.IC3E94a6VkVb4eiq4zi5C5N1XLcbpPgNEotuLkmxPDk&s=72&u=465255a63ce0d5d7f64d8498bd22bedd659cb086&v=4" width="24" alt="Avatar of DarrelA"/> DarrelA
-			</a><br/>
-			Darrel Ang
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/DarrelAJS">DarrelAJS</a></td>
-		<td>Singapore</td>
-		<td>138</td>
-	</tr>
-	<tr>
 		<td>460</td>
 		<td>
 			<a target="_blank" href="https://github.com/ravern">
-				<img src="https://private-avatars.githubusercontent.com/u/22592318?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzNjAsIm5iZiI6MTczNDY1MDE2MCwicGF0aCI6Ii91LzIyNTkyMzE4In0.ejKFlauIjYHyHiDX8FUDS-BhmooIP1XzFkqZT9w81AE&s=72&u=2b0da63095b2eafcba547e58c5b4f589302e9fa5&v=4" width="24" alt="Avatar of ravern"/> ravern
+				<img src="https://private-avatars.githubusercontent.com/u/22592318?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY0NjAsIm5iZiI6MTczNDY4NTI2MCwicGF0aCI6Ii91LzIyNTkyMzE4In0.uZi-ZQgBeG1YZZmbXBRv21ZMvFiNgweTY4oyookazws&s=72&u=2b0da63095b2eafcba547e58c5b4f589302e9fa5&v=4" width="24" alt="Avatar of ravern"/> ravern
 			</a><br/>
 			Ravern Koh
 		</td>
@@ -6093,7 +6093,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>461</td>
 		<td>
 			<a target="_blank" href="https://github.com/MahmoudAbdelRahman">
-				<img src="https://private-avatars.githubusercontent.com/u/6969514?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA2NDAsIm5iZiI6MTczNDY0OTQ0MCwicGF0aCI6Ii91LzY5Njk1MTQifQ.pkQ8xtfe8A8Zyh7QF7lZH9Gj-iG3mZZYtDdQJtNuZP4&s=72&u=c8660a50fbc83743deee705f34c379575eb5e928&v=4" width="24" alt="Avatar of MahmoudAbdelRahman"/> MahmoudAbdelRahman
+				<img src="https://private-avatars.githubusercontent.com/u/6969514?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91LzY5Njk1MTQifQ.Y-a4ZNI0eafLYVNZxEXcQlwmA-rb57mYkOft-_5g_5o&s=72&u=c8660a50fbc83743deee705f34c379575eb5e928&v=4" width="24" alt="Avatar of MahmoudAbdelRahman"/> MahmoudAbdelRahman
 			</a><br/>
 			Mahmoud ouf
 		</td>
@@ -6106,7 +6106,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>462</td>
 		<td>
 			<a target="_blank" href="https://github.com/angelsl">
-				<img src="https://private-avatars.githubusercontent.com/u/235432?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE0ODAsIm5iZiI6MTczNDY1MDI4MCwicGF0aCI6Ii91LzIzNTQzMiJ9.fvRbTNTuSKJGb209DgsfmMkRCQSywamWHdTnlSpVsZg&s=72&u=599b032772462a3688ee75b44b619245b857d434&v=4" width="24" alt="Avatar of angelsl"/> angelsl
+				<img src="https://private-avatars.githubusercontent.com/u/235432?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1ODAsIm5iZiI6MTczNDY4NTM4MCwicGF0aCI6Ii91LzIzNTQzMiJ9.8cyltKBzXYPTxZ_qY5TLty5EJ6x9Bvy0lKr41pWQb-E&s=72&u=599b032772462a3688ee75b44b619245b857d434&v=4" width="24" alt="Avatar of angelsl"/> angelsl
 			</a><br/>
 			No Name
 		</td>
@@ -6118,21 +6118,8 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 	<tr>
 		<td>463</td>
 		<td>
-			<a target="_blank" href="https://github.com/liuliqiang">
-				<img src="https://private-avatars.githubusercontent.com/u/9395418?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA5NDAsIm5iZiI6MTczNDY0OTc0MCwicGF0aCI6Ii91LzkzOTU0MTgifQ.KmxORRirQc5a60KyJ0qyg9haN4XM8QxRLaitPbVsLro&s=72&u=8eec498b474d081c18311c86ab30ec6ba7dc9060&v=4" width="24" alt="Avatar of liuliqiang"/> liuliqiang
-			</a><br/>
-			Liqiang Lau
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/gopanicerr">gopanicerr</a></td>
-		<td>Singapore</td>
-		<td>138</td>
-	</tr>
-	<tr>
-		<td>464</td>
-		<td>
 			<a target="_blank" href="https://github.com/liruoteng">
-				<img src="https://private-avatars.githubusercontent.com/u/7472795?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3MDAsIm5iZiI6MTczNDY0OTUwMCwicGF0aCI6Ii91Lzc0NzI3OTUifQ.1kH5x1T-6lRtPD8c8ejVOR9e_4Xq5OFPMxApBB1mhsM&s=72&u=5a41979a2296707b233760d5b048814f34fedf59&v=4" width="24" alt="Avatar of liruoteng"/> liruoteng
+				<img src="https://private-avatars.githubusercontent.com/u/7472795?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3MDAsIm5iZiI6MTczNDY4NTUwMCwicGF0aCI6Ii91Lzc0NzI3OTUifQ.NqrsZS1nghTcq5pgJH58oywNLYC4SbFrLKXYbx_6Pg8&s=72&u=5a41979a2296707b233760d5b048814f34fedf59&v=4" width="24" alt="Avatar of liruoteng"/> liruoteng
 			</a><br/>
 			Rhein
 		</td>
@@ -6142,10 +6129,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>138</td>
 	</tr>
 	<tr>
-		<td>465</td>
+		<td>464</td>
 		<td>
 			<a target="_blank" href="https://github.com/PicoCreator">
-				<img src="https://private-avatars.githubusercontent.com/u/17175484?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzMDAsIm5iZiI6MTczNDY1MDEwMCwicGF0aCI6Ii91LzE3MTc1NDg0In0.Gk0PLhfJnpHBxg0Z4HCn6xWRl-eTROEZtgKPYhM0tUc&s=72&u=9c73b5bc14d6d1430d3cef61fa6aa0aa74e185b3&v=4" width="24" alt="Avatar of PicoCreator"/> PicoCreator
+				<img src="https://private-avatars.githubusercontent.com/u/17175484?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODczMDAsIm5iZiI6MTczNDY4NjEwMCwicGF0aCI6Ii91LzE3MTc1NDg0In0.RU0EpmaCpYN8bRlz94ZPt-wCsF3lwI-24YDnj8Yh-Ic&s=72&u=9c73b5bc14d6d1430d3cef61fa6aa0aa74e185b3&v=4" width="24" alt="Avatar of PicoCreator"/> PicoCreator
 			</a><br/>
 			Eugene Cheah
 		</td>
@@ -6155,10 +6142,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>137</td>
 	</tr>
 	<tr>
-		<td>466</td>
+		<td>465</td>
 		<td>
 			<a target="_blank" href="https://github.com/dumindu">
-				<img src="https://private-avatars.githubusercontent.com/u/1280428?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEyNDAsIm5iZiI6MTczNDY1MDA0MCwicGF0aCI6Ii91LzEyODA0MjgifQ.1cobUJ_k2QMT6cPqgltYHRFs3Am3UURmn7NFcQ9wgEM&s=72&u=a05872057ff674dbd25324073eec0ddf25286d3b&v=4" width="24" alt="Avatar of dumindu"/> dumindu
+				<img src="https://private-avatars.githubusercontent.com/u/1280428?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcyNDAsIm5iZiI6MTczNDY4NjA0MCwicGF0aCI6Ii91LzEyODA0MjgifQ.4JRHzMI4hZZhx2Kg5tVpDjMtnpYbwcsi2231PT35Spw&s=72&u=a05872057ff674dbd25324073eec0ddf25286d3b&v=4" width="24" alt="Avatar of dumindu"/> dumindu
 			</a><br/>
 			Dumindu Madunuwan
 		</td>
@@ -6168,10 +6155,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>137</td>
 	</tr>
 	<tr>
-		<td>467</td>
+		<td>466</td>
 		<td>
 			<a target="_blank" href="https://github.com/jeromepalayoor">
-				<img src="https://private-avatars.githubusercontent.com/u/63996033?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExMjAsIm5iZiI6MTczNDY0OTkyMCwicGF0aCI6Ii91LzYzOTk2MDMzIn0.yhexAqRoUYVICg-5ixC3uPf1vknSehcULRnypAGlpX0&s=72&u=3b553ce87065a3497cd991dd4051a2f7215e2912&v=4" width="24" alt="Avatar of jeromepalayoor"/> jeromepalayoor
+				<img src="https://private-avatars.githubusercontent.com/u/63996033?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxMjAsIm5iZiI6MTczNDY4NTkyMCwicGF0aCI6Ii91LzYzOTk2MDMzIn0.ehhOAtr7_RanlngO7IfuwovLe4ezsNyS9RNcjhHJZGo&s=72&u=3b553ce87065a3497cd991dd4051a2f7215e2912&v=4" width="24" alt="Avatar of jeromepalayoor"/> jeromepalayoor
 			</a><br/>
 			Jerome Palayoor
 		</td>
@@ -6181,10 +6168,23 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>137</td>
 	</tr>
 	<tr>
+		<td>467</td>
+		<td>
+			<a target="_blank" href="https://github.com/liuliqiang">
+				<img src="https://private-avatars.githubusercontent.com/u/9395418?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY5NDAsIm5iZiI6MTczNDY4NTc0MCwicGF0aCI6Ii91LzkzOTU0MTgifQ.bkkzSYJ0mlxjZj1RIXRc6nmjbzD1rAC23CI3nrErZnw&s=72&u=8eec498b474d081c18311c86ab30ec6ba7dc9060&v=4" width="24" alt="Avatar of liuliqiang"/> liuliqiang
+			</a><br/>
+			Liqiang Lau
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/gopanicerr">gopanicerr</a></td>
+		<td>Singapore</td>
+		<td>137</td>
+	</tr>
+	<tr>
 		<td>468</td>
 		<td>
 			<a target="_blank" href="https://github.com/mivanzhang">
-				<img src="https://private-avatars.githubusercontent.com/u/8842825?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE0ODAsIm5iZiI6MTczNDY1MDI4MCwicGF0aCI6Ii91Lzg4NDI4MjUifQ.tW5sAM6h15X7CP1AqOXZoRkFeCV2b4KhGypmCxSBssM&s=72&u=9c187f1875bea5997e4a8e2004484dd98ca0e348&v=4" width="24" alt="Avatar of mivanzhang"/> mivanzhang
+				<img src="https://private-avatars.githubusercontent.com/u/8842825?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1ODAsIm5iZiI6MTczNDY4NTM4MCwicGF0aCI6Ii91Lzg4NDI4MjUifQ.onLoJq85VUz4BQIOGUCeloZowt3htcqJ1uYkeG3kduQ&s=72&u=9c187f1875bea5997e4a8e2004484dd98ca0e348&v=4" width="24" alt="Avatar of mivanzhang"/> mivanzhang
 			</a><br/>
 			MengZhang
 		</td>
@@ -6197,7 +6197,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>469</td>
 		<td>
 			<a target="_blank" href="https://github.com/meton-robean">
-				<img src="https://private-avatars.githubusercontent.com/u/17881739?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwMDAsIm5iZiI6MTczNDY0OTgwMCwicGF0aCI6Ii91LzE3ODgxNzM5In0.ZCOm42HXEF3KEKouKkehEla3p6eP7u-ajxDm69eXz-c&s=72&u=9bf139357fcc66e916f39eb1c9382c7ee01a1f09&v=4" width="24" alt="Avatar of meton-robean"/> meton-robean
+				<img src="https://private-avatars.githubusercontent.com/u/17881739?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwMDAsIm5iZiI6MTczNDY4NTgwMCwicGF0aCI6Ii91LzE3ODgxNzM5In0.bJrG_G6qD890NUoKs815MsgsTjLoFvKbbII6h4ylqB4&s=72&u=9bf139357fcc66e916f39eb1c9382c7ee01a1f09&v=4" width="24" alt="Avatar of meton-robean"/> meton-robean
 			</a><br/>
 			metonrobean
 		</td>
@@ -6210,7 +6210,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>470</td>
 		<td>
 			<a target="_blank" href="https://github.com/sweatybridge">
-				<img src="https://private-avatars.githubusercontent.com/u/1639722?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzE2Mzk3MjIifQ.7G9gedhzLBFL0V25xbEqII-M9hr-p_CXYMbzydEqFP0&s=72&u=dc7da961d0f8f71dc370d65626d1d61df23546aa&v=4" width="24" alt="Avatar of sweatybridge"/> sweatybridge
+				<img src="https://private-avatars.githubusercontent.com/u/1639722?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzE2Mzk3MjIifQ.N5DB-82LALwR95QJPvBF3KJaZ7uJbP83lLmEuDFvifY&s=72&u=dc7da961d0f8f71dc370d65626d1d61df23546aa&v=4" width="24" alt="Avatar of sweatybridge"/> sweatybridge
 			</a><br/>
 			Han Qiao
 		</td>
@@ -6223,7 +6223,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>471</td>
 		<td>
 			<a target="_blank" href="https://github.com/menghan">
-				<img src="https://private-avatars.githubusercontent.com/u/115532?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExMjAsIm5iZiI6MTczNDY0OTkyMCwicGF0aCI6Ii91LzExNTUzMiJ9.lT6jf1F-hxSVTWe8TZ_MUE0-7P8ZAcOFbIrXmkrnAns&s=72&v=4" width="24" alt="Avatar of menghan"/> menghan
+				<img src="https://private-avatars.githubusercontent.com/u/115532?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxMjAsIm5iZiI6MTczNDY4NTkyMCwicGF0aCI6Ii91LzExNTUzMiJ9.ASdz6zoaI0Bg96zgdjHV80gSObXkdxsgv6EYnSh5Xjs&s=72&v=4" width="24" alt="Avatar of menghan"/> menghan
 			</a><br/>
 			Menghan Zheng
 		</td>
@@ -6236,7 +6236,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>472</td>
 		<td>
 			<a target="_blank" href="https://github.com/hlhr202">
-				<img src="https://private-avatars.githubusercontent.com/u/2355528?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4MjAsIm5iZiI6MTczNDY0OTYyMCwicGF0aCI6Ii91LzIzNTU1MjgifQ.ooiBDslJ6nXi1Jic8aOC3KZwlNTbxJnAuHvC5CIUFxs&s=72&u=78262c81acff85baab57fecf576d6174348a6274&v=4" width="24" alt="Avatar of hlhr202"/> hlhr202
+				<img src="https://private-avatars.githubusercontent.com/u/2355528?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4MjAsIm5iZiI6MTczNDY4NTYyMCwicGF0aCI6Ii91LzIzNTU1MjgifQ.vSs2G7xpAdiLWIGevUBPZRNtaOXwdbGLYOwm5fKcnJY&s=72&u=78262c81acff85baab57fecf576d6174348a6274&v=4" width="24" alt="Avatar of hlhr202"/> hlhr202
 			</a><br/>
 			GenkagakuGPT
 		</td>
@@ -6249,7 +6249,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>473</td>
 		<td>
 			<a target="_blank" href="https://github.com/binderclip">
-				<img src="https://private-avatars.githubusercontent.com/u/8187479?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExMjAsIm5iZiI6MTczNDY0OTkyMCwicGF0aCI6Ii91LzgxODc0NzkifQ.hQb-czeksGUkTDZ0idZhK_JJC-2YW4YRjyrUZuq1Z-s&s=72&u=8771d4cace0cc4c72ac8c56f50626a3a2389c3af&v=4" width="24" alt="Avatar of binderclip"/> binderclip
+				<img src="https://private-avatars.githubusercontent.com/u/8187479?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxMjAsIm5iZiI6MTczNDY4NTkyMCwicGF0aCI6Ii91LzgxODc0NzkifQ.H-HJtsZSFrC9ACUjAwL98Ce-b9bLgsSBD-U3SkVSThc&s=72&u=8771d4cace0cc4c72ac8c56f50626a3a2389c3af&v=4" width="24" alt="Avatar of binderclip"/> binderclip
 			</a><br/>
 			clip
 		</td>
@@ -6262,7 +6262,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>474</td>
 		<td>
 			<a target="_blank" href="https://github.com/scps960740">
-				<img src="https://private-avatars.githubusercontent.com/u/20247491?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4MjAsIm5iZiI6MTczNDY0OTYyMCwicGF0aCI6Ii91LzIwMjQ3NDkxIn0.quKxH9zZxno-DFssSmipqNYcU3-V-bbzlgCXgC8bgR0&s=72&u=195e117c9fe6fc9a609a1eab808d6cfc237489c2&v=4" width="24" alt="Avatar of scps960740"/> scps960740
+				<img src="https://private-avatars.githubusercontent.com/u/20247491?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4MjAsIm5iZiI6MTczNDY4NTYyMCwicGF0aCI6Ii91LzIwMjQ3NDkxIn0.VQt1lBnsPCTRh-_umwy1nAAcI-dyO3ch7UMXAIM3ILE&s=72&u=195e117c9fe6fc9a609a1eab808d6cfc237489c2&v=4" width="24" alt="Avatar of scps960740"/> scps960740
 			</a><br/>
 			Bruce Tseng
 		</td>
@@ -6274,8 +6274,21 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 	<tr>
 		<td>475</td>
 		<td>
+			<a target="_blank" href="https://github.com/ajeygore">
+				<img src="https://private-avatars.githubusercontent.com/u/166654?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY5NDAsIm5iZiI6MTczNDY4NTc0MCwicGF0aCI6Ii91LzE2NjY1NCJ9.iJ0qs7rWhYcU4YUd_fdCrroH6C4kIT-De1X0U6bN6Ec&s=72&u=a2b791eaae6b35c9b36889706bd46beea928e17c&v=4" width="24" alt="Avatar of ajeygore"/> ajeygore
+			</a><br/>
+			Ajey Gore
+		</td>
+		<td>@sequoiacapital </td>
+		<td><a target="_blank" href="https://twitter.com/ajeygore">ajeygore</a></td>
+		<td>Singapore</td>
+		<td>135</td>
+	</tr>
+	<tr>
+		<td>476</td>
+		<td>
 			<a target="_blank" href="https://github.com/chncwang">
-				<img src="https://private-avatars.githubusercontent.com/u/622735?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3NjAsIm5iZiI6MTczNDY0OTU2MCwicGF0aCI6Ii91LzYyMjczNSJ9.gSMBPkZgDnJcoGAiaSm7HDfD1pbxTt4OcnGrn_v7p_M&s=72&u=3e30d1ca8a4e782dda09b760d1e2d756a574a507&v=4" width="24" alt="Avatar of chncwang"/> chncwang
+				<img src="https://private-avatars.githubusercontent.com/u/622735?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91LzYyMjczNSJ9.Zn5ZV26r5in_fXnptNKqfJwIVUUvJFsKiZNHPoZ8iiY&s=72&u=3e30d1ca8a4e782dda09b760d1e2d756a574a507&v=4" width="24" alt="Avatar of chncwang"/> chncwang
 			</a><br/>
 			Chauncey Wang
 		</td>
@@ -6285,10 +6298,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>135</td>
 	</tr>
 	<tr>
-		<td>476</td>
+		<td>477</td>
 		<td>
 			<a target="_blank" href="https://github.com/chuacw">
-				<img src="https://private-avatars.githubusercontent.com/u/1757930?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4MjAsIm5iZiI6MTczNDY0OTYyMCwicGF0aCI6Ii91LzE3NTc5MzAifQ.38byIu1NI6pOhSRh7-Xa9tkUfQ-zFhWYkYGCA3cXkY4&s=72&v=4" width="24" alt="Avatar of chuacw"/> chuacw
+				<img src="https://private-avatars.githubusercontent.com/u/1757930?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4MjAsIm5iZiI6MTczNDY4NTYyMCwicGF0aCI6Ii91LzE3NTc5MzAifQ.Css8R-KzCWF-icVhffQ8PqiqrCmhWfZiVzmM215FMZg&s=72&v=4" width="24" alt="Avatar of chuacw"/> chuacw
 			</a><br/>
 			Chua Chee Wee
 		</td>
@@ -6298,10 +6311,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>135</td>
 	</tr>
 	<tr>
-		<td>477</td>
+		<td>478</td>
 		<td>
 			<a target="_blank" href="https://github.com/pinqy520">
-				<img src="https://private-avatars.githubusercontent.com/u/5719833?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA5NDAsIm5iZiI6MTczNDY0OTc0MCwicGF0aCI6Ii91LzU3MTk4MzMifQ.nh3yhUGs3X23bbycukAnsT2DHu8LVcJdnNyjUHqy1xY&s=72&u=bb3027157e7942a76ce72b646612a0bb1a9b3ee0&v=4" width="24" alt="Avatar of pinqy520"/> pinqy520
+				<img src="https://private-avatars.githubusercontent.com/u/5719833?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY5NDAsIm5iZiI6MTczNDY4NTc0MCwicGF0aCI6Ii91LzU3MTk4MzMifQ.0IRutaaitVJVkCYl5gymdyQa4bbzLjAZ-PRQEfF5d5M&s=72&u=bb3027157e7942a76ce72b646612a0bb1a9b3ee0&v=4" width="24" alt="Avatar of pinqy520"/> pinqy520
 			</a><br/>
 			
 		</td>
@@ -6311,10 +6324,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>135</td>
 	</tr>
 	<tr>
-		<td>478</td>
+		<td>479</td>
 		<td>
 			<a target="_blank" href="https://github.com/corollari">
-				<img src="https://private-avatars.githubusercontent.com/u/32309574?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA2NDAsIm5iZiI6MTczNDY0OTQ0MCwicGF0aCI6Ii91LzMyMzA5NTc0In0.IP_9AdWE_Ga6KIxfZpEmutWF8eY3f-nslqDDDpYz0hc&s=72&u=6aecdb6bf589ad173324301ecddfa2182b85a156&v=4" width="24" alt="Avatar of corollari"/> corollari
+				<img src="https://private-avatars.githubusercontent.com/u/32309574?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91LzMyMzA5NTc0In0.kxCH-nQZnwOJ7_YPUlRj-RYIACkGBCuU9hK924_53_E&s=72&u=6aecdb6bf589ad173324301ecddfa2182b85a156&v=4" width="24" alt="Avatar of corollari"/> corollari
 			</a><br/>
 			Albert
 		</td>
@@ -6324,10 +6337,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>135</td>
 	</tr>
 	<tr>
-		<td>479</td>
+		<td>480</td>
 		<td>
 			<a target="_blank" href="https://github.com/9emin1">
-				<img src="https://private-avatars.githubusercontent.com/u/30677210?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExMjAsIm5iZiI6MTczNDY0OTkyMCwicGF0aCI6Ii91LzMwNjc3MjEwIn0.m5gWKn4rPzMyMUGZKaqzP3WEndW-YhJWQ5ESmvkeF5s&s=72&v=4" width="24" alt="Avatar of 9emin1"/> 9emin1
+				<img src="https://private-avatars.githubusercontent.com/u/30677210?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxMjAsIm5iZiI6MTczNDY4NTkyMCwicGF0aCI6Ii91LzMwNjc3MjEwIn0.SBm8CzhFyu3RNVqXKyjLMHjz3df272-U1PeqmSfbu_A&s=72&v=4" width="24" alt="Avatar of 9emin1"/> 9emin1
 			</a><br/>
 			No Name
 		</td>
@@ -6337,49 +6350,23 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>135</td>
 	</tr>
 	<tr>
-		<td>480</td>
+		<td>481</td>
 		<td>
 			<a target="_blank" href="https://github.com/mrcaidev">
-				<img src="https://private-avatars.githubusercontent.com/u/78269445?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA2NDAsIm5iZiI6MTczNDY0OTQ0MCwicGF0aCI6Ii91Lzc4MjY5NDQ1In0.LxAbSlKjHw-TtSM2WEOLBmCwcpaQoDzZKwUWMEd58ME&s=72&u=67dc59afc5bbd15bb37089da2ce9ebcb3da41696&v=4" width="24" alt="Avatar of mrcaidev"/> mrcaidev
+				<img src="https://private-avatars.githubusercontent.com/u/78269445?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91Lzc4MjY5NDQ1In0.q9Xxb6LO-g_MqvuyZwlVMqS7iQRpYkzIFf-Q0JfhuZ4&s=72&u=67dc59afc5bbd15bb37089da2ce9ebcb3da41696&v=4" width="24" alt="Avatar of mrcaidev"/> mrcaidev
 			</a><br/>
 			Yuwang Cai
 		</td>
 		<td>National University Of Singapore<br/></td>
 		<td><a target="_blank" href="https://twitter.com/mrcaidev">mrcaidev</a></td>
 		<td>Singapore</td>
-		<td>134</td>
-	</tr>
-	<tr>
-		<td>481</td>
-		<td>
-			<a target="_blank" href="https://github.com/ajeygore">
-				<img src="https://private-avatars.githubusercontent.com/u/166654?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA5NDAsIm5iZiI6MTczNDY0OTc0MCwicGF0aCI6Ii91LzE2NjY1NCJ9.ciYsxew_Dizshnj6cSgIufN2MWCwrXHey5iM7jKS4Fg&s=72&u=a2b791eaae6b35c9b36889706bd46beea928e17c&v=4" width="24" alt="Avatar of ajeygore"/> ajeygore
-			</a><br/>
-			Ajey Gore
-		</td>
-		<td>@sequoiacapital </td>
-		<td><a target="_blank" href="https://twitter.com/ajeygore">ajeygore</a></td>
-		<td>Singapore</td>
-		<td>134</td>
+		<td>133</td>
 	</tr>
 	<tr>
 		<td>482</td>
 		<td>
-			<a target="_blank" href="https://github.com/MinChanSike">
-				<img src="https://private-avatars.githubusercontent.com/u/2868221?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzI4NjgyMjEifQ.AtMe_hxHXSrMjfpIl_38hNa65frHnjOs7STHrs7pRx0&s=72&u=424bcc0bc5211e49bb80c1eaaeb43e21c6c7abc3&v=4" width="24" alt="Avatar of MinChanSike"/> MinChanSike
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/minchansike">minchansike</a></td>
-		<td>Singapore</td>
-		<td>134</td>
-	</tr>
-	<tr>
-		<td>483</td>
-		<td>
 			<a target="_blank" href="https://github.com/pengjianzhang">
-				<img src="https://private-avatars.githubusercontent.com/u/4056888?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExMjAsIm5iZiI6MTczNDY0OTkyMCwicGF0aCI6Ii91LzQwNTY4ODgifQ.h3oCHP0X4L9lwlvybrklGA89dvuS-ShU-ScpOA-m06o&s=72&u=1103efbfc7cd61dcb36380fb9dc76798defd3f08&v=4" width="24" alt="Avatar of pengjianzhang"/> pengjianzhang
+				<img src="https://private-avatars.githubusercontent.com/u/4056888?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxMjAsIm5iZiI6MTczNDY4NTkyMCwicGF0aCI6Ii91LzQwNTY4ODgifQ.rKb_2oPC-xYu9aZNTNngymKbX0egEgA4hM30d3qD8Fk&s=72&u=1103efbfc7cd61dcb36380fb9dc76798defd3f08&v=4" width="24" alt="Avatar of pengjianzhang"/> pengjianzhang
 			</a><br/>
 			Jianzhang Peng
 		</td>
@@ -6389,10 +6376,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>133</td>
 	</tr>
 	<tr>
-		<td>484</td>
+		<td>483</td>
 		<td>
 			<a target="_blank" href="https://github.com/canhtran">
-				<img src="https://private-avatars.githubusercontent.com/u/3214379?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA5NDAsIm5iZiI6MTczNDY0OTc0MCwicGF0aCI6Ii91LzMyMTQzNzkifQ.YUCbRfcjK_vwEzG9UMPTiHAlSCryt5slxi3tVjWL1KY&s=72&u=83ed5fc6afc60d59c0b59227717669affaec6530&v=4" width="24" alt="Avatar of canhtran"/> canhtran
+				<img src="https://private-avatars.githubusercontent.com/u/3214379?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY5NDAsIm5iZiI6MTczNDY4NTc0MCwicGF0aCI6Ii91LzMyMTQzNzkifQ.9R4Is3AXJpGVrB12t81g2cJ-2AXKBq5Jv8X21l55od0&s=72&u=83ed5fc6afc60d59c0b59227717669affaec6530&v=4" width="24" alt="Avatar of canhtran"/> canhtran
 			</a><br/>
 			Calvin Canh Tran
 		</td>
@@ -6402,10 +6389,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>133</td>
 	</tr>
 	<tr>
-		<td>485</td>
+		<td>484</td>
 		<td>
 			<a target="_blank" href="https://github.com/manojpramesh">
-				<img src="https://private-avatars.githubusercontent.com/u/13680648?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzMDAsIm5iZiI6MTczNDY1MDEwMCwicGF0aCI6Ii91LzEzNjgwNjQ4In0.ESCaUYBc6N_cFc9QWYvDKnW-lAOkyHFFDPCrgp1sj-I&s=72&u=40be7cfbdf826b066b168bd144ed13b98a5ca01a&v=4" width="24" alt="Avatar of manojpramesh"/> manojpramesh
+				<img src="https://private-avatars.githubusercontent.com/u/13680648?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODczMDAsIm5iZiI6MTczNDY4NjEwMCwicGF0aCI6Ii91LzEzNjgwNjQ4In0.VpJP0JrXVC3I3ZIygRIMOi4i1B7ujd10eStuwYBjcOM&s=72&u=40be7cfbdf826b066b168bd144ed13b98a5ca01a&v=4" width="24" alt="Avatar of manojpramesh"/> manojpramesh
 			</a><br/>
 			Manoj P R
 		</td>
@@ -6415,10 +6402,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>133</td>
 	</tr>
 	<tr>
-		<td>486</td>
+		<td>485</td>
 		<td>
 			<a target="_blank" href="https://github.com/antao97">
-				<img src="https://private-avatars.githubusercontent.com/u/41320807?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3NjAsIm5iZiI6MTczNDY0OTU2MCwicGF0aCI6Ii91LzQxMzIwODA3In0.n3wvgAiWU3al7IzAgnzf19rptd5KzSsnAuDaJi7Oaig&s=72&u=28169a7b6ff2c17f0417c3d5fac8c3a2fc98c6c3&v=4" width="24" alt="Avatar of antao97"/> antao97
+				<img src="https://private-avatars.githubusercontent.com/u/41320807?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91LzQxMzIwODA3In0.HKvNh8nAtv60zCScgNPIZUw_l2JyY86w-e-y4A98bvs&s=72&u=28169a7b6ff2c17f0417c3d5fac8c3a2fc98c6c3&v=4" width="24" alt="Avatar of antao97"/> antao97
 			</a><br/>
 			An Tao
 		</td>
@@ -6428,10 +6415,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>133</td>
 	</tr>
 	<tr>
-		<td>487</td>
+		<td>486</td>
 		<td>
 			<a target="_blank" href="https://github.com/AungMyoKyaw">
-				<img src="https://private-avatars.githubusercontent.com/u/9404824?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExMjAsIm5iZiI6MTczNDY0OTkyMCwicGF0aCI6Ii91Lzk0MDQ4MjQifQ.16U5X2dZU35mbkgM4jwmO4T8pkdDROBSrxH7Qjsj7mk&s=72&u=0e2d71906408c90072ed3dbbf6fb3ab0e16d7eb2&v=4" width="24" alt="Avatar of AungMyoKyaw"/> AungMyoKyaw
+				<img src="https://private-avatars.githubusercontent.com/u/9404824?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxMjAsIm5iZiI6MTczNDY4NTkyMCwicGF0aCI6Ii91Lzk0MDQ4MjQifQ.grL8f-Mq_l8HYIJ6YWC9EZFTEdUzKujiVLGnBnsaqNA&s=72&u=0e2d71906408c90072ed3dbbf6fb3ab0e16d7eb2&v=4" width="24" alt="Avatar of AungMyoKyaw"/> AungMyoKyaw
 			</a><br/>
 			Aung Myo Kyaw
 		</td>
@@ -6441,10 +6428,23 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>133</td>
 	</tr>
 	<tr>
+		<td>487</td>
+		<td>
+			<a target="_blank" href="https://github.com/MinChanSike">
+				<img src="https://private-avatars.githubusercontent.com/u/2868221?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzI4NjgyMjEifQ.BCeBNilUgZ3wE8cOdyCvkj80Rt41DN4j0o_cPe7Sr68&s=72&u=424bcc0bc5211e49bb80c1eaaeb43e21c6c7abc3&v=4" width="24" alt="Avatar of MinChanSike"/> MinChanSike
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/minchansike">minchansike</a></td>
+		<td>Singapore</td>
+		<td>133</td>
+	</tr>
+	<tr>
 		<td>488</td>
 		<td>
 			<a target="_blank" href="https://github.com/kiranandcode">
-				<img src="https://private-avatars.githubusercontent.com/u/23038502?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4ODAsIm5iZiI6MTczNDY0OTY4MCwicGF0aCI6Ii91LzIzMDM4NTAyIn0.GMRBHX6icp91w_LKl4Z9Zc9hwRhfNgCQaaYwjdk7l8s&s=72&u=fd6db8de988cd5de608894cb40d203e1239829a3&v=4" width="24" alt="Avatar of kiranandcode"/> kiranandcode
+				<img src="https://private-avatars.githubusercontent.com/u/23038502?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4ODAsIm5iZiI6MTczNDY4NTY4MCwicGF0aCI6Ii91LzIzMDM4NTAyIn0.5Wq44-N8InFswIO-cXM1u3i0Z_X89SKPMdHXKsvN1wk&s=72&u=fd6db8de988cd5de608894cb40d203e1239829a3&v=4" width="24" alt="Avatar of kiranandcode"/> kiranandcode
 			</a><br/>
 			Kiran Gopinathan
 		</td>
@@ -6457,7 +6457,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>489</td>
 		<td>
 			<a target="_blank" href="https://github.com/binmakeswell">
-				<img src="https://private-avatars.githubusercontent.com/u/61670638?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA2NDAsIm5iZiI6MTczNDY0OTQ0MCwicGF0aCI6Ii91LzYxNjcwNjM4In0.xsD12SkK_dOZZmWP8yDypprK6rBuMGGgrlO6mFkWtic&s=72&u=f748723ab6b7713f4262aab51e8362503441327c&v=4" width="24" alt="Avatar of binmakeswell"/> binmakeswell
+				<img src="https://private-avatars.githubusercontent.com/u/61670638?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91LzYxNjcwNjM4In0.qO1Rg4u01fkBJCyuZyRAqnVKdrfK3VEY4xTopt_1B_A&s=72&u=f748723ab6b7713f4262aab51e8362503441327c&v=4" width="24" alt="Avatar of binmakeswell"/> binmakeswell
 			</a><br/>
 			No Name
 		</td>
@@ -6470,7 +6470,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>490</td>
 		<td>
 			<a target="_blank" href="https://github.com/tafia">
-				<img src="https://private-avatars.githubusercontent.com/u/7351502?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA5NDAsIm5iZiI6MTczNDY0OTc0MCwicGF0aCI6Ii91LzczNTE1MDIifQ.R6HiU4qvIEtIceYe3dDGHzD-zSxZVT0Y7keNjlUJG9Y&s=72&u=69838c4383128bcdedfa62e8459235039414e6b4&v=4" width="24" alt="Avatar of tafia"/> tafia
+				<img src="https://private-avatars.githubusercontent.com/u/7351502?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY5NDAsIm5iZiI6MTczNDY4NTc0MCwicGF0aCI6Ii91LzczNTE1MDIifQ.Njb3KC50-8lVQHctYzZBLnPOwi-QPxEjfUWLUMQpxOk&s=72&u=69838c4383128bcdedfa62e8459235039414e6b4&v=4" width="24" alt="Avatar of tafia"/> tafia
 			</a><br/>
 			Johann Tuffe
 		</td>
@@ -6483,7 +6483,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>491</td>
 		<td>
 			<a target="_blank" href="https://github.com/chesterheng">
-				<img src="https://private-avatars.githubusercontent.com/u/22580629?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE0MjAsIm5iZiI6MTczNDY1MDIyMCwicGF0aCI6Ii91LzIyNTgwNjI5In0.JwbhGarDRl5Q2RHeWLErRiXAoshLYEx2x3Xk9bCWl2E&s=72&u=7943f0ecbc133cfcb6be257347c3f5786a1cee79&v=4" width="24" alt="Avatar of chesterheng"/> chesterheng
+				<img src="https://private-avatars.githubusercontent.com/u/22580629?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1MjAsIm5iZiI6MTczNDY4NTMyMCwicGF0aCI6Ii91LzIyNTgwNjI5In0.BQ4cDJLfiKunXppCb52SEiDO1cTe5cwsZS2NeJwf1ZU&s=72&u=7943f0ecbc133cfcb6be257347c3f5786a1cee79&v=4" width="24" alt="Avatar of chesterheng"/> chesterheng
 			</a><br/>
 			Chester Heng
 		</td>
@@ -6496,7 +6496,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>492</td>
 		<td>
 			<a target="_blank" href="https://github.com/reachtarunhere">
-				<img src="https://private-avatars.githubusercontent.com/u/9061913?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4ODAsIm5iZiI6MTczNDY0OTY4MCwicGF0aCI6Ii91LzkwNjE5MTMifQ.VTmyyCwPkgRYq5ykesohJUtLA1Xelk6AYi3J5P3L9_4&s=72&u=09e7c160a6cdfc805114fbcefcb98d7934f49e96&v=4" width="24" alt="Avatar of reachtarunhere"/> reachtarunhere
+				<img src="https://private-avatars.githubusercontent.com/u/9061913?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4ODAsIm5iZiI6MTczNDY4NTY4MCwicGF0aCI6Ii91LzkwNjE5MTMifQ.QAME9jY8X0Kdk9ngNxSkpEnvCHLpc7myIocYK4acHmU&s=72&u=09e7c160a6cdfc805114fbcefcb98d7934f49e96&v=4" width="24" alt="Avatar of reachtarunhere"/> reachtarunhere
 			</a><br/>
 			Tarun Kumar Vangani
 		</td>
@@ -6509,7 +6509,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>493</td>
 		<td>
 			<a target="_blank" href="https://github.com/garyyu">
-				<img src="https://private-avatars.githubusercontent.com/u/1852227?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzE4NTIyMjcifQ.xuSleux4heg8O67rM1EFlHoJqzsvwkE1TSAjQXq0rEQ&s=72&u=06d73d1c5262899ae9dba5172f170e877be0fc6d&v=4" width="24" alt="Avatar of garyyu"/> garyyu
+				<img src="https://private-avatars.githubusercontent.com/u/1852227?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxODAsIm5iZiI6MTczNDY4NTk4MCwicGF0aCI6Ii91LzE4NTIyMjcifQ.BCH0naJwadRCTq_2yfsKp80281bDTYyyPQayKGlFfJY&s=72&u=06d73d1c5262899ae9dba5172f170e877be0fc6d&v=4" width="24" alt="Avatar of garyyu"/> garyyu
 			</a><br/>
 			Gary Yu
 		</td>
@@ -6522,7 +6522,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>494</td>
 		<td>
 			<a target="_blank" href="https://github.com/J0">
-				<img src="https://private-avatars.githubusercontent.com/u/8011761?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwMDAsIm5iZiI6MTczNDY0OTgwMCwicGF0aCI6Ii91LzgwMTE3NjEifQ.3uYYohv1hh6YEsar6NkQXNoQlEq6hcTc4ASwsEYeK9U&s=72&v=4" width="24" alt="Avatar of J0"/> J0
+				<img src="https://private-avatars.githubusercontent.com/u/8011761?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwMDAsIm5iZiI6MTczNDY4NTgwMCwicGF0aCI6Ii91LzgwMTE3NjEifQ.VZXcqZYE9yLGGpixj3SnuPr1nBtepzoBdHfOsOeiGoo&s=72&v=4" width="24" alt="Avatar of J0"/> J0
 			</a><br/>
 			Joel Lee
 		</td>
@@ -6535,7 +6535,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>495</td>
 		<td>
 			<a target="_blank" href="https://github.com/prasannavl">
-				<img src="https://private-avatars.githubusercontent.com/u/559409?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzNjAsIm5iZiI6MTczNDY1MDE2MCwicGF0aCI6Ii91LzU1OTQwOSJ9.wTt4WcJhMwsXaB5AFJhjGF7gy4yMw1TwmRoH0z9oXsI&s=72&u=f12f7dd3c009cd043d6ab171637fde95b3ca422c&v=4" width="24" alt="Avatar of prasannavl"/> prasannavl
+				<img src="https://private-avatars.githubusercontent.com/u/559409?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY0NjAsIm5iZiI6MTczNDY4NTI2MCwicGF0aCI6Ii91LzU1OTQwOSJ9.7MtgEQm7o-ubqMYWlf_cBKjMlPbC2nB6nb17ObopCjI&s=72&u=f12f7dd3c009cd043d6ab171637fde95b3ca422c&v=4" width="24" alt="Avatar of prasannavl"/> prasannavl
 			</a><br/>
 			Prasanna Loganathar
 		</td>
@@ -6547,21 +6547,8 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 	<tr>
 		<td>496</td>
 		<td>
-			<a target="_blank" href="https://github.com/PrinOrange">
-				<img src="https://private-avatars.githubusercontent.com/u/73331790?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3NjAsIm5iZiI6MTczNDY0OTU2MCwicGF0aCI6Ii91LzczMzMxNzkwIn0.nXx7MD6X1UF8slLvzGdWQu9X54gp7iYs0TxiO7C36Xg&s=72&u=4de313e1d6c196a03b0a99cd7c8a1bacc8f323d1&v=4" width="24" alt="Avatar of PrinOrange"/> PrinOrange
-			</a><br/>
-			
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/anachronm">anachronm</a></td>
-		<td>Singapore</td>
-		<td>130</td>
-	</tr>
-	<tr>
-		<td>497</td>
-		<td>
 			<a target="_blank" href="https://github.com/hunvreus">
-				<img src="https://private-avatars.githubusercontent.com/u/306868?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3NjAsIm5iZiI6MTczNDY0OTU2MCwicGF0aCI6Ii91LzMwNjg2OCJ9.uSxdK7zowhuAPDHZUX8oRCmEU67i1okorIKgIfc6wck&s=72&u=1ac084c55559077878491b258b24fe944934f83d&v=4" width="24" alt="Avatar of hunvreus"/> hunvreus
+				<img src="https://private-avatars.githubusercontent.com/u/306868?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91LzMwNjg2OCJ9.1dUUd5kXBMKZP4S03nXgpYTIko6ADnTmBy7_bKI9ItU&s=72&u=1ac084c55559077878491b258b24fe944934f83d&v=4" width="24" alt="Avatar of hunvreus"/> hunvreus
 			</a><br/>
 			Ronan Berder
 		</td>
@@ -6571,10 +6558,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>130</td>
 	</tr>
 	<tr>
-		<td>498</td>
+		<td>497</td>
 		<td>
 			<a target="_blank" href="https://github.com/TianxingWu">
-				<img src="https://private-avatars.githubusercontent.com/u/24352799?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3MDAsIm5iZiI6MTczNDY0OTUwMCwicGF0aCI6Ii91LzI0MzUyNzk5In0.5QHuRxi-FiNN6q5zIjDSR6Ll6Mnar2oh_xenkIxCEvo&s=72&u=19abf83a7276362dd569565f44f929e6dbe17e3b&v=4" width="24" alt="Avatar of TianxingWu"/> TianxingWu
+				<img src="https://private-avatars.githubusercontent.com/u/24352799?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3MDAsIm5iZiI6MTczNDY4NTUwMCwicGF0aCI6Ii91LzI0MzUyNzk5In0.WDg-8x9ZEljmqTZeESF8hDz7ZSSoAWEQXG4sQjS1nDk&s=72&u=19abf83a7276362dd569565f44f929e6dbe17e3b&v=4" width="24" alt="Avatar of TianxingWu"/> TianxingWu
 			</a><br/>
 			Tianxing Wu
 		</td>
@@ -6584,10 +6571,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>130</td>
 	</tr>
 	<tr>
-		<td>499</td>
+		<td>498</td>
 		<td>
 			<a target="_blank" href="https://github.com/knmnyn">
-				<img src="https://private-avatars.githubusercontent.com/u/217067?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzIxNzA2NyJ9.JE6oxIqzaJmm6BxMj1lhNwbSWuImFPFYxPFXBy3PqTE&s=72&u=76e6f578d40c9c33a5edb86f745e490e34b1bbdf&v=4" width="24" alt="Avatar of knmnyn"/> knmnyn
+				<img src="https://private-avatars.githubusercontent.com/u/217067?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxODAsIm5iZiI6MTczNDY4NTk4MCwicGF0aCI6Ii91LzIxNzA2NyJ9.VHoCOET1RG9rDqUllAs8M2FsNBZD0-AIYFi_49an25o&s=72&u=76e6f578d40c9c33a5edb86f745e490e34b1bbdf&v=4" width="24" alt="Avatar of knmnyn"/> knmnyn
 			</a><br/>
 			MinYen Kan
 		</td>
@@ -6597,10 +6584,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>130</td>
 	</tr>
 	<tr>
-		<td>500</td>
+		<td>499</td>
 		<td>
 			<a target="_blank" href="https://github.com/gabehollombe">
-				<img src="https://private-avatars.githubusercontent.com/u/28283?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE0MjAsIm5iZiI6MTczNDY1MDIyMCwicGF0aCI6Ii91LzI4MjgzIn0.JBRE7byaPvCy-w-kVOR5IpyN4WAKzLsADgDBLzC_LKM&s=72&u=a026902f330e80941bc4a5f95619598e5cb6ccbe&v=4" width="24" alt="Avatar of gabehollombe"/> gabehollombe
+				<img src="https://private-avatars.githubusercontent.com/u/28283?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1MjAsIm5iZiI6MTczNDY4NTMyMCwicGF0aCI6Ii91LzI4MjgzIn0.yI9qW1hRmz7YnPwMnVfd4A0eL0WMnWaOu44z8WGpEp8&s=72&u=a026902f330e80941bc4a5f95619598e5cb6ccbe&v=4" width="24" alt="Avatar of gabehollombe"/> gabehollombe
 			</a><br/>
 			Gabe Hollombe
 		</td>
@@ -6610,10 +6597,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>130</td>
 	</tr>
 	<tr>
-		<td>501</td>
+		<td>500</td>
 		<td>
 			<a target="_blank" href="https://github.com/zhicheng">
-				<img src="https://private-avatars.githubusercontent.com/u/135029?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzNjAsIm5iZiI6MTczNDY1MDE2MCwicGF0aCI6Ii91LzEzNTAyOSJ9.k_J1Wi0L63p53F-cUFhc1eo7KCEw6NFZiUmaoYqO5-Q&s=72&v=4" width="24" alt="Avatar of zhicheng"/> zhicheng
+				<img src="https://private-avatars.githubusercontent.com/u/135029?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY0NjAsIm5iZiI6MTczNDY4NTI2MCwicGF0aCI6Ii91LzEzNTAyOSJ9.zT1ftmKLLa-dtnG3qEDV3m5M1Im0KWW-2yAlkKm-jyI&s=72&v=4" width="24" alt="Avatar of zhicheng"/> zhicheng
 			</a><br/>
 			Zhicheng Wei
 		</td>
@@ -6623,10 +6610,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>130</td>
 	</tr>
 	<tr>
-		<td>502</td>
+		<td>501</td>
 		<td>
 			<a target="_blank" href="https://github.com/FreedomZZQ">
-				<img src="https://private-avatars.githubusercontent.com/u/6704600?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4MjAsIm5iZiI6MTczNDY0OTYyMCwicGF0aCI6Ii91LzY3MDQ2MDAifQ.-GqYySqVSb2U9FSIDTPgCQqONYin4oCrFovJ20I3J5w&s=72&u=676a35df842ed521c071e7d9849f493966de5230&v=4" width="24" alt="Avatar of FreedomZZQ"/> FreedomZZQ
+				<img src="https://private-avatars.githubusercontent.com/u/6704600?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4MjAsIm5iZiI6MTczNDY4NTYyMCwicGF0aCI6Ii91LzY3MDQ2MDAifQ.3-47QMvPo2ccv1Gsxry9ROIsmq3FSfCJJq9OGeU9rag&s=72&u=676a35df842ed521c071e7d9849f493966de5230&v=4" width="24" alt="Avatar of FreedomZZQ"/> FreedomZZQ
 			</a><br/>
 			FrankZhan
 		</td>
@@ -6636,10 +6623,23 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>130</td>
 	</tr>
 	<tr>
+		<td>502</td>
+		<td>
+			<a target="_blank" href="https://github.com/PrinOrange">
+				<img src="https://private-avatars.githubusercontent.com/u/73331790?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91LzczMzMxNzkwIn0.xeLbvqhadW4Cb5g2l2kpLdE3J-Djh5ArqCSTDMzFq2A&s=72&u=4de313e1d6c196a03b0a99cd7c8a1bacc8f323d1&v=4" width="24" alt="Avatar of PrinOrange"/> PrinOrange
+			</a><br/>
+			
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/anachronm">anachronm</a></td>
+		<td>Singapore</td>
+		<td>129</td>
+	</tr>
+	<tr>
 		<td>503</td>
 		<td>
 			<a target="_blank" href="https://github.com/joulev">
-				<img src="https://private-avatars.githubusercontent.com/u/44609036?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzQ0NjA5MDM2In0.VUgYeuQhZzeIvt8oXOKfFA2FuJ57V-7G3ba1Frz9vXQ&s=72&v=4" width="24" alt="Avatar of joulev"/> joulev
+				<img src="https://private-avatars.githubusercontent.com/u/44609036?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzQ0NjA5MDM2In0.tXO63rMwtjZjpURz9ix_8Wn0cgs7Yv5gY03I57L12f8&s=72&v=4" width="24" alt="Avatar of joulev"/> joulev
 			</a><br/>
 			V Vn Dng
 		</td>
@@ -6651,21 +6651,8 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 	<tr>
 		<td>504</td>
 		<td>
-			<a target="_blank" href="https://github.com/gaboolic">
-				<img src="https://private-avatars.githubusercontent.com/u/3831173?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3NjAsIm5iZiI6MTczNDY0OTU2MCwicGF0aCI6Ii91LzM4MzExNzMifQ.LrYNGpCQmEEyqph_VYQN33igaP_WXBk7AQiHhBBIfSI&s=72&v=4" width="24" alt="Avatar of gaboolic"/> gaboolic
-			</a><br/>
-			gaboolic
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Singapore</td>
-		<td>129</td>
-	</tr>
-	<tr>
-		<td>505</td>
-		<td>
 			<a target="_blank" href="https://github.com/freelerobot">
-				<img src="https://private-avatars.githubusercontent.com/u/69952136?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4ODAsIm5iZiI6MTczNDY0OTY4MCwicGF0aCI6Ii91LzY5OTUyMTM2In0.imi5ic5JthHF6fGEcjRDZ0ftg6yWDqutOKbr5vjG-oE&s=72&u=af42e69573d9a06cc3358905c69383e34c79f46c&v=4" width="24" alt="Avatar of freelerobot"/> freelerobot
+				<img src="https://private-avatars.githubusercontent.com/u/69952136?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4ODAsIm5iZiI6MTczNDY4NTY4MCwicGF0aCI6Ii91LzY5OTUyMTM2In0.HduajBf27VbbyzPvxzLbNwmKu9lMigsIczPWOxuVmDc&s=72&u=af42e69573d9a06cc3358905c69383e34c79f46c&v=4" width="24" alt="Avatar of freelerobot"/> freelerobot
 			</a><br/>
 			Nicole Zhu
 		</td>
@@ -6675,10 +6662,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>129</td>
 	</tr>
 	<tr>
-		<td>506</td>
+		<td>505</td>
 		<td>
 			<a target="_blank" href="https://github.com/jiachenyee">
-				<img src="https://private-avatars.githubusercontent.com/u/36725840?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA5NDAsIm5iZiI6MTczNDY0OTc0MCwicGF0aCI6Ii91LzM2NzI1ODQwIn0.2HzgfyMP1bFZPdL3vRMNNsPlx0mU112hYjj5bVHfIeA&s=72&u=bf47e96b64a0a9ce09e73974756227c5a667ad99&v=4" width="24" alt="Avatar of jiachenyee"/> jiachenyee
+				<img src="https://private-avatars.githubusercontent.com/u/36725840?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY5NDAsIm5iZiI6MTczNDY4NTc0MCwicGF0aCI6Ii91LzM2NzI1ODQwIn0.npPtXL-x6zS9YJ0brcJQ5-mWvQ9UrzOYn_4z7Pa6mxY&s=72&u=bf47e96b64a0a9ce09e73974756227c5a667ad99&v=4" width="24" alt="Avatar of jiachenyee"/> jiachenyee
 			</a><br/>
 			Jia Chen
 		</td>
@@ -6688,10 +6675,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>129</td>
 	</tr>
 	<tr>
-		<td>507</td>
+		<td>506</td>
 		<td>
 			<a target="_blank" href="https://github.com/atfortes">
-				<img src="https://private-avatars.githubusercontent.com/u/57639145?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzNjAsIm5iZiI6MTczNDY1MDE2MCwicGF0aCI6Ii91LzU3NjM5MTQ1In0.TIdptyMC4A1lJjZulNgldFQijmgv1lLSlGmJTWT9z1Y&s=72&u=06a07453fd58be654a302aa93a0435970c745bfd&v=4" width="24" alt="Avatar of atfortes"/> atfortes
+				<img src="https://private-avatars.githubusercontent.com/u/57639145?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODczNjAsIm5iZiI6MTczNDY4NjE2MCwicGF0aCI6Ii91LzU3NjM5MTQ1In0.c3_YlhmrbhnHcqBjR6UaR7adUX80rPp32OFEbL-nqVo&s=72&u=06a07453fd58be654a302aa93a0435970c745bfd&v=4" width="24" alt="Avatar of atfortes"/> atfortes
 			</a><br/>
 			Armando Fortes
 		</td>
@@ -6701,10 +6688,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>129</td>
 	</tr>
 	<tr>
-		<td>508</td>
+		<td>507</td>
 		<td>
 			<a target="_blank" href="https://github.com/zytx121">
-				<img src="https://private-avatars.githubusercontent.com/u/10410257?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA5NDAsIm5iZiI6MTczNDY0OTc0MCwicGF0aCI6Ii91LzEwNDEwMjU3In0.dUrnxMwsnlZ5Q13aHzzg04UJ6cHa0nfMOxWLNlWtKa0&s=72&u=264c8ae128b6cab0886da4fb511d6975630457ea&v=4" width="24" alt="Avatar of zytx121"/> zytx121
+				<img src="https://private-avatars.githubusercontent.com/u/10410257?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY5NDAsIm5iZiI6MTczNDY4NTc0MCwicGF0aCI6Ii91LzEwNDEwMjU3In0.ncpnWlmiTfDZoKS6b2gsBZr3a7yAhlaGr84IoxKv6FA&s=72&u=264c8ae128b6cab0886da4fb511d6975630457ea&v=4" width="24" alt="Avatar of zytx121"/> zytx121
 			</a><br/>
 			Yue Zhou
 		</td>
@@ -6714,10 +6701,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>129</td>
 	</tr>
 	<tr>
-		<td>509</td>
+		<td>508</td>
 		<td>
 			<a target="_blank" href="https://github.com/jinyeying">
-				<img src="https://private-avatars.githubusercontent.com/u/36725804?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEyNDAsIm5iZiI6MTczNDY1MDA0MCwicGF0aCI6Ii91LzM2NzI1ODA0In0.DqAgQAaOcKZOZdWK_gZ0J1tSzDIyQvNPwbUpLQjDSxs&s=72&u=95e4d20ecb50bd4d4067c0c456ba581a0fbf8381&v=4" width="24" alt="Avatar of jinyeying"/> jinyeying
+				<img src="https://private-avatars.githubusercontent.com/u/36725804?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcyNDAsIm5iZiI6MTczNDY4NjA0MCwicGF0aCI6Ii91LzM2NzI1ODA0In0.KiHt3zvoj5K6SlZRzHWpEZAQC9lcr3QBaP1rRQJURyU&s=72&u=95e4d20ecb50bd4d4067c0c456ba581a0fbf8381&v=4" width="24" alt="Avatar of jinyeying"/> jinyeying
 			</a><br/>
 			jinyeying
 		</td>
@@ -6727,10 +6714,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>129</td>
 	</tr>
 	<tr>
-		<td>510</td>
+		<td>509</td>
 		<td>
 			<a target="_blank" href="https://github.com/Garvit244">
-				<img src="https://private-avatars.githubusercontent.com/u/6849301?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE0ODAsIm5iZiI6MTczNDY1MDI4MCwicGF0aCI6Ii91LzY4NDkzMDEifQ.1wtfn2mMkjTt09vDb8I0_uOrazHna6l50yo4PkgI5ZE&s=72&u=8cfc0864552bfbfc068dda00f632f861ecbbb3df&v=4" width="24" alt="Avatar of Garvit244"/> Garvit244
+				<img src="https://private-avatars.githubusercontent.com/u/6849301?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1ODAsIm5iZiI6MTczNDY4NTM4MCwicGF0aCI6Ii91LzY4NDkzMDEifQ.vDl5NOlqJXQFRhwdLuZiH_qUr-pHYJhBAYLzkmYvoHM&s=72&u=8cfc0864552bfbfc068dda00f632f861ecbbb3df&v=4" width="24" alt="Avatar of Garvit244"/> Garvit244
 			</a><br/>
 			Garvit Bansal
 		</td>
@@ -6740,10 +6727,23 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>129</td>
 	</tr>
 	<tr>
+		<td>510</td>
+		<td>
+			<a target="_blank" href="https://github.com/gaboolic">
+				<img src="https://private-avatars.githubusercontent.com/u/3831173?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91LzM4MzExNzMifQ.QngL78tSdZ64wQ0JcB22WruLNYAnEpKi-b11HUIfyM4&s=72&v=4" width="24" alt="Avatar of gaboolic"/> gaboolic
+			</a><br/>
+			gaboolic
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Singapore</td>
+		<td>128</td>
+	</tr>
+	<tr>
 		<td>511</td>
 		<td>
 			<a target="_blank" href="https://github.com/jiaxiang-cheng">
-				<img src="https://private-avatars.githubusercontent.com/u/67684198?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4ODAsIm5iZiI6MTczNDY0OTY4MCwicGF0aCI6Ii91LzY3Njg0MTk4In0.8XJufw-td5omy1m6zpQiej5Ucxyg2HJiMTig5_4RtGM&s=72&u=1c6ffa1755d57b1c3931574a6f68417f815a9dcd&v=4" width="24" alt="Avatar of jiaxiang-cheng"/> jiaxiang-cheng
+				<img src="https://private-avatars.githubusercontent.com/u/67684198?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4ODAsIm5iZiI6MTczNDY4NTY4MCwicGF0aCI6Ii91LzY3Njg0MTk4In0.pxERsjceeT9xNKz4ZuxXi3dr6FkI-03vQOeYRvsruBg&s=72&u=1c6ffa1755d57b1c3931574a6f68417f815a9dcd&v=4" width="24" alt="Avatar of jiaxiang-cheng"/> jiaxiang-cheng
 			</a><br/>
 			JiaXiang Cheng
 		</td>
@@ -6756,7 +6756,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>512</td>
 		<td>
 			<a target="_blank" href="https://github.com/GuoLanqing">
-				<img src="https://private-avatars.githubusercontent.com/u/39672615?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4MjAsIm5iZiI6MTczNDY0OTYyMCwicGF0aCI6Ii91LzM5NjcyNjE1In0.fN8NsENiWsUsUpSN0lqJzZ_BAm0x9wtGEu1ZXqTGoK0&s=72&u=b371135981c5d83a150555786277b2e8577e72e8&v=4" width="24" alt="Avatar of GuoLanqing"/> GuoLanqing
+				<img src="https://private-avatars.githubusercontent.com/u/39672615?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4MjAsIm5iZiI6MTczNDY4NTYyMCwicGF0aCI6Ii91LzM5NjcyNjE1In0.ptVimIlYRl9E1_lgcokI_7epLdx9-0s4WIV9WmLSTes&s=72&u=b371135981c5d83a150555786277b2e8577e72e8&v=4" width="24" alt="Avatar of GuoLanqing"/> GuoLanqing
 			</a><br/>
 			No Name
 		</td>
@@ -6769,7 +6769,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>513</td>
 		<td>
 			<a target="_blank" href="https://github.com/YuemingJin">
-				<img src="https://private-avatars.githubusercontent.com/u/34373383?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA5NDAsIm5iZiI6MTczNDY0OTc0MCwicGF0aCI6Ii91LzM0MzczMzgzIn0.36feUshjE_QmTfhlG1BooBIH4B_1OTSlsZCqAc-APMs&s=72&u=5ae2ed59324e5c787b25f4c8dbfddcfa48b6e12f&v=4" width="24" alt="Avatar of YuemingJin"/> YuemingJin
+				<img src="https://private-avatars.githubusercontent.com/u/34373383?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY5NDAsIm5iZiI6MTczNDY4NTc0MCwicGF0aCI6Ii91LzM0MzczMzgzIn0.cAg1Tc7sS3-ZcKMKu2EFLapClLp7PrbrgR1sdJ-4t3k&s=72&u=5ae2ed59324e5c787b25f4c8dbfddcfa48b6e12f&v=4" width="24" alt="Avatar of YuemingJin"/> YuemingJin
 			</a><br/>
 			Yueming Jin
 		</td>
@@ -6782,7 +6782,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>514</td>
 		<td>
 			<a target="_blank" href="https://github.com/dennislwm">
-				<img src="https://private-avatars.githubusercontent.com/u/1080112?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3NjAsIm5iZiI6MTczNDY0OTU2MCwicGF0aCI6Ii91LzEwODAxMTIifQ.dKDR5sJK8pHD6Rd416y-HKjL9VU0CRhGyVFJ5Netxnc&s=72&u=35adcc31244a42e618a81353864cae32ed7ee1ca&v=4" width="24" alt="Avatar of dennislwm"/> dennislwm
+				<img src="https://private-avatars.githubusercontent.com/u/1080112?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91LzEwODAxMTIifQ.NumNvsDzZ7ldtL9FNBpaeJZa2FyKWAV9FFjZ0c3Gveg&s=72&u=35adcc31244a42e618a81353864cae32ed7ee1ca&v=4" width="24" alt="Avatar of dennislwm"/> dennislwm
 			</a><br/>
 			Dennis Lee
 		</td>
@@ -6795,7 +6795,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>515</td>
 		<td>
 			<a target="_blank" href="https://github.com/NileshGule">
-				<img src="https://private-avatars.githubusercontent.com/u/1298374?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3MDAsIm5iZiI6MTczNDY0OTUwMCwicGF0aCI6Ii91LzEyOTgzNzQifQ.Scv2AMjMub5W08TgrO2ZBvObvUB-doHn1WBwQcpNBkM&s=72&u=0373ae3532efac444b86f6b43130809dfc391028&v=4" width="24" alt="Avatar of NileshGule"/> NileshGule
+				<img src="https://private-avatars.githubusercontent.com/u/1298374?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3MDAsIm5iZiI6MTczNDY4NTUwMCwicGF0aCI6Ii91LzEyOTgzNzQifQ.ncxvzLMJePShg9yfEeaL3TwzIvPQoDc1_yztgRAZqsg&s=72&u=0373ae3532efac444b86f6b43130809dfc391028&v=4" width="24" alt="Avatar of NileshGule"/> NileshGule
 			</a><br/>
 			Nilesh Gule
 		</td>
@@ -6808,7 +6808,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>516</td>
 		<td>
 			<a target="_blank" href="https://github.com/mingyuan-zhang">
-				<img src="https://private-avatars.githubusercontent.com/u/72491369?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3NjAsIm5iZiI6MTczNDY0OTU2MCwicGF0aCI6Ii91LzcyNDkxMzY5In0.ABcNCEC4uzj9cPRKU9koMF1NIAbPZXTbq3mcOo8aGDQ&s=72&u=fefb213f7c68ca96ac23aebb265f1abd2afb4e96&v=4" width="24" alt="Avatar of mingyuan-zhang"/> mingyuan-zhang
+				<img src="https://private-avatars.githubusercontent.com/u/72491369?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91LzcyNDkxMzY5In0.V_pa8LGgVEIUf-KEg4Z8PM1GLLrT5y0Esdnx6-XeuWI&s=72&u=fefb213f7c68ca96ac23aebb265f1abd2afb4e96&v=4" width="24" alt="Avatar of mingyuan-zhang"/> mingyuan-zhang
 			</a><br/>
 			Mingyuan Zhang
 		</td>
@@ -6820,8 +6820,21 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 	<tr>
 		<td>517</td>
 		<td>
+			<a target="_blank" href="https://github.com/lushl9301">
+				<img src="https://private-avatars.githubusercontent.com/u/2193051?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODczNjAsIm5iZiI6MTczNDY4NjE2MCwicGF0aCI6Ii91LzIxOTMwNTEifQ.1KwwLOEBCq-DF04Aexw_3hCxpvWxFTGviDcr2ehbLFs&s=72&v=4" width="24" alt="Avatar of lushl9301"/> lushl9301
+			</a><br/>
+			n Sulu
+		</td>
+		<td>Sun </td>
+		<td>No Twitter Username</td>
+		<td>Singapore</td>
+		<td>127</td>
+	</tr>
+	<tr>
+		<td>518</td>
+		<td>
 			<a target="_blank" href="https://github.com/xuchenglin28">
-				<img src="https://private-avatars.githubusercontent.com/u/8721225?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4ODAsIm5iZiI6MTczNDY0OTY4MCwicGF0aCI6Ii91Lzg3MjEyMjUifQ.M4of5FG8gSX_DhWIoWTjXOrp8xtBSKFRJi7aJUBUxQk&s=72&v=4" width="24" alt="Avatar of xuchenglin28"/> xuchenglin28
+				<img src="https://private-avatars.githubusercontent.com/u/8721225?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4ODAsIm5iZiI6MTczNDY4NTY4MCwicGF0aCI6Ii91Lzg3MjEyMjUifQ.7AZPMlgiw4p0xFAQsXShEfDkhZpso2xBXiPzb8GuVzU&s=72&v=4" width="24" alt="Avatar of xuchenglin28"/> xuchenglin28
 			</a><br/>
 			No Name
 		</td>
@@ -6831,23 +6844,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>127</td>
 	</tr>
 	<tr>
-		<td>518</td>
-		<td>
-			<a target="_blank" href="https://github.com/winstxnhdw">
-				<img src="https://private-avatars.githubusercontent.com/u/56998716?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzU2OTk4NzE2In0.y6CyoxxBc2wxcE4uCKGO-zYF8p6XEvYw7kxNovKHZkc&s=72&u=65f247fd281afc1303938085d37e8b5e710727f5&v=4" width="24" alt="Avatar of winstxnhdw"/> winstxnhdw
-			</a><br/>
-			Winston H
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Singapore</td>
-		<td>126</td>
-	</tr>
-	<tr>
 		<td>519</td>
 		<td>
 			<a target="_blank" href="https://github.com/samwize">
-				<img src="https://private-avatars.githubusercontent.com/u/68338?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3NjAsIm5iZiI6MTczNDY0OTU2MCwicGF0aCI6Ii91LzY4MzM4In0.LSVjB6d4ZEztVvvdnKG8AJZ0ctIklmHZqhEMj_3qEyM&s=72&v=4" width="24" alt="Avatar of samwize"/> samwize
+				<img src="https://private-avatars.githubusercontent.com/u/68338?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91LzY4MzM4In0.dUBBbn0Cp1fW4GD8w9DKpbJTRPbzHHtM49V5Cxq0-yE&s=72&v=4" width="24" alt="Avatar of samwize"/> samwize
 			</a><br/>
 			Junda
 		</td>
@@ -6860,7 +6860,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>520</td>
 		<td>
 			<a target="_blank" href="https://github.com/DonChiaQE">
-				<img src="https://private-avatars.githubusercontent.com/u/24926784?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwMDAsIm5iZiI6MTczNDY0OTgwMCwicGF0aCI6Ii91LzI0OTI2Nzg0In0.Bq3x_1B_ihtWwhfxT9TY5akvD93T_p5cmg37r-Yhon4&s=72&u=c397c8a45f1093b9c789c8ff1e9deabc9348fbbf&v=4" width="24" alt="Avatar of DonChiaQE"/> DonChiaQE
+				<img src="https://private-avatars.githubusercontent.com/u/24926784?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwMDAsIm5iZiI6MTczNDY4NTgwMCwicGF0aCI6Ii91LzI0OTI2Nzg0In0.nnUUwb-AY9fHI4_5bGTLit7GyJaZWXW_jafc3CMNHu4&s=72&u=c397c8a45f1093b9c789c8ff1e9deabc9348fbbf&v=4" width="24" alt="Avatar of DonChiaQE"/> DonChiaQE
 			</a><br/>
 			lizardon
 		</td>
@@ -6873,7 +6873,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>521</td>
 		<td>
 			<a target="_blank" href="https://github.com/huchenme">
-				<img src="https://private-avatars.githubusercontent.com/u/2078389?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE0ODAsIm5iZiI6MTczNDY1MDI4MCwicGF0aCI6Ii91LzIwNzgzODkifQ.G9y-_UaCe9c7ccQsuBqu1SRkGvD-NosDECBI8U5-PRM&s=72&v=4" width="24" alt="Avatar of huchenme"/> huchenme
+				<img src="https://private-avatars.githubusercontent.com/u/2078389?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1ODAsIm5iZiI6MTczNDY4NTM4MCwicGF0aCI6Ii91LzIwNzgzODkifQ.arQcRcRLO_Or-NhVV0nUUdu4qz4U6upyNYoIQuo_R9Q&s=72&v=4" width="24" alt="Avatar of huchenme"/> huchenme
 			</a><br/>
 			Hu Chen
 		</td>
@@ -6886,7 +6886,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>522</td>
 		<td>
 			<a target="_blank" href="https://github.com/twangnh">
-				<img src="https://private-avatars.githubusercontent.com/u/18298163?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA2NDAsIm5iZiI6MTczNDY0OTQ0MCwicGF0aCI6Ii91LzE4Mjk4MTYzIn0._Nq1RAivA3KK1sl9yh7bOAWsNAoWFqcHAg5lMRRfsVM&s=72&u=89218747a5913c44e9aff04e82a7101b0667d347&v=4" width="24" alt="Avatar of twangnh"/> twangnh
+				<img src="https://private-avatars.githubusercontent.com/u/18298163?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91LzE4Mjk4MTYzIn0.OvGoiu-8pvfPIwDTjhxhZg7whKqmmwaBYTW0i18fzTc&s=72&u=89218747a5913c44e9aff04e82a7101b0667d347&v=4" width="24" alt="Avatar of twangnh"/> twangnh
 			</a><br/>
 			twang
 		</td>
@@ -6898,21 +6898,21 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 	<tr>
 		<td>523</td>
 		<td>
-			<a target="_blank" href="https://github.com/lushl9301">
-				<img src="https://private-avatars.githubusercontent.com/u/2193051?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzNjAsIm5iZiI6MTczNDY1MDE2MCwicGF0aCI6Ii91LzIxOTMwNTEifQ.kxvSnJ9EEDuo5VsoRLpkBWnAeiit2WVlHWSIkWmjHt0&s=72&v=4" width="24" alt="Avatar of lushl9301"/> lushl9301
+			<a target="_blank" href="https://github.com/winstxnhdw">
+				<img src="https://private-avatars.githubusercontent.com/u/56998716?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxODAsIm5iZiI6MTczNDY4NTk4MCwicGF0aCI6Ii91LzU2OTk4NzE2In0.GjQLhAUHiGJN0iljX5jEkzFjVW2DjVYhNxT9FszxGtQ&s=72&u=65f247fd281afc1303938085d37e8b5e710727f5&v=4" width="24" alt="Avatar of winstxnhdw"/> winstxnhdw
 			</a><br/>
-			n Sulu
+			Winston H
 		</td>
-		<td>Sun </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
-		<td>126</td>
+		<td>125</td>
 	</tr>
 	<tr>
 		<td>524</td>
 		<td>
 			<a target="_blank" href="https://github.com/lmatz">
-				<img src="https://private-avatars.githubusercontent.com/u/5791930?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE0MjAsIm5iZiI6MTczNDY1MDIyMCwicGF0aCI6Ii91LzU3OTE5MzAifQ.lPVIAFIqDsko9K48bLuaJJEjIQiVCLN8kRGCTVjfCtA&s=72&u=f245ec3cbd4337fccda9966d595b4a64bcb6680b&v=4" width="24" alt="Avatar of lmatz"/> lmatz
+				<img src="https://private-avatars.githubusercontent.com/u/5791930?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1MjAsIm5iZiI6MTczNDY4NTMyMCwicGF0aCI6Ii91LzU3OTE5MzAifQ.fV5uyzG7szLxiVWmB16ChcsJPZP4vnHKCH65mApI65c&s=72&u=f245ec3cbd4337fccda9966d595b4a64bcb6680b&v=4" width="24" alt="Avatar of lmatz"/> lmatz
 			</a><br/>
 			lmatz
 		</td>
@@ -6925,7 +6925,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>525</td>
 		<td>
 			<a target="_blank" href="https://github.com/mogol">
-				<img src="https://private-avatars.githubusercontent.com/u/3447934?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzMDAsIm5iZiI6MTczNDY1MDEwMCwicGF0aCI6Ii91LzM0NDc5MzQifQ.4jTvMSPZTFisIrG8Ua21mYsTh5r0KbWM9xPdYS52id8&s=72&u=1ddcb2824148d4cbd3f855551c473713f51405a2&v=4" width="24" alt="Avatar of mogol"/> mogol
+				<img src="https://private-avatars.githubusercontent.com/u/3447934?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODczMDAsIm5iZiI6MTczNDY4NjEwMCwicGF0aCI6Ii91LzM0NDc5MzQifQ.XiYglb60cawfu6oyZlyWH4MJEHE9SzxN_MVWWO7TetA&s=72&u=1ddcb2824148d4cbd3f855551c473713f51405a2&v=4" width="24" alt="Avatar of mogol"/> mogol
 			</a><br/>
 			German Saprykin
 		</td>
@@ -6938,7 +6938,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>526</td>
 		<td>
 			<a target="_blank" href="https://github.com/chrisgzf">
-				<img src="https://private-avatars.githubusercontent.com/u/4933577?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzQ5MzM1NzcifQ.5OIFsr_YTF-EA5-5DvUoJ1d4vKhjWXUuADFIdb57iQM&s=72&u=3fe437e38fa1dbe90fdc9cc14bdf627ab176c58e&v=4" width="24" alt="Avatar of chrisgzf"/> chrisgzf
+				<img src="https://private-avatars.githubusercontent.com/u/4933577?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxODAsIm5iZiI6MTczNDY4NTk4MCwicGF0aCI6Ii91LzQ5MzM1NzcifQ.sOYoOZf8g8Km_0hwAgRM_j-bCtMPpkmC6YpcVmUF3qQ&s=72&u=3fe437e38fa1dbe90fdc9cc14bdf627ab176c58e&v=4" width="24" alt="Avatar of chrisgzf"/> chrisgzf
 			</a><br/>
 			Christopher Goh
 		</td>
@@ -6951,7 +6951,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>527</td>
 		<td>
 			<a target="_blank" href="https://github.com/jin-zhe">
-				<img src="https://private-avatars.githubusercontent.com/u/5900985?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzMDAsIm5iZiI6MTczNDY1MDEwMCwicGF0aCI6Ii91LzU5MDA5ODUifQ.CB0oXfMcyEpQXo-Ol9ajV4fXEQulTcGttq25QKh3FmY&s=72&u=dcae379367d9d4498c56b258056da584ffe56971&v=4" width="24" alt="Avatar of jin-zhe"/> jin-zhe
+				<img src="https://private-avatars.githubusercontent.com/u/5900985?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODczMDAsIm5iZiI6MTczNDY4NjEwMCwicGF0aCI6Ii91LzU5MDA5ODUifQ.b7M0TnumpM2WJyUNk8Z6evLbDuiYEaLKIwBSy58dNOI&s=72&u=dcae379367d9d4498c56b258056da584ffe56971&v=4" width="24" alt="Avatar of jin-zhe"/> jin-zhe
 			</a><br/>
 			Jin Zhe
 		</td>
@@ -6964,7 +6964,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>528</td>
 		<td>
 			<a target="_blank" href="https://github.com/DominatorVbN">
-				<img src="https://private-avatars.githubusercontent.com/u/41822551?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwMDAsIm5iZiI6MTczNDY0OTgwMCwicGF0aCI6Ii91LzQxODIyNTUxIn0.BI59D5yd5W1abP11TLV1vHZS2JFFnsSChFBxPfOjaDQ&s=72&u=2b0d7ec415f895caa9a684d605b3930984a5267c&v=4" width="24" alt="Avatar of DominatorVbN"/> DominatorVbN
+				<img src="https://private-avatars.githubusercontent.com/u/41822551?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwMDAsIm5iZiI6MTczNDY4NTgwMCwicGF0aCI6Ii91LzQxODIyNTUxIn0.M4oKLcUYHuC7DvQ7celGgbarPZhKxMgdX62qJWTf9yo&s=72&u=2b0d7ec415f895caa9a684d605b3930984a5267c&v=4" width="24" alt="Avatar of DominatorVbN"/> DominatorVbN
 			</a><br/>
 			Amit Samant
 		</td>
@@ -6977,7 +6977,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>529</td>
 		<td>
 			<a target="_blank" href="https://github.com/pupboss">
-				<img src="https://private-avatars.githubusercontent.com/u/8395112?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3MDAsIm5iZiI6MTczNDY0OTUwMCwicGF0aCI6Ii91LzgzOTUxMTIifQ.yuBmdElueamYFX-nzimGvwxb2QVdJbANw3gP7GerEVM&s=72&u=8eb494336c9df748a4b52c72d63803443f75bd56&v=4" width="24" alt="Avatar of pupboss"/> pupboss
+				<img src="https://private-avatars.githubusercontent.com/u/8395112?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3MDAsIm5iZiI6MTczNDY4NTUwMCwicGF0aCI6Ii91LzgzOTUxMTIifQ.5xW8ZB6T94j4PCOo_pLG2zWzmuQWkZH6vLh_NDnFkB8&s=72&u=8eb494336c9df748a4b52c72d63803443f75bd56&v=4" width="24" alt="Avatar of pupboss"/> pupboss
 			</a><br/>
 			Jie Li
 		</td>
@@ -6990,7 +6990,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>530</td>
 		<td>
 			<a target="_blank" href="https://github.com/LauJunMingX">
-				<img src="https://private-avatars.githubusercontent.com/u/127521438?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA5NDAsIm5iZiI6MTczNDY0OTc0MCwicGF0aCI6Ii91LzEyNzUyMTQzOCJ9.zASuCD-_sfJtQwMc_Q909OQh8PTc3GnJCAoVgRFrPqg&s=72&u=fbee3d89d9f59bd1cb2eb5ed5817fe7f1f085adc&v=4" width="24" alt="Avatar of LauJunMingX"/> LauJunMingX
+				<img src="https://private-avatars.githubusercontent.com/u/127521438?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY5NDAsIm5iZiI6MTczNDY4NTc0MCwicGF0aCI6Ii91LzEyNzUyMTQzOCJ9.G-jygg7yoBuhTZ8MukX-tkZf8gPnUTalRf-kJ35K7TQ&s=72&u=fbee3d89d9f59bd1cb2eb5ed5817fe7f1f085adc&v=4" width="24" alt="Avatar of LauJunMingX"/> LauJunMingX
 			</a><br/>
 			No Name
 		</td>
@@ -7003,7 +7003,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>531</td>
 		<td>
 			<a target="_blank" href="https://github.com/kwannoel">
-				<img src="https://private-avatars.githubusercontent.com/u/47273164?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4ODAsIm5iZiI6MTczNDY0OTY4MCwicGF0aCI6Ii91LzQ3MjczMTY0In0.8wPFwWkS8T3-cmHTABr3vhRT9MUO8sOjeKRlIrMeOEc&s=72&u=4d19fc35e0043610a9d5d5e7191dd66de68fb426&v=4" width="24" alt="Avatar of kwannoel"/> kwannoel
+				<img src="https://private-avatars.githubusercontent.com/u/47273164?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4ODAsIm5iZiI6MTczNDY4NTY4MCwicGF0aCI6Ii91LzQ3MjczMTY0In0.Mthbu1ALzwUfcuejE2aomNmaQI3NVpT3Td_nQ5iKXbc&s=72&u=4d19fc35e0043610a9d5d5e7191dd66de68fb426&v=4" width="24" alt="Avatar of kwannoel"/> kwannoel
 			</a><br/>
 			Noel Kwan
 		</td>
@@ -7016,7 +7016,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>532</td>
 		<td>
 			<a target="_blank" href="https://github.com/pierluigi">
-				<img src="https://private-avatars.githubusercontent.com/u/1078545?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExMjAsIm5iZiI6MTczNDY0OTkyMCwicGF0aCI6Ii91LzEwNzg1NDUifQ.h1Usk9ffnxX5Xx_jdosOTMHV_nnDZyJMo18gHuQ7QI4&s=72&u=969a3f61cecf7d138adbaabb51f324096f87b21f&v=4" width="24" alt="Avatar of pierluigi"/> pierluigi
+				<img src="https://private-avatars.githubusercontent.com/u/1078545?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxMjAsIm5iZiI6MTczNDY4NTkyMCwicGF0aCI6Ii91LzEwNzg1NDUifQ.kBQUxtZAZFqkCIXedzIfuXFTRsAglPHI-7wrBQV9ank&s=72&u=969a3f61cecf7d138adbaabb51f324096f87b21f&v=4" width="24" alt="Avatar of pierluigi"/> pierluigi
 			</a><br/>
 			Pierluigi Cau PG
 		</td>
@@ -7029,7 +7029,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>533</td>
 		<td>
 			<a target="_blank" href="https://github.com/GeorgeGally">
-				<img src="https://private-avatars.githubusercontent.com/u/6388005?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4MjAsIm5iZiI6MTczNDY0OTYyMCwicGF0aCI6Ii91LzYzODgwMDUifQ.ZLc77j-MFsoevscTuTLcW81bPEONx4J_84EbA2eZ_2w&s=72&u=69f5f2366b6a9bcfc2cfce58d50e4b677ae5dde5&v=4" width="24" alt="Avatar of GeorgeGally"/> GeorgeGally
+				<img src="https://private-avatars.githubusercontent.com/u/6388005?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4MjAsIm5iZiI6MTczNDY4NTYyMCwicGF0aCI6Ii91LzYzODgwMDUifQ.rVGjTiAOZ2YC2ubUlfgi5kzsCHacS0AGioyxCY9Pvf8&s=72&u=69f5f2366b6a9bcfc2cfce58d50e4b677ae5dde5&v=4" width="24" alt="Avatar of GeorgeGally"/> GeorgeGally
 			</a><br/>
 			George Gally
 		</td>
@@ -7042,7 +7042,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>534</td>
 		<td>
 			<a target="_blank" href="https://github.com/joshchoo">
-				<img src="https://private-avatars.githubusercontent.com/u/16533168?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE0ODAsIm5iZiI6MTczNDY1MDI4MCwicGF0aCI6Ii91LzE2NTMzMTY4In0.mGiAX7cvROthPSVvbRmNrBI3Zp0AwqRqTi_Y8Ha-uGQ&s=72&v=4" width="24" alt="Avatar of joshchoo"/> joshchoo
+				<img src="https://private-avatars.githubusercontent.com/u/16533168?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1ODAsIm5iZiI6MTczNDY4NTM4MCwicGF0aCI6Ii91LzE2NTMzMTY4In0.YhsAE0eID9BDh4PkdhlyVlas-RqS4fFxvA7yOUAesK8&s=72&v=4" width="24" alt="Avatar of joshchoo"/> joshchoo
 			</a><br/>
 			Josh
 		</td>
@@ -7055,7 +7055,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>535</td>
 		<td>
 			<a target="_blank" href="https://github.com/ferrygun">
-				<img src="https://private-avatars.githubusercontent.com/u/3617343?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE1NDAsIm5iZiI6MTczNDY1MDM0MCwicGF0aCI6Ii91LzM2MTczNDMifQ.1-GwWxti-JcmcbYp6cc21fVHbJuKTNeJMAg-C8VkEKU&s=72&u=e475b0a75913c06846c8d73495894b671f986f00&v=4" width="24" alt="Avatar of ferrygun"/> ferrygun
+				<img src="https://private-avatars.githubusercontent.com/u/3617343?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91LzM2MTczNDMifQ.4aRalxBdCEToojAschXgnYabRBLqyz4JyaBFRpl-tEc&s=72&u=e475b0a75913c06846c8d73495894b671f986f00&v=4" width="24" alt="Avatar of ferrygun"/> ferrygun
 			</a><br/>
 			Ferry Djaja
 		</td>
@@ -7068,7 +7068,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>536</td>
 		<td>
 			<a target="_blank" href="https://github.com/tuanio">
-				<img src="https://private-avatars.githubusercontent.com/u/30165828?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzMwMTY1ODI4In0.lZl0tvZHd7LlHIzxzg5MYZ-G7sCqR1eN_VrYKAAsAq8&s=72&u=9ce5e59f27b55ea8d81df9ab855f0b9b5382a2f2&v=4" width="24" alt="Avatar of tuanio"/> tuanio
+				<img src="https://private-avatars.githubusercontent.com/u/30165828?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzMwMTY1ODI4In0.RqPS1aIgIQBT9_F4IfqauwSeNWJ7b8rpOvAQhF6t7rE&s=72&u=9ce5e59f27b55ea8d81df9ab855f0b9b5382a2f2&v=4" width="24" alt="Avatar of tuanio"/> tuanio
 			</a><br/>
 			Nguyn Vn Anh Tun
 		</td>
@@ -7081,7 +7081,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>537</td>
 		<td>
 			<a target="_blank" href="https://github.com/arjo129">
-				<img src="https://private-avatars.githubusercontent.com/u/542272?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwMDAsIm5iZiI6MTczNDY0OTgwMCwicGF0aCI6Ii91LzU0MjI3MiJ9.HNP12ahu9XkEVHfBcrA9pnzDjRH73QFb2DyM2Qmlbgw&s=72&v=4" width="24" alt="Avatar of arjo129"/> arjo129
+				<img src="https://private-avatars.githubusercontent.com/u/542272?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwMDAsIm5iZiI6MTczNDY4NTgwMCwicGF0aCI6Ii91LzU0MjI3MiJ9.dzNRQCS9m8NJOidMDXARvWfhxzP42wjsOeN1maJvAJA&s=72&v=4" width="24" alt="Avatar of arjo129"/> arjo129
 			</a><br/>
 			Arjo Chakravarty
 		</td>
@@ -7093,21 +7093,8 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 	<tr>
 		<td>538</td>
 		<td>
-			<a target="_blank" href="https://github.com/sheshbabu">
-				<img src="https://private-avatars.githubusercontent.com/u/498909?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEyNDAsIm5iZiI6MTczNDY1MDA0MCwicGF0aCI6Ii91LzQ5ODkwOSJ9.s_eHixihruv9FT5FhPB45mh9qxkMqOoxQ3i3eFpog74&s=72&u=a98a79c5ed5572ca3c6a5a11bcf42d1d7e3dc9ba&v=4" width="24" alt="Avatar of sheshbabu"/> sheshbabu
-			</a><br/>
-			Sheshbabu
-		</td>
-		<td>Temasek </td>
-		<td><a target="_blank" href="https://twitter.com/sheshbabu">sheshbabu</a></td>
-		<td>Singapore</td>
-		<td>121</td>
-	</tr>
-	<tr>
-		<td>539</td>
-		<td>
 			<a target="_blank" href="https://github.com/plumenator">
-				<img src="https://private-avatars.githubusercontent.com/u/103852?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzMDAsIm5iZiI6MTczNDY1MDEwMCwicGF0aCI6Ii91LzEwMzg1MiJ9.QQnSkbvFOu-jqWiEymh3RtXmP3UamRQNQlF4P7nfeSw&s=72&u=e48724a4274af053423b9fe927fc7df1f9e2f196&v=4" width="24" alt="Avatar of plumenator"/> plumenator
+				<img src="https://private-avatars.githubusercontent.com/u/103852?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODczMDAsIm5iZiI6MTczNDY4NjEwMCwicGF0aCI6Ii91LzEwMzg1MiJ9.u4vPMME7bsv2e1HoI6Q632q3cufLTq1r43b5Mohz54E&s=72&u=e48724a4274af053423b9fe927fc7df1f9e2f196&v=4" width="24" alt="Avatar of plumenator"/> plumenator
 			</a><br/>
 			Karthik Ravikanti
 		</td>
@@ -7117,10 +7104,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>121</td>
 	</tr>
 	<tr>
-		<td>540</td>
+		<td>539</td>
 		<td>
 			<a target="_blank" href="https://github.com/hongxin001">
-				<img src="https://private-avatars.githubusercontent.com/u/3424112?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzM0MjQxMTIifQ.g2QEPcLeWCXMM6pEXlumpowKwI7JpJDWeB63oN9b2eU&s=72&u=db6705e639929cedbb7f61d2a232c025430552ba&v=4" width="24" alt="Avatar of hongxin001"/> hongxin001
+				<img src="https://private-avatars.githubusercontent.com/u/3424112?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzM0MjQxMTIifQ.ZmUWMVba7wTBTBR6ouyM2qTPTRTLVZgM3biry7JK9co&s=72&u=db6705e639929cedbb7f61d2a232c025430552ba&v=4" width="24" alt="Avatar of hongxin001"/> hongxin001
 			</a><br/>
 			Hongxin Wei
 		</td>
@@ -7130,10 +7117,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>121</td>
 	</tr>
 	<tr>
-		<td>541</td>
+		<td>540</td>
 		<td>
 			<a target="_blank" href="https://github.com/randName">
-				<img src="https://private-avatars.githubusercontent.com/u/123800?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExMjAsIm5iZiI6MTczNDY0OTkyMCwicGF0aCI6Ii91LzEyMzgwMCJ9.g5-RG7g-JZx7F9o-Eg25HyiddpTsVCcOTOTg60aFJAo&s=72&v=4" width="24" alt="Avatar of randName"/> randName
+				<img src="https://private-avatars.githubusercontent.com/u/123800?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxMjAsIm5iZiI6MTczNDY4NTkyMCwicGF0aCI6Ii91LzEyMzgwMCJ9.H_ieWi7NyB4iIibJToyufEG8mviRRj7w-QWBE9UnT_A&s=72&v=4" width="24" alt="Avatar of randName"/> randName
 			</a><br/>
 			Shun Git
 		</td>
@@ -7143,10 +7130,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>121</td>
 	</tr>
 	<tr>
-		<td>542</td>
+		<td>541</td>
 		<td>
 			<a target="_blank" href="https://github.com/liaujianjie">
-				<img src="https://private-avatars.githubusercontent.com/u/3143132?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzMDAsIm5iZiI6MTczNDY1MDEwMCwicGF0aCI6Ii91LzMxNDMxMzIifQ.Kt81w5xqA0tyjTIDZ9EiaaRXUp48YLlyqGGJj4q681Y&s=72&u=009e1b25e78b68c12f7c0507a629a0fcd2ac987c&v=4" width="24" alt="Avatar of liaujianjie"/> liaujianjie
+				<img src="https://private-avatars.githubusercontent.com/u/3143132?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODczMDAsIm5iZiI6MTczNDY4NjEwMCwicGF0aCI6Ii91LzMxNDMxMzIifQ.Ck5X0IQa_wocp_i0BM0ZIAVGtVINJCokIjrDxbv5d_c&s=72&u=009e1b25e78b68c12f7c0507a629a0fcd2ac987c&v=4" width="24" alt="Avatar of liaujianjie"/> liaujianjie
 			</a><br/>
 			Liau Jian Jie
 		</td>
@@ -7156,10 +7143,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>120</td>
 	</tr>
 	<tr>
-		<td>543</td>
+		<td>542</td>
 		<td>
 			<a target="_blank" href="https://github.com/fbiljecki">
-				<img src="https://private-avatars.githubusercontent.com/u/2338506?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzIzMzg1MDYifQ.CiWsa_6Lsj9csJOJCm2rXXV9qJQ1qWnDSaSHFpCzb98&s=72&u=0e96067e3da311be2c9573898fc8a7f8284010a6&v=4" width="24" alt="Avatar of fbiljecki"/> fbiljecki
+				<img src="https://private-avatars.githubusercontent.com/u/2338506?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzIzMzg1MDYifQ.stdviD2lQ-XtQTjccRWrmCCnictmCMLdbRUbdLpr6uo&s=72&u=0e96067e3da311be2c9573898fc8a7f8284010a6&v=4" width="24" alt="Avatar of fbiljecki"/> fbiljecki
 			</a><br/>
 			Filip Biljecki
 		</td>
@@ -7169,10 +7156,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>120</td>
 	</tr>
 	<tr>
-		<td>544</td>
+		<td>543</td>
 		<td>
 			<a target="_blank" href="https://github.com/junhua">
-				<img src="https://private-avatars.githubusercontent.com/u/3516360?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExMjAsIm5iZiI6MTczNDY0OTkyMCwicGF0aCI6Ii91LzM1MTYzNjAifQ.pCUMdL0RxFCr85IURCTDRjZnETiUTp5SB-A9zjtOfFk&s=72&u=e978ef4f1692c32c367aa69e1ad3aa72fd4a400b&v=4" width="24" alt="Avatar of junhua"/> junhua
+				<img src="https://private-avatars.githubusercontent.com/u/3516360?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxMjAsIm5iZiI6MTczNDY4NTkyMCwicGF0aCI6Ii91LzM1MTYzNjAifQ.OgKmOlyFBMEW17pt8wHhsR6cHtN-o_b0ML0x4Tx56R0&s=72&u=e978ef4f1692c32c367aa69e1ad3aa72fd4a400b&v=4" width="24" alt="Avatar of junhua"/> junhua
 			</a><br/>
 			Junhua LIU PhD
 		</td>
@@ -7182,10 +7169,23 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>120</td>
 	</tr>
 	<tr>
+		<td>544</td>
+		<td>
+			<a target="_blank" href="https://github.com/sheshbabu">
+				<img src="https://private-avatars.githubusercontent.com/u/498909?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcyNDAsIm5iZiI6MTczNDY4NjA0MCwicGF0aCI6Ii91LzQ5ODkwOSJ9.tRraRmsyuHOvVNzROUl2TisGwsa3YheZo83aECoZCRA&s=72&u=a98a79c5ed5572ca3c6a5a11bcf42d1d7e3dc9ba&v=4" width="24" alt="Avatar of sheshbabu"/> sheshbabu
+			</a><br/>
+			Sheshbabu
+		</td>
+		<td>Temasek </td>
+		<td><a target="_blank" href="https://twitter.com/sheshbabu">sheshbabu</a></td>
+		<td>Singapore</td>
+		<td>120</td>
+	</tr>
+	<tr>
 		<td>545</td>
 		<td>
 			<a target="_blank" href="https://github.com/lnfi-network">
-				<img src="https://private-avatars.githubusercontent.com/u/124413725?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzMDAsIm5iZiI6MTczNDY1MDEwMCwicGF0aCI6Ii91LzEyNDQxMzcyNSJ9.pW6XnaXkwiEt2l8HmvAgm3Ig2bqW6gGc2gLKsq6Azng&s=72&u=12f172e77a78366e1ecbe1e6352508973ae9a238&v=4" width="24" alt="Avatar of lnfi-network"/> lnfi-network
+				<img src="https://private-avatars.githubusercontent.com/u/124413725?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODczMDAsIm5iZiI6MTczNDY4NjEwMCwicGF0aCI6Ii91LzEyNDQxMzcyNSJ9.giyI-2g0FB996aTuD-3Hi4i_LHlV0GE6MwXBj96nLzM&s=72&u=12f172e77a78366e1ecbe1e6352508973ae9a238&v=4" width="24" alt="Avatar of lnfi-network"/> lnfi-network
 			</a><br/>
 			Lnfi Network
 		</td>
@@ -7198,7 +7198,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>546</td>
 		<td>
 			<a target="_blank" href="https://github.com/LucasXu0">
-				<img src="https://private-avatars.githubusercontent.com/u/11863087?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3MDAsIm5iZiI6MTczNDY0OTUwMCwicGF0aCI6Ii91LzExODYzMDg3In0.B2_ShBE8PpEIq2rr_qxl9g7quunW8pde4Qoti-Q3l0g&s=72&u=e0dae4a9247bc0191c83ba7fcee12c6e32562d5c&v=4" width="24" alt="Avatar of LucasXu0"/> LucasXu0
+				<img src="https://private-avatars.githubusercontent.com/u/11863087?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3MDAsIm5iZiI6MTczNDY4NTUwMCwicGF0aCI6Ii91LzExODYzMDg3In0.gngZhr6lDQ0UZ9mANljb7IP5WyBeNwhKwTsqkbsL6Nc&s=72&u=e0dae4a9247bc0191c83ba7fcee12c6e32562d5c&v=4" width="24" alt="Avatar of LucasXu0"/> LucasXu0
 			</a><br/>
 			Lucas
 		</td>
@@ -7211,7 +7211,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>547</td>
 		<td>
 			<a target="_blank" href="https://github.com/hboon">
-				<img src="https://private-avatars.githubusercontent.com/u/56189?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExMjAsIm5iZiI6MTczNDY0OTkyMCwicGF0aCI6Ii91LzU2MTg5In0.lEs5I1-mTjtZzcNTI8E-lP3x-1BXlX-cmfwoJmfZAo8&s=72&v=4" width="24" alt="Avatar of hboon"/> hboon
+				<img src="https://private-avatars.githubusercontent.com/u/56189?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxMjAsIm5iZiI6MTczNDY4NTkyMCwicGF0aCI6Ii91LzU2MTg5In0.Wm0wMEQBICCBEQthBq45dvDf71zJ-RVinWPtdqYoM4U&s=72&v=4" width="24" alt="Avatar of hboon"/> hboon
 			</a><br/>
 			HweeBoon Yar
 		</td>
@@ -7224,7 +7224,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>548</td>
 		<td>
 			<a target="_blank" href="https://github.com/jeffsieu">
-				<img src="https://private-avatars.githubusercontent.com/u/8487294?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4MjAsIm5iZiI6MTczNDY0OTYyMCwicGF0aCI6Ii91Lzg0ODcyOTQifQ.wlsknPqklCroa9X_ZyZacROG3-9rRbXjSd2EFSx3Ow0&s=72&u=ac1743639a955e1ccb9d3ab61089b6779c6ce8fc&v=4" width="24" alt="Avatar of jeffsieu"/> jeffsieu
+				<img src="https://private-avatars.githubusercontent.com/u/8487294?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4MjAsIm5iZiI6MTczNDY4NTYyMCwicGF0aCI6Ii91Lzg0ODcyOTQifQ.eFWA08NnFQbGAJSdw16z8Jnzwym2oldUAbrCcxHeNqk&s=72&u=ac1743639a955e1ccb9d3ab61089b6779c6ce8fc&v=4" width="24" alt="Avatar of jeffsieu"/> jeffsieu
 			</a><br/>
 			Jeff Sieu
 		</td>
@@ -7237,7 +7237,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>549</td>
 		<td>
 			<a target="_blank" href="https://github.com/yanggis">
-				<img src="https://private-avatars.githubusercontent.com/u/6284797?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4MjAsIm5iZiI6MTczNDY0OTYyMCwicGF0aCI6Ii91LzYyODQ3OTcifQ.zG3LSreQHzKydUAzdn5crWdNtpL470PxgwrdIZoyfjA&s=72&u=7b65eb813000b2f40357f62751141bb619facaef&v=4" width="24" alt="Avatar of yanggis"/> yanggis
+				<img src="https://private-avatars.githubusercontent.com/u/6284797?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4MjAsIm5iZiI6MTczNDY4NTYyMCwicGF0aCI6Ii91LzYyODQ3OTcifQ.PC2ZB0RxsER_-Bjnjocgsg5q08FbfgAhwNK6owAheSE&s=72&u=7b65eb813000b2f40357f62751141bb619facaef&v=4" width="24" alt="Avatar of yanggis"/> yanggis
 			</a><br/>
 			XK YANG
 		</td>
@@ -7250,7 +7250,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>550</td>
 		<td>
 			<a target="_blank" href="https://github.com/seanlowjk">
-				<img src="https://private-avatars.githubusercontent.com/u/42912708?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE1NDAsIm5iZiI6MTczNDY1MDM0MCwicGF0aCI6Ii91LzQyOTEyNzA4In0.VvU5Ifj6Za2nhQg4M3ow4B6Xu6CLnxtHndlBrm3NT-w&s=72&u=14f0d097cda192e12f847887a37b926e5eeff915&v=4" width="24" alt="Avatar of seanlowjk"/> seanlowjk
+				<img src="https://private-avatars.githubusercontent.com/u/42912708?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91LzQyOTEyNzA4In0.4nM8fikAAgW-xHmX5qiqfCWRIBQSIzxrACHLqFupW3s&s=72&u=14f0d097cda192e12f847887a37b926e5eeff915&v=4" width="24" alt="Avatar of seanlowjk"/> seanlowjk
 			</a><br/>
 			Low Jun Kai Sean
 		</td>
@@ -7263,7 +7263,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>551</td>
 		<td>
 			<a target="_blank" href="https://github.com/0xhatsume">
-				<img src="https://private-avatars.githubusercontent.com/u/90177049?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwMDAsIm5iZiI6MTczNDY0OTgwMCwicGF0aCI6Ii91LzkwMTc3MDQ5In0.XLbfjlHmyQVmyAdrfHj3xZDho2ni9IGTvDvkBcpGh7w&s=72&u=e4be58d5f6353b4fb7665df75c7f43f0c8ce9fdd&v=4" width="24" alt="Avatar of 0xhatsume"/> 0xhatsume
+				<img src="https://private-avatars.githubusercontent.com/u/90177049?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwMDAsIm5iZiI6MTczNDY4NTgwMCwicGF0aCI6Ii91LzkwMTc3MDQ5In0.mWngsnFNh6wZd2sks9a_6NGIJDZwI5b6MIkNCcjNunM&s=72&u=e4be58d5f6353b4fb7665df75c7f43f0c8ce9fdd&v=4" width="24" alt="Avatar of 0xhatsume"/> 0xhatsume
 			</a><br/>
 			0xhatsume
 		</td>
@@ -7276,7 +7276,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>552</td>
 		<td>
 			<a target="_blank" href="https://github.com/ruqqq">
-				<img src="https://private-avatars.githubusercontent.com/u/175895?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwMDAsIm5iZiI6MTczNDY0OTgwMCwicGF0aCI6Ii91LzE3NTg5NSJ9.HBk-6lx5Ms2En-qqQ9eldr82jI4Y6lAkBDbgsYI4duM&s=72&u=e15dfa8f0767bb5fbb8061099285f8868617e3b9&v=4" width="24" alt="Avatar of ruqqq"/> ruqqq
+				<img src="https://private-avatars.githubusercontent.com/u/175895?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwMDAsIm5iZiI6MTczNDY4NTgwMCwicGF0aCI6Ii91LzE3NTg5NSJ9.JNoZ6cQSnRqFaWe9vNjleCg5wubGa0-3xcKyyCgZEHM&s=72&u=e15dfa8f0767bb5fbb8061099285f8868617e3b9&v=4" width="24" alt="Avatar of ruqqq"/> ruqqq
 			</a><br/>
 			Faruq Rasid
 		</td>
@@ -7289,7 +7289,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>553</td>
 		<td>
 			<a target="_blank" href="https://github.com/cryptoAlgorithm">
-				<img src="https://private-avatars.githubusercontent.com/u/64193267?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzMDAsIm5iZiI6MTczNDY1MDEwMCwicGF0aCI6Ii91LzY0MTkzMjY3In0.aD9lJeofIdZXwwW9H3sy8eOkQ6HhgcJAl5JxkDJpr9E&s=72&u=fd974026a06f53d6e59a2d05100996cd2440fdee&v=4" width="24" alt="Avatar of cryptoAlgorithm"/> cryptoAlgorithm
+				<img src="https://private-avatars.githubusercontent.com/u/64193267?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODczMDAsIm5iZiI6MTczNDY4NjEwMCwicGF0aCI6Ii91LzY0MTkzMjY3In0.R2s0PycRpfBUSHJc9A_0hFXG2bwkcSsrnXb0DrWtM1c&s=72&u=fd974026a06f53d6e59a2d05100996cd2440fdee&v=4" width="24" alt="Avatar of cryptoAlgorithm"/> cryptoAlgorithm
 			</a><br/>
 			CryptoAlgo
 		</td>
@@ -7301,21 +7301,8 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 	<tr>
 		<td>554</td>
 		<td>
-			<a target="_blank" href="https://github.com/Kiritow">
-				<img src="https://private-avatars.githubusercontent.com/u/13619158?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzEzNjE5MTU4In0.XZBl549Ayz6Zz2Lz57v8nJoypib2uxuCsfIqIoNwAO0&s=72&u=e1854b84e39637928a63114e5a9df490bc5cd459&v=4" width="24" alt="Avatar of Kiritow"/> Kiritow
-			</a><br/>
-			Kirito
-		</td>
-		<td>@tiktok </td>
-		<td>No Twitter Username</td>
-		<td>Singapore</td>
-		<td>117</td>
-	</tr>
-	<tr>
-		<td>555</td>
-		<td>
 			<a target="_blank" href="https://github.com/ShuhuaGao">
-				<img src="https://private-avatars.githubusercontent.com/u/20141984?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzIwMTQxOTg0In0.f82_yBw-Ts2y2lF9GRiDG58_vB6yFVHghM_flaOhLIA&s=72&u=9156704a5995f70a3aa8a2ca02eeb13a817e1b23&v=4" width="24" alt="Avatar of ShuhuaGao"/> ShuhuaGao
+				<img src="https://private-avatars.githubusercontent.com/u/20141984?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxODAsIm5iZiI6MTczNDY4NTk4MCwicGF0aCI6Ii91LzIwMTQxOTg0In0.rdDFYDiZHo-rc6Um2E6QCB3dGM4tDYYiPJLN0xnYHjg&s=72&u=9156704a5995f70a3aa8a2ca02eeb13a817e1b23&v=4" width="24" alt="Avatar of ShuhuaGao"/> ShuhuaGao
 			</a><br/>
 			Shuhua Gao
 		</td>
@@ -7325,10 +7312,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>117</td>
 	</tr>
 	<tr>
-		<td>556</td>
+		<td>555</td>
 		<td>
 			<a target="_blank" href="https://github.com/StevenShi-23">
-				<img src="https://private-avatars.githubusercontent.com/u/16677443?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzE2Njc3NDQzIn0.3nkakKX3dopM8YQHXE6KsMRuLu_mStiTn9N53-3muYo&s=72&u=096e69de70b83303f4f94096dc57a59d01a25320&v=4" width="24" alt="Avatar of StevenShi-23"/> StevenShi-23
+				<img src="https://private-avatars.githubusercontent.com/u/16677443?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzE2Njc3NDQzIn0.xhQTotoG_ABpmrj8Z31sSeYiDjIrReb81b07wnC0lfI&s=72&u=096e69de70b83303f4f94096dc57a59d01a25320&v=4" width="24" alt="Avatar of StevenShi-23"/> StevenShi-23
 			</a><br/>
 			Ziji Shi Steven
 		</td>
@@ -7338,10 +7325,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>117</td>
 	</tr>
 	<tr>
-		<td>557</td>
+		<td>556</td>
 		<td>
 			<a target="_blank" href="https://github.com/hmalphettes">
-				<img src="https://private-avatars.githubusercontent.com/u/55289?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExMjAsIm5iZiI6MTczNDY0OTkyMCwicGF0aCI6Ii91LzU1Mjg5In0.rmCOTckNj4Yif_sWj09zYXVHG5IZXCfd3FU8uaLmJrY&s=72&v=4" width="24" alt="Avatar of hmalphettes"/> hmalphettes
+				<img src="https://private-avatars.githubusercontent.com/u/55289?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxMjAsIm5iZiI6MTczNDY4NTkyMCwicGF0aCI6Ii91LzU1Mjg5In0.8YseFtnhNcCvfOXwm46CKlmCfGbr39ftS5pkavy9700&s=72&v=4" width="24" alt="Avatar of hmalphettes"/> hmalphettes
 			</a><br/>
 			Hugues Malphettes
 		</td>
@@ -7351,10 +7338,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>117</td>
 	</tr>
 	<tr>
-		<td>558</td>
+		<td>557</td>
 		<td>
 			<a target="_blank" href="https://github.com/zzxwill">
-				<img src="https://private-avatars.githubusercontent.com/u/2805315?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4ODAsIm5iZiI6MTczNDY0OTY4MCwicGF0aCI6Ii91LzI4MDUzMTUifQ.bp2sryxf3BXFL2clC94K1rsQu0ERhP5GXd3-E1z7X3w&s=72&u=1fb9be61fbd959b432fc24befc4b317d07afad69&v=4" width="24" alt="Avatar of zzxwill"/> zzxwill
+				<img src="https://private-avatars.githubusercontent.com/u/2805315?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4ODAsIm5iZiI6MTczNDY4NTY4MCwicGF0aCI6Ii91LzI4MDUzMTUifQ.kXAkuxQDFKLp6J8h7MrWGizoz7s-IlM-NNCBhMlCCZs&s=72&u=1fb9be61fbd959b432fc24befc4b317d07afad69&v=4" width="24" alt="Avatar of zzxwill"/> zzxwill
 			</a><br/>
 			Zheng Xi Zhou
 		</td>
@@ -7364,10 +7351,36 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>116</td>
 	</tr>
 	<tr>
+		<td>558</td>
+		<td>
+			<a target="_blank" href="https://github.com/NIRVANALAN">
+				<img src="https://private-avatars.githubusercontent.com/u/23359323?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91LzIzMzU5MzIzIn0.iwxQS7h3Ukhk6bqfaNZ1SbAFTVi6wlyXVuONRuiwqE4&s=72&u=d362c0dc447526bfa609ff30f55efea0d51365c6&v=4" width="24" alt="Avatar of NIRVANALAN"/> NIRVANALAN
+			</a><br/>
+			NIRVANALAN
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Singapore</td>
+		<td>116</td>
+	</tr>
+	<tr>
 		<td>559</td>
 		<td>
+			<a target="_blank" href="https://github.com/Kiritow">
+				<img src="https://private-avatars.githubusercontent.com/u/13619158?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzEzNjE5MTU4In0.PaQk0N_bhflm95N7C2yttK1NowKoJ6YKX1C6HD-GBxg&s=72&u=e1854b84e39637928a63114e5a9df490bc5cd459&v=4" width="24" alt="Avatar of Kiritow"/> Kiritow
+			</a><br/>
+			Kirito
+		</td>
+		<td>@tiktok </td>
+		<td>No Twitter Username</td>
+		<td>Singapore</td>
+		<td>116</td>
+	</tr>
+	<tr>
+		<td>560</td>
+		<td>
 			<a target="_blank" href="https://github.com/nitish-kaushik">
-				<img src="https://private-avatars.githubusercontent.com/u/41483561?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE0MjAsIm5iZiI6MTczNDY1MDIyMCwicGF0aCI6Ii91LzQxNDgzNTYxIn0.ieNbfyYR-2BJYZ5ujo9dfBTAhPGJzsH3Es7ntUincWk&s=72&u=8c654b378af5235af6814fd42eb9685c9ad348c7&v=4" width="24" alt="Avatar of nitish-kaushik"/> nitish-kaushik
+				<img src="https://private-avatars.githubusercontent.com/u/41483561?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1MjAsIm5iZiI6MTczNDY4NTMyMCwicGF0aCI6Ii91LzQxNDgzNTYxIn0.ZBKWrYeLprIrKiXdPHfDPpwEGehuq5GEmgO_pOwp9p8&s=72&u=8c654b378af5235af6814fd42eb9685c9ad348c7&v=4" width="24" alt="Avatar of nitish-kaushik"/> nitish-kaushik
 			</a><br/>
 			Nitish Kaushik
 		</td>
@@ -7377,10 +7390,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>116</td>
 	</tr>
 	<tr>
-		<td>560</td>
+		<td>561</td>
 		<td>
 			<a target="_blank" href="https://github.com/admond1994">
-				<img src="https://private-avatars.githubusercontent.com/u/35163759?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE1NDAsIm5iZiI6MTczNDY1MDM0MCwicGF0aCI6Ii91LzM1MTYzNzU5In0.cPhfjZxm7a3y7T_nNIvNwg3rqTvdVSfqlMkkR7UhfaA&s=72&u=c8379871d30c9e102eeae21467dff698e58abc12&v=4" width="24" alt="Avatar of admond1994"/> admond1994
+				<img src="https://private-avatars.githubusercontent.com/u/35163759?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91LzM1MTYzNzU5In0.pG5p_dY3DjcfzE259jM2_BxEERff87U9S0QzTmU_Zv4&s=72&u=c8379871d30c9e102eeae21467dff698e58abc12&v=4" width="24" alt="Avatar of admond1994"/> admond1994
 			</a><br/>
 			Admond Lee
 		</td>
@@ -7390,23 +7403,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>116</td>
 	</tr>
 	<tr>
-		<td>561</td>
-		<td>
-			<a target="_blank" href="https://github.com/NIRVANALAN">
-				<img src="https://private-avatars.githubusercontent.com/u/23359323?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE1NDAsIm5iZiI6MTczNDY1MDM0MCwicGF0aCI6Ii91LzIzMzU5MzIzIn0.l_zcdHJzhjCkMQRccJCh4j_Kw300Z13hJpgQtIpyq0A&s=72&u=d362c0dc447526bfa609ff30f55efea0d51365c6&v=4" width="24" alt="Avatar of NIRVANALAN"/> NIRVANALAN
-			</a><br/>
-			NIRVANALAN
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Singapore</td>
-		<td>115</td>
-	</tr>
-	<tr>
 		<td>562</td>
 		<td>
 			<a target="_blank" href="https://github.com/zst123">
-				<img src="https://private-avatars.githubusercontent.com/u/4743390?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEyNDAsIm5iZiI6MTczNDY1MDA0MCwicGF0aCI6Ii91LzQ3NDMzOTAifQ.RcuhaD2r8dMBQE80azUhqvlu2yAgJhSXS8F4SEqdZ60&s=72&v=4" width="24" alt="Avatar of zst123"/> zst123
+				<img src="https://private-avatars.githubusercontent.com/u/4743390?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcyNDAsIm5iZiI6MTczNDY4NjA0MCwicGF0aCI6Ii91LzQ3NDMzOTAifQ.aWx5vCmfHISK3Li37ZMMUGbgHqaxuA0s3Zntdz9NkJk&s=72&v=4" width="24" alt="Avatar of zst123"/> zst123
 			</a><br/>
 			zst123
 		</td>
@@ -7419,7 +7419,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>563</td>
 		<td>
 			<a target="_blank" href="https://github.com/serrynaimo">
-				<img src="https://private-avatars.githubusercontent.com/u/654863?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4MjAsIm5iZiI6MTczNDY0OTYyMCwicGF0aCI6Ii91LzY1NDg2MyJ9.kU--eWqTwHDUvFkv-iwY1FnlXTkBTO51DmoX7YbH1tI&s=72&u=f61b1f50760b7103b8646b50153a6a0b026a89cc&v=4" width="24" alt="Avatar of serrynaimo"/> serrynaimo
+				<img src="https://private-avatars.githubusercontent.com/u/654863?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4MjAsIm5iZiI6MTczNDY4NTYyMCwicGF0aCI6Ii91LzY1NDg2MyJ9.9ujK_6Uf_eowzEvaIHNuoatTJsfgDjkvltQ-bc5Xi4M&s=72&u=f61b1f50760b7103b8646b50153a6a0b026a89cc&v=4" width="24" alt="Avatar of serrynaimo"/> serrynaimo
 			</a><br/>
 			Thomas Gorissen
 		</td>
@@ -7432,7 +7432,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>564</td>
 		<td>
 			<a target="_blank" href="https://github.com/ttwj">
-				<img src="https://private-avatars.githubusercontent.com/u/283981?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzI4Mzk4MSJ9.P5okxvssY2G79rQ_Tkkqj_Dgz8SeUMt5mFv41NKIKqY&s=72&u=3858b4a670206b181ae453a70483b41833b06e4c&v=4" width="24" alt="Avatar of ttwj"/> ttwj
+				<img src="https://private-avatars.githubusercontent.com/u/283981?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxODAsIm5iZiI6MTczNDY4NTk4MCwicGF0aCI6Ii91LzI4Mzk4MSJ9.pxjBZCbAUzZlzCw2P3eMC7WkpNX4EfHBq9s9xUaELBI&s=72&u=3858b4a670206b181ae453a70483b41833b06e4c&v=4" width="24" alt="Avatar of ttwj"/> ttwj
 			</a><br/>
 			Terence Tan
 		</td>
@@ -7445,7 +7445,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>565</td>
 		<td>
 			<a target="_blank" href="https://github.com/just4jc">
-				<img src="https://private-avatars.githubusercontent.com/u/9564757?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE1NDAsIm5iZiI6MTczNDY1MDM0MCwicGF0aCI6Ii91Lzk1NjQ3NTcifQ.VWeieMigsaq7Lyl7ScAR39iivZjjkeGc__mwPPqqDRQ&s=72&u=2c9a988ad5c5d7299bad6fe6a1a396dc9999128f&v=4" width="24" alt="Avatar of just4jc"/> just4jc
+				<img src="https://private-avatars.githubusercontent.com/u/9564757?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91Lzk1NjQ3NTcifQ.EIsJm4qRIwHHHe97uwMTVa8wjxym3juSBmRZU07HGG4&s=72&u=2c9a988ad5c5d7299bad6fe6a1a396dc9999128f&v=4" width="24" alt="Avatar of just4jc"/> just4jc
 			</a><br/>
 			George Ng
 		</td>
@@ -7458,7 +7458,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>566</td>
 		<td>
 			<a target="_blank" href="https://github.com/debuggingfuture">
-				<img src="https://private-avatars.githubusercontent.com/u/1883877?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE0ODAsIm5iZiI6MTczNDY1MDI4MCwicGF0aCI6Ii91LzE4ODM4NzcifQ.Qglq16Jo-BfIBGxc73irElnFhztUEjRxvotgLN1ETII&s=72&v=4" width="24" alt="Avatar of debuggingfuture"/> debuggingfuture
+				<img src="https://private-avatars.githubusercontent.com/u/1883877?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1ODAsIm5iZiI6MTczNDY4NTM4MCwicGF0aCI6Ii91LzE4ODM4NzcifQ.lLvgAyuwH6d0XsWceYV1pccJW9-PdW-8i38IKmjBHUo&s=72&v=4" width="24" alt="Avatar of debuggingfuture"/> debuggingfuture
 			</a><br/>
 			debuggingfuture Vincent LCY
 		</td>
@@ -7471,7 +7471,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>567</td>
 		<td>
 			<a target="_blank" href="https://github.com/arashnrim">
-				<img src="https://private-avatars.githubusercontent.com/u/47273556?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA5NDAsIm5iZiI6MTczNDY0OTc0MCwicGF0aCI6Ii91LzQ3MjczNTU2In0.-_Fp1NdF8YwbywE_HFNE0Or2cjPC6sZ1PJwWKwy6M-Y&s=72&u=7ea1af759c4ce268f85801c2c5628d422dfbd7a1&v=4" width="24" alt="Avatar of arashnrim"/> arashnrim
+				<img src="https://private-avatars.githubusercontent.com/u/47273556?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY5NDAsIm5iZiI6MTczNDY4NTc0MCwicGF0aCI6Ii91LzQ3MjczNTU2In0.DZeZIU6Yb_xHUJhNd6t0LTm4w7cUSckgea0fYzVXDtU&s=72&u=7ea1af759c4ce268f85801c2c5628d422dfbd7a1&v=4" width="24" alt="Avatar of arashnrim"/> arashnrim
 			</a><br/>
 			Arash
 		</td>
@@ -7484,7 +7484,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>568</td>
 		<td>
 			<a target="_blank" href="https://github.com/HeroKillerEver">
-				<img src="https://private-avatars.githubusercontent.com/u/24193556?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE1NDAsIm5iZiI6MTczNDY1MDM0MCwicGF0aCI6Ii91LzI0MTkzNTU2In0.9qx3RJFusKpM3bLCZJ6k5yc-rnB_wyLpVgP6ZC0sGSw&s=72&u=a3f1a6d85cae55968601918290362a01a857d83f&v=4" width="24" alt="Avatar of HeroKillerEver"/> HeroKillerEver
+				<img src="https://private-avatars.githubusercontent.com/u/24193556?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91LzI0MTkzNTU2In0.UgVec-ryL1ePGCFg7IbBNUDfYVCKmlrcm67z9ZyneL4&s=72&u=a3f1a6d85cae55968601918290362a01a857d83f&v=4" width="24" alt="Avatar of HeroKillerEver"/> HeroKillerEver
 			</a><br/>
 			Haibin YU
 		</td>
@@ -7497,7 +7497,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>569</td>
 		<td>
 			<a target="_blank" href="https://github.com/ksaitor">
-				<img src="https://private-avatars.githubusercontent.com/u/936436?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzMDAsIm5iZiI6MTczNDY1MDEwMCwicGF0aCI6Ii91LzkzNjQzNiJ9.VMTWHOWmwbnMjbCTjJ0Dk3SowTvGi3psy3JjqaArx4w&s=72&u=32ebc355145f86f2f353e61fc236109d75f18500&v=4" width="24" alt="Avatar of ksaitor"/> ksaitor
+				<img src="https://private-avatars.githubusercontent.com/u/936436?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODczMDAsIm5iZiI6MTczNDY4NjEwMCwicGF0aCI6Ii91LzkzNjQzNiJ9.Lg4dsiURp8R3MI0-k7zxdoKhnplnR6uACm2ZfeQPk3g&s=72&u=32ebc355145f86f2f353e61fc236109d75f18500&v=4" width="24" alt="Avatar of ksaitor"/> ksaitor
 			</a><br/>
 			Raman
 		</td>
@@ -7510,7 +7510,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>570</td>
 		<td>
 			<a target="_blank" href="https://github.com/goodhamgupta">
-				<img src="https://private-avatars.githubusercontent.com/u/14368181?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE1NDAsIm5iZiI6MTczNDY1MDM0MCwicGF0aCI6Ii91LzE0MzY4MTgxIn0.VZ9hwm_gcrji1vdHcsWxxHfuVzQY_KL_thVG679PJlo&s=72&u=7044485e9ab54496f2eb5410de189626c653bc67&v=4" width="24" alt="Avatar of goodhamgupta"/> goodhamgupta
+				<img src="https://private-avatars.githubusercontent.com/u/14368181?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91LzE0MzY4MTgxIn0.waflVaU-1k9HL0wyVXug6N2d0nW50-bA1GiyXeQTlcI&s=72&u=7044485e9ab54496f2eb5410de189626c653bc67&v=4" width="24" alt="Avatar of goodhamgupta"/> goodhamgupta
 			</a><br/>
 			Shubham Gupta
 		</td>
@@ -7522,8 +7522,21 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 	<tr>
 		<td>571</td>
 		<td>
+			<a target="_blank" href="https://github.com/aliasgharheidaricom">
+				<img src="https://private-avatars.githubusercontent.com/u/5665487?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcyNDAsIm5iZiI6MTczNDY4NjA0MCwicGF0aCI6Ii91LzU2NjU0ODcifQ.K2dgoCifUkEiiGz9eYl6Mhziw2LhdlnEj3Uk6--NuVw&s=72&u=b6bcd9df63021784fb84eff2d112eea46a251c6a&v=4" width="24" alt="Avatar of aliasgharheidaricom"/> aliasgharheidaricom
+			</a><br/>
+			Dr Ali Asghar Heidari
+		</td>
+		<td>National University Of Singapore<br/></td>
+		<td><a target="_blank" href="https://twitter.com/a_asgharheidari">a_asgharheidari</a></td>
+		<td>Singapore</td>
+		<td>113</td>
+	</tr>
+	<tr>
+		<td>572</td>
+		<td>
 			<a target="_blank" href="https://github.com/lokedhs">
-				<img src="https://private-avatars.githubusercontent.com/u/1028755?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3MDAsIm5iZiI6MTczNDY0OTUwMCwicGF0aCI6Ii91LzEwMjg3NTUifQ.g1TK4AbzDlIU0uqNkGqM7mZKMtfMH1Y53NBTz9swKmM&s=72&v=4" width="24" alt="Avatar of lokedhs"/> lokedhs
+				<img src="https://private-avatars.githubusercontent.com/u/1028755?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3MDAsIm5iZiI6MTczNDY4NTUwMCwicGF0aCI6Ii91LzEwMjg3NTUifQ.LDOiyGdiPJbAOxox2JAL0-kWc2tXEVUr5O2p48yJpt0&s=72&v=4" width="24" alt="Avatar of lokedhs"/> lokedhs
 			</a><br/>
 			Elias Mrtenson
 		</td>
@@ -7533,10 +7546,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>113</td>
 	</tr>
 	<tr>
-		<td>572</td>
+		<td>573</td>
 		<td>
 			<a target="_blank" href="https://github.com/mrhieu">
-				<img src="https://private-avatars.githubusercontent.com/u/1593560?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE0ODAsIm5iZiI6MTczNDY1MDI4MCwicGF0aCI6Ii91LzE1OTM1NjAifQ.JwyEKet2mwnWfrZh_gQKeFStZhHEUWawTGX651aYoSc&s=72&u=d26e318fc82dea51f10839406fb435f498b27e67&v=4" width="24" alt="Avatar of mrhieu"/> mrhieu
+				<img src="https://private-avatars.githubusercontent.com/u/1593560?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1ODAsIm5iZiI6MTczNDY4NTM4MCwicGF0aCI6Ii91LzE1OTM1NjAifQ.rakv1XLOUXo5FWRSuCzKglL_-1t9ENSVW_ZyZk1c0Ys&s=72&u=d26e318fc82dea51f10839406fb435f498b27e67&v=4" width="24" alt="Avatar of mrhieu"/> mrhieu
 			</a><br/>
 			Hieu Pham
 		</td>
@@ -7546,10 +7559,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>113</td>
 	</tr>
 	<tr>
-		<td>573</td>
+		<td>574</td>
 		<td>
 			<a target="_blank" href="https://github.com/SherLzp">
-				<img src="https://private-avatars.githubusercontent.com/u/17902244?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE0ODAsIm5iZiI6MTczNDY1MDI4MCwicGF0aCI6Ii91LzE3OTAyMjQ0In0.7Zge4oDBPQvM6M2-aj22fOeGY5_VM370GTuLby5nz7I&s=72&u=482176a78df2b91d509bb8a15054d60c269814c5&v=4" width="24" alt="Avatar of SherLzp"/> SherLzp
+				<img src="https://private-avatars.githubusercontent.com/u/17902244?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1ODAsIm5iZiI6MTczNDY4NTM4MCwicGF0aCI6Ii91LzE3OTAyMjQ0In0.aLeOhCkwr0Z_0i-X25v7sX6TSwt7FcWo460MbvCh3qo&s=72&u=482176a78df2b91d509bb8a15054d60c269814c5&v=4" width="24" alt="Avatar of SherLzp"/> SherLzp
 			</a><br/>
 			Sher
 		</td>
@@ -7559,10 +7572,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>113</td>
 	</tr>
 	<tr>
-		<td>574</td>
+		<td>575</td>
 		<td>
 			<a target="_blank" href="https://github.com/indocomsoft">
-				<img src="https://private-avatars.githubusercontent.com/u/11135744?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEyNDAsIm5iZiI6MTczNDY1MDA0MCwicGF0aCI6Ii91LzExMTM1NzQ0In0.Q7lGJNoneRxDgHKgFzB2l7U00tsHekY36pvk2RQ3NjE&s=72&u=24ff683c958feb1f0f3c77e9d90dc675b6849164&v=4" width="24" alt="Avatar of indocomsoft"/> indocomsoft
+				<img src="https://private-avatars.githubusercontent.com/u/11135744?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcyNDAsIm5iZiI6MTczNDY4NjA0MCwicGF0aCI6Ii91LzExMTM1NzQ0In0.AxqUZf1kiV7BL9nZXSSjmjqs8uo62FD7DKrytjENngw&s=72&u=24ff683c958feb1f0f3c77e9d90dc675b6849164&v=4" width="24" alt="Avatar of indocomsoft"/> indocomsoft
 			</a><br/>
 			Julius Putra Tanu Setiaji
 		</td>
@@ -7572,10 +7585,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>113</td>
 	</tr>
 	<tr>
-		<td>575</td>
+		<td>576</td>
 		<td>
 			<a target="_blank" href="https://github.com/LotusWallet">
-				<img src="https://private-avatars.githubusercontent.com/u/96046205?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4MjAsIm5iZiI6MTczNDY0OTYyMCwicGF0aCI6Ii91Lzk2MDQ2MjA1In0.yooV7cicUpDzAQ8egARgmZfS6wsFbM9GN1kFrX6e6aA&s=72&u=a982cfa523299ef4a2a51621bf0dd82077c80d61&v=4" width="24" alt="Avatar of LotusWallet"/> LotusWallet
+				<img src="https://private-avatars.githubusercontent.com/u/96046205?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4MjAsIm5iZiI6MTczNDY4NTYyMCwicGF0aCI6Ii91Lzk2MDQ2MjA1In0.RzPoVVE93kFT14hlHdvaZbF5oAQCz918vAE-tdvqPp0&s=72&u=a982cfa523299ef4a2a51621bf0dd82077c80d61&v=4" width="24" alt="Avatar of LotusWallet"/> LotusWallet
 			</a><br/>
 			LotusWallet
 		</td>
@@ -7585,10 +7598,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>113</td>
 	</tr>
 	<tr>
-		<td>576</td>
+		<td>577</td>
 		<td>
 			<a target="_blank" href="https://github.com/TensShinet">
-				<img src="https://private-avatars.githubusercontent.com/u/35733911?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEyNDAsIm5iZiI6MTczNDY1MDA0MCwicGF0aCI6Ii91LzM1NzMzOTExIn0.-sN2_AGm3pIfvsGTGB1QlguiCAWSyDyN59G7lBGsaIs&s=72&u=21bc0999502507fc6d9bfb22dfe7d35dfcdf4215&v=4" width="24" alt="Avatar of TensShinet"/> TensShinet
+				<img src="https://private-avatars.githubusercontent.com/u/35733911?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcyNDAsIm5iZiI6MTczNDY4NjA0MCwicGF0aCI6Ii91LzM1NzMzOTExIn0.Atp9mCSazp5EwoS352jkeVq_rmAa0Qbqe3-aGi8zcRk&s=72&u=21bc0999502507fc6d9bfb22dfe7d35dfcdf4215&v=4" width="24" alt="Avatar of TensShinet"/> TensShinet
 			</a><br/>
 			madao756
 		</td>
@@ -7598,10 +7611,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>113</td>
 	</tr>
 	<tr>
-		<td>577</td>
+		<td>578</td>
 		<td>
 			<a target="_blank" href="https://github.com/Junyi-99">
-				<img src="https://private-avatars.githubusercontent.com/u/14367694?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE0MjAsIm5iZiI6MTczNDY1MDIyMCwicGF0aCI6Ii91LzE0MzY3Njk0In0.FVaUr5r12_L5myvPe9QIKOYQU-1vVNZqcLatus-EDtw&s=72&u=0ed5f36b84517842db47b2785758d0c5d9c29138&v=4" width="24" alt="Avatar of Junyi-99"/> Junyi-99
+				<img src="https://private-avatars.githubusercontent.com/u/14367694?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1MjAsIm5iZiI6MTczNDY4NTMyMCwicGF0aCI6Ii91LzE0MzY3Njk0In0.ahDG43xdAzQ6ZeIgvIX_UttbK_p_pF15rZi6M4uhjhw&s=72&u=0ed5f36b84517842db47b2785758d0c5d9c29138&v=4" width="24" alt="Avatar of Junyi-99"/> Junyi-99
 			</a><br/>
 			Junyi
 		</td>
@@ -7611,10 +7624,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>112</td>
 	</tr>
 	<tr>
-		<td>578</td>
+		<td>579</td>
 		<td>
 			<a target="_blank" href="https://github.com/rragundez">
-				<img src="https://private-avatars.githubusercontent.com/u/16643700?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4MjAsIm5iZiI6MTczNDY0OTYyMCwicGF0aCI6Ii91LzE2NjQzNzAwIn0.Vc_9G10DzsUgnNFFD8TcUKmjwoduFWlUDbpq8248FW4&s=72&u=68b823dbe4d011775137e518ea6391015c431e61&v=4" width="24" alt="Avatar of rragundez"/> rragundez
+				<img src="https://private-avatars.githubusercontent.com/u/16643700?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4MjAsIm5iZiI6MTczNDY4NTYyMCwicGF0aCI6Ii91LzE2NjQzNzAwIn0.uH9WcmYQH74OZDEhryruG7UyI64fS5sahYmpScK0Gr8&s=72&u=68b823dbe4d011775137e518ea6391015c431e61&v=4" width="24" alt="Avatar of rragundez"/> rragundez
 			</a><br/>
 			Rodrigo Agundez
 		</td>
@@ -7624,10 +7637,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>112</td>
 	</tr>
 	<tr>
-		<td>579</td>
+		<td>580</td>
 		<td>
 			<a target="_blank" href="https://github.com/xieyuschen">
-				<img src="https://private-avatars.githubusercontent.com/u/52945328?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzUyOTQ1MzI4In0.LuxeuO7vdLl0DURD63ENi52T77DX7dJaTfsr_HXvm4s&s=72&u=527a2aab584f867aebc41459806085ee03aef7d9&v=4" width="24" alt="Avatar of xieyuschen"/> xieyuschen
+				<img src="https://private-avatars.githubusercontent.com/u/52945328?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxODAsIm5iZiI6MTczNDY4NTk4MCwicGF0aCI6Ii91LzUyOTQ1MzI4In0.CXb-ZUcn3P4iYRdk9GLiIukPaxDzU9-0HmC__wtKruc&s=72&u=527a2aab584f867aebc41459806085ee03aef7d9&v=4" width="24" alt="Avatar of xieyuschen"/> xieyuschen
 			</a><br/>
 			Griffin
 		</td>
@@ -7637,23 +7650,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>112</td>
 	</tr>
 	<tr>
-		<td>580</td>
-		<td>
-			<a target="_blank" href="https://github.com/aliasgharheidaricom">
-				<img src="https://private-avatars.githubusercontent.com/u/5665487?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEyNDAsIm5iZiI6MTczNDY1MDA0MCwicGF0aCI6Ii91LzU2NjU0ODcifQ.qgzb0Key11UMxEcxpOrgiWlVjnu1Ubm8_r-iucaHGkw&s=72&u=b6bcd9df63021784fb84eff2d112eea46a251c6a&v=4" width="24" alt="Avatar of aliasgharheidaricom"/> aliasgharheidaricom
-			</a><br/>
-			Dr Ali Asghar Heidari
-		</td>
-		<td>National University Of Singapore<br/></td>
-		<td><a target="_blank" href="https://twitter.com/a_asgharheidari">a_asgharheidari</a></td>
-		<td>Singapore</td>
-		<td>112</td>
-	</tr>
-	<tr>
 		<td>581</td>
 		<td>
 			<a target="_blank" href="https://github.com/KunZhou9646">
-				<img src="https://private-avatars.githubusercontent.com/u/59918673?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzU5OTE4NjczIn0.tVwx_2iFjbx9Wp13nh9bHuuP_Ap8gsGbB7KFPcDrufg&s=72&v=4" width="24" alt="Avatar of KunZhou9646"/> KunZhou9646
+				<img src="https://private-avatars.githubusercontent.com/u/59918673?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxODAsIm5iZiI6MTczNDY4NTk4MCwicGF0aCI6Ii91LzU5OTE4NjczIn0.xCPfUMavMgbw2mckXJ5O2L4_O_qATmL5pRO8jKubhDg&s=72&v=4" width="24" alt="Avatar of KunZhou9646"/> KunZhou9646
 			</a><br/>
 			Kun Zhou
 		</td>
@@ -7666,7 +7666,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>582</td>
 		<td>
 			<a target="_blank" href="https://github.com/cobaltdisco">
-				<img src="https://private-avatars.githubusercontent.com/u/7610406?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE1NDAsIm5iZiI6MTczNDY1MDM0MCwicGF0aCI6Ii91Lzc2MTA0MDYifQ.Q9bRDBrP8sImanGD6yhjLPUFtsiqiUHzJC2OB4PQRlU&s=72&u=68b982a13aee5360d1a5182bef66c9667a2dc055&v=4" width="24" alt="Avatar of cobaltdisco"/> cobaltdisco
+				<img src="https://private-avatars.githubusercontent.com/u/7610406?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91Lzc2MTA0MDYifQ.TWU8ua9akt9YgbhmY6YSLFmrhlkruKjkzmP6B6Uz0nQ&s=72&u=68b982a13aee5360d1a5182bef66c9667a2dc055&v=4" width="24" alt="Avatar of cobaltdisco"/> cobaltdisco
 			</a><br/>
 			fx
 		</td>
@@ -7679,7 +7679,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>583</td>
 		<td>
 			<a target="_blank" href="https://github.com/xiaoming9090">
-				<img src="https://private-avatars.githubusercontent.com/u/102820284?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3NjAsIm5iZiI6MTczNDY0OTU2MCwicGF0aCI6Ii91LzEwMjgyMDI4NCJ9.u9hZGfK1kqSHpXgXrFnySVMJ1_HSYcZvNdbW-FOeGb0&s=72&u=dbe604bbe533ada7f9840c1644878ee0277d9aa9&v=4" width="24" alt="Avatar of xiaoming9090"/> xiaoming9090
+				<img src="https://private-avatars.githubusercontent.com/u/102820284?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91LzEwMjgyMDI4NCJ9.lNnObi2vtE7rEtRpPDkaAS9ubXJWvNYrJrvm0YFiLYs&s=72&u=dbe604bbe533ada7f9840c1644878ee0277d9aa9&v=4" width="24" alt="Avatar of xiaoming9090"/> xiaoming9090
 			</a><br/>
 			No Name
 		</td>
@@ -7692,7 +7692,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>584</td>
 		<td>
 			<a target="_blank" href="https://github.com/yongkangc">
-				<img src="https://private-avatars.githubusercontent.com/u/46377366?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE0MjAsIm5iZiI6MTczNDY1MDIyMCwicGF0aCI6Ii91LzQ2Mzc3MzY2In0.CBq8IdIpph4BpZCVSvogEN4Q9WaDS857P24cWkH2NBg&s=72&u=292a9c47afee0020ae94e832f2553c4f2cb8e3a4&v=4" width="24" alt="Avatar of yongkangc"/> yongkangc
+				<img src="https://private-avatars.githubusercontent.com/u/46377366?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1MjAsIm5iZiI6MTczNDY4NTMyMCwicGF0aCI6Ii91LzQ2Mzc3MzY2In0.Z3w6APGDYr9DKMWnEvlKQEMS9UpA206iJjJsQsAEgEY&s=72&u=292a9c47afee0020ae94e832f2553c4f2cb8e3a4&v=4" width="24" alt="Avatar of yongkangc"/> yongkangc
 			</a><br/>
 			YK
 		</td>
@@ -7705,7 +7705,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>585</td>
 		<td>
 			<a target="_blank" href="https://github.com/subhransu">
-				<img src="https://private-avatars.githubusercontent.com/u/1495621?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4ODAsIm5iZiI6MTczNDY0OTY4MCwicGF0aCI6Ii91LzE0OTU2MjEifQ.76eFmTsBSO-DIfHr_7nVpLoea0zlCnlYaN5aLe4Lro8&s=72&u=836efbd8bad9db040340f4aa1f6ca7f40eedc5cb&v=4" width="24" alt="Avatar of subhransu"/> subhransu
+				<img src="https://private-avatars.githubusercontent.com/u/1495621?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4ODAsIm5iZiI6MTczNDY4NTY4MCwicGF0aCI6Ii91LzE0OTU2MjEifQ.-raHQJGL8aQGh1lpb9qDoCrMuVanhE_H7LyU3FT2NAc&s=72&u=836efbd8bad9db040340f4aa1f6ca7f40eedc5cb&v=4" width="24" alt="Avatar of subhransu"/> subhransu
 			</a><br/>
 			Subhransu Behera
 		</td>
@@ -7718,7 +7718,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>586</td>
 		<td>
 			<a target="_blank" href="https://github.com/YasithSam">
-				<img src="https://private-avatars.githubusercontent.com/u/62166536?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEyNDAsIm5iZiI6MTczNDY1MDA0MCwicGF0aCI6Ii91LzYyMTY2NTM2In0.kk6px84jnNmN8VQO6jp_Bm8yyYDmo_uLJKsh5IiCy-0&s=72&u=80d456cf870eb3ae5e66d5fab4ef3299d1f39034&v=4" width="24" alt="Avatar of YasithSam"/> YasithSam
+				<img src="https://private-avatars.githubusercontent.com/u/62166536?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcyNDAsIm5iZiI6MTczNDY4NjA0MCwicGF0aCI6Ii91LzYyMTY2NTM2In0.0fOkPYP-uTBRgOecMpSp_B4t1CRDMQ4EiJNrNZli6-o&s=72&u=80d456cf870eb3ae5e66d5fab4ef3299d1f39034&v=4" width="24" alt="Avatar of YasithSam"/> YasithSam
 			</a><br/>
 			Yasith Sam
 		</td>
@@ -7731,7 +7731,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>587</td>
 		<td>
 			<a target="_blank" href="https://github.com/abhimishra91">
-				<img src="https://private-avatars.githubusercontent.com/u/27291199?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE1NDAsIm5iZiI6MTczNDY1MDM0MCwicGF0aCI6Ii91LzI3MjkxMTk5In0.K_KNMKq2RJX03_MiwWDBjHYgpaunh-mvWmAukRwO_vo&s=72&u=a23adc6c105ffcaf77ac608df4ca1bf88b15da0c&v=4" width="24" alt="Avatar of abhimishra91"/> abhimishra91
+				<img src="https://private-avatars.githubusercontent.com/u/27291199?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91LzI3MjkxMTk5In0.2Dviba6oilvVOL4RmiGsU6EpG6y9y6uSpUF9e7hvurg&s=72&u=a23adc6c105ffcaf77ac608df4ca1bf88b15da0c&v=4" width="24" alt="Avatar of abhimishra91"/> abhimishra91
 			</a><br/>
 			Abhishek Kumar Mishra
 		</td>
@@ -7744,7 +7744,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>588</td>
 		<td>
 			<a target="_blank" href="https://github.com/billgo">
-				<img src="https://private-avatars.githubusercontent.com/u/5780482?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExMjAsIm5iZiI6MTczNDY0OTkyMCwicGF0aCI6Ii91LzU3ODA0ODIifQ.26uY1AGSeIr9FSbgWZKONU2j92U9zec91D5ufPTYMrA&s=72&u=d91c1d08aefb3528dada0338d3405788df8fe26b&v=4" width="24" alt="Avatar of billgo"/> billgo
+				<img src="https://private-avatars.githubusercontent.com/u/5780482?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxMjAsIm5iZiI6MTczNDY4NTkyMCwicGF0aCI6Ii91LzU3ODA0ODIifQ.Iqk_awVYCof2rfxjYZbDEd95jYJcMJKDcocIbfYEsGk&s=72&u=d91c1d08aefb3528dada0338d3405788df8fe26b&v=4" width="24" alt="Avatar of billgo"/> billgo
 			</a><br/>
 			Billgo
 		</td>
@@ -7757,7 +7757,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>589</td>
 		<td>
 			<a target="_blank" href="https://github.com/dhairyashah1">
-				<img src="https://private-avatars.githubusercontent.com/u/64425805?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3NjAsIm5iZiI6MTczNDY0OTU2MCwicGF0aCI6Ii91LzY0NDI1ODA1In0.a5RSptzxVzJL6Hq9jyNHn_dgAZOiOVE3UeDcrHxUyD8&s=72&u=9bad5024a444030f4397ae3e8ef59e2a7efd4999&v=4" width="24" alt="Avatar of dhairyashah1"/> dhairyashah1
+				<img src="https://private-avatars.githubusercontent.com/u/64425805?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91LzY0NDI1ODA1In0.bGXrz6AJVvF4Y2IxD7qhyQiLUoJOnA3s6qgZp0kkm-g&s=72&u=9bad5024a444030f4397ae3e8ef59e2a7efd4999&v=4" width="24" alt="Avatar of dhairyashah1"/> dhairyashah1
 			</a><br/>
 			Dhairya Shah
 		</td>
@@ -7770,7 +7770,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>590</td>
 		<td>
 			<a target="_blank" href="https://github.com/sourcepirate">
-				<img src="https://private-avatars.githubusercontent.com/u/5940286?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3MDAsIm5iZiI6MTczNDY0OTUwMCwicGF0aCI6Ii91LzU5NDAyODYifQ.J004icIb5ofJqMl_RTxV8kF4_WEtSxSmTRhj9zOniBk&s=72&u=5533c96701b7b9dd584f5e5522bb1e27e2a54cdb&v=4" width="24" alt="Avatar of sourcepirate"/> sourcepirate
+				<img src="https://private-avatars.githubusercontent.com/u/5940286?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3MDAsIm5iZiI6MTczNDY4NTUwMCwicGF0aCI6Ii91LzU5NDAyODYifQ.cDshObGalYqxlbvHk-fmeby6qcI9XvBjEvtdcNZ7B5s&s=72&u=5533c96701b7b9dd584f5e5522bb1e27e2a54cdb&v=4" width="24" alt="Avatar of sourcepirate"/> sourcepirate
 			</a><br/>
 			Sathya Narrayanan
 		</td>
@@ -7783,7 +7783,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>591</td>
 		<td>
 			<a target="_blank" href="https://github.com/wangxinxi">
-				<img src="https://private-avatars.githubusercontent.com/u/594199?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3NjAsIm5iZiI6MTczNDY0OTU2MCwicGF0aCI6Ii91LzU5NDE5OSJ9.M6h8_uELMjCVyyArzkmICOERMcWGGg0E3qUPv0cU0w8&s=72&u=6c880b28cfde106068f21103e8b248a869fdc4ef&v=4" width="24" alt="Avatar of wangxinxi"/> wangxinxi
+				<img src="https://private-avatars.githubusercontent.com/u/594199?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91LzU5NDE5OSJ9.YH5TOwdRFhXUZbirYDAIpixVvm989RJmE6eFxURZKjY&s=72&u=6c880b28cfde106068f21103e8b248a869fdc4ef&v=4" width="24" alt="Avatar of wangxinxi"/> wangxinxi
 			</a><br/>
 			Xinxi Wang
 		</td>
@@ -7796,7 +7796,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>592</td>
 		<td>
 			<a target="_blank" href="https://github.com/sbmaruf">
-				<img src="https://private-avatars.githubusercontent.com/u/32699797?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzMyNjk5Nzk3In0.HnBoUkDn4HUcYRghygOFIYQD12PJYQcH24-Ow5jAHDs&s=72&u=06b4f525c727afbca2e3d23e0f547143e04aead5&v=4" width="24" alt="Avatar of sbmaruf"/> sbmaruf
+				<img src="https://private-avatars.githubusercontent.com/u/32699797?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxODAsIm5iZiI6MTczNDY4NTk4MCwicGF0aCI6Ii91LzMyNjk5Nzk3In0.OMpLXDY-7ZOZSbENhxqA_PY8-v2H4-tweOn2cro9G8Q&s=72&u=06b4f525c727afbca2e3d23e0f547143e04aead5&v=4" width="24" alt="Avatar of sbmaruf"/> sbmaruf
 			</a><br/>
 			M Saiful Bari
 		</td>
@@ -7809,7 +7809,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>593</td>
 		<td>
 			<a target="_blank" href="https://github.com/DGideas">
-				<img src="https://private-avatars.githubusercontent.com/u/4065128?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEyNDAsIm5iZiI6MTczNDY1MDA0MCwicGF0aCI6Ii91LzQwNjUxMjgifQ.aTZz4N-uKAxVH6Wcr836nBebr7IZxYotqXAFipVOgbg&s=72&u=b9d3fb9369fa9201e3a18668f30a896362580320&v=4" width="24" alt="Avatar of DGideas"/> DGideas
+				<img src="https://private-avatars.githubusercontent.com/u/4065128?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcyNDAsIm5iZiI6MTczNDY4NjA0MCwicGF0aCI6Ii91LzQwNjUxMjgifQ.T_P5SgyMvFyeN3UlRy7wdvjJnYxMEsF9eHFzp6JaAUc&s=72&u=b9d3fb9369fa9201e3a18668f30a896362580320&v=4" width="24" alt="Avatar of DGideas"/> DGideas
 			</a><br/>
 			Wanlin Wang 
 		</td>
@@ -7822,7 +7822,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>594</td>
 		<td>
 			<a target="_blank" href="https://github.com/IoTThinks">
-				<img src="https://private-avatars.githubusercontent.com/u/29994971?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE1NDAsIm5iZiI6MTczNDY1MDM0MCwicGF0aCI6Ii91LzI5OTk0OTcxIn0.nt5CKjmPvjKWnjccEGH2ZTGgIjq7Zy2cMwvYadZnclA&s=72&u=5461272a87dd780a55f7edd9764fa0f25a5bb9a1&v=4" width="24" alt="Avatar of IoTThinks"/> IoTThinks
+				<img src="https://private-avatars.githubusercontent.com/u/29994971?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91LzI5OTk0OTcxIn0.w1CcrpfvmHQJ-ucYyBzK2PPd2kTmsTQtPtMiieqoi4w&s=72&u=5461272a87dd780a55f7edd9764fa0f25a5bb9a1&v=4" width="24" alt="Avatar of IoTThinks"/> IoTThinks
 			</a><br/>
 			IoTThinkscom
 		</td>
@@ -7834,21 +7834,8 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 	<tr>
 		<td>595</td>
 		<td>
-			<a target="_blank" href="https://github.com/vm06007">
-				<img src="https://private-avatars.githubusercontent.com/u/1138692?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwMDAsIm5iZiI6MTczNDY0OTgwMCwicGF0aCI6Ii91LzExMzg2OTIifQ.l-7XXgnkrpqlZMRFyoPW6SmHAcVDm-BrZPlNcvUMpnk&s=72&u=6ccbe3c6aaef9688286c225a034daa27628e0232&v=4" width="24" alt="Avatar of vm06007"/> vm06007
-			</a><br/>
-			Vitalik Marincenko
-		</td>
-		<td>Decentralgames </td>
-		<td><a target="_blank" href="https://twitter.com/EthVitally">EthVitally</a></td>
-		<td>Singapore</td>
-		<td>108</td>
-	</tr>
-	<tr>
-		<td>596</td>
-		<td>
 			<a target="_blank" href="https://github.com/tskam">
-				<img src="https://private-avatars.githubusercontent.com/u/678204?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE1NDAsIm5iZiI6MTczNDY1MDM0MCwicGF0aCI6Ii91LzY3ODIwNCJ9.CD_LYnt2ioHeKJIVdT6HV3C8UdSx69yxUYiPSEUyrBk&s=72&v=4" width="24" alt="Avatar of tskam"/> tskam
+				<img src="https://private-avatars.githubusercontent.com/u/678204?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91LzY3ODIwNCJ9.NVCLAjean01ssHJ3gWnWSxqNVe36EQg8iRf8Cfu6qrQ&s=72&v=4" width="24" alt="Avatar of tskam"/> tskam
 			</a><br/>
 			Tin Seong KAM
 		</td>
@@ -7858,10 +7845,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>108</td>
 	</tr>
 	<tr>
-		<td>597</td>
+		<td>596</td>
 		<td>
 			<a target="_blank" href="https://github.com/robberphex">
-				<img src="https://private-avatars.githubusercontent.com/u/1926185?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzNjAsIm5iZiI6MTczNDY1MDE2MCwicGF0aCI6Ii91LzE5MjYxODUifQ.PcB_FEo6sTNFYbiDb3THRFlowv7AS7VwI42gZTDYebM&s=72&v=4" width="24" alt="Avatar of robberphex"/> robberphex
+				<img src="https://private-avatars.githubusercontent.com/u/1926185?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODczNjAsIm5iZiI6MTczNDY4NjE2MCwicGF0aCI6Ii91LzE5MjYxODUifQ.VougqArqM0pyuHeXSwi7Ct2sv7Ab_25bfur7qRj5d7U&s=72&v=4" width="24" alt="Avatar of robberphex"/> robberphex
 			</a><br/>
 			Robert Lu
 		</td>
@@ -7871,10 +7858,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>108</td>
 	</tr>
 	<tr>
-		<td>598</td>
+		<td>597</td>
 		<td>
 			<a target="_blank" href="https://github.com/cheahengsoon">
-				<img src="https://private-avatars.githubusercontent.com/u/2833325?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE1NDAsIm5iZiI6MTczNDY1MDM0MCwicGF0aCI6Ii91LzI4MzMzMjUifQ.JycSMLULDKI520sr7c1QQitK8PMK3xOERevLSmBTko0&s=72&u=cc0daea07c701304367327dd61842b237d9baeb7&v=4" width="24" alt="Avatar of cheahengsoon"/> cheahengsoon
+				<img src="https://private-avatars.githubusercontent.com/u/2833325?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91LzI4MzMzMjUifQ.mtCXN9qQ4focJvNqnflXgB3wxyC8XdZHfJyFdp4s4zE&s=72&u=cc0daea07c701304367327dd61842b237d9baeb7&v=4" width="24" alt="Avatar of cheahengsoon"/> cheahengsoon
 			</a><br/>
 			Eng Soon Cheah
 		</td>
@@ -7884,10 +7871,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>108</td>
 	</tr>
 	<tr>
-		<td>599</td>
+		<td>598</td>
 		<td>
 			<a target="_blank" href="https://github.com/so0k">
-				<img src="https://private-avatars.githubusercontent.com/u/1762599?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzE3NjI1OTkifQ.FdGqFphatb9rPmipc40caq_7mZ1nzI5AZdJrhiidxNw&s=72&u=66f21349e2dacd10b6e545808dcd39183b7a0f78&v=4" width="24" alt="Avatar of so0k"/> so0k
+				<img src="https://private-avatars.githubusercontent.com/u/1762599?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxODAsIm5iZiI6MTczNDY4NTk4MCwicGF0aCI6Ii91LzE3NjI1OTkifQ.0VURraf48WwynXi0nYOL8qXhDcvNJFGD3SAfbrk32M8&s=72&u=66f21349e2dacd10b6e545808dcd39183b7a0f78&v=4" width="24" alt="Avatar of so0k"/> so0k
 			</a><br/>
 			so0k
 		</td>
@@ -7897,10 +7884,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>108</td>
 	</tr>
 	<tr>
-		<td>600</td>
+		<td>599</td>
 		<td>
 			<a target="_blank" href="https://github.com/devpranoy">
-				<img src="https://private-avatars.githubusercontent.com/u/20567858?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzIwNTY3ODU4In0.MPxSpYEQj1w66FoFVstQB2jWD6Av7F0lzHNdOqGEGcE&s=72&u=5a1d4383a84717576dfa1196cce1ff0ede08fa14&v=4" width="24" alt="Avatar of devpranoy"/> devpranoy
+				<img src="https://private-avatars.githubusercontent.com/u/20567858?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxODAsIm5iZiI6MTczNDY4NTk4MCwicGF0aCI6Ii91LzIwNTY3ODU4In0.rCrYE-lHr77rcHC4LLCLNQ8Tp28sOUYjSYmDRqUd--M&s=72&u=5a1d4383a84717576dfa1196cce1ff0ede08fa14&v=4" width="24" alt="Avatar of devpranoy"/> devpranoy
 			</a><br/>
 			Pranoy Dev
 		</td>
@@ -7910,10 +7897,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>108</td>
 	</tr>
 	<tr>
-		<td>601</td>
+		<td>600</td>
 		<td>
 			<a target="_blank" href="https://github.com/zhongpeixiang">
-				<img src="https://private-avatars.githubusercontent.com/u/11826803?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzMDAsIm5iZiI6MTczNDY1MDEwMCwicGF0aCI6Ii91LzExODI2ODAzIn0.dJ6E9Kgo_JhEC52oOKxItaA7LYBq4HN0xRE3Tq0NdiM&s=72&u=ffc51ebb59c358cf3f9849b0d759b613761657f5&v=4" width="24" alt="Avatar of zhongpeixiang"/> zhongpeixiang
+				<img src="https://private-avatars.githubusercontent.com/u/11826803?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODczMDAsIm5iZiI6MTczNDY4NjEwMCwicGF0aCI6Ii91LzExODI2ODAzIn0.Ddos-l2l7Li_8cBeIXFkPKV3aQF9PKbxP7tlqS5BEQc&s=72&u=ffc51ebb59c358cf3f9849b0d759b613761657f5&v=4" width="24" alt="Avatar of zhongpeixiang"/> zhongpeixiang
 			</a><br/>
 			Zhong Peixiang
 		</td>
@@ -7923,10 +7910,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>108</td>
 	</tr>
 	<tr>
-		<td>602</td>
+		<td>601</td>
 		<td>
 			<a target="_blank" href="https://github.com/chang111">
-				<img src="https://private-avatars.githubusercontent.com/u/20043114?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4ODAsIm5iZiI6MTczNDY0OTY4MCwicGF0aCI6Ii91LzIwMDQzMTE0In0.fNPzh2qSg1laSSSHkGeq0vJkhNZg6dcDcuTH0qPpT5E&s=72&u=f1a853e5dd87407e2967e4de81c91ff17d5ea958&v=4" width="24" alt="Avatar of chang111"/> chang111
+				<img src="https://private-avatars.githubusercontent.com/u/20043114?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4ODAsIm5iZiI6MTczNDY4NTY4MCwicGF0aCI6Ii91LzIwMDQzMTE0In0.k5j-V-NvMuEfTcve_GCUnLPzvoVD5ktNdp4VUvbmnis&s=72&u=f1a853e5dd87407e2967e4de81c91ff17d5ea958&v=4" width="24" alt="Avatar of chang111"/> chang111
 			</a><br/>
 			No Name
 		</td>
@@ -7936,10 +7923,23 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>108</td>
 	</tr>
 	<tr>
+		<td>602</td>
+		<td>
+			<a target="_blank" href="https://github.com/vm06007">
+				<img src="https://private-avatars.githubusercontent.com/u/1138692?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwMDAsIm5iZiI6MTczNDY4NTgwMCwicGF0aCI6Ii91LzExMzg2OTIifQ.hbPQiNLwoiJT_tnAEyvjcLxWd_6TOn118AhT8ZmRynw&s=72&u=6ccbe3c6aaef9688286c225a034daa27628e0232&v=4" width="24" alt="Avatar of vm06007"/> vm06007
+			</a><br/>
+			Vitalik Marincenko
+		</td>
+		<td>Decentralgames </td>
+		<td><a target="_blank" href="https://twitter.com/EthVitally">EthVitally</a></td>
+		<td>Singapore</td>
+		<td>107</td>
+	</tr>
+	<tr>
 		<td>603</td>
 		<td>
 			<a target="_blank" href="https://github.com/ZhangGongjie">
-				<img src="https://private-avatars.githubusercontent.com/u/37538709?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExMjAsIm5iZiI6MTczNDY0OTkyMCwicGF0aCI6Ii91LzM3NTM4NzA5In0.d3iRE-v0lnKWB8q75hQjPXV4w8OkfcoFTYaCNw5KtR8&s=72&u=1fe5f066ddce45408a06b32741d9aca29bb26b43&v=4" width="24" alt="Avatar of ZhangGongjie"/> ZhangGongjie
+				<img src="https://private-avatars.githubusercontent.com/u/37538709?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxMjAsIm5iZiI6MTczNDY4NTkyMCwicGF0aCI6Ii91LzM3NTM4NzA5In0.LRtrTSOQdRERatpKd7QpUV3olG5QyxnKHZYTAaOnYNI&s=72&u=1fe5f066ddce45408a06b32741d9aca29bb26b43&v=4" width="24" alt="Avatar of ZhangGongjie"/> ZhangGongjie
 			</a><br/>
 			Gongjie Zhang
 		</td>
@@ -7952,7 +7952,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>604</td>
 		<td>
 			<a target="_blank" href="https://github.com/Minyus">
-				<img src="https://private-avatars.githubusercontent.com/u/33908456?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzMDAsIm5iZiI6MTczNDY1MDEwMCwicGF0aCI6Ii91LzMzOTA4NDU2In0.-gHOjX3x5O6Mnbuv6298iwGPWfmkPMSSTCszB4lp28I&s=72&u=41b3957893f2b9921878101dac2eb32aa69bf0d7&v=4" width="24" alt="Avatar of Minyus"/> Minyus
+				<img src="https://private-avatars.githubusercontent.com/u/33908456?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODczMDAsIm5iZiI6MTczNDY4NjEwMCwicGF0aCI6Ii91LzMzOTA4NDU2In0.DMEnKmz-W2i_NrqKt-UtwJJlvDbesOTIvl1_RuxCn-E&s=72&u=41b3957893f2b9921878101dac2eb32aa69bf0d7&v=4" width="24" alt="Avatar of Minyus"/> Minyus
 			</a><br/>
 			Yusuke Minami
 		</td>
@@ -7965,7 +7965,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>605</td>
 		<td>
 			<a target="_blank" href="https://github.com/YZhenY">
-				<img src="https://private-avatars.githubusercontent.com/u/25172440?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3MDAsIm5iZiI6MTczNDY0OTUwMCwicGF0aCI6Ii91LzI1MTcyNDQwIn0.N4VJnxzUNJw5_nwkdW5-CQvC-SwduzdEm6fwoAlr5io&s=72&u=d7fbf85f60e5a09793a1d4eb3228c5eada0cd7e1&v=4" width="24" alt="Avatar of YZhenY"/> YZhenY
+				<img src="https://private-avatars.githubusercontent.com/u/25172440?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3MDAsIm5iZiI6MTczNDY4NTUwMCwicGF0aCI6Ii91LzI1MTcyNDQwIn0.aEvsAgjb_JvdWeydbM9Wcr22n51NENSPuIpZWCVjqPM&s=72&u=d7fbf85f60e5a09793a1d4eb3228c5eada0cd7e1&v=4" width="24" alt="Avatar of YZhenY"/> YZhenY
 			</a><br/>
 			Zhen
 		</td>
@@ -7978,7 +7978,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>606</td>
 		<td>
 			<a target="_blank" href="https://github.com/niuzhiheng">
-				<img src="https://private-avatars.githubusercontent.com/u/1098101?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE1NDAsIm5iZiI6MTczNDY1MDM0MCwicGF0aCI6Ii91LzEwOTgxMDEifQ.S2M-_xyTMHkRR0LwUiKjvaoysk2Nt9vw_YuN7_OWh3c&s=72&v=4" width="24" alt="Avatar of niuzhiheng"/> niuzhiheng
+				<img src="https://private-avatars.githubusercontent.com/u/1098101?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91LzEwOTgxMDEifQ.N_eZpEKF3fCWU7_75pnLlnDcwJ2gwcNxquJb0YgIl8w&s=72&v=4" width="24" alt="Avatar of niuzhiheng"/> niuzhiheng
 			</a><br/>
 			NIU ZHIHENG
 		</td>
@@ -7991,7 +7991,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>607</td>
 		<td>
 			<a target="_blank" href="https://github.com/pantaovay">
-				<img src="https://private-avatars.githubusercontent.com/u/1916525?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4ODAsIm5iZiI6MTczNDY0OTY4MCwicGF0aCI6Ii91LzE5MTY1MjUifQ.kWMZxQ0UngBln9F3PRn5BPxceVborbJJuJ0tT5f4ZQo&s=72&u=c85832559fb03633b845db1d0cc588bfd186b9af&v=4" width="24" alt="Avatar of pantaovay"/> pantaovay
+				<img src="https://private-avatars.githubusercontent.com/u/1916525?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4ODAsIm5iZiI6MTczNDY4NTY4MCwicGF0aCI6Ii91LzE5MTY1MjUifQ.33aElruEk111yx0A_0LORxYSArkOCEn0XAQt-y1b_kU&s=72&u=c85832559fb03633b845db1d0cc588bfd186b9af&v=4" width="24" alt="Avatar of pantaovay"/> pantaovay
 			</a><br/>
 			Peter Pan
 		</td>
@@ -8004,7 +8004,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>608</td>
 		<td>
 			<a target="_blank" href="https://github.com/johannwyh">
-				<img src="https://private-avatars.githubusercontent.com/u/18141440?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzMDAsIm5iZiI6MTczNDY1MDEwMCwicGF0aCI6Ii91LzE4MTQxNDQwIn0.1TZR4vPnRr011oocId3KDIpgXiLw5xQnD-Sr_0a3jdg&s=72&u=676bfede021352d0e54e20ca0dfa71fe5fa20bb8&v=4" width="24" alt="Avatar of johannwyh"/> johannwyh
+				<img src="https://private-avatars.githubusercontent.com/u/18141440?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODczMDAsIm5iZiI6MTczNDY4NjEwMCwicGF0aCI6Ii91LzE4MTQxNDQwIn0.I8h0RODetFBo06B__iyFE4mMbfM360EDyb6AX8hK3mU&s=72&u=676bfede021352d0e54e20ca0dfa71fe5fa20bb8&v=4" width="24" alt="Avatar of johannwyh"/> johannwyh
 			</a><br/>
 			Yuhan Wang
 		</td>
@@ -8017,7 +8017,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>609</td>
 		<td>
 			<a target="_blank" href="https://github.com/koallen">
-				<img src="https://private-avatars.githubusercontent.com/u/5306869?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEyNDAsIm5iZiI6MTczNDY1MDA0MCwicGF0aCI6Ii91LzUzMDY4NjkifQ.oGwx7kizLsIIczblG4G_stpm9jB6dBOG3L_l-PRnea8&s=72&v=4" width="24" alt="Avatar of koallen"/> koallen
+				<img src="https://private-avatars.githubusercontent.com/u/5306869?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcyNDAsIm5iZiI6MTczNDY4NjA0MCwicGF0aCI6Ii91LzUzMDY4NjkifQ.8W9Z-S_RBFR24GYd0_Gpjd4u9IEVY5VDpYbGpNP68Jw&s=72&v=4" width="24" alt="Avatar of koallen"/> koallen
 			</a><br/>
 			Siyuan Liu
 		</td>
@@ -8030,7 +8030,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>610</td>
 		<td>
 			<a target="_blank" href="https://github.com/antronic">
-				<img src="https://private-avatars.githubusercontent.com/u/2222477?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3MDAsIm5iZiI6MTczNDY0OTUwMCwicGF0aCI6Ii91LzIyMjI0NzcifQ.T8s0Jwcr_XVox_vbRwQeIZc5f2gYEAgtOeytUw2Bh9g&s=72&v=4" width="24" alt="Avatar of antronic"/> antronic
+				<img src="https://private-avatars.githubusercontent.com/u/2222477?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3MDAsIm5iZiI6MTczNDY4NTUwMCwicGF0aCI6Ii91LzIyMjI0NzcifQ.hM3v30ePHb3-2xs0MM1C5VVkWU3EEo4tJbQp6iHiErY&s=72&v=4" width="24" alt="Avatar of antronic"/> antronic
 			</a><br/>
 			Jirachai Chansivanon
 		</td>
@@ -8043,7 +8043,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>611</td>
 		<td>
 			<a target="_blank" href="https://github.com/NsLib">
-				<img src="https://private-avatars.githubusercontent.com/u/2672226?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExMjAsIm5iZiI6MTczNDY0OTkyMCwicGF0aCI6Ii91LzI2NzIyMjYifQ.IGYppapfiyiDjnOcxhegKzNMFoHW0d4DcJnpo5s8D54&s=72&v=4" width="24" alt="Avatar of NsLib"/> NsLib
+				<img src="https://private-avatars.githubusercontent.com/u/2672226?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxMjAsIm5iZiI6MTczNDY4NTkyMCwicGF0aCI6Ii91LzI2NzIyMjYifQ.0TnCPO3xQP6P7Lh2qnadgVtVZEsWodWHBB4N44Ma7Mw&s=72&v=4" width="24" alt="Avatar of NsLib"/> NsLib
 			</a><br/>
 			Dongliang Ma
 		</td>
@@ -8056,7 +8056,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>612</td>
 		<td>
 			<a target="_blank" href="https://github.com/Lowkh">
-				<img src="https://private-avatars.githubusercontent.com/u/54532616?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzMDAsIm5iZiI6MTczNDY1MDEwMCwicGF0aCI6Ii91LzU0NTMyNjE2In0.mw8muMmT8WsiHdAs-_V9bNsU7Ound8xYTMu7pAnqB6w&s=72&u=76e997459898cf293859df864b16870df7e7a8bc&v=4" width="24" alt="Avatar of Lowkh"/> Lowkh
+				<img src="https://private-avatars.githubusercontent.com/u/54532616?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODczMDAsIm5iZiI6MTczNDY4NjEwMCwicGF0aCI6Ii91LzU0NTMyNjE2In0.rCZ5tqOMShFx-omzpvwAv01zXHrG5XRo-x2Q_WsvTBo&s=72&u=76e997459898cf293859df864b16870df7e7a8bc&v=4" width="24" alt="Avatar of Lowkh"/> Lowkh
 			</a><br/>
 			Low
 		</td>
@@ -8069,7 +8069,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>613</td>
 		<td>
 			<a target="_blank" href="https://github.com/tib36">
-				<img src="https://private-avatars.githubusercontent.com/u/92930034?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzkyOTMwMDM0In0.hMmvzG-BmdjMibLyJQrE-qcRrFlQbHqSkDAig-wqdYY&s=72&u=940bcff0131c4080c71760c173202395d979c957&v=4" width="24" alt="Avatar of tib36"/> tib36
+				<img src="https://private-avatars.githubusercontent.com/u/92930034?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxODAsIm5iZiI6MTczNDY4NTk4MCwicGF0aCI6Ii91LzkyOTMwMDM0In0.JaiM0iIjlwYdosmUSvALgwE1HaHsPeEke5bQ8sXoshs&s=72&u=940bcff0131c4080c71760c173202395d979c957&v=4" width="24" alt="Avatar of tib36"/> tib36
 			</a><br/>
 			tib36
 		</td>
@@ -8082,7 +8082,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>614</td>
 		<td>
 			<a target="_blank" href="https://github.com/desmondyeoh">
-				<img src="https://private-avatars.githubusercontent.com/u/9032341?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3MDAsIm5iZiI6MTczNDY0OTUwMCwicGF0aCI6Ii91LzkwMzIzNDEifQ.GOXpiNqxnp9YQr9x91hFuqOOAK_BIAO7TDYHbOmS7Nw&s=72&u=a3f90956c4fecf91c487e9ef5d5f9fd20d02008a&v=4" width="24" alt="Avatar of desmondyeoh"/> desmondyeoh
+				<img src="https://private-avatars.githubusercontent.com/u/9032341?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3MDAsIm5iZiI6MTczNDY4NTUwMCwicGF0aCI6Ii91LzkwMzIzNDEifQ.nn7m1k7bE9jZ_5rYfO8iN3ZyyaBYYGGIc1HC6qp4AJU&s=72&u=a3f90956c4fecf91c487e9ef5d5f9fd20d02008a&v=4" width="24" alt="Avatar of desmondyeoh"/> desmondyeoh
 			</a><br/>
 			Desmond Yeoh
 		</td>
@@ -8095,7 +8095,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>615</td>
 		<td>
 			<a target="_blank" href="https://github.com/jevantang">
-				<img src="https://private-avatars.githubusercontent.com/u/22316055?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE0ODAsIm5iZiI6MTczNDY1MDI4MCwicGF0aCI6Ii91LzIyMzE2MDU1In0.V-FqNCDIwsDNkxo7Xy7Wdobz_QgiNSHlM2l-UfoLJQI&s=72&u=90b12d6f227f445603cffa1c2e96bfb4fd105548&v=4" width="24" alt="Avatar of jevantang"/> jevantang
+				<img src="https://private-avatars.githubusercontent.com/u/22316055?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1ODAsIm5iZiI6MTczNDY4NTM4MCwicGF0aCI6Ii91LzIyMzE2MDU1In0.nLBE8rWJjbkOdO2E0nsdlmVMwJNE1NmbXpGcQQqHlHM&s=72&u=90b12d6f227f445603cffa1c2e96bfb4fd105548&v=4" width="24" alt="Avatar of jevantang"/> jevantang
 			</a><br/>
 			Jevan Tang
 		</td>
@@ -8108,7 +8108,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>616</td>
 		<td>
 			<a target="_blank" href="https://github.com/FinnWoelm">
-				<img src="https://private-avatars.githubusercontent.com/u/7606194?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE0ODAsIm5iZiI6MTczNDY1MDI4MCwicGF0aCI6Ii91Lzc2MDYxOTQifQ.GCUBhqhO3pxxuawHC4McxHrCcTahm2Za5-AwDWEEXfw&s=72&u=5bf7e7855ffddb1e9d03c2233b8cd39c2d3a8833&v=4" width="24" alt="Avatar of FinnWoelm"/> FinnWoelm
+				<img src="https://private-avatars.githubusercontent.com/u/7606194?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1ODAsIm5iZiI6MTczNDY4NTM4MCwicGF0aCI6Ii91Lzc2MDYxOTQifQ.V3SriNFwQwJUTvoFQVlhhGbRp-JdY_2mETbdnNrw1mk&s=72&u=5bf7e7855ffddb1e9d03c2233b8cd39c2d3a8833&v=4" width="24" alt="Avatar of FinnWoelm"/> FinnWoelm
 			</a><br/>
 			Finn Woelm
 		</td>
@@ -8121,7 +8121,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>617</td>
 		<td>
 			<a target="_blank" href="https://github.com/benjypng">
-				<img src="https://private-avatars.githubusercontent.com/u/47936793?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE1NDAsIm5iZiI6MTczNDY1MDM0MCwicGF0aCI6Ii91LzQ3OTM2NzkzIn0.Fkvvx2cfyvC9nXGmTj9YaDv4_DMEhORrwDsqF73uVQ0&s=72&u=869ca490ac8492cdc3ce77ad6d181e7cb109db1d&v=4" width="24" alt="Avatar of benjypng"/> benjypng
+				<img src="https://private-avatars.githubusercontent.com/u/47936793?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91LzQ3OTM2NzkzIn0.qoNPp4tojZJyoM_Pdqy3njhcm-DV_8Up2LRcMIEuoYo&s=72&u=869ca490ac8492cdc3ce77ad6d181e7cb109db1d&v=4" width="24" alt="Avatar of benjypng"/> benjypng
 			</a><br/>
 			No Name
 		</td>
@@ -8134,7 +8134,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>618</td>
 		<td>
 			<a target="_blank" href="https://github.com/raivatshah">
-				<img src="https://private-avatars.githubusercontent.com/u/29497717?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEyNDAsIm5iZiI6MTczNDY1MDA0MCwicGF0aCI6Ii91LzI5NDk3NzE3In0.5oZ9TlNLedA1BoXwUVixBPJC9XkZHi35jjqSLlcWleU&s=72&u=6fcca9a8318ab23233c85c1976ed8384ebb3c498&v=4" width="24" alt="Avatar of raivatshah"/> raivatshah
+				<img src="https://private-avatars.githubusercontent.com/u/29497717?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcyNDAsIm5iZiI6MTczNDY4NjA0MCwicGF0aCI6Ii91LzI5NDk3NzE3In0.3yd6l5Ex9KopiQKSolkLmMCmmPn2hdP0ZFJaJ5ELPlM&s=72&u=6fcca9a8318ab23233c85c1976ed8384ebb3c498&v=4" width="24" alt="Avatar of raivatshah"/> raivatshah
 			</a><br/>
 			Raivat Shah
 		</td>
@@ -8146,21 +8146,8 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 	<tr>
 		<td>619</td>
 		<td>
-			<a target="_blank" href="https://github.com/GIANTCRAB">
-				<img src="https://private-avatars.githubusercontent.com/u/1075708?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzNjAsIm5iZiI6MTczNDY1MDE2MCwicGF0aCI6Ii91LzEwNzU3MDgifQ.8PmJ7o7WdFzF0-RNEEGSol3V3CTVzl8bR8tIHCsb_tQ&s=72&u=820ac5d86ccb997fa4df0714f533e5baeddb677b&v=4" width="24" alt="Avatar of GIANTCRAB"/> GIANTCRAB
-			</a><br/>
-			Huiren Woo
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/woohuiren">woohuiren</a></td>
-		<td>Singapore</td>
-		<td>104</td>
-	</tr>
-	<tr>
-		<td>620</td>
-		<td>
 			<a target="_blank" href="https://github.com/teohm">
-				<img src="https://private-avatars.githubusercontent.com/u/164703?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE0MjAsIm5iZiI6MTczNDY1MDIyMCwicGF0aCI6Ii91LzE2NDcwMyJ9.qr8oYh1ezoQOrupI9HJSBAY-9DmgKXpz0hkI2cVGxOw&s=72&v=4" width="24" alt="Avatar of teohm"/> teohm
+				<img src="https://private-avatars.githubusercontent.com/u/164703?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODc0MjAsIm5iZiI6MTczNDY4NjIyMCwicGF0aCI6Ii91LzE2NDcwMyJ9.wX3r-8wSLxazpaYlXf4xCmc6eaXWjc65p78dVUpZgf8&s=72&v=4" width="24" alt="Avatar of teohm"/> teohm
 			</a><br/>
 			Huiming Teo
 		</td>
@@ -8170,10 +8157,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>104</td>
 	</tr>
 	<tr>
-		<td>621</td>
+		<td>620</td>
 		<td>
 			<a target="_blank" href="https://github.com/oahzxl">
-				<img src="https://private-avatars.githubusercontent.com/u/43881818?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExMjAsIm5iZiI6MTczNDY0OTkyMCwicGF0aCI6Ii91LzQzODgxODE4In0.OTRNeZdtRhEOQry8UlTvpTa3fgvrqkmU6cJXxyK7SxE&s=72&u=9cc385e5f2d718d77585e00e39b6ab629462a52a&v=4" width="24" alt="Avatar of oahzxl"/> oahzxl
+				<img src="https://private-avatars.githubusercontent.com/u/43881818?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxMjAsIm5iZiI6MTczNDY4NTkyMCwicGF0aCI6Ii91LzQzODgxODE4In0.zfUoZfrAsHNbXlkSx1NhmL-5244bOPmVLwcaCvmHJs8&s=72&u=9cc385e5f2d718d77585e00e39b6ab629462a52a&v=4" width="24" alt="Avatar of oahzxl"/> oahzxl
 			</a><br/>
 			Xuanlei Zhao
 		</td>
@@ -8183,10 +8170,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>104</td>
 	</tr>
 	<tr>
-		<td>622</td>
+		<td>621</td>
 		<td>
 			<a target="_blank" href="https://github.com/Neoanarika">
-				<img src="https://private-avatars.githubusercontent.com/u/5188337?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3NjAsIm5iZiI6MTczNDY0OTU2MCwicGF0aCI6Ii91LzUxODgzMzcifQ.mxnB_oIz1qLlomBXQXmqcAtTROuJNjLDrWXdIYtnjvA&s=72&u=8fcdcd016f0c08c7d2d12f8663a2221d3228753c&v=4" width="24" alt="Avatar of Neoanarika"/> Neoanarika
+				<img src="https://private-avatars.githubusercontent.com/u/5188337?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91LzUxODgzMzcifQ.KaJhrftUiFoq6CLkNSXcH2_lhBUGHVBW4TqAEB3A38c&s=72&u=8fcdcd016f0c08c7d2d12f8663a2221d3228753c&v=4" width="24" alt="Avatar of Neoanarika"/> Neoanarika
 			</a><br/>
 			Ang Ming Liang
 		</td>
@@ -8196,10 +8183,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>104</td>
 	</tr>
 	<tr>
-		<td>623</td>
+		<td>622</td>
 		<td>
 			<a target="_blank" href="https://github.com/vincentneo">
-				<img src="https://private-avatars.githubusercontent.com/u/23420208?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA5NDAsIm5iZiI6MTczNDY0OTc0MCwicGF0aCI6Ii91LzIzNDIwMjA4In0.QXD6y_mIv8LrTr86JEAj5bj_x7XTLxMaQFxAkVlHVEQ&s=72&u=e6ffb39b959bb998f1167dd8617ba05ede83865e&v=4" width="24" alt="Avatar of vincentneo"/> vincentneo
+				<img src="https://private-avatars.githubusercontent.com/u/23420208?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY5NDAsIm5iZiI6MTczNDY4NTc0MCwicGF0aCI6Ii91LzIzNDIwMjA4In0.x-QY0eWQIJ1SmKmOehap0d3-YR4U8xDKFxX2eE68S9g&s=72&u=e6ffb39b959bb998f1167dd8617ba05ede83865e&v=4" width="24" alt="Avatar of vincentneo"/> vincentneo
 			</a><br/>
 			Vincent Neo
 		</td>
@@ -8209,10 +8196,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>104</td>
 	</tr>
 	<tr>
-		<td>624</td>
+		<td>623</td>
 		<td>
 			<a target="_blank" href="https://github.com/yjsoon">
-				<img src="https://private-avatars.githubusercontent.com/u/126824?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzMDAsIm5iZiI6MTczNDY1MDEwMCwicGF0aCI6Ii91LzEyNjgyNCJ9.K_lAf54o7g2Cx8UU04H94fYVzgwIjK6ut6eOsRAycAo&s=72&u=dd01a6f6f38717fe478fcec1542d601501aa5f69&v=4" width="24" alt="Avatar of yjsoon"/> yjsoon
+				<img src="https://private-avatars.githubusercontent.com/u/126824?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODczMDAsIm5iZiI6MTczNDY4NjEwMCwicGF0aCI6Ii91LzEyNjgyNCJ9.sikaTQJAKEepHjT9LgF16z-1FDsgxpl6_0MzUWg7wbw&s=72&u=dd01a6f6f38717fe478fcec1542d601501aa5f69&v=4" width="24" alt="Avatar of yjsoon"/> yjsoon
 			</a><br/>
 			YJ Soon
 		</td>
@@ -8222,10 +8209,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>104</td>
 	</tr>
 	<tr>
-		<td>625</td>
+		<td>624</td>
 		<td>
 			<a target="_blank" href="https://github.com/saucam">
-				<img src="https://private-avatars.githubusercontent.com/u/1253893?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzEyNTM4OTMifQ.SKjjdALiRoG2QeN2fVl8Pw-j6RNme6fV91nxAdvK0yw&s=72&u=f2939e608cc26eb98c427c12a4f49738158b32c5&v=4" width="24" alt="Avatar of saucam"/> saucam
+				<img src="https://private-avatars.githubusercontent.com/u/1253893?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzEyNTM4OTMifQ.hjinbpwVCpBshqd-tD49LMDuRuftkKL-z0mduxS8Wr4&s=72&u=f2939e608cc26eb98c427c12a4f49738158b32c5&v=4" width="24" alt="Avatar of saucam"/> saucam
 			</a><br/>
 			Yash Datta
 		</td>
@@ -8235,10 +8222,23 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>103</td>
 	</tr>
 	<tr>
+		<td>625</td>
+		<td>
+			<a target="_blank" href="https://github.com/GIANTCRAB">
+				<img src="https://private-avatars.githubusercontent.com/u/1075708?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODczNjAsIm5iZiI6MTczNDY4NjE2MCwicGF0aCI6Ii91LzEwNzU3MDgifQ.xchBjNJPL3CIP6qoSeD07GWYcC9hevGnFAjnqZU18mA&s=72&u=820ac5d86ccb997fa4df0714f533e5baeddb677b&v=4" width="24" alt="Avatar of GIANTCRAB"/> GIANTCRAB
+			</a><br/>
+			Huiren Woo
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/woohuiren">woohuiren</a></td>
+		<td>Singapore</td>
+		<td>103</td>
+	</tr>
+	<tr>
 		<td>626</td>
 		<td>
 			<a target="_blank" href="https://github.com/Marsrocky">
-				<img src="https://private-avatars.githubusercontent.com/u/9799301?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91Lzk3OTkzMDEifQ.m2RxPOsS4hF72THRiC8LupMCN0SxA1rr3bwJb04u2-s&s=72&u=46270e6fab84951ec9dd16f2584d78a309f337a6&v=4" width="24" alt="Avatar of Marsrocky"/> Marsrocky
+				<img src="https://private-avatars.githubusercontent.com/u/9799301?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxODAsIm5iZiI6MTczNDY4NTk4MCwicGF0aCI6Ii91Lzk3OTkzMDEifQ.7N4bB0ZgKivSee2HWEFeExvhxFw5RmMPqaGE2weXLrw&s=72&u=46270e6fab84951ec9dd16f2584d78a309f337a6&v=4" width="24" alt="Avatar of Marsrocky"/> Marsrocky
 			</a><br/>
 			Jianfei Yang
 		</td>
@@ -8251,7 +8251,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>627</td>
 		<td>
 			<a target="_blank" href="https://github.com/OrionStar25">
-				<img src="https://private-avatars.githubusercontent.com/u/28835849?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3MDAsIm5iZiI6MTczNDY0OTUwMCwicGF0aCI6Ii91LzI4ODM1ODQ5In0.nPyOUDd5MJN1u77iMcX5LK78e1NvtY4JQKZwXTy73a4&s=72&u=17b486a6a7b81b528ecc45517afd9e449911b20e&v=4" width="24" alt="Avatar of OrionStar25"/> OrionStar25
+				<img src="https://private-avatars.githubusercontent.com/u/28835849?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3MDAsIm5iZiI6MTczNDY4NTUwMCwicGF0aCI6Ii91LzI4ODM1ODQ5In0.krDmtMpumLUtoPWbgHe3Ytkh2mWMzwEYjrH_UXl3Ffc&s=72&u=17b486a6a7b81b528ecc45517afd9e449911b20e&v=4" width="24" alt="Avatar of OrionStar25"/> OrionStar25
 			</a><br/>
 			Niharika Shrivastava
 		</td>
@@ -8264,7 +8264,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>628</td>
 		<td>
 			<a target="_blank" href="https://github.com/TheCharmingSociopath">
-				<img src="https://private-avatars.githubusercontent.com/u/30972106?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzNjAsIm5iZiI6MTczNDY1MDE2MCwicGF0aCI6Ii91LzMwOTcyMTA2In0.rzTYV12GxUAiklCHyoLSC_HG3kd1yzJ34XNiRr_eWAY&s=72&u=1707379611aca9b0fa169ce486362fb4f68de54d&v=4" width="24" alt="Avatar of TheCharmingSociopath"/> TheCharmingSociopath
+				<img src="https://private-avatars.githubusercontent.com/u/30972106?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODczNjAsIm5iZiI6MTczNDY4NjE2MCwicGF0aCI6Ii91LzMwOTcyMTA2In0._4p0wy3Ju9yd5vjhgk5nWlQsYxJpoOGCXZ088bBsMOs&s=72&u=1707379611aca9b0fa169ce486362fb4f68de54d&v=4" width="24" alt="Avatar of TheCharmingSociopath"/> TheCharmingSociopath
 			</a><br/>
 			Aditya Morolia
 		</td>
@@ -8276,21 +8276,8 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 	<tr>
 		<td>629</td>
 		<td>
-			<a target="_blank" href="https://github.com/geekyme">
-				<img src="https://private-avatars.githubusercontent.com/u/977460?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzNjAsIm5iZiI6MTczNDY1MDE2MCwicGF0aCI6Ii91Lzk3NzQ2MCJ9.jCVHvr6unnqXK445AneZuDa71MiLRzh6YIyNWnbBmVc&s=72&u=4c596d68356e8a70fa5cd1b3088290afd0cb1fda&v=4" width="24" alt="Avatar of geekyme"/> geekyme
-			</a><br/>
-			Shawn Lim
-		</td>
-		<td>Storylineio </td>
-		<td>No Twitter Username</td>
-		<td>Singapore</td>
-		<td>103</td>
-	</tr>
-	<tr>
-		<td>630</td>
-		<td>
 			<a target="_blank" href="https://github.com/poemsk">
-				<img src="https://private-avatars.githubusercontent.com/u/7620389?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA5NDAsIm5iZiI6MTczNDY0OTc0MCwicGF0aCI6Ii91Lzc2MjAzODkifQ.yuIyMeA7TzLTTJOjZ-B5XU-Tisw7WAPRWNi70TEUvHM&s=72&u=dfc0398bbed67174ecec77150dda7151c59a68db&v=4" width="24" alt="Avatar of poemsk"/> poemsk
+				<img src="https://private-avatars.githubusercontent.com/u/7620389?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY5NDAsIm5iZiI6MTczNDY4NTc0MCwicGF0aCI6Ii91Lzc2MjAzODkifQ.zZ1TcV8Lt-DBZ2NzWKdhJHrcric3uChMpzBaVOrU9WU&s=72&u=dfc0398bbed67174ecec77150dda7151c59a68db&v=4" width="24" alt="Avatar of poemsk"/> poemsk
 			</a><br/>
 			Poe
 		</td>
@@ -8300,10 +8287,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>103</td>
 	</tr>
 	<tr>
-		<td>631</td>
+		<td>630</td>
 		<td>
 			<a target="_blank" href="https://github.com/jckdotim">
-				<img src="https://private-avatars.githubusercontent.com/u/276766?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzI3Njc2NiJ9.rLDrFSdh5oJ401xtms8jILV-4L0kOyyJOOaCKUINGMg&s=72&u=5afffb343987f5d19790ecda2de563e6c073102e&v=4" width="24" alt="Avatar of jckdotim"/> jckdotim
+				<img src="https://private-avatars.githubusercontent.com/u/276766?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzI3Njc2NiJ9.la8UeQjqzD7sz1Vdgwgc_iGW1BG-eTpfHHs42zEYz_4&s=72&u=5afffb343987f5d19790ecda2de563e6c073102e&v=4" width="24" alt="Avatar of jckdotim"/> jckdotim
 			</a><br/>
 			jckimxyz
 		</td>
@@ -8313,10 +8300,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>103</td>
 	</tr>
 	<tr>
-		<td>632</td>
+		<td>631</td>
 		<td>
 			<a target="_blank" href="https://github.com/Ye-D">
-				<img src="https://private-avatars.githubusercontent.com/u/23722139?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE1NDAsIm5iZiI6MTczNDY1MDM0MCwicGF0aCI6Ii91LzIzNzIyMTM5In0.ykUCuj13sDKJAbDLTabsrzFx5h2ZHF8UGCU4N0tp1d4&s=72&v=4" width="24" alt="Avatar of Ye-D"/> Ye-D
+				<img src="https://private-avatars.githubusercontent.com/u/23722139?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91LzIzNzIyMTM5In0.B8wj3zVDSYZ4PlOveBIVvurw4vRAe8RDKpYXCP3S2-4&s=72&v=4" width="24" alt="Avatar of Ye-D"/> Ye-D
 			</a><br/>
 			YDong
 		</td>
@@ -8326,10 +8313,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>103</td>
 	</tr>
 	<tr>
-		<td>633</td>
+		<td>632</td>
 		<td>
 			<a target="_blank" href="https://github.com/MisakaFxxk">
-				<img src="https://private-avatars.githubusercontent.com/u/120639837?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3MDAsIm5iZiI6MTczNDY0OTUwMCwicGF0aCI6Ii91LzEyMDYzOTgzNyJ9.1hh9N9OxubnkO3k_OgmvzEXS5GZIu9jDxCB4Iv0n52s&s=72&u=598e62693ae833384160bb8e571f3987493ea307&v=4" width="24" alt="Avatar of MisakaFxxk"/> MisakaFxxk
+				<img src="https://private-avatars.githubusercontent.com/u/120639837?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3MDAsIm5iZiI6MTczNDY4NTUwMCwicGF0aCI6Ii91LzEyMDYzOTgzNyJ9.yEOOqWYCgJ6WDehJLp7K40-HeeBdxjmCGwQ96HE39jU&s=72&u=598e62693ae833384160bb8e571f3987493ea307&v=4" width="24" alt="Avatar of MisakaFxxk"/> MisakaFxxk
 			</a><br/>
 			No Name
 		</td>
@@ -8339,10 +8326,23 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>103</td>
 	</tr>
 	<tr>
+		<td>633</td>
+		<td>
+			<a target="_blank" href="https://github.com/juchengquan">
+				<img src="https://private-avatars.githubusercontent.com/u/34294876?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwMDAsIm5iZiI6MTczNDY4NTgwMCwicGF0aCI6Ii91LzM0Mjk0ODc2In0.DAHwTzP4NWgh-a9G6YFBI7OeaLoaTy1KFmaI1gw3LjQ&s=72&u=8a754ed8ad9432ce754853e08e117e262b53be79&v=4" width="24" alt="Avatar of juchengquan"/> juchengquan
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Singapore</td>
+		<td>103</td>
+	</tr>
+	<tr>
 		<td>634</td>
 		<td>
 			<a target="_blank" href="https://github.com/roman10">
-				<img src="https://private-avatars.githubusercontent.com/u/720042?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzMDAsIm5iZiI6MTczNDY1MDEwMCwicGF0aCI6Ii91LzcyMDA0MiJ9.5bIr14PDbi3PouWWO9Q8YKB-nQgrAeV_KzdXypdoHnU&s=72&v=4" width="24" alt="Avatar of roman10"/> roman10
+				<img src="https://private-avatars.githubusercontent.com/u/720042?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODczMDAsIm5iZiI6MTczNDY4NjEwMCwicGF0aCI6Ii91LzcyMDA0MiJ9.atoU_d9L89Mz88d-NGKWWniFHeiz-MqwvqiygoH_JvY&s=72&v=4" width="24" alt="Avatar of roman10"/> roman10
 			</a><br/>
 			roman10
 		</td>
@@ -8354,34 +8354,21 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 	<tr>
 		<td>635</td>
 		<td>
-			<a target="_blank" href="https://github.com/kirandash">
-				<img src="https://private-avatars.githubusercontent.com/u/13310363?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3NjAsIm5iZiI6MTczNDY0OTU2MCwicGF0aCI6Ii91LzEzMzEwMzYzIn0.Zui7JxkyP_tJRVFOiwbpDX17LV5BSKjtGsR-3WouVQg&s=72&u=1380bbee45bd6de6402695f386dcd6b75edbefb6&v=4" width="24" alt="Avatar of kirandash"/> kirandash
+			<a target="_blank" href="https://github.com/geekyme">
+				<img src="https://private-avatars.githubusercontent.com/u/977460?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODczNjAsIm5iZiI6MTczNDY4NjE2MCwicGF0aCI6Ii91Lzk3NzQ2MCJ9.Kdtn1dHZCMzioj8DzyS3U9UzfQhlV8OV5M76lnkzLB0&s=72&u=4c596d68356e8a70fa5cd1b3088290afd0cb1fda&v=4" width="24" alt="Avatar of geekyme"/> geekyme
 			</a><br/>
-			Kiran Dash
+			Shawn Lim
 		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/kirankdash">kirankdash</a></td>
+		<td>Storylineio </td>
+		<td>No Twitter Username</td>
 		<td>Singapore</td>
 		<td>102</td>
 	</tr>
 	<tr>
 		<td>636</td>
 		<td>
-			<a target="_blank" href="https://github.com/juchengquan">
-				<img src="https://private-avatars.githubusercontent.com/u/34294876?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwMDAsIm5iZiI6MTczNDY0OTgwMCwicGF0aCI6Ii91LzM0Mjk0ODc2In0.n_NuNmlg2b3-NeX2il70ODwU2kM1vGZewrWWffIBv4Y&s=72&u=8a754ed8ad9432ce754853e08e117e262b53be79&v=4" width="24" alt="Avatar of juchengquan"/> juchengquan
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Singapore</td>
-		<td>102</td>
-	</tr>
-	<tr>
-		<td>637</td>
-		<td>
 			<a target="_blank" href="https://github.com/hzjken">
-				<img src="https://private-avatars.githubusercontent.com/u/30411828?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE0ODAsIm5iZiI6MTczNDY1MDI4MCwicGF0aCI6Ii91LzMwNDExODI4In0.k-tu1m1A_Q9oHeLwSzi8byjoOr4Z4Nruo8dA33PeT5w&s=72&u=fa20fcb77d2dd5b93133b002fc74f78917ddbd00&v=4" width="24" alt="Avatar of hzjken"/> hzjken
+				<img src="https://private-avatars.githubusercontent.com/u/30411828?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1ODAsIm5iZiI6MTczNDY4NTM4MCwicGF0aCI6Ii91LzMwNDExODI4In0.JlzPasNS3L7gWsYU4SC6hhkKOtdriZJ013a-iWwuUtQ&s=72&u=fa20fcb77d2dd5b93133b002fc74f78917ddbd00&v=4" width="24" alt="Avatar of hzjken"/> hzjken
 			</a><br/>
 			Ken Huang
 		</td>
@@ -8391,10 +8378,23 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>102</td>
 	</tr>
 	<tr>
+		<td>637</td>
+		<td>
+			<a target="_blank" href="https://github.com/kirandash">
+				<img src="https://private-avatars.githubusercontent.com/u/13310363?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91LzEzMzEwMzYzIn0.PMXqbeRows2CBF1EN2_DbYAVVa4T3BS8EGRQK_35_do&s=72&u=1380bbee45bd6de6402695f386dcd6b75edbefb6&v=4" width="24" alt="Avatar of kirandash"/> kirandash
+			</a><br/>
+			Kiran Dash
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/kirankdash">kirankdash</a></td>
+		<td>Singapore</td>
+		<td>101</td>
+	</tr>
+	<tr>
 		<td>638</td>
 		<td>
 			<a target="_blank" href="https://github.com/allanchua101">
-				<img src="https://private-avatars.githubusercontent.com/u/26626798?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzI2NjI2Nzk4In0.3KlOJjb5LA3oxw88KP19aU8PDKEpZyOwylCLVIWvYJ4&s=72&u=b0490a22becd366d0e7ca800398aba4d08703c19&v=4" width="24" alt="Avatar of allanchua101"/> allanchua101
+				<img src="https://private-avatars.githubusercontent.com/u/26626798?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzI2NjI2Nzk4In0.03XTABA1h_OCgTh9gkA14dJia6ioa9E0ROyTH5eKXp0&s=72&u=b0490a22becd366d0e7ca800398aba4d08703c19&v=4" width="24" alt="Avatar of allanchua101"/> allanchua101
 			</a><br/>
 			Allan Chua
 		</td>
@@ -8407,7 +8407,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>639</td>
 		<td>
 			<a target="_blank" href="https://github.com/bobby-lin">
-				<img src="https://private-avatars.githubusercontent.com/u/12782269?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4MjAsIm5iZiI6MTczNDY0OTYyMCwicGF0aCI6Ii91LzEyNzgyMjY5In0.kS4FyBAyodfz6C-NugsheNbcp1rJBnrl7co-azJtdRg&s=72&v=4" width="24" alt="Avatar of bobby-lin"/> bobby-lin
+				<img src="https://private-avatars.githubusercontent.com/u/12782269?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4MjAsIm5iZiI6MTczNDY4NTYyMCwicGF0aCI6Ii91LzEyNzgyMjY5In0.hd9eZ7aI2uM2Mhhs6rqR3CSVtyOkly4hL61xOR9m7nA&s=72&v=4" width="24" alt="Avatar of bobby-lin"/> bobby-lin
 			</a><br/>
 			Bobby Lin
 		</td>
@@ -8420,7 +8420,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>640</td>
 		<td>
 			<a target="_blank" href="https://github.com/Mini-Ware">
-				<img src="https://private-avatars.githubusercontent.com/u/67500556?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEyNDAsIm5iZiI6MTczNDY1MDA0MCwicGF0aCI6Ii91LzY3NTAwNTU2In0.M1PKBPx9bG7y3J7WVBDWpfcCHbj3sNJ7gSqEPVDkON4&s=72&u=2d0aa13afdc0f61a54894266650a813340e0a3b5&v=4" width="24" alt="Avatar of Mini-Ware"/> Mini-Ware
+				<img src="https://private-avatars.githubusercontent.com/u/67500556?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcyNDAsIm5iZiI6MTczNDY4NjA0MCwicGF0aCI6Ii91LzY3NTAwNTU2In0.UekDdTy9UfHQcFSiTuAC-kKgy5ZtdsDkdAkwuw-JCOM&s=72&u=2d0aa13afdc0f61a54894266650a813340e0a3b5&v=4" width="24" alt="Avatar of Mini-Ware"/> Mini-Ware
 			</a><br/>
 			Mini Ware
 		</td>
@@ -8433,7 +8433,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>641</td>
 		<td>
 			<a target="_blank" href="https://github.com/hueyy">
-				<img src="https://private-avatars.githubusercontent.com/u/6523121?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA5NDAsIm5iZiI6MTczNDY0OTc0MCwicGF0aCI6Ii91LzY1MjMxMjEifQ.2JbyqfMYnSIT2D5m2ffjyDbqN8Co5bpKSCd8YOVm8Ko&s=72&u=017448c52d1fee302f9c1f38f12ff60e5a1d0935&v=4" width="24" alt="Avatar of hueyy"/> hueyy
+				<img src="https://private-avatars.githubusercontent.com/u/6523121?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY5NDAsIm5iZiI6MTczNDY4NTc0MCwicGF0aCI6Ii91LzY1MjMxMjEifQ.jlRY7gJN7F2tYvsYZAY15FsmFL7CZ4d5mMWxZBixajc&s=72&u=017448c52d1fee302f9c1f38f12ff60e5a1d0935&v=4" width="24" alt="Avatar of hueyy"/> hueyy
 			</a><br/>
 			Huey
 		</td>
@@ -8446,7 +8446,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>642</td>
 		<td>
 			<a target="_blank" href="https://github.com/ncduy0303">
-				<img src="https://private-avatars.githubusercontent.com/u/29711188?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzI5NzExMTg4In0.N2vstrq_l_PsYoAb9JH4c1oh6NvDN-Cd9YwIdcEoJro&s=72&u=9cd4256c3e4df4bdb095d5fa672f450fe10b063d&v=4" width="24" alt="Avatar of ncduy0303"/> ncduy0303
+				<img src="https://private-avatars.githubusercontent.com/u/29711188?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxODAsIm5iZiI6MTczNDY4NTk4MCwicGF0aCI6Ii91LzI5NzExMTg4In0.4EtQPju8FVkXZzSQ3eVWbGhO81-h25TtSh7VLuM2tb8&s=72&u=9cd4256c3e4df4bdb095d5fa672f450fe10b063d&v=4" width="24" alt="Avatar of ncduy0303"/> ncduy0303
 			</a><br/>
 			Nguyen Cao Duy
 		</td>
@@ -8459,7 +8459,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>643</td>
 		<td>
 			<a target="_blank" href="https://github.com/balaprasanna">
-				<img src="https://private-avatars.githubusercontent.com/u/5206401?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3NjAsIm5iZiI6MTczNDY0OTU2MCwicGF0aCI6Ii91LzUyMDY0MDEifQ.ql-7Uk33WXtEKdzF6GHwFhb1GMgJjuTdujj95_o9Utc&s=72&u=cb5e32a932a2936e664c226ad14442eeb4000eaa&v=4" width="24" alt="Avatar of balaprasanna"/> balaprasanna
+				<img src="https://private-avatars.githubusercontent.com/u/5206401?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91LzUyMDY0MDEifQ.7PXgmZajEN9NyQ_IXWfSTPhu-Ui6HLmKOfy6zkr-hCU&s=72&u=cb5e32a932a2936e664c226ad14442eeb4000eaa&v=4" width="24" alt="Avatar of balaprasanna"/> balaprasanna
 			</a><br/>
 			prasanna
 		</td>
@@ -8472,7 +8472,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>644</td>
 		<td>
 			<a target="_blank" href="https://github.com/PengXing">
-				<img src="https://private-avatars.githubusercontent.com/u/527244?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzMDAsIm5iZiI6MTczNDY1MDEwMCwicGF0aCI6Ii91LzUyNzI0NCJ9.9w2O_t3HfLf0AgSWgEIZdii1PRGk_BI1SbQLXT3tswE&s=72&u=f1e407f2fa287808c50cd26ea7bd87ef6a4254e1&v=4" width="24" alt="Avatar of PengXing"/> PengXing
+				<img src="https://private-avatars.githubusercontent.com/u/527244?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODczMDAsIm5iZiI6MTczNDY4NjEwMCwicGF0aCI6Ii91LzUyNzI0NCJ9.f9Imxm63RZEW8odrz7-nHjmp-cO6a7KhsSa5nWJu6-8&s=72&u=f1e407f2fa287808c50cd26ea7bd87ef6a4254e1&v=4" width="24" alt="Avatar of PengXing"/> PengXing
 			</a><br/>
 			PENG XINGYongdi Yu
 		</td>
@@ -8485,7 +8485,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>645</td>
 		<td>
 			<a target="_blank" href="https://github.com/frankyaorenjie">
-				<img src="https://private-avatars.githubusercontent.com/u/1437241?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA5NDAsIm5iZiI6MTczNDY0OTc0MCwicGF0aCI6Ii91LzE0MzcyNDEifQ.RLmMs3Rs-b7tYzntAahKtPAZwLQ_ZZd0n7mOIrfV-84&s=72&u=788903919172b202e8f634bc008f9d50a1a46bf3&v=4" width="24" alt="Avatar of frankyaorenjie"/> frankyaorenjie
+				<img src="https://private-avatars.githubusercontent.com/u/1437241?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY5NDAsIm5iZiI6MTczNDY4NTc0MCwicGF0aCI6Ii91LzE0MzcyNDEifQ.s1_pdaE4ecKYjHmk1bGWM_0i8s7Na1UpZifS1MGguZs&s=72&u=788903919172b202e8f634bc008f9d50a1a46bf3&v=4" width="24" alt="Avatar of frankyaorenjie"/> frankyaorenjie
 			</a><br/>
 			Yao Ren Jie
 		</td>
@@ -8497,8 +8497,21 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 	<tr>
 		<td>646</td>
 		<td>
+			<a target="_blank" href="https://github.com/pufanyi">
+				<img src="https://private-avatars.githubusercontent.com/u/44887683?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxMjAsIm5iZiI6MTczNDY4NTkyMCwicGF0aCI6Ii91LzQ0ODg3NjgzIn0.9Il8-ggwXMSMcWSN4MAv5R6eEGL6ATvWYceAkRwE7KQ&s=72&u=e5e8d7300f19e1eddeaa671744937bde4107b307&v=4" width="24" alt="Avatar of pufanyi"/> pufanyi
+			</a><br/>
+			Pu Fanyi
+		</td>
+		<td>Nanyang Technology University </td>
+		<td>No Twitter Username</td>
+		<td>Singapore</td>
+		<td>100</td>
+	</tr>
+	<tr>
+		<td>647</td>
+		<td>
 			<a target="_blank" href="https://github.com/mxgrey">
-				<img src="https://private-avatars.githubusercontent.com/u/1307217?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzEzMDcyMTcifQ.EXka6JwMHqIiq6oSoGaW-0y3OK8JOHCUdTv7MJu7lGQ&s=72&v=4" width="24" alt="Avatar of mxgrey"/> mxgrey
+				<img src="https://private-avatars.githubusercontent.com/u/1307217?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxODAsIm5iZiI6MTczNDY4NTk4MCwicGF0aCI6Ii91LzEzMDcyMTcifQ.oTZXg4DaScmkKU4O1VWK09NbupWRLfsIgJxRoIYWjtI&s=72&v=4" width="24" alt="Avatar of mxgrey"/> mxgrey
 			</a><br/>
 			Grey
 		</td>
@@ -8508,10 +8521,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>100</td>
 	</tr>
 	<tr>
-		<td>647</td>
+		<td>648</td>
 		<td>
 			<a target="_blank" href="https://github.com/MJeremy2017">
-				<img src="https://private-avatars.githubusercontent.com/u/30922701?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4MjAsIm5iZiI6MTczNDY0OTYyMCwicGF0aCI6Ii91LzMwOTIyNzAxIn0.j_5XV2H65VvJRSDd7v1xDzvhEQFxFKRXqueLrERU1Ok&s=72&u=130490fed596154fb48034e02e66681a7f3f752f&v=4" width="24" alt="Avatar of MJeremy2017"/> MJeremy2017
+				<img src="https://private-avatars.githubusercontent.com/u/30922701?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4MjAsIm5iZiI6MTczNDY4NTYyMCwicGF0aCI6Ii91LzMwOTIyNzAxIn0.TGwoiI4lF2B3agrH9rsditDB97GrSJ8Ek2umyLdLj5o&s=72&u=130490fed596154fb48034e02e66681a7f3f752f&v=4" width="24" alt="Avatar of MJeremy2017"/> MJeremy2017
 			</a><br/>
 			Jeremy Zhang
 		</td>
@@ -8521,10 +8534,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>100</td>
 	</tr>
 	<tr>
-		<td>648</td>
+		<td>649</td>
 		<td>
 			<a target="_blank" href="https://github.com/Benjamin-eecs">
-				<img src="https://private-avatars.githubusercontent.com/u/32269413?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzMyMjY5NDEzIn0.GRAFNierENtNBTkmVDQv8qZmdjSv363y9EyYmHrjtWU&s=72&u=4a357152d8d9e2e5f4331b8562298da10e1e24d4&v=4" width="24" alt="Avatar of Benjamin-eecs"/> Benjamin-eecs
+				<img src="https://private-avatars.githubusercontent.com/u/32269413?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxODAsIm5iZiI6MTczNDY4NTk4MCwicGF0aCI6Ii91LzMyMjY5NDEzIn0.RCV9OS7uqGmojEXzGlN1cA7465WGqs54cUoNJ5VSj4w&s=72&u=4a357152d8d9e2e5f4331b8562298da10e1e24d4&v=4" width="24" alt="Avatar of Benjamin-eecs"/> Benjamin-eecs
 			</a><br/>
 			Bo Liu
 		</td>
@@ -8534,23 +8547,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>100</td>
 	</tr>
 	<tr>
-		<td>649</td>
-		<td>
-			<a target="_blank" href="https://github.com/enghwa">
-				<img src="https://private-avatars.githubusercontent.com/u/7866724?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4ODAsIm5iZiI6MTczNDY0OTY4MCwicGF0aCI6Ii91Lzc4NjY3MjQifQ.rJ-3UGGSxX_XPaGCTxFmvEW8G_v6U-gsHvkAbz8_nLk&s=72&u=5fcdf9125c39951850c60c60ba73cb0f7772a164&v=4" width="24" alt="Avatar of enghwa"/> enghwa
-			</a><br/>
-			EngHwa Tan
-		</td>
-		<td>@aws  </td>
-		<td>No Twitter Username</td>
-		<td>Singapore</td>
-		<td>100</td>
-	</tr>
-	<tr>
 		<td>650</td>
 		<td>
 			<a target="_blank" href="https://github.com/chongzhou96">
-				<img src="https://private-avatars.githubusercontent.com/u/15973859?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEyNDAsIm5iZiI6MTczNDY1MDA0MCwicGF0aCI6Ii91LzE1OTczODU5In0.Ptc-6B-9eAxStYLKxrOOff8054rRMnIEbdAbEoYGFY8&s=72&u=48ed14c4dbd0e507a4e64dd1c739b1f9cbda3539&v=4" width="24" alt="Avatar of chongzhou96"/> chongzhou96
+				<img src="https://private-avatars.githubusercontent.com/u/15973859?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcyNDAsIm5iZiI6MTczNDY4NjA0MCwicGF0aCI6Ii91LzE1OTczODU5In0.4mUOIgdV0BFutgofsQ05qJL3jf77X-pG4s30kdiw5TY&s=72&u=48ed14c4dbd0e507a4e64dd1c739b1f9cbda3539&v=4" width="24" alt="Avatar of chongzhou96"/> chongzhou96
 			</a><br/>
 			Chong Zhou
 		</td>
@@ -8563,7 +8563,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>651</td>
 		<td>
 			<a target="_blank" href="https://github.com/adamyordan">
-				<img src="https://private-avatars.githubusercontent.com/u/9531164?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE2MDAsIm5iZiI6MTczNDY1MDQwMCwicGF0aCI6Ii91Lzk1MzExNjQifQ.HarvT3bNo0x7EPsdXHPmoHxRQut__gpremugnVqihAs&s=72&u=d9a48f4e514d176ac96e50370388d33c4074c681&v=4" width="24" alt="Avatar of adamyordan"/> adamyordan
+				<img src="https://private-avatars.githubusercontent.com/u/9531164?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3MDAsIm5iZiI6MTczNDY4NTUwMCwicGF0aCI6Ii91Lzk1MzExNjQifQ.rRWclo1sbWMhpLrDk-iEyFq4FjGVPQLsbd3YeBW1V7o&s=72&u=d9a48f4e514d176ac96e50370388d33c4074c681&v=4" width="24" alt="Avatar of adamyordan"/> adamyordan
 			</a><br/>
 			Adam Jordan
 		</td>
@@ -8576,7 +8576,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>652</td>
 		<td>
 			<a target="_blank" href="https://github.com/chadlwilson">
-				<img src="https://private-avatars.githubusercontent.com/u/29788154?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4ODAsIm5iZiI6MTczNDY0OTY4MCwicGF0aCI6Ii91LzI5Nzg4MTU0In0.hfK2K88Qd_hupSFOk7YPejVan7B8UD0tRVXGovvb-lE&s=72&u=0454c715d0a8ab20d6f2e963a5aabcf1ed61aa7d&v=4" width="24" alt="Avatar of chadlwilson"/> chadlwilson
+				<img src="https://private-avatars.githubusercontent.com/u/29788154?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4ODAsIm5iZiI6MTczNDY4NTY4MCwicGF0aCI6Ii91LzI5Nzg4MTU0In0.pKFGdsmbBOEqMrF-FffPG_iXK5WCcCLNQXQSnSbO9PA&s=72&u=0454c715d0a8ab20d6f2e963a5aabcf1ed61aa7d&v=4" width="24" alt="Avatar of chadlwilson"/> chadlwilson
 			</a><br/>
 			Chad Wilson
 		</td>
@@ -8588,21 +8588,8 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 	<tr>
 		<td>653</td>
 		<td>
-			<a target="_blank" href="https://github.com/pufanyi">
-				<img src="https://private-avatars.githubusercontent.com/u/44887683?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExMjAsIm5iZiI6MTczNDY0OTkyMCwicGF0aCI6Ii91LzQ0ODg3NjgzIn0.kf4Nb971auvRE7E5eTc8UN4gZLhkE0s9slS673Ufloc&s=72&u=e5e8d7300f19e1eddeaa671744937bde4107b307&v=4" width="24" alt="Avatar of pufanyi"/> pufanyi
-			</a><br/>
-			Pu Fanyi
-		</td>
-		<td>Nanyang Technology University </td>
-		<td>No Twitter Username</td>
-		<td>Singapore</td>
-		<td>99</td>
-	</tr>
-	<tr>
-		<td>654</td>
-		<td>
 			<a target="_blank" href="https://github.com/loongy">
-				<img src="https://private-avatars.githubusercontent.com/u/6580801?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE2MDAsIm5iZiI6MTczNDY1MDQwMCwicGF0aCI6Ii91LzY1ODA4MDEifQ.wKMyaOFAPYw9ylqxHU-3fzogwiwgs5YfgwmTNpVXcos&s=72&u=c1671919afadf708b56f1e2fe57b86a62b7b05c8&v=4" width="24" alt="Avatar of loongy"/> loongy
+				<img src="https://private-avatars.githubusercontent.com/u/6580801?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3MDAsIm5iZiI6MTczNDY4NTUwMCwicGF0aCI6Ii91LzY1ODA4MDEifQ.eKue01LFjHxiHzxDcBfRTUope8ovw8IRCsxWesaO9WM&s=72&u=c1671919afadf708b56f1e2fe57b86a62b7b05c8&v=4" width="24" alt="Avatar of loongy"/> loongy
 			</a><br/>
 			Loong
 		</td>
@@ -8612,10 +8599,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>99</td>
 	</tr>
 	<tr>
-		<td>655</td>
+		<td>654</td>
 		<td>
 			<a target="_blank" href="https://github.com/jhdxr">
-				<img src="https://private-avatars.githubusercontent.com/u/1993373?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExMjAsIm5iZiI6MTczNDY0OTkyMCwicGF0aCI6Ii91LzE5OTMzNzMifQ.1EqU0gyftDr_alp382iys5_VXXHDVSCn9WRQnN8f6HM&s=72&u=818fc5f6fe767f1277ac43d76bfea057dd439acc&v=4" width="24" alt="Avatar of jhdxr"/> jhdxr
+				<img src="https://private-avatars.githubusercontent.com/u/1993373?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxMjAsIm5iZiI6MTczNDY4NTkyMCwicGF0aCI6Ii91LzE5OTMzNzMifQ.Nit9JumTlRIOQyJTlkP4FVMx-cuiKqy5WgORNH4bXrw&s=72&u=818fc5f6fe767f1277ac43d76bfea057dd439acc&v=4" width="24" alt="Avatar of jhdxr"/> jhdxr
 			</a><br/>
 			
 		</td>
@@ -8625,10 +8612,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>99</td>
 	</tr>
 	<tr>
-		<td>656</td>
+		<td>655</td>
 		<td>
 			<a target="_blank" href="https://github.com/yuhuixu1993">
-				<img src="https://private-avatars.githubusercontent.com/u/17807154?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE1NDAsIm5iZiI6MTczNDY1MDM0MCwicGF0aCI6Ii91LzE3ODA3MTU0In0.3Ykpv8vBIPpY_NYMRbfTCu1YQ0Saaj4RDB96RaBRaZA&s=72&u=611886d99c59067a3f1dcb30a63fc9b5b89c8e69&v=4" width="24" alt="Avatar of yuhuixu1993"/> yuhuixu1993
+				<img src="https://private-avatars.githubusercontent.com/u/17807154?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91LzE3ODA3MTU0In0.p-G3qUhILmXXJpaHhGkhVo0v0IasT2plaZRJfiwa56M&s=72&u=611886d99c59067a3f1dcb30a63fc9b5b89c8e69&v=4" width="24" alt="Avatar of yuhuixu1993"/> yuhuixu1993
 			</a><br/>
 			YuhuiXu
 		</td>
@@ -8638,10 +8625,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>99</td>
 	</tr>
 	<tr>
-		<td>657</td>
+		<td>656</td>
 		<td>
 			<a target="_blank" href="https://github.com/michaelisvy">
-				<img src="https://private-avatars.githubusercontent.com/u/1440137?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE0MjAsIm5iZiI6MTczNDY1MDIyMCwicGF0aCI6Ii91LzE0NDAxMzcifQ.SBipB1esiiixBxYrllNYxh1jUVreaRvNcwKElTPte_Y&s=72&u=a747039caea6fd198980af2a429417d4a4f98d40&v=4" width="24" alt="Avatar of michaelisvy"/> michaelisvy
+				<img src="https://private-avatars.githubusercontent.com/u/1440137?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODc0MjAsIm5iZiI6MTczNDY4NjIyMCwicGF0aCI6Ii91LzE0NDAxMzcifQ.gJMr_oQmB-I5vOgcsT0aacYoeWzGRflYf9FeO48bVP4&s=72&u=a747039caea6fd198980af2a429417d4a4f98d40&v=4" width="24" alt="Avatar of michaelisvy"/> michaelisvy
 			</a><br/>
 			Michael Isvy
 		</td>
@@ -8651,10 +8638,23 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>99</td>
 	</tr>
 	<tr>
+		<td>657</td>
+		<td>
+			<a target="_blank" href="https://github.com/enghwa">
+				<img src="https://private-avatars.githubusercontent.com/u/7866724?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4ODAsIm5iZiI6MTczNDY4NTY4MCwicGF0aCI6Ii91Lzc4NjY3MjQifQ.ugkrR-4cMZndfTvU7Ul-Ec3tPT6ymWVMHEpTpe4lFYQ&s=72&u=5fcdf9125c39951850c60c60ba73cb0f7772a164&v=4" width="24" alt="Avatar of enghwa"/> enghwa
+			</a><br/>
+			EngHwa Tan
+		</td>
+		<td>@aws  </td>
+		<td>No Twitter Username</td>
+		<td>Singapore</td>
+		<td>99</td>
+	</tr>
+	<tr>
 		<td>658</td>
 		<td>
 			<a target="_blank" href="https://github.com/miladfa7">
-				<img src="https://private-avatars.githubusercontent.com/u/25765644?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzI1NzY1NjQ0In0.jcEFcWAUBaE0iZykAtfw61OEuijI5QounzEaUuYNkok&s=72&u=c9939104ca09525b8ec3ee2559723d8bdf1cdd8f&v=4" width="24" alt="Avatar of miladfa7"/> miladfa7
+				<img src="https://private-avatars.githubusercontent.com/u/25765644?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzI1NzY1NjQ0In0.0OYLsAZSKsMLYE3XYYaLdCcqBHneGjvQeDaGVzH7ax4&s=72&u=c9939104ca09525b8ec3ee2559723d8bdf1cdd8f&v=4" width="24" alt="Avatar of miladfa7"/> miladfa7
 			</a><br/>
 			Milad Farzalizadeh
 		</td>
@@ -8667,7 +8667,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>659</td>
 		<td>
 			<a target="_blank" href="https://github.com/annamalai-nr">
-				<img src="https://private-avatars.githubusercontent.com/u/4783644?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzQ3ODM2NDQifQ.UZcmzD4dzq3rUYBfh261smdxr3us50sLwrgcUl8ZhnQ&s=72&u=93da584a09fb1fe43815340f7f4f01855904ec11&v=4" width="24" alt="Avatar of annamalai-nr"/> annamalai-nr
+				<img src="https://private-avatars.githubusercontent.com/u/4783644?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxODAsIm5iZiI6MTczNDY4NTk4MCwicGF0aCI6Ii91LzQ3ODM2NDQifQ.xVHSGkGXJFhHWSM6-PcTcIcq0huMlURwRqggLqIu7G4&s=72&u=93da584a09fb1fe43815340f7f4f01855904ec11&v=4" width="24" alt="Avatar of annamalai-nr"/> annamalai-nr
 			</a><br/>
 			Annamalai Narayanan
 		</td>
@@ -8679,21 +8679,8 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 	<tr>
 		<td>660</td>
 		<td>
-			<a target="_blank" href="https://github.com/eugenesiow">
-				<img src="https://private-avatars.githubusercontent.com/u/9078335?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzkwNzgzMzUifQ.eX056my_ovO_ZTGKmHSmkOyYVqzESzb-Qcph9t6AsN4&s=72&u=32c057a112a2b3b0918630ac54b47345c772a41e&v=4" width="24" alt="Avatar of eugenesiow"/> eugenesiow
-			</a><br/>
-			Eugene Siow
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Singapore</td>
-		<td>99</td>
-	</tr>
-	<tr>
-		<td>661</td>
-		<td>
 			<a target="_blank" href="https://github.com/mgajda">
-				<img src="https://private-avatars.githubusercontent.com/u/685529?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3NjAsIm5iZiI6MTczNDY0OTU2MCwicGF0aCI6Ii91LzY4NTUyOSJ9.wSsXfUdtvp1yLe2iUUBpAaT3O2jqdCaM01xuPNGPuic&s=72&u=639c786cdfe96e14a26c81b439960099f70ee9dd&v=4" width="24" alt="Avatar of mgajda"/> mgajda
+				<img src="https://private-avatars.githubusercontent.com/u/685529?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91LzY4NTUyOSJ9.k0FohVPc2ZrYUXIb7mAEYO1p_0k8qxHQCjYpn5a_ey4&s=72&u=639c786cdfe96e14a26c81b439960099f70ee9dd&v=4" width="24" alt="Avatar of mgajda"/> mgajda
 			</a><br/>
 			Micha J Gajda
 		</td>
@@ -8703,10 +8690,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>99</td>
 	</tr>
 	<tr>
-		<td>662</td>
+		<td>661</td>
 		<td>
 			<a target="_blank" href="https://github.com/nanahou">
-				<img src="https://private-avatars.githubusercontent.com/u/7346700?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE0ODAsIm5iZiI6MTczNDY1MDI4MCwicGF0aCI6Ii91LzczNDY3MDAifQ.Xaj7h-IPgQb9eFgAYITiTaYFYd2F-buAaYZmdhZmLLU&s=72&u=40eb2c1c91c6c83130e7858d8400ecf7abdf1c2c&v=4" width="24" alt="Avatar of nanahou"/> nanahou
+				<img src="https://private-avatars.githubusercontent.com/u/7346700?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1ODAsIm5iZiI6MTczNDY4NTM4MCwicGF0aCI6Ii91LzczNDY3MDAifQ.h1D1eDZU668Qha9VJaP0tQeBx7J44BEqrplhSSzp9pg&s=72&u=40eb2c1c91c6c83130e7858d8400ecf7abdf1c2c&v=4" width="24" alt="Avatar of nanahou"/> nanahou
 			</a><br/>
 			NANA HOU
 		</td>
@@ -8716,10 +8703,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>99</td>
 	</tr>
 	<tr>
-		<td>663</td>
+		<td>662</td>
 		<td>
 			<a target="_blank" href="https://github.com/askerlee">
-				<img src="https://private-avatars.githubusercontent.com/u/1575461?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzMDAsIm5iZiI6MTczNDY1MDEwMCwicGF0aCI6Ii91LzE1NzU0NjEifQ.mUc4mp-AFKo7jbB-qnxIa0Evf1NLkGGkdq6JbsbKGOE&s=72&v=4" width="24" alt="Avatar of askerlee"/> askerlee
+				<img src="https://private-avatars.githubusercontent.com/u/1575461?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODczMDAsIm5iZiI6MTczNDY4NjEwMCwicGF0aCI6Ii91LzE1NzU0NjEifQ.kV1uYBKG1bcRMi69oRa0TCS4WYVYo7B9AoLcSU8HqdE&s=72&v=4" width="24" alt="Avatar of askerlee"/> askerlee
 			</a><br/>
 			askerlee
 		</td>
@@ -8729,10 +8716,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>98</td>
 	</tr>
 	<tr>
-		<td>664</td>
+		<td>663</td>
 		<td>
 			<a target="_blank" href="https://github.com/bguiz">
-				<img src="https://private-avatars.githubusercontent.com/u/1773785?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA5NDAsIm5iZiI6MTczNDY0OTc0MCwicGF0aCI6Ii91LzE3NzM3ODUifQ.flgopgUzyXNb5X1d3SJ8aCaSQVo9T3cw_7xWocwguoA&s=72&u=9980b44b7ea9d8e63d444f65d3142eeba3f925fd&v=4" width="24" alt="Avatar of bguiz"/> bguiz
+				<img src="https://private-avatars.githubusercontent.com/u/1773785?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY5NDAsIm5iZiI6MTczNDY4NTc0MCwicGF0aCI6Ii91LzE3NzM3ODUifQ.gwm1zGOvmaFLwa_gK1ZE8CHN3wJR0Jn_i4lA1X-c-gg&s=72&u=9980b44b7ea9d8e63d444f65d3142eeba3f925fd&v=4" width="24" alt="Avatar of bguiz"/> bguiz
 			</a><br/>
 			Brendan Graetz
 		</td>
@@ -8742,23 +8729,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>98</td>
 	</tr>
 	<tr>
-		<td>665</td>
-		<td>
-			<a target="_blank" href="https://github.com/arugal">
-				<img src="https://private-avatars.githubusercontent.com/u/26432832?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzNjAsIm5iZiI6MTczNDY1MDE2MCwicGF0aCI6Ii91LzI2NDMyODMyIn0.-ZFaO6XnQY0wjdqSfVdcq_EnmgM3_n6KNvBfHgcgnfc&s=72&u=f03a5f2bbb5de8e80cd56d2918a347604045d13c&v=4" width="24" alt="Avatar of arugal"/> arugal
-			</a><br/>
-			zhangwei
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Singapore</td>
-		<td>98</td>
-	</tr>
-	<tr>
-		<td>666</td>
+		<td>664</td>
 		<td>
 			<a target="_blank" href="https://github.com/vatanaksoytezer">
-				<img src="https://private-avatars.githubusercontent.com/u/13888103?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEyNDAsIm5iZiI6MTczNDY1MDA0MCwicGF0aCI6Ii91LzEzODg4MTAzIn0.eaGXomXTAGTxHpxoru8U3q_oXPrJ7Fqiq1hEFhlawCc&s=72&u=441f12f6919705bc88e6f41eaa45dc121027def5&v=4" width="24" alt="Avatar of vatanaksoytezer"/> vatanaksoytezer
+				<img src="https://private-avatars.githubusercontent.com/u/13888103?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcyNDAsIm5iZiI6MTczNDY4NjA0MCwicGF0aCI6Ii91LzEzODg4MTAzIn0.iW_AX-JHk-DZJzFj9HiKXBd0TmXOIW8FFqdjqKvjN3U&s=72&u=441f12f6919705bc88e6f41eaa45dc121027def5&v=4" width="24" alt="Avatar of vatanaksoytezer"/> vatanaksoytezer
 			</a><br/>
 			Vatan Aksoy Tezer
 		</td>
@@ -8768,10 +8742,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>98</td>
 	</tr>
 	<tr>
-		<td>667</td>
+		<td>665</td>
 		<td>
 			<a target="_blank" href="https://github.com/zqy1018">
-				<img src="https://private-avatars.githubusercontent.com/u/30336342?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwMDAsIm5iZiI6MTczNDY0OTgwMCwicGF0aCI6Ii91LzMwMzM2MzQyIn0.-YEylnR93q2Sg3K_T4zScA9lrdpeXi21N4SbsiI6_Rs&s=72&u=4c9d4eb79f027f54649cda456313f54c667d8674&v=4" width="24" alt="Avatar of zqy1018"/> zqy1018
+				<img src="https://private-avatars.githubusercontent.com/u/30336342?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwMDAsIm5iZiI6MTczNDY4NTgwMCwicGF0aCI6Ii91LzMwMzM2MzQyIn0.La0H2_oedVOVf1kxwd20ZjRXsqwuPKkUzKvcfil3H_g&s=72&u=4c9d4eb79f027f54649cda456313f54c667d8674&v=4" width="24" alt="Avatar of zqy1018"/> zqy1018
 			</a><br/>
 			Qiyuan Zhao
 		</td>
@@ -8781,10 +8755,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>98</td>
 	</tr>
 	<tr>
-		<td>668</td>
+		<td>666</td>
 		<td>
 			<a target="_blank" href="https://github.com/mymai91">
-				<img src="https://private-avatars.githubusercontent.com/u/6791942?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE0ODAsIm5iZiI6MTczNDY1MDI4MCwicGF0aCI6Ii91LzY3OTE5NDIifQ.Hsj6Vpah_Qk46GQ4CP0QVTEEYgZeWU5opTrkC_1Xrog&s=72&v=4" width="24" alt="Avatar of mymai91"/> mymai91
+				<img src="https://private-avatars.githubusercontent.com/u/6791942?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1ODAsIm5iZiI6MTczNDY4NTM4MCwicGF0aCI6Ii91LzY3OTE5NDIifQ.zy-d9Np2W6uZALCsZRzYXVxy4r2w-sLxNq6SMtzeoUE&s=72&v=4" width="24" alt="Avatar of mymai91"/> mymai91
 			</a><br/>
 			Jany
 		</td>
@@ -8794,10 +8768,23 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>98</td>
 	</tr>
 	<tr>
-		<td>669</td>
+		<td>667</td>
+		<td>
+			<a target="_blank" href="https://github.com/alexysb9032">
+				<img src="https://private-avatars.githubusercontent.com/u/182354164?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcyNDAsIm5iZiI6MTczNDY4NjA0MCwicGF0aCI6Ii91LzE4MjM1NDE2NCJ9.AB9UEVlXnlOPWciYZmN1oMIgMXgYmstrCmqZVbg2B0M&s=72&u=294058733366f7d9aafbbabc5a4afb08c24f0613&v=4" width="24" alt="Avatar of alexysb9032"/> alexysb9032
+			</a><br/>
+			Alexys Beahan
+		</td>
+		<td>At Home </td>
+		<td>No Twitter Username</td>
+		<td>Singapore</td>
+		<td>98</td>
+	</tr>
+	<tr>
+		<td>668</td>
 		<td>
 			<a target="_blank" href="https://github.com/modery">
-				<img src="https://private-avatars.githubusercontent.com/u/15896715?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzNjAsIm5iZiI6MTczNDY1MDE2MCwicGF0aCI6Ii91LzE1ODk2NzE1In0.7ZQ34zv7mm4xNPwFCQ657Cla8yOZh1cbuO1gEE199Xw&s=72&u=f35a87ebad50170aaeb13622fd9ce3843e23ecff&v=4" width="24" alt="Avatar of modery"/> modery
+				<img src="https://private-avatars.githubusercontent.com/u/15896715?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODczNjAsIm5iZiI6MTczNDY4NjE2MCwicGF0aCI6Ii91LzE1ODk2NzE1In0.t76x5LB8GISNsTLzC3qYxVz35sT7_qiiCyjhPsV_jDg&s=72&u=f35a87ebad50170aaeb13622fd9ce3843e23ecff&v=4" width="24" alt="Avatar of modery"/> modery
 			</a><br/>
 			Rene Modery
 		</td>
@@ -8807,10 +8794,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>98</td>
 	</tr>
 	<tr>
-		<td>670</td>
+		<td>669</td>
 		<td>
 			<a target="_blank" href="https://github.com/hujiecpp">
-				<img src="https://private-avatars.githubusercontent.com/u/32758886?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3NjAsIm5iZiI6MTczNDY0OTU2MCwicGF0aCI6Ii91LzMyNzU4ODg2In0.HjFIv7eSJbTc1B_R3GSfcxlf7htAhjeJaOF7qW-vuWI&s=72&u=2132d4989c7f3b184c5cbe18dde0980ca68533fd&v=4" width="24" alt="Avatar of hujiecpp"/> hujiecpp
+				<img src="https://private-avatars.githubusercontent.com/u/32758886?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91LzMyNzU4ODg2In0.GUbQytVtgic8sLTdI40Kw3ZWyFuPnJrDTy-1OJNTDlY&s=72&u=2132d4989c7f3b184c5cbe18dde0980ca68533fd&v=4" width="24" alt="Avatar of hujiecpp"/> hujiecpp
 			</a><br/>
 			Jie Hu
 		</td>
@@ -8820,10 +8807,23 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>98</td>
 	</tr>
 	<tr>
+		<td>670</td>
+		<td>
+			<a target="_blank" href="https://github.com/eugenesiow">
+				<img src="https://private-avatars.githubusercontent.com/u/9078335?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxODAsIm5iZiI6MTczNDY4NTk4MCwicGF0aCI6Ii91LzkwNzgzMzUifQ.CE7Wzhte3WrOGdzkJPMSfYTQOGLqiXYrmv9DWLGbqoI&s=72&u=32c057a112a2b3b0918630ac54b47345c772a41e&v=4" width="24" alt="Avatar of eugenesiow"/> eugenesiow
+			</a><br/>
+			Eugene Siow
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Singapore</td>
+		<td>98</td>
+	</tr>
+	<tr>
 		<td>671</td>
 		<td>
 			<a target="_blank" href="https://github.com/supercomputra">
-				<img src="https://private-avatars.githubusercontent.com/u/17508929?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE2MDAsIm5iZiI6MTczNDY1MDQwMCwicGF0aCI6Ii91LzE3NTA4OTI5In0.GZvg0s-mlTa6-fgSyWcgl_y7CketjNtt5ZQm7Nr73YE&s=72&u=225cc4c5fa8c429ba6a399cc7b34a6effbbed6d1&v=4" width="24" alt="Avatar of supercomputra"/> supercomputra
+				<img src="https://private-avatars.githubusercontent.com/u/17508929?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3MDAsIm5iZiI6MTczNDY4NTUwMCwicGF0aCI6Ii91LzE3NTA4OTI5In0.f_VAOtY8kKfVDcHTk74mDoC92FGAbQBPktCiqrSmoJs&s=72&u=225cc4c5fa8c429ba6a399cc7b34a6effbbed6d1&v=4" width="24" alt="Avatar of supercomputra"/> supercomputra
 			</a><br/>
 			Putra Z
 		</td>
@@ -8836,7 +8836,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>672</td>
 		<td>
 			<a target="_blank" href="https://github.com/4his2">
-				<img src="https://private-avatars.githubusercontent.com/u/24546717?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzI0NTQ2NzE3In0.rKkOocv3v7IiaHZHsW0Zfz_Y1vxLjD_a4JNWYew_mIg&s=72&u=f79310fb6faae5c1b83f94b64def398c7223db76&v=4" width="24" alt="Avatar of 4his2"/> 4his2
+				<img src="https://private-avatars.githubusercontent.com/u/24546717?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxODAsIm5iZiI6MTczNDY4NTk4MCwicGF0aCI6Ii91LzI0NTQ2NzE3In0.Z8pRft3IZiHWKryuwh7kHGZ_ywCvdUKEu9qQ-XKCNQQ&s=72&u=f79310fb6faae5c1b83f94b64def398c7223db76&v=4" width="24" alt="Avatar of 4his2"/> 4his2
 			</a><br/>
 			No Name
 		</td>
@@ -8849,7 +8849,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>673</td>
 		<td>
 			<a target="_blank" href="https://github.com/jiexunsee">
-				<img src="https://private-avatars.githubusercontent.com/u/21333190?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzIxMzMzMTkwIn0.zQ-7OTKokcbI_OR1vAZIswJTGuvTIWuQ-oejMppoDCo&s=72&v=4" width="24" alt="Avatar of jiexunsee"/> jiexunsee
+				<img src="https://private-avatars.githubusercontent.com/u/21333190?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxODAsIm5iZiI6MTczNDY4NTk4MCwicGF0aCI6Ii91LzIxMzMzMTkwIn0.uXoz1ixyxknZwOr-AHQxjIqso37qzuucmKnmMgGHxRk&s=72&v=4" width="24" alt="Avatar of jiexunsee"/> jiexunsee
 			</a><br/>
 			See Jie Xun
 		</td>
@@ -8862,7 +8862,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>674</td>
 		<td>
 			<a target="_blank" href="https://github.com/chaitanyapotti">
-				<img src="https://private-avatars.githubusercontent.com/u/1688380?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE2MDAsIm5iZiI6MTczNDY1MDQwMCwicGF0aCI6Ii91LzE2ODgzODAifQ.sXnRMHNC034yg7HXM5hjxRHfyLCmJJZt2cX4W1NCuhg&s=72&u=c6fcc481c8bc7fd29cc7ea430045b55e6c4537c7&v=4" width="24" alt="Avatar of chaitanyapotti"/> chaitanyapotti
+				<img src="https://private-avatars.githubusercontent.com/u/1688380?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3MDAsIm5iZiI6MTczNDY4NTUwMCwicGF0aCI6Ii91LzE2ODgzODAifQ.ahpjAeQGNT2aHgr16JKyQ55zzIeD4VDqiSzAjl3sQPA&s=72&u=c6fcc481c8bc7fd29cc7ea430045b55e6c4537c7&v=4" width="24" alt="Avatar of chaitanyapotti"/> chaitanyapotti
 			</a><br/>
 			Chaitanya Potti
 		</td>
@@ -8874,8 +8874,21 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 	<tr>
 		<td>675</td>
 		<td>
+			<a target="_blank" href="https://github.com/arugal">
+				<img src="https://private-avatars.githubusercontent.com/u/26432832?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODczNjAsIm5iZiI6MTczNDY4NjE2MCwicGF0aCI6Ii91LzI2NDMyODMyIn0.fDC8hNb1y9gEhDzSEoSV7-x3fHU6gx1ThRX-uTIAgME&s=72&u=f03a5f2bbb5de8e80cd56d2918a347604045d13c&v=4" width="24" alt="Avatar of arugal"/> arugal
+			</a><br/>
+			zhangwei
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Singapore</td>
+		<td>97</td>
+	</tr>
+	<tr>
+		<td>676</td>
+		<td>
 			<a target="_blank" href="https://github.com/SingularityKChen">
-				<img src="https://private-avatars.githubusercontent.com/u/26040964?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzI2MDQwOTY0In0.ovcdOrmTGs-syQ_WkwKIiehJLpyRnLSKZrwmV1dm5CA&s=72&u=3b8840ea56c078665a5837484584bef409d78fba&v=4" width="24" alt="Avatar of SingularityKChen"/> SingularityKChen
+				<img src="https://private-avatars.githubusercontent.com/u/26040964?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxODAsIm5iZiI6MTczNDY4NTk4MCwicGF0aCI6Ii91LzI2MDQwOTY0In0.rqzyuNwfFT6V15q8yQtnh6OSZtkWZFRyM9xGcpOiUsg&s=72&u=3b8840ea56c078665a5837484584bef409d78fba&v=4" width="24" alt="Avatar of SingularityKChen"/> SingularityKChen
 			</a><br/>
 			SingularityKChen
 		</td>
@@ -8885,10 +8898,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>97</td>
 	</tr>
 	<tr>
-		<td>676</td>
+		<td>677</td>
 		<td>
 			<a target="_blank" href="https://github.com/weimingwill">
-				<img src="https://private-avatars.githubusercontent.com/u/16631850?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwMDAsIm5iZiI6MTczNDY0OTgwMCwicGF0aCI6Ii91LzE2NjMxODUwIn0.tgbb46p2D7zIcsgSzCnLr2yj2tPxYa2I7lpOgsueeOQ&s=72&u=b00aefcd4a6ea74e7cfe65acbdb1deac097a9c9d&v=4" width="24" alt="Avatar of weimingwill"/> weimingwill
+				<img src="https://private-avatars.githubusercontent.com/u/16631850?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwMDAsIm5iZiI6MTczNDY4NTgwMCwicGF0aCI6Ii91LzE2NjMxODUwIn0.ymBqFetiV6bAmLDdkMc_5DTpuC6f2znT0jslVkI5AMc&s=72&u=b00aefcd4a6ea74e7cfe65acbdb1deac097a9c9d&v=4" width="24" alt="Avatar of weimingwill"/> weimingwill
 			</a><br/>
 			Zhuang Weiming
 		</td>
@@ -8898,10 +8911,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>97</td>
 	</tr>
 	<tr>
-		<td>677</td>
+		<td>678</td>
 		<td>
 			<a target="_blank" href="https://github.com/weitsang">
-				<img src="https://private-avatars.githubusercontent.com/u/2201882?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzIyMDE4ODIifQ.NbFSlGSVZ9uzS50EMf1fKZuw9CqCWibyJWg-C2TbUNI&s=72&u=0c6e0b86cf1245d8d4b221bdc64fedde4217dd08&v=4" width="24" alt="Avatar of weitsang"/> weitsang
+				<img src="https://private-avatars.githubusercontent.com/u/2201882?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzIyMDE4ODIifQ.Ic0Un1opidXDaGuTyNXmREYTlpN4uIlkVGAUwUBEovk&s=72&u=0c6e0b86cf1245d8d4b221bdc64fedde4217dd08&v=4" width="24" alt="Avatar of weitsang"/> weitsang
 			</a><br/>
 			Wei Tsang Ooi
 		</td>
@@ -8911,10 +8924,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>97</td>
 	</tr>
 	<tr>
-		<td>678</td>
+		<td>679</td>
 		<td>
 			<a target="_blank" href="https://github.com/JosephPai">
-				<img src="https://private-avatars.githubusercontent.com/u/25195733?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzNjAsIm5iZiI6MTczNDY1MDE2MCwicGF0aCI6Ii91LzI1MTk1NzMzIn0.h2u8FIMCeETI9vxdL3N5jPsatpKrRfrqmXKT0i8vAWs&s=72&u=5f4ce9fcf46ef8b33ed2547d03518b418ee72aa1&v=4" width="24" alt="Avatar of JosephPai"/> JosephPai
+				<img src="https://private-avatars.githubusercontent.com/u/25195733?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODczNjAsIm5iZiI6MTczNDY4NjE2MCwicGF0aCI6Ii91LzI1MTk1NzMzIn0.TOkj-4yZAOGv5ZtkGA4Xkpq0dd7rG9GE6T7hXbYyalA&s=72&u=5f4ce9fcf46ef8b33ed2547d03518b418ee72aa1&v=4" width="24" alt="Avatar of JosephPai"/> JosephPai
 			</a><br/>
 			Zechen Bai
 		</td>
@@ -8924,10 +8937,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>97</td>
 	</tr>
 	<tr>
-		<td>679</td>
+		<td>680</td>
 		<td>
 			<a target="_blank" href="https://github.com/qbig">
-				<img src="https://private-avatars.githubusercontent.com/u/5563225?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA5NDAsIm5iZiI6MTczNDY0OTc0MCwicGF0aCI6Ii91LzU1NjMyMjUifQ.Wx-1IWdC0DsR1E34DWewRp7hQ3JQPBbgdd44jJ9pmSA&s=72&u=b16eeacd7953aaf27976884c243fc646ac416937&v=4" width="24" alt="Avatar of qbig"/> qbig
+				<img src="https://private-avatars.githubusercontent.com/u/5563225?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY5NDAsIm5iZiI6MTczNDY4NTc0MCwicGF0aCI6Ii91LzU1NjMyMjUifQ.Oc_mkpgzllpmB6ZeJFdDq4xCbrkXK8I8hLUe18X_0lo&s=72&u=b16eeacd7953aaf27976884c243fc646ac416937&v=4" width="24" alt="Avatar of qbig"/> qbig
 			</a><br/>
 			Liang
 		</td>
@@ -8937,23 +8950,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>97</td>
 	</tr>
 	<tr>
-		<td>680</td>
-		<td>
-			<a target="_blank" href="https://github.com/alexysb9032">
-				<img src="https://private-avatars.githubusercontent.com/u/182354164?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEyNDAsIm5iZiI6MTczNDY1MDA0MCwicGF0aCI6Ii91LzE4MjM1NDE2NCJ9.WVsLS8mB0e_meM-t0kS7rkMOIoMW9D1Q_RgJ5sFRJP8&s=72&u=294058733366f7d9aafbbabc5a4afb08c24f0613&v=4" width="24" alt="Avatar of alexysb9032"/> alexysb9032
-			</a><br/>
-			Alexys Beahan
-		</td>
-		<td>At Home </td>
-		<td>No Twitter Username</td>
-		<td>Singapore</td>
-		<td>97</td>
-	</tr>
-	<tr>
 		<td>681</td>
 		<td>
 			<a target="_blank" href="https://github.com/renettarenula">
-				<img src="https://private-avatars.githubusercontent.com/u/724458?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzMDAsIm5iZiI6MTczNDY1MDEwMCwicGF0aCI6Ii91LzcyNDQ1OCJ9.oRZYOwnykXDRZmLKcykvOmgZPQJGzrSjcedhrKe0BcM&s=72&u=40506f891e76a8b7079c4b4c7204d389ab297247&v=4" width="24" alt="Avatar of renettarenula"/> renettarenula
+				<img src="https://private-avatars.githubusercontent.com/u/724458?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODczMDAsIm5iZiI6MTczNDY4NjEwMCwicGF0aCI6Ii91LzcyNDQ1OCJ9.z4YQUmpid82HzBSKqsQYezfF4fmHjof6SKS5OKP-1Oc&s=72&u=40506f891e76a8b7079c4b4c7204d389ab297247&v=4" width="24" alt="Avatar of renettarenula"/> renettarenula
 			</a><br/>
 			Aysha Anggraini
 		</td>
@@ -8966,7 +8966,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>682</td>
 		<td>
 			<a target="_blank" href="https://github.com/Benlau93">
-				<img src="https://private-avatars.githubusercontent.com/u/39236266?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE0MjAsIm5iZiI6MTczNDY1MDIyMCwicGF0aCI6Ii91LzM5MjM2MjY2In0.jO5xiXXxlSntedaX-pcVP0IzaGrEPquVs94YlAfLchk&s=72&u=efc36b0888be76502155a3031a6bdc2e33a5f174&v=4" width="24" alt="Avatar of Benlau93"/> Benlau93
+				<img src="https://private-avatars.githubusercontent.com/u/39236266?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODc0MjAsIm5iZiI6MTczNDY4NjIyMCwicGF0aCI6Ii91LzM5MjM2MjY2In0.GXtVCFYzyjCAMRkXZlK-EUqy54Ho92gINrFuifAsVIs&s=72&u=efc36b0888be76502155a3031a6bdc2e33a5f174&v=4" width="24" alt="Avatar of Benlau93"/> Benlau93
 			</a><br/>
 			BENJAMIN LAU
 		</td>
@@ -8979,7 +8979,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>683</td>
 		<td>
 			<a target="_blank" href="https://github.com/primekeydevs">
-				<img src="https://private-avatars.githubusercontent.com/u/47422648?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3NjAsIm5iZiI6MTczNDY0OTU2MCwicGF0aCI6Ii91LzQ3NDIyNjQ4In0.ePdE5I3ZIv2tGsjXyfSrnYBmaAyLGcFiUV9ouiZcGOc&s=72&u=d55761d94f744548d9cf1c2a90452579b04a62c2&v=4" width="24" alt="Avatar of primekeydevs"/> primekeydevs
+				<img src="https://private-avatars.githubusercontent.com/u/47422648?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91LzQ3NDIyNjQ4In0.XdalShN_zRQuj0LlCYmTCPT1o2O3qz6dN9dNPT0BqbE&s=72&u=d55761d94f744548d9cf1c2a90452579b04a62c2&v=4" width="24" alt="Avatar of primekeydevs"/> primekeydevs
 			</a><br/>
 			PrimeKey Developer
 		</td>
@@ -8992,7 +8992,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>684</td>
 		<td>
 			<a target="_blank" href="https://github.com/lawliet89">
-				<img src="https://private-avatars.githubusercontent.com/u/983101?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE2MDAsIm5iZiI6MTczNDY1MDQwMCwicGF0aCI6Ii91Lzk4MzEwMSJ9.94YnvElDCslQNEyMvVec6dUEAciuCuNmBpU-XWj1Q-I&s=72&u=8d3cff6c6582bb9fba7d71dfc543fe5fecb48b68&v=4" width="24" alt="Avatar of lawliet89"/> lawliet89
+				<img src="https://private-avatars.githubusercontent.com/u/983101?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3MDAsIm5iZiI6MTczNDY4NTUwMCwicGF0aCI6Ii91Lzk4MzEwMSJ9.TyDWLzXAtebD9SMrU3ikXNze5AgqLLQfr1tLOMksI2I&s=72&u=8d3cff6c6582bb9fba7d71dfc543fe5fecb48b68&v=4" width="24" alt="Avatar of lawliet89"/> lawliet89
 			</a><br/>
 			Yong Wen Chua
 		</td>
@@ -9004,10 +9004,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 	<tr>
 		<td>685</td>
 		<td>
-			<a target="_blank" href="https://github.com/l2dy">
-				<img src="https://private-avatars.githubusercontent.com/u/14329097?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzNjAsIm5iZiI6MTczNDY1MDE2MCwicGF0aCI6Ii91LzE0MzI5MDk3In0.TUotYqK4AtGGbJJVjj_aD9X4vcs_xix0Q4lmUbqk0sg&s=72&u=33d0fb7c4ff9c80edb8606a21e3e6c8fe3b83734&v=4" width="24" alt="Avatar of l2dy"/> l2dy
+			<a target="_blank" href="https://github.com/elliotwutingfeng">
+				<img src="https://private-avatars.githubusercontent.com/u/30223404?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODczNjAsIm5iZiI6MTczNDY4NjE2MCwicGF0aCI6Ii91LzMwMjIzNDA0In0.SosUMHIx3zhXinDSs9CmYlEjaCKbYTmVy4ERwr0n0dc&s=72&u=80194baa3c1543202d9f02096d469b3e45fc80c5&v=4" width="24" alt="Avatar of elliotwutingfeng"/> elliotwutingfeng
 			</a><br/>
-			Zero King
+			Wu Tingfeng
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
@@ -9017,8 +9017,34 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 	<tr>
 		<td>686</td>
 		<td>
+			<a target="_blank" href="https://github.com/bullno1">
+				<img src="https://private-avatars.githubusercontent.com/u/335142?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1ODAsIm5iZiI6MTczNDY4NTM4MCwicGF0aCI6Ii91LzMzNTE0MiJ9.x93yJujI2OthgNQSnDU2ZANzjzk9Ypu8g_bUTI_5_Bs&s=72&u=0dfd9fed625dfda16249cd1e7afa68d243927861&v=4" width="24" alt="Avatar of bullno1"/> bullno1
+			</a><br/>
+			Bach Le
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Singapore</td>
+		<td>96</td>
+	</tr>
+	<tr>
+		<td>687</td>
+		<td>
+			<a target="_blank" href="https://github.com/l2dy">
+				<img src="https://private-avatars.githubusercontent.com/u/14329097?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODczNjAsIm5iZiI6MTczNDY4NjE2MCwicGF0aCI6Ii91LzE0MzI5MDk3In0.vht0tvZKAWkdyhS-ijF4EyMbVs9URcuBeQmnSQHdvM4&s=72&u=33d0fb7c4ff9c80edb8606a21e3e6c8fe3b83734&v=4" width="24" alt="Avatar of l2dy"/> l2dy
+			</a><br/>
+			Zero King
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Singapore</td>
+		<td>96</td>
+	</tr>
+	<tr>
+		<td>688</td>
+		<td>
 			<a target="_blank" href="https://github.com/donjar">
-				<img src="https://private-avatars.githubusercontent.com/u/14049598?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzE0MDQ5NTk4In0.p3QgHmmzVCl2ff3mNHGZmE8p0MFOLXReUB3oAvalU0E&s=72&u=c8827ead39f037bd30f9b9d0b9fc886a4cfbe079&v=4" width="24" alt="Avatar of donjar"/> donjar
+				<img src="https://private-avatars.githubusercontent.com/u/14049598?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzE0MDQ5NTk4In0.IMjL-qA5V-oMZF1UTxj70klQv-UDAFM6_WgZ7Ng2oAU&s=72&u=c8827ead39f037bd30f9b9d0b9fc886a4cfbe079&v=4" width="24" alt="Avatar of donjar"/> donjar
 			</a><br/>
 			Herbert Ilhan Tanujaya
 		</td>
@@ -9028,10 +9054,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>96</td>
 	</tr>
 	<tr>
-		<td>687</td>
+		<td>689</td>
 		<td>
 			<a target="_blank" href="https://github.com/boyangwang">
-				<img src="https://private-avatars.githubusercontent.com/u/2408273?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE0MjAsIm5iZiI6MTczNDY1MDIyMCwicGF0aCI6Ii91LzI0MDgyNzMifQ.-B_AEsSJ2psBDiGqZ7m52kobjZy7x48ZObwWgNh92gI&s=72&v=4" width="24" alt="Avatar of boyangwang"/> boyangwang
+				<img src="https://private-avatars.githubusercontent.com/u/2408273?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODc0MjAsIm5iZiI6MTczNDY4NjIyMCwicGF0aCI6Ii91LzI0MDgyNzMifQ.LAugDxNw9-pgnKaCZONs8ptlhkr9UvlnpS65wB2Bxyg&s=72&v=4" width="24" alt="Avatar of boyangwang"/> boyangwang
 			</a><br/>
 			Boyang
 		</td>
@@ -9041,10 +9067,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>96</td>
 	</tr>
 	<tr>
-		<td>688</td>
+		<td>690</td>
 		<td>
 			<a target="_blank" href="https://github.com/manishkpr">
-				<img src="https://private-avatars.githubusercontent.com/u/1389383?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE1NDAsIm5iZiI6MTczNDY1MDM0MCwicGF0aCI6Ii91LzEzODkzODMifQ.PO1xBhlxI3Jq-JYqMkpidAaYI2TRrP6ap-XSh64TYIU&s=72&u=d7929c26a3f1c9630e2c085fdf78f826206ae4cd&v=4" width="24" alt="Avatar of manishkpr"/> manishkpr
+				<img src="https://private-avatars.githubusercontent.com/u/1389383?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91LzEzODkzODMifQ.ic4dAtkhjNU-WuzI9ugrzEhDRNxnIA_OtnYSG8vCdKg&s=72&u=d7929c26a3f1c9630e2c085fdf78f826206ae4cd&v=4" width="24" alt="Avatar of manishkpr"/> manishkpr
 			</a><br/>
 			Munish Kapoor
 		</td>
@@ -9054,36 +9080,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>96</td>
 	</tr>
 	<tr>
-		<td>689</td>
-		<td>
-			<a target="_blank" href="https://github.com/elliotwutingfeng">
-				<img src="https://private-avatars.githubusercontent.com/u/30223404?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzNjAsIm5iZiI6MTczNDY1MDE2MCwicGF0aCI6Ii91LzMwMjIzNDA0In0.JCAbWUiVkBx7PJN2CcwZ8QmaucmvkKpNcTGjSY1Duuw&s=72&u=80194baa3c1543202d9f02096d469b3e45fc80c5&v=4" width="24" alt="Avatar of elliotwutingfeng"/> elliotwutingfeng
-			</a><br/>
-			Wu Tingfeng
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Singapore</td>
-		<td>95</td>
-	</tr>
-	<tr>
-		<td>690</td>
-		<td>
-			<a target="_blank" href="https://github.com/alaister">
-				<img src="https://private-avatars.githubusercontent.com/u/10985857?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEyNDAsIm5iZiI6MTczNDY1MDA0MCwicGF0aCI6Ii91LzEwOTg1ODU3In0.xdb8xAqDMISJE-PqYmlJUPVKs8GN_wB_W2d99YGPwGg&s=72&u=6b7775c997c6780983877e69d4fd3ef6fc4c0645&v=4" width="24" alt="Avatar of alaister"/> alaister
-			</a><br/>
-			Alaister Young
-		</td>
-		<td>@supabase </td>
-		<td><a target="_blank" href="https://twitter.com/alaisteryoung">alaisteryoung</a></td>
-		<td>Singapore</td>
-		<td>95</td>
-	</tr>
-	<tr>
 		<td>691</td>
 		<td>
 			<a target="_blank" href="https://github.com/kangmingtay">
-				<img src="https://private-avatars.githubusercontent.com/u/28647601?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE0ODAsIm5iZiI6MTczNDY1MDI4MCwicGF0aCI6Ii91LzI4NjQ3NjAxIn0.T5YOZU9NS3W2ZbtyRUG4ZEbmTF28LRku04w_hxL_Jfo&s=72&u=6affdd8462b37219bab90e93e91d6800feeaaea9&v=4" width="24" alt="Avatar of kangmingtay"/> kangmingtay
+				<img src="https://private-avatars.githubusercontent.com/u/28647601?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY1ODAsIm5iZiI6MTczNDY4NTM4MCwicGF0aCI6Ii91LzI4NjQ3NjAxIn0.G-4BycLcVncjdw79iCyj1aeihKphgOJenyTptfBpOso&s=72&u=6affdd8462b37219bab90e93e91d6800feeaaea9&v=4" width="24" alt="Avatar of kangmingtay"/> kangmingtay
 			</a><br/>
 			Kang Ming
 		</td>
@@ -9095,21 +9095,8 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 	<tr>
 		<td>692</td>
 		<td>
-			<a target="_blank" href="https://github.com/bullno1">
-				<img src="https://private-avatars.githubusercontent.com/u/335142?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE0ODAsIm5iZiI6MTczNDY1MDI4MCwicGF0aCI6Ii91LzMzNTE0MiJ9.nnDY4bXq9PNfD5Jy59HO-mWMukjL8PcwnlX97foRY4k&s=72&u=0dfd9fed625dfda16249cd1e7afa68d243927861&v=4" width="24" alt="Avatar of bullno1"/> bullno1
-			</a><br/>
-			Bach Le
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Singapore</td>
-		<td>95</td>
-	</tr>
-	<tr>
-		<td>693</td>
-		<td>
 			<a target="_blank" href="https://github.com/amansrivastava17">
-				<img src="https://private-avatars.githubusercontent.com/u/5950398?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzU5NTAzOTgifQ.c0PmM5OBZ70JXqZSdfOPwRdMuoUJYOOew8NKAKf-V-k&s=72&u=956c97f47c84c8d85db7bfccc4a57fef3025c683&v=4" width="24" alt="Avatar of amansrivastava17"/> amansrivastava17
+				<img src="https://private-avatars.githubusercontent.com/u/5950398?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxODAsIm5iZiI6MTczNDY4NTk4MCwicGF0aCI6Ii91LzU5NTAzOTgifQ.c04LWyGJGUnuMBssT78RodAvDaf2Iw2TV9Bo-LmlXCw&s=72&u=956c97f47c84c8d85db7bfccc4a57fef3025c683&v=4" width="24" alt="Avatar of amansrivastava17"/> amansrivastava17
 			</a><br/>
 			Aman Srivastava
 		</td>
@@ -9119,10 +9106,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>95</td>
 	</tr>
 	<tr>
-		<td>694</td>
+		<td>693</td>
 		<td>
 			<a target="_blank" href="https://github.com/1989Ryan">
-				<img src="https://private-avatars.githubusercontent.com/u/32127430?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3NjAsIm5iZiI6MTczNDY0OTU2MCwicGF0aCI6Ii91LzMyMTI3NDMwIn0.58eJVUb1qfuA5FPdnSXKWPAGbWT9FGkroOfvmjiCB6Q&s=72&u=76f2b175268c5205220519acd1c343baefa9a63a&v=4" width="24" alt="Avatar of 1989Ryan"/> 1989Ryan
+				<img src="https://private-avatars.githubusercontent.com/u/32127430?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91LzMyMTI3NDMwIn0.0h0LIXDVuDpDNoOMvLODVmGPlP1GeFdBJHoyT8C8FZE&s=72&u=76f2b175268c5205220519acd1c343baefa9a63a&v=4" width="24" alt="Avatar of 1989Ryan"/> 1989Ryan
 			</a><br/>
 			ZHAO Zirui
 		</td>
@@ -9132,10 +9119,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>95</td>
 	</tr>
 	<tr>
-		<td>695</td>
+		<td>694</td>
 		<td>
 			<a target="_blank" href="https://github.com/muzishen">
-				<img src="https://private-avatars.githubusercontent.com/u/36322670?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE0MjAsIm5iZiI6MTczNDY1MDIyMCwicGF0aCI6Ii91LzM2MzIyNjcwIn0.Bxxx_yn9VD936JyiC-XoHc83tDacOp47tMDDKh8ngQ4&s=72&u=eaa184ec2f81983a310aa46f1c3081109ca81c24&v=4" width="24" alt="Avatar of muzishen"/> muzishen
+				<img src="https://private-avatars.githubusercontent.com/u/36322670?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODc0MjAsIm5iZiI6MTczNDY4NjIyMCwicGF0aCI6Ii91LzM2MzIyNjcwIn0.EeQNZEN-bDYTGIw9s0Vs7AoxEbhGQT_IbNpwpqwJPKc&s=72&u=eaa184ec2f81983a310aa46f1c3081109ca81c24&v=4" width="24" alt="Avatar of muzishen"/> muzishen
 			</a><br/>
 			Fei Shen
 		</td>
@@ -9145,10 +9132,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>95</td>
 	</tr>
 	<tr>
-		<td>696</td>
+		<td>695</td>
 		<td>
 			<a target="_blank" href="https://github.com/Nayacco">
-				<img src="https://private-avatars.githubusercontent.com/u/22909744?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwMDAsIm5iZiI6MTczNDY0OTgwMCwicGF0aCI6Ii91LzIyOTA5NzQ0In0.dnK1CPBBgfTx1PMTVojHCLrtvR0cSVYmXQxvMXCDWXM&s=72&u=08a96a03eeab16d38672d5f697f3e6c9f53b5317&v=4" width="24" alt="Avatar of Nayacco"/> Nayacco
+				<img src="https://private-avatars.githubusercontent.com/u/22909744?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwMDAsIm5iZiI6MTczNDY4NTgwMCwicGF0aCI6Ii91LzIyOTA5NzQ0In0.rEiwnaz9S8ojjQWHGXgc7r6L0HKAg_d4QlxzloXEb0c&s=72&u=08a96a03eeab16d38672d5f697f3e6c9f53b5317&v=4" width="24" alt="Avatar of Nayacco"/> Nayacco
 			</a><br/>
 			Nayacco
 		</td>
@@ -9158,10 +9145,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>95</td>
 	</tr>
 	<tr>
-		<td>697</td>
+		<td>696</td>
 		<td>
 			<a target="_blank" href="https://github.com/sahajamit">
-				<img src="https://private-avatars.githubusercontent.com/u/358319?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwMDAsIm5iZiI6MTczNDY0OTgwMCwicGF0aCI6Ii91LzM1ODMxOSJ9.BQUTKGW9qB13YivFpog_ddT1Z17OROtiqN-WwKn6lBY&s=72&u=7a3eae0d350d1e5bfe8f5bf73605f79a3ca2b1f0&v=4" width="24" alt="Avatar of sahajamit"/> sahajamit
+				<img src="https://private-avatars.githubusercontent.com/u/358319?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwMDAsIm5iZiI6MTczNDY4NTgwMCwicGF0aCI6Ii91LzM1ODMxOSJ9.ydXuS_Q0tFMUlZ5L983a-NX4MIeU6My2afzafn3MeFY&s=72&u=7a3eae0d350d1e5bfe8f5bf73605f79a3ca2b1f0&v=4" width="24" alt="Avatar of sahajamit"/> sahajamit
 			</a><br/>
 			Amit Rawat
 		</td>
@@ -9171,10 +9158,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>95</td>
 	</tr>
 	<tr>
-		<td>698</td>
+		<td>697</td>
 		<td>
 			<a target="_blank" href="https://github.com/marcosdeseul">
-				<img src="https://private-avatars.githubusercontent.com/u/8097987?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwMDAsIm5iZiI6MTczNDY0OTgwMCwicGF0aCI6Ii91LzgwOTc5ODcifQ.7FxoIf8DgBTWJNkc5JbUgHMhpzLAWrW9gJDuK3J60Ak&s=72&u=9729f73783411a6e30488b1ae100acd85de5e9e8&v=4" width="24" alt="Avatar of marcosdeseul"/> marcosdeseul
+				<img src="https://private-avatars.githubusercontent.com/u/8097987?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwMDAsIm5iZiI6MTczNDY4NTgwMCwicGF0aCI6Ii91LzgwOTc5ODcifQ.sGXKkXbYcSTTZ2bXPe0uIlJ1K14wHKE2HrVyv3Y9CPs&s=72&u=9729f73783411a6e30488b1ae100acd85de5e9e8&v=4" width="24" alt="Avatar of marcosdeseul"/> marcosdeseul
 			</a><br/>
 			Marcos
 		</td>
@@ -9184,10 +9171,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>95</td>
 	</tr>
 	<tr>
-		<td>699</td>
+		<td>698</td>
 		<td>
 			<a target="_blank" href="https://github.com/arjunmann73">
-				<img src="https://private-avatars.githubusercontent.com/u/37778385?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE0MjAsIm5iZiI6MTczNDY1MDIyMCwicGF0aCI6Ii91LzM3Nzc4Mzg1In0.207fCAYx-7zmeZbrfsVjUR_6g029_wjlr3LWnJKWhQw&s=72&u=d34a0bbcaa4b5d58a2fa61f25b5588ccbd04c7f5&v=4" width="24" alt="Avatar of arjunmann73"/> arjunmann73
+				<img src="https://private-avatars.githubusercontent.com/u/37778385?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODc0MjAsIm5iZiI6MTczNDY4NjIyMCwicGF0aCI6Ii91LzM3Nzc4Mzg1In0.sm2uplcrxub3B0dYVTICwtC_oOtldt4BOJ6VrnW3ToY&s=72&u=d34a0bbcaa4b5d58a2fa61f25b5588ccbd04c7f5&v=4" width="24" alt="Avatar of arjunmann73"/> arjunmann73
 			</a><br/>
 			Arjun Singh Mann
 		</td>
@@ -9197,10 +9184,23 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>95</td>
 	</tr>
 	<tr>
+		<td>699</td>
+		<td>
+			<a target="_blank" href="https://github.com/alaister">
+				<img src="https://private-avatars.githubusercontent.com/u/10985857?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcyNDAsIm5iZiI6MTczNDY4NjA0MCwicGF0aCI6Ii91LzEwOTg1ODU3In0.kR7Y9CVdmtGsjnL6cqT-N2T3adH4nQkc_yIeyC9xJFY&s=72&u=6b7775c997c6780983877e69d4fd3ef6fc4c0645&v=4" width="24" alt="Avatar of alaister"/> alaister
+			</a><br/>
+			Alaister Young
+		</td>
+		<td>@supabase </td>
+		<td><a target="_blank" href="https://twitter.com/alaisteryoung">alaisteryoung</a></td>
+		<td>Singapore</td>
+		<td>94</td>
+	</tr>
+	<tr>
 		<td>700</td>
 		<td>
 			<a target="_blank" href="https://github.com/soedirgo">
-				<img src="https://private-avatars.githubusercontent.com/u/31685197?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzMxNjg1MTk3In0.jlShTOMnMmqSGTiH8uLX-5Vwh3wE0j8bDfaSIwfmCCY&s=72&u=8aff941b133b7627af28427a656602f4749b735e&v=4" width="24" alt="Avatar of soedirgo"/> soedirgo
+				<img src="https://private-avatars.githubusercontent.com/u/31685197?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxODAsIm5iZiI6MTczNDY4NTk4MCwicGF0aCI6Ii91LzMxNjg1MTk3In0._rji43xuuNhZUnWmx5j5ygaPB819YRNX8meTX0jTCGg&s=72&u=8aff941b133b7627af28427a656602f4749b735e&v=4" width="24" alt="Avatar of soedirgo"/> soedirgo
 			</a><br/>
 			Bobbie Soedirgo
 		</td>
@@ -9213,7 +9213,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>701</td>
 		<td>
 			<a target="_blank" href="https://github.com/YangruiEmma">
-				<img src="https://private-avatars.githubusercontent.com/u/1894678?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE2MDAsIm5iZiI6MTczNDY1MDQwMCwicGF0aCI6Ii91LzE4OTQ2NzgifQ.8xHoM9GHB6jUgofc6Owu_sT4k8Os_dIDadQgVEt_75U&s=72&v=4" width="24" alt="Avatar of YangruiEmma"/> YangruiEmma
+				<img src="https://private-avatars.githubusercontent.com/u/1894678?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3MDAsIm5iZiI6MTczNDY4NTUwMCwicGF0aCI6Ii91LzE4OTQ2NzgifQ.zsjOLBGfJUU7lxd2rmFVbidEYH-ORhbsWWs6nHO_RZs&s=72&v=4" width="24" alt="Avatar of YangruiEmma"/> YangruiEmma
 			</a><br/>
 			No Name
 		</td>
@@ -9226,7 +9226,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>702</td>
 		<td>
 			<a target="_blank" href="https://github.com/dunyanong">
-				<img src="https://private-avatars.githubusercontent.com/u/97597966?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE2MDAsIm5iZiI6MTczNDY1MDQwMCwicGF0aCI6Ii91Lzk3NTk3OTY2In0.nbiWv2_Ylx-NDx-E2ZqV_RffI30RCNnimzMIzzPOmqg&s=72&u=43bc38626142799f78c1796253e30c4e31e94e21&v=4" width="24" alt="Avatar of dunyanong"/> dunyanong
+				<img src="https://private-avatars.githubusercontent.com/u/97597966?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3MDAsIm5iZiI6MTczNDY4NTUwMCwicGF0aCI6Ii91Lzk3NTk3OTY2In0.m-id6rA8xD4ymc-_m7FTwjyW8Z75VMNNaAchqDvGOBo&s=72&u=43bc38626142799f78c1796253e30c4e31e94e21&v=4" width="24" alt="Avatar of dunyanong"/> dunyanong
 			</a><br/>
 			Dun Yan
 		</td>
@@ -9239,7 +9239,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>703</td>
 		<td>
 			<a target="_blank" href="https://github.com/qoelet">
-				<img src="https://private-avatars.githubusercontent.com/u/115877?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3NjAsIm5iZiI6MTczNDY0OTU2MCwicGF0aCI6Ii91LzExNTg3NyJ9.FzvVMLXoqcC5eRyzEGTeZC4AAJrYZSR8afPwwJmU3cM&s=72&u=e00fb21f2e23b27d0827b501a1618bc433a14180&v=4" width="24" alt="Avatar of qoelet"/> qoelet
+				<img src="https://private-avatars.githubusercontent.com/u/115877?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91LzExNTg3NyJ9.fA5nzbYAH-t3um6hpL7m30tt3aMkW70YqNzaWGXbb0o&s=72&u=e00fb21f2e23b27d0827b501a1618bc433a14180&v=4" width="24" alt="Avatar of qoelet"/> qoelet
 			</a><br/>
 			Kenny Shen
 		</td>
@@ -9252,7 +9252,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>704</td>
 		<td>
 			<a target="_blank" href="https://github.com/zhangjiewu">
-				<img src="https://private-avatars.githubusercontent.com/u/55792387?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzU1NzkyMzg3In0.bu3Djul8ZMrFadm0STYm4O6B-mVpTwqMfgdpVRPm6fE&s=72&u=2390273981723b090d9fe3eae551bc4cd03ba56c&v=4" width="24" alt="Avatar of zhangjiewu"/> zhangjiewu
+				<img src="https://private-avatars.githubusercontent.com/u/55792387?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxODAsIm5iZiI6MTczNDY4NTk4MCwicGF0aCI6Ii91LzU1NzkyMzg3In0.F3KIhf-FjVCmJHFhu5iE_AtQkKtb677jyXOP0k4xWcI&s=72&u=2390273981723b090d9fe3eae551bc4cd03ba56c&v=4" width="24" alt="Avatar of zhangjiewu"/> zhangjiewu
 			</a><br/>
 			Jay Z Wu
 		</td>
@@ -9265,7 +9265,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>705</td>
 		<td>
 			<a target="_blank" href="https://github.com/JLraining">
-				<img src="https://private-avatars.githubusercontent.com/u/13096392?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwMDAsIm5iZiI6MTczNDY0OTgwMCwicGF0aCI6Ii91LzEzMDk2MzkyIn0.nO87P95DNz7q_pfQeJ9cueiJZt6wBXOJ8JjY5x1aKc0&s=72&u=002d32a066222b3a96cd07ae0ad02305e12aed41&v=4" width="24" alt="Avatar of JLraining"/> JLraining
+				<img src="https://private-avatars.githubusercontent.com/u/13096392?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwMDAsIm5iZiI6MTczNDY4NTgwMCwicGF0aCI6Ii91LzEzMDk2MzkyIn0.x0pDQ__sn_FEfNfQ02yV2bVsyZhdnCkazVAHSnbeqOk&s=72&u=002d32a066222b3a96cd07ae0ad02305e12aed41&v=4" width="24" alt="Avatar of JLraining"/> JLraining
 			</a><br/>
 			Lilian Jiang
 		</td>
@@ -9278,7 +9278,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>706</td>
 		<td>
 			<a target="_blank" href="https://github.com/marcoag">
-				<img src="https://private-avatars.githubusercontent.com/u/3855564?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzM4NTU1NjQifQ.NCv7jH46tJP9nXlhgVWP7k_XfRgcToVeOM6zHSg_R7Y&s=72&u=cb3a0095a9eef5b67ac5d286e5a8cce1f0082ad3&v=4" width="24" alt="Avatar of marcoag"/> marcoag
+				<img src="https://private-avatars.githubusercontent.com/u/3855564?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzM4NTU1NjQifQ.yrshKgZYgIdNj6G-To27I7Psc-HsOgHFZZfyn0iM-Uw&s=72&u=cb3a0095a9eef5b67ac5d286e5a8cce1f0082ad3&v=4" width="24" alt="Avatar of marcoag"/> marcoag
 			</a><br/>
 			Marco A Gutierrez
 		</td>
@@ -9290,21 +9290,8 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 	<tr>
 		<td>707</td>
 		<td>
-			<a target="_blank" href="https://github.com/hwangdev97">
-				<img src="https://private-avatars.githubusercontent.com/u/24713927?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE0ODAsIm5iZiI6MTczNDY1MDI4MCwicGF0aCI6Ii91LzI0NzEzOTI3In0.lEvWowRI5S_ml_rbfuTFdJZ-pL7NR5cV3keNwrPU05c&s=72&u=26296c400a3f30561cc2854eae1ac2a2b985212d&v=4" width="24" alt="Avatar of hwangdev97"/> hwangdev97
-			</a><br/>
-			Hwang
-		</td>
-		<td>@toeverything </td>
-		<td><a target="_blank" href="https://twitter.com/hwwaanng">hwwaanng</a></td>
-		<td>Singapore</td>
-		<td>93</td>
-	</tr>
-	<tr>
-		<td>708</td>
-		<td>
 			<a target="_blank" href="https://github.com/TimonPeng">
-				<img src="https://private-avatars.githubusercontent.com/u/8691151?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91Lzg2OTExNTEifQ.QfBktZBzXQrwBvTHb7eyR2JdiDtvxN7fmioHuAsrM1o&s=72&u=d1dac5d07ef5fc728ed342e91e9ca7336fa6bc7e&v=4" width="24" alt="Avatar of TimonPeng"/> TimonPeng
+				<img src="https://private-avatars.githubusercontent.com/u/8691151?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91Lzg2OTExNTEifQ.Ukh1nUrDUFoYAFKlaSwWWDYgYLQukr1JAiHEGD3s8n4&s=72&u=d1dac5d07ef5fc728ed342e91e9ca7336fa6bc7e&v=4" width="24" alt="Avatar of TimonPeng"/> TimonPeng
 			</a><br/>
 			Timon Peng
 		</td>
@@ -9314,10 +9301,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>93</td>
 	</tr>
 	<tr>
-		<td>709</td>
+		<td>708</td>
 		<td>
 			<a target="_blank" href="https://github.com/zhuochun">
-				<img src="https://private-avatars.githubusercontent.com/u/842419?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4ODAsIm5iZiI6MTczNDY0OTY4MCwicGF0aCI6Ii91Lzg0MjQxOSJ9.ZMrk9TYS93xOWFnM5XGEkkmvcghjm_iq3Jr3uE69rvM&s=72&u=91cb40e77e799af6bd478d127dade0e376228325&v=4" width="24" alt="Avatar of zhuochun"/> zhuochun
+				<img src="https://private-avatars.githubusercontent.com/u/842419?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4ODAsIm5iZiI6MTczNDY4NTY4MCwicGF0aCI6Ii91Lzg0MjQxOSJ9.IbvrIUZGi5aarq3wYYJxynPNI3MqlJWm5y-1wkZITtA&s=72&u=91cb40e77e799af6bd478d127dade0e376228325&v=4" width="24" alt="Avatar of zhuochun"/> zhuochun
 			</a><br/>
 			Zhuochun
 		</td>
@@ -9327,10 +9314,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>93</td>
 	</tr>
 	<tr>
-		<td>710</td>
+		<td>709</td>
 		<td>
 			<a target="_blank" href="https://github.com/yeojz">
-				<img src="https://private-avatars.githubusercontent.com/u/429598?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwMDAsIm5iZiI6MTczNDY0OTgwMCwicGF0aCI6Ii91LzQyOTU5OCJ9.INpxV4HmqfW-RHfd5AoFBIhwh2BaTd-Q2YU-DIo8GEc&s=72&u=6e2fe040930c1292d0de1e417d4477e4a4d41e8d&v=4" width="24" alt="Avatar of yeojz"/> yeojz
+				<img src="https://private-avatars.githubusercontent.com/u/429598?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwMDAsIm5iZiI6MTczNDY4NTgwMCwicGF0aCI6Ii91LzQyOTU5OCJ9.K8o6A-2NM5YQ9V5nqEAyMwzrtSU4mPQMc_V1OMC5WiA&s=72&u=6e2fe040930c1292d0de1e417d4477e4a4d41e8d&v=4" width="24" alt="Avatar of yeojz"/> yeojz
 			</a><br/>
 			Gerald Yeo
 		</td>
@@ -9340,10 +9327,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>93</td>
 	</tr>
 	<tr>
-		<td>711</td>
+		<td>710</td>
 		<td>
 			<a target="_blank" href="https://github.com/MahaMohan">
-				<img src="https://private-avatars.githubusercontent.com/u/69076784?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4ODAsIm5iZiI6MTczNDY0OTY4MCwicGF0aCI6Ii91LzY5MDc2Nzg0In0.vBnDicjzqx37dqUZprKW1PNJL4BqfD3jEItFirAY24U&s=72&u=11f41f92ff03535140087083e51db0b7363634b3&v=4" width="24" alt="Avatar of MahaMohan"/> MahaMohan
+				<img src="https://private-avatars.githubusercontent.com/u/69076784?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4ODAsIm5iZiI6MTczNDY4NTY4MCwicGF0aCI6Ii91LzY5MDc2Nzg0In0.rkP2j-KOv0x1oJ2lkxdKcJO6oCNIzoALUvaZj8uxgcc&s=72&u=11f41f92ff03535140087083e51db0b7363634b3&v=4" width="24" alt="Avatar of MahaMohan"/> MahaMohan
 			</a><br/>
 			Mahadhevha
 		</td>
@@ -9353,10 +9340,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>93</td>
 	</tr>
 	<tr>
-		<td>712</td>
+		<td>711</td>
 		<td>
 			<a target="_blank" href="https://github.com/biocross">
-				<img src="https://private-avatars.githubusercontent.com/u/840512?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwMDAsIm5iZiI6MTczNDY0OTgwMCwicGF0aCI6Ii91Lzg0MDUxMiJ9.T8Rtl6c3PcrWSlWvUn3oBqvEB6MpTdFMHjzuxfZZfMw&s=72&u=67949cf78a7f36d279a345f8313ba0a97f9ea79c&v=4" width="24" alt="Avatar of biocross"/> biocross
+				<img src="https://private-avatars.githubusercontent.com/u/840512?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwMDAsIm5iZiI6MTczNDY4NTgwMCwicGF0aCI6Ii91Lzg0MDUxMiJ9.bNbSbuj2y9DAWymAaJjWTnwiZlDvkmfoSaiuwh_xPo4&s=72&u=67949cf78a7f36d279a345f8313ba0a97f9ea79c&v=4" width="24" alt="Avatar of biocross"/> biocross
 			</a><br/>
 			Siddharth Gupta
 		</td>
@@ -9366,10 +9353,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>93</td>
 	</tr>
 	<tr>
-		<td>713</td>
+		<td>712</td>
 		<td>
 			<a target="_blank" href="https://github.com/zeyuxiao1997">
-				<img src="https://private-avatars.githubusercontent.com/u/38995741?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE0MjAsIm5iZiI6MTczNDY1MDIyMCwicGF0aCI6Ii91LzM4OTk1NzQxIn0.6RFugjCMoL2mqc6pIySKD0HGMmmvE5mY5aviJpChAsw&s=72&u=f8f3874cdeb9f6c12044850977cd19ef790fa2ce&v=4" width="24" alt="Avatar of zeyuxiao1997"/> zeyuxiao1997
+				<img src="https://private-avatars.githubusercontent.com/u/38995741?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODc0MjAsIm5iZiI6MTczNDY4NjIyMCwicGF0aCI6Ii91LzM4OTk1NzQxIn0.XspWLZKf70m5yNYzA-3tBrT-_7MUIHgh8lyyIztjmGU&s=72&u=f8f3874cdeb9f6c12044850977cd19ef790fa2ce&v=4" width="24" alt="Avatar of zeyuxiao1997"/> zeyuxiao1997
 			</a><br/>
 			No Name
 		</td>
@@ -9379,10 +9366,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>93</td>
 	</tr>
 	<tr>
-		<td>714</td>
+		<td>713</td>
 		<td>
 			<a target="_blank" href="https://github.com/TermiT">
-				<img src="https://private-avatars.githubusercontent.com/u/87338?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEyNDAsIm5iZiI6MTczNDY1MDA0MCwicGF0aCI6Ii91Lzg3MzM4In0.Z2JPnmn7PLtix8aNAd4q9wEpZbGMmYrbWs2NbTav03k&s=72&v=4" width="24" alt="Avatar of TermiT"/> TermiT
+				<img src="https://private-avatars.githubusercontent.com/u/87338?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcyNDAsIm5iZiI6MTczNDY4NjA0MCwicGF0aCI6Ii91Lzg3MzM4In0.HP5BxWDogG1fuvKTDyevQmBFTPHcn1EGXogTlgNQJ38&s=72&v=4" width="24" alt="Avatar of TermiT"/> TermiT
 			</a><br/>
 			Gennadii Potapov
 		</td>
@@ -9392,10 +9379,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>93</td>
 	</tr>
 	<tr>
-		<td>715</td>
+		<td>714</td>
 		<td>
 			<a target="_blank" href="https://github.com/IonBazan">
-				<img src="https://private-avatars.githubusercontent.com/u/1985514?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEyNDAsIm5iZiI6MTczNDY1MDA0MCwicGF0aCI6Ii91LzE5ODU1MTQifQ.bIebdvEOe_J0h8zTcXvjNTQNtRk70-s1Lrsp_KjVBJo&s=72&u=03a13ac06212f39fc73e3a594011b4169fa6dfc1&v=4" width="24" alt="Avatar of IonBazan"/> IonBazan
+				<img src="https://private-avatars.githubusercontent.com/u/1985514?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcyNDAsIm5iZiI6MTczNDY4NjA0MCwicGF0aCI6Ii91LzE5ODU1MTQifQ.T4TowFYR79qRv8WT9e0lxWepUBtOPVKzhy4qJfx22dY&s=72&u=03a13ac06212f39fc73e3a594011b4169fa6dfc1&v=4" width="24" alt="Avatar of IonBazan"/> IonBazan
 			</a><br/>
 			Ion Bazan
 		</td>
@@ -9405,10 +9392,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>92</td>
 	</tr>
 	<tr>
-		<td>716</td>
+		<td>715</td>
 		<td>
 			<a target="_blank" href="https://github.com/purfectliterature">
-				<img src="https://private-avatars.githubusercontent.com/u/51525686?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzMDAsIm5iZiI6MTczNDY1MDEwMCwicGF0aCI6Ii91LzUxNTI1Njg2In0.uEr_YC6PnTQsN3jWGPlMtJHWOg6ilk1KNsuqI0q1OWA&s=72&u=3415a23de33b4887959e46447946b99a71104fae&v=4" width="24" alt="Avatar of purfectliterature"/> purfectliterature
+				<img src="https://private-avatars.githubusercontent.com/u/51525686?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODczMDAsIm5iZiI6MTczNDY4NjEwMCwicGF0aCI6Ii91LzUxNTI1Njg2In0.V0suVpLD0MLq-VCykGGYCp3OhUlDPKQUbfmUkYgdBHM&s=72&u=3415a23de33b4887959e46447946b99a71104fae&v=4" width="24" alt="Avatar of purfectliterature"/> purfectliterature
 			</a><br/>
 			Phillmont Muktar
 		</td>
@@ -9418,23 +9405,23 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>92</td>
 	</tr>
 	<tr>
-		<td>717</td>
+		<td>716</td>
 		<td>
-			<a target="_blank" href="https://github.com/decster">
-				<img src="https://private-avatars.githubusercontent.com/u/193300?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3NjAsIm5iZiI6MTczNDY0OTU2MCwicGF0aCI6Ii91LzE5MzMwMCJ9.h__EhfVC2fc-94p2UYHiUbPXHDEVpqw2mnOqmH9a1ss&s=72&u=989127cccee095f3565ad640d5d2232416aba6cc&v=4" width="24" alt="Avatar of decster"/> decster
+			<a target="_blank" href="https://github.com/hwangdev97">
+				<img src="https://private-avatars.githubusercontent.com/u/24713927?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODc0ODAsIm5iZiI6MTczNDY4NjI4MCwicGF0aCI6Ii91LzI0NzEzOTI3In0.VavNrhWCPPfKetM6eMtZ54nQGSR-vzGj4Bnv00HcfHc&s=72&u=26296c400a3f30561cc2854eae1ac2a2b985212d&v=4" width="24" alt="Avatar of hwangdev97"/> hwangdev97
 			</a><br/>
-			Binglin Chang
+			Hwang
 		</td>
-		<td>Starrocks </td>
-		<td>No Twitter Username</td>
+		<td>@toeverything </td>
+		<td><a target="_blank" href="https://twitter.com/hwwaanng">hwwaanng</a></td>
 		<td>Singapore</td>
 		<td>92</td>
 	</tr>
 	<tr>
-		<td>718</td>
+		<td>717</td>
 		<td>
 			<a target="_blank" href="https://github.com/h33tlit">
-				<img src="https://private-avatars.githubusercontent.com/u/97327489?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwMDAsIm5iZiI6MTczNDY0OTgwMCwicGF0aCI6Ii91Lzk3MzI3NDg5In0.HRsMpZJuzNJg18a8MnuRvkxcXEnLe1UrSlu6swVrFgQ&s=72&u=39d127acf39feea2989dafa9277f6dddc57eddad&v=4" width="24" alt="Avatar of h33tlit"/> h33tlit
+				<img src="https://private-avatars.githubusercontent.com/u/97327489?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwMDAsIm5iZiI6MTczNDY4NTgwMCwicGF0aCI6Ii91Lzk3MzI3NDg5In0.qSFCwj6baqKDiyH647sTAUX_vVsV3BQlhNSpnTwwc-I&s=72&u=39d127acf39feea2989dafa9277f6dddc57eddad&v=4" width="24" alt="Avatar of h33tlit"/> h33tlit
 			</a><br/>
 			Jubaer Alnazi
 		</td>
@@ -9444,10 +9431,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>92</td>
 	</tr>
 	<tr>
-		<td>719</td>
+		<td>718</td>
 		<td>
 			<a target="_blank" href="https://github.com/xkjyeah">
-				<img src="https://private-avatars.githubusercontent.com/u/2659143?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE2MDAsIm5iZiI6MTczNDY1MDQwMCwicGF0aCI6Ii91LzI2NTkxNDMifQ.KZ4TlgQR1316svc9eKzF8bIzImMDUULgPP_HM6qMfVE&s=72&u=6884338843eca3ed1b4b32b72157ec9f42595698&v=4" width="24" alt="Avatar of xkjyeah"/> xkjyeah
+				<img src="https://private-avatars.githubusercontent.com/u/2659143?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3MDAsIm5iZiI6MTczNDY4NTUwMCwicGF0aCI6Ii91LzI2NTkxNDMifQ.62-c_9z_jziuLRDsX9lGwHiHJ_ZgkaOQHHuJlGw48gI&s=72&u=6884338843eca3ed1b4b32b72157ec9f42595698&v=4" width="24" alt="Avatar of xkjyeah"/> xkjyeah
 			</a><br/>
 			Daniel Sim
 		</td>
@@ -9457,10 +9444,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>92</td>
 	</tr>
 	<tr>
-		<td>720</td>
+		<td>719</td>
 		<td>
 			<a target="_blank" href="https://github.com/davified">
-				<img src="https://private-avatars.githubusercontent.com/u/15681649?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3NjAsIm5iZiI6MTczNDY0OTU2MCwicGF0aCI6Ii91LzE1NjgxNjQ5In0.PmfYwo25WqnCPBS-fPRRy_mvLhC3-n4KfT-VlMY6-70&s=72&u=66fcd33d4be23ce6defcae86acda62a17469c8d1&v=4" width="24" alt="Avatar of davified"/> davified
+				<img src="https://private-avatars.githubusercontent.com/u/15681649?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91LzE1NjgxNjQ5In0.J5UUF9MK95o5txOP3D_zI6CQ1hfMqFx6K8C2SdOGh7Y&s=72&u=66fcd33d4be23ce6defcae86acda62a17469c8d1&v=4" width="24" alt="Avatar of davified"/> davified
 			</a><br/>
 			David Tan
 		</td>
@@ -9470,10 +9457,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>92</td>
 	</tr>
 	<tr>
-		<td>721</td>
+		<td>720</td>
 		<td>
 			<a target="_blank" href="https://github.com/niclimcy">
-				<img src="https://private-avatars.githubusercontent.com/u/6513413?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEyNDAsIm5iZiI6MTczNDY1MDA0MCwicGF0aCI6Ii91LzY1MTM0MTMifQ.X28-1LOKBaaK0fm0Ktn27y6jL1YMBL2bZRBflpieMLY&s=72&u=4ef6e822bb566b652dfd13d1ac08d5dccf6b39cc&v=4" width="24" alt="Avatar of niclimcy"/> niclimcy
+				<img src="https://private-avatars.githubusercontent.com/u/6513413?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcyNDAsIm5iZiI6MTczNDY4NjA0MCwicGF0aCI6Ii91LzY1MTM0MTMifQ.YOXyWQqB819nmOunxm5gPx-aCgUi71TiiG0IrT51UmU&s=72&u=4ef6e822bb566b652dfd13d1ac08d5dccf6b39cc&v=4" width="24" alt="Avatar of niclimcy"/> niclimcy
 			</a><br/>
 			Nicholas Lim
 		</td>
@@ -9483,10 +9470,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>91</td>
 	</tr>
 	<tr>
-		<td>722</td>
+		<td>721</td>
 		<td>
 			<a target="_blank" href="https://github.com/bryanmylee">
-				<img src="https://private-avatars.githubusercontent.com/u/42545742?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExMjAsIm5iZiI6MTczNDY0OTkyMCwicGF0aCI6Ii91LzQyNTQ1NzQyIn0.bVqGn7o6DDAV170unwLo6s6MW2nniVPvS0rLGZs0KmE&s=72&u=4170de41c84c93bb043cc1987747336c20309a65&v=4" width="24" alt="Avatar of bryanmylee"/> bryanmylee
+				<img src="https://private-avatars.githubusercontent.com/u/42545742?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxMjAsIm5iZiI6MTczNDY4NTkyMCwicGF0aCI6Ii91LzQyNTQ1NzQyIn0.8izlJvTwhd-Qp9B1zj1Tr2j4bJfky2Uj5FNrGKBwly0&s=72&u=4170de41c84c93bb043cc1987747336c20309a65&v=4" width="24" alt="Avatar of bryanmylee"/> bryanmylee
 			</a><br/>
 			Bryan Lee
 		</td>
@@ -9496,10 +9483,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>91</td>
 	</tr>
 	<tr>
-		<td>723</td>
+		<td>722</td>
 		<td>
 			<a target="_blank" href="https://github.com/wilsonwid">
-				<img src="https://private-avatars.githubusercontent.com/u/87320062?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwMDAsIm5iZiI6MTczNDY0OTgwMCwicGF0aCI6Ii91Lzg3MzIwMDYyIn0.pqORd-nK0NEqGmRmbwbUzLAvMT43lG2gnYKas2SpFZ8&s=72&u=6e31d8cbf1c50b91c2d9dad59be8c541ad750c20&v=4" width="24" alt="Avatar of wilsonwid"/> wilsonwid
+				<img src="https://private-avatars.githubusercontent.com/u/87320062?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwMDAsIm5iZiI6MTczNDY4NTgwMCwicGF0aCI6Ii91Lzg3MzIwMDYyIn0.KGHW_HIr9ElTFqWTSnBUEcGX6NtSEdIaHvcf_mmbfSI&s=72&u=6e31d8cbf1c50b91c2d9dad59be8c541ad750c20&v=4" width="24" alt="Avatar of wilsonwid"/> wilsonwid
 			</a><br/>
 			Wilson Widyadhana
 		</td>
@@ -9509,10 +9496,23 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>91</td>
 	</tr>
 	<tr>
+		<td>723</td>
+		<td>
+			<a target="_blank" href="https://github.com/decster">
+				<img src="https://private-avatars.githubusercontent.com/u/193300?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91LzE5MzMwMCJ9.0-IKBtQq_S8vxbFrKAVNwLZyjE73BsuZloVFZUgfhQg&s=72&u=989127cccee095f3565ad640d5d2232416aba6cc&v=4" width="24" alt="Avatar of decster"/> decster
+			</a><br/>
+			Binglin Chang
+		</td>
+		<td>Starrocks </td>
+		<td>No Twitter Username</td>
+		<td>Singapore</td>
+		<td>91</td>
+	</tr>
+	<tr>
 		<td>724</td>
 		<td>
 			<a target="_blank" href="https://github.com/KKZ20">
-				<img src="https://private-avatars.githubusercontent.com/u/46569774?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzQ2NTY5Nzc0In0.MgOhdXQQa8525CnbIUQ8Yrc9lcnwSklL2CWZoQbGj2Q&s=72&u=880ff49ca57fa01af20e209b44276b176f1ab5aa&v=4" width="24" alt="Avatar of KKZ20"/> KKZ20
+				<img src="https://private-avatars.githubusercontent.com/u/46569774?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzQ2NTY5Nzc0In0.8JPGIGkqdu9tYSh6vxjE8ZnqGmKtSoXS-FfGhHt7ltM&s=72&u=880ff49ca57fa01af20e209b44276b176f1ab5aa&v=4" width="24" alt="Avatar of KKZ20"/> KKZ20
 			</a><br/>
 			Zhongkai Zhao
 		</td>
@@ -9525,7 +9525,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>725</td>
 		<td>
 			<a target="_blank" href="https://github.com/mikong">
-				<img src="https://private-avatars.githubusercontent.com/u/4162?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzMDAsIm5iZiI6MTczNDY1MDEwMCwicGF0aCI6Ii91LzQxNjIifQ.TZVySYqZDH-RcyKL1GTlSQ8TFjLgX3ED-MxP-bqcfZs&s=72&u=2f08978109b788864b4824b8df39e268e2d3bc25&v=4" width="24" alt="Avatar of mikong"/> mikong
+				<img src="https://private-avatars.githubusercontent.com/u/4162?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODczMDAsIm5iZiI6MTczNDY4NjEwMCwicGF0aCI6Ii91LzQxNjIifQ.IK2Y3yrEo8h3nFqUKxGKzjlXBGFZJKRzUEyaq3y84jY&s=72&u=2f08978109b788864b4824b8df39e268e2d3bc25&v=4" width="24" alt="Avatar of mikong"/> mikong
 			</a><br/>
 			Michael Galero
 		</td>
@@ -9538,7 +9538,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>726</td>
 		<td>
 			<a target="_blank" href="https://github.com/pranabdas">
-				<img src="https://private-avatars.githubusercontent.com/u/31024886?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4ODAsIm5iZiI6MTczNDY0OTY4MCwicGF0aCI6Ii91LzMxMDI0ODg2In0.kVgkuU16pPUbLBKQRcypRGrZcUib5JAnNmxxrHiMF1A&s=72&u=e22157e724452ad047b732f97e6c3d4a724585cf&v=4" width="24" alt="Avatar of pranabdas"/> pranabdas
+				<img src="https://private-avatars.githubusercontent.com/u/31024886?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4ODAsIm5iZiI6MTczNDY4NTY4MCwicGF0aCI6Ii91LzMxMDI0ODg2In0.WDhjDyCJGgnPQh9wEKWrTqWAa6GG6rQpDzW78zUENTA&s=72&u=e22157e724452ad047b732f97e6c3d4a724585cf&v=4" width="24" alt="Avatar of pranabdas"/> pranabdas
 			</a><br/>
 			Pranab Das
 		</td>
@@ -9551,7 +9551,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>727</td>
 		<td>
 			<a target="_blank" href="https://github.com/stephenleo">
-				<img src="https://private-avatars.githubusercontent.com/u/35026793?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA5NDAsIm5iZiI6MTczNDY0OTc0MCwicGF0aCI6Ii91LzM1MDI2NzkzIn0.JdsWKD7SiGVKkkk78Wv8LPAbUavOXOFUb97WyxRXrII&s=72&u=7902f50c4fc9862c95c37d0ecffc214fd6f8460a&v=4" width="24" alt="Avatar of stephenleo"/> stephenleo
+				<img src="https://private-avatars.githubusercontent.com/u/35026793?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY5NDAsIm5iZiI6MTczNDY4NTc0MCwicGF0aCI6Ii91LzM1MDI2NzkzIn0.VKJUEekFnwMRAfEWwQHheZi99F43DPp3pRa2nRLQIlg&s=72&u=7902f50c4fc9862c95c37d0ecffc214fd6f8460a&v=4" width="24" alt="Avatar of stephenleo"/> stephenleo
 			</a><br/>
 			Marie Stephen Leo
 		</td>
@@ -9564,7 +9564,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>728</td>
 		<td>
 			<a target="_blank" href="https://github.com/kokrui">
-				<img src="https://private-avatars.githubusercontent.com/u/29654756?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA5NDAsIm5iZiI6MTczNDY0OTc0MCwicGF0aCI6Ii91LzI5NjU0NzU2In0._aVHymmEFA9DFN4Z4vQtqmmmsXpSzglEa2LNvdob5eM&s=72&v=4" width="24" alt="Avatar of kokrui"/> kokrui
+				<img src="https://private-avatars.githubusercontent.com/u/29654756?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY5NDAsIm5iZiI6MTczNDY4NTc0MCwicGF0aCI6Ii91LzI5NjU0NzU2In0.QS1YHEEBZYp79CYC2WuFlJ2rmrVjdomUIG5VMBTx6zI&s=72&v=4" width="24" alt="Avatar of kokrui"/> kokrui
 			</a><br/>
 			Kok Rui Wong
 		</td>
@@ -9576,21 +9576,8 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 	<tr>
 		<td>729</td>
 		<td>
-			<a target="_blank" href="https://github.com/hongshibao">
-				<img src="https://private-avatars.githubusercontent.com/u/13634371?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE1NDAsIm5iZiI6MTczNDY1MDM0MCwicGF0aCI6Ii91LzEzNjM0MzcxIn0.LkzjQ2ifzr8wyp2yeIs3VIsnQNRaTrqDbfeX_wCqGqo&s=72&u=59bbd63af3a7f8899a6d3c06811e0ae58e3cc8cf&v=4" width="24" alt="Avatar of hongshibao"/> hongshibao
-			</a><br/>
-			thinkpoet
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Singapore</td>
-		<td>90</td>
-	</tr>
-	<tr>
-		<td>730</td>
-		<td>
 			<a target="_blank" href="https://github.com/tetratorus">
-				<img src="https://private-avatars.githubusercontent.com/u/4226174?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE0MjAsIm5iZiI6MTczNDY1MDIyMCwicGF0aCI6Ii91LzQyMjYxNzQifQ.9LPVriRF4Y-v4Sa4Wcp_dptZ74ROS8WHrJx4Jyvjr1s&s=72&u=ef2c3dbd202b0988b626845c4c3c13d6cc2249c7&v=4" width="24" alt="Avatar of tetratorus"/> tetratorus
+				<img src="https://private-avatars.githubusercontent.com/u/4226174?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODc0MjAsIm5iZiI6MTczNDY4NjIyMCwicGF0aCI6Ii91LzQyMjYxNzQifQ.czoNfLJ0twi3LnlrGV10WbSwns9tG4rgXOFVxT74vxM&s=72&u=ef2c3dbd202b0988b626845c4c3c13d6cc2249c7&v=4" width="24" alt="Avatar of tetratorus"/> tetratorus
 			</a><br/>
 			Leonard Tan
 		</td>
@@ -9600,10 +9587,23 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>90</td>
 	</tr>
 	<tr>
+		<td>730</td>
+		<td>
+			<a target="_blank" href="https://github.com/suhtun">
+				<img src="https://private-avatars.githubusercontent.com/u/56341222?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcyNDAsIm5iZiI6MTczNDY4NjA0MCwicGF0aCI6Ii91LzU2MzQxMjIyIn0.9JtDtjghIYEJXNrDmIdxtfWnBHKhyUkhYCcvYCQy3k4&s=72&u=dae2aa899d53fa8a6b4aae2889a40b395111dcd9&v=4" width="24" alt="Avatar of suhtun"/> suhtun
+			</a><br/>
+			Su
+		</td>
+		<td>Lomotif </td>
+		<td><a target="_blank" href="https://twitter.com/jessica_sumyat">jessica_sumyat</a></td>
+		<td>Singapore</td>
+		<td>90</td>
+	</tr>
+	<tr>
 		<td>731</td>
 		<td>
 			<a target="_blank" href="https://github.com/rwerplus">
-				<img src="https://private-avatars.githubusercontent.com/u/48611415?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA3NjAsIm5iZiI6MTczNDY0OTU2MCwicGF0aCI6Ii91LzQ4NjExNDE1In0.kptXVBpJQ_2431el44U4wX0LFeSgFcKgfKWvw6OO5_U&s=72&u=26665cc3b33d124fabcf457ce1f861fc5a0493ec&v=4" width="24" alt="Avatar of rwerplus"/> rwerplus
+				<img src="https://private-avatars.githubusercontent.com/u/48611415?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91LzQ4NjExNDE1In0.tA5tI2o9vlSryo7cPQHT_uY9I7VUxrwe_Ft2MnRmFu0&s=72&u=26665cc3b33d124fabcf457ce1f861fc5a0493ec&v=4" width="24" alt="Avatar of rwerplus"/> rwerplus
 			</a><br/>
 			SageWizWang
 		</td>
@@ -9616,7 +9616,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>732</td>
 		<td>
 			<a target="_blank" href="https://github.com/hustnn">
-				<img src="https://private-avatars.githubusercontent.com/u/73186?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE1NDAsIm5iZiI6MTczNDY1MDM0MCwicGF0aCI6Ii91LzczMTg2In0.6LSmQHD3Z1nuZcHR38wF9goejLyMoyM63FGlCgBS2tI&s=72&u=c1e0ab857c63074cf3ef9c8f4bfa75e90766251e&v=4" width="24" alt="Avatar of hustnn"/> hustnn
+				<img src="https://private-avatars.githubusercontent.com/u/73186?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91LzczMTg2In0.fZcqi-H-iSPymhnug4_UFn2mm_yercrQhKrqfO00nys&s=72&u=c1e0ab857c63074cf3ef9c8f4bfa75e90766251e&v=4" width="24" alt="Avatar of hustnn"/> hustnn
 			</a><br/>
 			No Name
 		</td>
@@ -9629,7 +9629,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>733</td>
 		<td>
 			<a target="_blank" href="https://github.com/Ariana1729">
-				<img src="https://private-avatars.githubusercontent.com/u/22134168?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA5NDAsIm5iZiI6MTczNDY0OTc0MCwicGF0aCI6Ii91LzIyMTM0MTY4In0.o00alBMAmzzBfMbtYDoMATryolw_5bQrmhJVVXazap8&s=72&u=2b04c8d0d40649196fed9a5967656db01709b317&v=4" width="24" alt="Avatar of Ariana1729"/> Ariana1729
+				<img src="https://private-avatars.githubusercontent.com/u/22134168?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY5NDAsIm5iZiI6MTczNDY4NTc0MCwicGF0aCI6Ii91LzIyMTM0MTY4In0.RAIVMUsSYs7-GP2UkS2W_I6nBsybyeWLUBi-hzNLHY0&s=72&u=2b04c8d0d40649196fed9a5967656db01709b317&v=4" width="24" alt="Avatar of Ariana1729"/> Ariana1729
 			</a><br/>
 			Ariana
 		</td>
@@ -9642,7 +9642,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>734</td>
 		<td>
 			<a target="_blank" href="https://github.com/guoyang9">
-				<img src="https://private-avatars.githubusercontent.com/u/35999950?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA5NDAsIm5iZiI6MTczNDY0OTc0MCwicGF0aCI6Ii91LzM1OTk5OTUwIn0.zZ69je2RFV7NrN1rC8zmdEtU9l0gl7NkR1aliX9Be6s&s=72&u=84af99ed7657805166f7ee7aaf5cbf1deae50c28&v=4" width="24" alt="Avatar of guoyang9"/> guoyang9
+				<img src="https://private-avatars.githubusercontent.com/u/35999950?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY5NDAsIm5iZiI6MTczNDY4NTc0MCwicGF0aCI6Ii91LzM1OTk5OTUwIn0.oDJPZNfvKZCAYbqKEr7BZFO1hCnSgJSrPXi207-qZLQ&s=72&u=84af99ed7657805166f7ee7aaf5cbf1deae50c28&v=4" width="24" alt="Avatar of guoyang9"/> guoyang9
 			</a><br/>
 			Yangyang Guo 
 		</td>
@@ -9655,7 +9655,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>735</td>
 		<td>
 			<a target="_blank" href="https://github.com/NieXC">
-				<img src="https://private-avatars.githubusercontent.com/u/26627450?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzI2NjI3NDUwIn0.0Is2QQBnxSI-mtopAWDysGJ7xW61Mlujp2VFKIje4CA&s=72&v=4" width="24" alt="Avatar of NieXC"/> NieXC
+				<img src="https://private-avatars.githubusercontent.com/u/26627450?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxODAsIm5iZiI6MTczNDY4NTk4MCwicGF0aCI6Ii91LzI2NjI3NDUwIn0.yCawR-4NmlE3nZ7wG6ubmKDD3C29gHxugFryqcYLxQc&s=72&v=4" width="24" alt="Avatar of NieXC"/> NieXC
 			</a><br/>
 			NIE Xuecheng
 		</td>
@@ -9668,7 +9668,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>736</td>
 		<td>
 			<a target="_blank" href="https://github.com/liyixin1413">
-				<img src="https://private-avatars.githubusercontent.com/u/103812800?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4ODAsIm5iZiI6MTczNDY0OTY4MCwicGF0aCI6Ii91LzEwMzgxMjgwMCJ9.jWS9ITx3fA6frVjjBrJ2WfV69hF-4tfw6yLsAO3PRj0&s=72&u=3f11b6a3177314e66b6baa9e264c9730dbc1b624&v=4" width="24" alt="Avatar of liyixin1413"/> liyixin1413
+				<img src="https://private-avatars.githubusercontent.com/u/103812800?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4ODAsIm5iZiI6MTczNDY4NTY4MCwicGF0aCI6Ii91LzEwMzgxMjgwMCJ9.TpUnhpU4NBD-z4u8MP4FIviEbphurL0EmB17AdpK93U&s=72&u=3f11b6a3177314e66b6baa9e264c9730dbc1b624&v=4" width="24" alt="Avatar of liyixin1413"/> liyixin1413
 			</a><br/>
 			LiYiXin
 		</td>
@@ -9680,21 +9680,8 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 	<tr>
 		<td>737</td>
 		<td>
-			<a target="_blank" href="https://github.com/jaryl">
-				<img src="https://private-avatars.githubusercontent.com/u/19878?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE0ODAsIm5iZiI6MTczNDY1MDI4MCwicGF0aCI6Ii91LzE5ODc4In0.zQRFKZNo0oKCwaz1JzbBipG8ZVFiyu-oaNG7erRHnJk&s=72&u=117cd5e83502a6433f578dae2e430f26c544e3fe&v=4" width="24" alt="Avatar of jaryl"/> jaryl
-			</a><br/>
-			Jaryl Sim
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Singapore</td>
-		<td>89</td>
-	</tr>
-	<tr>
-		<td>738</td>
-		<td>
 			<a target="_blank" href="https://github.com/gaqzi">
-				<img src="https://private-avatars.githubusercontent.com/u/18167?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE0MjAsIm5iZiI6MTczNDY1MDIyMCwicGF0aCI6Ii91LzE4MTY3In0.pypASO-zg47fdaJ1ukP-pF1lIUDUAnmAjeF6WQKlJxs&s=72&v=4" width="24" alt="Avatar of gaqzi"/> gaqzi
+				<img src="https://private-avatars.githubusercontent.com/u/18167?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODc0MjAsIm5iZiI6MTczNDY4NjIyMCwicGF0aCI6Ii91LzE4MTY3In0.ixLqVT4dWkKkYthtzceedkv6b3m9dU_ztty7yhYApts&s=72&v=4" width="24" alt="Avatar of gaqzi"/> gaqzi
 			</a><br/>
 			Bjrn Andersson
 		</td>
@@ -9704,10 +9691,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>89</td>
 	</tr>
 	<tr>
-		<td>739</td>
+		<td>738</td>
 		<td>
 			<a target="_blank" href="https://github.com/dranov">
-				<img src="https://private-avatars.githubusercontent.com/u/1622998?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzNjAsIm5iZiI6MTczNDY1MDE2MCwicGF0aCI6Ii91LzE2MjI5OTgifQ.LxGnKYvd0FaGg6p24ml7V8DHmMBonR01zsnKrjZH-2Y&s=72&u=8be1c0ec468f9d8088ae9f1dfefa945d9eb65f83&v=4" width="24" alt="Avatar of dranov"/> dranov
+				<img src="https://private-avatars.githubusercontent.com/u/1622998?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODczNjAsIm5iZiI6MTczNDY4NjE2MCwicGF0aCI6Ii91LzE2MjI5OTgifQ.foZl9BDOl8VlltNDZ_mhC3IOVdReJZ-ZGs-3G4BAZuw&s=72&u=8be1c0ec468f9d8088ae9f1dfefa945d9eb65f83&v=4" width="24" alt="Avatar of dranov"/> dranov
 			</a><br/>
 			George Prlea
 		</td>
@@ -9717,23 +9704,23 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>89</td>
 	</tr>
 	<tr>
-		<td>740</td>
+		<td>739</td>
 		<td>
-			<a target="_blank" href="https://github.com/goncharenko">
-				<img src="https://private-avatars.githubusercontent.com/u/3524688?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE1NDAsIm5iZiI6MTczNDY1MDM0MCwicGF0aCI6Ii91LzM1MjQ2ODgifQ.ztumyRRexwVjCIuRf99CJeFKI4OvcxYhT6K1DFyjKqA&s=72&u=94b8e33405497f3459e9b048e2b0a7dfe4614d80&v=4" width="24" alt="Avatar of goncharenko"/> goncharenko
+			<a target="_blank" href="https://github.com/hongshibao">
+				<img src="https://private-avatars.githubusercontent.com/u/13634371?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91LzEzNjM0MzcxIn0.YTm1CNY3h0aItgYpapauf80XuTTnAItMRiDejSp1cMU&s=72&u=59bbd63af3a7f8899a6d3c06811e0ae58e3cc8cf&v=4" width="24" alt="Avatar of hongshibao"/> hongshibao
 			</a><br/>
-			Vitaly Goncharenko
+			thinkpoet
 		</td>
-		<td>Mercer Darwin </td>
-		<td><a target="_blank" href="https://twitter.com/vgoncharenko">vgoncharenko</a></td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
 		<td>Singapore</td>
 		<td>89</td>
 	</tr>
 	<tr>
-		<td>741</td>
+		<td>740</td>
 		<td>
 			<a target="_blank" href="https://github.com/Persdre">
-				<img src="https://private-avatars.githubusercontent.com/u/35624031?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE0MjAsIm5iZiI6MTczNDY1MDIyMCwicGF0aCI6Ii91LzM1NjI0MDMxIn0.K1w5D4F2PMa6AbRuWuJhju7btqU9xo2a5eaf-Lu0q9I&s=72&u=03efd26862737c2fc371a6f769d89eef4e26e63e&v=4" width="24" alt="Avatar of Persdre"/> Persdre
+				<img src="https://private-avatars.githubusercontent.com/u/35624031?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODc0MjAsIm5iZiI6MTczNDY4NjIyMCwicGF0aCI6Ii91LzM1NjI0MDMxIn0.e8a2vpBV4a1ppq-xWrIH6MqUJLSJBuTWPQPa_vAigJs&s=72&u=03efd26862737c2fc371a6f769d89eef4e26e63e&v=4" width="24" alt="Avatar of Persdre"/> Persdre
 			</a><br/>
 			Qian
 		</td>
@@ -9743,10 +9730,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>89</td>
 	</tr>
 	<tr>
-		<td>742</td>
+		<td>741</td>
 		<td>
 			<a target="_blank" href="https://github.com/robin-thomas">
-				<img src="https://private-avatars.githubusercontent.com/u/3542041?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzM1NDIwNDEifQ.ZA5oQlFSbshTU8IR6qhhOhwgx-3crc_4BZwFJmflHto&s=72&u=ff6d6bc3f68c073be80a90ad3da21a892d69d1f5&v=4" width="24" alt="Avatar of robin-thomas"/> robin-thomas
+				<img src="https://private-avatars.githubusercontent.com/u/3542041?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzM1NDIwNDEifQ.06a78A_FStN6gu8hqSi9SA8Oivkwa7759fGGgygJ0cA&s=72&u=ff6d6bc3f68c073be80a90ad3da21a892d69d1f5&v=4" width="24" alt="Avatar of robin-thomas"/> robin-thomas
 			</a><br/>
 			Robin Thomas
 		</td>
@@ -9756,10 +9743,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>89</td>
 	</tr>
 	<tr>
-		<td>743</td>
+		<td>742</td>
 		<td>
 			<a target="_blank" href="https://github.com/hieuk09">
-				<img src="https://private-avatars.githubusercontent.com/u/1930954?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA5NDAsIm5iZiI6MTczNDY0OTc0MCwicGF0aCI6Ii91LzE5MzA5NTQifQ.IG-rYL88ZRhbRJH2oeQ8nD7VFngozvjCKmxsnzEMzxo&s=72&u=03b9a46179271efff892fc972aba56a378a1a254&v=4" width="24" alt="Avatar of hieuk09"/> hieuk09
+				<img src="https://private-avatars.githubusercontent.com/u/1930954?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY5NDAsIm5iZiI6MTczNDY4NTc0MCwicGF0aCI6Ii91LzE5MzA5NTQifQ.UhsLst3N6GRvD8_nDbVlldIyORJ8C63gPEuEJ9D7vYI&s=72&u=03b9a46179271efff892fc972aba56a378a1a254&v=4" width="24" alt="Avatar of hieuk09"/> hieuk09
 			</a><br/>
 			Hiu Nguyn
 		</td>
@@ -9769,23 +9756,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>89</td>
 	</tr>
 	<tr>
-		<td>744</td>
-		<td>
-			<a target="_blank" href="https://github.com/suhtun">
-				<img src="https://private-avatars.githubusercontent.com/u/56341222?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEyNDAsIm5iZiI6MTczNDY1MDA0MCwicGF0aCI6Ii91LzU2MzQxMjIyIn0.rTvt9fiOLHOGyE1IhQx6lNzngDps4P6__Rkl15DM2dw&s=72&u=dae2aa899d53fa8a6b4aae2889a40b395111dcd9&v=4" width="24" alt="Avatar of suhtun"/> suhtun
-			</a><br/>
-			Su
-		</td>
-		<td>Lomotif </td>
-		<td><a target="_blank" href="https://twitter.com/jessica_sumyat">jessica_sumyat</a></td>
-		<td>Singapore</td>
-		<td>89</td>
-	</tr>
-	<tr>
-		<td>745</td>
+		<td>743</td>
 		<td>
 			<a target="_blank" href="https://github.com/yongjun21">
-				<img src="https://private-avatars.githubusercontent.com/u/8717401?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE2MDAsIm5iZiI6MTczNDY1MDQwMCwicGF0aCI6Ii91Lzg3MTc0MDEifQ.XH-EJnvSfV8_RFOnjxRu6BJXeyRaoOsmagYFrNCPttg&s=72&u=4138d18f73c37faef455a3f2c94a3105e65f5a2d&v=4" width="24" alt="Avatar of yongjun21"/> yongjun21
+				<img src="https://private-avatars.githubusercontent.com/u/8717401?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3MDAsIm5iZiI6MTczNDY4NTUwMCwicGF0aCI6Ii91Lzg3MTc0MDEifQ.57mI745onz2CjV9PKS-44IHr3u8HUgILlue13kYH5bo&s=72&u=4138d18f73c37faef455a3f2c94a3105e65f5a2d&v=4" width="24" alt="Avatar of yongjun21"/> yongjun21
 			</a><br/>
 			Yong Jun
 		</td>
@@ -9795,10 +9769,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>89</td>
 	</tr>
 	<tr>
-		<td>746</td>
+		<td>744</td>
 		<td>
 			<a target="_blank" href="https://github.com/lhyfst">
-				<img src="https://private-avatars.githubusercontent.com/u/29816816?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzI5ODE2ODE2In0._Uxpom6_t-FvVrGeElyHn91Vq0f9bGbRte5j20L_eTs&s=72&u=4c7a74381d2c95aad1fc4a78e2381ffc5d7bb8bf&v=4" width="24" alt="Avatar of lhyfst"/> lhyfst
+				<img src="https://private-avatars.githubusercontent.com/u/29816816?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxODAsIm5iZiI6MTczNDY4NTk4MCwicGF0aCI6Ii91LzI5ODE2ODE2In0.q_uMUiUfFfuBoSFqmn7OqdNCg34WOUDSF4jGTl5M8rM&s=72&u=4c7a74381d2c95aad1fc4a78e2381ffc5d7bb8bf&v=4" width="24" alt="Avatar of lhyfst"/> lhyfst
 			</a><br/>
 			liheyuan
 		</td>
@@ -9808,10 +9782,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>89</td>
 	</tr>
 	<tr>
-		<td>747</td>
+		<td>745</td>
 		<td>
 			<a target="_blank" href="https://github.com/Mevrael">
-				<img src="https://private-avatars.githubusercontent.com/u/7879528?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzMDAsIm5iZiI6MTczNDY1MDEwMCwicGF0aCI6Ii91Lzc4Nzk1MjgifQ.fwcuHtkYdylDSKalYGrYcIfHNmAUKmvUrxUkG4VSNAg&s=72&u=6659ce3d948f52f783fc330765847b8eba825dad&v=4" width="24" alt="Avatar of Mevrael"/> Mevrael
+				<img src="https://private-avatars.githubusercontent.com/u/7879528?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODczMDAsIm5iZiI6MTczNDY4NjEwMCwicGF0aCI6Ii91Lzc4Nzk1MjgifQ.BR2iwl2l4-pAXVqMhPqqHZlxmbRc2gOyhi-pgwY1O1M&s=72&u=6659ce3d948f52f783fc330765847b8eba825dad&v=4" width="24" alt="Avatar of Mevrael"/> Mevrael
 			</a><br/>
 			MevRael
 		</td>
@@ -9821,10 +9795,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>89</td>
 	</tr>
 	<tr>
-		<td>748</td>
+		<td>746</td>
 		<td>
 			<a target="_blank" href="https://github.com/tureki">
-				<img src="https://private-avatars.githubusercontent.com/u/289419?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE0ODAsIm5iZiI6MTczNDY1MDI4MCwicGF0aCI6Ii91LzI4OTQxOSJ9.vL6VEN6r40QYvVnRp72YB-QijmoLPH-h-rT3iomtHRo&s=72&v=4" width="24" alt="Avatar of tureki"/> tureki
+				<img src="https://private-avatars.githubusercontent.com/u/289419?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODc0ODAsIm5iZiI6MTczNDY4NjI4MCwicGF0aCI6Ii91LzI4OTQxOSJ9.OE0q8ssycevWEB4s4y62iAVI1GuCUzfpGpj_uWrJ8AM&s=72&v=4" width="24" alt="Avatar of tureki"/> tureki
 			</a><br/>
 			Kah Wai Liew
 		</td>
@@ -9834,10 +9808,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>89</td>
 	</tr>
 	<tr>
-		<td>749</td>
+		<td>747</td>
 		<td>
 			<a target="_blank" href="https://github.com/barnabemonnot">
-				<img src="https://private-avatars.githubusercontent.com/u/4910325?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzMDAsIm5iZiI6MTczNDY1MDEwMCwicGF0aCI6Ii91LzQ5MTAzMjUifQ.0GnyZBgpLOLE5LloNboPGXe7aPh8rurnshpPS0CGF7w&s=72&u=ab02b5a4a7388eb45b51cc98967b32479b607f45&v=4" width="24" alt="Avatar of barnabemonnot"/> barnabemonnot
+				<img src="https://private-avatars.githubusercontent.com/u/4910325?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODczMDAsIm5iZiI6MTczNDY4NjEwMCwicGF0aCI6Ii91LzQ5MTAzMjUifQ.3Ye1Gz0vjMu7EDvZ59AFf9lhAQeA6vFJR6JwWFrV1G0&s=72&u=ab02b5a4a7388eb45b51cc98967b32479b607f45&v=4" width="24" alt="Avatar of barnabemonnot"/> barnabemonnot
 			</a><br/>
 			Barnab Monnot
 		</td>
@@ -9847,10 +9821,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>89</td>
 	</tr>
 	<tr>
-		<td>750</td>
+		<td>748</td>
 		<td>
 			<a target="_blank" href="https://github.com/quangounet">
-				<img src="https://private-avatars.githubusercontent.com/u/2844158?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzMDAsIm5iZiI6MTczNDY1MDEwMCwicGF0aCI6Ii91LzI4NDQxNTgifQ.cj5m16hZA6QCILud03h-z1m9_HFl0o7i70NDELzxPUw&s=72&u=b91cd28d8e39db008c909c8a7247b1779f8efa4f&v=4" width="24" alt="Avatar of quangounet"/> quangounet
+				<img src="https://private-avatars.githubusercontent.com/u/2844158?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODczMDAsIm5iZiI6MTczNDY4NjEwMCwicGF0aCI6Ii91LzI4NDQxNTgifQ.KMlKzLa8OA_yeYFlOEqe6UmJYE2dry15BP4DvXRYPWQ&s=72&u=b91cd28d8e39db008c909c8a7247b1779f8efa4f&v=4" width="24" alt="Avatar of quangounet"/> quangounet
 			</a><br/>
 			Cuong
 		</td>
@@ -9860,10 +9834,23 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>89</td>
 	</tr>
 	<tr>
-		<td>751</td>
+		<td>749</td>
+		<td>
+			<a target="_blank" href="https://github.com/jaryl">
+				<img src="https://private-avatars.githubusercontent.com/u/19878?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODc0ODAsIm5iZiI6MTczNDY4NjI4MCwicGF0aCI6Ii91LzE5ODc4In0.CXNTP46OJmlosjMXlnqccCgXHJf5_70yzh5z4-fLQ1s&s=72&u=117cd5e83502a6433f578dae2e430f26c544e3fe&v=4" width="24" alt="Avatar of jaryl"/> jaryl
+			</a><br/>
+			Jaryl Sim
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Singapore</td>
+		<td>88</td>
+	</tr>
+	<tr>
+		<td>750</td>
 		<td>
 			<a target="_blank" href="https://github.com/Ravoxsg">
-				<img src="https://private-avatars.githubusercontent.com/u/26378951?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzNjAsIm5iZiI6MTczNDY1MDE2MCwicGF0aCI6Ii91LzI2Mzc4OTUxIn0.QB7h2-LbthVGJJ0u4Q3TTUvXj-o7yG54BECAe790CaQ&s=72&u=2351d20fbcbc7ff0ad250f19fae9354f00424e24&v=4" width="24" alt="Avatar of Ravoxsg"/> Ravoxsg
+				<img src="https://private-avatars.githubusercontent.com/u/26378951?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODczNjAsIm5iZiI6MTczNDY4NjE2MCwicGF0aCI6Ii91LzI2Mzc4OTUxIn0.X428pKGT-njKznr47O6ck5HZW09exYdfAXJmfKf8xJA&s=72&u=2351d20fbcbc7ff0ad250f19fae9354f00424e24&v=4" width="24" alt="Avatar of Ravoxsg"/> Ravoxsg
 			</a><br/>
 			Mathieu Ravaut
 		</td>
@@ -9873,10 +9860,23 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>88</td>
 	</tr>
 	<tr>
+		<td>751</td>
+		<td>
+			<a target="_blank" href="https://github.com/goncharenko">
+				<img src="https://private-avatars.githubusercontent.com/u/3524688?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91LzM1MjQ2ODgifQ.8DlhzhQX3stuRmeqAbHarUGoAwZ4nd7bHSZ05RL4cnA&s=72&u=94b8e33405497f3459e9b048e2b0a7dfe4614d80&v=4" width="24" alt="Avatar of goncharenko"/> goncharenko
+			</a><br/>
+			Vitaly Goncharenko
+		</td>
+		<td>Mercer Darwin </td>
+		<td><a target="_blank" href="https://twitter.com/vgoncharenko">vgoncharenko</a></td>
+		<td>Singapore</td>
+		<td>88</td>
+	</tr>
+	<tr>
 		<td>752</td>
 		<td>
 			<a target="_blank" href="https://github.com/Kr1s7on">
-				<img src="https://private-avatars.githubusercontent.com/u/148928086?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4ODAsIm5iZiI6MTczNDY0OTY4MCwicGF0aCI6Ii91LzE0ODkyODA4NiJ9.svch3atkrVkasYnssuJIW7YVAKFDcJHqDIdNpfj1oxU&s=72&u=c6aa6ff1ed504854a67dc5c13e6ac3b212618cd1&v=4" width="24" alt="Avatar of Kr1s7on"/> Kr1s7on
+				<img src="https://private-avatars.githubusercontent.com/u/148928086?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4ODAsIm5iZiI6MTczNDY4NTY4MCwicGF0aCI6Ii91LzE0ODkyODA4NiJ9.fSySamHplkzzR43G60nKSs708Toea7iYaW8CRrEIIWk&s=72&u=c6aa6ff1ed504854a67dc5c13e6ac3b212618cd1&v=4" width="24" alt="Avatar of Kr1s7on"/> Kr1s7on
 			</a><br/>
 			Kriston J
 		</td>
@@ -9889,7 +9889,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>753</td>
 		<td>
 			<a target="_blank" href="https://github.com/d99kris">
-				<img src="https://private-avatars.githubusercontent.com/u/786150?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA5NDAsIm5iZiI6MTczNDY0OTc0MCwicGF0aCI6Ii91Lzc4NjE1MCJ9.bCqoUoBVg5lep62llZ4aDRavE_FpwyZ3DrIMcc6ox5E&s=72&u=fd6e3497850bc3a0492f0421ebd4a037b8b1b3df&v=4" width="24" alt="Avatar of d99kris"/> d99kris
+				<img src="https://private-avatars.githubusercontent.com/u/786150?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY5NDAsIm5iZiI6MTczNDY4NTc0MCwicGF0aCI6Ii91Lzc4NjE1MCJ9.V35lewjYBYN2lMdtHAkAf1nRtI3HaZNMATCr77t0v58&s=72&u=fd6e3497850bc3a0492f0421ebd4a037b8b1b3df&v=4" width="24" alt="Avatar of d99kris"/> d99kris
 			</a><br/>
 			Kristofer Berggren
 		</td>
@@ -9902,7 +9902,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>754</td>
 		<td>
 			<a target="_blank" href="https://github.com/btzy">
-				<img src="https://private-avatars.githubusercontent.com/u/6948096?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEyNDAsIm5iZiI6MTczNDY1MDA0MCwicGF0aCI6Ii91LzY5NDgwOTYifQ.mrwk2ASe1WXuga0ADtLpOkE7G1hMXrnZLr-nzNx5Z80&s=72&u=0a92ce049f19abc1c9e47f055233754c2147ea59&v=4" width="24" alt="Avatar of btzy"/> btzy
+				<img src="https://private-avatars.githubusercontent.com/u/6948096?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcyNDAsIm5iZiI6MTczNDY4NjA0MCwicGF0aCI6Ii91LzY5NDgwOTYifQ.3VUCkG_miJS9SYPYilM18Rnu-Pm6COOhI2UoMyiJsCg&s=72&u=0a92ce049f19abc1c9e47f055233754c2147ea59&v=4" width="24" alt="Avatar of btzy"/> btzy
 			</a><br/>
 			Bernard Teo
 		</td>
@@ -9915,7 +9915,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>755</td>
 		<td>
 			<a target="_blank" href="https://github.com/paul007pl">
-				<img src="https://private-avatars.githubusercontent.com/u/6849822?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzY4NDk4MjIifQ.rzTFC0bz5jE1BTbcjrWS1y_F4UGuhzzofG0I3bBf4i8&s=72&v=4" width="24" alt="Avatar of paul007pl"/> paul007pl
+				<img src="https://private-avatars.githubusercontent.com/u/6849822?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzY4NDk4MjIifQ.qALSK73LXmX88naNO64CrtIuZRikvo_rSfXwUh1Hyg0&s=72&v=4" width="24" alt="Avatar of paul007pl"/> paul007pl
 			</a><br/>
 			No Name
 		</td>
@@ -9928,7 +9928,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>756</td>
 		<td>
 			<a target="_blank" href="https://github.com/techbanca">
-				<img src="https://private-avatars.githubusercontent.com/u/38743943?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEyNDAsIm5iZiI6MTczNDY1MDA0MCwicGF0aCI6Ii91LzM4NzQzOTQzIn0.kZxrdw_Tg0rp1WGWmSkwi4Kp40YYS1poQVV9x400xbY&s=72&u=e21cf21a8dd6ccd31a2baa307476f9357d925fa0&v=4" width="24" alt="Avatar of techbanca"/> techbanca
+				<img src="https://private-avatars.githubusercontent.com/u/38743943?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcyNDAsIm5iZiI6MTczNDY4NjA0MCwicGF0aCI6Ii91LzM4NzQzOTQzIn0.VAFY5VkHj3aNvm9IWJP9fIZ8_WjD-j4C1PqVZJjNf2g&s=72&u=e21cf21a8dd6ccd31a2baa307476f9357d925fa0&v=4" width="24" alt="Avatar of techbanca"/> techbanca
 			</a><br/>
 			Banca
 		</td>
@@ -9941,7 +9941,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>757</td>
 		<td>
 			<a target="_blank" href="https://github.com/mitcho">
-				<img src="https://private-avatars.githubusercontent.com/u/57769?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4ODAsIm5iZiI6MTczNDY0OTY4MCwicGF0aCI6Ii91LzU3NzY5In0.mnexpr7CMvpJVMbII80et2HP4n5kEunRhstwW46xBjY&s=72&v=4" width="24" alt="Avatar of mitcho"/> mitcho
+				<img src="https://private-avatars.githubusercontent.com/u/57769?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4ODAsIm5iZiI6MTczNDY4NTY4MCwicGF0aCI6Ii91LzU3NzY5In0.1E43-bKnThtbRuM855BzIgqvhgowaTLU14CEqnD3aEA&s=72&v=4" width="24" alt="Avatar of mitcho"/> mitcho
 			</a><br/>
 			Michael Yoshitaka Erlewine
 		</td>
@@ -9954,7 +9954,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>758</td>
 		<td>
 			<a target="_blank" href="https://github.com/zyml">
-				<img src="https://private-avatars.githubusercontent.com/u/1495648?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE1NDAsIm5iZiI6MTczNDY1MDM0MCwicGF0aCI6Ii91LzE0OTU2NDgifQ.XokVqP8IfB05uo8QQfoTM-GOXoO84KMNwCbKQdW-lc0&s=72&u=2363dfd2bbaf6f0a41c0241fecb92ff86265b677&v=4" width="24" alt="Avatar of zyml"/> zyml
+				<img src="https://private-avatars.githubusercontent.com/u/1495648?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91LzE0OTU2NDgifQ.MV_ASgMQ06t9H1fOQfFqHYsyGHh133RNGzBCaI7KUsg&s=72&u=2363dfd2bbaf6f0a41c0241fecb92ff86265b677&v=4" width="24" alt="Avatar of zyml"/> zyml
 			</a><br/>
 			Melvin Lee
 		</td>
@@ -9966,21 +9966,8 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 	<tr>
 		<td>759</td>
 		<td>
-			<a target="_blank" href="https://github.com/PureKrome">
-				<img src="https://private-avatars.githubusercontent.com/u/899878?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzMDAsIm5iZiI6MTczNDY1MDEwMCwicGF0aCI6Ii91Lzg5OTg3OCJ9.GkA0-VtoQttXfw0h6PeDA86tkJmM9Pp1QvCmW58Akwk&s=72&v=4" width="24" alt="Avatar of PureKrome"/> PureKrome
-			</a><br/>
-			Justin Adler
-		</td>
-		<td>Syion </td>
-		<td>No Twitter Username</td>
-		<td>Melbourne Australia  Singapore Singapore</td>
-		<td>87</td>
-	</tr>
-	<tr>
-		<td>760</td>
-		<td>
 			<a target="_blank" href="https://github.com/IzaiahSun">
-				<img src="https://private-avatars.githubusercontent.com/u/34444372?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzMDAsIm5iZiI6MTczNDY1MDEwMCwicGF0aCI6Ii91LzM0NDQ0MzcyIn0.Jg2UMP0rjKVMUWO9Sew15zRh0VAJZJDNgOh5vBpVlhY&s=72&v=4" width="24" alt="Avatar of IzaiahSun"/> IzaiahSun
+				<img src="https://private-avatars.githubusercontent.com/u/34444372?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODczMDAsIm5iZiI6MTczNDY4NjEwMCwicGF0aCI6Ii91LzM0NDQ0MzcyIn0.KlV0gFtJrdjZ43UdOtJE3EsvhF7UBc0Qzt-Y1wmk27M&s=72&v=4" width="24" alt="Avatar of IzaiahSun"/> IzaiahSun
 			</a><br/>
 			No Name
 		</td>
@@ -9990,10 +9977,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>87</td>
 	</tr>
 	<tr>
-		<td>761</td>
+		<td>760</td>
 		<td>
 			<a target="_blank" href="https://github.com/Shilin-LU">
-				<img src="https://private-avatars.githubusercontent.com/u/121021566?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzMDAsIm5iZiI6MTczNDY1MDEwMCwicGF0aCI6Ii91LzEyMTAyMTU2NiJ9.iVMqyu6WPK-EgoEzXxmuL6GrmYD33vnq4nTI67WBOAs&s=72&u=ccc04cc34352e6e4259b7987b920bb6f84ecac4a&v=4" width="24" alt="Avatar of Shilin-LU"/> Shilin-LU
+				<img src="https://private-avatars.githubusercontent.com/u/121021566?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODczMDAsIm5iZiI6MTczNDY4NjEwMCwicGF0aCI6Ii91LzEyMTAyMTU2NiJ9.C7V_LQIK_yleXfSprx7uX2x4SUD0eisn77QMS1AXgwk&s=72&u=ccc04cc34352e6e4259b7987b920bb6f84ecac4a&v=4" width="24" alt="Avatar of Shilin-LU"/> Shilin-LU
 			</a><br/>
 			Shilin
 		</td>
@@ -10003,10 +9990,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>87</td>
 	</tr>
 	<tr>
-		<td>762</td>
+		<td>761</td>
 		<td>
 			<a target="_blank" href="https://github.com/wmira">
-				<img src="https://private-avatars.githubusercontent.com/u/468496?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE1NDAsIm5iZiI6MTczNDY1MDM0MCwicGF0aCI6Ii91LzQ2ODQ5NiJ9.gw7jCy3dpSo_EQxJqb6_p0J9w_rMkWHmXxiUKo5jHSM&s=72&u=6805b7213f85b062ce7fa80f660aba513b7c0acd&v=4" width="24" alt="Avatar of wmira"/> wmira
+				<img src="https://private-avatars.githubusercontent.com/u/468496?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91LzQ2ODQ5NiJ9.xxw_jUPqiPANWj43Siys7jkhhYQDWM4kyNt-T344miU&s=72&u=6805b7213f85b062ce7fa80f660aba513b7c0acd&v=4" width="24" alt="Avatar of wmira"/> wmira
 			</a><br/>
 			Warren Mira
 		</td>
@@ -10016,10 +10003,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>87</td>
 	</tr>
 	<tr>
-		<td>763</td>
+		<td>762</td>
 		<td>
 			<a target="_blank" href="https://github.com/jfrolich">
-				<img src="https://private-avatars.githubusercontent.com/u/579279?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzU3OTI3OSJ9.7XQL29FoZ2L-PqHs09vWWLhCwBJR6KbSR87J9ZeWKs8&s=72&u=b5e60a3404d3469c14aa01184001a48da32b824e&v=4" width="24" alt="Avatar of jfrolich"/> jfrolich
+				<img src="https://private-avatars.githubusercontent.com/u/579279?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxODAsIm5iZiI6MTczNDY4NTk4MCwicGF0aCI6Ii91LzU3OTI3OSJ9.0hGO3dKZ1B9LeJvqZN0Ov7XhR-ixTz9Msulq2TwWWOs&s=72&u=b5e60a3404d3469c14aa01184001a48da32b824e&v=4" width="24" alt="Avatar of jfrolich"/> jfrolich
 			</a><br/>
 			Jaap Frolich
 		</td>
@@ -10029,10 +10016,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>87</td>
 	</tr>
 	<tr>
-		<td>764</td>
+		<td>763</td>
 		<td>
 			<a target="_blank" href="https://github.com/yueguoguo">
-				<img src="https://private-avatars.githubusercontent.com/u/1726448?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE1NDAsIm5iZiI6MTczNDY1MDM0MCwicGF0aCI6Ii91LzE3MjY0NDgifQ.OyWIlahmdehctLpAquIs8UDKFEarpvnpUrZ8OMeOcUk&s=72&v=4" width="24" alt="Avatar of yueguoguo"/> yueguoguo
+				<img src="https://private-avatars.githubusercontent.com/u/1726448?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91LzE3MjY0NDgifQ.JJoU5HTLyxhElAZ15uFRrTsfFebCvJm8wcIq6rqWyvU&s=72&v=4" width="24" alt="Avatar of yueguoguo"/> yueguoguo
 			</a><br/>
 			Zhang Le
 		</td>
@@ -10042,10 +10029,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>87</td>
 	</tr>
 	<tr>
-		<td>765</td>
+		<td>764</td>
 		<td>
 			<a target="_blank" href="https://github.com/ramanagali">
-				<img src="https://private-avatars.githubusercontent.com/u/55323295?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE2MDAsIm5iZiI6MTczNDY1MDQwMCwicGF0aCI6Ii91LzU1MzIzMjk1In0.VFWJxqHikBCwRNGdkDRvZwn0sG1ZHOnH3BlxJ3jJe1A&s=72&u=49dd260e04936a6816b6590865ac053ca752e637&v=4" width="24" alt="Avatar of ramanagali"/> ramanagali
+				<img src="https://private-avatars.githubusercontent.com/u/55323295?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3MDAsIm5iZiI6MTczNDY4NTUwMCwicGF0aCI6Ii91LzU1MzIzMjk1In0.Ilffw3pXy_BDdy5MdHVb8wY56Z-TqM6wwGb858q2moU&s=72&u=49dd260e04936a6816b6590865ac053ca752e637&v=4" width="24" alt="Avatar of ramanagali"/> ramanagali
 			</a><br/>
 			GVR
 		</td>
@@ -10055,10 +10042,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>87</td>
 	</tr>
 	<tr>
-		<td>766</td>
+		<td>765</td>
 		<td>
 			<a target="_blank" href="https://github.com/edwardsamuel">
-				<img src="https://private-avatars.githubusercontent.com/u/3603637?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzM2MDM2MzcifQ.Ttt53rTik1RKBroLeyGozOR-VPeI3fKyYvwqMC3_JWg&s=72&u=0d0ecb2e14e12da10ac6639384a4b565ee3005a5&v=4" width="24" alt="Avatar of edwardsamuel"/> edwardsamuel
+				<img src="https://private-avatars.githubusercontent.com/u/3603637?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxODAsIm5iZiI6MTczNDY4NTk4MCwicGF0aCI6Ii91LzM2MDM2MzcifQ.gLCzG7EhU8KR9tb_ubAW9HabHaIY4SrsVPXZVeiGplI&s=72&u=0d0ecb2e14e12da10ac6639384a4b565ee3005a5&v=4" width="24" alt="Avatar of edwardsamuel"/> edwardsamuel
 			</a><br/>
 			Edward Samuel Pasaribu
 		</td>
@@ -10068,23 +10055,23 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>87</td>
 	</tr>
 	<tr>
-		<td>767</td>
+		<td>766</td>
 		<td>
-			<a target="_blank" href="https://github.com/ramsunvtech">
-				<img src="https://private-avatars.githubusercontent.com/u/1652629?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzMDAsIm5iZiI6MTczNDY1MDEwMCwicGF0aCI6Ii91LzE2NTI2MjkifQ.2uXg6nIQEnEHWcYgiOpzSxFn8xF2S2aV23Ym2vtQlsM&s=72&u=3966a68350e66feb969c97122e0195e525ca4e13&v=4" width="24" alt="Avatar of ramsunvtech"/> ramsunvtech
+			<a target="_blank" href="https://github.com/PureKrome">
+				<img src="https://private-avatars.githubusercontent.com/u/899878?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODczMDAsIm5iZiI6MTczNDY4NjEwMCwicGF0aCI6Ii91Lzg5OTg3OCJ9.VPE4_JItu_ISz9vJgchOqsdgDcxLyth6Z3-x8FNMf7E&s=72&v=4" width="24" alt="Avatar of PureKrome"/> PureKrome
 			</a><br/>
-			VenkatR
+			Justin Adler
 		</td>
-		<td>Meta Inc </td>
-		<td><a target="_blank" href="https://twitter.com/ramsunvtech">ramsunvtech</a></td>
-		<td>Yio Chu Kang Singapore</td>
+		<td>Syion </td>
+		<td>No Twitter Username</td>
+		<td>Melbourne Australia  Singapore Singapore</td>
 		<td>86</td>
 	</tr>
 	<tr>
-		<td>768</td>
+		<td>767</td>
 		<td>
 			<a target="_blank" href="https://github.com/LiXin97">
-				<img src="https://private-avatars.githubusercontent.com/u/24710589?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE2MDAsIm5iZiI6MTczNDY1MDQwMCwicGF0aCI6Ii91LzI0NzEwNTg5In0.9SZG_DZL42Z9JapjGfrTSu_dQKCqGQPBDwcTTzp1WfU&s=72&u=073c2e4af2abb3104d297ec5b37b2fc9097b4d97&v=4" width="24" alt="Avatar of LiXin97"/> LiXin97
+				<img src="https://private-avatars.githubusercontent.com/u/24710589?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3MDAsIm5iZiI6MTczNDY4NTUwMCwicGF0aCI6Ii91LzI0NzEwNTg5In0.O4aM8JkyQEx7FSCGaRzIhg3dLlmk-Pxs7jze6SHIVEQ&s=72&u=073c2e4af2abb3104d297ec5b37b2fc9097b4d97&v=4" width="24" alt="Avatar of LiXin97"/> LiXin97
 			</a><br/>
 			Xin Li
 		</td>
@@ -10094,10 +10081,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>86</td>
 	</tr>
 	<tr>
-		<td>769</td>
+		<td>768</td>
 		<td>
 			<a target="_blank" href="https://github.com/linminhtoo">
-				<img src="https://private-avatars.githubusercontent.com/u/25001874?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzI1MDAxODc0In0.IHwe4302AagqvlaLajewDIkM3-l4RpC62ypGVLB1Z9Y&s=72&u=e8618458ec4a5ce85a3a1b23ec65b001c0673c17&v=4" width="24" alt="Avatar of linminhtoo"/> linminhtoo
+				<img src="https://private-avatars.githubusercontent.com/u/25001874?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzI1MDAxODc0In0.tdfdpaksNKK0QaUbp-D8pEHNtzJ7NGvxyDtlBigaTs8&s=72&u=e8618458ec4a5ce85a3a1b23ec65b001c0673c17&v=4" width="24" alt="Avatar of linminhtoo"/> linminhtoo
 			</a><br/>
 			Lin Min Htoo
 		</td>
@@ -10107,10 +10094,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>86</td>
 	</tr>
 	<tr>
-		<td>770</td>
+		<td>769</td>
 		<td>
 			<a target="_blank" href="https://github.com/hunter">
-				<img src="https://private-avatars.githubusercontent.com/u/898?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91Lzg5OCJ9.EKxlImlJZvPQ3rBMr5qQcA8m5YHhyeBqXUTXvuKdk84&s=72&u=ecedc0b25bf62370c7571e1e9871d38cd0c99e90&v=4" width="24" alt="Avatar of hunter"/> hunter
+				<img src="https://private-avatars.githubusercontent.com/u/898?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91Lzg5OCJ9.7EMZ7xNpGfDTvG7z9d8IjrhFf_Bwr8Dz0wMMhZfNAl4&s=72&u=ecedc0b25bf62370c7571e1e9871d38cd0c99e90&v=4" width="24" alt="Avatar of hunter"/> hunter
 			</a><br/>
 			Hunter Nield
 		</td>
@@ -10120,10 +10107,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>86</td>
 	</tr>
 	<tr>
-		<td>771</td>
+		<td>770</td>
 		<td>
 			<a target="_blank" href="https://github.com/gsartoretti">
-				<img src="https://private-avatars.githubusercontent.com/u/19690764?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE1NDAsIm5iZiI6MTczNDY1MDM0MCwicGF0aCI6Ii91LzE5NjkwNzY0In0.whkcM5HfhZyV1F0_fdXzM_Q4WOUxltvKayt-IXZi_-k&s=72&u=4f1c395eec11b91b877c926ae7a13c97778b3a14&v=4" width="24" alt="Avatar of gsartoretti"/> gsartoretti
+				<img src="https://private-avatars.githubusercontent.com/u/19690764?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91LzE5NjkwNzY0In0.h3lJ4V8ziHh6IOhAEVz5gUfOBmyz0dCrCfc2-DFNMt4&s=72&u=4f1c395eec11b91b877c926ae7a13c97778b3a14&v=4" width="24" alt="Avatar of gsartoretti"/> gsartoretti
 			</a><br/>
 			Guillaume Sartoretti
 		</td>
@@ -10133,23 +10120,23 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>86</td>
 	</tr>
 	<tr>
-		<td>772</td>
+		<td>771</td>
 		<td>
-			<a target="_blank" href="https://github.com/ShaunLWM">
-				<img src="https://private-avatars.githubusercontent.com/u/37434846?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzM3NDM0ODQ2In0.egm4B2GSHX6dZLx5ZIiEfk_ZDs1O5G5Zh3wUikHj2zc&s=72&u=6cbd99c91218bcd4701d2b26670cca2b341cf9c2&v=4" width="24" alt="Avatar of ShaunLWM"/> ShaunLWM
+			<a target="_blank" href="https://github.com/ramsunvtech">
+				<img src="https://private-avatars.githubusercontent.com/u/1652629?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODczMDAsIm5iZiI6MTczNDY4NjEwMCwicGF0aCI6Ii91LzE2NTI2MjkifQ.E5OVfdMyPqQuxtQ7Gp9szao3SS_5tdKr6gUYdyuzDnY&s=72&u=3966a68350e66feb969c97122e0195e525ca4e13&v=4" width="24" alt="Avatar of ramsunvtech"/> ramsunvtech
 			</a><br/>
-			Shaun
+			VenkatR
 		</td>
-		<td>Cake Defi </td>
-		<td>No Twitter Username</td>
-		<td>Singapore</td>
+		<td>Meta Inc </td>
+		<td><a target="_blank" href="https://twitter.com/ramsunvtech">ramsunvtech</a></td>
+		<td>Yio Chu Kang Singapore</td>
 		<td>85</td>
 	</tr>
 	<tr>
-		<td>773</td>
+		<td>772</td>
 		<td>
 			<a target="_blank" href="https://github.com/chocnut">
-				<img src="https://private-avatars.githubusercontent.com/u/291424?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE2NjAsIm5iZiI6MTczNDY1MDQ2MCwicGF0aCI6Ii91LzI5MTQyNCJ9.vNSSw6enypYU_FpxhkjO9Sb6Gnxim8pvnoB2GotNxYA&s=72&v=4" width="24" alt="Avatar of chocnut"/> chocnut
+				<img src="https://private-avatars.githubusercontent.com/u/291424?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91LzI5MTQyNCJ9.MObQV9JS7CCZMid8LjvfbVJ06fyaUs8AuzRkNVwveio&s=72&v=4" width="24" alt="Avatar of chocnut"/> chocnut
 			</a><br/>
 			Peter Indiola
 		</td>
@@ -10159,10 +10146,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>85</td>
 	</tr>
 	<tr>
-		<td>774</td>
+		<td>773</td>
 		<td>
 			<a target="_blank" href="https://github.com/spinningarrow">
-				<img src="https://private-avatars.githubusercontent.com/u/1797328?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4ODAsIm5iZiI6MTczNDY0OTY4MCwicGF0aCI6Ii91LzE3OTczMjgifQ.4kxkhlAf43a4J1XENZGKCiP1GEXVXwJSNpqtVctlrv8&s=72&v=4" width="24" alt="Avatar of spinningarrow"/> spinningarrow
+				<img src="https://private-avatars.githubusercontent.com/u/1797328?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4ODAsIm5iZiI6MTczNDY4NTY4MCwicGF0aCI6Ii91LzE3OTczMjgifQ.Sv8ApAEWZWh-vHaG-c_hPEkdSf_-aGD0YZ1dEb2ARrY&s=72&v=4" width="24" alt="Avatar of spinningarrow"/> spinningarrow
 			</a><br/>
 			Sahil Bajaj
 		</td>
@@ -10172,10 +10159,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>85</td>
 	</tr>
 	<tr>
-		<td>775</td>
+		<td>774</td>
 		<td>
 			<a target="_blank" href="https://github.com/mahasak">
-				<img src="https://private-avatars.githubusercontent.com/u/221276?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEyNDAsIm5iZiI6MTczNDY1MDA0MCwicGF0aCI6Ii91LzIyMTI3NiJ9.OcrG6CmxwWERB8tNLA_yCWuYfqtjGQeqP0Dsu95c3Kk&s=72&u=110cea67ec27f2670e57e5269e4906bf0dcd45e3&v=4" width="24" alt="Avatar of mahasak"/> mahasak
+				<img src="https://private-avatars.githubusercontent.com/u/221276?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcyNDAsIm5iZiI6MTczNDY4NjA0MCwicGF0aCI6Ii91LzIyMTI3NiJ9.A8fkEPHNt5w6FWVYCdQWHSJl39v1qXcLW15P5MSkSxg&s=72&u=110cea67ec27f2670e57e5269e4906bf0dcd45e3&v=4" width="24" alt="Avatar of mahasak"/> mahasak
 			</a><br/>
 			Max Pijittum
 		</td>
@@ -10185,10 +10172,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>85</td>
 	</tr>
 	<tr>
-		<td>776</td>
+		<td>775</td>
 		<td>
 			<a target="_blank" href="https://github.com/mohamedr002">
-				<img src="https://private-avatars.githubusercontent.com/u/42439092?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE2NjAsIm5iZiI6MTczNDY1MDQ2MCwicGF0aCI6Ii91LzQyNDM5MDkyIn0.HyJohdxw-O1I9onMsg0XkQGJ_jpCfDbwLkX-ymYH8pE&s=72&u=548f3fbf48aa6ea3e063cbf51c49a7302af8be84&v=4" width="24" alt="Avatar of mohamedr002"/> mohamedr002
+				<img src="https://private-avatars.githubusercontent.com/u/42439092?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91LzQyNDM5MDkyIn0.q9IVnmnmPQCvjSqtS1hoUqRmEMmzKvs38-7JdNq0_XE&s=72&u=548f3fbf48aa6ea3e063cbf51c49a7302af8be84&v=4" width="24" alt="Avatar of mohamedr002"/> mohamedr002
 			</a><br/>
 			Mohamed Ragab
 		</td>
@@ -10198,10 +10185,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>85</td>
 	</tr>
 	<tr>
-		<td>777</td>
+		<td>776</td>
 		<td>
 			<a target="_blank" href="https://github.com/mrpeerat">
-				<img src="https://private-avatars.githubusercontent.com/u/21156980?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzIxMTU2OTgwIn0.4iYfI_lwxhXN9cgmLUoMvjRubA5eW78wByZFkGgdaa4&s=72&u=00c0113b525aebf5a491e25156dcd0efde4fc0f2&v=4" width="24" alt="Avatar of mrpeerat"/> mrpeerat
+				<img src="https://private-avatars.githubusercontent.com/u/21156980?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxODAsIm5iZiI6MTczNDY4NTk4MCwicGF0aCI6Ii91LzIxMTU2OTgwIn0.Kr89_72wyXpSjAjOTAAXthVz8kxDnwBpRU9SY4jhq20&s=72&u=00c0113b525aebf5a491e25156dcd0efde4fc0f2&v=4" width="24" alt="Avatar of mrpeerat"/> mrpeerat
 			</a><br/>
 			MrP L
 		</td>
@@ -10211,10 +10198,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>85</td>
 	</tr>
 	<tr>
-		<td>778</td>
+		<td>777</td>
 		<td>
 			<a target="_blank" href="https://github.com/wgx731">
-				<img src="https://private-avatars.githubusercontent.com/u/494702?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE2NjAsIm5iZiI6MTczNDY1MDQ2MCwicGF0aCI6Ii91LzQ5NDcwMiJ9.ThpcvG51yaYouFSWJEywa4XaxOCM_WUm06GD-vuVn9w&s=72&v=4" width="24" alt="Avatar of wgx731"/> wgx731
+				<img src="https://private-avatars.githubusercontent.com/u/494702?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91LzQ5NDcwMiJ9.WfdjF_EzxkXlZx_NtTZYSx5PyJry5Jc7c9Y4Np6g4OU&s=72&v=4" width="24" alt="Avatar of wgx731"/> wgx731
 			</a><br/>
 			Eric Wang GaoXiang
 		</td>
@@ -10224,10 +10211,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>85</td>
 	</tr>
 	<tr>
-		<td>779</td>
+		<td>778</td>
 		<td>
 			<a target="_blank" href="https://github.com/yunpengn">
-				<img src="https://private-avatars.githubusercontent.com/u/18503402?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzNjAsIm5iZiI6MTczNDY1MDE2MCwicGF0aCI6Ii91LzE4NTAzNDAyIn0.-jc_rlcV7zvvO7eG6UtaEpv3g5s6JPzz_KOqwDlkDaQ&s=72&u=2ef0e4833d0f5f6a087d838bdb4a086b0518e669&v=4" width="24" alt="Avatar of yunpengn"/> yunpengn
+				<img src="https://private-avatars.githubusercontent.com/u/18503402?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODczNjAsIm5iZiI6MTczNDY4NjE2MCwicGF0aCI6Ii91LzE4NTAzNDAyIn0.HGF0kxYGa9LaLlR2IpSXv7LAdTDCqlapNyCjePg6xlk&s=72&u=2ef0e4833d0f5f6a087d838bdb4a086b0518e669&v=4" width="24" alt="Avatar of yunpengn"/> yunpengn
 			</a><br/>
 			Yunpeng Niu
 		</td>
@@ -10237,10 +10224,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>85</td>
 	</tr>
 	<tr>
-		<td>780</td>
+		<td>779</td>
 		<td>
 			<a target="_blank" href="https://github.com/boxiangliu">
-				<img src="https://private-avatars.githubusercontent.com/u/4122434?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE0MjAsIm5iZiI6MTczNDY1MDIyMCwicGF0aCI6Ii91LzQxMjI0MzQifQ.Cml0aQxo2FZHciKPoL4nBfFRIqwu7K50K4qcvaijrho&s=72&u=55c7ee11edb38ed85df99aaad764a44e48934763&v=4" width="24" alt="Avatar of boxiangliu"/> boxiangliu
+				<img src="https://private-avatars.githubusercontent.com/u/4122434?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODc0MjAsIm5iZiI6MTczNDY4NjIyMCwicGF0aCI6Ii91LzQxMjI0MzQifQ.4mxMDClfQO6OQZtGLJQR9UyRJWKSA2FbaA1XvnCERsk&s=72&u=55c7ee11edb38ed85df99aaad764a44e48934763&v=4" width="24" alt="Avatar of boxiangliu"/> boxiangliu
 			</a><br/>
 			Boxiang Liu
 		</td>
@@ -10250,10 +10237,36 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>85</td>
 	</tr>
 	<tr>
+		<td>780</td>
+		<td>
+			<a target="_blank" href="https://github.com/ShaunLWM">
+				<img src="https://private-avatars.githubusercontent.com/u/37434846?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxODAsIm5iZiI6MTczNDY4NTk4MCwicGF0aCI6Ii91LzM3NDM0ODQ2In0.sNgmdzJZXd0avmauf-kqS0MoUbzeUk3VCiE9qVhyhRs&s=72&u=6cbd99c91218bcd4701d2b26670cca2b341cf9c2&v=4" width="24" alt="Avatar of ShaunLWM"/> ShaunLWM
+			</a><br/>
+			Shaun
+		</td>
+		<td>Cake Defi </td>
+		<td>No Twitter Username</td>
+		<td>Singapore</td>
+		<td>84</td>
+	</tr>
+	<tr>
 		<td>781</td>
 		<td>
+			<a target="_blank" href="https://github.com/rbiswasfc">
+				<img src="https://private-avatars.githubusercontent.com/u/47070681?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY5NDAsIm5iZiI6MTczNDY4NTc0MCwicGF0aCI6Ii91LzQ3MDcwNjgxIn0._qeWkaBMIwE-2hz1nln1pOnrx-61unDelNQDWrgscuA&s=72&v=4" width="24" alt="Avatar of rbiswasfc"/> rbiswasfc
+			</a><br/>
+			Raja Biswas
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/raja_biswas">raja_biswas</a></td>
+		<td>Singapore</td>
+		<td>84</td>
+	</tr>
+	<tr>
+		<td>782</td>
+		<td>
 			<a target="_blank" href="https://github.com/matthiasgoergens">
-				<img src="https://private-avatars.githubusercontent.com/u/57026?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEyNDAsIm5iZiI6MTczNDY1MDA0MCwicGF0aCI6Ii91LzU3MDI2In0.cL7JyB1XQO94EqSh_X4zm9owSacO57kOvXUmzZnyFrk&s=72&v=4" width="24" alt="Avatar of matthiasgoergens"/> matthiasgoergens
+				<img src="https://private-avatars.githubusercontent.com/u/57026?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcyNDAsIm5iZiI6MTczNDY4NjA0MCwicGF0aCI6Ii91LzU3MDI2In0.sDWfUpES6QQyjUEAntsFOSBa8hoKbu4xBuRTpyjg3Fw&s=72&v=4" width="24" alt="Avatar of matthiasgoergens"/> matthiasgoergens
 			</a><br/>
 			Matthias Grgens
 		</td>
@@ -10263,10 +10276,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>84</td>
 	</tr>
 	<tr>
-		<td>782</td>
+		<td>783</td>
 		<td>
 			<a target="_blank" href="https://github.com/mcdulltii">
-				<img src="https://private-avatars.githubusercontent.com/u/30497633?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE0MjAsIm5iZiI6MTczNDY1MDIyMCwicGF0aCI6Ii91LzMwNDk3NjMzIn0.kr6bMp9W7Sg85pqcwokoK_v9c17_x8gxmQ5T9uAnFPw&s=72&u=00319fabf62960e57abe3fb040499f16d4b39b1a&v=4" width="24" alt="Avatar of mcdulltii"/> mcdulltii
+				<img src="https://private-avatars.githubusercontent.com/u/30497633?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODc0MjAsIm5iZiI6MTczNDY4NjIyMCwicGF0aCI6Ii91LzMwNDk3NjMzIn0.LOce6fhgd1PqjIpeJ7yNukazrJlMVMdROKG8bDSxpnI&s=72&u=00319fabf62960e57abe3fb040499f16d4b39b1a&v=4" width="24" alt="Avatar of mcdulltii"/> mcdulltii
 			</a><br/>
 			Aaron
 		</td>
@@ -10276,10 +10289,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>84</td>
 	</tr>
 	<tr>
-		<td>783</td>
+		<td>784</td>
 		<td>
 			<a target="_blank" href="https://github.com/clvrobj">
-				<img src="https://private-avatars.githubusercontent.com/u/437388?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzQzNzM4OCJ9.Tqd5dQmogcpkfxc8-ZfB-_TL49AxhK3eO2avZQEpqvs&s=72&u=39612b5fdd2a5c49f4c66cb622e91f301073c238&v=4" width="24" alt="Avatar of clvrobj"/> clvrobj
+				<img src="https://private-avatars.githubusercontent.com/u/437388?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzQzNzM4OCJ9.HI06sG2VBdxJ2FbhfX2tiYaZol8Cw4P6tPeI-VTME-A&s=72&u=39612b5fdd2a5c49f4c66cb622e91f301073c238&v=4" width="24" alt="Avatar of clvrobj"/> clvrobj
 			</a><br/>
 			Chi Zhang
 		</td>
@@ -10289,10 +10302,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>84</td>
 	</tr>
 	<tr>
-		<td>784</td>
+		<td>785</td>
 		<td>
 			<a target="_blank" href="https://github.com/BinWang28">
-				<img src="https://private-avatars.githubusercontent.com/u/25280416?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwMDAsIm5iZiI6MTczNDY0OTgwMCwicGF0aCI6Ii91LzI1MjgwNDE2In0.z0pRShh40gAkRfCJzf0PLaMC4s6vBJHZ39rJQmqjfKc&s=72&u=cc048ce02eaee4099c09d09b858d2eaa177d4a40&v=4" width="24" alt="Avatar of BinWang28"/> BinWang28
+				<img src="https://private-avatars.githubusercontent.com/u/25280416?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwMDAsIm5iZiI6MTczNDY4NTgwMCwicGF0aCI6Ii91LzI1MjgwNDE2In0.bu_I5qcdFM-x6h8cZgXgVevlQwiLStU1tluSBzR40Z0&s=72&u=cc048ce02eaee4099c09d09b858d2eaa177d4a40&v=4" width="24" alt="Avatar of BinWang28"/> BinWang28
 			</a><br/>
 			Bin Wang
 		</td>
@@ -10302,10 +10315,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>84</td>
 	</tr>
 	<tr>
-		<td>785</td>
+		<td>786</td>
 		<td>
 			<a target="_blank" href="https://github.com/YuxiXie">
-				<img src="https://private-avatars.githubusercontent.com/u/48198209?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExMjAsIm5iZiI6MTczNDY0OTkyMCwicGF0aCI6Ii91LzQ4MTk4MjA5In0.U-l2cFSuW349sW-yhxxFBWPUb_6lAB53b3pSkuT8W_k&s=72&u=8b083035cd975584fbd3eb31ed524552964eaa92&v=4" width="24" alt="Avatar of YuxiXie"/> YuxiXie
+				<img src="https://private-avatars.githubusercontent.com/u/48198209?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxMjAsIm5iZiI6MTczNDY4NTkyMCwicGF0aCI6Ii91LzQ4MTk4MjA5In0._GLmht1pcOHQC_jp391Ski-y7jJJkBGNoB7ktYxNvvs&s=72&u=8b083035cd975584fbd3eb31ed524552964eaa92&v=4" width="24" alt="Avatar of YuxiXie"/> YuxiXie
 			</a><br/>
 			Sigrid
 		</td>
@@ -10315,10 +10328,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>84</td>
 	</tr>
 	<tr>
-		<td>786</td>
+		<td>787</td>
 		<td>
 			<a target="_blank" href="https://github.com/helloitsm3">
-				<img src="https://private-avatars.githubusercontent.com/u/13825491?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4ODAsIm5iZiI6MTczNDY0OTY4MCwicGF0aCI6Ii91LzEzODI1NDkxIn0.MSv1c3eYqY0-2TM_zEDmrXtfiAsX4HSjjWlZMi_z8oA&s=72&u=c106497434a149e0893ae9c5d65e60c26b79e1f6&v=4" width="24" alt="Avatar of helloitsm3"/> helloitsm3
+				<img src="https://private-avatars.githubusercontent.com/u/13825491?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4ODAsIm5iZiI6MTczNDY4NTY4MCwicGF0aCI6Ii91LzEzODI1NDkxIn0.jZ_pal3leyPUcazmDJ1SIPFyWcZZr7_97uqVWBqwlCk&s=72&u=c106497434a149e0893ae9c5d65e60c26b79e1f6&v=4" width="24" alt="Avatar of helloitsm3"/> helloitsm3
 			</a><br/>
 			Sean
 		</td>
@@ -10328,10 +10341,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>84</td>
 	</tr>
 	<tr>
-		<td>787</td>
+		<td>788</td>
 		<td>
 			<a target="_blank" href="https://github.com/depoon">
-				<img src="https://private-avatars.githubusercontent.com/u/3168294?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE2NjAsIm5iZiI6MTczNDY1MDQ2MCwicGF0aCI6Ii91LzMxNjgyOTQifQ.x5aR8UnvrZs2_E-14jE6tkiSfNvcUiTT1jOVW1xFvF4&s=72&u=5ebb0a19a4c766d554e432632eddc52901af6ce8&v=4" width="24" alt="Avatar of depoon"/> depoon
+				<img src="https://private-avatars.githubusercontent.com/u/3168294?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91LzMxNjgyOTQifQ.IkhsbhWnqAHJ1LmCTJcYBdivk9EHjubUxB52xRtZpHc&s=72&u=5ebb0a19a4c766d554e432632eddc52901af6ce8&v=4" width="24" alt="Avatar of depoon"/> depoon
 			</a><br/>
 			Kenneth Poon
 		</td>
@@ -10341,10 +10354,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>84</td>
 	</tr>
 	<tr>
-		<td>788</td>
+		<td>789</td>
 		<td>
 			<a target="_blank" href="https://github.com/ipraba">
-				<img src="https://private-avatars.githubusercontent.com/u/4685567?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4ODAsIm5iZiI6MTczNDY0OTY4MCwicGF0aCI6Ii91LzQ2ODU1NjcifQ.7ghjkgjjpC7FzEqu5z1zK0noB-PmhN6LpsH58MDDqBQ&s=72&u=8be458a4f8645471351347b8faac071fe19b63a0&v=4" width="24" alt="Avatar of ipraba"/> ipraba
+				<img src="https://private-avatars.githubusercontent.com/u/4685567?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4ODAsIm5iZiI6MTczNDY4NTY4MCwicGF0aCI6Ii91LzQ2ODU1NjcifQ.o2IPhN0KHqRvT90wF0sejEVBlSdzjs_nuwg-ikAk5u4&s=72&u=8be458a4f8645471351347b8faac071fe19b63a0&v=4" width="24" alt="Avatar of ipraba"/> ipraba
 			</a><br/>
 			Praba
 		</td>
@@ -10354,10 +10367,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>84</td>
 	</tr>
 	<tr>
-		<td>789</td>
+		<td>790</td>
 		<td>
 			<a target="_blank" href="https://github.com/thtang">
-				<img src="https://private-avatars.githubusercontent.com/u/15909789?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzNjAsIm5iZiI6MTczNDY1MDE2MCwicGF0aCI6Ii91LzE1OTA5Nzg5In0.z_1kF6VHR7m-Bakr397e_jITYJNhz5Ex8i1Skx4b7PI&s=72&u=e41aa5703dc7d988b1ca74844abd126874c2c443&v=4" width="24" alt="Avatar of thtang"/> thtang
+				<img src="https://private-avatars.githubusercontent.com/u/15909789?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODczNjAsIm5iZiI6MTczNDY4NjE2MCwicGF0aCI6Ii91LzE1OTA5Nzg5In0.pfmC9oXT6SvXzwvEOo73jc56XKbhXjvYL_kF-poVlJI&s=72&u=e41aa5703dc7d988b1ca74844abd126874c2c443&v=4" width="24" alt="Avatar of thtang"/> thtang
 			</a><br/>
 			TH Tang
 		</td>
@@ -10367,23 +10380,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>84</td>
 	</tr>
 	<tr>
-		<td>790</td>
-		<td>
-			<a target="_blank" href="https://github.com/rbiswasfc">
-				<img src="https://private-avatars.githubusercontent.com/u/47070681?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA5NDAsIm5iZiI6MTczNDY0OTc0MCwicGF0aCI6Ii91LzQ3MDcwNjgxIn0.G61YhmcaJvE0WnYfWywv95X8XeMxAqIJW_QqwGRvQCA&s=72&v=4" width="24" alt="Avatar of rbiswasfc"/> rbiswasfc
-			</a><br/>
-			Raja Biswas
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/raja_biswas">raja_biswas</a></td>
-		<td>Singapore</td>
-		<td>83</td>
-	</tr>
-	<tr>
 		<td>791</td>
 		<td>
 			<a target="_blank" href="https://github.com/Enigmatrix">
-				<img src="https://private-avatars.githubusercontent.com/u/12296254?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE2NjAsIm5iZiI6MTczNDY1MDQ2MCwicGF0aCI6Ii91LzEyMjk2MjU0In0.k6W9YvEUu89qFeJBVB4pkENx56i2YYnLESrgMy2DV2I&s=72&u=335d3156f97ddd25222c29de3158a507b69402f9&v=4" width="24" alt="Avatar of Enigmatrix"/> Enigmatrix
+				<img src="https://private-avatars.githubusercontent.com/u/12296254?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91LzEyMjk2MjU0In0.h1LTjIZ_BBespEFiuRKjbuMY7zbZKrdHPCSclyO9gUk&s=72&u=335d3156f97ddd25222c29de3158a507b69402f9&v=4" width="24" alt="Avatar of Enigmatrix"/> Enigmatrix
 			</a><br/>
 			Chandrasekaran Akash
 		</td>
@@ -10396,7 +10396,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>792</td>
 		<td>
 			<a target="_blank" href="https://github.com/tinyAdapter">
-				<img src="https://private-avatars.githubusercontent.com/u/8264895?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEyNDAsIm5iZiI6MTczNDY1MDA0MCwicGF0aCI6Ii91LzgyNjQ4OTUifQ.lQfV0SafUfd_hVIE8BA97fD2FthXXyroS1W1GoqDbMQ&s=72&u=6df83547382f3db70710f8a41a32c74bda0e575d&v=4" width="24" alt="Avatar of tinyAdapter"/> tinyAdapter
+				<img src="https://private-avatars.githubusercontent.com/u/8264895?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcyNDAsIm5iZiI6MTczNDY4NjA0MCwicGF0aCI6Ii91LzgyNjQ4OTUifQ.XLcllZvXTgMqBrxqyiYFZ2G8S3UtIQSK1OGJpHRFv-U&s=72&u=6df83547382f3db70710f8a41a32c74bda0e575d&v=4" width="24" alt="Avatar of tinyAdapter"/> tinyAdapter
 			</a><br/>
 			tinyAdapter
 		</td>
@@ -10409,7 +10409,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>793</td>
 		<td>
 			<a target="_blank" href="https://github.com/longkt90">
-				<img src="https://private-avatars.githubusercontent.com/u/3582650?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE1NDAsIm5iZiI6MTczNDY1MDM0MCwicGF0aCI6Ii91LzM1ODI2NTAifQ.-ubn4lqVnmzwl5AbG8zzUihSQIZmOqjKqkLg_3URg2k&s=72&u=d3ef72703833e5a8c616b4aeb62aa67e439db959&v=4" width="24" alt="Avatar of longkt90"/> longkt90
+				<img src="https://private-avatars.githubusercontent.com/u/3582650?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY2NDAsIm5iZiI6MTczNDY4NTQ0MCwicGF0aCI6Ii91LzM1ODI2NTAifQ.Hcixis6tSVGrODqS9ixSwdHIz1KCGYVERS_pOEAzD-A&s=72&u=d3ef72703833e5a8c616b4aeb62aa67e439db959&v=4" width="24" alt="Avatar of longkt90"/> longkt90
 			</a><br/>
 			Long Nguyen
 		</td>
@@ -10421,21 +10421,8 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 	<tr>
 		<td>794</td>
 		<td>
-			<a target="_blank" href="https://github.com/reddec">
-				<img src="https://private-avatars.githubusercontent.com/u/6597086?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE0MjAsIm5iZiI6MTczNDY1MDIyMCwicGF0aCI6Ii91LzY1OTcwODYifQ.FWacMOQWLnFPG4ZkiHaNxSistQyF62f_ay-XTb1Zdho&s=72&u=79d84817075b2e958e54f224e784b86afa618599&v=4" width="24" alt="Avatar of reddec"/> reddec
-			</a><br/>
-			Aleksandr Baryshnikov
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Singapore</td>
-		<td>83</td>
-	</tr>
-	<tr>
-		<td>795</td>
-		<td>
 			<a target="_blank" href="https://github.com/abdalimran">
-				<img src="https://private-avatars.githubusercontent.com/u/5567760?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExMjAsIm5iZiI6MTczNDY0OTkyMCwicGF0aCI6Ii91LzU1Njc3NjAifQ.SdfueWlC-RFk4q7-cixHasGHQPdLO6WH2paAOsuZ8MQ&s=72&u=6d056cd4c781e9ecc76499c307ff3564131876d5&v=4" width="24" alt="Avatar of abdalimran"/> abdalimran
+				<img src="https://private-avatars.githubusercontent.com/u/5567760?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxMjAsIm5iZiI6MTczNDY4NTkyMCwicGF0aCI6Ii91LzU1Njc3NjAifQ.36jkW9CVnfEC-Iii_b1rTdkBklIsZ4_0vpN1zHPksPc&s=72&u=6d056cd4c781e9ecc76499c307ff3564131876d5&v=4" width="24" alt="Avatar of abdalimran"/> abdalimran
 			</a><br/>
 			Abdullah Al Imran
 		</td>
@@ -10445,10 +10432,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>83</td>
 	</tr>
 	<tr>
-		<td>796</td>
+		<td>795</td>
 		<td>
 			<a target="_blank" href="https://github.com/duyquang91">
-				<img src="https://private-avatars.githubusercontent.com/u/15357300?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE2NjAsIm5iZiI6MTczNDY1MDQ2MCwicGF0aCI6Ii91LzE1MzU3MzAwIn0.UdHfkM73EB8Nmr105rDyG9qgCEshb0zReV9TQAVav-w&s=72&u=68bbca20e951b5a4bf54f33c5be28542b4d4b855&v=4" width="24" alt="Avatar of duyquang91"/> duyquang91
+				<img src="https://private-avatars.githubusercontent.com/u/15357300?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91LzE1MzU3MzAwIn0.qB38CrvMhDX84nhLCVqhLdD01qxT9ZIZfa6l2ehdKxo&s=72&u=68bbca20e951b5a4bf54f33c5be28542b4d4b855&v=4" width="24" alt="Avatar of duyquang91"/> duyquang91
 			</a><br/>
 			Steve Dao
 		</td>
@@ -10458,10 +10445,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>83</td>
 	</tr>
 	<tr>
-		<td>797</td>
+		<td>796</td>
 		<td>
 			<a target="_blank" href="https://github.com/joel-huang">
-				<img src="https://private-avatars.githubusercontent.com/u/25588253?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE0ODAsIm5iZiI6MTczNDY1MDI4MCwicGF0aCI6Ii91LzI1NTg4MjUzIn0.ZOaECDGSvf7Ye7bs1QBVSurgqVb8jOIRz3_YSwRD1vY&s=72&u=2d9f3d298b69db2547931a926bb91c9e3ccf025f&v=4" width="24" alt="Avatar of joel-huang"/> joel-huang
+				<img src="https://private-avatars.githubusercontent.com/u/25588253?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODc0ODAsIm5iZiI6MTczNDY4NjI4MCwicGF0aCI6Ii91LzI1NTg4MjUzIn0.rGhRot1thOqARhaYS4_DtDE5ggEYKmfa7er8iCNb7WI&s=72&u=2d9f3d298b69db2547931a926bb91c9e3ccf025f&v=4" width="24" alt="Avatar of joel-huang"/> joel-huang
 			</a><br/>
 			Joel Huang
 		</td>
@@ -10471,10 +10458,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>83</td>
 	</tr>
 	<tr>
-		<td>798</td>
+		<td>797</td>
 		<td>
 			<a target="_blank" href="https://github.com/Pamphlett">
-				<img src="https://private-avatars.githubusercontent.com/u/43575223?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE0ODAsIm5iZiI6MTczNDY1MDI4MCwicGF0aCI6Ii91LzQzNTc1MjIzIn0.4PI44fsbLYQfCh5UeL16lAUSSj46mvTI3QMSGkX9je4&s=72&u=afe845ab18b3e00859345bddcb0fbcdfc46d033e&v=4" width="24" alt="Avatar of Pamphlett"/> Pamphlett
+				<img src="https://private-avatars.githubusercontent.com/u/43575223?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODc0ODAsIm5iZiI6MTczNDY4NjI4MCwicGF0aCI6Ii91LzQzNTc1MjIzIn0.Y5st-JiPD7arLJvsue-tXzSIQuvWPY891pdlRaZuh_8&s=72&u=afe845ab18b3e00859345bddcb0fbcdfc46d033e&v=4" width="24" alt="Avatar of Pamphlett"/> Pamphlett
 			</a><br/>
 			Pengyu Yin
 		</td>
@@ -10484,10 +10471,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>83</td>
 	</tr>
 	<tr>
-		<td>799</td>
+		<td>798</td>
 		<td>
 			<a target="_blank" href="https://github.com/xiaojunhong">
-				<img src="https://private-avatars.githubusercontent.com/u/1997262?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzE5OTcyNjIifQ.ZlkqGvIdwlYGhEAgVGxB2O-SqUrXByZ7Ffi9iZphjPo&s=72&u=d4f9039e95983afa38a12ea98c3fb9485718a565&v=4" width="24" alt="Avatar of xiaojunhong"/> xiaojunhong
+				<img src="https://private-avatars.githubusercontent.com/u/1997262?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxODAsIm5iZiI6MTczNDY4NTk4MCwicGF0aCI6Ii91LzE5OTcyNjIifQ.6ez8Umbww4s9jnaJqfHPpjW4l_Wj8P3U-NfJ44VvSzM&s=72&u=d4f9039e95983afa38a12ea98c3fb9485718a565&v=4" width="24" alt="Avatar of xiaojunhong"/> xiaojunhong
 			</a><br/>
 			James Hong
 		</td>
@@ -10497,10 +10484,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>83</td>
 	</tr>
 	<tr>
-		<td>800</td>
+		<td>799</td>
 		<td>
 			<a target="_blank" href="https://github.com/AshrafAlam">
-				<img src="https://private-avatars.githubusercontent.com/u/167864?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4ODAsIm5iZiI6MTczNDY0OTY4MCwicGF0aCI6Ii91LzE2Nzg2NCJ9.kVwe0fzqgcmP7goge53WsHacV46ut-QN-CzNOZL7tOY&s=72&u=b8ffd45e9a1ffdeac5032f3241027e28a28e1bf9&v=4" width="24" alt="Avatar of AshrafAlam"/> AshrafAlam
+				<img src="https://private-avatars.githubusercontent.com/u/167864?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4ODAsIm5iZiI6MTczNDY4NTY4MCwicGF0aCI6Ii91LzE2Nzg2NCJ9.pXvL3fBxhPz0ZQMSMaslQvuopsguKEwSXBBp1GxCxd4&s=72&u=b8ffd45e9a1ffdeac5032f3241027e28a28e1bf9&v=4" width="24" alt="Avatar of AshrafAlam"/> AshrafAlam
 			</a><br/>
 			Ashraf Alam
 		</td>
@@ -10510,10 +10497,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>83</td>
 	</tr>
 	<tr>
-		<td>801</td>
+		<td>800</td>
 		<td>
 			<a target="_blank" href="https://github.com/ShawnBaek">
-				<img src="https://private-avatars.githubusercontent.com/u/12643700?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwMDAsIm5iZiI6MTczNDY0OTgwMCwicGF0aCI6Ii91LzEyNjQzNzAwIn0.W9tczX9xOw71_3jrqWDy7peDcSnK7L3pp42xvkR_JrI&s=72&u=85e95a8452cd8298a2cf204f3a0f008401dcf3a3&v=4" width="24" alt="Avatar of ShawnBaek"/> ShawnBaek
+				<img src="https://private-avatars.githubusercontent.com/u/12643700?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwMDAsIm5iZiI6MTczNDY4NTgwMCwicGF0aCI6Ii91LzEyNjQzNzAwIn0.XN0TW5p00iTj-LSUDyNAMa8K6GqXErpf3Qsh4t1e-Rw&s=72&u=85e95a8452cd8298a2cf204f3a0f008401dcf3a3&v=4" width="24" alt="Avatar of ShawnBaek"/> ShawnBaek
 			</a><br/>
 			Shawn Baek
 		</td>
@@ -10523,23 +10510,23 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>802</td>
+		<td>801</td>
 		<td>
-			<a target="_blank" href="https://github.com/motss">
-				<img src="https://private-avatars.githubusercontent.com/u/10607759?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzEwNjA3NzU5In0.GwVQYhURl5Nre-m5H7ekKRLVqf0FgtgrVrsVSs1j6Nk&s=72&u=b3b5289d446def85a15b2549ac7190fe59f99094&v=4" width="24" alt="Avatar of motss"/> motss
+			<a target="_blank" href="https://github.com/reddec">
+				<img src="https://private-avatars.githubusercontent.com/u/6597086?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODc0MjAsIm5iZiI6MTczNDY4NjIyMCwicGF0aCI6Ii91LzY1OTcwODYifQ.HKeeqOJnIHvU6mLiBkqAYe7W0dLFeCYPGdRm2pSxi9Y&s=72&u=79d84817075b2e958e54f224e784b86afa618599&v=4" width="24" alt="Avatar of reddec"/> reddec
 			</a><br/>
-			The web walker
+			Aleksandr Baryshnikov
 		</td>
-		<td>Unnamed Tech Company </td>
-		<td><a target="_blank" href="https://twitter.com/igarshmyb">igarshmyb</a></td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
 		<td>Singapore</td>
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>803</td>
+		<td>802</td>
 		<td>
 			<a target="_blank" href="https://github.com/mcuee">
-				<img src="https://private-avatars.githubusercontent.com/u/1294740?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwMDAsIm5iZiI6MTczNDY0OTgwMCwicGF0aCI6Ii91LzEyOTQ3NDAifQ.qkJ7CLldUNCvqyps0nCjQqnp2BECYc1eqQ1DbE9wSlE&s=72&v=4" width="24" alt="Avatar of mcuee"/> mcuee
+				<img src="https://private-avatars.githubusercontent.com/u/1294740?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwMDAsIm5iZiI6MTczNDY4NTgwMCwicGF0aCI6Ii91LzEyOTQ3NDAifQ.kTx139bbb_wwYJyvldbBunWwkj-7dFQ58YnsmifOMdI&s=72&v=4" width="24" alt="Avatar of mcuee"/> mcuee
 			</a><br/>
 			mcuee
 		</td>
@@ -10549,10 +10536,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>804</td>
+		<td>803</td>
 		<td>
 			<a target="_blank" href="https://github.com/DerekChia">
-				<img src="https://private-avatars.githubusercontent.com/u/1457728?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE0ODAsIm5iZiI6MTczNDY1MDI4MCwicGF0aCI6Ii91LzE0NTc3MjgifQ.cKEYeT0qIFoCJwwZWvAtkS74XBQXia9lwBQZqn9KuX8&s=72&u=48823b560f3f07ac413973cb712d8d067473201d&v=4" width="24" alt="Avatar of DerekChia"/> DerekChia
+				<img src="https://private-avatars.githubusercontent.com/u/1457728?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODc0ODAsIm5iZiI6MTczNDY4NjI4MCwicGF0aCI6Ii91LzE0NTc3MjgifQ.rOOjGoMug-lTuEHtY30dg6kum-RaKPlNhkJ4w_ejx_Y&s=72&u=48823b560f3f07ac413973cb712d8d067473201d&v=4" width="24" alt="Avatar of DerekChia"/> DerekChia
 			</a><br/>
 			Derek Chia
 		</td>
@@ -10562,10 +10549,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>805</td>
+		<td>804</td>
 		<td>
 			<a target="_blank" href="https://github.com/yjwong">
-				<img src="https://private-avatars.githubusercontent.com/u/1174849?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEyNDAsIm5iZiI6MTczNDY1MDA0MCwicGF0aCI6Ii91LzExNzQ4NDkifQ.Ea60_F51ZzicEogGRWQoRgPqFjAvWE0On-Xmcd68bZI&s=72&v=4" width="24" alt="Avatar of yjwong"/> yjwong
+				<img src="https://private-avatars.githubusercontent.com/u/1174849?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcyNDAsIm5iZiI6MTczNDY4NjA0MCwicGF0aCI6Ii91LzExNzQ4NDkifQ.JJOWybrQadGpYmR7UpItyjYn6btV3dn65uWcItFWuno&s=72&v=4" width="24" alt="Avatar of yjwong"/> yjwong
 			</a><br/>
 			Wong Yong Jie
 		</td>
@@ -10575,10 +10562,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>806</td>
+		<td>805</td>
 		<td>
 			<a target="_blank" href="https://github.com/tohweizhong">
-				<img src="https://private-avatars.githubusercontent.com/u/8409155?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzMDAsIm5iZiI6MTczNDY1MDEwMCwicGF0aCI6Ii91Lzg0MDkxNTUifQ.JBJMPESKGCUdu54nk9Q-CXgzdct9OMHsiKoVR94sM5s&s=72&u=e8c82038199d25781d14d050bc4a3d20de712d01&v=4" width="24" alt="Avatar of tohweizhong"/> tohweizhong
+				<img src="https://private-avatars.githubusercontent.com/u/8409155?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODczMDAsIm5iZiI6MTczNDY4NjEwMCwicGF0aCI6Ii91Lzg0MDkxNTUifQ.dFpRhlTF13GIKF40LcddL9kEKtku5qKrnjMsnLi5Qhs&s=72&u=e8c82038199d25781d14d050bc4a3d20de712d01&v=4" width="24" alt="Avatar of tohweizhong"/> tohweizhong
 			</a><br/>
 			Toh Wei Zhong
 		</td>
@@ -10588,10 +10575,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>807</td>
+		<td>806</td>
 		<td>
 			<a target="_blank" href="https://github.com/Kishanjvaghela">
-				<img src="https://private-avatars.githubusercontent.com/u/11232063?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzMDAsIm5iZiI6MTczNDY1MDEwMCwicGF0aCI6Ii91LzExMjMyMDYzIn0.40tK8iOEosUnq_V9DLgIsFt-SIxdqdmvaWSUdVz2cFg&s=72&u=7fb0c2270862b1cf641de2158b2bca46b3befa35&v=4" width="24" alt="Avatar of Kishanjvaghela"/> Kishanjvaghela
+				<img src="https://private-avatars.githubusercontent.com/u/11232063?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODczMDAsIm5iZiI6MTczNDY4NjEwMCwicGF0aCI6Ii91LzExMjMyMDYzIn0.offTlqv0TWlB_111RSExLyDGgL6b0zZkSbLl9MbruNI&s=72&u=7fb0c2270862b1cf641de2158b2bca46b3befa35&v=4" width="24" alt="Avatar of Kishanjvaghela"/> Kishanjvaghela
 			</a><br/>
 			Kishan Vaghela
 		</td>
@@ -10601,10 +10588,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>808</td>
+		<td>807</td>
 		<td>
 			<a target="_blank" href="https://github.com/keanecjy">
-				<img src="https://private-avatars.githubusercontent.com/u/65328119?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEyNDAsIm5iZiI6MTczNDY1MDA0MCwicGF0aCI6Ii91LzY1MzI4MTE5In0.mxR4_Yb0_FdHrX8fnAuVTLPIFqibzOBNJEn_TGglwhw&s=72&u=54d2ab6e9f28d7ee77eccda73a98556a6f42e68f&v=4" width="24" alt="Avatar of keanecjy"/> keanecjy
+				<img src="https://private-avatars.githubusercontent.com/u/65328119?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcyNDAsIm5iZiI6MTczNDY4NjA0MCwicGF0aCI6Ii91LzY1MzI4MTE5In0.Hs0lNSJ9hfG5oP0DU0Q3bvANL0UCmQoqeR8JJEoUgEo&s=72&u=54d2ab6e9f28d7ee77eccda73a98556a6f42e68f&v=4" width="24" alt="Avatar of keanecjy"/> keanecjy
 			</a><br/>
 			Keane Chan
 		</td>
@@ -10614,10 +10601,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>809</td>
+		<td>808</td>
 		<td>
 			<a target="_blank" href="https://github.com/OpenMediationProject">
-				<img src="https://private-avatars.githubusercontent.com/u/34333048?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzNjAsIm5iZiI6MTczNDY1MDE2MCwicGF0aCI6Ii91LzM0MzMzMDQ4In0.8_hCXVUwA7fUxPjUbwBUyj8Vs4Mq-CX2VV-GLTtfqQ4&s=72&u=20706bbdfa54d15c1378b15d8cc3a0129dad4ff0&v=4" width="24" alt="Avatar of OpenMediationProject"/> OpenMediationProject
+				<img src="https://private-avatars.githubusercontent.com/u/34333048?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODczNjAsIm5iZiI6MTczNDY4NjE2MCwicGF0aCI6Ii91LzM0MzMzMDQ4In0.V4vh5qd8Xu0eQiIr0ad9SqBqwTsZxJ5PC4ZHMG3qfms&s=72&u=20706bbdfa54d15c1378b15d8cc3a0129dad4ff0&v=4" width="24" alt="Avatar of OpenMediationProject"/> OpenMediationProject
 			</a><br/>
 			OpenMediation
 		</td>
@@ -10627,23 +10614,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>810</td>
-		<td>
-			<a target="_blank" href="https://github.com/qinhua">
-				<img src="https://private-avatars.githubusercontent.com/u/11992612?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzNjAsIm5iZiI6MTczNDY1MDE2MCwicGF0aCI6Ii91LzExOTkyNjEyIn0.39Na2FQnXDAighbULCMMwu7IGYYB3UHv2mRPFK6qhDc&s=72&u=8b2e6e5904e4f6041a46ad3a85291c31bdf9c891&v=4" width="24" alt="Avatar of qinhua"/> qinhua
-			</a><br/>
-			Baby Chin
-		</td>
-		<td>Carv </td>
-		<td><a target="_blank" href="https://twitter.com/YoBabyChin">YoBabyChin</a></td>
-		<td>Singapore</td>
-		<td>81</td>
-	</tr>
-	<tr>
-		<td>811</td>
+		<td>809</td>
 		<td>
 			<a target="_blank" href="https://github.com/yemyat">
-				<img src="https://private-avatars.githubusercontent.com/u/185908?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4ODAsIm5iZiI6MTczNDY0OTY4MCwicGF0aCI6Ii91LzE4NTkwOCJ9.k7zkgWUSZQVhVzVHpLCqZG4IS0QuolEC8AEsTIpPq18&s=72&u=4af0369416aaeabaeea82a7ceb3e120db64403e5&v=4" width="24" alt="Avatar of yemyat"/> yemyat
+				<img src="https://private-avatars.githubusercontent.com/u/185908?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4ODAsIm5iZiI6MTczNDY4NTY4MCwicGF0aCI6Ii91LzE4NTkwOCJ9.DcLgODZ5F6_W1jrmiGi7h5h_fw8Ntq-5Mre1Lnn-86E&s=72&u=4af0369416aaeabaeea82a7ceb3e120db64403e5&v=4" width="24" alt="Avatar of yemyat"/> yemyat
 			</a><br/>
 			Ye Myat Min
 		</td>
@@ -10653,10 +10627,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>81</td>
 	</tr>
 	<tr>
-		<td>812</td>
+		<td>810</td>
 		<td>
 			<a target="_blank" href="https://github.com/wusize">
-				<img src="https://private-avatars.githubusercontent.com/u/72066971?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzcyMDY2OTcxIn0.5Knx5RRaU_R_vQwtsMwUL8Q5shgYzUlfPfA-MUBlqwg&s=72&u=0f34861ac267d6054ac4319f7c7bc819871649c0&v=4" width="24" alt="Avatar of wusize"/> wusize
+				<img src="https://private-avatars.githubusercontent.com/u/72066971?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxODAsIm5iZiI6MTczNDY4NTk4MCwicGF0aCI6Ii91LzcyMDY2OTcxIn0.puqeOCLlRP7HWP5_Ye8mApQ9Ai2V-Hvb_J6O2I1kPiI&s=72&u=0f34861ac267d6054ac4319f7c7bc819871649c0&v=4" width="24" alt="Avatar of wusize"/> wusize
 			</a><br/>
 			Size Wu 
 		</td>
@@ -10666,10 +10640,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>81</td>
 	</tr>
 	<tr>
-		<td>813</td>
+		<td>811</td>
 		<td>
 			<a target="_blank" href="https://github.com/victorneo">
-				<img src="https://private-avatars.githubusercontent.com/u/671124?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4MjAsIm5iZiI6MTczNDY0OTYyMCwicGF0aCI6Ii91LzY3MTEyNCJ9.tGcfHHtSbkZviQ05NEFHs6qCaF-i12N5fCRgEVvBSwM&s=72&u=911960c52ca14350a2cbb0a642bb893f0f3885a8&v=4" width="24" alt="Avatar of victorneo"/> victorneo
+				<img src="https://private-avatars.githubusercontent.com/u/671124?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4MjAsIm5iZiI6MTczNDY4NTYyMCwicGF0aCI6Ii91LzY3MTEyNCJ9.X1Lfml8SCXYvev5VN1AfGSLvHhjb52YzJrVWaDOfnP0&s=72&u=911960c52ca14350a2cbb0a642bb893f0f3885a8&v=4" width="24" alt="Avatar of victorneo"/> victorneo
 			</a><br/>
 			Victor Neo
 		</td>
@@ -10679,10 +10653,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>81</td>
 	</tr>
 	<tr>
-		<td>814</td>
+		<td>812</td>
 		<td>
 			<a target="_blank" href="https://github.com/nth10sd">
-				<img src="https://private-avatars.githubusercontent.com/u/488630?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE2MDAsIm5iZiI6MTczNDY1MDQwMCwicGF0aCI6Ii91LzQ4ODYzMCJ9.0EPKifVb3-ESMZ_ywzvLZzzHQ8WGrv_jHeHc3IhQVRI&s=72&u=97a5b0deaa0d84c762e19ffbaad312f6803188fe&v=4" width="24" alt="Avatar of nth10sd"/> nth10sd
+				<img src="https://private-avatars.githubusercontent.com/u/488630?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3MDAsIm5iZiI6MTczNDY4NTUwMCwicGF0aCI6Ii91LzQ4ODYzMCJ9.6WCr7j-gIh_EcB2xOS6ofN9n_mZiw1ikUWwWrb4PTEw&s=72&u=97a5b0deaa0d84c762e19ffbaad312f6803188fe&v=4" width="24" alt="Avatar of nth10sd"/> nth10sd
 			</a><br/>
 			Gary Kwong gkw
 		</td>
@@ -10692,10 +10666,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>81</td>
 	</tr>
 	<tr>
-		<td>815</td>
+		<td>813</td>
 		<td>
 			<a target="_blank" href="https://github.com/alvinsj">
-				<img src="https://private-avatars.githubusercontent.com/u/243186?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzI0MzE4NiJ9.MJkJpibPbJBy-NXPZooSyRoCkZoHDeuxUy3rPkIgzwM&s=72&u=b878f29d129490072e2f74b6580364ad6f63fc5a&v=4" width="24" alt="Avatar of alvinsj"/> alvinsj
+				<img src="https://private-avatars.githubusercontent.com/u/243186?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxODAsIm5iZiI6MTczNDY4NTk4MCwicGF0aCI6Ii91LzI0MzE4NiJ9.E_mvxqAjIbSGHV73L8y_Ro9gp-EpXANeZXvBcTqzghI&s=72&u=b878f29d129490072e2f74b6580364ad6f63fc5a&v=4" width="24" alt="Avatar of alvinsj"/> alvinsj
 			</a><br/>
 			Alvin
 		</td>
@@ -10705,10 +10679,23 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>81</td>
 	</tr>
 	<tr>
-		<td>816</td>
+		<td>814</td>
+		<td>
+			<a target="_blank" href="https://github.com/motss">
+				<img src="https://private-avatars.githubusercontent.com/u/10607759?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxODAsIm5iZiI6MTczNDY4NTk4MCwicGF0aCI6Ii91LzEwNjA3NzU5In0.WhuiX1iPYm1xfWBNpgf0c1xBOJXpBdAdNFElmtNao1k&s=72&u=b3b5289d446def85a15b2549ac7190fe59f99094&v=4" width="24" alt="Avatar of motss"/> motss
+			</a><br/>
+			The web walker
+		</td>
+		<td>Unnamed Tech Company </td>
+		<td><a target="_blank" href="https://twitter.com/igarshmyb">igarshmyb</a></td>
+		<td>Singapore</td>
+		<td>81</td>
+	</tr>
+	<tr>
+		<td>815</td>
 		<td>
 			<a target="_blank" href="https://github.com/Yikai-Wang">
-				<img src="https://private-avatars.githubusercontent.com/u/26347268?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4MjAsIm5iZiI6MTczNDY0OTYyMCwicGF0aCI6Ii91LzI2MzQ3MjY4In0.1HRtFqyULYzA3vzv1Uljwy5eS-MOPt1f6d5qQ2vwG44&s=72&u=7b2fa069ccfc1f158258699b2609fb39cce03a18&v=4" width="24" alt="Avatar of Yikai-Wang"/> Yikai-Wang
+				<img src="https://private-avatars.githubusercontent.com/u/26347268?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4MjAsIm5iZiI6MTczNDY4NTYyMCwicGF0aCI6Ii91LzI2MzQ3MjY4In0.52XKcBsRbFfQdjAsRCCG01Ye-T2PkHyoHIf8r3wjSbU&s=72&u=7b2fa069ccfc1f158258699b2609fb39cce03a18&v=4" width="24" alt="Avatar of Yikai-Wang"/> Yikai-Wang
 			</a><br/>
 			Yikai Wang
 		</td>
@@ -10718,10 +10705,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>81</td>
 	</tr>
 	<tr>
-		<td>817</td>
+		<td>816</td>
 		<td>
 			<a target="_blank" href="https://github.com/JacobYuan7">
-				<img src="https://private-avatars.githubusercontent.com/u/30721381?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzMwNzIxMzgxIn0.CvIpW-J4czUHCqzMRjEdiTH7k4_JgP28DK2aH_i7qRU&s=72&u=4fd00b365c830d83403a046874d5eb9702d0ecc2&v=4" width="24" alt="Avatar of JacobYuan7"/> JacobYuan7
+				<img src="https://private-avatars.githubusercontent.com/u/30721381?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzMwNzIxMzgxIn0.qgIyrhNTLnQQ4evNbDqG0JJ9S687yr_FrL8eDjqC8kU&s=72&u=4fd00b365c830d83403a046874d5eb9702d0ecc2&v=4" width="24" alt="Avatar of JacobYuan7"/> JacobYuan7
 			</a><br/>
 			Hangjie Yuan
 		</td>
@@ -10731,10 +10718,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>81</td>
 	</tr>
 	<tr>
-		<td>818</td>
+		<td>817</td>
 		<td>
 			<a target="_blank" href="https://github.com/Gnnng">
-				<img src="https://private-avatars.githubusercontent.com/u/3510144?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzM1MTAxNDQifQ.uPkYcq8zgkJjmtmA34KROvJpFvboLEFDixMMPxgZ-x0&s=72&u=1d3c9c7d7c4c7dbd59e81b4deab1f3072f03f4e8&v=4" width="24" alt="Avatar of Gnnng"/> Gnnng
+				<img src="https://private-avatars.githubusercontent.com/u/3510144?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzM1MTAxNDQifQ.4mjxWWIuqt8E2yMbTi1qsL3HfBy1ycjcZy4UP-OnjwU&s=72&u=1d3c9c7d7c4c7dbd59e81b4deab1f3072f03f4e8&v=4" width="24" alt="Avatar of Gnnng"/> Gnnng
 			</a><br/>
 			Deli Gong
 		</td>
@@ -10744,10 +10731,23 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>81</td>
 	</tr>
 	<tr>
+		<td>818</td>
+		<td>
+			<a target="_blank" href="https://github.com/qinhua">
+				<img src="https://private-avatars.githubusercontent.com/u/11992612?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODczNjAsIm5iZiI6MTczNDY4NjE2MCwicGF0aCI6Ii91LzExOTkyNjEyIn0.f0GIPn-oZ1Sa9QVUOMJxULZDSq-cDD14XZY1dGmdM9I&s=72&u=8b2e6e5904e4f6041a46ad3a85291c31bdf9c891&v=4" width="24" alt="Avatar of qinhua"/> qinhua
+			</a><br/>
+			Baby Chin
+		</td>
+		<td>Carv </td>
+		<td><a target="_blank" href="https://twitter.com/YoBabyChin">YoBabyChin</a></td>
+		<td>Singapore</td>
+		<td>80</td>
+	</tr>
+	<tr>
 		<td>819</td>
 		<td>
 			<a target="_blank" href="https://github.com/dariusf">
-				<img src="https://private-avatars.githubusercontent.com/u/4328341?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE1NDAsIm5iZiI6MTczNDY1MDM0MCwicGF0aCI6Ii91LzQzMjgzNDEifQ.HCdDjYYC02LMajftafizvBkMvs_lUKEbngUZdQEXuEg&s=72&u=2c0ed15c373a4afd211ea198aed77306767c1d43&v=4" width="24" alt="Avatar of dariusf"/> dariusf
+				<img src="https://private-avatars.githubusercontent.com/u/4328341?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODc1NDAsIm5iZiI6MTczNDY4NjM0MCwicGF0aCI6Ii91LzQzMjgzNDEifQ.lGvUVNXDBm1yfPVhA9HQDKB4_WLMIsR9JggFKfXQbcM&s=72&u=2c0ed15c373a4afd211ea198aed77306767c1d43&v=4" width="24" alt="Avatar of dariusf"/> dariusf
 			</a><br/>
 			Darius Foo
 		</td>
@@ -10760,7 +10760,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>820</td>
 		<td>
 			<a target="_blank" href="https://github.com/ThePyProgrammer">
-				<img src="https://private-avatars.githubusercontent.com/u/50899509?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE2MDAsIm5iZiI6MTczNDY1MDQwMCwicGF0aCI6Ii91LzUwODk5NTA5In0.zjQ4_E-u2mGdbY1OmMCif4g4TIIztfHcyIbaQfxGmcI&s=72&u=f289cec2fab260b46980268e20678c1d9515c227&v=4" width="24" alt="Avatar of ThePyProgrammer"/> ThePyProgrammer
+				<img src="https://private-avatars.githubusercontent.com/u/50899509?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3MDAsIm5iZiI6MTczNDY4NTUwMCwicGF0aCI6Ii91LzUwODk5NTA5In0.ykI7EYEMftYTaypr6ovekCUz-30QEwRmI3_GN1UODH4&s=72&u=f289cec2fab260b46980268e20678c1d9515c227&v=4" width="24" alt="Avatar of ThePyProgrammer"/> ThePyProgrammer
 			</a><br/>
 			Prannaya Gupta
 		</td>
@@ -10773,7 +10773,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>821</td>
 		<td>
 			<a target="_blank" href="https://github.com/akegaviar">
-				<img src="https://private-avatars.githubusercontent.com/u/10195782?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEyNDAsIm5iZiI6MTczNDY1MDA0MCwicGF0aCI6Ii91LzEwMTk1NzgyIn0.4hvxRmeDwtr4WdNjzqJ0Du5xl8YsyEGXOyhvtnSCzqY&s=72&u=2a7ec831853138ffcc609e375fec9939d5893dad&v=4" width="24" alt="Avatar of akegaviar"/> akegaviar
+				<img src="https://private-avatars.githubusercontent.com/u/10195782?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcyNDAsIm5iZiI6MTczNDY4NjA0MCwicGF0aCI6Ii91LzEwMTk1NzgyIn0.GywsomdFdL7xoGeuD5TnUEJHYZgxLSybiB-e4x4h23U&s=72&u=2a7ec831853138ffcc609e375fec9939d5893dad&v=4" width="24" alt="Avatar of akegaviar"/> akegaviar
 			</a><br/>
 			Ake
 		</td>
@@ -10785,21 +10785,8 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 	<tr>
 		<td>822</td>
 		<td>
-			<a target="_blank" href="https://github.com/poipiii">
-				<img src="https://private-avatars.githubusercontent.com/u/35490660?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE2MDAsIm5iZiI6MTczNDY1MDQwMCwicGF0aCI6Ii91LzM1NDkwNjYwIn0.A8UiQvugTmCAs3AjIpw_Q3cQIIbnUGg3zMXK66TSejw&s=72&u=647fa7cacc055c194101959c8a5e16da543fa24d&v=4" width="24" alt="Avatar of poipiii"/> poipiii
-			</a><br/>
-			Loy Jun Cheng
-		</td>
-		<td>Rsaf Raid </td>
-		<td>No Twitter Username</td>
-		<td>Singapore</td>
-		<td>80</td>
-	</tr>
-	<tr>
-		<td>823</td>
-		<td>
 			<a target="_blank" href="https://github.com/LuminousXLB">
-				<img src="https://private-avatars.githubusercontent.com/u/23524048?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzIzNTI0MDQ4In0.sH6nho50InZFH234q6X7hCyFfBpY6jotWqr3u26dE0M&s=72&u=71d6aab38f3b89381db4ca0a101eb9bb439502ae&v=4" width="24" alt="Avatar of LuminousXLB"/> LuminousXLB
+				<img src="https://private-avatars.githubusercontent.com/u/23524048?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzIzNTI0MDQ4In0.O9vPOfb5Kc_FvXnW4zQAPn4r8jD5jZ9LQLXg6NcKtWs&s=72&u=71d6aab38f3b89381db4ca0a101eb9bb439502ae&v=4" width="24" alt="Avatar of LuminousXLB"/> LuminousXLB
 			</a><br/>
 			Jiamin Shen
 		</td>
@@ -10809,10 +10796,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>80</td>
 	</tr>
 	<tr>
-		<td>824</td>
+		<td>823</td>
 		<td>
 			<a target="_blank" href="https://github.com/flyfy1">
-				<img src="https://private-avatars.githubusercontent.com/u/1553760?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExMjAsIm5iZiI6MTczNDY0OTkyMCwicGF0aCI6Ii91LzE1NTM3NjAifQ.xc3JdbgOT7nKTxREUxjI9Y8aQHr_WJug2D373-c45_8&s=72&u=bc85ee023bec21c51b0bd909ca3ef3d67e9e9af2&v=4" width="24" alt="Avatar of flyfy1"/> flyfy1
+				<img src="https://private-avatars.githubusercontent.com/u/1553760?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxMjAsIm5iZiI6MTczNDY4NTkyMCwicGF0aCI6Ii91LzE1NTM3NjAifQ.iMussbnP0I7aG6HZagHLsPe40S8VB7zfjGMouRzvimM&s=72&u=bc85ee023bec21c51b0bd909ca3ef3d67e9e9af2&v=4" width="24" alt="Avatar of flyfy1"/> flyfy1
 			</a><br/>
 			Song Yangyu
 		</td>
@@ -10822,10 +10809,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>80</td>
 	</tr>
 	<tr>
-		<td>825</td>
+		<td>824</td>
 		<td>
 			<a target="_blank" href="https://github.com/misskecupbung">
-				<img src="https://private-avatars.githubusercontent.com/u/26140300?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwMDAsIm5iZiI6MTczNDY0OTgwMCwicGF0aCI6Ii91LzI2MTQwMzAwIn0.Zhbz_W7N6-8LsPXvaHJIdYsnTmWtOFmT02rKFMqQI38&s=72&u=a406bc60404d957fdee8b5d02981d248cf279e86&v=4" width="24" alt="Avatar of misskecupbung"/> misskecupbung
+				<img src="https://private-avatars.githubusercontent.com/u/26140300?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwMDAsIm5iZiI6MTczNDY4NTgwMCwicGF0aCI6Ii91LzI2MTQwMzAwIn0.AvmDT5_HVez8NK5gSZNfja6ubfBlv_rDBwAgGXWQqcQ&s=72&u=a406bc60404d957fdee8b5d02981d248cf279e86&v=4" width="24" alt="Avatar of misskecupbung"/> misskecupbung
 			</a><br/>
 			Ananda Dwi Ae
 		</td>
@@ -10835,10 +10822,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>80</td>
 	</tr>
 	<tr>
-		<td>826</td>
+		<td>825</td>
 		<td>
 			<a target="_blank" href="https://github.com/shamilcm">
-				<img src="https://private-avatars.githubusercontent.com/u/642864?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE2MDAsIm5iZiI6MTczNDY1MDQwMCwicGF0aCI6Ii91LzY0Mjg2NCJ9.qH_RVN9eis5e12781cKaN7HWkEckfZHnYy5p2r1UwdQ&s=72&u=ab4d4be489e7b8ac887f1245e8a5d8fd707292a0&v=4" width="24" alt="Avatar of shamilcm"/> shamilcm
+				<img src="https://private-avatars.githubusercontent.com/u/642864?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3MDAsIm5iZiI6MTczNDY4NTUwMCwicGF0aCI6Ii91LzY0Mjg2NCJ9.adEAcmjW9vek0lvKrSyM_S9QcGneYSKnWRgFukPffOg&s=72&u=ab4d4be489e7b8ac887f1245e8a5d8fd707292a0&v=4" width="24" alt="Avatar of shamilcm"/> shamilcm
 			</a><br/>
 			Shamil Chollampatt
 		</td>
@@ -10848,10 +10835,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>80</td>
 	</tr>
 	<tr>
-		<td>827</td>
+		<td>826</td>
 		<td>
 			<a target="_blank" href="https://github.com/kelvinfok">
-				<img src="https://private-avatars.githubusercontent.com/u/12391582?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwMDAsIm5iZiI6MTczNDY0OTgwMCwicGF0aCI6Ii91LzEyMzkxNTgyIn0.DPC29Ax_fdDafJ9QwSgEgM5uz3wMQRiYLCfl3FwTsn8&s=72&u=80347fdfa2e72f60f4ed7ea4256e2be143f5ac35&v=4" width="24" alt="Avatar of kelvinfok"/> kelvinfok
+				<img src="https://private-avatars.githubusercontent.com/u/12391582?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwMDAsIm5iZiI6MTczNDY4NTgwMCwicGF0aCI6Ii91LzEyMzkxNTgyIn0.OWxWW6ADWlbowCz6v0-xbw8d9Cll7X1bfuGxkQA3qoU&s=72&u=80347fdfa2e72f60f4ed7ea4256e2be143f5ac35&v=4" width="24" alt="Avatar of kelvinfok"/> kelvinfok
 			</a><br/>
 			Kelvin Fok
 		</td>
@@ -10861,10 +10848,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>80</td>
 	</tr>
 	<tr>
-		<td>828</td>
+		<td>827</td>
 		<td>
 			<a target="_blank" href="https://github.com/rizemon">
-				<img src="https://private-avatars.githubusercontent.com/u/26685970?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzI2Njg1OTcwIn0.6RYn66A4QIumbhj27S71cqO9eK7kz2XC2bqv1_rNvIo&s=72&u=941840e52728384fdc762fc059e81c9b336e1bba&v=4" width="24" alt="Avatar of rizemon"/> rizemon
+				<img src="https://private-avatars.githubusercontent.com/u/26685970?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzI2Njg1OTcwIn0.zC5SW12Ij_L-nHsSzjACsewMt2j8507aRPA5TwbIXEM&s=72&u=941840e52728384fdc762fc059e81c9b336e1bba&v=4" width="24" alt="Avatar of rizemon"/> rizemon
 			</a><br/>
 			rizemon
 		</td>
@@ -10874,10 +10861,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>80</td>
 	</tr>
 	<tr>
-		<td>829</td>
+		<td>828</td>
 		<td>
 			<a target="_blank" href="https://github.com/LiQianxiao">
-				<img src="https://private-avatars.githubusercontent.com/u/20288614?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzIwMjg4NjE0In0.RFQTak_50nM6gYiVuJBe8Vd0FzcPmh55dnWAF4M9iuY&s=72&v=4" width="24" alt="Avatar of LiQianxiao"/> LiQianxiao
+				<img src="https://private-avatars.githubusercontent.com/u/20288614?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxODAsIm5iZiI6MTczNDY4NTk4MCwicGF0aCI6Ii91LzIwMjg4NjE0In0.PxnIJBhyU2Xd_Sx9X5Z3Iu1mYATETrr5IgMjdvbh4wo&s=72&v=4" width="24" alt="Avatar of LiQianxiao"/> LiQianxiao
 			</a><br/>
 			Qianxiao Li
 		</td>
@@ -10887,10 +10874,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>80</td>
 	</tr>
 	<tr>
-		<td>830</td>
+		<td>829</td>
 		<td>
 			<a target="_blank" href="https://github.com/whiteclover">
-				<img src="https://private-avatars.githubusercontent.com/u/1823391?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE0MjAsIm5iZiI6MTczNDY1MDIyMCwicGF0aCI6Ii91LzE4MjMzOTEifQ.8Vt9tpRO1mDvZmqC3WdzK1QycrbTJJME3iPXRv9DxD0&s=72&v=4" width="24" alt="Avatar of whiteclover"/> whiteclover
+				<img src="https://private-avatars.githubusercontent.com/u/1823391?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODc0MjAsIm5iZiI6MTczNDY4NjIyMCwicGF0aCI6Ii91LzE4MjMzOTEifQ.P71VlsTpgpWb_naFVjFHnPSdEz8yGi4QUwO3t79eoCA&s=72&v=4" width="24" alt="Avatar of whiteclover"/> whiteclover
 			</a><br/>
 			White Clover
 		</td>
@@ -10900,10 +10887,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>80</td>
 	</tr>
 	<tr>
-		<td>831</td>
+		<td>830</td>
 		<td>
 			<a target="_blank" href="https://github.com/ooibc88">
-				<img src="https://private-avatars.githubusercontent.com/u/14207834?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4ODAsIm5iZiI6MTczNDY0OTY4MCwicGF0aCI6Ii91LzE0MjA3ODM0In0.PC6NDCnafd4AezFvaWupNlsnM3j8IMOU57mS0xDksyc&s=72&u=929383d0c8bc3dadbdd00dfbacf04d87dfb3f5ca&v=4" width="24" alt="Avatar of ooibc88"/> ooibc88
+				<img src="https://private-avatars.githubusercontent.com/u/14207834?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4ODAsIm5iZiI6MTczNDY4NTY4MCwicGF0aCI6Ii91LzE0MjA3ODM0In0.IQt-_iq4K71_WxdKJ8yl0ykoTl3e272e1nPlvKBErhE&s=72&u=929383d0c8bc3dadbdd00dfbacf04d87dfb3f5ca&v=4" width="24" alt="Avatar of ooibc88"/> ooibc88
 			</a><br/>
 			Beng Chin Ooi
 		</td>
@@ -10913,10 +10900,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>80</td>
 	</tr>
 	<tr>
-		<td>832</td>
+		<td>831</td>
 		<td>
 			<a target="_blank" href="https://github.com/aalind0">
-				<img src="https://private-avatars.githubusercontent.com/u/13695616?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEyNDAsIm5iZiI6MTczNDY1MDA0MCwicGF0aCI6Ii91LzEzNjk1NjE2In0.Tb7XqWfkubulduKkVkwyAbR5bYXFCDFgtQkoOv40P6Y&s=72&u=178d968efaef84ad7f678293560c282b6080217c&v=4" width="24" alt="Avatar of aalind0"/> aalind0
+				<img src="https://private-avatars.githubusercontent.com/u/13695616?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcyNDAsIm5iZiI6MTczNDY4NjA0MCwicGF0aCI6Ii91LzEzNjk1NjE2In0.Fcr7v7rtKYqhDg1FcJHjOOx8WGE1L24xMQHC3mU6L00&s=72&u=178d968efaef84ad7f678293560c282b6080217c&v=4" width="24" alt="Avatar of aalind0"/> aalind0
 			</a><br/>
 			Aalind Singh
 		</td>
@@ -10926,10 +10913,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>80</td>
 	</tr>
 	<tr>
-		<td>833</td>
+		<td>832</td>
 		<td>
 			<a target="_blank" href="https://github.com/remykarem">
-				<img src="https://private-avatars.githubusercontent.com/u/11023859?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE0ODAsIm5iZiI6MTczNDY1MDI4MCwicGF0aCI6Ii91LzExMDIzODU5In0.CcC51g-VWSjsHQkaH9zy5GzuuE3hsEUY7B5ID3srU8M&s=72&u=0e15d117bb17ab44b63e4930f810364cc5aed1ee&v=4" width="24" alt="Avatar of remykarem"/> remykarem
+				<img src="https://private-avatars.githubusercontent.com/u/11023859?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODc0ODAsIm5iZiI6MTczNDY4NjI4MCwicGF0aCI6Ii91LzExMDIzODU5In0.Sli4d-q7q5q44MQ-h0utJBMORQuZKcOpNvLcPEvgOrI&s=72&u=0e15d117bb17ab44b63e4930f810364cc5aed1ee&v=4" width="24" alt="Avatar of remykarem"/> remykarem
 			</a><br/>
 			Remy
 		</td>
@@ -10939,10 +10926,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>79</td>
 	</tr>
 	<tr>
-		<td>834</td>
+		<td>833</td>
 		<td>
 			<a target="_blank" href="https://github.com/dominicarrojado">
-				<img src="https://private-avatars.githubusercontent.com/u/6789191?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExMjAsIm5iZiI6MTczNDY0OTkyMCwicGF0aCI6Ii91LzY3ODkxOTEifQ.WkQGEMwATWksxJ2r27f-Atxbv4TxMWfPUOp6cbqvMng&s=72&u=3b24f172aba86e7ee82ac51571d7cc62e4328b44&v=4" width="24" alt="Avatar of dominicarrojado"/> dominicarrojado
+				<img src="https://private-avatars.githubusercontent.com/u/6789191?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxMjAsIm5iZiI6MTczNDY4NTkyMCwicGF0aCI6Ii91LzY3ODkxOTEifQ.EJWOIagWjbqjjp7puxr6ERwcusWJkPdXXa9Zt7Q1pko&s=72&u=3b24f172aba86e7ee82ac51571d7cc62e4328b44&v=4" width="24" alt="Avatar of dominicarrojado"/> dominicarrojado
 			</a><br/>
 			Dominic Arrojado
 		</td>
@@ -10952,10 +10939,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>79</td>
 	</tr>
 	<tr>
-		<td>835</td>
+		<td>834</td>
 		<td>
 			<a target="_blank" href="https://github.com/jingxiangmo">
-				<img src="https://private-avatars.githubusercontent.com/u/65676392?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzNjAsIm5iZiI6MTczNDY1MDE2MCwicGF0aCI6Ii91LzY1Njc2MzkyIn0.HWA6-3IM_eswTM9wgbIwrXGdrFNoygBPFnjOYrsyUik&s=72&u=0e3e105ae3cab56c2d97ae15c75014edab23904b&v=4" width="24" alt="Avatar of jingxiangmo"/> jingxiangmo
+				<img src="https://private-avatars.githubusercontent.com/u/65676392?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODczNjAsIm5iZiI6MTczNDY4NjE2MCwicGF0aCI6Ii91LzY1Njc2MzkyIn0.GZ5hXSaWnudQYGz5ld2rKWCE2SQGqhCVORb2RpiV_Ms&s=72&u=0e3e105ae3cab56c2d97ae15c75014edab23904b&v=4" width="24" alt="Avatar of jingxiangmo"/> jingxiangmo
 			</a><br/>
 			JX
 		</td>
@@ -10965,10 +10952,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>79</td>
 	</tr>
 	<tr>
-		<td>836</td>
+		<td>835</td>
 		<td>
 			<a target="_blank" href="https://github.com/antoinekllee">
-				<img src="https://private-avatars.githubusercontent.com/u/62200697?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4ODAsIm5iZiI6MTczNDY0OTY4MCwicGF0aCI6Ii91LzYyMjAwNjk3In0.2ax8P4-Glm_2KSQdiRmnI3fLhBGY7d-g9sB-P3r7aw0&s=72&u=a0cbe0f795298c519e3918f0d6ac0f9f47cff7d7&v=4" width="24" alt="Avatar of antoinekllee"/> antoinekllee
+				<img src="https://private-avatars.githubusercontent.com/u/62200697?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4ODAsIm5iZiI6MTczNDY4NTY4MCwicGF0aCI6Ii91LzYyMjAwNjk3In0.12hNqdEOD_CO3a4vDbIq_5L34QyrICpGihhr6cOjOzg&s=72&u=a0cbe0f795298c519e3918f0d6ac0f9f47cff7d7&v=4" width="24" alt="Avatar of antoinekllee"/> antoinekllee
 			</a><br/>
 			Antoine L
 		</td>
@@ -10978,10 +10965,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>79</td>
 	</tr>
 	<tr>
-		<td>837</td>
+		<td>836</td>
 		<td>
 			<a target="_blank" href="https://github.com/gocanto">
-				<img src="https://private-avatars.githubusercontent.com/u/5246059?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE0MjAsIm5iZiI6MTczNDY1MDIyMCwicGF0aCI6Ii91LzUyNDYwNTkifQ.cKWhaTDIGtiYY80m-KJUU56OsmI8DnILAy_N4tDk644&s=72&u=f281ee081229577852fa8f7982a65e3caef4dc11&v=4" width="24" alt="Avatar of gocanto"/> gocanto
+				<img src="https://private-avatars.githubusercontent.com/u/5246059?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODc0MjAsIm5iZiI6MTczNDY4NjIyMCwicGF0aCI6Ii91LzUyNDYwNTkifQ.0_2DH9tIUL1lsvgi-tfmTZg1S10T9Nmrj-0buWILI4o&s=72&u=f281ee081229577852fa8f7982a65e3caef4dc11&v=4" width="24" alt="Avatar of gocanto"/> gocanto
 			</a><br/>
 			Gus
 		</td>
@@ -10991,10 +10978,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>79</td>
 	</tr>
 	<tr>
-		<td>838</td>
+		<td>837</td>
 		<td>
 			<a target="_blank" href="https://github.com/juslee">
-				<img src="https://private-avatars.githubusercontent.com/u/1696598?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzNjAsIm5iZiI6MTczNDY1MDE2MCwicGF0aCI6Ii91LzE2OTY1OTgifQ.X7JETubmX6530fYWb9x9zUCIX3x2RYRMuvDnJ6AGlcE&s=72&u=2873e14021673b7818240189aad0aad27349c255&v=4" width="24" alt="Avatar of juslee"/> juslee
+				<img src="https://private-avatars.githubusercontent.com/u/1696598?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODczNjAsIm5iZiI6MTczNDY4NjE2MCwicGF0aCI6Ii91LzE2OTY1OTgifQ.EL5ln8ShCD25YmYpd0zn4HejeKtlh1__ezS9t9m83YQ&s=72&u=2873e14021673b7818240189aad0aad27349c255&v=4" width="24" alt="Avatar of juslee"/> juslee
 			</a><br/>
 			Justin Lee
 		</td>
@@ -11004,10 +10991,23 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>79</td>
 	</tr>
 	<tr>
+		<td>838</td>
+		<td>
+			<a target="_blank" href="https://github.com/poipiii">
+				<img src="https://private-avatars.githubusercontent.com/u/35490660?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3MDAsIm5iZiI6MTczNDY4NTUwMCwicGF0aCI6Ii91LzM1NDkwNjYwIn0.V4BrmAZahe_jqwWDjzz-sgDwfOS6LAh82qiMqXhBxco&s=72&u=647fa7cacc055c194101959c8a5e16da543fa24d&v=4" width="24" alt="Avatar of poipiii"/> poipiii
+			</a><br/>
+			Loy Jun Cheng
+		</td>
+		<td>Rsaf Raid </td>
+		<td>No Twitter Username</td>
+		<td>Singapore</td>
+		<td>79</td>
+	</tr>
+	<tr>
 		<td>839</td>
 		<td>
 			<a target="_blank" href="https://github.com/gromgit">
-				<img src="https://private-avatars.githubusercontent.com/u/215702?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzIxNTcwMiJ9.cznTlvpiExMQQJloQxX-u1SWOQTAF8l2ZRjV_bgKdo0&s=72&u=b9f8c7106217535ccc93e6b7736992b2ef690350&v=4" width="24" alt="Avatar of gromgit"/> gromgit
+				<img src="https://private-avatars.githubusercontent.com/u/215702?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzIxNTcwMiJ9.0QOOhtt2CO3xezoaSQ25kyyZ5XLSlK8QOY-PDy2rX6c&s=72&u=b9f8c7106217535ccc93e6b7736992b2ef690350&v=4" width="24" alt="Avatar of gromgit"/> gromgit
 			</a><br/>
 			Adrian Ho
 		</td>
@@ -11020,7 +11020,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>840</td>
 		<td>
 			<a target="_blank" href="https://github.com/dohomi">
-				<img src="https://private-avatars.githubusercontent.com/u/489221?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEyNDAsIm5iZiI6MTczNDY1MDA0MCwicGF0aCI6Ii91LzQ4OTIyMSJ9.FViQmtnm4GWXX_d4EJvYyXuvWdV-sUq-BRjvCZoJWo8&s=72&u=cb53fae8ed6cb2c0cd01e0e83deab7f2c0ab9129&v=4" width="24" alt="Avatar of dohomi"/> dohomi
+				<img src="https://private-avatars.githubusercontent.com/u/489221?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcyNDAsIm5iZiI6MTczNDY4NjA0MCwicGF0aCI6Ii91LzQ4OTIyMSJ9.OMJsPY1z3ycihCeAL27hQDFDRVbZzNCJ_3uQRhAnvUs&s=72&u=cb53fae8ed6cb2c0cd01e0e83deab7f2c0ab9129&v=4" width="24" alt="Avatar of dohomi"/> dohomi
 			</a><br/>
 			Dominic Garms
 		</td>
@@ -11033,7 +11033,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>841</td>
 		<td>
 			<a target="_blank" href="https://github.com/acjh">
-				<img src="https://private-avatars.githubusercontent.com/u/14091939?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA5NDAsIm5iZiI6MTczNDY0OTc0MCwicGF0aCI6Ii91LzE0MDkxOTM5In0.aBwudXITXgzZqczq9-6QTa3Ecsd0FSLyAsWpQycaOxY&s=72&u=88214020d282a40a84cca1089dacc7e065567f41&v=4" width="24" alt="Avatar of acjh"/> acjh
+				<img src="https://private-avatars.githubusercontent.com/u/14091939?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY5NDAsIm5iZiI6MTczNDY4NTc0MCwicGF0aCI6Ii91LzE0MDkxOTM5In0.uZHRy6wpcxDTCfQx1oXmJpTKZfxcJuahrPxEzlVd9gw&s=72&u=88214020d282a40a84cca1089dacc7e065567f41&v=4" width="24" alt="Avatar of acjh"/> acjh
 			</a><br/>
 			Aaron Chong
 		</td>
@@ -11046,7 +11046,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>842</td>
 		<td>
 			<a target="_blank" href="https://github.com/xukuanHIT">
-				<img src="https://private-avatars.githubusercontent.com/u/17938325?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA5NDAsIm5iZiI6MTczNDY0OTc0MCwicGF0aCI6Ii91LzE3OTM4MzI1In0.KfakbqFyvJ--lnNlmhidEdCgVhtUUNm_9WESDxTqriY&s=72&u=35083168eeebd4eeb2cba1bb5d9107bfe5d102d8&v=4" width="24" alt="Avatar of xukuanHIT"/> xukuanHIT
+				<img src="https://private-avatars.githubusercontent.com/u/17938325?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY5NDAsIm5iZiI6MTczNDY4NTc0MCwicGF0aCI6Ii91LzE3OTM4MzI1In0.xLW3HQ7N6cfG--RFTpSJH_z-_9fHHAwEZUJecERXyWw&s=72&u=35083168eeebd4eeb2cba1bb5d9107bfe5d102d8&v=4" width="24" alt="Avatar of xukuanHIT"/> xukuanHIT
 			</a><br/>
 			Xu Kuan
 		</td>
@@ -11059,7 +11059,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>843</td>
 		<td>
 			<a target="_blank" href="https://github.com/AIDefender">
-				<img src="https://private-avatars.githubusercontent.com/u/43834278?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE0MjAsIm5iZiI6MTczNDY1MDIyMCwicGF0aCI6Ii91LzQzODM0Mjc4In0.aQ3kkokd4AVgu_f-sMKlWHGnTDnyLXKsUkdDLjZC4Y4&s=72&u=3f92841290a888326096a05379cf709920a85ba3&v=4" width="24" alt="Avatar of AIDefender"/> AIDefender
+				<img src="https://private-avatars.githubusercontent.com/u/43834278?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODc0MjAsIm5iZiI6MTczNDY4NjIyMCwicGF0aCI6Ii91LzQzODM0Mjc4In0.KXa6JYAerysqLb1fFq-MZ1MvMGxGoqDb_LazPJlB1DU&s=72&u=3f92841290a888326096a05379cf709920a85ba3&v=4" width="24" alt="Avatar of AIDefender"/> AIDefender
 			</a><br/>
 			Zhenghai Xue
 		</td>
@@ -11072,7 +11072,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>844</td>
 		<td>
 			<a target="_blank" href="https://github.com/yathit">
-				<img src="https://private-avatars.githubusercontent.com/u/2137932?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE0MjAsIm5iZiI6MTczNDY1MDIyMCwicGF0aCI6Ii91LzIxMzc5MzIifQ.H74rwp8PGZGtwmh4tCktKl7WiDxnE4VAF_ygAAaIqwQ&s=72&v=4" width="24" alt="Avatar of yathit"/> yathit
+				<img src="https://private-avatars.githubusercontent.com/u/2137932?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODc0MjAsIm5iZiI6MTczNDY4NjIyMCwicGF0aCI6Ii91LzIxMzc5MzIifQ.a7KmFdbC7fj9MZP1Zmee5ALrNQvahHdZCjc7uG0DQe4&s=72&v=4" width="24" alt="Avatar of yathit"/> yathit
 			</a><br/>
 			Kyaw Tun
 		</td>
@@ -11085,7 +11085,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>845</td>
 		<td>
 			<a target="_blank" href="https://github.com/nvkiet">
-				<img src="https://private-avatars.githubusercontent.com/u/4050656?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA5NDAsIm5iZiI6MTczNDY0OTc0MCwicGF0aCI6Ii91LzQwNTA2NTYifQ.TBHb1vL8T0Zd5URoxuXVkN1YOVk6wE-YIpqhY6dDjYM&s=72&u=87768c141dcde2915ed40fff97ed56a5f991916d&v=4" width="24" alt="Avatar of nvkiet"/> nvkiet
+				<img src="https://private-avatars.githubusercontent.com/u/4050656?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY5NDAsIm5iZiI6MTczNDY4NTc0MCwicGF0aCI6Ii91LzQwNTA2NTYifQ.aiMhoL0NK-m0QdK_6ZTpTj6vKst3WUamtIviGDyn2Rs&s=72&u=87768c141dcde2915ed40fff97ed56a5f991916d&v=4" width="24" alt="Avatar of nvkiet"/> nvkiet
 			</a><br/>
 			Kiet Nguyen  CoFounder  CEO at GrabLingocom
 		</td>
@@ -11098,7 +11098,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>846</td>
 		<td>
 			<a target="_blank" href="https://github.com/jasonyip184">
-				<img src="https://private-avatars.githubusercontent.com/u/24970386?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4MjAsIm5iZiI6MTczNDY0OTYyMCwicGF0aCI6Ii91LzI0OTcwMzg2In0.S84X-eZyVOtPEI6n7O_jViF-msSWQagtSNpE0SiQJcU&s=72&u=1820cd3404937a6b875436a3893f843367cd38b3&v=4" width="24" alt="Avatar of jasonyip184"/> jasonyip184
+				<img src="https://private-avatars.githubusercontent.com/u/24970386?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4MjAsIm5iZiI6MTczNDY4NTYyMCwicGF0aCI6Ii91LzI0OTcwMzg2In0.8LNpGYNigprqDhYp3FjFtHJmUvpziNtjhWc0n0u2Y3Q&s=72&u=1820cd3404937a6b875436a3893f843367cd38b3&v=4" width="24" alt="Avatar of jasonyip184"/> jasonyip184
 			</a><br/>
 			Jason Yip
 		</td>
@@ -11111,7 +11111,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>847</td>
 		<td>
 			<a target="_blank" href="https://github.com/pioug">
-				<img src="https://private-avatars.githubusercontent.com/u/3654180?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE1NDAsIm5iZiI6MTczNDY1MDM0MCwicGF0aCI6Ii91LzM2NTQxODAifQ.mOVe16cjJABZUZDJzX-zvcY_Zkx_YPZL-dlZS1nqgWg&s=72&u=c5206071d58424c0a084196578278af814fd3817&v=4" width="24" alt="Avatar of pioug"/> pioug
+				<img src="https://private-avatars.githubusercontent.com/u/3654180?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODc1NDAsIm5iZiI6MTczNDY4NjM0MCwicGF0aCI6Ii91LzM2NTQxODAifQ._uEM5XinflSDqB3sj8sR41MdRUnVWdUxPMRCgPnnXcA&s=72&u=c5206071d58424c0a084196578278af814fd3817&v=4" width="24" alt="Avatar of pioug"/> pioug
 			</a><br/>
 			Gilles Piou
 		</td>
@@ -11124,7 +11124,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>848</td>
 		<td>
 			<a target="_blank" href="https://github.com/carlvoller">
-				<img src="https://private-avatars.githubusercontent.com/u/27472988?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE2NjAsIm5iZiI6MTczNDY1MDQ2MCwicGF0aCI6Ii91LzI3NDcyOTg4In0.o4PxPdZqJPcM5fSuS4XVLxWN9SJh91HVmFT_NveQsRw&s=72&u=e1b4a9bdcd5d9fc45daef489fa6e7fd2e7c045aa&v=4" width="24" alt="Avatar of carlvoller"/> carlvoller
+				<img src="https://private-avatars.githubusercontent.com/u/27472988?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91LzI3NDcyOTg4In0.4eHnYkHeCazKkWBDt89KO7LuaxYkTgjVxYQguqA3c_c&s=72&u=e1b4a9bdcd5d9fc45daef489fa6e7fd2e7c045aa&v=4" width="24" alt="Avatar of carlvoller"/> carlvoller
 			</a><br/>
 			Carl Ian Voller
 		</td>
@@ -11137,7 +11137,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>849</td>
 		<td>
 			<a target="_blank" href="https://github.com/chamburr">
-				<img src="https://private-avatars.githubusercontent.com/u/42373024?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzQyMzczMDI0In0.0qzTScILVpmfHEanMzwWzpxPh1v37Vc2yhkKnfOVp-M&s=72&u=45b556486f7bd4bbac6fecf601bceaf79114f70f&v=4" width="24" alt="Avatar of chamburr"/> chamburr
+				<img src="https://private-avatars.githubusercontent.com/u/42373024?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxODAsIm5iZiI6MTczNDY4NTk4MCwicGF0aCI6Ii91LzQyMzczMDI0In0.RWl9Ift0DYRxnm0IJb-3g7hgbb_XGD2ZblJn02GCj1U&s=72&u=45b556486f7bd4bbac6fecf601bceaf79114f70f&v=4" width="24" alt="Avatar of chamburr"/> chamburr
 			</a><br/>
 			Han Cen
 		</td>
@@ -11149,21 +11149,8 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 	<tr>
 		<td>850</td>
 		<td>
-			<a target="_blank" href="https://github.com/arstnei0">
-				<img src="https://private-avatars.githubusercontent.com/u/110709026?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzExMDcwOTAyNiJ9.QloUxcgna_DqM2q6ckZQTqau71a3Anbf7VYXk38qiaE&s=72&u=6735bbaf8d295f60a1f790686c455ca1d883c1c2&v=4" width="24" alt="Avatar of arstnei0"/> arstnei0
-			</a><br/>
-			Arstneio
-		</td>
-		<td>14yearold Dev </td>
-		<td><a target="_blank" href="https://twitter.com/zihanch">zihanch</a></td>
-		<td>Singapore</td>
-		<td>78</td>
-	</tr>
-	<tr>
-		<td>851</td>
-		<td>
 			<a target="_blank" href="https://github.com/rkkautsar">
-				<img src="https://private-avatars.githubusercontent.com/u/1536976?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE2NjAsIm5iZiI6MTczNDY1MDQ2MCwicGF0aCI6Ii91LzE1MzY5NzYifQ.oGPyaEedguWSppkpn3QvZ-NmFzAPhkMZHKp02D9XZyY&s=72&u=b9417edffe77183a9b7d871253da09ee4fe23644&v=4" width="24" alt="Avatar of rkkautsar"/> rkkautsar
+				<img src="https://private-avatars.githubusercontent.com/u/1536976?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91LzE1MzY5NzYifQ.Q5DwFVu5p0A1N_NFuTVUnaLjxkribJmh2dZmK0Fxvc8&s=72&u=b9417edffe77183a9b7d871253da09ee4fe23644&v=4" width="24" alt="Avatar of rkkautsar"/> rkkautsar
 			</a><br/>
 			Rakha Kanz Kautsar
 		</td>
@@ -11173,10 +11160,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>852</td>
+		<td>851</td>
 		<td>
 			<a target="_blank" href="https://github.com/wenmin-wu">
-				<img src="https://private-avatars.githubusercontent.com/u/9409333?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzNjAsIm5iZiI6MTczNDY1MDE2MCwicGF0aCI6Ii91Lzk0MDkzMzMifQ.OJBqdGCZcluDXx0HiI1UfxKtcsMKH8YwhHP8expHii4&s=72&u=9e91310a00b3f509da3301987b1493202f322a8b&v=4" width="24" alt="Avatar of wenmin-wu"/> wenmin-wu
+				<img src="https://private-avatars.githubusercontent.com/u/9409333?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODczNjAsIm5iZiI6MTczNDY4NjE2MCwicGF0aCI6Ii91Lzk0MDkzMzMifQ.ZV3_z9SkU2Zqv5LQYhQ_QWMQXSZ4hGcTBKGicHMTqvc&s=72&u=9e91310a00b3f509da3301987b1493202f322a8b&v=4" width="24" alt="Avatar of wenmin-wu"/> wenmin-wu
 			</a><br/>
 			Williamwenmin Wu
 		</td>
@@ -11186,23 +11173,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>853</td>
-		<td>
-			<a target="_blank" href="https://github.com/ofey404">
-				<img src="https://private-avatars.githubusercontent.com/u/35857538?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE3MjAsIm5iZiI6MTczNDY1MDUyMCwicGF0aCI6Ii91LzM1ODU3NTM4In0.dKzq7MUQF78dHZp_og55D7YAaiphl7PuRJrk5LJgQzQ&s=72&u=54fb57f92925653c56751953138673260c526706&v=4" width="24" alt="Avatar of ofey404"/> ofey404
-			</a><br/>
-			Ofey Chan
-		</td>
-		<td>Fudan University </td>
-		<td><a target="_blank" href="https://twitter.com/ChanOfey">ChanOfey</a></td>
-		<td>Singapore</td>
-		<td>78</td>
-	</tr>
-	<tr>
-		<td>854</td>
+		<td>852</td>
 		<td>
 			<a target="_blank" href="https://github.com/johncrisostomo">
-				<img src="https://private-avatars.githubusercontent.com/u/240522?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzNjAsIm5iZiI6MTczNDY1MDE2MCwicGF0aCI6Ii91LzI0MDUyMiJ9.Al19Gd4lsKjWp-0DB2MtfydcaU4wi2fLUYfNZtkCNpY&s=72&u=38087a9542efad2bf314511997581ba5a0486f7d&v=4" width="24" alt="Avatar of johncrisostomo"/> johncrisostomo
+				<img src="https://private-avatars.githubusercontent.com/u/240522?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODczNjAsIm5iZiI6MTczNDY4NjE2MCwicGF0aCI6Ii91LzI0MDUyMiJ9.9GjlUrnttionYuzMa7x4J4szvK8hxxjfQ-ErqCXluQ8&s=72&u=38087a9542efad2bf314511997581ba5a0486f7d&v=4" width="24" alt="Avatar of johncrisostomo"/> johncrisostomo
 			</a><br/>
 			John Crisostomo
 		</td>
@@ -11212,10 +11186,23 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>855</td>
+		<td>853</td>
+		<td>
+			<a target="_blank" href="https://github.com/gabrielloye">
+				<img src="https://private-avatars.githubusercontent.com/u/46185613?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzQ2MTg1NjEzIn0.1NY00ZBphZ4I_pGzw24zLbWh8OFf5i90yU--1-wbNmQ&s=72&u=801721196868bc11cbddcd57cc86935b3ea798b0&v=4" width="24" alt="Avatar of gabrielloye"/> gabrielloye
+			</a><br/>
+			Gabriel Loye
+		</td>
+		<td>@aipalette  </td>
+		<td>No Twitter Username</td>
+		<td>Singapore</td>
+		<td>78</td>
+	</tr>
+	<tr>
+		<td>854</td>
 		<td>
 			<a target="_blank" href="https://github.com/gigablah">
-				<img src="https://private-avatars.githubusercontent.com/u/471275?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA5NDAsIm5iZiI6MTczNDY0OTc0MCwicGF0aCI6Ii91LzQ3MTI3NSJ9.6Ascs5zW3GXtKngvCJmCrZ6QzQEWbepAE0YHsSBlcDI&s=72&v=4" width="24" alt="Avatar of gigablah"/> gigablah
+				<img src="https://private-avatars.githubusercontent.com/u/471275?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY5NDAsIm5iZiI6MTczNDY4NTc0MCwicGF0aCI6Ii91LzQ3MTI3NSJ9.HDmOLBsg6yJjAtjoiFjuazsToP4ESlSnm3RXqLcN7w4&s=72&v=4" width="24" alt="Avatar of gigablah"/> gigablah
 			</a><br/>
 			Chris Heng
 		</td>
@@ -11225,23 +11212,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>78</td>
 	</tr>
 	<tr>
-		<td>856</td>
-		<td>
-			<a target="_blank" href="https://github.com/voidnothings">
-				<img src="https://private-avatars.githubusercontent.com/u/46590?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE1NDAsIm5iZiI6MTczNDY1MDM0MCwicGF0aCI6Ii91LzQ2NTkwIn0.kO3pKIXFWgYZAL00lzY5b_UYnGMpBRpvQLAvvVOTkjA&s=72&v=4" width="24" alt="Avatar of voidnothings"/> voidnothings
-			</a><br/>
-			Lance Quejada
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Singapore</td>
-		<td>78</td>
-	</tr>
-	<tr>
-		<td>857</td>
+		<td>855</td>
 		<td>
 			<a target="_blank" href="https://github.com/martinpiper">
-				<img src="https://private-avatars.githubusercontent.com/u/2396609?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE3MjAsIm5iZiI6MTczNDY1MDUyMCwicGF0aCI6Ii91LzIzOTY2MDkifQ.IIlpwL2wdkfHHtEe3quzKVj15fWWkXGHyNeIRQy0wjY&s=72&v=4" width="24" alt="Avatar of martinpiper"/> martinpiper
+				<img src="https://private-avatars.githubusercontent.com/u/2396609?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4MjAsIm5iZiI6MTczNDY4NTYyMCwicGF0aCI6Ii91LzIzOTY2MDkifQ.7xi4Fte2KxO1ol9PBUJa215q9hT4GidxH6FsWHWsbfA&s=72&v=4" width="24" alt="Avatar of martinpiper"/> martinpiper
 			</a><br/>
 			Martin Piper
 		</td>
@@ -11251,10 +11225,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>77</td>
 	</tr>
 	<tr>
-		<td>858</td>
+		<td>856</td>
 		<td>
 			<a target="_blank" href="https://github.com/yuankunzhang">
-				<img src="https://private-avatars.githubusercontent.com/u/10398845?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE0ODAsIm5iZiI6MTczNDY1MDI4MCwicGF0aCI6Ii91LzEwMzk4ODQ1In0.HSnVblcH3a9Cl739DtzNfKXix91W3CNx7zR02sMQar0&s=72&u=6edd9dca3fe7d6d438c21185a6995000457fc2f1&v=4" width="24" alt="Avatar of yuankunzhang"/> yuankunzhang
+				<img src="https://private-avatars.githubusercontent.com/u/10398845?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODc0ODAsIm5iZiI6MTczNDY4NjI4MCwicGF0aCI6Ii91LzEwMzk4ODQ1In0.YhZdEpDew0-16jcVGEYQKPTRl-zDa228lehMplzDi9w&s=72&u=6edd9dca3fe7d6d438c21185a6995000457fc2f1&v=4" width="24" alt="Avatar of yuankunzhang"/> yuankunzhang
 			</a><br/>
 			Yuankun Zhang
 		</td>
@@ -11264,10 +11238,23 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>77</td>
 	</tr>
 	<tr>
-		<td>859</td>
+		<td>857</td>
+		<td>
+			<a target="_blank" href="https://github.com/arstnei0">
+				<img src="https://private-avatars.githubusercontent.com/u/110709026?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzExMDcwOTAyNiJ9.6s96Ye2-fwq16wYYvdc8oaH-QQOHECFQymUg_zmUTJ8&s=72&u=6735bbaf8d295f60a1f790686c455ca1d883c1c2&v=4" width="24" alt="Avatar of arstnei0"/> arstnei0
+			</a><br/>
+			Arstneio
+		</td>
+		<td>14yearold Dev </td>
+		<td><a target="_blank" href="https://twitter.com/zihanch">zihanch</a></td>
+		<td>Singapore</td>
+		<td>77</td>
+	</tr>
+	<tr>
+		<td>858</td>
 		<td>
 			<a target="_blank" href="https://github.com/JShollaj">
-				<img src="https://private-avatars.githubusercontent.com/u/50525460?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzUwNTI1NDYwIn0.VK5w_w2iR3l1LhE3f7qzkErFr3uZ1wtu3YVkrVMuR24&s=72&u=0e82df83b1573053949c43f3005d423d3ea42b32&v=4" width="24" alt="Avatar of JShollaj"/> JShollaj
+				<img src="https://private-avatars.githubusercontent.com/u/50525460?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxODAsIm5iZiI6MTczNDY4NTk4MCwicGF0aCI6Ii91LzUwNTI1NDYwIn0.lJxbSUqQmXYmBwQP256ajj1I0IIYn08_EmEK_aucgWo&s=72&u=0e82df83b1573053949c43f3005d423d3ea42b32&v=4" width="24" alt="Avatar of JShollaj"/> JShollaj
 			</a><br/>
 			Xhoni Shollaj
 		</td>
@@ -11277,10 +11264,23 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>77</td>
 	</tr>
 	<tr>
+		<td>859</td>
+		<td>
+			<a target="_blank" href="https://github.com/ofey404">
+				<img src="https://private-avatars.githubusercontent.com/u/35857538?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4MjAsIm5iZiI6MTczNDY4NTYyMCwicGF0aCI6Ii91LzM1ODU3NTM4In0.NWxtc6lS9RNqysdkh5CsiQE1L7hKcHf08BUUn2EawWA&s=72&u=54fb57f92925653c56751953138673260c526706&v=4" width="24" alt="Avatar of ofey404"/> ofey404
+			</a><br/>
+			Ofey Chan
+		</td>
+		<td>Fudan University </td>
+		<td><a target="_blank" href="https://twitter.com/ChanOfey">ChanOfey</a></td>
+		<td>Singapore</td>
+		<td>77</td>
+	</tr>
+	<tr>
 		<td>860</td>
 		<td>
 			<a target="_blank" href="https://github.com/ZJZAC">
-				<img src="https://private-avatars.githubusercontent.com/u/37795545?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE1NDAsIm5iZiI6MTczNDY1MDM0MCwicGF0aCI6Ii91LzM3Nzk1NTQ1In0.4u1Gu_YUiXhJKH-BXX9gA4zw2zI85XkyOo26kVH8sEI&s=72&u=5d4462c6f52626e02fc499fa2b1feb544400a931&v=4" width="24" alt="Avatar of ZJZAC"/> ZJZAC
+				<img src="https://private-avatars.githubusercontent.com/u/37795545?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODc1NDAsIm5iZiI6MTczNDY4NjM0MCwicGF0aCI6Ii91LzM3Nzk1NTQ1In0.HpALE8jGX4sT1HeHG5fKP2wzt08GvHFPKFPFAqXbxAE&s=72&u=5d4462c6f52626e02fc499fa2b1feb544400a931&v=4" width="24" alt="Avatar of ZJZAC"/> ZJZAC
 			</a><br/>
 			Jie Zhang
 		</td>
@@ -11293,7 +11293,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>861</td>
 		<td>
 			<a target="_blank" href="https://github.com/Lnek">
-				<img src="https://private-avatars.githubusercontent.com/u/4726108?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE1NDAsIm5iZiI6MTczNDY1MDM0MCwicGF0aCI6Ii91LzQ3MjYxMDgifQ.DVYnLv89ayRNt1jp0zvGKfKC_61mGltXBBe8QeXplzI&s=72&u=7dd357b4b315f042e3c01384c11519bd7811c68c&v=4" width="24" alt="Avatar of Lnek"/> Lnek
+				<img src="https://private-avatars.githubusercontent.com/u/4726108?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODc1NDAsIm5iZiI6MTczNDY4NjM0MCwicGF0aCI6Ii91LzQ3MjYxMDgifQ.gmxuYMHRiFPsTyaFDY3SU7-MdhUY60HKEk8UO8JDdvc&s=72&u=7dd357b4b315f042e3c01384c11519bd7811c68c&v=4" width="24" alt="Avatar of Lnek"/> Lnek
 			</a><br/>
 			Eric Wang
 		</td>
@@ -11306,7 +11306,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>862</td>
 		<td>
 			<a target="_blank" href="https://github.com/hzxcaryn">
-				<img src="https://private-avatars.githubusercontent.com/u/25261058?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzMDAsIm5iZiI6MTczNDY1MDEwMCwicGF0aCI6Ii91LzI1MjYxMDU4In0.cW6iNvVMKZjAzxnwkpOdB448bfpFR-BSSvlZqcEW3ro&s=72&u=3f6c46f6e8160badca686336e5ab518b07caedc9&v=4" width="24" alt="Avatar of hzxcaryn"/> hzxcaryn
+				<img src="https://private-avatars.githubusercontent.com/u/25261058?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODczMDAsIm5iZiI6MTczNDY4NjEwMCwicGF0aCI6Ii91LzI1MjYxMDU4In0.F3NuhTythvzk6t9yyBjqyqqdp-pai9ltk5xISpAkObo&s=72&u=3f6c46f6e8160badca686336e5ab518b07caedc9&v=4" width="24" alt="Avatar of hzxcaryn"/> hzxcaryn
 			</a><br/>
 			Caryn Heng
 		</td>
@@ -11319,7 +11319,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>863</td>
 		<td>
 			<a target="_blank" href="https://github.com/tongyao">
-				<img src="https://private-avatars.githubusercontent.com/u/714356?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExMjAsIm5iZiI6MTczNDY0OTkyMCwicGF0aCI6Ii91LzcxNDM1NiJ9.b9VSJJzzazKaPhGaP-aGbfPCPGwKG7o5JqK8Pr5flxE&s=72&v=4" width="24" alt="Avatar of tongyao"/> tongyao
+				<img src="https://private-avatars.githubusercontent.com/u/714356?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxMjAsIm5iZiI6MTczNDY4NTkyMCwicGF0aCI6Ii91LzcxNDM1NiJ9.SVlnMPN5ut0jBIfpT5hqrZMWm8H2QIr1hS1o7E-CfhI&s=72&v=4" width="24" alt="Avatar of tongyao"/> tongyao
 			</a><br/>
 			No Name
 		</td>
@@ -11331,12 +11331,12 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 	<tr>
 		<td>864</td>
 		<td>
-			<a target="_blank" href="https://github.com/gabrielloye">
-				<img src="https://private-avatars.githubusercontent.com/u/46185613?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzQ2MTg1NjEzIn0.kt8nLndEydQodKwZ1MzUUjHo_uDE6P5HyCbcFliN348&s=72&u=801721196868bc11cbddcd57cc86935b3ea798b0&v=4" width="24" alt="Avatar of gabrielloye"/> gabrielloye
+			<a target="_blank" href="https://github.com/voidnothings">
+				<img src="https://private-avatars.githubusercontent.com/u/46590?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODc1NDAsIm5iZiI6MTczNDY4NjM0MCwicGF0aCI6Ii91LzQ2NTkwIn0.vBGAYj91-6UAjkh7zessA_ASpWvBfg5ltyfdPQl9Vbw&s=72&v=4" width="24" alt="Avatar of voidnothings"/> voidnothings
 			</a><br/>
-			Gabriel Loye
+			Lance Quejada
 		</td>
-		<td>@aipalette  </td>
+		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Singapore</td>
 		<td>77</td>
@@ -11345,7 +11345,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>865</td>
 		<td>
 			<a target="_blank" href="https://github.com/voyage11">
-				<img src="https://private-avatars.githubusercontent.com/u/1943839?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE0MjAsIm5iZiI6MTczNDY1MDIyMCwicGF0aCI6Ii91LzE5NDM4MzkifQ.VxUjfFpBqtUmAG5CWucImfbolKAaoE0oEBMSXBRrb_g&s=72&u=4d189c68e5744b9bb67d548e0b9272ff59fef40f&v=4" width="24" alt="Avatar of voyage11"/> voyage11
+				<img src="https://private-avatars.githubusercontent.com/u/1943839?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODc0MjAsIm5iZiI6MTczNDY4NjIyMCwicGF0aCI6Ii91LzE5NDM4MzkifQ.e3jRsmrhYLqE5xNWE5xLeyMVsmMLCXslghVqqjBNpuo&s=72&u=4d189c68e5744b9bb67d548e0b9272ff59fef40f&v=4" width="24" alt="Avatar of voyage11"/> voyage11
 			</a><br/>
 			Ricky
 		</td>
@@ -11357,8 +11357,21 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 	<tr>
 		<td>866</td>
 		<td>
+			<a target="_blank" href="https://github.com/ZhongRuoyu">
+				<img src="https://private-avatars.githubusercontent.com/u/25842576?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODczMDAsIm5iZiI6MTczNDY4NjEwMCwicGF0aCI6Ii91LzI1ODQyNTc2In0.rsucE9b8OzfyZ2BvP57EQZq49rbt8MVVF8XYT7vXxZk&s=72&u=5f2dfac7c65c9bd7aa5d9bd3b88972dade0e94cc&v=4" width="24" alt="Avatar of ZhongRuoyu"/> ZhongRuoyu
+			</a><br/>
+			Ruoyu Zhong
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/ZhongRuoyu">ZhongRuoyu</a></td>
+		<td>Singapore</td>
+		<td>76</td>
+	</tr>
+	<tr>
+		<td>867</td>
+		<td>
 			<a target="_blank" href="https://github.com/adriangohjw">
-				<img src="https://private-avatars.githubusercontent.com/u/26347548?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE0MjAsIm5iZiI6MTczNDY1MDIyMCwicGF0aCI6Ii91LzI2MzQ3NTQ4In0.y00ZdK4VC_i8GbYpzUqagpAsY9QhdyWY2xFOKr67WC4&s=72&u=9fa8fcc130e286b732b85278cacb06e8e2eb755f&v=4" width="24" alt="Avatar of adriangohjw"/> adriangohjw
+				<img src="https://private-avatars.githubusercontent.com/u/26347548?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODc0MjAsIm5iZiI6MTczNDY4NjIyMCwicGF0aCI6Ii91LzI2MzQ3NTQ4In0.0TZC8leDk90P9Sx21aGF926J4TM-mD3zq18PPY1v4zg&s=72&u=9fa8fcc130e286b732b85278cacb06e8e2eb755f&v=4" width="24" alt="Avatar of adriangohjw"/> adriangohjw
 			</a><br/>
 			Adrian Goh Jun Wei
 		</td>
@@ -11368,49 +11381,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>76</td>
 	</tr>
 	<tr>
-		<td>867</td>
-		<td>
-			<a target="_blank" href="https://github.com/linc01n">
-				<img src="https://private-avatars.githubusercontent.com/u/667272?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwMDAsIm5iZiI6MTczNDY0OTgwMCwicGF0aCI6Ii91LzY2NzI3MiJ9.7iQqoqF0-1Vw3aCXKQl70xzcleaOgM3aOMAq65XKlnc&s=72&u=ba090db2cd87b65eb705b1b872a7b229b08bafb3&v=4" width="24" alt="Avatar of linc01n"/> linc01n
-			</a><br/>
-			Lincoln Lee
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Singapore</td>
-		<td>76</td>
-	</tr>
-	<tr>
 		<td>868</td>
 		<td>
-			<a target="_blank" href="https://github.com/zhixuanli">
-				<img src="https://private-avatars.githubusercontent.com/u/26455344?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzI2NDU1MzQ0In0.J-3IYW9oAqPu9trLZZHUaLMGZed_7zWy6KmGa7worsQ&s=72&u=c5552295dc7ae565b20a8c45790cbd6aba4f0e01&v=4" width="24" alt="Avatar of zhixuanli"/> zhixuanli
-			</a><br/>
-			zhixuanli
-		</td>
-		<td>Nanyang Technological University </td>
-		<td>No Twitter Username</td>
-		<td>Singapore</td>
-		<td>76</td>
-	</tr>
-	<tr>
-		<td>869</td>
-		<td>
-			<a target="_blank" href="https://github.com/playgrdstar">
-				<img src="https://private-avatars.githubusercontent.com/u/6185823?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzYxODU4MjMifQ.yGftBf1kehsQzQITLBFadbaGd718cwQwp2g6fpUI5YY&s=72&u=5a7569a053bac87fe3aec93e31616899e82f3c70&v=4" width="24" alt="Avatar of playgrdstar"/> playgrdstar
-			</a><br/>
-			Ming  Gary Ang
-		</td>
-		<td>Playgrd </td>
-		<td><a target="_blank" href="https://twitter.com/playgrdstar">playgrdstar</a></td>
-		<td>Singapore</td>
-		<td>76</td>
-	</tr>
-	<tr>
-		<td>870</td>
-		<td>
 			<a target="_blank" href="https://github.com/huuuuusy">
-				<img src="https://private-avatars.githubusercontent.com/u/32117906?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4ODAsIm5iZiI6MTczNDY0OTY4MCwicGF0aCI6Ii91LzMyMTE3OTA2In0.1LhY4lPdpSkiOPLRkIGiaKEcQOPxdHOEOSqba0xUHp8&s=72&u=dfbe25ea6c9c2d90ba41da48aaf413f5ab2fe599&v=4" width="24" alt="Avatar of huuuuusy"/> huuuuusy
+				<img src="https://private-avatars.githubusercontent.com/u/32117906?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4ODAsIm5iZiI6MTczNDY4NTY4MCwicGF0aCI6Ii91LzMyMTE3OTA2In0.d4jU9q5ADMZemLB1K3bMLxiJBIef0l-veExdYb5jEdo&s=72&u=dfbe25ea6c9c2d90ba41da48aaf413f5ab2fe599&v=4" width="24" alt="Avatar of huuuuusy"/> huuuuusy
 			</a><br/>
 			Shiyu HU 
 		</td>
@@ -11420,10 +11394,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>76</td>
 	</tr>
 	<tr>
-		<td>871</td>
+		<td>869</td>
 		<td>
 			<a target="_blank" href="https://github.com/yi-ding-cs">
-				<img src="https://private-avatars.githubusercontent.com/u/83038743?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE1NDAsIm5iZiI6MTczNDY1MDM0MCwicGF0aCI6Ii91LzgzMDM4NzQzIn0.CW2SJ4twDM_stTjL67qhLWYLzDUaS1F6eqbqoz6A6XU&s=72&u=536908921b1836e253594eb9b556488ca4d03cec&v=4" width="24" alt="Avatar of yi-ding-cs"/> yi-ding-cs
+				<img src="https://private-avatars.githubusercontent.com/u/83038743?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODc1NDAsIm5iZiI6MTczNDY4NjM0MCwicGF0aCI6Ii91LzgzMDM4NzQzIn0._w1DKaJ5u25KzzzMkD1S4knttQs_UzUS4mmtlS36N0k&s=72&u=536908921b1836e253594eb9b556488ca4d03cec&v=4" width="24" alt="Avatar of yi-ding-cs"/> yi-ding-cs
 			</a><br/>
 			Yi Ding
 		</td>
@@ -11433,10 +11407,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>76</td>
 	</tr>
 	<tr>
-		<td>872</td>
+		<td>870</td>
 		<td>
 			<a target="_blank" href="https://github.com/tsingqguo">
-				<img src="https://private-avatars.githubusercontent.com/u/15151719?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEyNDAsIm5iZiI6MTczNDY1MDA0MCwicGF0aCI6Ii91LzE1MTUxNzE5In0.5m3EQ4UlCiwscWx9LovFLuvM7gcNQjLGTRTsJkP5IXI&s=72&u=b0b681bf6e872be0ac6611f585f337cfe7681998&v=4" width="24" alt="Avatar of tsingqguo"/> tsingqguo
+				<img src="https://private-avatars.githubusercontent.com/u/15151719?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcyNDAsIm5iZiI6MTczNDY4NjA0MCwicGF0aCI6Ii91LzE1MTUxNzE5In0.SMF9XH3MTy-akAfxyzy3lLqqRL9huBM_4XT6tJH5iYc&s=72&u=b0b681bf6e872be0ac6611f585f337cfe7681998&v=4" width="24" alt="Avatar of tsingqguo"/> tsingqguo
 			</a><br/>
 			Qing Guo
 		</td>
@@ -11446,10 +11420,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>76</td>
 	</tr>
 	<tr>
-		<td>873</td>
+		<td>871</td>
 		<td>
 			<a target="_blank" href="https://github.com/coyorkdow">
-				<img src="https://private-avatars.githubusercontent.com/u/30541655?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4ODAsIm5iZiI6MTczNDY0OTY4MCwicGF0aCI6Ii91LzMwNTQxNjU1In0.BTyrIBhp6V_0XFLbUEHqRYq_fQp5Wvq5pqjlKXvxj_8&s=72&u=c99c8e3dbcb93009ad41959b331f1153d03fad7d&v=4" width="24" alt="Avatar of coyorkdow"/> coyorkdow
+				<img src="https://private-avatars.githubusercontent.com/u/30541655?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4ODAsIm5iZiI6MTczNDY4NTY4MCwicGF0aCI6Ii91LzMwNTQxNjU1In0.by161OsIWBR9wH4Dd1X3I1p0XVIBGsCv28eHJlplM8k&s=72&u=c99c8e3dbcb93009ad41959b331f1153d03fad7d&v=4" width="24" alt="Avatar of coyorkdow"/> coyorkdow
 			</a><br/>
 			youtao guo
 		</td>
@@ -11459,10 +11433,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>76</td>
 	</tr>
 	<tr>
-		<td>874</td>
+		<td>872</td>
 		<td>
 			<a target="_blank" href="https://github.com/boxme">
-				<img src="https://private-avatars.githubusercontent.com/u/2226903?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE0ODAsIm5iZiI6MTczNDY1MDI4MCwicGF0aCI6Ii91LzIyMjY5MDMifQ.oiyMxLAkVBYHMkTvVIFxug5rRwVnEoL0SxmzTZ7SIHA&s=72&v=4" width="24" alt="Avatar of boxme"/> boxme
+				<img src="https://private-avatars.githubusercontent.com/u/2226903?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODc0ODAsIm5iZiI6MTczNDY4NjI4MCwicGF0aCI6Ii91LzIyMjY5MDMifQ.fyYUPMG3KJHD8qsyhW0kbCtzRlKyTNWsbo1TH5cnD2Q&s=72&v=4" width="24" alt="Avatar of boxme"/> boxme
 			</a><br/>
 			Desmond 
 		</td>
@@ -11472,10 +11446,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>76</td>
 	</tr>
 	<tr>
-		<td>875</td>
+		<td>873</td>
 		<td>
 			<a target="_blank" href="https://github.com/jaychsu">
-				<img src="https://private-avatars.githubusercontent.com/u/6890034?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA5NDAsIm5iZiI6MTczNDY0OTc0MCwicGF0aCI6Ii91LzY4OTAwMzQifQ.Gnx_krenKFHW1h_K-fEnRfNdxurwMu3VkJChjZ1m0jU&s=72&u=5ad9dbe16daf90927a6803732ef80c77777e197b&v=4" width="24" alt="Avatar of jaychsu"/> jaychsu
+				<img src="https://private-avatars.githubusercontent.com/u/6890034?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY5NDAsIm5iZiI6MTczNDY4NTc0MCwicGF0aCI6Ii91LzY4OTAwMzQifQ.pJS8uV2WXYyYgM6vFVLsAlRbXJGp_HZOJgeky1fvq70&s=72&u=5ad9dbe16daf90927a6803732ef80c77777e197b&v=4" width="24" alt="Avatar of jaychsu"/> jaychsu
 			</a><br/>
 			Jyun Hong Su
 		</td>
@@ -11485,10 +11459,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>76</td>
 	</tr>
 	<tr>
-		<td>876</td>
+		<td>874</td>
 		<td>
 			<a target="_blank" href="https://github.com/notha99y">
-				<img src="https://private-avatars.githubusercontent.com/u/29172421?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwMDAsIm5iZiI6MTczNDY0OTgwMCwicGF0aCI6Ii91LzI5MTcyNDIxIn0.8OCMFGA-zcZZ8V1x-D69QzEwlCvzShz1FDVT3rc9coc&s=72&u=af760391febb275b0d827edbe20f5127db210251&v=4" width="24" alt="Avatar of notha99y"/> notha99y
+				<img src="https://private-avatars.githubusercontent.com/u/29172421?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwMDAsIm5iZiI6MTczNDY4NTgwMCwicGF0aCI6Ii91LzI5MTcyNDIxIn0.3TyM39qJGA6WJvPd1V3n7kfjiCJc6cYbW3LmcYTK2IY&s=72&u=af760391febb275b0d827edbe20f5127db210251&v=4" width="24" alt="Avatar of notha99y"/> notha99y
 			</a><br/>
 			Ren Jie
 		</td>
@@ -11498,10 +11472,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>76</td>
 	</tr>
 	<tr>
-		<td>877</td>
+		<td>875</td>
 		<td>
 			<a target="_blank" href="https://github.com/shaunstanislauslau">
-				<img src="https://private-avatars.githubusercontent.com/u/35026280?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA5NDAsIm5iZiI6MTczNDY0OTc0MCwicGF0aCI6Ii91LzM1MDI2MjgwIn0.QXxrA4np5HXuJaL7Cf71H6rK-MXiZFtW91_lSZ7cKtA&s=72&u=3c425fcad31458b948e1d8c33295afc1c5422f11&v=4" width="24" alt="Avatar of shaunstanislauslau"/> shaunstanislauslau
+				<img src="https://private-avatars.githubusercontent.com/u/35026280?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY5NDAsIm5iZiI6MTczNDY4NTc0MCwicGF0aCI6Ii91LzM1MDI2MjgwIn0.ZS3CdJxbs-7Cv7QQvqj8uisodJHRJX1FNKLqOxw4b0k&s=72&u=3c425fcad31458b948e1d8c33295afc1c5422f11&v=4" width="24" alt="Avatar of shaunstanislauslau"/> shaunstanislauslau
 			</a><br/>
 			Shaun Stanislaus
 		</td>
@@ -11511,10 +11485,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>76</td>
 	</tr>
 	<tr>
-		<td>878</td>
+		<td>876</td>
 		<td>
 			<a target="_blank" href="https://github.com/bluedone">
-				<img src="https://private-avatars.githubusercontent.com/u/132304001?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwMDAsIm5iZiI6MTczNDY0OTgwMCwicGF0aCI6Ii91LzEzMjMwNDAwMSJ9.kNS1UzgqSWyG6XqN111NA2GtiGIvX5srStFTR9-TW28&s=72&u=87121d8a037a3f8141dc2ba6a35719a09aa3f242&v=4" width="24" alt="Avatar of bluedone"/> bluedone
+				<img src="https://private-avatars.githubusercontent.com/u/132304001?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwMDAsIm5iZiI6MTczNDY4NTgwMCwicGF0aCI6Ii91LzEzMjMwNDAwMSJ9.ehL2lGGIFzY6t3AAlzzv9ZmhP5YJ549o6Jwt8VqzCBs&s=72&u=87121d8a037a3f8141dc2ba6a35719a09aa3f242&v=4" width="24" alt="Avatar of bluedone"/> bluedone
 			</a><br/>
 			bluedone
 		</td>
@@ -11524,10 +11498,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>76</td>
 	</tr>
 	<tr>
-		<td>879</td>
+		<td>877</td>
 		<td>
 			<a target="_blank" href="https://github.com/SotaWatanabe">
-				<img src="https://private-avatars.githubusercontent.com/u/29359048?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4ODAsIm5iZiI6MTczNDY0OTY4MCwicGF0aCI6Ii91LzI5MzU5MDQ4In0.YixIpHosKTT8jYwAs-MDPebHWvJp6MZQ0Da6RhiiE7Q&s=72&u=01bac21a485bd45dd424635f39ef71c2cce4e1af&v=4" width="24" alt="Avatar of SotaWatanabe"/> SotaWatanabe
+				<img src="https://private-avatars.githubusercontent.com/u/29359048?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4ODAsIm5iZiI6MTczNDY4NTY4MCwicGF0aCI6Ii91LzI5MzU5MDQ4In0.mOLH3pDCmVzsdIfMZg_KjgWaHQ_hXwMWbvS9yjPO2EI&s=72&u=01bac21a485bd45dd424635f39ef71c2cce4e1af&v=4" width="24" alt="Avatar of SotaWatanabe"/> SotaWatanabe
 			</a><br/>
 			Sota Watanabe
 		</td>
@@ -11537,23 +11511,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>76</td>
 	</tr>
 	<tr>
-		<td>880</td>
-		<td>
-			<a target="_blank" href="https://github.com/ZhongRuoyu">
-				<img src="https://private-avatars.githubusercontent.com/u/25842576?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEzMDAsIm5iZiI6MTczNDY1MDEwMCwicGF0aCI6Ii91LzI1ODQyNTc2In0.oyYCRkYebj2lDVPMVeCuuHKOxxj7y0s0NppXHpQvhUs&s=72&u=5f2dfac7c65c9bd7aa5d9bd3b88972dade0e94cc&v=4" width="24" alt="Avatar of ZhongRuoyu"/> ZhongRuoyu
-			</a><br/>
-			Ruoyu Zhong
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/ZhongRuoyu">ZhongRuoyu</a></td>
-		<td>Singapore</td>
-		<td>75</td>
-	</tr>
-	<tr>
-		<td>881</td>
+		<td>878</td>
 		<td>
 			<a target="_blank" href="https://github.com/bchewy">
-				<img src="https://private-avatars.githubusercontent.com/u/16286067?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE3MjAsIm5iZiI6MTczNDY1MDUyMCwicGF0aCI6Ii91LzE2Mjg2MDY3In0.HwUp3tV4T2LBfG2v458jXUo2I8ztMzsACVOBSdLp3Ws&s=72&u=5bfe0998eaf8a9d102df9732bb10f46f01b1926c&v=4" width="24" alt="Avatar of bchewy"/> bchewy
+				<img src="https://private-avatars.githubusercontent.com/u/16286067?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4MjAsIm5iZiI6MTczNDY4NTYyMCwicGF0aCI6Ii91LzE2Mjg2MDY3In0.Nv8ygoz0nUzb45bHfwlFRhM5Vw8sllf0l4PjJWU3iqs&s=72&u=5bfe0998eaf8a9d102df9732bb10f46f01b1926c&v=4" width="24" alt="Avatar of bchewy"/> bchewy
 			</a><br/>
 			Brian Chew
 		</td>
@@ -11563,10 +11524,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>75</td>
 	</tr>
 	<tr>
-		<td>882</td>
+		<td>879</td>
 		<td>
 			<a target="_blank" href="https://github.com/sinkingsugar">
-				<img src="https://private-avatars.githubusercontent.com/u/7008900?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE1NDAsIm5iZiI6MTczNDY1MDM0MCwicGF0aCI6Ii91LzcwMDg5MDAifQ.lwn3CFaRA9RvILT8zFIts4mpVCWCgGZILh2qJQPrxeI&s=72&u=2d7d57689156d581e31824596f36bfba64c9d5c3&v=4" width="24" alt="Avatar of sinkingsugar"/> sinkingsugar
+				<img src="https://private-avatars.githubusercontent.com/u/7008900?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODc1NDAsIm5iZiI6MTczNDY4NjM0MCwicGF0aCI6Ii91LzcwMDg5MDAifQ.dNpUqeqoOYJZ9F-wu6sjP65U7pb-rGuQFDNOcWfsVIk&s=72&u=2d7d57689156d581e31824596f36bfba64c9d5c3&v=4" width="24" alt="Avatar of sinkingsugar"/> sinkingsugar
 			</a><br/>
 			Giovanni Petrantoni
 		</td>
@@ -11576,10 +11537,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>75</td>
 	</tr>
 	<tr>
-		<td>883</td>
+		<td>880</td>
 		<td>
 			<a target="_blank" href="https://github.com/Rabnail-SOL">
-				<img src="https://private-avatars.githubusercontent.com/u/8500278?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE0ODAsIm5iZiI6MTczNDY1MDI4MCwicGF0aCI6Ii91Lzg1MDAyNzgifQ.bBacqCMgpPwKwEVuHt9fbqWHL29ZlbtGE_nJSB04lB8&s=72&u=1955a5c4ad161e5d8f3e6daad2c2296fd277cc77&v=4" width="24" alt="Avatar of Rabnail-SOL"/> Rabnail-SOL
+				<img src="https://private-avatars.githubusercontent.com/u/8500278?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODc0ODAsIm5iZiI6MTczNDY4NjI4MCwicGF0aCI6Ii91Lzg1MDAyNzgifQ.YAeMd5v3HvfisDi2KMknZ1JrfBliAphTOCAICv0SxoY&s=72&u=1955a5c4ad161e5d8f3e6daad2c2296fd277cc77&v=4" width="24" alt="Avatar of Rabnail-SOL"/> Rabnail-SOL
 			</a><br/>
 			Rabnail
 		</td>
@@ -11589,10 +11550,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>75</td>
 	</tr>
 	<tr>
-		<td>884</td>
+		<td>881</td>
 		<td>
 			<a target="_blank" href="https://github.com/juhp">
-				<img src="https://private-avatars.githubusercontent.com/u/82731?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzgyNzMxIn0.gzH2_TgNZdj-iGXcUOCispYrTi0ezXXH7fu1G4EmzPA&s=72&u=34b023ed000b19ecdb861d5a0afd8f1d249ae9d9&v=4" width="24" alt="Avatar of juhp"/> juhp
+				<img src="https://private-avatars.githubusercontent.com/u/82731?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzgyNzMxIn0.gU_Aft7nxCs9ssLW3tuOQrZj0LAsI_GzuIiB-4o9nL4&s=72&u=34b023ed000b19ecdb861d5a0afd8f1d249ae9d9&v=4" width="24" alt="Avatar of juhp"/> juhp
 			</a><br/>
 			Jens Petersen
 		</td>
@@ -11602,10 +11563,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>75</td>
 	</tr>
 	<tr>
-		<td>885</td>
+		<td>882</td>
 		<td>
 			<a target="_blank" href="https://github.com/molangning">
-				<img src="https://private-avatars.githubusercontent.com/u/133737702?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzEzMzczNzcwMiJ9.jnIoDYRfrfyylOIHciPiCWgXlc-hhClkjD1eBDC7zzo&s=72&u=7ce52c39b7787c4eae4c1bd04dd008079a6c23f8&v=4" width="24" alt="Avatar of molangning"/> molangning
+				<img src="https://private-avatars.githubusercontent.com/u/133737702?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxODAsIm5iZiI6MTczNDY4NTk4MCwicGF0aCI6Ii91LzEzMzczNzcwMiJ9.wkbYCa2XD2NQYaM1UW9CVVZM5F7prp1c8KRx4Z8CryA&s=72&u=7ce52c39b7787c4eae4c1bd04dd008079a6c23f8&v=4" width="24" alt="Avatar of molangning"/> molangning
 			</a><br/>
 			Mo Langning
 		</td>
@@ -11615,10 +11576,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>75</td>
 	</tr>
 	<tr>
-		<td>886</td>
+		<td>883</td>
 		<td>
 			<a target="_blank" href="https://github.com/rifqimfahmi">
-				<img src="https://private-avatars.githubusercontent.com/u/15305418?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE1NDAsIm5iZiI6MTczNDY1MDM0MCwicGF0aCI6Ii91LzE1MzA1NDE4In0.cpbTcmI2sjQHJKaQj5dVSlIn7MY5cVnvpm3Osk9U9T8&s=72&u=c4fc3fb38b798d6538d7fefd583ecb10d1bcf677&v=4" width="24" alt="Avatar of rifqimfahmi"/> rifqimfahmi
+				<img src="https://private-avatars.githubusercontent.com/u/15305418?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODc1NDAsIm5iZiI6MTczNDY4NjM0MCwicGF0aCI6Ii91LzE1MzA1NDE4In0.K5jb05e5OwWXKi6lrrNokrOBRPr1pOda1SuIqck3l7k&s=72&u=c4fc3fb38b798d6538d7fefd583ecb10d1bcf677&v=4" width="24" alt="Avatar of rifqimfahmi"/> rifqimfahmi
 			</a><br/>
 			Rifqi M Fahmi
 		</td>
@@ -11628,10 +11589,36 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>75</td>
 	</tr>
 	<tr>
-		<td>887</td>
+		<td>884</td>
+		<td>
+			<a target="_blank" href="https://github.com/linc01n">
+				<img src="https://private-avatars.githubusercontent.com/u/667272?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwMDAsIm5iZiI6MTczNDY4NTgwMCwicGF0aCI6Ii91LzY2NzI3MiJ9.-VW8YgotlY21i6wGaf_7-tefwfZyRcIJyu5i9rsOh-U&s=72&u=ba090db2cd87b65eb705b1b872a7b229b08bafb3&v=4" width="24" alt="Avatar of linc01n"/> linc01n
+			</a><br/>
+			Lincoln Lee
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Singapore</td>
+		<td>75</td>
+	</tr>
+	<tr>
+		<td>885</td>
+		<td>
+			<a target="_blank" href="https://github.com/zhixuanli">
+				<img src="https://private-avatars.githubusercontent.com/u/26455344?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxODAsIm5iZiI6MTczNDY4NTk4MCwicGF0aCI6Ii91LzI2NDU1MzQ0In0.9eOlDrmhcHpDy5z05Dox0mFvLH74wziWJRm1A5AiRJc&s=72&u=c5552295dc7ae565b20a8c45790cbd6aba4f0e01&v=4" width="24" alt="Avatar of zhixuanli"/> zhixuanli
+			</a><br/>
+			zhixuanli
+		</td>
+		<td>Nanyang Technological University </td>
+		<td>No Twitter Username</td>
+		<td>Singapore</td>
+		<td>75</td>
+	</tr>
+	<tr>
+		<td>886</td>
 		<td>
 			<a target="_blank" href="https://github.com/radarFudan">
-				<img src="https://private-avatars.githubusercontent.com/u/25528016?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE2MDAsIm5iZiI6MTczNDY1MDQwMCwicGF0aCI6Ii91LzI1NTI4MDE2In0.8L_BZn3KfseTMjQTIdBawF03hZR6xVTZh5TuLx4_82E&s=72&u=5fbbfccc240415fa75168d0ebe8b9937eb566142&v=4" width="24" alt="Avatar of radarFudan"/> radarFudan
+				<img src="https://private-avatars.githubusercontent.com/u/25528016?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3MDAsIm5iZiI6MTczNDY4NTUwMCwicGF0aCI6Ii91LzI1NTI4MDE2In0.-mBjkGnFcGDzFixb77SlyelJSjwN6_gRYpP_ZQpoCco&s=72&u=5fbbfccc240415fa75168d0ebe8b9937eb566142&v=4" width="24" alt="Avatar of radarFudan"/> radarFudan
 			</a><br/>
 			Shida Wang
 		</td>
@@ -11641,10 +11628,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>75</td>
 	</tr>
 	<tr>
-		<td>888</td>
+		<td>887</td>
 		<td>
 			<a target="_blank" href="https://github.com/fuzzie360">
-				<img src="https://private-avatars.githubusercontent.com/u/666522?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzY2NjUyMiJ9.C9wn2XLeFYZWdszkCMEvnldmwQZB_CBHJtdOMee0y68&s=72&u=fb7ec1a8b5fb3a639033b19e1744b6d3f1163dba&v=4" width="24" alt="Avatar of fuzzie360"/> fuzzie360
+				<img src="https://private-avatars.githubusercontent.com/u/666522?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzY2NjUyMiJ9.TSxybjQELZ7_cHbcNPXjlOpU-mJU5IxJzoCzmfpBwgI&s=72&u=fb7ec1a8b5fb3a639033b19e1744b6d3f1163dba&v=4" width="24" alt="Avatar of fuzzie360"/> fuzzie360
 			</a><br/>
 			Fazli Sapuan
 		</td>
@@ -11654,10 +11641,10 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>75</td>
 	</tr>
 	<tr>
-		<td>889</td>
+		<td>888</td>
 		<td>
 			<a target="_blank" href="https://github.com/jaepass">
-				<img src="https://private-avatars.githubusercontent.com/u/48780927?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE2NjAsIm5iZiI6MTczNDY1MDQ2MCwicGF0aCI6Ii91LzQ4NzgwOTI3In0.JSquheSVvimONpAw0rPHETJI3fmV6AlEErGnSkK-1XI&s=72&u=74259c2c4150e07fe804dc49bf0dac17b15acd96&v=4" width="24" alt="Avatar of jaepass"/> jaepass
+				<img src="https://private-avatars.githubusercontent.com/u/48780927?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY3NjAsIm5iZiI6MTczNDY4NTU2MCwicGF0aCI6Ii91LzQ4NzgwOTI3In0.oMWzYXnYB_P5-QyBWxW19GENeP5uNFEMki8M5ScWdiY&s=72&u=74259c2c4150e07fe804dc49bf0dac17b15acd96&v=4" width="24" alt="Avatar of jaepass"/> jaepass
 			</a><br/>
 			Jaeriah Tay
 		</td>
@@ -11667,10 +11654,23 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>75</td>
 	</tr>
 	<tr>
+		<td>889</td>
+		<td>
+			<a target="_blank" href="https://github.com/playgrdstar">
+				<img src="https://private-avatars.githubusercontent.com/u/6185823?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxODAsIm5iZiI6MTczNDY4NTk4MCwicGF0aCI6Ii91LzYxODU4MjMifQ.eP6bYeJ5WAlFxwPyuy2bDcwUhP27vY0vC8qk-3c0NtE&s=72&u=5a7569a053bac87fe3aec93e31616899e82f3c70&v=4" width="24" alt="Avatar of playgrdstar"/> playgrdstar
+			</a><br/>
+			Ming  Gary Ang
+		</td>
+		<td>Playgrd </td>
+		<td><a target="_blank" href="https://twitter.com/playgrdstar">playgrdstar</a></td>
+		<td>Singapore</td>
+		<td>75</td>
+	</tr>
+	<tr>
 		<td>890</td>
 		<td>
 			<a target="_blank" href="https://github.com/Tecvan-fe">
-				<img src="https://private-avatars.githubusercontent.com/u/84165678?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA4ODAsIm5iZiI6MTczNDY0OTY4MCwicGF0aCI6Ii91Lzg0MTY1Njc4In0.4WmMnoy-QM1uUSmf3S-dGOy6GBRuLtH2GgD2AjVXVWU&s=72&u=2b374b65f303aea7ba1183f41eb28a876950958e&v=4" width="24" alt="Avatar of Tecvan-fe"/> Tecvan-fe
+				<img src="https://private-avatars.githubusercontent.com/u/84165678?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY4ODAsIm5iZiI6MTczNDY4NTY4MCwicGF0aCI6Ii91Lzg0MTY1Njc4In0.qJjnQ-7C0pzyQOwTD9siY1PgfDteR85xGkpZHqCtRm4&s=72&u=2b374b65f303aea7ba1183f41eb28a876950958e&v=4" width="24" alt="Avatar of Tecvan-fe"/> Tecvan-fe
 			</a><br/>
 			tecvan
 		</td>
@@ -11683,7 +11683,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>891</td>
 		<td>
 			<a target="_blank" href="https://github.com/kronos">
-				<img src="https://private-avatars.githubusercontent.com/u/5432?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE1NDAsIm5iZiI6MTczNDY1MDM0MCwicGF0aCI6Ii91LzU0MzIifQ.wwMvyZqMtIYmaTdUz0MTkSI2SpHFG7T5GUJ2Vg_-1tA&s=72&v=4" width="24" alt="Avatar of kronos"/> kronos
+				<img src="https://private-avatars.githubusercontent.com/u/5432?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODc1NDAsIm5iZiI6MTczNDY4NjM0MCwicGF0aCI6Ii91LzU0MzIifQ.12U3DlKduG0alAjtfKrLphy2po0l-9GSPQ2EsqShCJ8&s=72&v=4" width="24" alt="Avatar of kronos"/> kronos
 			</a><br/>
 			Ivan Samsonov
 		</td>
@@ -11696,7 +11696,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>892</td>
 		<td>
 			<a target="_blank" href="https://github.com/sumleo">
-				<img src="https://private-avatars.githubusercontent.com/u/29517764?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE0MjAsIm5iZiI6MTczNDY1MDIyMCwicGF0aCI6Ii91LzI5NTE3NzY0In0.-UMcbeKojFLnV8ZGdRnvt3oYLkxV458lMknTfQs1oHA&s=72&v=4" width="24" alt="Avatar of sumleo"/> sumleo
+				<img src="https://private-avatars.githubusercontent.com/u/29517764?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODc0MjAsIm5iZiI6MTczNDY4NjIyMCwicGF0aCI6Ii91LzI5NTE3NzY0In0.usqwblm66rA9KDYbydgVvvqx4BlqA9EEHJbOtiaFuuI&s=72&v=4" width="24" alt="Avatar of sumleo"/> sumleo
 			</a><br/>
 			Yi Liu
 		</td>
@@ -11709,7 +11709,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>893</td>
 		<td>
 			<a target="_blank" href="https://github.com/shaunlee">
-				<img src="https://private-avatars.githubusercontent.com/u/655635?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwMDAsIm5iZiI6MTczNDY0OTgwMCwicGF0aCI6Ii91LzY1NTYzNSJ9.3dU437g3YRxv1zlp4EAeS6Hm8uDe8FqeWp-PP6aTq2s&s=72&u=23fcf03343ba02f8f0bfa790822f36548484a7e3&v=4" width="24" alt="Avatar of shaunlee"/> shaunlee
+				<img src="https://private-avatars.githubusercontent.com/u/655635?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwMDAsIm5iZiI6MTczNDY4NTgwMCwicGF0aCI6Ii91LzY1NTYzNSJ9.wiX0gyKSZh0F-j2qNWnk8n9AL3A46JVV1JJxreYrXck&s=72&u=23fcf03343ba02f8f0bfa790822f36548484a7e3&v=4" width="24" alt="Avatar of shaunlee"/> shaunlee
 			</a><br/>
 			Shaun
 		</td>
@@ -11722,7 +11722,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>894</td>
 		<td>
 			<a target="_blank" href="https://github.com/Drenmi">
-				<img src="https://private-avatars.githubusercontent.com/u/5259935?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExMjAsIm5iZiI6MTczNDY0OTkyMCwicGF0aCI6Ii91LzUyNTk5MzUifQ.jxYXEx2qES4HsK7H5WCNcqbxo8j5kzdMv-aCLH7Gv3Q&s=72&u=8f5a5341f9039c3aa97d3ee762c3b90bc3c21c1f&v=4" width="24" alt="Avatar of Drenmi"/> Drenmi
+				<img src="https://private-avatars.githubusercontent.com/u/5259935?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxMjAsIm5iZiI6MTczNDY4NTkyMCwicGF0aCI6Ii91LzUyNTk5MzUifQ.s5zWuM1n1mrlZlmnkjb7hPoL40BO-Dc27EJtaatCcrg&s=72&u=8f5a5341f9039c3aa97d3ee762c3b90bc3c21c1f&v=4" width="24" alt="Avatar of Drenmi"/> Drenmi
 			</a><br/>
 			Ted Johansson
 		</td>
@@ -11735,7 +11735,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>895</td>
 		<td>
 			<a target="_blank" href="https://github.com/zubairhamed">
-				<img src="https://private-avatars.githubusercontent.com/u/2336402?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTE1NDAsIm5iZiI6MTczNDY1MDM0MCwicGF0aCI6Ii91LzIzMzY0MDIifQ.AuS9TPis_niZOVho9PKP_WbKxx9GQGjP2zMxyMrk_qg&s=72&u=684123e677443056eca55a0e5a3d6b3da8e2d37a&v=4" width="24" alt="Avatar of zubairhamed"/> zubairhamed
+				<img src="https://private-avatars.githubusercontent.com/u/2336402?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODc1NDAsIm5iZiI6MTczNDY4NjM0MCwicGF0aCI6Ii91LzIzMzY0MDIifQ.VMsNI3efHF38q8lNC5Dn5OImzM5VH79NI-DcOqkYwUM&s=72&u=684123e677443056eca55a0e5a3d6b3da8e2d37a&v=4" width="24" alt="Avatar of zubairhamed"/> zubairhamed
 			</a><br/>
 			Zubair Hamed
 		</td>
@@ -11748,7 +11748,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>896</td>
 		<td>
 			<a target="_blank" href="https://github.com/edwinksl">
-				<img src="https://private-avatars.githubusercontent.com/u/809138?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA5NDAsIm5iZiI6MTczNDY0OTc0MCwicGF0aCI6Ii91LzgwOTEzOCJ9.4miqoR8VtqJEtPcLrSoeqyqpkyKR4_7Lq9lO_g0mj0Q&s=72&u=d578aecda19d30eb2fc3c3cc2dae309c5f1ef3ad&v=4" width="24" alt="Avatar of edwinksl"/> edwinksl
+				<img src="https://private-avatars.githubusercontent.com/u/809138?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY5NDAsIm5iZiI6MTczNDY4NTc0MCwicGF0aCI6Ii91LzgwOTEzOCJ9.dmAHMO-D1jjSkn7TSZ27_HG0vjnbLTGSZYbH2_I3pNM&s=72&u=d578aecda19d30eb2fc3c3cc2dae309c5f1ef3ad&v=4" width="24" alt="Avatar of edwinksl"/> edwinksl
 			</a><br/>
 			Edwin Khoo
 		</td>
@@ -11761,7 +11761,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>897</td>
 		<td>
 			<a target="_blank" href="https://github.com/chfern">
-				<img src="https://private-avatars.githubusercontent.com/u/33929579?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzMzOTI5NTc5In0.OK3W9iivruB_Qn8axlDmgLMBPlqvccqWTi_I7AiVA7k&s=72&u=db8ef6dc058b39d6ef4cd4534779d2802af82ad5&v=4" width="24" alt="Avatar of chfern"/> chfern
+				<img src="https://private-avatars.githubusercontent.com/u/33929579?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzMzOTI5NTc5In0.KA-lzcVwn-ygt0Wy4cI8BBmxpdyrBX_SlLxo-7vQNeg&s=72&u=db8ef6dc058b39d6ef4cd4534779d2802af82ad5&v=4" width="24" alt="Avatar of chfern"/> chfern
 			</a><br/>
 			Fernando C
 		</td>
@@ -11774,7 +11774,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>898</td>
 		<td>
 			<a target="_blank" href="https://github.com/ajeetbpr">
-				<img src="https://private-avatars.githubusercontent.com/u/26650445?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTExODAsIm5iZiI6MTczNDY0OTk4MCwicGF0aCI6Ii91LzI2NjUwNDQ1In0.FTFArzjRKmEeXGS_rP-x01ADbiqFVFVRedx8_1DW1Bc&s=72&u=f49744dcbc76647df8e2c25f4b027b4394eca937&v=4" width="24" alt="Avatar of ajeetbpr"/> ajeetbpr
+				<img src="https://private-avatars.githubusercontent.com/u/26650445?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcxODAsIm5iZiI6MTczNDY4NTk4MCwicGF0aCI6Ii91LzI2NjUwNDQ1In0.O3ok8MnaLwdGREQ_LN20NDRQKim33AwYiTypBbXJqtU&s=72&u=f49744dcbc76647df8e2c25f4b027b4394eca937&v=4" width="24" alt="Avatar of ajeetbpr"/> ajeetbpr
 			</a><br/>
 			AJEET SINGH
 		</td>
@@ -11787,7 +11787,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>899</td>
 		<td>
 			<a target="_blank" href="https://github.com/Yaoshicn">
-				<img src="https://private-avatars.githubusercontent.com/u/5865630?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTA5NDAsIm5iZiI6MTczNDY0OTc0MCwicGF0aCI6Ii91LzU4NjU2MzAifQ.CvhaIu-yeSvoY22Xfs28R5qqGqNM70vdVy56VA8skQ0&s=72&u=3a6a9279df67aa1bfc886a9b980fa02e2821f2cb&v=4" width="24" alt="Avatar of Yaoshicn"/> Yaoshicn
+				<img src="https://private-avatars.githubusercontent.com/u/5865630?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODY5NDAsIm5iZiI6MTczNDY4NTc0MCwicGF0aCI6Ii91LzU4NjU2MzAifQ.Zc0KZAqeU6F76oC3744adG2ACwLa422NnJZ0_GJ-o9U&s=72&u=3a6a9279df67aa1bfc886a9b980fa02e2821f2cb&v=4" width="24" alt="Avatar of Yaoshicn"/> Yaoshicn
 			</a><br/>
 			Xuanliang Cui
 		</td>
@@ -11800,7 +11800,7 @@ There are `900 users`  in Singapore. You need at least `74 followers` to be on t
 		<td>900</td>
 		<td>
 			<a target="_blank" href="https://github.com/charulagrl">
-				<img src="https://private-avatars.githubusercontent.com/u/4146317?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2NTEwNjAsIm5iZiI6MTczNDY0OTg2MCwicGF0aCI6Ii91LzQxNDYzMTcifQ.KLpNm4e5l0wqk0h8cCsRZ6WC5Y3AFZ_BQ0vgCpYB5cE&s=72&v=4" width="24" alt="Avatar of charulagrl"/> charulagrl
+				<img src="https://private-avatars.githubusercontent.com/u/4146317?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTEiLCJleHAiOjE3MzQ2ODcwNjAsIm5iZiI6MTczNDY4NTg2MCwicGF0aCI6Ii91LzQxNDYzMTcifQ.iQsi5omWSNEVdsBrhiJmwTbxFDSaeIXuCX1Bm2btsk4&s=72&v=4" width="24" alt="Avatar of charulagrl"/> charulagrl
 			</a><br/>
 			Charul Agrawal
 		</td>
