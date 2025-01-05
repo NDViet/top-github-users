@@ -10,7 +10,7 @@ description: Top GitHub Users By Public Contributions in Vietnam
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg" alt="Vietnam"/>
 </a>
 
-The `public contributions` by users in Vietnam on `2025/1/5 12:29 PM UTC`. This list contains users from Vietnam and cities Hochiminhcity Hanoi Danang Cantho Haiphong.
+The `public contributions` by users in Vietnam on `2025/1/5 10:41 PM UTC`. This list contains users from Vietnam and cities Hochiminhcity Hanoi Danang Cantho Haiphong.
 
 There are `19 countries` and `130 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
@@ -120,7 +120,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Vietnam</td>
-		<td>43223</td>
+		<td>43277</td>
 	</tr>
 	<tr>
 		<td>2</td>
@@ -133,7 +133,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Vietnam</td>
-		<td>23244</td>
+		<td>23265</td>
 	</tr>
 	<tr>
 		<td>3</td>
@@ -146,7 +146,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/bigdargon">bigdargon</a></td>
 		<td>Vietnam</td>
-		<td>20460</td>
+		<td>20484</td>
 	</tr>
 	<tr>
 		<td>4</td>
@@ -198,7 +198,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>Meewmeew </td>
 		<td><a target="_blank" href="https://twitter.com/mewthedev">mewthedev</a></td>
 		<td>BacNinh VietNam</td>
-		<td>3844</td>
+		<td>3854</td>
 	</tr>
 	<tr>
 		<td>8</td>
@@ -211,7 +211,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Ho Chi Minh City Vietnam</td>
-		<td>3365</td>
+		<td>3371</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -250,7 +250,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>@tutur3u </td>
 		<td><a target="_blank" href="https://twitter.com/vohoangphucx">vohoangphucx</a></td>
 		<td>Ho Chi Minh Vietnam</td>
-		<td>2629</td>
+		<td>2636</td>
 	</tr>
 	<tr>
 		<td>12</td>
@@ -263,7 +263,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>@letterbllc  </td>
 		<td>No Twitter Username</td>
 		<td>Ho Chi Minh City Vietnam</td>
-		<td>2547</td>
+		<td>2549</td>
 	</tr>
 	<tr>
 		<td>13</td>
@@ -289,7 +289,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Hanoi Vietnam</td>
-		<td>2512</td>
+		<td>2517</td>
 	</tr>
 	<tr>
 		<td>15</td>
@@ -328,7 +328,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>University Of Information Technology<br/></td>
 		<td>No Twitter Username</td>
 		<td>Vietnam</td>
-		<td>2029</td>
+		<td>2031</td>
 	</tr>
 	<tr>
 		<td>18</td>
@@ -367,7 +367,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/huynhqtienvtag">huynhqtienvtag</a></td>
 		<td>Vietnam</td>
-		<td>1636</td>
+		<td>1637</td>
 	</tr>
 	<tr>
 		<td>21</td>
@@ -489,6 +489,19 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 	<tr>
 		<td>30</td>
 		<td>
+			<a target="_blank" href="https://github.com/sgn">
+				<img src="https://avatars.githubusercontent.com/u/42673067?s=72&u=6984eae4e26e5fb4a35d4e499d2e4beb4990789a&v=4" width="24" alt="Avatar of sgn"/> sgn
+			</a><br/>
+			on Trn Cng Danh
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vietnam</td>
+		<td>1111</td>
+	</tr>
+	<tr>
+		<td>31</td>
+		<td>
 			<a target="_blank" href="https://github.com/95tuanle">
 				<img src="https://avatars.githubusercontent.com/u/30306228?s=72&u=fc407c508cf9f3744ef35c185e832d135cd928c0&v=4" width="24" alt="Avatar of 95tuanle"/> 95tuanle
 			</a><br/>
@@ -500,7 +513,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>1111</td>
 	</tr>
 	<tr>
-		<td>31</td>
+		<td>32</td>
 		<td>
 			<a target="_blank" href="https://github.com/Mefodei">
 				<img src="https://avatars.githubusercontent.com/u/7457166?s=72&u=d9b638255086d804b9f093365d69c70e8c970915&v=4" width="24" alt="Avatar of Mefodei"/> Mefodei
@@ -509,19 +522,6 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		</td>
 		<td>Unigame </td>
 		<td><a target="_blank" href="https://twitter.com/Mefodey">Mefodey</a></td>
-		<td>Vietnam</td>
-		<td>1110</td>
-	</tr>
-	<tr>
-		<td>32</td>
-		<td>
-			<a target="_blank" href="https://github.com/sgn">
-				<img src="https://avatars.githubusercontent.com/u/42673067?s=72&u=6984eae4e26e5fb4a35d4e499d2e4beb4990789a&v=4" width="24" alt="Avatar of sgn"/> sgn
-			</a><br/>
-			on Trn Cng Danh
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
 		<td>Vietnam</td>
 		<td>1110</td>
 	</tr>
@@ -666,7 +666,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>@hasura  </td>
 		<td><a target="_blank" href="https://twitter.com/hgiasac">hgiasac</a></td>
 		<td>Ho Chi Minh City Viet Nam</td>
-		<td>885</td>
+		<td>886</td>
 	</tr>
 	<tr>
 		<td>44</td>
@@ -731,7 +731,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>Axon Enterprise </td>
 		<td><a target="_blank" href="https://twitter.com/locmai0201">locmai0201</a></td>
 		<td>Ho Chi Minh City Viet Nam</td>
-		<td>831</td>
+		<td>832</td>
 	</tr>
 	<tr>
 		<td>49</td>
@@ -952,7 +952,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>Opn Vietnam </td>
 		<td><a target="_blank" href="https://twitter.com/manhpham90vn">manhpham90vn</a></td>
 		<td>Ha Noi Vietnam</td>
-		<td>700</td>
+		<td>701</td>
 	</tr>
 	<tr>
 		<td>66</td>
@@ -978,7 +978,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>@lnreader @melyapps </td>
 		<td>No Twitter Username</td>
 		<td>Vietnam</td>
-		<td>688</td>
+		<td>689</td>
 	</tr>
 	<tr>
 		<td>68</td>
@@ -1056,7 +1056,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>@gunsurvival </td>
 		<td>No Twitter Username</td>
 		<td>Vietnam</td>
-		<td>620</td>
+		<td>622</td>
 	</tr>
 	<tr>
 		<td>74</td>
@@ -1186,7 +1186,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>@kidp2h </td>
 		<td>No Twitter Username</td>
 		<td>Vietnam</td>
-		<td>568</td>
+		<td>570</td>
 	</tr>
 	<tr>
 		<td>84</td>
@@ -1394,7 +1394,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Hanoi Vietnam</td>
-		<td>475</td>
+		<td>476</td>
 	</tr>
 	<tr>
 		<td>100</td>
@@ -1555,6 +1555,19 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 	<tr>
 		<td>112</td>
 		<td>
+			<a target="_blank" href="https://github.com/chau-nm">
+				<img src="https://avatars.githubusercontent.com/u/91469379?s=72&u=e6918164923763560f6548c0fd974f46fd7260a8&v=4" width="24" alt="Avatar of chau-nm"/> chau-nm
+			</a><br/>
+			Nguyn Minh Chu
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Ho Chi Minh City Vietnam</td>
+		<td>419</td>
+	</tr>
+	<tr>
+		<td>113</td>
+		<td>
 			<a target="_blank" href="https://github.com/dinhhuy258">
 				<img src="https://avatars.githubusercontent.com/u/17776979?s=72&u=7d55b223fdd27d4d80d320c57e3d3e959cc80a31&v=4" width="24" alt="Avatar of dinhhuy258"/> dinhhuy258
 			</a><br/>
@@ -1566,7 +1579,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>414</td>
 	</tr>
 	<tr>
-		<td>113</td>
+		<td>114</td>
 		<td>
 			<a target="_blank" href="https://github.com/kics223w1">
 				<img src="https://avatars.githubusercontent.com/u/77295189?s=72&u=f9413586f8b283f93bb0e06da42e3685739685d0&v=4" width="24" alt="Avatar of kics223w1"/> kics223w1
@@ -1577,19 +1590,6 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>VietNam</td>
 		<td>413</td>
-	</tr>
-	<tr>
-		<td>114</td>
-		<td>
-			<a target="_blank" href="https://github.com/chau-nm">
-				<img src="https://avatars.githubusercontent.com/u/91469379?s=72&u=e6918164923763560f6548c0fd974f46fd7260a8&v=4" width="24" alt="Avatar of chau-nm"/> chau-nm
-			</a><br/>
-			Nguyn Minh Chu
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Ho Chi Minh City Vietnam</td>
-		<td>402</td>
 	</tr>
 	<tr>
 		<td>115</td>
@@ -1711,6 +1711,19 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 	<tr>
 		<td>124</td>
 		<td>
+			<a target="_blank" href="https://github.com/johnitvn">
+				<img src="https://avatars.githubusercontent.com/u/8359652?s=72&u=cada3173adf959cb0cecc128bf4469245c9ea25c&v=4" width="24" alt="Avatar of johnitvn"/> johnitvn
+			</a><br/>
+			John Martin
+		</td>
+		<td>Vanila Shop </td>
+		<td>No Twitter Username</td>
+		<td>Vietnam</td>
+		<td>381</td>
+	</tr>
+	<tr>
+		<td>125</td>
+		<td>
 			<a target="_blank" href="https://github.com/ChiperSage">
 				<img src="https://avatars.githubusercontent.com/u/5563861?s=72&u=a64c643f370f0601250f55cfe0e11ac0d73698c0&v=4" width="24" alt="Avatar of ChiperSage"/> ChiperSage
 			</a><br/>
@@ -1722,7 +1735,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>380</td>
 	</tr>
 	<tr>
-		<td>125</td>
+		<td>126</td>
 		<td>
 			<a target="_blank" href="https://github.com/whis102">
 				<img src="https://avatars.githubusercontent.com/u/95849484?s=72&u=c5ba5274d48ddfadda1798ee802ea0f1a1915d22&v=4" width="24" alt="Avatar of whis102"/> whis102
@@ -1733,19 +1746,6 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Vietnam</td>
 		<td>377</td>
-	</tr>
-	<tr>
-		<td>126</td>
-		<td>
-			<a target="_blank" href="https://github.com/johnitvn">
-				<img src="https://avatars.githubusercontent.com/u/8359652?s=72&u=cada3173adf959cb0cecc128bf4469245c9ea25c&v=4" width="24" alt="Avatar of johnitvn"/> johnitvn
-			</a><br/>
-			John Martin
-		</td>
-		<td>Vanila Shop </td>
-		<td>No Twitter Username</td>
-		<td>Vietnam</td>
-		<td>376</td>
 	</tr>
 	<tr>
 		<td>127</td>
@@ -1945,6 +1945,19 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 	<tr>
 		<td>142</td>
 		<td>
+			<a target="_blank" href="https://github.com/kyrie25">
+				<img src="https://avatars.githubusercontent.com/u/77577746?s=72&u=6442f302c1a7743cc87dc768838a48fe4dd973f0&v=4" width="24" alt="Avatar of kyrie25"/> kyrie25
+			</a><br/>
+			Nam Anh
+		</td>
+		<td>@designveloper University Of Science<br/><br/>Vnuhcm<br/></td>
+		<td><a target="_blank" href="https://twitter.com/_kyrie_25">_kyrie_25</a></td>
+		<td>HCMC Vietnam</td>
+		<td>340</td>
+	</tr>
+	<tr>
+		<td>143</td>
+		<td>
 			<a target="_blank" href="https://github.com/HtetWaiYan7191">
 				<img src="https://avatars.githubusercontent.com/u/102011195?s=72&u=727017c453b25f3de5c53e9526bab84445309358&v=4" width="24" alt="Avatar of HtetWaiYan7191"/> HtetWaiYan7191
 			</a><br/>
@@ -1956,7 +1969,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>340</td>
 	</tr>
 	<tr>
-		<td>143</td>
+		<td>144</td>
 		<td>
 			<a target="_blank" href="https://github.com/simonpham">
 				<img src="https://avatars.githubusercontent.com/u/8846657?s=72&u=329ebc5b33000d5729a5c6bac2d494879f68c07c&v=4" width="24" alt="Avatar of simonpham"/> simonpham
@@ -1967,19 +1980,6 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Ho Chi Minh City Vietnam</td>
 		<td>337</td>
-	</tr>
-	<tr>
-		<td>144</td>
-		<td>
-			<a target="_blank" href="https://github.com/kyrie25">
-				<img src="https://avatars.githubusercontent.com/u/77577746?s=72&u=6442f302c1a7743cc87dc768838a48fe4dd973f0&v=4" width="24" alt="Avatar of kyrie25"/> kyrie25
-			</a><br/>
-			Nam Anh
-		</td>
-		<td>@designveloper University Of Science<br/><br/>Vnuhcm<br/></td>
-		<td><a target="_blank" href="https://twitter.com/_kyrie_25">_kyrie_25</a></td>
-		<td>HCMC Vietnam</td>
-		<td>336</td>
 	</tr>
 	<tr>
 		<td>145</td>
@@ -2023,19 +2023,6 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 	<tr>
 		<td>148</td>
 		<td>
-			<a target="_blank" href="https://github.com/nobiit">
-				<img src="https://avatars.githubusercontent.com/u/45024177?s=72&u=cd692760c4505a684524382b3c986c455c3497a1&v=4" width="24" alt="Avatar of nobiit"/> nobiit
-			</a><br/>
-			Nguyn c Chin
-		</td>
-		<td>@nobidev  </td>
-		<td>No Twitter Username</td>
-		<td>Vietnam</td>
-		<td>319</td>
-	</tr>
-	<tr>
-		<td>149</td>
-		<td>
 			<a target="_blank" href="https://github.com/tctien342">
 				<img src="https://avatars.githubusercontent.com/u/26409306?s=72&u=57d6df0d390ddc7061e9d64939c74890df142e37&v=4" width="24" alt="Avatar of tctien342"/> tctien342
 			</a><br/>
@@ -2044,6 +2031,19 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>@550studios  </td>
 		<td>No Twitter Username</td>
 		<td> Ho Chi Minh City Viet Nam</td>
+		<td>320</td>
+	</tr>
+	<tr>
+		<td>149</td>
+		<td>
+			<a target="_blank" href="https://github.com/nobiit">
+				<img src="https://avatars.githubusercontent.com/u/45024177?s=72&u=cd692760c4505a684524382b3c986c455c3497a1&v=4" width="24" alt="Avatar of nobiit"/> nobiit
+			</a><br/>
+			Nguyn c Chin
+		</td>
+		<td>@nobidev  </td>
+		<td>No Twitter Username</td>
+		<td>Vietnam</td>
 		<td>319</td>
 	</tr>
 	<tr>
@@ -2114,6 +2114,19 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 	<tr>
 		<td>155</td>
 		<td>
+			<a target="_blank" href="https://github.com/dungngminh">
+				<img src="https://avatars.githubusercontent.com/u/63831488?s=72&u=631e003fe829b8623f23b27e70bb43156cfeaf57&v=4" width="24" alt="Avatar of dungngminh"/> dungngminh
+			</a><br/>
+			Dzung Nguyen Minh
+		</td>
+		<td>@komkatstudio </td>
+		<td><a target="_blank" href="https://twitter.com/dung_ng_minh">dung_ng_minh</a></td>
+		<td>Da Nang Viet Nam</td>
+		<td>305</td>
+	</tr>
+	<tr>
+		<td>156</td>
+		<td>
 			<a target="_blank" href="https://github.com/AlexisDrogoul">
 				<img src="https://avatars.githubusercontent.com/u/579256?s=72&u=8dcbecc04ed787957df59cabc34d595e0457fd6a&v=4" width="24" alt="Avatar of AlexisDrogoul"/> AlexisDrogoul
 			</a><br/>
@@ -2123,19 +2136,6 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Hanoi Vietnam</td>
 		<td>305</td>
-	</tr>
-	<tr>
-		<td>156</td>
-		<td>
-			<a target="_blank" href="https://github.com/dungngminh">
-				<img src="https://avatars.githubusercontent.com/u/63831488?s=72&u=631e003fe829b8623f23b27e70bb43156cfeaf57&v=4" width="24" alt="Avatar of dungngminh"/> dungngminh
-			</a><br/>
-			Dzung Nguyen Minh
-		</td>
-		<td>@komkatstudio </td>
-		<td><a target="_blank" href="https://twitter.com/dung_ng_minh">dung_ng_minh</a></td>
-		<td>Da Nang Viet Nam</td>
-		<td>304</td>
 	</tr>
 	<tr>
 		<td>157</td>
@@ -2569,19 +2569,6 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 	<tr>
 		<td>190</td>
 		<td>
-			<a target="_blank" href="https://github.com/tryevertthhub">
-				<img src="https://avatars.githubusercontent.com/u/166111581?s=72&v=4" width="24" alt="Avatar of tryevertthhub"/> tryevertthhub
-			</a><br/>
-			No Name
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vietnam</td>
-		<td>240</td>
-	</tr>
-	<tr>
-		<td>191</td>
-		<td>
 			<a target="_blank" href="https://github.com/minhh2792">
 				<img src="https://avatars.githubusercontent.com/u/63439671?s=72&u=05e5a62dca29d5ba8b274b44927015ac47c40124&v=4" width="24" alt="Avatar of minhh2792"/> minhh2792
 			</a><br/>
@@ -2590,6 +2577,19 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>@minevn </td>
 		<td><a target="_blank" href="https://twitter.com/minhh2792">minhh2792</a></td>
 		<td>Hanoi</td>
+		<td>242</td>
+	</tr>
+	<tr>
+		<td>191</td>
+		<td>
+			<a target="_blank" href="https://github.com/tryevertthhub">
+				<img src="https://avatars.githubusercontent.com/u/166111581?s=72&v=4" width="24" alt="Avatar of tryevertthhub"/> tryevertthhub
+			</a><br/>
+			No Name
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vietnam</td>
 		<td>240</td>
 	</tr>
 	<tr>
@@ -2785,7 +2785,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>Hanoi University Of Science<br/>And<br/>Technology<br/></td>
 		<td>No Twitter Username</td>
 		<td>VietNam</td>
-		<td>198</td>
+		<td>199</td>
 	</tr>
 	<tr>
 		<td>207</td>
@@ -2811,7 +2811,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>@codingreshapefuture  </td>
 		<td>No Twitter Username</td>
 		<td>Vietnam</td>
-		<td>195</td>
+		<td>196</td>
 	</tr>
 	<tr>
 		<td>209</td>
@@ -3271,6 +3271,19 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 	<tr>
 		<td>244</td>
 		<td>
+			<a target="_blank" href="https://github.com/pchihieuu">
+				<img src="https://avatars.githubusercontent.com/u/98179861?s=72&u=e84095eca075211036f8d3b7c6a4762b498eaaeb&v=4" width="24" alt="Avatar of pchihieuu"/> pchihieuu
+			</a><br/>
+			Hieu Phan Chi
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vietnam</td>
+		<td>153</td>
+	</tr>
+	<tr>
+		<td>245</td>
+		<td>
 			<a target="_blank" href="https://github.com/Github-Aiko">
 				<img src="https://avatars.githubusercontent.com/u/100770712?s=72&u=7bbc8ff9fbbe137add4b111ff138ea18d45a4f3a&v=4" width="24" alt="Avatar of Github-Aiko"/> Github-Aiko
 			</a><br/>
@@ -3282,7 +3295,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>152</td>
 	</tr>
 	<tr>
-		<td>245</td>
+		<td>246</td>
 		<td>
 			<a target="_blank" href="https://github.com/nhamlh">
 				<img src="https://avatars.githubusercontent.com/u/11173217?s=72&u=67b1ac6387f11bf1e741c410cbd4b1d9be38e3ac&v=4" width="24" alt="Avatar of nhamlh"/> nhamlh
@@ -3295,7 +3308,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>151</td>
 	</tr>
 	<tr>
-		<td>246</td>
+		<td>247</td>
 		<td>
 			<a target="_blank" href="https://github.com/vanpho93">
 				<img src="https://avatars.githubusercontent.com/u/17959025?s=72&u=11f218a79c6243785a596dd1c4c6d3238ca1e8f1&v=4" width="24" alt="Avatar of vanpho93"/> vanpho93
@@ -3308,7 +3321,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>150</td>
 	</tr>
 	<tr>
-		<td>247</td>
+		<td>248</td>
 		<td>
 			<a target="_blank" href="https://github.com/QuyAnh2005">
 				<img src="https://avatars.githubusercontent.com/u/80700452?s=72&v=4" width="24" alt="Avatar of QuyAnh2005"/> QuyAnh2005
@@ -3321,7 +3334,20 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>149</td>
 	</tr>
 	<tr>
-		<td>248</td>
+		<td>249</td>
+		<td>
+			<a target="_blank" href="https://github.com/robinhuy">
+				<img src="https://avatars.githubusercontent.com/u/12640832?s=72&u=33fdfe427269c93b9c728c5e19d2b1c919d12bf0&v=4" width="24" alt="Avatar of robinhuy"/> robinhuy
+			</a><br/>
+			Robin Huy
+		</td>
+		<td>Lts Group </td>
+		<td>No Twitter Username</td>
+		<td>Vietnam</td>
+		<td>148</td>
+	</tr>
+	<tr>
+		<td>250</td>
 		<td>
 			<a target="_blank" href="https://github.com/NamNamIoT">
 				<img src="https://avatars.githubusercontent.com/u/49629370?s=72&u=a4bde6c33a61451a8bddf805845771ce83f2c33d&v=4" width="24" alt="Avatar of NamNamIoT"/> NamNamIoT
@@ -3334,20 +3360,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>148</td>
 	</tr>
 	<tr>
-		<td>249</td>
-		<td>
-			<a target="_blank" href="https://github.com/robinhuy">
-				<img src="https://avatars.githubusercontent.com/u/12640832?s=72&u=33fdfe427269c93b9c728c5e19d2b1c919d12bf0&v=4" width="24" alt="Avatar of robinhuy"/> robinhuy
-			</a><br/>
-			Robin Huy
-		</td>
-		<td>Lts Group </td>
-		<td>No Twitter Username</td>
-		<td>Vietnam</td>
-		<td>144</td>
-	</tr>
-	<tr>
-		<td>250</td>
+		<td>251</td>
 		<td>
 			<a target="_blank" href="https://github.com/vutran1710">
 				<img src="https://avatars.githubusercontent.com/u/27060690?s=72&u=4e940a66385934539c68c225a0f1a36e862ad7cb&v=4" width="24" alt="Avatar of vutran1710"/> vutran1710
@@ -3360,20 +3373,20 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>144</td>
 	</tr>
 	<tr>
-		<td>251</td>
+		<td>252</td>
 		<td>
-			<a target="_blank" href="https://github.com/pchihieuu">
-				<img src="https://avatars.githubusercontent.com/u/98179861?s=72&u=e84095eca075211036f8d3b7c6a4762b498eaaeb&v=4" width="24" alt="Avatar of pchihieuu"/> pchihieuu
+			<a target="_blank" href="https://github.com/tranvietphuoc">
+				<img src="https://avatars.githubusercontent.com/u/46410824?s=72&u=6b1c65d4fdbffd7e5b8fe56f252084dba056442c&v=4" width="24" alt="Avatar of tranvietphuoc"/> tranvietphuoc
 			</a><br/>
-			Hieu Phan
+			Tran Viet Phuoc
 		</td>
 		<td>No Company</td>
-		<td>No Twitter Username</td>
-		<td>Vietnam</td>
-		<td>143</td>
+		<td><a target="_blank" href="https://twitter.com/_tranvietphuoc">_tranvietphuoc</a></td>
+		<td>Ho Chi Minh City</td>
+		<td>142</td>
 	</tr>
 	<tr>
-		<td>252</td>
+		<td>253</td>
 		<td>
 			<a target="_blank" href="https://github.com/luongquoctay87">
 				<img src="https://avatars.githubusercontent.com/u/16495924?s=72&u=ed73d1c39035bce1fe005c7ae27c1e878ff64795&v=4" width="24" alt="Avatar of luongquoctay87"/> luongquoctay87
@@ -3386,7 +3399,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>142</td>
 	</tr>
 	<tr>
-		<td>253</td>
+		<td>254</td>
 		<td>
 			<a target="_blank" href="https://github.com/vectornguyen76">
 				<img src="https://avatars.githubusercontent.com/u/80930272?s=72&u=33eb05c400f2b32fa6754147943734b62a836aaa&v=4" width="24" alt="Avatar of vectornguyen76"/> vectornguyen76
@@ -3397,19 +3410,6 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Ho Chi Minh City Viet Nam</td>
 		<td>141</td>
-	</tr>
-	<tr>
-		<td>254</td>
-		<td>
-			<a target="_blank" href="https://github.com/tranvietphuoc">
-				<img src="https://avatars.githubusercontent.com/u/46410824?s=72&u=6b1c65d4fdbffd7e5b8fe56f252084dba056442c&v=4" width="24" alt="Avatar of tranvietphuoc"/> tranvietphuoc
-			</a><br/>
-			Tran Viet Phuoc
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/_tranvietphuoc">_tranvietphuoc</a></td>
-		<td>Ho Chi Minh City</td>
-		<td>140</td>
 	</tr>
 	<tr>
 		<td>255</td>
@@ -3960,6 +3960,19 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 	<tr>
 		<td>297</td>
 		<td>
+			<a target="_blank" href="https://github.com/hoang-himself">
+				<img src="https://avatars.githubusercontent.com/u/10150902?s=72&u=14f4fa1c5e7f5a113157a73be92fd6ddb5e2f358&v=4" width="24" alt="Avatar of hoang-himself"/> hoang-himself
+			</a><br/>
+			Hong
+		</td>
+		<td>No Company</td>
+		<td>No Twitter Username</td>
+		<td>Vietnam</td>
+		<td>110</td>
+	</tr>
+	<tr>
+		<td>298</td>
+		<td>
 			<a target="_blank" href="https://github.com/minhngt62">
 				<img src="https://avatars.githubusercontent.com/u/86721208?s=72&u=de880957ce3c27a5ef57f149cf3eac1a4b44dbf1&v=4" width="24" alt="Avatar of minhngt62"/> minhngt62
 			</a><br/>
@@ -3971,7 +3984,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>110</td>
 	</tr>
 	<tr>
-		<td>298</td>
+		<td>299</td>
 		<td>
 			<a target="_blank" href="https://github.com/trannguyenhan">
 				<img src="https://avatars.githubusercontent.com/u/57361682?s=72&u=e838142761e938569d2ff942073acf290fffd8dd&v=4" width="24" alt="Avatar of trannguyenhan"/> trannguyenhan
@@ -3984,7 +3997,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>109</td>
 	</tr>
 	<tr>
-		<td>299</td>
+		<td>300</td>
 		<td>
 			<a target="_blank" href="https://github.com/patrickphat">
 				<img src="https://avatars.githubusercontent.com/u/45748186?s=72&u=e085267aff7c375c945aafae0f4133dbe13caa4f&v=4" width="24" alt="Avatar of patrickphat"/> patrickphat
@@ -3997,7 +4010,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>109</td>
 	</tr>
 	<tr>
-		<td>300</td>
+		<td>301</td>
 		<td>
 			<a target="_blank" href="https://github.com/TriDang">
 				<img src="https://avatars.githubusercontent.com/u/351954?s=72&u=bde47f6571da81e8931144d214f77f870b3ad129&v=4" width="24" alt="Avatar of TriDang"/> TriDang
@@ -4010,7 +4023,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>109</td>
 	</tr>
 	<tr>
-		<td>301</td>
+		<td>302</td>
 		<td>
 			<a target="_blank" href="https://github.com/kon-rad">
 				<img src="https://avatars.githubusercontent.com/u/19414083?s=72&u=60e0c577c356896888ec7775374ee406cbed0731&v=4" width="24" alt="Avatar of kon-rad"/> kon-rad
@@ -4023,7 +4036,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>109</td>
 	</tr>
 	<tr>
-		<td>302</td>
+		<td>303</td>
 		<td>
 			<a target="_blank" href="https://github.com/mhqb365">
 				<img src="https://avatars.githubusercontent.com/u/68866600?s=72&u=67964786cb48e9b006f6fced0c96f7533979a6c0&v=4" width="24" alt="Avatar of mhqb365"/> mhqb365
@@ -4036,7 +4049,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>109</td>
 	</tr>
 	<tr>
-		<td>303</td>
+		<td>304</td>
 		<td>
 			<a target="_blank" href="https://github.com/iamvon">
 				<img src="https://avatars.githubusercontent.com/u/28395758?s=72&u=ac734ffe9991ff7f78aaa3b5ac763db6b17c91ec&v=4" width="24" alt="Avatar of iamvon"/> iamvon
@@ -4045,19 +4058,6 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		</td>
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/tuanpmhd">tuanpmhd</a></td>
-		<td>Vietnam</td>
-		<td>108</td>
-	</tr>
-	<tr>
-		<td>304</td>
-		<td>
-			<a target="_blank" href="https://github.com/hoang-himself">
-				<img src="https://avatars.githubusercontent.com/u/10150902?s=72&u=14f4fa1c5e7f5a113157a73be92fd6ddb5e2f358&v=4" width="24" alt="Avatar of hoang-himself"/> hoang-himself
-			</a><br/>
-			Hong
-		</td>
-		<td>No Company</td>
-		<td>No Twitter Username</td>
 		<td>Vietnam</td>
 		<td>108</td>
 	</tr>
@@ -4090,6 +4090,19 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 	<tr>
 		<td>307</td>
 		<td>
+			<a target="_blank" href="https://github.com/thangchung">
+				<img src="https://avatars.githubusercontent.com/u/422341?s=72&u=b24af4c3b730fe4554fac2408390b646294facdc&v=4" width="24" alt="Avatar of thangchung"/> thangchung
+			</a><br/>
+			Thang Chung
+		</td>
+		<td>Nashtech </td>
+		<td><a target="_blank" href="https://twitter.com/thangchung">thangchung</a></td>
+		<td>Saigon Vietnam</td>
+		<td>105</td>
+	</tr>
+	<tr>
+		<td>308</td>
+		<td>
 			<a target="_blank" href="https://github.com/ngogiaphat">
 				<img src="https://avatars.githubusercontent.com/u/54573446?s=72&u=4fc1f74266c451f208a328f81491c1d2a2716599&v=4" width="24" alt="Avatar of ngogiaphat"/> ngogiaphat
 			</a><br/>
@@ -4101,7 +4114,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>105</td>
 	</tr>
 	<tr>
-		<td>308</td>
+		<td>309</td>
 		<td>
 			<a target="_blank" href="https://github.com/hoanganhtuan95ptit">
 				<img src="https://avatars.githubusercontent.com/u/32215600?s=72&u=4f7df15e2d33ffff3f8b13f20d1d4aad19e4b3d1&v=4" width="24" alt="Avatar of hoanganhtuan95ptit"/> hoanganhtuan95ptit
@@ -4114,7 +4127,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>105</td>
 	</tr>
 	<tr>
-		<td>309</td>
+		<td>310</td>
 		<td>
 			<a target="_blank" href="https://github.com/inanitynoupcase">
 				<img src="https://avatars.githubusercontent.com/u/84982266?s=72&u=4afcb66f1c21ca45974a4f8592254f51a9fa4949&v=4" width="24" alt="Avatar of inanitynoupcase"/> inanitynoupcase
@@ -4125,19 +4138,6 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>No Twitter Username</td>
 		<td>Ho Chi Minh City</td>
 		<td>104</td>
-	</tr>
-	<tr>
-		<td>310</td>
-		<td>
-			<a target="_blank" href="https://github.com/thangchung">
-				<img src="https://avatars.githubusercontent.com/u/422341?s=72&u=b24af4c3b730fe4554fac2408390b646294facdc&v=4" width="24" alt="Avatar of thangchung"/> thangchung
-			</a><br/>
-			Thang Chung
-		</td>
-		<td>Nashtech </td>
-		<td><a target="_blank" href="https://twitter.com/thangchung">thangchung</a></td>
-		<td>Saigon Vietnam</td>
-		<td>103</td>
 	</tr>
 	<tr>
 		<td>311</td>
@@ -4532,6 +4532,19 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 	<tr>
 		<td>341</td>
 		<td>
+			<a target="_blank" href="https://github.com/longngn">
+				<img src="https://avatars.githubusercontent.com/u/20140368?s=72&u=c971ae3caa2daaec67cbfa0d735651c4e11b825d&v=4" width="24" alt="Avatar of longngn"/> longngn
+			</a><br/>
+			Long Nguyen
+		</td>
+		<td>Fpt University </td>
+		<td><a target="_blank" href="https://twitter.com/ngnlong">ngnlong</a></td>
+		<td>Vietnam</td>
+		<td>84</td>
+	</tr>
+	<tr>
+		<td>342</td>
+		<td>
 			<a target="_blank" href="https://github.com/hongsonjs">
 				<img src="https://avatars.githubusercontent.com/u/115483920?s=72&u=46ba7abeaed9625d1530526bbe99cae5ffce19b2&v=4" width="24" alt="Avatar of hongsonjs"/> hongsonjs
 			</a><br/>
@@ -4543,7 +4556,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>84</td>
 	</tr>
 	<tr>
-		<td>342</td>
+		<td>343</td>
 		<td>
 			<a target="_blank" href="https://github.com/unlock-new-skill">
 				<img src="https://avatars.githubusercontent.com/u/56082998?s=72&u=904eed07dd9f4f61ada9d9e59071c8d9eabf0ea9&v=4" width="24" alt="Avatar of unlock-new-skill"/> unlock-new-skill
@@ -4556,7 +4569,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>84</td>
 	</tr>
 	<tr>
-		<td>343</td>
+		<td>344</td>
 		<td>
 			<a target="_blank" href="https://github.com/spideynolove">
 				<img src="https://avatars.githubusercontent.com/u/19179621?s=72&u=8dcc34c62b816255e237ade5a55812f74e8535be&v=4" width="24" alt="Avatar of spideynolove"/> spideynolove
@@ -4569,7 +4582,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>84</td>
 	</tr>
 	<tr>
-		<td>344</td>
+		<td>345</td>
 		<td>
 			<a target="_blank" href="https://github.com/vuthaihoc">
 				<img src="https://avatars.githubusercontent.com/u/2509658?s=72&v=4" width="24" alt="Avatar of vuthaihoc"/> vuthaihoc
@@ -4582,7 +4595,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>345</td>
+		<td>346</td>
 		<td>
 			<a target="_blank" href="https://github.com/robbert1978">
 				<img src="https://avatars.githubusercontent.com/u/31349426?s=72&u=3dda3f2d177e3524ca39212129fec81932931023&v=4" width="24" alt="Avatar of robbert1978"/> robbert1978
@@ -4595,7 +4608,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>346</td>
+		<td>347</td>
 		<td>
 			<a target="_blank" href="https://github.com/itsurboimasarou">
 				<img src="https://avatars.githubusercontent.com/u/105153038?s=72&u=9162d5cf88382ffb0514b06850878108f013bfc3&v=4" width="24" alt="Avatar of itsurboimasarou"/> itsurboimasarou
@@ -4608,7 +4621,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>82</td>
 	</tr>
 	<tr>
-		<td>347</td>
+		<td>348</td>
 		<td>
 			<a target="_blank" href="https://github.com/phatjkk">
 				<img src="https://avatars.githubusercontent.com/u/48487157?s=72&u=0bbc29831276a88825d41718d71a8372ae6a7124&v=4" width="24" alt="Avatar of phatjkk"/> phatjkk
@@ -4617,19 +4630,6 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		</td>
 		<td>No Company</td>
 		<td>No Twitter Username</td>
-		<td>Vietnam</td>
-		<td>81</td>
-	</tr>
-	<tr>
-		<td>348</td>
-		<td>
-			<a target="_blank" href="https://github.com/longngn">
-				<img src="https://avatars.githubusercontent.com/u/20140368?s=72&u=c971ae3caa2daaec67cbfa0d735651c4e11b825d&v=4" width="24" alt="Avatar of longngn"/> longngn
-			</a><br/>
-			Long Nguyen
-		</td>
-		<td>Fpt University </td>
-		<td><a target="_blank" href="https://twitter.com/ngnlong">ngnlong</a></td>
 		<td>Vietnam</td>
 		<td>81</td>
 	</tr>
@@ -5351,6 +5351,19 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 	<tr>
 		<td>404</td>
 		<td>
+			<a target="_blank" href="https://github.com/mylethidiem">
+				<img src="https://avatars.githubusercontent.com/u/19374365?s=72&u=e9f01159941d7fb6345cffeaa305e19828857dfa&v=4" width="24" alt="Avatar of mylethidiem"/> mylethidiem
+			</a><br/>
+			Le Thi Diem My
+		</td>
+		<td>Gameloft </td>
+		<td><a target="_blank" href="https://twitter.com/elizabethmy96">elizabethmy96</a></td>
+		<td> Ho Chi Minh City Vietnam</td>
+		<td>51</td>
+	</tr>
+	<tr>
+		<td>405</td>
+		<td>
 			<a target="_blank" href="https://github.com/dacsang97">
 				<img src="https://avatars.githubusercontent.com/u/5728560?s=72&u=1df5a25db27c30731dbdb9ea0f1db9135291a732&v=4" width="24" alt="Avatar of dacsang97"/> dacsang97
 			</a><br/>
@@ -5362,7 +5375,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>51</td>
 	</tr>
 	<tr>
-		<td>405</td>
+		<td>406</td>
 		<td>
 			<a target="_blank" href="https://github.com/entest-hai">
 				<img src="https://avatars.githubusercontent.com/u/20411077?s=72&v=4" width="24" alt="Avatar of entest-hai"/> entest-hai
@@ -5375,7 +5388,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>50</td>
 	</tr>
 	<tr>
-		<td>406</td>
+		<td>407</td>
 		<td>
 			<a target="_blank" href="https://github.com/ToanPV90">
 				<img src="https://avatars.githubusercontent.com/u/10155431?s=72&v=4" width="24" alt="Avatar of ToanPV90"/> ToanPV90
@@ -5388,7 +5401,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>407</td>
+		<td>408</td>
 		<td>
 			<a target="_blank" href="https://github.com/justinphan3110">
 				<img src="https://avatars.githubusercontent.com/u/44376091?s=72&u=587e3c4420fc4f7aa4a0d17bc19fd8111de8a666&v=4" width="24" alt="Avatar of justinphan3110"/> justinphan3110
@@ -5401,7 +5414,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>408</td>
+		<td>409</td>
 		<td>
 			<a target="_blank" href="https://github.com/danielphan2003">
 				<img src="https://avatars.githubusercontent.com/u/34669737?s=72&u=bfe6e28a9d9ba6eb564b5ef3c778d4c7cd323f5b&v=4" width="24" alt="Avatar of danielphan2003"/> danielphan2003
@@ -5414,7 +5427,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>49</td>
 	</tr>
 	<tr>
-		<td>409</td>
+		<td>410</td>
 		<td>
 			<a target="_blank" href="https://github.com/kimcuhoang">
 				<img src="https://avatars.githubusercontent.com/u/12949191?s=72&u=d649e8f08381246c4534bebbebc23e246a0f11d2&v=4" width="24" alt="Avatar of kimcuhoang"/> kimcuhoang
@@ -5427,7 +5440,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>48</td>
 	</tr>
 	<tr>
-		<td>410</td>
+		<td>411</td>
 		<td>
 			<a target="_blank" href="https://github.com/hoangkianh">
 				<img src="https://avatars.githubusercontent.com/u/5220562?s=72&u=b1b41a3d0b4c6c8f27ea531b9d9badccbdbad541&v=4" width="24" alt="Avatar of hoangkianh"/> hoangkianh
@@ -5440,7 +5453,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>411</td>
+		<td>412</td>
 		<td>
 			<a target="_blank" href="https://github.com/nhaancs">
 				<img src="https://avatars.githubusercontent.com/u/15848072?s=72&u=f718b1691dfcb5aca64e18a8def4257915068226&v=4" width="24" alt="Avatar of nhaancs"/> nhaancs
@@ -5453,7 +5466,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>412</td>
+		<td>413</td>
 		<td>
 			<a target="_blank" href="https://github.com/DucThanhNguyen">
 				<img src="https://avatars.githubusercontent.com/u/22109882?s=72&u=e70d17cc7d5fa0153d8e3bb54927f87436f764f7&v=4" width="24" alt="Avatar of DucThanhNguyen"/> DucThanhNguyen
@@ -5466,7 +5479,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>413</td>
+		<td>414</td>
 		<td>
 			<a target="_blank" href="https://github.com/LiuQBinh">
 				<img src="https://avatars.githubusercontent.com/u/34769433?s=72&u=668a073fbf3a038a7096d67539238fa26fd38f3d&v=4" width="24" alt="Avatar of LiuQBinh"/> LiuQBinh
@@ -5479,7 +5492,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>47</td>
 	</tr>
 	<tr>
-		<td>414</td>
+		<td>415</td>
 		<td>
 			<a target="_blank" href="https://github.com/quocbao238">
 				<img src="https://avatars.githubusercontent.com/u/51372227?s=72&u=0632516c33ad313aa3b90c05087664bed965f6a8&v=4" width="24" alt="Avatar of quocbao238"/> quocbao238
@@ -5492,7 +5505,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>415</td>
+		<td>416</td>
 		<td>
 			<a target="_blank" href="https://github.com/baontq23">
 				<img src="https://avatars.githubusercontent.com/u/65148766?s=72&u=27cf415001cc542c74102e851bebd0332eb7ff38&v=4" width="24" alt="Avatar of baontq23"/> baontq23
@@ -5505,7 +5518,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>416</td>
+		<td>417</td>
 		<td>
 			<a target="_blank" href="https://github.com/tlvu2697">
 				<img src="https://avatars.githubusercontent.com/u/32784713?s=72&u=db4b111e3abc85ff480034d4f2c3f13d2cfbe131&v=4" width="24" alt="Avatar of tlvu2697"/> tlvu2697
@@ -5518,7 +5531,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>417</td>
+		<td>418</td>
 		<td>
 			<a target="_blank" href="https://github.com/locphan87">
 				<img src="https://avatars.githubusercontent.com/u/805244?s=72&u=9114a6f25ef94bda2441acca202ae09d4ddbd14f&v=4" width="24" alt="Avatar of locphan87"/> locphan87
@@ -5531,7 +5544,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>46</td>
 	</tr>
 	<tr>
-		<td>418</td>
+		<td>419</td>
 		<td>
 			<a target="_blank" href="https://github.com/drnxloc">
 				<img src="https://avatars.githubusercontent.com/u/62972447?s=72&u=1feb81f506f9a0f1190e7b7ba261ceb0c8e90778&v=4" width="24" alt="Avatar of drnxloc"/> drnxloc
@@ -5544,7 +5557,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>45</td>
 	</tr>
 	<tr>
-		<td>419</td>
+		<td>420</td>
 		<td>
 			<a target="_blank" href="https://github.com/huyhieupham">
 				<img src="https://avatars.githubusercontent.com/u/22640253?s=72&u=631438118863511135864b08dee4f564f00e2a87&v=4" width="24" alt="Avatar of huyhieupham"/> huyhieupham
@@ -5554,19 +5567,6 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>Vinuniversity </td>
 		<td><a target="_blank" href="https://twitter.com/Hieuhuy">Hieuhuy</a></td>
 		<td>Hanoi Vietnam</td>
-		<td>44</td>
-	</tr>
-	<tr>
-		<td>420</td>
-		<td>
-			<a target="_blank" href="https://github.com/mylethidiem">
-				<img src="https://avatars.githubusercontent.com/u/19374365?s=72&u=e9f01159941d7fb6345cffeaa305e19828857dfa&v=4" width="24" alt="Avatar of mylethidiem"/> mylethidiem
-			</a><br/>
-			Le Thi Diem My
-		</td>
-		<td>Gameloft </td>
-		<td><a target="_blank" href="https://twitter.com/elizabethmy96">elizabethmy96</a></td>
-		<td> Ho Chi Minh City Vietnam</td>
 		<td>44</td>
 	</tr>
 	<tr>
@@ -5845,6 +5845,19 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 	<tr>
 		<td>442</td>
 		<td>
+			<a target="_blank" href="https://github.com/lowk3v">
+				<img src="https://avatars.githubusercontent.com/u/14813954?s=72&u=dccdefbbcde39d7d9399932fc904ceff15a77928&v=4" width="24" alt="Avatar of lowk3v"/> lowk3v
+			</a><br/>
+			LowK
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/lowk3v_">lowk3v_</a></td>
+		<td>Ho Chi Minh city VietNam</td>
+		<td>38</td>
+	</tr>
+	<tr>
+		<td>443</td>
+		<td>
 			<a target="_blank" href="https://github.com/misonomikadev">
 				<img src="https://avatars.githubusercontent.com/u/93425627?s=72&u=da3a5c3de8ee35bcf8622949f3fc6016e3be2b3c&v=4" width="24" alt="Avatar of misonomikadev"/> misonomikadev
 			</a><br/>
@@ -5856,7 +5869,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>38</td>
 	</tr>
 	<tr>
-		<td>443</td>
+		<td>444</td>
 		<td>
 			<a target="_blank" href="https://github.com/ToVinhKhang">
 				<img src="https://avatars.githubusercontent.com/u/46922750?s=72&u=6178904f4b76aa5269dcfb640a5aa1a1f8d533aa&v=4" width="24" alt="Avatar of ToVinhKhang"/> ToVinhKhang
@@ -5869,7 +5882,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>37</td>
 	</tr>
 	<tr>
-		<td>444</td>
+		<td>445</td>
 		<td>
 			<a target="_blank" href="https://github.com/leminhnguyen">
 				<img src="https://avatars.githubusercontent.com/u/43167455?s=72&u=471851b24552f0aabcb142fe8600ab2e7c7387e0&v=4" width="24" alt="Avatar of leminhnguyen"/> leminhnguyen
@@ -5879,19 +5892,6 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>Cmc Corporation </td>
 		<td>No Twitter Username</td>
 		<td>HaNoi VietNam</td>
-		<td>37</td>
-	</tr>
-	<tr>
-		<td>445</td>
-		<td>
-			<a target="_blank" href="https://github.com/lowk3v">
-				<img src="https://avatars.githubusercontent.com/u/14813954?s=72&u=dccdefbbcde39d7d9399932fc904ceff15a77928&v=4" width="24" alt="Avatar of lowk3v"/> lowk3v
-			</a><br/>
-			LowK
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/lowk3v_">lowk3v_</a></td>
-		<td>Ho Chi Minh city VietNam</td>
 		<td>37</td>
 	</tr>
 	<tr>
@@ -7041,19 +7041,6 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 	<tr>
 		<td>534</td>
 		<td>
-			<a target="_blank" href="https://github.com/quangtiencs">
-				<img src="https://avatars.githubusercontent.com/u/25101450?s=72&u=613a4c7816e479e37041ee1ca289287cbab4f79b&v=4" width="24" alt="Avatar of quangtiencs"/> quangtiencs
-			</a><br/>
-			Tien LeQuang
-		</td>
-		<td>Momo Mservice </td>
-		<td>No Twitter Username</td>
-		<td>Ho Chi Minh city Viet Nam</td>
-		<td>18</td>
-	</tr>
-	<tr>
-		<td>535</td>
-		<td>
 			<a target="_blank" href="https://github.com/jaredchu">
 				<img src="https://avatars.githubusercontent.com/u/4394552?s=72&u=262f1b330fe9f29f2aae55064a9a13d2681206fd&v=4" width="24" alt="Avatar of jaredchu"/> jaredchu
 			</a><br/>
@@ -7065,7 +7052,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>18</td>
 	</tr>
 	<tr>
-		<td>536</td>
+		<td>535</td>
 		<td>
 			<a target="_blank" href="https://github.com/daominhdam">
 				<img src="https://avatars.githubusercontent.com/u/3110748?s=72&u=d7f062a23f2ca5b4898354e000653b5041d2df19&v=4" width="24" alt="Avatar of daominhdam"/> daominhdam
@@ -7078,7 +7065,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>537</td>
+		<td>536</td>
 		<td>
 			<a target="_blank" href="https://github.com/trungtv">
 				<img src="https://avatars.githubusercontent.com/u/308482?s=72&v=4" width="24" alt="Avatar of trungtv"/> trungtv
@@ -7091,7 +7078,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>538</td>
+		<td>537</td>
 		<td>
 			<a target="_blank" href="https://github.com/quannt">
 				<img src="https://avatars.githubusercontent.com/u/3423859?s=72&u=71462a72366bf75bec6b1efbce137bc96b337cfe&v=4" width="24" alt="Avatar of quannt"/> quannt
@@ -7104,7 +7091,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>539</td>
+		<td>538</td>
 		<td>
 			<a target="_blank" href="https://github.com/donnguyen">
 				<img src="https://avatars.githubusercontent.com/u/3904511?s=72&u=980428a5c75125945f515c697d6a1ecae2bdd740&v=4" width="24" alt="Avatar of donnguyen"/> donnguyen
@@ -7117,7 +7104,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>540</td>
+		<td>539</td>
 		<td>
 			<a target="_blank" href="https://github.com/tumivn">
 				<img src="https://avatars.githubusercontent.com/u/1452589?s=72&u=902cdd94f7fd1894d16119253a0d1655dce86922&v=4" width="24" alt="Avatar of tumivn"/> tumivn
@@ -7130,7 +7117,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>541</td>
+		<td>540</td>
 		<td>
 			<a target="_blank" href="https://github.com/kidlab">
 				<img src="https://avatars.githubusercontent.com/u/624862?s=72&u=c83c24703a6b755e902d0218d7feef30ed4277ca&v=4" width="24" alt="Avatar of kidlab"/> kidlab
@@ -7143,7 +7130,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>542</td>
+		<td>541</td>
 		<td>
 			<a target="_blank" href="https://github.com/kh4nh12">
 				<img src="https://avatars.githubusercontent.com/u/62872625?s=72&u=ee3da8ef32b516674c3a068d13cf800133cbe6b3&v=4" width="24" alt="Avatar of kh4nh12"/> kh4nh12
@@ -7156,7 +7143,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>543</td>
+		<td>542</td>
 		<td>
 			<a target="_blank" href="https://github.com/dshongphuc">
 				<img src="https://avatars.githubusercontent.com/u/19908411?s=72&u=d0ba79f5cda8551081a64debc9a6ea85c503af8f&v=4" width="24" alt="Avatar of dshongphuc"/> dshongphuc
@@ -7169,7 +7156,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>544</td>
+		<td>543</td>
 		<td>
 			<a target="_blank" href="https://github.com/nghiant3223">
 				<img src="https://avatars.githubusercontent.com/u/32875747?s=72&u=cc815aab8ddd83035f5e9c988b049f34cf6f17b3&v=4" width="24" alt="Avatar of nghiant3223"/> nghiant3223
@@ -7182,7 +7169,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>545</td>
+		<td>544</td>
 		<td>
 			<a target="_blank" href="https://github.com/myduyen14125">
 				<img src="https://avatars.githubusercontent.com/u/62200207?s=72&u=287b5face8ff9cc6d4660f15913a87706353052d&v=4" width="24" alt="Avatar of myduyen14125"/> myduyen14125
@@ -7195,7 +7182,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>17</td>
 	</tr>
 	<tr>
-		<td>546</td>
+		<td>545</td>
 		<td>
 			<a target="_blank" href="https://github.com/whoant">
 				<img src="https://avatars.githubusercontent.com/u/17638137?s=72&u=c201eb8d482178ddf14e1c2185da60c4513d8ad2&v=4" width="24" alt="Avatar of whoant"/> whoant
@@ -7208,7 +7195,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>547</td>
+		<td>546</td>
 		<td>
 			<a target="_blank" href="https://github.com/hieuha">
 				<img src="https://avatars.githubusercontent.com/u/9334184?s=72&u=0d2e213283f7a7a0aafcae8d0cb9aaf3a63e544b&v=4" width="24" alt="Avatar of hieuha"/> hieuha
@@ -7221,7 +7208,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>548</td>
+		<td>547</td>
 		<td>
 			<a target="_blank" href="https://github.com/simplesoft-duongdt3">
 				<img src="https://avatars.githubusercontent.com/u/8201309?s=72&u=6b1aca7bb0bfb23a8c10bf8c4aadbf19b1d40b80&v=4" width="24" alt="Avatar of simplesoft-duongdt3"/> simplesoft-duongdt3
@@ -7234,7 +7221,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>16</td>
 	</tr>
 	<tr>
-		<td>549</td>
+		<td>548</td>
 		<td>
 			<a target="_blank" href="https://github.com/nkloi">
 				<img src="https://avatars.githubusercontent.com/u/61707160?s=72&u=5024e1b53d5f0ee53d31d00863864b5c37026835&v=4" width="24" alt="Avatar of nkloi"/> nkloi
@@ -7244,6 +7231,19 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>Bach Khoa University Ho<br/>Chi<br/>Minh<br/>City<br/>University<br/>Of<br/>Technology<br/></td>
 		<td>No Twitter Username</td>
 		<td>Ho Chi Minh City Vietnam</td>
+		<td>16</td>
+	</tr>
+	<tr>
+		<td>549</td>
+		<td>
+			<a target="_blank" href="https://github.com/quangtiencs">
+				<img src="https://avatars.githubusercontent.com/u/25101450?s=72&u=613a4c7816e479e37041ee1ca289287cbab4f79b&v=4" width="24" alt="Avatar of quangtiencs"/> quangtiencs
+			</a><br/>
+			Tien LeQuang
+		</td>
+		<td>Momo Mservice </td>
+		<td>No Twitter Username</td>
+		<td>Ho Chi Minh city Viet Nam</td>
 		<td>16</td>
 	</tr>
 	<tr>
@@ -8614,19 +8614,6 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 	<tr>
 		<td>655</td>
 		<td>
-			<a target="_blank" href="https://github.com/nguyen1606">
-				<img src="https://avatars.githubusercontent.com/u/188293763?s=72&v=4" width="24" alt="Avatar of nguyen1606"/> nguyen1606
-			</a><br/>
-			NguyenBangQua
-		</td>
-		<td>Hust </td>
-		<td>No Twitter Username</td>
-		<td>Vietnam</td>
-		<td>6</td>
-	</tr>
-	<tr>
-		<td>656</td>
-		<td>
 			<a target="_blank" href="https://github.com/namdaoduy">
 				<img src="https://avatars.githubusercontent.com/u/20658926?s=72&u=8d43ade779203b1f723505da9e2fae55ff2945ae&v=4" width="24" alt="Avatar of namdaoduy"/> namdaoduy
 			</a><br/>
@@ -8638,7 +8625,7 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>6</td>
 	</tr>
 	<tr>
-		<td>657</td>
+		<td>656</td>
 		<td>
 			<a target="_blank" href="https://github.com/letrunghieu">
 				<img src="https://avatars.githubusercontent.com/u/1145335?s=72&u=9accb091d24e8246cde90d0d631808119e165466&v=4" width="24" alt="Avatar of letrunghieu"/> letrunghieu
@@ -8646,6 +8633,19 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 			Hieu Le
 		</td>
 		<td>@propertyguru  </td>
+		<td>No Twitter Username</td>
+		<td>Vietnam</td>
+		<td>6</td>
+	</tr>
+	<tr>
+		<td>657</td>
+		<td>
+			<a target="_blank" href="https://github.com/nguyen1606">
+				<img src="https://avatars.githubusercontent.com/u/188293763?s=72&v=4" width="24" alt="Avatar of nguyen1606"/> nguyen1606
+			</a><br/>
+			NguyenBangQua
+		</td>
+		<td>Hust </td>
 		<td>No Twitter Username</td>
 		<td>Vietnam</td>
 		<td>6</td>
@@ -10057,19 +10057,6 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 	<tr>
 		<td>766</td>
 		<td>
-			<a target="_blank" href="https://github.com/hienvd">
-				<img src="https://avatars.githubusercontent.com/u/6824457?s=72&u=755ae239416d4992ac2978ce448ad38fafd6f217&v=4" width="24" alt="Avatar of hienvd"/> hienvd
-			</a><br/>
-			Hien Vuong
-		</td>
-		<td>Itviec </td>
-		<td>No Twitter Username</td>
-		<td>Ho Chi Minh City Viet Nam</td>
-		<td>1</td>
-	</tr>
-	<tr>
-		<td>767</td>
-		<td>
 			<a target="_blank" href="https://github.com/thangdev">
 				<img src="https://avatars.githubusercontent.com/u/30391934?s=72&u=e33860b1ab1fe24ba486886507cbc355c5ab26ab&v=4" width="24" alt="Avatar of thangdev"/> thangdev
 			</a><br/>
@@ -10078,6 +10065,19 @@ There are `951 users`  in Vietnam. You need at least `35 followers` to be on thi
 		<td>Sotatek </td>
 		<td>No Twitter Username</td>
 		<td>Hanoi</td>
+		<td>1</td>
+	</tr>
+	<tr>
+		<td>767</td>
+		<td>
+			<a target="_blank" href="https://github.com/hienvd">
+				<img src="https://avatars.githubusercontent.com/u/6824457?s=72&u=755ae239416d4992ac2978ce448ad38fafd6f217&v=4" width="24" alt="Avatar of hienvd"/> hienvd
+			</a><br/>
+			Hien Vuong
+		</td>
+		<td>Itviec </td>
+		<td>No Twitter Username</td>
+		<td>Ho Chi Minh City Viet Nam</td>
 		<td>1</td>
 	</tr>
 	<tr>
