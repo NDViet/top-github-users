@@ -122,7 +122,7 @@ const config = {
               },
               {
                 label: 'GitHub',
-                href: 'hhttps://github.com/ePlus-DEV/news',
+                href: 'https://github.com/ePlus-DEV/news',
               },
             ],
           },
