@@ -10,7 +10,7 @@ description: Top GitHub Users By Followers in Ukraine
 	<img align="right" width="200" src="https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg" alt="Ukraine"/>
 </a>
 
-The `number of followers` of users in Ukraine on `2025/2/10 5:11 PM UTC`. This list contains users from Ukraine and cities Kyiv Lviv Kharkiv Odesa.
+The `number of followers` of users in Ukraine on `2025/2/10 5:44 PM UTC`. This list contains users from Ukraine and cities Kyiv Lviv Kharkiv Odesa.
 
 There are `19 countries` and `130 cities` can be found [here](https://github.com/ePlus-DEV/top-github-users).
 
@@ -211,7 +211,7 @@ There are `968 users`  in Ukraine. You need at least `50 followers` to be on thi
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/Tyrrrz">Tyrrrz</a></td>
 		<td>Kyiv Ukraine</td>
-		<td>2476</td>
+		<td>2477</td>
 	</tr>
 	<tr>
 		<td>9</td>
@@ -354,7 +354,7 @@ There are `968 users`  in Ukraine. You need at least `50 followers` to be on thi
 		<td>@ansible Core Engineering Team<br/>@<br/>@redhatofficial<br/></td>
 		<td>No Twitter Username</td>
 		<td>Mikulov CZ  Brno CZ  BrovaryKyiv UA</td>
-		<td>926</td>
+		<td>927</td>
 	</tr>
 	<tr>
 		<td>20</td>
@@ -614,7 +614,7 @@ There are `968 users`  in Ukraine. You need at least `50 followers` to be on thi
 		<td>No Company</td>
 		<td><a target="_blank" href="https://twitter.com/golotyuk">golotyuk</a></td>
 		<td>Kyiv Ukraine</td>
-		<td>623</td>
+		<td>624</td>
 	</tr>
 	<tr>
 		<td>40</td>
@@ -2278,7 +2278,7 @@ There are `968 users`  in Ukraine. You need at least `50 followers` to be on thi
 		<td>No Company</td>
 		<td>No Twitter Username</td>
 		<td>Ukraine</td>
-		<td>209</td>
+		<td>210</td>
 	</tr>
 	<tr>
 		<td>168</td>
@@ -5286,19 +5286,6 @@ There are `968 users`  in Ukraine. You need at least `50 followers` to be on thi
 	<tr>
 		<td>399</td>
 		<td>
-			<a target="_blank" href="https://github.com/Programistich">
-				<img src="https://avatars.githubusercontent.com/u/35292229?s=72&u=bd1ed072d06357ab4fb7b4457c58702649fa795a&v=4" width="24" alt="Avatar of Programistich"/> Programistich
-			</a><br/>
-			Dzhos Oleksii
-		</td>
-		<td>No Company</td>
-		<td><a target="_blank" href="https://twitter.com/program1st1ch">program1st1ch</a></td>
-		<td>Kyiv</td>
-		<td>103</td>
-	</tr>
-	<tr>
-		<td>400</td>
-		<td>
 			<a target="_blank" href="https://github.com/slowli">
 				<img src="https://avatars.githubusercontent.com/u/9612896?s=72&u=5f791a0dc768e18da7b05647bdfb5d3642109d59&v=4" width="24" alt="Avatar of slowli"/> slowli
 			</a><br/>
@@ -5310,7 +5297,7 @@ There are `968 users`  in Ukraine. You need at least `50 followers` to be on thi
 		<td>102</td>
 	</tr>
 	<tr>
-		<td>401</td>
+		<td>400</td>
 		<td>
 			<a target="_blank" href="https://github.com/neon-sunset">
 				<img src="https://avatars.githubusercontent.com/u/20912188?s=72&u=06dbbb65a219662139dbbc881c4b1627923b8aaa&v=4" width="24" alt="Avatar of neon-sunset"/> neon-sunset
@@ -5320,6 +5307,19 @@ There are `968 users`  in Ukraine. You need at least `50 followers` to be on thi
 		<td>Bunnynet </td>
 		<td>No Twitter Username</td>
 		<td>Kyiv Ukraine</td>
+		<td>102</td>
+	</tr>
+	<tr>
+		<td>401</td>
+		<td>
+			<a target="_blank" href="https://github.com/Programistich">
+				<img src="https://avatars.githubusercontent.com/u/35292229?s=72&u=bd1ed072d06357ab4fb7b4457c58702649fa795a&v=4" width="24" alt="Avatar of Programistich"/> Programistich
+			</a><br/>
+			Dzhos Oleksii
+		</td>
+		<td>No Company</td>
+		<td><a target="_blank" href="https://twitter.com/program1st1ch">program1st1ch</a></td>
+		<td>Kyiv</td>
 		<td>102</td>
 	</tr>
 	<tr>
