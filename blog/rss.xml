@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>ePlus Top GitHub Users Blog</title>
+        <link>https://top-github-users.eplus.dev/blog</link>
+        <description>ePlus Top GitHub Users Blog</description>
+        <lastBuildDate>Wed, 31 Jan 2024 14:49:41 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Markdown blog truncation example]]></title>
+            <link>https://top-github-users.eplus.dev/blog/index</link>
+            <guid>https://top-github-users.eplus.dev/blog/index</guid>
+            <pubDate>Wed, 31 Jan 2024 14:49:41 GMT</pubDate>
+            <description><![CDATA[All these will be part of the blog post summary.]]></description>
+            <content:encoded><![CDATA[<p>All these will be part of the blog post summary.</p>
+<p>But anything from here on down will not be</p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>

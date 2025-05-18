@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://top-github-users.eplus.dev/blog</id>
+    <title>ePlus Top GitHub Users Blog</title>
+    <updated>2024-01-31T14:49:41.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://top-github-users.eplus.dev/blog"/>
+    <subtitle>ePlus Top GitHub Users Blog</subtitle>
+    <icon>https://top-github-users.eplus.dev/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Markdown blog truncation example]]></title>
+        <id>https://top-github-users.eplus.dev/blog/index</id>
+        <link href="https://top-github-users.eplus.dev/blog/index"/>
+        <updated>2024-01-31T14:49:41.000Z</updated>
+        <summary type="html"><![CDATA[All these will be part of the blog post summary.]]></summary>
+        <content type="html"><![CDATA[<p>All these will be part of the blog post summary.</p>
+<p>But anything from here on down will not be</p>]]></content>
+    </entry>
+</feed>
